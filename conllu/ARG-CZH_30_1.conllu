@@ -1,0 +1,205 @@
+# sent_id = ARG-CZH_30_1_01
+# text = 나는 아이들이 언어 교육을 일직 시작하면 좋은 점이 많다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	일직	일직	ADV	NA	Typo=Yes	6	advmod	_	_
+6	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	점이	점+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	많다고	많+다고	ADJ	VA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_30_1_02
+# text = 우리는 어릴 때 우리 첫 언어를 배워서 아직 공부보다는 언어를 자연스럽게 이해할 수 있고 마음도 아직 열어서 새로운 단어와 경험도 쉽게 받습니다.
+1	우리는	우리+는	PRON	NP+JX	_	2	nsubj	_	_
+2	어릴	어리+ㄹ	ADJ	VA+ETM	_	7	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	우리	우리	PRON	NP	_	7	nsubj	_	_
+5	첫	첫	DET	MM	_	6	amod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배워서	배우+어서	VERB	VV+EC	_	14	advcl	_	_
+8	아직	아직	ADV	MAG	_	12	advmod	_	_
+9	공부보다는	공부+보다+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+11	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	12	advmod	_	_
+12	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있고	있+고	VERB	VX+EC	_	0	root	_	_
+15	마음도	마음+도	NOUN	NNG+JX	_	17	obj	_	_
+16	아직	아직	ADV	MAG	_	22	advmod	_	_
+17	열어서	열+어서	VERB	VV+EC	_	22	advcl	_	_
+18	새로운	새롭+ㄴ	ADJ	VA+ETM	_	19	amod	_	_
+19	단어와	단어+와	NOUN	NNG+JC	_	22	obj	_	_
+20	경험도	경험+도	NOUN	NNG+JX	_	19	conj	_	_
+21	쉽게	쉽+게	ADV	VA+EC	_	22	advmod	_	_
+22	받습니다	받+습니다	VERB	VV+EF	_	14	conj	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_30_1_03
+# text = 나의 사톤은 이집트(Egypt) 사람은 결혼했다.
+1	나의	나+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	사톤은	사톤+은	NOUN	NF+JX	Typo=Yes	5	nsubj	_	_
+3	이집트(Egypt)	이집트+(+Egypt+)	NOUN	NNP+SW+SL+SW	_	4	nmod	_	_
+4	사람은	사람+은	NOUN	NNG+JX	_	5	obl	_	_
+5	결혼했다	결혼+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_30_1_04
+# text = 그래서 사촌의 아이들 체코어, 영어, 이집트어를 부모한테서 배우고 있다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	사촌의	사촌+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	아이들	아이+들	NOUN	NNG+XSN	_	10	nsubj	_	_
+4	체코어	체코+어	NOUN	NNP+XSN	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	영어	영어	NOUN	NNP	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	이집트어를	이집트+어+를	NOUN	NNP+XSN+JKO	_	10	obj	_	_
+9	부모한테서	부모+한테서	ADV	NNG+JKB	_	10	obl	_	_
+10	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+11	있다	있	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_30_1_05
+# text = 사촌의 아이들은 이제 학교에 다니고 영어 수업에서 다른 아이들보다 더 잘 한다.
+1	사촌의	사촌+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	12	nsubj	_	_
+3	이제	이제	ADV	MAG	_	5	advmod	_	_
+4	학교에	학교+에	ADV	NNG+JKB	_	5	obl	_	_
+5	다니고	다니+고	VERB	VV+EC	_	12	advcl	_	_
+6	영어	영어	NOUN	NNP	_	7	nmod	_	_
+7	수업에서	수업+에서	ADV	NNG+JKB	_	12	obl	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	아이들보다	아이+들+보다	ADV	NNG+XSN+JKB	_	12	obl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_30_1_06
+# text = 그래도 체코어를 조금 더 공부해야 한다.
+1	그래도	그래도	ADV	MAJ	_	5	cc	_	_
+2	체코어를	체코+어+를	NOUN	NNP+XSN+JKO	_	5	obj	_	_
+3	조금	조금	ADV	MAG	_	4	advmod	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+6	한다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_30_1_07
+# text = 많은 언어를 배워서 문법도 단어도 가끔 핵갈리고 이것은 단점으로 보일 수 있다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워서	배우+어서	VERB	VV+EC	_	7	advcl	_	_
+4	문법도	문법+도	NOUN	NNG+JX	_	7	nsubj	_	_
+5	단어도	단어+도	NOUN	NNG+JX	_	4	conj	_	_
+6	가끔	가끔	ADV	MAG	_	7	advmod	_	_
+7	핵갈리고	핵갈리+고	VERB	NV+EC	Typo=Yes	12	advcl	_	_
+8	이것은	이것+은	PRON	NP+JX	_	10	nsubj	_	_
+9	단점으로	단점+으로	ADV	NNG+JKB	_	10	obl	_	_
+10	보일	보이+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_30_1_08
+# text = 우리 사촌 경우는 자연스럽지만 어린 아이들이 놀기 대신에 공부해야 하면 자신의 취미를 알게 될 수 없을 것 같고 힘들 것 같다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	사촌	사촌	NOUN	NNG	_	3	nmod	_	_
+3	경우는	경우+는	NOUN	NNG+JX	_	4	obl	_	_
+4	자연스럽지만	자연+스럽+지만	ADJ	NNG+XSA+EC	_	21	advcl	_	_
+5	어린	어리+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	놀기	놀+기	VERB	VV+ETN	_	9	obl	_	_
+8	대신에	대신+에	ADV	NNG+JKB	_	7	case	_	_
+9	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	18	advcl	_	_
+10	하면	하	AUX	VX+EC	_	9	aux	_	_
+11	자신의	자신+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	취미를	취미+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	알게	알+게	VERB	VV+EC	_	15	acl	_	_
+14	될	되+ㄹ	VERB	VX+ETM	_	13	advcl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	없을	없+을	ADJ	VA+ETM	_	17	acl	_	_
+17	것	것	NOUN	NNB	_	19	nsubj	_	_
+18	같고	같+고	ADJ	VA+EC	_	0	root	_	_
+19	힘들	힘들+ㄹ	ADJ	VA+ETM	_	20	amod	_	_
+20	것	것	NOUN	NNB	_	21	nsubj	_	_
+21	같다	같+다	ADJ	VA+EF	_	18	conj	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_30_1_09
+# text = 내 생각에는 아이들은 많은 취미와 핸동을 해보면 제일 좋다.
+1	내	나+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+3	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	취미와	취미+와	NOUN	NNG+JC	_	7	obj	_	_
+6	핸동을	핸동+을	NOUN	NF+JKO	Typo=Yes	5	conj	_	_
+7	해보면	하+아+보+면	VERB	VV+EC+VX+EC	_	9	advcl	_	_
+8	제일	제일	ADV	MAG	_	9	advmod	_	_
+9	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_30_1_10
+# text = 사실은 언어를 잘 하는 사람은 예를들어 수학이나 과학, 운동을 잘 못 하면 언어 공부에 집중하면 좋고 수학을 잘 하는 사람들이 수학 분야에 집중하면 좋다.
+1	사실은	사실+은	NOUN	NNG+JX	_	25	obl	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람은	사람+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	예를들어	예+를+들+어	VERB	NNG+JKO+VV+EC	_	12	advcl	_	_
+7	수학이나	수학+이나	NOUN	NNG+JC	_	10	list	_	_
+8	과학	과학	NOUN	NNG	_	7	conj	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	7	punct	_	_
+10	운동을	운동+을	NOUN	NNG+JKO	_	13	obj	_	_
+11	잘	잘	ADV	MAG	_	13	advmod	_	_
+12	못	못	ADV	MAG	_	13	advmod	_	_
+13	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+14	언어	언어	NOUN	NNG	_	15	nmod	_	_
+15	공부에	공부+에	ADV	NNG+JKB	_	16	obl	_	_
+16	집중하면	집중+하+면	VERB	NNG+XSV+EC	_	17	advcl	_	_
+17	좋고	좋+고	ADJ	VA+EC	_	0	root	_	_
+18	수학을	수학+을	NOUN	NNG+JKO	_	20	obj	_	_
+19	잘	잘	ADV	MAG	_	20	advmod	_	_
+20	하는	하+는	VERB	VV+ETM	_	21	acl	_	_
+21	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	24	nsubj	_	_
+22	수학	수학	NOUN	NNG	_	23	nmod	_	_
+23	분야에	분야+에	ADV	NNG+JKB	_	24	obl	_	_
+24	집중하면	집중+하+면	VERB	NNG+XSV+EC	_	25	advcl	_	_
+25	좋다	좋+다	ADJ	VA+EF	_	17	conj	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_30_1_11
+# text = 결국에 사람들이 다르니까 자신의 최향의 맞는 분야를 찾으면 제일 좋은 방법인 것 같다.
+1	결국에	결국+에	ADV	NNG+JKB	_	3	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	다르니까	다르+니까	ADJ	VA+EC	_	8	advcl	_	_
+4	자신의	자신+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	최향의	최향+의	NOUN	NF+JKG	Typo=Yes	7	nmod:poss	_	_
+6	맞는	맞+는	VERB	VV+ETM	_	7	amod	_	_
+7	분야를	분야+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	찾으면	찾+으면	VERB	VV+EC	_	13	advcl	_	_
+9	제일	제일	ADV	MAG	_	10	advmod	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	11	amod	_	_
+11	방법인	방법+이+ㄴ	ADJ	NNG+VCP+ETM	_	12	acl	_	_
+12	것	것	NOUN	NNB	_	13	nsubj	_	_
+13	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_30_1_12
+# text = 흥미가 있으면 노력하고 싶고 다른 사람보다는 더 잘 할 수 있다고 생각한다.
+1	흥미가	흥미+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	3	advcl	_	_
+3	노력하고	노력+하+고	VERB	NNG+XSV+EC	_	11	advcl	_	_
+4	싶고	싶	AUX	VX+EC	_	3	aux	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람보다는	사람+보다+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

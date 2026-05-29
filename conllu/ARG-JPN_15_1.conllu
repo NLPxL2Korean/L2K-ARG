@@ -1,0 +1,84 @@
+# sent_id = ARG-JPN_15_1_01
+# text =  최근에는 너무 어릴때부터 영어 교육을 하는게 좋다는 의견이 있다.
+1	최근에는	최근+에+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+2	너무	너무	ADV	MAG	_	3	advmod	_	_
+3	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	6	advcl	_	_
+4	영어	영어	NOUN	NNG	_	5	nmod	_	_
+5	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	하는게	하+는+것+이	VERB	VV+ETM+NNB+JKS	_	7	nsubj	_	_
+7	좋다는	좋+다는	VERB	VA+ETM	_	8	acl	_	_
+8	의견이	의견+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_15_1_02
+# text =  일본 학교에서도 초등학교 3학년부터 영어 수업을 시작하기 됐다.
+1	일본	일본	NOUN	NNP	_	2	nmod	_	_
+2	학교에서도	학교+에서+도	ADV	NNG+JKB+JX	_	7	obl	_	_
+3	초등학교	초등학교	NOUN	NNG	_	4	nmod	_	_
+4	3학년부터	3+학년+부터	ADV	SN+NNB+JX	_	7	obl	_	_
+5	영어	영어	NOUN	NNG	_	6	nmod	_	_
+6	수업을	수업+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	시작하기	시작+하+기	NOUN	NNG+XSV+NA	_	0	root	_	_
+8	됐다	되+었+다	VERB	VX+EP+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_15_1_03
+# text =  그 환경에는 이점도 많지만 일본어에 대한 깊은 이해가 잃어지는 점도 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	환경에는	환경+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	이점도	이점+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	많지만	많+지만	VERB	VA+EC	_	11	advcl	_	_
+5	일본어에	일본어+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+7	깊은	깊+은	ADJ	VA+ETM	_	8	amod	_	_
+8	이해가	이해+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	잃어지는	잃+어지+는	VERB	VV+XSV+ETM	_	10	acl	_	_
+10	점도	점+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_15_1_04-1
+# text =  장점은 해외이해가 된다.
+1	장점은	장점+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	해외이해가	해외+이해+가	NOUN	NNG+NNG+JKC	_	3	nsubj	_	_
+3	된다	되+ㄴ다	VERB	VV+EC	_	0	root	_	_
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_15_1_04-2
+# text =  언어따라 다양한 생각을 하는 사람들이 있다는 것이 스스로 느낄 수있다.
+1	언어따라	언어따+라	VERB	NNG+VV+EC	_	6	advcl	_	_
+2	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	생각을	생각+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	있다는	있+다는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+8	스스로	스스로	ADV	MAG	_	9	advmod	_	_
+9	느낄	느끼+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수있다	수+있+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_15_1_05-1
+# text =  단점은 원래 자신이 말하는 언어이외를 어릴때부터 공부하면 둘 다 미완성이된다.
+1	단점은	단점+은	NOUN	NNG+JX	_	10	nsubj	_	_
+2	원래	원래	ADV	NNG	_	4	advmod	_	_
+3	자신이	자신+이	PRON	NNG+JKS	_	4	nsubj	_	_
+4	말하는	말+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	언어이외를	언어+이외+를	NOUN	NNG+NNG+JKO	_	7	obj	_	_
+6	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	7	obl	_	_
+7	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	둘	둘	NOUN	NNG	_	10	nsubj	_	_
+9	다	다	ADV	MAG	_	10	advmod	_	_
+10	미완성이된다	미완성+이+되+ㄴ다	VERB	NNG+JKC+VV+EF	_	0	root	_	_
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_15_1_05-2
+# text =  조기언어교육은 장단점을 이해해서 잘 운연해야 한다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	obj	_	_
+2	장단점을	장단점+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	이해해서	이해+하+아서	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	운연해야	운연+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+6	한다	하+ㄴ다	AUX	VX+EF	_	5	aux	_	_
+7	.	.	PUNCT	SF	_	5	punct	_	_

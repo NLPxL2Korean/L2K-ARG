@@ -1,0 +1,186 @@
+# sent_id = ARG-HENG_17_3_01
+# text = 사실 저는 경쟁과 협동은 둘다 사회에 필요하다 생각해요.
+1	사실	사실	ADV	MAG	_	8	advmod	_	_
+2	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+3	경쟁과	경쟁+과	NOUN	NNG+JC	_	7	nsubj	_	_
+4	협동은	협동+은	NOUN	NNP+JX	_	3	conj	_	_
+5	둘다	둘+다	VERB	NR+MAG	_	7	advmod	_	_
+6	사회에	사회+에	ADV	NNG+JKB	_	7	obl	_	_
+7	필요하다	필요+하+다	VERB	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_17_3_02
+# text = 경쟁없이는 많은 회사들의 경쟁이 없고, 성과금도 없으니 모든 직원들은 일을 열심히 하지 않고, 결국 사회 계층이동과 신분상승의 기회가 없을테니깐요.
+1	경쟁없이는	경쟁+없이+는	ADV	NNG+MAG+JX	_	5	advcl	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	회사들의	회사+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없고	없+고	VERB	VA+EC	_	8	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	성과금도	성과금+도	NOUN	NNG+JX	_	8	nsubj	_	_
+8	없으니	없+으니	VERB	VA+EC	_	13	advcl	_	_
+9	모든	모든	DET	MM	_	10	det	_	_
+10	직원들은	직원+들+은	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+11	일을	일+을	NOUN	NNG+JKO	_	13	obj	_	_
+12	열심히	열심히	ADV	MAG	_	13	advmod	_	_
+13	하지	하+지	VERB	VV+EC	_	21	advcl	_	_
+14	않고	않+고	AUX	VX+EC	_	13	aux	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	13	punct	_	_
+16	결국	결국	ADV	MAG	_	21	advmod	_	_
+17	사회	사회	NOUN	NNG	_	18	nmod	_	_
+18	계층이동과	계층+이동+과	NOUN	NNG+NNG+JC	_	20	nmod:poss	_	_
+19	신분상승의	신분+상승+의	NOUN	SN+NNG+JKG	_	18	conj	_	_
+20	기회가	기회+가	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	없을테니깐요	없+을+터+이+니까+ㄴ+요	VERB	VA+ETM+NNB+VCP+EC+JX+JX	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-HENG_17_3_03
+# text = 하지만 제가 선호하는 방식은 협동에 가까워요.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+3	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	방식은	방식+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	협동에	협동+에	ADV	NNP+JKB	_	6	obl	_	_
+6	가까워요	가깝+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_17_3_04
+# text = 협동하며 얻는것들이 훨씬 많은것 같애요.
+1	협동하며	협동+하+며	VERB	NNG+XSV+EC	_	2	advcl	_	_
+2	얻는것들이	얻+는+것+들+이	NOUN	VV+ETM+NNB+XSN+JKS	_	4	nsubj	_	_
+3	훨씬	훨씬	ADV	MAG	_	4	advmod	_	_
+4	많은것	많+은+것	VERB	VA+ETM+NNB	_	5	nsubj	_	_
+5	같애요	같+애요	ADJ	VA+NA	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_17_3_05
+# text = 같은 목적을 향해 토론하고, 반박하고, 치켜세워주는 상호작용이 더 나은 결과를 결국 만들어 낼거에요.
+1	같은	같+은	ADJ	VA+ETM	_	4	amod	_	_
+2	목적을	목적+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	향해	향하+여	VERB	VV+EC	_	8	advcl	_	_
+4	토론하고	토론+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	반박하고	반박+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	치켜세워주는	치켜세우+어+주+는	VERB	VV+EC+VX+EC	_	9	acl	_	_
+9	상호작용이	상호+작용+이	NOUN	NNG+NNG+JKS	_	14	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	나은	낫+은	ADJ	VA+ETM	_	12	amod	_	_
+12	결과를	결과+를	NOUN	NNG+JKO	_	14	obj	_	_
+13	결국	결국	ADV	MAG	_	14	advmod	_	_
+14	만들어	만들+어	VERB	VV+EC	_	15	acl	_	_
+15	낼거에요	내+ㄹ+거+에요	VERB	VX+ETM+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_17_3_06
+# text = 다른 사람들과 일을 하면 더 효율적이게 시간을 나누어 쓸 수 있어요.
+1	다른	다른	ADJ	MM	_	3	amod	_	_
+2	사람들과	사람+들+과	NOUN	NNG+XSN+JC	_	4	obj	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	2	conj	_	_
+4	하면	하+면	VERB	VV+EC	_	11	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	효율적이게	효율+적+이+게	NOUN	NNG+XSN+VCP+EC	_	8	advmod	_	_
+7	시간을	시간+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	나누어	나누+어	VERB	VV+EC	_	9	advcl	_	_
+9	쓸	쓰+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_17_3_07
+# text = 예를 들면 학교에서 조별과제를 할땐 한 학생이 자료조사를, 다른 학생이 PPT 만들기를, 마지막 학생이 발표를 할 수있어서 일을 전담하며 할 수도 있고, 같이 의견을 나누어서 다른 학생의 작업물을 리뷰하여 고칠 수도 있어요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	35	advcl	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	조별과제를	조별+과제+를	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	할땐	하+ㄹ+때+ㄴ	VERB	VV+ETM+NNG+JX	_	19	advcl	_	_
+6	한	한	NUM	MM	_	7	det	_	_
+7	학생이	학생+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+8	자료조사를	자료+조사+를	NOUN	NNG+NNG+JKO	_	17	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	다른	다른	ADJ	MM	_	11	amod	_	_
+11	학생이	학생+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+12	PPT	PPT	NOUN	NNG	_	13	nmod	_	_
+13	만들기를	만들+기+를	NOUN	VV+ETN+JKO	_	18	obj	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	마지막	마지막	NOUN	NNG	_	18	obl	_	_
+16	학생이	학생+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+17	발표를	발표+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	할	하+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수있어서	수+있+어서	VERB	NNB+VX+EC	_	24	advcl	_	_
+20	일을	일+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	전담하며	전담+하+며	VERB	NNG+XSV+EC	_	22	advcl	_	_
+22	할	하+ㄹ	VERB	VV+ETM	_	23	acl	_	_
+23	수도	수+도	NOUN	NNB+JX	_	24	nsubj	_	_
+24	있고	있+고	VERB	VX+EC	_	35	advcl	_	SpaceAfter=No
+25	,	,	PUNCT	SP	_	24	punct	_	_
+26	같이	같이	ADV	MAG	_	28	advmod	_	_
+27	의견을	의견+을	NOUN	NNG+JKO	_	28	obj	_	_
+28	나누어서	나누+어서	VERB	VV+EC	_	35	advcl	_	_
+29	다른	다른	ADJ	VA+ETM	_	30	amod	_	_
+30	학생의	학생+의	NOUN	NNG+JKG	_	31	nmod:poss	_	_
+31	작업물을	작업물+을	NOUN	NNG+JKO	_	32	obj	_	_
+32	리뷰하여	리뷰+하+여	VERB	NNG+XSV+EC	_	33	advcl	_	_
+33	고칠	고치+ㄹ	VERB	VV+ETM	_	34	acl	_	_
+34	수도	수+도	NOUN	NNB+JX	_	35	nsubj	_	_
+35	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+36	.	.	PUNCT	SF	_	35	punct	_	_
+
+# sent_id = ARG-HENG_17_3_08
+# text = 이런 협동심을 기르면 자연스레 사회에 더 공헌하고, 상대적 약자들도 도와주고 싶은 마음도 들 것 같애요.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	협동심을	협동+심+을	NOUN	NNG+XSN+JKO	_	3	obj	_	_
+3	기르면	기르+면	VERB	VV+EC	_	16	advcl	_	_
+4	자연스레	자연+스레	NOUN	NNG+NA	_	7	advmod	_	_
+5	사회에	사회+에	ADV	NNG+JKB	_	7	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	공헌하고	공헌+하+고	VERB	NNG+XSV+EC	_	16	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	상대적	상대+적	ADJ	NNG+XSN	_	10	amod	_	_
+10	약자들도	약자+들+도	NOUN	NNG+XSN+JX	_	11	obj	_	_
+11	도와주고	도와주+고	VERB	VV+EC	_	13	acl	_	_
+12	싶은	싶+은	AUX	VX+ETM	_	11	aux	_	_
+13	마음도	마음+도	NOUN	NNG+JX	_	14	nsubj	_	_
+14	들	들+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같애요	같+애요	ADJ	VA+NA	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_17_3_09
+# text = 세상은 무조건 다른 사람들과 공생하며 살아가야되니 협동하는 일들이 많아져서, 어린이와 학생들도 같이 살아가는 즐거움을 느꼈으면 좋겠어요.
+1	세상은	세상+은	NOUN	NNG+JX	_	6	obl	_	_
+2	무조건	무조건	ADV	MAG	_	5	advmod	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	공생하며	공생+하+며	VERB	NNG+XSV+EC	_	6	advcl	_	_
+6	살아가야되니	살+아+가+야+되+니	NOUN	VV+EC+VX+EC+VX+EC	_	9	advcl	_	_
+7	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	일들이	일+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	많아져서	많+아지+어서	VERB	VA+XSV+EC	_	17	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	어린이와	어린이+와	NOUN	NNG+JC	_	14	nsubj	_	_
+12	학생들도	학생+들+도	NOUN	NNG+XSN+JX	_	11	conj	_	_
+13	같이	같이	ADV	MAG	_	14	advmod	_	_
+14	살아가는	살+아+가+는	VERB	VV+EC+VX+ETM	_	15	acl	_	_
+15	즐거움을	즐겁+ㅁ+을	NOUN	VA+ETN+JKO	_	16	obj	_	_
+16	느꼈으면	느끼+었+으면	VERB	VV+EP+EC	_	17	advcl	_	_
+17	좋겠어요	좋+겠+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_17_3_10
+# text = 특히 한국은 입시 경쟁과 취업경쟁이 치열하니 다른곳에선 협동을 요구하는 과제들이 필요할 거 같애요.
+1	특히	특히	ADV	MAG	_	13	advmod	_	_
+2	한국은	한국+은	NOUN	NNP+JX	_	6	dislocated	_	_
+3	입시	입시	NOUN	NNG	_	4	nmod	_	_
+4	경쟁과	경쟁+과	NOUN	NNG+JC	_	6	nsubj	_	_
+5	취업경쟁이	취업+경쟁+이	NOUN	NNG+NNG+JKS	_	4	conj	_	_
+6	치열하니	치열+하+니	VERB	NNG+XSA+EC	_	13	advcl	_	_
+7	다른곳에선	다른+곳+에서+ㄴ	ADV	MM+NNG+JKB+JX	_	11	obl	_	_
+8	협동을	협동+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	요구하는	요구+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	과제들이	과제+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	필요할	필요+하+ㄹ	VERB	NNG+XSA+ETM	_	12	acl	_	_
+12	거	거	NOUN	NNB	_	13	nsubj	_	_
+13	같애요	같+애요	ADJ	VA+NA	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

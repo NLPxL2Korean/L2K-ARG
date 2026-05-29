@@ -1,0 +1,260 @@
+# sent_id = ARG-HENG_06_3_01
+# text = 협동과 경쟁 둘중에는 경쟁을더 선호합니다.
+1	협동과	협동+과	NOUN	NF+JC	_	3	nmod	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	둘중에는	둘+중+에+는	ADP	NR+NNB+JKB+JX	_	5	obl	_	_
+4	경쟁을더	경쟁+을+더	NOUN	NNG+JKO+MAG	_	5	obj	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_06_3_01
+# text = 협동과 경쟁 중에서 협동을 더 선호한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중에서	중+에서	ADP	NNB+JKB	_	2	case	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_06_3_02
+# text = 경쟁을 좋아해서가 아니라, 경쟁이 있어야 사회가 커지고 발달이 되서 그렇게 생각합니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	좋아해서가	좋아하+아서+가	NOUN	VV+EC+JKS	_	3	csubj	_	_
+3	아니라	아니+라	VERB	VCN+EC	_	12	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	경쟁이	경쟁+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있어야	있+어야	VERB	VV+EC	_	10	advcl	_	_
+7	사회가	사회+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	커지고	커지+고	VERB	VV+EC	_	10	advcl	_	_
+9	발달이	발달+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	되서	되+서	VERB	VV+EC	_	12	advcl	_	_
+11	그렇게	그렇+게	ADV	VA+EC	_	12	advmod	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_06_3_02
+# text = 그 이유는 많은 상황에서는 협동을 해야돼는 사황이 더 많다는 점이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	10	nsubj	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	상황에서는	상황+에서+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	해야돼는	하+아야+돼+는	VERB	VV+EC+NA+ETM	_	7	acl	_	_
+7	사황이	사황+이	NOUN	NF+JKS	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	많다는	많+다는	VERB	VA+ETM	_	10	acl	_	_
+10	점이다	점+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_06_3_03
+# text = 한국인 나라도 경쟁이 높아서 새게적으로 한국이 ~50년 시간않에 바달이 높다고 생각합니다.
+1	한국인	한국인	NOUN	NNG	_	2	nmod	_	_
+2	나라도	나라+도	NOUN	NNG+JX	_	4	dislocated	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	높아서	높+아서	VERB	VA+EC	_	10	advcl	_	_
+5	새게적으로	새게+적+으로	ADV	NF+XSN+JKB	_	10	obl	_	_
+6	한국이	한국+이	NOUN	NNP+JKS	_	10	dislocated	_	_
+7	~50년	~+50+년	NOUN	SO+SN+NNB	_	8	nmod	_	_
+8	시간않에	시간+않+에	ADV	NNG+NA+JKB	_	10	obl	_	_
+9	바달이	바달+이	NOUN	NF+JKS	_	10	nsubj	_	_
+10	높다고	높+다고	VERB	VA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_06_3_03
+# text = 우ㅐㄴ만한 단체 생활에서는, 협동이 필요하다.
+1	우ㅐㄴ만한	우ㅐㄴ만하+ㄴ	NOUN	NA+ETM	_	3	amod	_	_
+2	단체	단체	NOUN	NNG	_	3	nmod	_	_
+3	생활에서는	생활+에서+는	ADV	NNG+JKB+JX	_	6	obl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_06_3_04
+# text = 경쟁이 많이 없는 곳에는 생활이 느려지고, 많은 사람들은 성공에 목표가 없을것 같습나다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	많이	많이	ADV	MAG	_	3	advmod	_	_
+3	없는	없+는	VERB	VA+ETM	_	4	acl	_	_
+4	곳에는	곳+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+5	생활이	생활+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	느려지고	느리+어지+고	VERB	VA+XSV+EC	_	13	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	12	dislocated	_	_
+10	성공에	성공+에	ADV	NNG+JKB	_	12	obl	_	_
+11	목표가	목표+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	없을것	없+을+것	VERB	VA+ETM+NNB	_	13	nsubj	_	_
+13	같습나다	같+습나다	VERB	VA+NA	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_06_3_04
+# text = 예를 들면, 아무래도 다른 사람들이 경쟁 상대여도, 회사 생활에서는 회사 사람들과 일을 같이 해야되는 상황이 많다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	18	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	아무래도	아무래도	ADV	MAG	_	8	advmod	_	_
+5	다른	다른	ADJ	MM	_	6	amod	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+7	경쟁	경쟁	NOUN	NNG	_	8	nmod	_	_
+8	상대여도	상대+이+어도	NOUN	NNG+VCP+EC	_	18	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	회사	회사	NOUN	NNG	_	11	nmod	_	_
+11	생활에서는	생활+에서+는	ADV	NNG+JKB+JX	_	18	obl	_	_
+12	회사	회사	NOUN	NNG	_	13	nmod	_	_
+13	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	16	obl	_	_
+14	일을	일+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	같이	같이	ADV	MAG	_	16	advmod	_	_
+16	해야되는	하+아야+되+는	VERB	VV+EC+VX+ETM	_	17	acl	_	_
+17	상황이	상황+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_06_3_05
+# text = 협동이 있어도, 성공하고싶은 마음이 없으면, 멀리 갈수가 없는것 같습니다.
+1	협동이	협동+이	NOUN	NNP+JKS	_	2	nsubj	_	_
+2	있어도	있+어도	VERB	VV+EC	_	6	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	성공하고싶은	성공+하+고+싶+은	VERB	NNG+XSV+EC+VX+ETM	_	5	acl	_	_
+5	마음이	마음+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없으면	없+으면	VERB	VA+EC	_	11	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	멀리	멀리	NOUN	MAG	_	9	advmod	_	_
+9	갈수가	가+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	10	nsubj	_	_
+10	없는것	없+는+것	VERB	VX+ETM+NNB	_	11	nsubj	_	_
+11	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_06_3_05
+# text = 그리고 한 가장에서도 협동이 필요하다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	한	한	NUM	MM	_	3	det	_	_
+3	가장에서도	가장+에서+도	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_06_3_06
+# text = 경쟁이 있어야 성공하고 싶은 마음도 생기고, 먼가에 더 열심히 배우고싶은 열정이 생길꺼라고 생각합니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있어야	있+어야	VERB	VV+EC	_	6	advcl	_	_
+3	성공하고	성공+하+고	VERB	NNG+XSV+EC	_	5	acl	_	_
+4	싶은	싶+은	AUX	VX+ETM	_	3	aux	_	_
+5	마음도	마음+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	생기고	생기+고	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	먼가에	머+ㄴ가+에	ADV	NF+EC+JKB	_	11	obl	_	_
+9	더	더	ADV	MAG	_	11	advmod	_	_
+10	열심히	열심히	ADV	MAG	_	11	advmod	_	_
+11	배우고싶은	배우+고+싶+은	VERB	VV+EC+VX+ETM	_	12	acl	_	_
+12	열정이	열정+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	생길꺼라고	생기+ㄹ+꺼+이+라고	VERB	VV+ETM+NF+VCP+EC	_	14	ccomp	_	_
+14	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_06_3_06
+# text = 서로를 이해하고, 화가나도 참아야 하는 상황이 많다.
+1	서로를	서로+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	화가나도	화+가+나+도	NOUN	NNG+JKS+VV+EC	_	5	advcl	_	_
+5	참아야	참+아야	VERB	VV+EC	_	7	acl	_	_
+6	하는	하+는	AUX	VX+ETM	_	5	aux	_	_
+7	상황이	상황+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_06_3_07
+# text = 경쟁없이 인생을 살게되면 노력도 없을꺼고 삶의 목표도 없어질수도 있다고 생각합니다.
+1	경쟁없이	경쟁+없이	NOUN	NNG+MAG	_	3	advcl	_	_
+2	인생을	인생+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	살게되면	살+게+되+면	VERB	VV+EC+VX+EC	_	9	advcl	_	_
+4	노력도	노력+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	없을꺼고	없+을+꺼+이+고	VERB	VA+ETM+NF+VCP+EC	_	9	advcl	_	_
+6	삶의	삶+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	목표도	목표+도	NOUN	NF+JX	_	8	nsubj	_	_
+8	없어질수도	없+어지+ㄹ+수+도	NOUN	VA+XSV+ETM+NNB+JX	_	9	nsubj	_	_
+9	있다고	있+다고	VERB	VX+EC	_	10	ccomp	_	_
+10	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_06_3_07
+# text = 가족과 계속 경쟁하듯이 싸우고 미워하게 되면, 사이가 틀어지게 된다.
+1	가족과	가족+과	ADV	NNG+JKB	_	4	obl	_	_
+2	계속	계속	ADV	MAG	_	4	advmod	_	_
+3	경쟁하듯이	경쟁+하+듯이	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	싸우고	싸우+고	VERB	VV+EC	_	5	advcl	_	_
+5	미워하게	미워하+게	ADV	VV+EC	_	9	advcl	_	_
+6	되면	되+면	VERB	VX+EC	_	5	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	4	punct	_	_
+8	사이가	사이+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	틀어지게	틀어지+게	VERB	VV+EC	_	0	root	_	_
+10	된다	되+ㄴ다	VERB	VX+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_06_3_08
+# text = 경쟁이 적당히 있어야 사회되 도라갈꺼라 생각합니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	적당히	적당히	ADV	MAG	_	3	advmod	_	_
+3	있어야	있+어야	VERB	VV+EC	_	5	advcl	_	_
+4	사회되	사회+되	VERB	NNG+NA	_	5	nsubj	_	_
+5	도라갈꺼라	도라가+ㄹ+꺼+이+라	VERB	NV+ETM+NF+VCP+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_06_3_08
+# text = 또, 스포츠에서도 역시 협동을더 중요시한다.
+1	또	또	ADV	MAG	_	6	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	6	punct	_	_
+3	스포츠에서도	스포츠+에서+도	ADV	NNG+JKB+JX	_	6	obl	_	_
+4	역시	역시	ADV	MAG	_	6	advmod	_	_
+5	협동을더	협동+을+더	NOUN	NNG+JKO+MAG	_	6	obj	_	_
+6	중요시한다	중요+시+하+ㄴ다	ADJ	NNG+XSN+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_06_3_09
+# text = 경쟁과 상대팀을 이기는 것 보다는 팀원들과 같이 고생하고 일하는게 더 뜻깊으다.
+1	경쟁과	경쟁+과	NOUN	NNG+JC	_	11	obl	_	_
+2	상대팀을	상대+팀+을	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	이기는	이기+는	VERB	VV+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	1	conj	_	_
+5	보다는	보다+는	VERB	JKB+JX	_	1	case	_	_
+6	팀원들과	팀원+들+과	ADV	NNG+XSN+JKB	_	8	obl	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	고생하고	고생+하+고	VERB	NNG+XSV+EC	_	9	advcl	_	_
+9	일하는게	일+하+는+것+이	VERB	NNG+XSV+ETM+NNB+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	뜻깊으다	뜻깊+으다	ADJ	VA+NA	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_06_3_10
+# text = 인간관계에서도 협동이 필요하다.
+1	인간관계에서도	인간+관계+에서+도	ADV	NNG+NNG+JKB+JX	_	3	obl	_	_
+2	협동이	협동+이	NOUN	NF+JKS	_	3	nsubj	_	_
+3	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_06_3_11
+# text = 서로를 배려하고 이해를 할라는 노력이 필요하다.
+1	서로를	서로+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배려하고	배려+하+고	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	이해를	이해+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	할라는	하+ㄹ라는	VERB	VV+NA	_	5	acl	_	_
+5	노력이	노력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_06_3_12
+# text = 다른 사람들을 질투하고 경쟁상대로 취급하면, 관계를 유지할 수 없다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	3	obj	_	_
+3	질투하고	질투+하+고	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	경쟁상대로	경쟁+상대+로	ADV	NNG+NNG+JKB	_	5	obl	_	_
+5	취급하면	취급+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	관계를	관계+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	유지할	유지+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,79 @@
+# sent_id = ARG-ENG_15_3_01
+# text = 내가 협동 더 선호합니다.
+1	내가	내+가	PRON	NP+JKS	_	4	nsubj	_	_
+2	협동	협동	NOUN	NNG	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호합니다	선호+하+ㅂ니다	ADJ	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_15_3_02
+# text = 협동 있으면 많이 사람들를 좋아하는 것은 받았습니다.
+1	협동	협동	NOUN	NNG	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+3	많이	많이	ADV	MAG	_	7	advmod	_	_
+4	사람들를	사람+들+를	NOUN	NNG+XSN+JKO	_	5	obj	_	_
+5	좋아하는	좋아하+는	VERB	VV+ETM	_	6	acl	_	_
+6	것은	것+은	NOUN	NNB+JX	_	7	obj	_	_
+7	받았습니다	받+았+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_15_3_03
+# text = 나는 사람과 함께 일하고 좋아요.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	5	obl	_	_
+3	함께	함께	ADV	MAG	_	5	advmod	_	_
+4	일하고	일+하+고	VERB	NNG+XSV+EC	_	5	advcl	_	_
+5	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_3_04
+# text = 같이 우리는 더 좋아하는 만들거예요.
+1	같이	같이	ADV	MAG	_	5	advmod	_	_
+2	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋아하는	좋아하+는	VERB	VV+ETM	_	5	acl	_	_
+5	만들거예요	만들+ㄹ+거+이+에요	VERB	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_3_05
+# text = 경쟁 있으면 다 사람이 나쁜 감정 있어요.
+1	경쟁	경쟁	NOUN	NNG	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+3	다	다	ADV	MAG	_	7	advmod	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	7	dislocated	_	_
+5	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	6	amod	_	_
+6	감정	감정	NOUN	NNG	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_15_3_06
+# text = 이 감정 내가 싫어요.
+1	이	이	DET	MM	_	2	det	_	_
+2	감정	감정	NOUN	NNG	_	4	obj	_	_
+3	내가	내+가	PRON	NP+JKS	_	4	nsubj	_	_
+4	싫어요	싫+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_15_3_07
+# text = 우리는 다 사람이 새상에서 협동 있으면 그름 이 새상 더 좋네요.
+1	우리는	우리+는	PRON	NP+JX	_	11	dislocated	_	_
+2	다	다	ADV	MAG	_	6	advmod	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	6	dislocated	_	_
+4	새상에서	새상+에서	ADV	NF+JKB	_	6	obl	_	_
+5	협동	협동	NOUN	NNG	_	6	nsubj	_	_
+6	있으면	있+으면	VERB	VV+EC	_	11	advcl	_	_
+7	그름	그름	ADV	NA	_	11	advmod	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	새상	새상	NOUN	NF	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	좋네요	좋+네요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_15_3_08
+# text = 그래서 내가 협동을 더 선호합니다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	내가	내+가	PRON	NP+JKS	_	5	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

@@ -1,0 +1,186 @@
+# sent_id = ARG-JPN_26_1_01
+# text =  조기 언어교육의 장점은 2가지 있다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점은	장점+은	NOUN	NNG+JX	_	5	dislocated	_	_
+4	2가지	2+가지	NOUN	SN+NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_26_1_02
+# text =  하나는 듣기를 잘 할 수 있다라는 것이다.
+1	하나는	하나+는	NUM	NR+JX	_	7	nsubj	_	_
+2	듣기를	듣+기+를	NOUN	VV+ETN+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다라는	있+다+라는	VERB	VV+EC+ETM	_	7	acl	_	_
+7	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_26_1_03
+# text =  어린때 부터 다양한 언어를 듣고 있으면,그 언어에 발음이나 소리에 익숙해서 듣기를 잘 할 수 있다.
+1	어린때	어리+ㄴ+때	NOUN	VA+ETM+NNG	_	5	obl	_	_
+2	부터	부터	ADP	JX	_	1	case	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	듣고	듣+고	VERB	VV+EC	_	11	advcl	_	_
+6	있으면	있+으면	AUX	VX+EC	_	5	aux	_	_
+7	,그	,+그	VERB	SP+MM	_	8	det	_	_
+8	언어에	언어+에	ADV	NNG+JKB	_	11	obl	_	_
+9	발음이나	발음+이나	NOUN	NNG+JC	_	11	obl	_	_
+10	소리에	소리+에	ADV	NNG+JKB	_	9	conj	_	_
+11	익숙해서	익숙+하+아서	VERB	NNG+XSA+EC	_	16	advcl	_	_
+12	듣기를	듣+기+를	NOUN	VV+ETN+JKO	_	14	obj	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	할	하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_26_1_04
+# text =  이것은 조기 언어 교육을 한 사람이 안 한 사람 보다 더 잘 할 수있다.
+1	이것은	이것+은	PRON	NP+JX	_	13	obj	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	13	obj	_	_
+5	한	하+ㄴ	NUM	VV+ETM	_	6	acl	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	한	하+ㄴ	NUM	VV+ETM	_	9	acl	_	_
+9	사람	사람	NOUN	NNG	_	13	obl	_	_
+10	보다	보다	ADV	JKB	_	9	case	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	잘	잘	ADV	MAG	_	13	advmod	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수있다	수+있+다	VERB	NNB+VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_26_1_05
+# text =  들은 문법을 자연스럽게 배울수있다라는점이다.
+1	들은	듣+은	NUM	VV+ETM	_	2	acl	_	_
+2	문법을	문법+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	4	advmod	_	_
+4	배울수있다라는점이다	배우+ㄹ+수+있+다+라는+점+이+다	VERB	VV+ETM+NNB+VX+EC+ETM+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_26_1_06
+# text =  어른부터 언어를 공부하면.
+1	어른부터	어른+부터	ADV	NNG+JX	_	3	obl	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	공부하면	공부+하+면	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_26_1_07
+# text =  문법중심에 공부만 할 사람이 많다.
+1	문법중심에	문법+중심+에	ADV	NNG+NNG+JKB	_	3	obl	_	_
+2	공부만	공부+만	NOUN	NNG+JX	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_26_1_08
+# text =  그사람들은 머리에서 문장을 생각한 다음에 말을 하는 숙강이 붙다.하지만, 조기 언어 교육을 하면, 자연스릅게 하고 싶은 이야기를 할 수 있다.
+1	그사람들은	그+사람+들+은	NOUN	MM+NNG+XSN+JKS	_	9	dislocated	_	_
+2	머리에서	머리+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	문장을	문장+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	생각한	생각+하+ㄴ	VERB	NNG+XSV+ETM	_	7	advcl	_	_
+5	다음에	다음+에	ADV	NNG+JKB	_	4	mark	_	_
+6	말을	말+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	숙강이	숙강+이	NOUN	NF+JKS	_	9	nsubj	_	_
+9	붙다	붙+다	VERB	VV+EC	_	23	parataxis	_	SpaceAfter=No
+10	.하지만	.+하지만	VERB	SF+MAJ	_	23	cc	_	_
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	조기	조기	NOUN	NNG	_	13	nmod	_	_
+13	언어	언어	NOUN	NNG	_	14	nmod	_	_
+14	교육을	교육+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	하면	하+면	VERB	VV+EC	_	23	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	SP	_	15	punct	_	_
+17	자연스릅게	자연+스릅+게	ADV	NNG+NA+EC	_	18	advmod	_	_
+18	하고	하+고	VERB	VV+EC	_	20	acl	_	_
+19	싶은	싶+은	AUX	VX+ETM	_	18	aux	_	_
+20	이야기를	이야기+를	NOUN	NNG+JKO	_	21	obj	_	_
+21	할	하+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_26_1_09
+# text =  반개로 조기 언어 교육의 단점은 자기언어 숩독이 느러질 위험이 있다라는것이다.
+1	반개로	반개+로	ADV	NF+JKB	_	10	obl	_	_
+2	조기	조기	NOUN	NNG	_	4	nmod	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육의	교육+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	단점은	단점+은	NOUN	NNG+JX	_	10	nsubj	_	_
+6	자기언어	자기+언어	NOUN	NNG+NNG	_	7	nmod	_	_
+7	숩독이	숩독+이	NOUN	NF+JKS	_	8	nsubj	_	_
+8	느러질	느러지+ㄹ	VERB	NV+ETM	_	9	acl	_	_
+9	위험이	위험+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있다라는것이다	있+다+라는+것+이+다	VERB	VV+EC+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_26_1_10
+# text =  어릴때부터 다른 언어를 공부해서 자기나라의 언어공부를 못할수도 있다.
+1	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	4	advcl	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부해서	공부+하+아서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	자기나라의	자기+나라+의	NOUN	NNG+NNG+JKG	_	6	nmod:poss	_	_
+6	언어공부를	언어+공부+를	NOUN	NNG+NNG+JKO	_	7	obj	_	_
+7	못할수도	못하+ㄹ+수+도	VERB	VV+ETM+NNB+JX	_	8	nsubj	_	_
+8	있다	있+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_26_1_11
+# text =  언어교육에서는 어느정도에 언어 기본이 있어야 할수있다.
+1	언어교육에서는	언어+교육+에서+는	ADV	NNG+NNG+JKB+JX	_	5	obl	_	_
+2	어느정도에	어느+정도+에	ADV	MM+NNG+JKB	_	5	obl	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	기본이	기본+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있어야	있+어야	VERB	VV+EC	_	6	advcl	_	_
+6	할수있다	하+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_26_1_12
+# text =  그것이 없으면 배웠던 언어가 다 불완전해진다.
+1	그것이	그것+이	PRON	NP+JKS	_	2	nsubj	_	_
+2	없으면	없+으면	VERB	VA+EC	_	6	advcl	_	_
+3	배웠던	배우+었+던	VERB	VV+EP+ETM	_	4	acl	_	_
+4	언어가	언어+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	다	다	ADV	MAG	_	6	advmod	_	_
+6	불완전해진다	불+완전+하+아지+ㄴ다	VERB	XPN+NNG+XSA+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_26_1_13
+# text =  조기언어교육을하면, 자연스러은 언어 습독 이 할수있고,특히 듣기가 잘 할수 있다라는 장점이 있는 반면에.
+1	조기언어교육을하면	조기+언어+교육+을+하+면	NOUN	NNG+NNG+NNG+JKO+VV+EC	_	7	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연스러은	자연+스러+은	VERB	NNG+NA+NA	_	4	amod	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	습독	습독	NOUN	NF	_	7	nsubj	_	_
+6	이	이	DET	JKS	_	5	case	_	_
+7	할수있고	하+ㄹ+수+있+고	NOUN	VV+ETM+NNB+VX+EC	_	13	acl	_	SpaceAfter=No
+8	,특히	,+특히	ADV	SP+MAG	_	12	cc	_	_
+9	듣기가	듣+기+가	NOUN	VV+ETN+JKS	_	11	nsubj	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	12	nsubj	_	_
+12	있다라는	있+다+라는	VERB	VX+EC+ETM	_	7	conj	_	_
+13	장점이	장점+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있는	있+는	VERB	VV+ETM	_	15	acl	_	_
+15	반면에	반면+에	ADV	NNG+JKB	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_26_1_14
+# text =  배웠던 언어가 다 불완전해질 가능성도 있다 라는 단점도 있다.
+1	배웠던	배우+었+던	VERB	VV+EP+ETM	_	2	acl	_	_
+2	언어가	언어+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	다	다	ADV	MAG	_	4	advmod	_	_
+4	불완전해질	불+완전+하+아지+ㄹ	VERB	XPN+NNG+XSA+XSV+ETM	_	5	acl	_	_
+5	가능성도	가능성+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VV+EF	_	8	acl	_	_
+7	라는	라는	VERB	JKQ	_	6	case	_	_
+8	단점도	단점+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

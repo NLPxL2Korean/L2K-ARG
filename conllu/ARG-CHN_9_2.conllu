@@ -1,0 +1,123 @@
+# sent_id = ARG-CHN_9_2_01
+# text = 협동이 성공에 더 큰 영향을 미친다고 생각합니다.
+1	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미친다고	미치+ㄴ다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_9_2_02
+# text = 경장은 여러 사람 간의 서로 비교하면서 "싸우"는 분위를 이루어지기 때문에 시기와 싫어하는 부정적인 심리를 나타나게 된다.
+1	경장은	경장+은	NOUN	NNG+JX	_	9	nsubj	_	_
+2	여러	여러	DET	MM	_	3	amod	_	_
+3	사람	사람	NOUN	NNG	_	8	nmod:poss	_	_
+4	간의	간+의	NOUN	NNB+JKG	_	3	case	_	_
+5	서로	서로	ADV	MAG	_	6	advmod	_	_
+6	비교하면서	비교+하+면서	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	"싸우"는	"+싸우+"+는	NOUN	SS+VV+SS+ETM	_	8	acl	_	_
+8	분위를	분위+를	NOUN	NF+JKO	Typo=Yes	9	obj	_	_
+9	이루어지기	이루+어지+기	VERB	VV+XSV+ETN	_	15	obl	_	_
+10	때문에	때문+에	ADV	NNB+JKB	_	9	case	_	_
+11	시기와	시기+와	ADV	NNG+JKB	_	15	obj	_	_
+12	싫어하는	싫어하+는	VERB	VV+ETM	_	14	acl	_	_
+13	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	심리를	심리+를	NOUN	NNG+JKO	_	11	conj	_	_
+15	나타나게	나타나+게	VERB	VV+EC	_	0	root	_	_
+16	된다	되+ㄴ다	VERB	VX+EF	_	15	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_9_2_03
+# text = 협동은 여려 사람간에 서로 도와주면서 서로를 위해 배려하고 함계 어려움을 겪고 함께 성장하는 분위기를 일으킬 수 있다.
+1	협동은	협동+은	NOUN	NNG+JX	_	17	dislocated	_	_
+2	여려	여려	NOUN	NA	Typo=Yes	8	nmod	_	_
+3	사람간에	사람+간+에	ADV	NNG+NNB+JKB	_	5	obl	_	_
+4	서로	서로	ADV	MAG	_	5	advmod	_	_
+5	도와주면서	돕+아+주+면서	VERB	VV+EC+VX+EC	_	8	advcl	_	_
+6	서로를	서로+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	위해	위하+아	VERB	VV+EC	_	8	advcl	_	_
+8	배려하고	배려+하+고	VERB	NNG+XSV+EC	_	11	advcl	_	_
+9	함계	함계	ADV	NA	Typo=Yes	11	advmod	_	_
+10	어려움을	어렵+ㅁ+을	ADJ	VA+ETN+JKO	_	11	obj	_	_
+11	겪고	겪+고	VERB	VV+EC	_	13	advcl	_	_
+12	함께	함께	ADV	MAG	_	13	advmod	_	_
+13	성장하는	성장+하+는	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	분위기를	분위기+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	일으킬	일으키+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_9_2_04
+# text = 이런 분위기안에 구성원들이 서로 적극적으로 참여할 수 있으며 편화로운 인간관계를 형성할 수 있다고 보다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	분위기안에	분위기+안+에	ADV	NNG+NNG+JKB	_	13	obl	_	_
+3	구성원들이	구성원+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+4	서로	서로	ADV	MAG	_	6	advmod	_	_
+5	적극적으로	적극+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	참여할	참여+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있으며	있+으며	VERB	VX+EC	_	14	ccomp	_	_
+9	편화로운	편화+롭+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	10	amod	_	_
+10	인간관계를	인간+관계+를	NOUN	NNG+NNG+JKO	_	11	obj	_	_
+11	형성할	형성+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	8	conj	_	_
+14	보다	보+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_9_2_05
+# text = 또한 성공의 정의는 결과가 탁월하게 나온 것이 아니라 과정에 얼마나 배우게 되는지, 과정에 얼마나 유익을 받은지에 따라 결정되는 것이다.
+1	또한	또한	ADV	MAJ	_	20	cc	_	_
+2	성공의	성공+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	정의는	정의+는	NOUN	NNG+JX	_	20	nsubj	_	_
+4	결과가	결과+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	탁월하게	탁월+하+게	ADV	NNG+XSA+EC	_	6	advmod	_	_
+6	나온	나오+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKC	_	8	nsubj	_	_
+8	아니라	아니+라	ADJ	VCN+EC	_	11	advcl	_	_
+9	과정에	과정+에	ADV	NNG+JKB	_	11	obl	_	_
+10	얼마나	얼마나	ADV	MAG	_	11	advmod	_	_
+11	배우게	배우+게	VERB	VV+EC	_	18	obl	_	_
+12	되는지	되+는지	VERB	VX+EC	_	11	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	과정에	과정+에	ADV	NNG+JKB	_	17	obl	_	_
+15	얼마나	얼마나	ADV	MAG	_	17	advmod	_	_
+16	유익을	유익+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	받은지에	받+은지+에	ADV	VV+EC+JKB	_	12	conj	_	_
+18	따라	따르+아	VERB	VV+EC	_	19	advcl	_	_
+19	결정되는	결정+되+는	VERB	NNG+XSV+ETM	_	20	acl	_	_
+20	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_9_2_06
+# text = 과정에 부정적인 마음으로 얻은 결과가 좋다고 하도 성공이라고 할 수 없고 오히려 적극적인 마음, 기뻐하는 마음으로 얻은 결과가 좋지 않아도 성공이라고 할 수 있다고 생각한다.
+1	과정에	과정+에	ADV	NNG+JKB	_	4	obl	_	_
+2	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	마음으로	마음+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	얻은	얻+은	VERB	VV+ETM	_	5	acl	_	_
+5	결과가	결과+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	좋다고	좋+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	하도	하+도	ADV	VV+JX	_	11	advcl	_	_
+8	성공이라고	성공+이+라고	ADJ	NNG+VCP+EC	_	9	ccomp	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	없고	없+고	VERB	VX+EC	_	20	advcl	_	_
+12	오히려	오히려	ADV	MAG	_	25	advmod	_	_
+13	적극적인	적극+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	마음	마음	NOUN	NNG	_	18	obl	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	14	punct	_	_
+16	기뻐하는	기뻐하+는	VERB	VV+EC	_	17	acl	_	_
+17	마음으로	마음+으로	ADV	NNG+JKB	_	14	conj	_	_
+18	얻은	얻+은	VERB	VV+ETM	_	19	acl	_	_
+19	결과가	결과+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+20	좋지	좋+지	ADJ	VA+EC	_	22	advcl	_	_
+21	않아도	않	AUX	VX+EC	_	20	aux	_	_
+22	성공이라고	성공+이+라고	ADJ	NNG+VCP+EC	_	23	ccomp	_	_
+23	할	하+ㄹ	VERB	VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있다고	있	AUX	VX+EC	_	26	ccomp	_	_
+26	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_

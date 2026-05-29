@@ -1,0 +1,247 @@
+# sent_id = ARG-CHN_2_1_01
+# text = 자연 보존과 자연 개발이 다 중요한다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존과	보존+과	NOUN	NNG+JC	_	6	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발이	개발+이	NOUN	NNG+JKS	_	2	conj	_	_
+5	다	다	ADV	MAG	_	6	advmod	_	_
+6	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_2_1_02
+# text = 하지만 자연 개발을 하면서 자연을 제대로 보호하고 보존하는 것인 더 중요한 일이다.
+1	하지만	하지만	ADV	MAJ	_	12	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발을	개발+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하면서	하+면서	VERB	VV+EC	_	7	advcl	_	_
+5	자연을	자연+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	제대로	제대로	ADV	MAG	_	7	advmod	_	_
+7	보호하고	보호+하+고	VERB	NNG+XSV+EC	_	9	acl	_	_
+8	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	7	conj	_	_
+9	것인	것+이+ㄴ	VERB	NNB+JKS+NA	Typo=Yes	12	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	12	amod	_	_
+12	일이다	일+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_2_1_03
+# text = 왜냐하면, 저희 지구에서 자연자원을 다 없어지면 더 이상 개발할 수 있는 자원이가 없지 않다고 생각한다.
+1	왜냐하면	왜냐하면	ADV	MAG	_	16	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	저희	저희	PRON	NP	_	4	nmod	_	_
+4	지구에서	지구+에서	ADV	NNG+JKB	_	7	obl	_	_
+5	자연자원을	자연+자원+을	NOUN	NNG+NNG+JKO	_	7	obj	_	_
+6	다	다	ADV	MAG	_	7	advmod	_	_
+7	없어지면	없+어지+면	VERB	VA+XSV+EC	_	14	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	이상	이상	NOUN	NNG	_	14	obl	_	_
+10	개발할	개발+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	자원이가	자원+이+가	NOUN	NNG+JKS+NA	Typo=Yes	14	nsubj	_	_
+14	없지	없+지	ADJ	VA+EC	_	16	ccomp	_	_
+15	않다고	않	AUX	VX+EC	_	14	aux	_	_
+16	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_2_1_04
+# text = 자연 개발이라는 것은 어느 정도에 자연 보전에 의지하는 것이다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발이라는	개발+이+라는	ADJ	NNG+VCP+ETM	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	9	nsubj	_	_
+4	어느	어느	DET	MM	_	5	det	_	_
+5	정도에	정도+에	ADV	NNG+JKB	_	8	obl	_	_
+6	자연	자연	NOUN	NNG	_	7	nmod	_	_
+7	보전에	보전+에	ADV	NNG+JKB	_	8	obl	_	_
+8	의지하는	의지+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_2_1_05
+# text = 이유는 두가지 있다.
+1	이유는	이유+는	NOUN	NNG+JX	_	3	dislocated	_	_
+2	두가지	두+가지	NOUN	MM+NNB	_	3	nsubj	_	_
+3	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_2_1_06
+# text = 하나는, 자연 개발하는 목적은 인류 사회의 물질수익이 만족시키기 위해서 하는 건데 기본적인 수익이 만족시켜야 나중에 사회환경과 과학기술이 좋아지면서 더 친환경이고 쉽게 환경이 파괘하지 않는 경우에 자원이 개발할 수 있을 것이라고 생각한다.
+1	하나는	하나+는	NUM	NR+JX	_	32	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연	자연	NOUN	NNG	_	4	obj	_	_
+4	개발하는	개발+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	목적은	목적+은	NOUN	NNG+JX	_	12	nsubj	_	_
+6	인류	인류	NOUN	NNG	_	7	nmod	_	_
+7	사회의	사회+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	물질수익이	물질+수익+이	NOUN	NNG+NNG+JKS	_	9	nsubj	_	_
+9	만족시키기	만족+시키+기	VERB	NNG+XSV+ETN	_	11	obj	_	_
+10	위해서	위하+아서	VERB	VV+EC	_	11	advcl	_	_
+11	하는	하+는	VERB	VV+ETM	_	15	advcl	_	_
+12	건데	것+이+ㄴ데	ADJ	NNB+VCP+EC	_	32	advcl	_	_
+13	기본적인	기본+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	수익이	수익+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	만족시켜야	만족+시키+어야	VERB	NNG+XSV+EC	_	19	advcl	_	_
+16	나중에	나중+에	ADV	NNG+JKB	_	19	obl	_	_
+17	사회환경과	사회+환경+과	NOUN	NNG+NNG+JC	_	19	nsubj	_	_
+18	과학기술이	과학+기술+이	NOUN	NNG+NNG+JKS	_	17	conj	_	_
+19	좋아지면서	좋+아지+면서	VERB	VA+XSV+EC	_	28	advcl	_	_
+20	더	더	ADV	MAG	_	21	advmod	_	_
+21	친환경이고	친환경+이+고	ADJ	NNG+VCP+EC	_	26	acl	_	_
+22	쉽게	쉽+게	ADV	VA+EC	_	24	advmod	_	_
+23	환경이	환경+이	NOUN	NNG+JKS	_	24	nsubj	_	_
+24	파괘하지	파괘+하+지	VERB	NF+XSV+EC	Typo=Yes	21	conj	_	_
+25	않는	않	AUX	VX+ETM	_	24	aux	_	_
+26	경우에	경우+에	ADV	NNG+JKB	_	28	obl	_	_
+27	자원이	자원+이	NOUN	NNG+JKS	_	28	nsubj	_	_
+28	개발할	개발+하+ㄹ	VERB	NNG+XSV+ETM	_	29	acl	_	_
+29	수	수	NOUN	NNB	_	30	nsubj	_	_
+30	있을	있+을	VERB	VX+ETM	_	31	acl	_	_
+31	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	32	ccomp	_	_
+32	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+33	.	.	PUNCT	SF	_	32	punct	_	_
+
+# sent_id = ARG-CHN_2_1_07
+# text = 두번째는, 자원개발하는 회사가 지금 현대사회에 있기 있지만 많이 없어진다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	8	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자원개발하는	자원+개발+하+는	VERB	NNG+NNG+XSV+ETM	_	4	acl	_	_
+4	회사가	회사+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+5	지금	지금	ADV	MAG	_	7	advmod	_	_
+6	현대사회에	현대+사회+에	ADV	NNG+NNG+JKB	_	7	obl	_	_
+7	있기	있+기	VERB	VV+ETN	_	8	nsubj	_	_
+8	있지만	있+지만	VERB	VV+EC	_	10	advcl	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_2_1_08
+# text = 반대로, 친환경업체들이 점점 늘어나고 어느 정도에 과학 기술에 의지하면서 더 인류발전 맞출 수 있는 제품이 개발하고 더 건강하고 자원이 절략할 수 있는 상황에 개발을 진행하고 있다.
+1	반대로	반대+로	ADV	NNG+JKB	_	26	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	친환경업체들이	친환경+업체+들+이	NOUN	NNG+NNG+XSN+JKS	_	5	nsubj	_	_
+4	점점	점점	ADV	MAG	_	5	advmod	_	_
+5	늘어나고	늘어나+고	VERB	VV+EC	_	26	advcl	_	_
+6	어느	어느	DET	MM	_	9	det	_	_
+7	정도에	정도+에	ADV	NNG+JKB	_	10	obl	_	_
+8	과학	과학	NOUN	NNG	_	9	nmod	_	_
+9	기술에	기술+에	ADV	NNG+JKB	_	10	obl	_	_
+10	의지하면서	의지+하+면서	VERB	NNG+XSV+EC	_	17	advcl	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	인류발전	인류+발전	NOUN	NNG+NNG	_	13	obj	_	_
+13	맞출	맞추+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있는	있+는	VERB	VX+ETM	_	16	acl	_	_
+16	제품이	제품+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	개발하고	개발+하+고	VERB	NNG+XSV+EC	_	26	advcl	_	_
+18	더	더	ADV	MAG	_	19	advmod	_	_
+19	건강하고	건강+하+고	ADJ	NNG+XSA+EC	_	24	acl	_	_
+20	자원이	자원+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	절략할	절략+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있는	있+는	VERB	VX+ETM	_	19	conj	_	_
+24	상황에	상황+에	ADV	NNG+JKB	_	26	obl	_	_
+25	개발을	개발+을	NOUN	NNG+JKO	_	26	obj	_	_
+26	진행하고	진행+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+27	있다	있	AUX	VX+EF	_	26	aux	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-CHN_2_1_09
+# text = 자연 보존은 자순 후대를 위해서 진행하는 중요한 일정이다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존은	보존+은	NOUN	NNG+JX	_	8	nsubj	_	_
+3	자순	자순	NOUN	NF	Typo=Yes	4	nmod	_	_
+4	후대를	후대+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	위해서	위하+아서	VERB	VV+EC	_	6	advcl	_	_
+6	진행하는	진행+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+7	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	일정이다	일정+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_2_1_10
+# text = 이유는 세가지 있다.
+1	이유는	이유+는	NOUN	NNG+JX	_	3	dislocated	_	_
+2	세가지	세+가지	NOUN	MM+NNB	_	3	nsubj	_	_
+3	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_2_1_11
+# text = 첫번째로, 자연 보존하는 동시에, 자연보호구역에 동식물들이 다 보호를 받을 수 있고 미래에 자녀들이 위해 풍부한 자원을 들이것이라고 생각한다.
+1	첫번째로	첫+번째+로	ADV	MM+NNB+JKB	_	20	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연	자연	NOUN	NNG	_	4	obj	_	_
+4	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	동시에	동시+에	ADV	NNG+JKB	_	19	obl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	자연보호구역에	자연+보호+구역+에	ADV	NNG+NNG+NNG+JKB	_	11	obl	_	_
+8	동식물들이	동식물+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+9	다	다	ADV	MAG	_	11	advmod	_	_
+10	보호를	보호+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	받을	받+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있고	있+고	VERB	VX+EC	_	19	advcl	_	_
+14	미래에	미래+에	ADV	NNG+JKB	_	19	obl	_	_
+15	자녀들이	자녀+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+16	위해	위하+아	VERB	VV+EC	_	19	advcl	_	_
+17	풍부한	풍부+하+ㄴ	ADJ	XR+XSA+ETM	_	18	amod	_	_
+18	자원을	자원+을	NOUN	NNG+JKO	_	19	nsubj	_	_
+19	들이것이라고	들이+것+이+라고	ADJ	VV+NNB+VCP+EC	_	20	ccomp	_	_
+20	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_2_1_12
+# text = 두번째는, 자연보호하기 위해서 더 많이 노동력이랑 보호 경험을 있는 지원자가 필요할고 지금 사회에 직위 부족한 상황도 만족시킬지 않는가?
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	18	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연보호하기	자연+보호+하+기	NOUN	NNG+NNG+XSV+ETN	_	4	obj	_	_
+4	위해서	위하+아서	VERB	VV+EC	_	12	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	많이	많이	ADV	MAG	_	12	advmod	_	_
+7	노동력이랑	노동력+이랑	NOUN	NNG+JC	_	12	nsubj	_	_
+8	보호	보호	NOUN	NNG	_	9	nmod	_	_
+9	경험을	경험+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	있는	있+는	VERB	VV+ETM	_	11	acl	_	_
+11	지원자가	지원자+가	NOUN	NNG+JKS	_	7	conj	_	_
+12	필요할고	필요+하+ㄹ고	VERB	NNG+XSA+NA	Typo=Yes	18	advcl	_	_
+13	지금	지금	NOUN	NNG	_	14	nmod	_	_
+14	사회에	사회+에	ADV	NNG+JKB	_	16	obl	_	_
+15	직위	직위	NOUN	NNG	_	16	nsubj	_	_
+16	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	17	acl	_	_
+17	상황도	상황+도	NOUN	NNG+JX	_	18	obj	_	_
+18	만족시킬지	만족+시키+ㄹ지	VERB	NNG+XSV+EC	_	0	root	_	_
+19	않는가	않	AUX	VX+EF	_	18	aux	_	SpaceAfter=No
+20	?	?	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_2_1_13
+# text = 세 번째로, 자원 보존라는 중요한 과제이라서 더 많은 분 중시시켜 주시면 좋겠다는 생각이 들어다.
+1	세	세	NUM	MM	_	2	nummod	_	_
+2	번째로	번째+로	ADV	NNB+JKB	_	15	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	자원	자원	NOUN	NNG	_	5	nmod	_	_
+5	보존라는	보존+이+라는	ADJ	NNG+VCP+ETM	_	7	acl	_	_
+6	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	과제이라서	과제+이+라서	ADJ	NNG+VCP+EC	_	13	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	많은	많+은	ADJ	VA+ETM	_	10	amod	_	_
+10	분	분	NOUN	NNB	_	11	nsubj	_	_
+11	중시시켜	중시+시키+어	VERB	NNG+XSV+EC	_	13	advcl	_	_
+12	주시면	주+시+면	VERB	VX+EP+EC	_	11	advcl	_	_
+13	좋겠다는	좋+겠+다는	ADJ	VA+EP+ETM	_	14	acl	_	_
+14	생각이	생각+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	들어다	들+어+다	VERB	VV+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_2_1_14
+# text = 그래서, 제 생각에는 자연 보존가 중요하지 않 자연개발이 무시하면 안된다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	제	저+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	11	obl	_	_
+5	자연	자연	NOUN	NNG	_	6	nmod	_	_
+6	보존가	보존+가	NOUN	NNG+NA	Typo=Yes	7	nsubj	_	_
+7	중요하지	중요+하+지	ADJ	NNG+XSA+EC	_	9	amod	_	_
+8	않	않	AUX	VX	_	7	aux	_	_
+9	자연개발이	자연+개발+이	NOUN	NNG+NNG+JKS	_	10	nsubj	_	_
+10	무시하면	무시+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+11	안된다	안되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

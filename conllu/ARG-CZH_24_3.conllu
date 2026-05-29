@@ -1,0 +1,40 @@
+# sent_id = ARG-CZH_24_3_01
+# text = 협동은 더 선호합니다.
+1	협동은	협동+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_24_3_02
+# text = 왜냐하면 다른 사람에게 도움을 줄 수 있고 이 사람은 다음에 할 일에 다시 도움을 할 수 있기 때문입니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	18	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람에게	사람+에게	ADV	NNG+JKB	_	5	obl	_	_
+4	도움을	도움+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	줄	주+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있	AUX	VX+EC	_	17	advcl	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	사람은	사람+은	NOUN	NNG+JX	_	15	nsubj	_	_
+10	다음에	다음+에	ADV	NNG+JKB	_	11	obl	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	일에	일+에	ADV	NNG+JKB	_	15	obl	_	_
+13	다시	다시	ADV	MAG	_	15	advmod	_	_
+14	도움을	도움+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	할	하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있기	있+기	NOUN	VX+ETN	_	18	nmod	_	_
+18	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_24_3_03
+# text = 사람들도 협동을 하면 새로운 것을 배울 수 있습니다.
+1	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

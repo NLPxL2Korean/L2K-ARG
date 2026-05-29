@@ -1,0 +1,144 @@
+# sent_id = ARG-ENG_20_1_01
+# text = 나는 조기언어교육이 아주 좋다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	좋다고	좋+다고	ADJ	VA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_20_1_02
+# text = 어린 아이들이 언어를 쉽게 배울 수 있어서 어렸을 때 외국어를 배울 기회가 있으면 정말 큰 (ad vantage) 될 수 있다고 생각한다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어서	있+어서	VERB	VX+EC	_	20	advcl	_	_
+8	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	11	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	외국어를	외국어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	기회가	기회+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	있으면	있+으면	VERB	VV+EC	_	20	advcl	_	_
+14	정말	정말	ADV	MAG	_	15	advmod	_	_
+15	큰	크+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	(ad	(+ad+vantage+)	NOUN	SS+SL+SL+SS	Typo=Yes	18	nsubj	_	_
+17	vantage)	_	X	_	_	16	goeswith	_	_
+18	될	되+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다고	있+다고	VERB	VX+EC	_	21	ccomp	_	_
+21	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_20_1_03
+# text = 예를 들면 나는 대학교 4학년 때 스페인어 연구를 위해 학교 큰처에 있는 초등학교에서 초등 4학년 학생들과 인터뷰했다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	17	advcl	_	_
+3	나는	나+는	PRON	NP+JX	_	17	nsubj	_	_
+4	대학교	대학교	NOUN	NNG	_	5	nmod	_	_
+5	4학년	4+학년	NOUN	SN+NNB	_	17	obl	_	_
+6	때	때	NOUN	NNG	_	5	case	_	_
+7	스페인어	스페인어	NOUN	NNG	_	8	nmod	_	_
+8	연구를	연구+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	위해	위하+아	VERB	VV+EC	_	17	advcl	_	_
+10	학교	학교	NOUN	NNG	_	11	nmod	_	_
+11	큰처에	큰처+에	ADV	NF+JKB	Typo=Yes	12	obl	_	_
+12	있는	있+는	VERB	VV+ETM	_	13	acl	_	_
+13	초등학교에서	초등학교+에서	ADV	NNG+JKB	_	17	obl	_	_
+14	초등	초등	NOUN	NNG	_	15	nmod	_	_
+15	4학년	4+학년	NOUN	SN+NNB	_	16	nmod	_	_
+16	학생들과	학생+들+과	ADV	NNG+XSN+JKB	_	17	obl	_	_
+17	인터뷰했다	인터뷰+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_20_1_04
+# text = 그 초등학교에서는 학생들이 1학년부터 쭉 6학년까지 스페인어를 몰입으로 배웠다.
+1	그	그	DET	MM	_	2	det	_	_
+2	초등학교에서는	초등학교+에서+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+3	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+4	1학년부터	1+학년+부터	NOUN	SN+NNB+JX	_	9	obl	_	_
+5	쭉	쭉	ADV	MAG	_	9	advmod	_	_
+6	6학년까지	6+학년+까지	NOUN	SN+NNB+JX	_	9	obl	_	_
+7	스페인어를	스페인어+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	몰입으로	몰입+으로	ADV	NNG+JKB	_	9	obl	_	_
+9	배웠다	배우+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_20_1_05
+# text = 스페인어 수업에서만 공부하는 것이 아니라, 수학, 문학 등 수업들이 다 스페인어로 진행되었다.
+1	스페인어	스페인어	NOUN	NNG	_	2	nmod	_	_
+2	수업에서만	수업+에서+만	ADV	NNG+JKB+JX	_	3	obl	_	_
+3	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKC	_	5	nsubj	_	_
+5	아니라	아니+라	ADJ	VCN+EC	_	14	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	수학	수학	NOUN	NNG	_	11	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	문학	문학	NOUN	NNG	_	7	list	_	_
+10	등	등	NOUN	NNB	_	9	case	_	_
+11	수업들이	수업+들+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+12	다	다	ADV	MAG	_	14	advmod	_	_
+13	스페인어로	스페인어+로	ADV	NNG+JKB	_	14	obl	_	_
+14	진행되었다	진행+되+었+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_20_1_06
+# text = 나는 그때 대학생이었고 스페인어를 8년 동안 공부해 왔는데, 나랑 인터뷰했던 초등 4학년 학생들이 나의 대학교 반친구들처럼 스페인어를 잘 했다.
+1	나는	나+는	PRON	NP+JX	_	3	nsubj	_	_
+2	그때	그때	NOUN	NNG	_	3	obl	_	_
+3	대학생이었고	대학생+이+었+고	ADJ	NNG+VCP+EP+EC	_	7	advcl	_	_
+4	스페인어를	스페인어+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	8년	8+년	NOUN	SN+NNB	_	7	obl	_	_
+6	동안	동안	NOUN	NNG	_	5	case	_	_
+7	공부해	공부+하+아	VERB	NNG+XSV+EC	_	20	advcl	_	_
+8	왔는데	오+았+는데	VERB	VX+EP+EC	_	7	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	나랑	나+랑	PRON	NP+JKB	_	11	obl	_	_
+11	인터뷰했던	인터뷰+하+았+던	VERB	NNG+VV+EP+ETM	_	14	acl	_	_
+12	초등	초등	NOUN	NNG	_	13	nmod	_	_
+13	4학년	4+학년	NOUN	SN+NNB	_	14	nmod	_	_
+14	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	20	nsubj	_	_
+15	나의	나+의	PRON	NP+JKG	_	17	nmod:poss	_	_
+16	대학교	대학교	NOUN	NNG	_	17	nmod	_	_
+17	반친구들처럼	반+친구+들+처럼	ADV	NNG+NNG+XSN+JKB	_	20	obl	_	_
+18	스페인어를	스페인어+를	NOUN	NNG+JKO	_	20	obj	_	_
+19	잘	잘	ADV	MAG	_	20	advmod	_	_
+20	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_20_1_07
+# text = 바름도 좋았고 대화를 아주 편하게 할 수 있어서 나는 정말 놀랬다.
+1	바름도	바름+도	NOUN	NF+JX	Typo=Yes	2	nsubj	_	_
+2	좋았고	좋+았+고	ADJ	VA+EP+EC	_	11	advcl	_	_
+3	대화를	대화+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	편하게	편하+게	ADV	VA+EC	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VX+EC	_	2	conj	_	_
+9	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+10	정말	정말	ADV	MAG	_	11	advmod	_	_
+11	놀랬다	놀라+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_20_1_08
+# text = 하지만 당연히 아주 잘 하는 학생들도 있었고 힘들어하는 학생들도 있었다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	당연히	당연히	ADV	MAG	_	7	advmod	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	학생들도	학생+들+도	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+7	있었고	있+었+고	VERB	VV+EP+EC	_	0	root	_	_
+8	힘들어하는	힘들+어+하+는	VERB	VA+EC+VX+ETM	_	9	acl	_	_
+9	학생들도	학생+들+도	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+10	있었다	있+었+다	VERB	VV+EP+EF	_	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_20_1_09
+# text = 이런 물입 프로그램
+1	이런	이런	DET	MM	_	3	det	_	_
+2	물입	물입	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	프로그램	프로그램	NOUN	NNG	_	0	root	_	_

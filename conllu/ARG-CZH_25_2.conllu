@@ -1,0 +1,160 @@
+# sent_id = ARG-CZH_25_2_01
+# text = 역사란 것은 모든 사람, 민족, 나라, 그리고 세계에도 매우 중요하다고 생각한다.
+1	역사란	역사+이+란	ADJ	NNG+VCP+ETM	_	2	acl	_	_
+2	것은	것+은	NOUN	NNB+JX	_	13	nsubj	_	_
+3	모든	모든	DET	MM	_	4	det	_	_
+4	사람	사람	NOUN	NNG	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	민족	민족	NOUN	NNG	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	나라	나라	NOUN	NNG	_	11	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	그리고	그리고	ADV	MAJ	_	11	cc	_	_
+11	세계에도	세계+에+도	ADV	NNG+JKB+JX	_	13	obl	_	_
+12	매우	매우	ADV	MAG	_	13	advmod	_	_
+13	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_25_2_02
+# text = 왜냐하면 옛날 기록 (고려사, 조선왕조실록 등)을 편집한 사람들도 생각했던 것처럼 역사가 우리 미래의 겨울이라고 믿기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	17	cc	_	_
+2	옛날	옛날	NOUN	NNG	_	3	nmod	_	_
+3	기록	기록	NOUN	NNG	_	8	obj	_	_
+4	(고려사	(+고려+사	NOUN	SW+NNP+XSN	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	조선왕조실록	조선+왕조+실록	NOUN	NNG+NNG+NNG	_	3	flat	_	_
+7	등)을	등+)+을	NOUN	NNB+SS+JKO	_	3	case	_	_
+8	편집한	편집+하+ㄴ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+10	생각했던	생각+하+았+던	VERB	NNG+XSV+EP+ETM	_	11	acl	_	_
+11	것처럼	것+처럼	ADV	NNB+JKB	_	16	obl	_	_
+12	역사가	역사+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+13	우리	우리	PRON	NP	_	14	nmod	_	_
+14	미래의	미래+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+15	겨울이라고	겨울+이+라고	ADJ	NNG+VCP+EC	_	16	ccomp	_	_
+16	믿기	믿+기	VERB	VV+ETN	_	17	nmod	_	_
+17	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_25_2_03
+# text = 많은 나라에서는 역사를 제멋대로 조작하고, 바꾸고, 혹은 마음에 들지 않은 부분을 없는 척도 한다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	나라에서는	나라+에서+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	제멋대로	제멋대로	ADV	MAG	_	5	advmod	_	_
+5	조작하고	조작+하+고	VERB	NNG+XSV+EC	_	7	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	바꾸고	바꾸+고	VERB	VV+EC	_	16	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	혹은	혹은	ADV	MAG	_	16	advmod	_	_
+10	마음에	마음+에	ADV	NNG+JKB	_	11	obl	_	_
+11	들지	들+지	VERB	VV+EC	_	13	acl	_	_
+12	않은	않	AUX	VX+ETM	_	11	aux	_	_
+13	부분을	부분+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	없는	없+는	ADJ	VA+ETM	_	15	acl	_	_
+15	척도	척+도	NOUN	NNB+JX	_	16	obj	_	_
+16	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_25_2_04
+# text = 물론 어떤 두 나라 간의 역사라면 양국은 그 역사를 다르게 이해하며 설명할 수 있다.
+1	물론	물론	ADV	MAG	_	14	advmod	_	_
+2	어떤	어떤	DET	MM	_	4	det	_	_
+3	두	두	NUM	MM	_	4	nummod	_	_
+4	나라	나라	NOUN	NNG	_	5	nmod	_	_
+5	간의	간+의	NOUN	NNB+JKG	_	6	nmod:poss	_	_
+6	역사라면	역사+이+라면	ADJ	NNG+VCP+EC	_	14	advcl	_	_
+7	양국은	양+국+은	NOUN	XPN+XR+JX	_	12	nsubj	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	11	obj	_	_
+10	다르게	다르+게	ADV	VA+EC	_	11	advmod	_	_
+11	이해하며	이해+하+며	VERB	NNG+XSV+EC	_	12	advcl	_	_
+12	설명할	설명+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_25_2_05
+# text = 그러나 여기서 일어나는 문제는 자신의 의견만이 옳다고 생각할 때다.
+1	그러나	그러나	ADV	MAJ	_	9	cc	_	_
+2	여기서	여기+서	PRON	NP+JKB	_	3	obl	_	_
+3	일어나는	일어나+는	VERB	VV+ETM	_	4	acl	_	_
+4	문제는	문제+는	NOUN	NNG+JX	_	9	nsubj	_	_
+5	자신의	자신+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	의견만이	의견+만+이	NOUN	NNG+JX+JKS	_	7	nsubj	_	_
+7	옳다고	옳+다고	ADJ	VA+EC	_	8	ccomp	_	_
+8	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	때다	때+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_25_2_06
+# text = 피해자에게만 더 큰 아픔이 되기 때문이다.
+1	피해자에게만	피해자+에게+만	ADV	NNG+JKB+JX	_	5	obl	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+4	아픔이	아픔+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	되기	되+기	VERB	VV+ETN	_	6	nmod	_	_
+6	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_25_2_07
+# text = 나는 역사를 꼭 배워야 한다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	꼭	꼭	ADV	MAG	_	4	advmod	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	한다고	하	AUX	VX+EC	_	4	aux	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_25_2_08
+# text = 좋은 역사를 잊지 않는 만큼 나쁜 역사를 더욱더 잊어서는 안된다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	잊지	잊+지	VERB	VV+EC	_	9	advcl	_	_
+4	않는	않	AUX	VX+ETM	_	3	aux	_	_
+5	만큼	만큼	ADV	NNB	_	3	mark	_	_
+6	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	더욱더	더욱+더	ADV	MAG+MAG	_	9	advmod	_	_
+9	잊어서는	잊+어서+는	VERB	VV+EC+JX	_	0	root	_	_
+10	안된다	안+되+ㄴ다	VERB	MAG+VX+ETM	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_25_2_09
+# text = 잊는다면 같은 일이 일어나기 마련이며, 더 많은 사람들이 불행해지고 목숨까지 잃을지도 모른다.
+1	잊는다면	잊+는다면	VERB	VV+EC	_	13	advcl	_	_
+2	같은	같+은	ADJ	VA+ETM	_	3	amod	_	_
+3	일이	일+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	일어나기	일어나+기	VERB	VV+ETN	_	5	nmod	_	_
+5	마련이며	마련+이+며	ADJ	NNB+VCP+EC	_	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+10	불행해지고	불행+하+아지+고	VERB	NNG+XSA+XSV+EC	_	13	advcl	_	_
+11	목숨까지	목숨+까지	NOUN	NNG+JX	_	12	obj	_	_
+12	잃을지도	잃+을지+도	VERB	VV+EC+JX	_	13	ccomp	_	_
+13	모른다	모르+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_25_2_10
+# text = 따라서 우리는 우리 조상들의 잘못을 잘 파악하고 다시는 같은 실수를 해서는 절대 안 된다고 강조하고 싶다.
+1	따라서	따라서	ADV	MAJ	_	15	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	11	nsubj	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	조상들의	조상+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	잘못을	잘못+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	파악하고	파악+하+고	VERB	NNG+XSV+EC	_	11	advcl	_	_
+8	다시는	다시+는	ADV	MAG+JX	_	11	advmod	_	_
+9	같은	같+은	ADJ	VA+ETM	_	10	amod	_	_
+10	실수를	실수+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	해서는	하+아서+는	VERB	VV+EC+JX	_	15	ccomp	_	_
+12	절대	절대	ADV	MAG	_	13	advmod	_	_
+13	안	안	ADV	MAG	_	14	advmod	_	_
+14	된다고	되+ㄴ다고	VERB	VX+EC	_	11	advcl	_	_
+15	강조하고	강조+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+16	싶다	싶	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_

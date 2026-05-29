@@ -1,0 +1,96 @@
+# sent_id = ARG-CZH_10_2_01
+# text = 나라마다 역사 수업은 수업 중에서 교육의 기본이다.
+1	나라마다	나라+마다	NOUN	NNG+JX	_	7	obl	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	수업은	수업+은	NOUN	NNG+JX	_	7	nsubj	_	_
+4	수업	수업	NOUN	NNG	_	7	obl	_	_
+5	중에서	중+에서	ADV	NNB+JKB	_	4	case	_	_
+6	교육의	교육+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	기본이다	기본+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_10_2_02
+# text = 학교에서 나라의 역사, 세계적인 나라, 다음에 나라의 관계에 관한 정보를 얻을 수 있다.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	13	obl	_	_
+2	나라의	나라+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	역사	역사	NOUN	NNG	_	11	obl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	세계적인	세계+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	6	amod	_	_
+6	나라	나라	NOUN	NNG	_	3	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	다음에	다음+에	ADV	NNG+JKB	_	13	obl	_	_
+9	나라의	나라+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	관계에	관계+에	ADV	NNG+JKB	_	3	list	_	_
+11	관한	관하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	정보를	정보+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	얻을	얻+을	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_10_2_03
+# text = 개인적으로 역사 배우기 인생에 중요하다고 생각한다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+2	역사	역사	NOUN	NNG	_	3	obj	_	_
+3	배우기	배우+기	VERB	VV+ETN	_	5	nsubj	_	_
+4	인생에	인생+에	ADV	NNG+JKB	_	5	obl	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_10_2_04
+# text = '역사는 인생의 어머니'라는 말을 들어 본 적이 있을 수도 있다.
+1	'역사는	'+역사+는	NOUN	SS+NNG+JX	_	3	nsubj	_	_
+2	인생의	인생+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	어머니'라는	어머니+'+라는	VERB	NNG+SS+ETM	_	4	acl	_	_
+4	말을	말+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	들어	듣+어	VERB	VV+EC	_	7	acl	_	_
+6	본	보+ㄴ	VERB	VX+ETM	_	5	advcl	_	_
+7	적이	적+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	있을	있+을	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_10_2_05
+# text = 역사에 승리와 실패를 통해서 우리의 인생을 알아 보고 많은 것을 배울 수 있다.
+1	역사에	역사+에	ADV	NNG+JKB	_	4	obl	_	_
+2	승리와	승리+와	NOUN	NNG+JC	_	4	obj	_	_
+3	실패를	실패+를	NOUN	NNG+JKO	_	2	conj	_	_
+4	통해서	통하+아서	VERB	VV+EC	_	13	advcl	_	_
+5	우리의	우리+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	인생을	인생+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	알아	알+아	VERB	VV+EC	_	13	advcl	_	_
+8	보고	보+고	VERB	VX+EC	_	7	advcl	_	_
+9	많은	많+은	ADJ	VA+ETM	_	10	amod	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_10_2_06
+# text = 그리고 다른 나라를 알게 돼면서 사람도 알게 되는 법이다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	나라를	나라+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알게	알+게	VERB	VV+EC	_	7	advcl	_	_
+5	돼면서	되+어+면서	VERB	VX+NA+EC	Typo=Yes	4	advcl	_	_
+6	사람도	사람+도	NOUN	NNG+JX	_	7	obj	_	_
+7	알게	알+게	VERB	VV+EC	_	9	acl	_	_
+8	되는	되+는	VERB	VX+ETM	_	7	advcl	_	_
+9	법이다	법+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_10_2_07
+# text = 앞으로도 역사 배우기에 더 많은 관심을 위해서 노력해야 한다.
+1	앞으로도	앞+으로+도	ADV	NNG+JKB+JX	_	8	obl	_	_
+2	역사	역사	NOUN	NNG	_	3	obj	_	_
+3	배우기에	배우+기+에	VERB	VV+ETN+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	관심을	관심+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	위해서	위하+아서	VERB	VV+EC	_	8	advcl	_	_
+8	노력해야	노력+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_

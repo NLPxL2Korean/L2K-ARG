@@ -1,0 +1,122 @@
+# sent_id = ARG-CZH_38_1_01
+# text = 세계화된 사회에서 외국어 능력이 아주 중요하다.
+1	세계화된	세계+화+되+ㄴ	VERB	NNG+XSN+VV+ETM	_	2	acl	_	_
+2	사회에서	사회+에서	ADV	NNG+JKB	_	6	obl	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	능력이	능력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	아주	아주	ADV	MAG	_	6	advmod	_	_
+6	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_38_1_02
+# text = 이 이유로 많은 부모들이 어린 아이를 초등학교나 유치원부터 외국어를 배우도록 한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	10	obl	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	부모들이	부모+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+5	어린	어리+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	아이를	아이+를	NOUN	NNG+JKO	_	10	obj	_	_
+7	초등학교나	초등학교+나	NOUN	NNG+JC	_	10	obl	_	_
+8	유치원부터	유치원+부터	NOUN	NNG+JX	_	7	conj	_	_
+9	외국어를	외국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우도록	배우+도록	VERB	VV+EC	_	0	root	_	_
+11	한다	하	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_38_1_03
+# text = 특히 영어나 중국어가 유명한다.
+1	특히	특히	ADV	MAG	_	4	advmod	_	_
+2	영어나	영어+나	NOUN	NNG+JC	_	4	nsubj	_	_
+3	중국어가	중국어+가	NOUN	NNG+JKS	_	2	conj	_	_
+4	유명한다	유명+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_38_1_04
+# text = 한편에 외국어를 일찍 배우기 시작하면 쉽게 배울 수 있지만 단점도 많다.
+1	한편에	한편+에	ADV	NNG+JKB	_	5	obl	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	배우기	배우+기	VERB	VV+ETN	_	5	obj	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있지만	있+지만	VERB	VX+EC	_	11	advcl	_	_
+10	단점도	단점+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_38_1_05
+# text = 어린 아이들이 스트레스도 많이 받을 수도 있다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	스트레스도	스트레스+도	NOUN	NNG+JX	_	5	obj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	받을	받+을	VERB	VV+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_38_1_06
+# text = 그것은 외국어 빨리 배우지 않으면 다른 학생들이 더 큰 도움을 받을 수 있기 때문이다.
+1	그것은	그것+은	PRON	NP+JX	_	14	nsubj	_	_
+2	외국어	외국어	NOUN	NNG	_	4	obj	_	_
+3	빨리	빨리	ADV	MAG	_	4	advmod	_	_
+4	배우지	배우+지	VERB	VV+EC	_	13	advcl	_	_
+5	않으면	않	AUX	VX+EC	_	4	aux	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	큰	크+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	도움을	도움+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	받을	받+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있기	있+기	NOUN	VX+ETN	_	14	nmod	_	_
+14	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_38_1_07
+# text = 그렇지만 젊은 나이부터 외국 아이와 놀리거나 외국어로 된 TV프로그램을 보면 아주 긍정적인다고 생각한다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	13	cc	_	_
+2	젊은	젊+은	ADJ	VA+ETM	_	3	amod	_	_
+3	나이부터	나이+부터	NOUN	NNG+JX	_	6	obl	_	_
+4	외국	외국	NOUN	NNG	_	5	nmod	_	_
+5	아이와	아이+와	ADV	NNG+JKB	_	6	obl	_	_
+6	놀리거나	놀리+거나	VERB	VV+EC	_	12	advcl	_	_
+7	외국어로	외국어+로	ADV	NNG+JKB	_	8	obl	_	_
+8	된	되+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	TV프로그램을	TV+프로그램+을	NOUN	SL+NNG+JKO	_	10	obj	_	_
+10	보면	보+면	VERB	VV+EC	_	6	conj	_	_
+11	아주	아주	ADV	MAG	_	12	advmod	_	_
+12	긍정적인다고	긍정+적+이+ㄴ다고	ADJ	NNG+XSN+VCP+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_38_1_08
+# text = 또한 아이위해서 외국어를 배우기가 많이 어렵거나 스트레스를 많이 준다면 부모가 포기하면 좋다고 생각한다.
+1	또한	또한	ADV	MAJ	_	13	cc	_	_
+2	아이위해서	아이+위하+아서	VERB	NNG+VV+EC	_	4	advcl	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우기가	배우+기+가	VERB	VV+ETN+JKS	_	6	nsubj	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	어렵거나	어렵+거나	ADJ	VA+EC	_	11	advcl	_	_
+7	스트레스를	스트레스+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	많이	많이	ADV	MAG	_	9	advmod	_	_
+9	준다면	주+ㄴ다면	VERB	VV+EC	_	6	conj	_	_
+10	부모가	부모+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	포기하면	포기+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+12	좋다고	좋+다고	ADJ	VA+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_38_1_09
+# text = 아이가 즐거운 방법으로 배우는 것이 제일 중요하다고 생각한다.
+1	아이가	아이+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+2	즐거운	즐겁+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	방법으로	방법+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	8	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	제일	제일	ADV	MAG	_	7	advmod	_	_
+7	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

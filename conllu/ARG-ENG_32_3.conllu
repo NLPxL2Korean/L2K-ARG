@@ -1,0 +1,144 @@
+# sent_id = ARG-ENG_32_3_01
+# text = 사람이랑 일할때나 수업다닐때나 어떤 사람들 협동 선호하고 어떤 사람은 경쟁을 선호한다.
+1	사람이랑	사람+이랑	ADV	NNG+JKB	_	2	obl	_	_
+2	일할때나	일+하+ㄹ+때+나	VERB	NNG+XSV+ETM+NNG+JC	_	7	advcl	_	_
+3	수업다닐때나	수업+다니+ㄹ+때+나	NOUN	NNG+VV+ETM+NNG+JX	_	2	conj	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	사람들	사람+들	NOUN	NNG+XSN	_	7	nsubj	_	_
+6	협동	협동	NOUN	NNG	_	7	obj	_	_
+7	선호하고	선호+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+8	어떤	어떤	DET	MM	_	9	det	_	_
+9	사람은	사람+은	NOUN	NNG+JX	_	11	nsubj	_	_
+10	경쟁을	경쟁+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	7	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_32_3_02
+# text = 나는 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_3_03
+# text = 협동을 "우리"라는 느낌감을 만들어준다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+2	"우리"라는	"+우리+"+이+라는	VERB	SS+NNG+SS+VCP+ETM	_	3	acl	_	_
+3	느낌감을	느낌감+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	만들어준다	만들+어+주+ㄴ다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_3_04
+# text = 내가 교수가 했을때 다른 선생님들과 경쟁이 많아서 선생님들 절대 무엇이 가르치는지 말을 안한다.
+1	내가	내+가	PRON	NP+JKS	_	3	dislocated	_	_
+2	교수가	교수+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	했을때	하+았+을때	VERB	VV+EP+ETM	_	7	advcl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	선생님들과	선생+님+들+과	NOUN	NNG+XSN+XSN+JKB	_	7	obl	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	많아서	많+아서	ADJ	VA+EC	_	13	advcl	_	_
+8	선생님들	선생+님+들	NOUN	NNG+XSN+XSN	_	13	nsubj	_	_
+9	절대	절대	ADV	MAG	_	13	advmod	_	_
+10	무엇이	무엇+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	가르치는지	가르치+는지	VERB	VV+EC	_	13	ccomp	_	_
+12	말을	말+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	안한다	안+하+ㄴ다	ADJ	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_32_3_05
+# text = 특히 어떤 방법으로 가르치는지 비밀로 한다.
+1	특히	특히	ADV	MAG	_	6	advmod	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	방법으로	방법+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	가르치는지	가르치+는지	VERB	VV+EC	_	6	ccomp	_	_
+5	비밀로	비밀+로	ADV	NNG+JKB	_	6	obl	_	_
+6	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_32_3_06
+# text = 왜냐하면 "이 책으로 이 주제를 가르치고 있다" 말하면 한 학년 더 낮은 선생님이 빼서 가르친다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	15	cc	_	_
+2	"이	"+이	DET	SS+MM	_	3	det	_	_
+3	책으로	책+으로	ADV	NNG+JKB	_	6	obl	_	_
+4	이	이	DET	MM	_	5	det	_	_
+5	주제를	주제+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	가르치고	가르치+고	VERB	VV+EC	_	8	advcl	_	_
+7	있다"	있	AUX	VX+EF+SS	_	6	aux	_	_
+8	말하면	말+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+9	한	한	NUM	MM	_	10	nummod	_	_
+10	학년	학년	NOUN	NNG	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	낮은	낮+은	ADJ	VA+ETM	_	13	acl	_	_
+13	선생님이	선생+님+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+14	빼서	빼+서	VERB	VV+EC	_	15	advcl	_	_
+15	가르친다	가르치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_32_3_07
+# text = 경쟁 있기 때문에 같이 쓰는 것이 어려워진다.
+1	경쟁	경쟁	NOUN	NNG	_	2	nsubj	_	_
+2	있기	있+기	VERB	VV+ETN	_	7	obl	_	_
+3	때문에	때문+에	ADV	NNB+JKB	_	2	case	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	쓰는	쓰+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	어려워진다	어렵+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_32_3_08
+# text = 그런대 협동하면 자연스럽게 같이 쓸 수 있다.
+1	그런대	그런대	ADV	NA	Typo=Yes	7	cc	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
+3	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	5	advmod	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	쓸	쓰+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_32_3_09
+# text = 경쟁의 약한 부분은 시간적으로 이기는 사람이 있다.
+1	경쟁의	경쟁+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	약한	약하+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	부분은	부분+은	NOUN	NNG+JX	_	7	obl	_	_
+4	시간적으로	시간+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	이기는	이기+는	VERB	VV+ETM	_	6	acl	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_32_3_10
+# text = 일할때 만료기간이 중요하지만 마지막만 중요하지 않다.
+1	일할때	일+하+ㄹ+때	NOUN	NNG+XSV+ETM+NNG	_	3	obl	_	_
+2	만료기간이	만료+기간+이	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+3	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	5	advcl	_	_
+4	마지막만	마지막+만	NOUN	NNG+JX	_	5	nsubj	_	_
+5	중요하지	중요+하+지	ADJ	NNG+XSA+EC	_	0	root	_	_
+6	않다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_32_3_11
+# text = 그 동안 협동으로 만든 것들 소중한 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	동안	동안	NOUN	NNG	_	4	obl	_	_
+3	협동으로	협동+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	만든	만들+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	것들	것+들	NOUN	NNG+XSN	_	7	nsubj	_	_
+6	소중한	소중+하+ㄴ	ADJ	XR+XSA+ETM	_	7	amod	_	_
+7	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_32_3_12
+# text = 경쟁은 나쁜 것 가이지만 나같은 경후에는 협동 더 많이 선호한다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	dislocated	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	것	것	NOUN	NNB	_	4	nsubj	_	_
+4	가이지만	가이+지만	VERB	NV+EC	Typo=Yes	10	advcl	_	_
+5	나같은	나+같+은	ADJ	NP+VA+ETM	_	6	acl	_	_
+6	경후에는	경후+에+는	ADV	NF+JKB+JX	Typo=Yes	10	obl	_	_
+7	협동	협동	NOUN	NNG	_	10	obj	_	_
+8	더	더	ADV	MAG	_	10	advmod	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

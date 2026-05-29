@@ -1,0 +1,85 @@
+# sent_id = ARG-CZH_12_2_01
+# text = 모두 나라를 다양한 역사를 있어요.
+1	모두	모두	ADV	MAG	_	5	advmod	_	_
+2	나라를	나라+를	NOUN	NNG+JKO	_	5	obj	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_12_2_02
+# text = 우리 나라의 역사 모르면 어떻게 우리 나라 알 수 있어요?
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	나라의	나라+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	역사	역사	NOUN	NNG	_	4	obj	_	_
+4	모르면	모르+면	VERB	VV+EC	_	10	advcl	_	_
+5	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+6	우리	우리	PRON	NP	_	7	nmod	_	_
+7	나라	나라	NOUN	NNG	_	8	obj	_	_
+8	알	알+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_2_03
+# text = 역사 아면 우리는 또같은 실수 안할 거에요.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	아면	아면	ADV	NA	Typo=Yes	7	advmod	_	_
+3	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+4	또같은	또같+은	VERB	NV+ETM	Typo=Yes	5	amod	_	_
+5	실수	실수	NOUN	NNG	_	6	obj	_	_
+6	안할	안+하+ㄹ	VERB	MAG+VV+ETM	_	7	acl	_	_
+7	거에요	것+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_12_2_04
+# text = 역사에서 우리 나라 큰 문제가 있지만 지금 이 문제 없어요.
+1	역사에서	역사+에서	ADV	NNG+JKB	_	6	obl	_	_
+2	우리	우리	PRON	NP	_	3	nmod	_	_
+3	나라	나라	NOUN	NNG	_	5	nmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있지만	있+지만	VERB	VV+EC	_	10	advcl	_	_
+7	지금	지금	ADV	MAG	_	10	advmod	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	문제	문제	NOUN	NNG	_	10	nsubj	_	_
+10	없어요	없+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_2_05
+# text = 왜?
+1	왜	왜	ADV	MAG	_	2	advmod	_	SpaceAfter=No
+2	?	?	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-CZH_12_2_06
+# text = 역사는 우리를 뭘 해야 한 것은 가르쳤어요.
+1	역사는	역사+는	NOUN	NNG+JX	_	7	nsubj	_	_
+2	우리를	우리+를	PRON	NP+JKO	_	4	obj	_	_
+3	뭘	무엇+을	PRON	NP+JKB	_	4	obj	_	_
+4	해야	하+아야	VERB	VV+EC	_	6	acl	_	_
+5	한	하	AUX	VX+ETM	_	4	aux	_	_
+6	것은	것+은	NOUN	NNB+JX	_	7	obj	_	_
+7	가르쳤어요	가르치+었+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_12_2_07
+# text = 제 생각은 역사 아주 중요해요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각은	생각+은	NOUN	NNG+JX	_	5	dislocated	_	_
+3	역사	역사	NOUN	NNG	_	5	nsubj	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_12_2_08
+# text = 저는 역사 수업이 좋아하지 않고 재미없다고 생각했는데 역사를 필요해요.
+1	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	수업이	수업+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	좋아하지	좋아하+지	VERB	VV+EC	_	7	ccomp	_	_
+5	않고	않	AUX	VX+EC	_	4	aux	_	_
+6	재미없다고	재미+없+다고	ADJ	NNG+VA+EC	_	4	conj	_	_
+7	생각했는데	생각+하+았+는데	VERB	NNG+XSV+EP+EC	_	9	advcl	_	_
+8	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	필요해요	필요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

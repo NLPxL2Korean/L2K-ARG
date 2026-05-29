@@ -1,0 +1,107 @@
+# sent_id = ARG-CHN_20_2_01
+# text = 협동이 성공에 더 큰 영향을 미친다고 생각하다.
+1	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미친다고	미치+ㄴ다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_20_2_03
+# text = 많이 사람들이 같이 협동하면 자기의 생각, 의견이 나누고 힘이 더 세다.
+1	많이	많이	ADV	MAG	_	4	advmod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+5	자기의	자기+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	생각	생각	NOUN	NNG	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	의견이	의견+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	나누고	나누+고	VERB	VV+EC	_	0	root	_	_
+10	힘이	힘+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	세다	세+다	ADJ	VA+EF	_	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_20_2_04
+# text = 성공성이 더 높다.
+1	성공성이	성공+성+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	높다	높+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_20_2_06
+# text = 같이 협동하면 서로 더 친하고 서로 배우며 성장할 수 있다.
+1	같이	같이	ADV	MAG	_	2	advmod	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+3	서로	서로	ADV	MAG	_	5	advmod	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	친하고	친하+고	ADJ	VA+EC	_	8	advcl	_	_
+6	서로	서로	ADV	MAG	_	7	advmod	_	_
+7	배우며	배우+며	VERB	VV+EC	_	8	advcl	_	_
+8	성장할	성장+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_20_2_07
+# text = 개인에 대해서 발전이 시킬 수 있다.
+1	개인에	개인+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	6	advcl	_	_
+3	발전이	발전+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	시킬	시키+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_20_2_09
+# text = 사회에서 자기의 능력이 아무리 훌률하고 환경문제, 교통문제, 복지문제 등에 다 같이 협동하면 여려문제가 더 쉬게 해결할 수 있다.
+1	사회에서	사회+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	자기의	자기+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	능력이	능력+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	아무리	아무리	ADV	MAG	_	5	advmod	_	_
+5	훌률하고	훌률+하+고	ADJ	NA+XSA+EC	Typo=Yes	20	advcl	_	_
+6	환경문제	환경+문제	NOUN	NNG+NNG	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	교통문제	교통+문제	NOUN	NNG+NNG	_	10	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	복지문제	복지+문제	NOUN	NNG+NNG	_	14	obl	_	_
+11	등에	등+에	ADV	NNB+JKB	_	10	case	_	_
+12	다	다	ADV	MAG	_	13	advmod	_	_
+13	같이	같이	ADV	MAG	_	14	advmod	_	_
+14	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	20	advcl	_	_
+15	여려문제가	여려+문제+가	NOUN	NV+NNG+JKS	Typo=Yes	18	nsubj	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	쉬게	쉬+게	ADV	NV+EC	Typo=Yes	18	advmod	_	_
+18	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_20_2_11
+# text = 협동 더 가치 있다.
+1	협동	협동	NOUN	NNG	_	4	dislocated	_	_
+2	더	더	ADV	MAG	_	4	advmod	_	_
+3	가치	가치	NOUN	NNG	_	4	nsubj	_	_
+4	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_20_2_12
+# text = 과제를 할 때 모르는 부분이 있으면 친구랑 같이 생각하고 문제를 더 풀어 수 있다.
+1	과제를	과제+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	모르는	모르+는	VERB	VV+ETM	_	5	acl	_	_
+5	부분이	부분+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있으면	있+으면	VERB	VV+EC	_	14	advcl	_	_
+7	친구랑	친구+랑	ADV	NNG+JKB	_	9	obl	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+10	문제를	문제+를	NOUN	NNG+JKO	_	12	obj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	풀어	풀+어	VERB	VV+EC	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

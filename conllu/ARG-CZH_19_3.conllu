@@ -1,0 +1,77 @@
+# sent_id = ARG-CZH_19_3_01
+# text = 협동과 경쟁이 둘다 중요하지만 저는 개인적으로 협동을 선호합니다.
+1	협동과	협동+과	NOUN	NNG+JC	_	4	nsubj	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	1	conj	_	_
+3	둘다	둘+다	ADV	NR+MAG	_	4	advmod	_	_
+4	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	8	advcl	_	_
+5	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+6	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+7	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_19_3_02
+# text = 저는 어렸을대부터 경쟁에 많이 잠가해는데 항상 스트레스를 많이 받고 경쟁때문에 친구랑 사이를 나빠졌습니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	어렸을대부터	어리+었+을+대+부터	ADV	VA+EP+ETM+NF+JX	Typo=Yes	5	obl	_	_
+3	경쟁에	경쟁+에	ADV	NNG+JKB	_	5	obl	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	잠가해는데	잠가+하+아+는데	VERB	NF+XSV+NA+EC	Typo=Yes	9	advcl	_	_
+6	항상	항상	ADV	MAG	_	9	advmod	_	_
+7	스트레스를	스트레스+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	많이	많이	ADV	MAG	_	9	advmod	_	_
+9	받고	받+고	VERB	VV+EC	_	13	advcl	_	_
+10	경쟁때문에	경쟁+때문+에	ADV	NNG+NNB+JKB	_	13	obl	_	_
+11	친구랑	친구+랑	ADV	NNG+JKB	_	13	obl	_	_
+12	사이를	사이+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	나빠졌습니다	나쁘+아지+었+습니다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_19_3_03
+# text = 경쟁이 있스면 아마 더 잘하게 하는 사람들이 있으나 저는 경쟁에 비해 협동이 있으면 일을 잘 하는 편입니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있스면	있+스면	ADJ	VA+NA	Typo=Yes	8	advcl	_	_
+3	아마	아마	ADV	MAG	_	8	advmod	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	잘하게	잘하+게	VERB	VV+EC	_	7	acl	_	_
+6	하는	하	AUX	VX+ETM	_	5	aux	_	_
+7	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	있으나	있+으나	VERB	VV+EC	_	17	advcl	_	_
+9	저는	저+는	PRON	NP+JX	_	17	nsubj	_	_
+10	경쟁에	경쟁+에	ADV	NNG+JKB	_	11	obl	_	_
+11	비해	비하+아	VERB	VV+EC	_	13	advcl	_	_
+12	협동이	협동+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	있으면	있+으면	VERB	VV+EC	_	16	advcl	_	_
+14	일을	일+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	하는	하+는	VERB	VV+ETM	_	17	acl	_	_
+17	편입니다	편+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_19_3_04
+# text = 다른 사람과 한 목적이 있고 같이 문제를 해결하는 것이 좋습니다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	8	obl	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	목적이	목적+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있고	있+고	ADJ	VA+EC	_	8	advcl	_	_
+6	같이	같이	ADV	MAG	_	8	advmod	_	_
+7	문제를	문제+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	해결하는	해결+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_19_3_05
+# text = 혼자보다 같이 일하면 더 빨리 일하고 소러 도와줄 수 있습니다.
+1	혼자보다	혼자+보다	ADV	NNG+JKB	_	3	obl	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	일하면	일+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	빨리	빨리	ADV	MAG	_	6	advmod	_	_
+6	일하고	일+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+7	소러	소러	ADV	NA	Typo=Yes	8	advmod	_	_
+8	도와줄	도와주+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

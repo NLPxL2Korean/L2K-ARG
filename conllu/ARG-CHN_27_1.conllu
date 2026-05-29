@@ -1,0 +1,151 @@
+# sent_id = ARG-CHN_27_1_01
+# text = 나는 자연 보존 더 중요하다고 생각을 하다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존	보존	NOUN	NNG	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+6	생각을	생각+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하다	하+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_27_1_02
+# text = 지금 지구 오염 이미 너무 심각한 상황였다.
+1	지금	지금	ADV	MAG	_	7	advmod	_	_
+2	지구	지구	NOUN	NNG	_	3	nmod	_	_
+3	오염	오염	NOUN	NNG	_	7	nsubj	_	_
+4	이미	이미	ADV	MAG	_	7	advmod	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	심각한	심각+하+ㄴ	ADJ	XR+XSA+ETM	_	7	amod	_	_
+7	상황였다	상황+이+었+다	ADJ	NNG+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_27_1_03
+# text = 사회에 발전하므로서 인간들 비밀봉지 등 오염이 되는 상품을 생산해서 쓰고 보린다.
+1	사회에	사회+에	ADV	NNG+JKB	_	2	obl	_	_
+2	발전하므로서	발전+하+므로서	VERB	NNG+XSV+NA	Typo=Yes	11	advcl	_	_
+3	인간들	인간+들	NOUN	NNG+XSN	_	11	nsubj	_	_
+4	비밀봉지	비밀+봉지	NOUN	NNG+NNG	_	8	nmod	_	_
+5	등	등	NOUN	NNB	_	4	case	_	_
+6	오염이	오염+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	되는	되+는	VERB	VV+ETM	_	8	acl	_	_
+8	상품을	상품+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	생산해서	생산+하+아서	VERB	NNG+XSV+EC	_	10	advcl	_	_
+10	쓰고	쓰+고	VERB	VV+EC	_	11	advcl	_	_
+11	보린다	보리+ㄴ다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_27_1_04
+# text = 특히 버린던 쓰래기 처리 방법도 환경 오염 되게 심각한 문제이다.
+1	특히	특히	ADV	MAG	_	10	advmod	_	_
+2	버린던	버리+ㄴ+던	VERB	VV+NA+ETM	Typo=Yes	3	acl	_	_
+3	쓰래기	쓰래기	NOUN	NF	Typo=Yes	4	nmod	_	_
+4	처리	처리	NOUN	NNG	_	5	nmod	_	_
+5	방법도	방법+도	NOUN	NNG+JX	_	10	nsubj	_	_
+6	환경	환경	NOUN	NNG	_	7	nmod	_	_
+7	오염	오염	NOUN	NNG	_	9	nsubj	_	_
+8	되게	되게	ADV	MAG	_	9	advmod	_	_
+9	심각한	심각+하+ㄴ	ADJ	XR+XSA+ETM	_	10	acl	_	_
+10	문제이다	문제+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_27_1_05
+# text = 쓰래기를 흟에서 들어가서 주변 시물이 쉽게 죽고 바다에서 쓰래기들 해선물 다 먹고 죽어나 배 속에 남아던 스래기 다시 인간 배속에 들어간다.
+1	쓰래기를	쓰래기+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	흟에서	흟+에서	ADV	NF+JKB	Typo=Yes	3	obl	_	_
+3	들어가서	들어가+아서	VERB	VV+EC	_	7	advcl	_	_
+4	주변	주변	NOUN	NNG	_	5	nmod	_	_
+5	시물이	시물+이	NOUN	NF+JKS	Typo=Yes	7	nsubj	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	죽고	죽+고	VERB	VV+EC	_	13	advcl	_	_
+8	바다에서	바다+에서	ADV	NNG+JKB	_	12	obl	_	_
+9	쓰래기들	쓰래기+들	NOUN	NF+XSN	Typo=Yes	12	obj	_	_
+10	해선물	해선물	NOUN	NF	Typo=Yes	12	nsubj	_	_
+11	다	다	ADV	MAG	_	12	advmod	_	_
+12	먹고	먹+고	VERB	VV+EC	_	13	advcl	_	_
+13	죽어나	죽+어나	VERB	VV+EC	_	21	advcl	_	_
+14	배	배	NOUN	NNG	_	16	obl	_	_
+15	속에	속+에	ADV	NNG+JKB	_	14	case	_	_
+16	남아던	남+아+던	VERB	VV+NA+ETM	Typo=Yes	17	acl	_	_
+17	스래기	스래기	NOUN	NF	Typo=Yes	21	nsubj	_	_
+18	다시	다시	ADV	MAG	_	21	advmod	_	_
+19	인간	인간	NOUN	NNG	_	20	nmod	_	_
+20	배속에	배+속+에	ADV	NNG+NNG+JKB	_	21	obl	_	_
+21	들어간다	들어가+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_27_1_06
+# text = 이어서 자연을 더 개발하면 지구 생존 환경을 더 나쁯지 것이다.
+1	이어서	이어서	ADV	MAG	_	10	advmod	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	지구	지구	NOUN	NNG	_	6	nmod	_	_
+6	생존	생존	NOUN	NNG	_	7	nmod	_	_
+7	환경을	환경+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	나쁯지	나쁘+ㅊ지	ADJ	VA+NA	Typo=Yes	10	acl	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_27_1_07
+# text = 자연 보존하면 어느 정도에서 지구상 깨끗한 당이 하나 있다.
+1	자연	자연	NOUN	NNG	_	2	obj	_	_
+2	보존하면	보존+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+3	어느	어느	DET	MM	_	4	det	_	_
+4	정도에서	정도+에서	ADV	NNG+JKB	_	9	obl	_	_
+5	지구상	지구+상	NOUN	NNG+XSN	_	9	obl	_	_
+6	깨끗한	깨끗+하+ㄴ	ADJ	XR+XSA+ETM	_	7	amod	_	_
+7	당이	당이	NOUN	NF+JKS	Typo=Yes	9	dislocated	_	_
+8	하나	하나	NUM	NR	_	9	nsubj	_	_
+9	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_27_1_08
+# text = 동물들도 자유럽게 살수있고 인간들에 위험을 당하지 않다.
+1	동물들도	동물+들+도	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+2	자유럽게	자유+럽+게	ADV	NNG+NA+EC	Typo=Yes	3	advmod	_	_
+3	살수있고	살+ㄹ+수+있+고	VERB	VV+ETM+NNB+VX+EC	_	0	root	_	_
+4	인간들에	인간+들+에	ADV	NNG+XSN+JKB	_	6	obl	_	_
+5	위험을	위험+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	당하지	당하+지	VERB	VV+EC	_	3	conj	_	_
+7	않다	않	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_27_1_09
+# text = 자연 보존 더 중요하다고 또 다른점은 인간들도 단세포부터 원숭이 점점 자연환경속에 진화로 오는데, 지금 인간은 고급생물이지만 자연환경은 우리에게 버릴 수 없는 존재이다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존	보존	NOUN	NNG	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	acl	_	_
+5	또	또	ADV	MAG	_	6	advmod	_	_
+6	다른점은	다른+점+은	NOUN	MM+NNB+JX	_	13	dislocated	_	_
+7	인간들도	인간+들+도	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+8	단세포부터	단+세포+부터	NOUN	XPN+NNG+JX	_	13	obl	_	_
+9	원숭이	원숭이	NOUN	NNG	_	13	obl	_	_
+10	점점	점점	ADV	MAG	_	13	advmod	_	_
+11	자연환경속에	자연+환경+속+에	ADV	NNG+NNG+NNG+JKB	_	13	obl	_	_
+12	진화로	진화+로	ADV	NNG+JKB	_	13	obl	_	_
+13	오는데	오+는데	VERB	VV+EC	_	17	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	지금	지금	ADV	MAG	_	17	advmod	_	_
+16	인간은	인간+은	NOUN	NNG+JX	_	17	nsubj	_	_
+17	고급생물이지만	고급+생물+이+지만	ADJ	NNG+NNG+VCP+EC	_	23	advcl	_	_
+18	자연환경은	자연+환경+은	NOUN	NNG+NNG+JX	_	23	nsubj	_	_
+19	우리에게	우리+에게	PRON	NP+JKB	_	23	obl	_	_
+20	버릴	버리+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	없는	없+는	VERB	VX+ETM	_	23	advcl	_	_
+23	존재이다	존재+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CHN_27_1_10
+# text = 그래서 자연개발보다 보존을 더 중요한다고 생각을 한다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	자연개발보다	자연+개발+보다	ADV	NNG+NNG+JKB	_	5	obl	_	_
+3	보존을	보존+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+6	생각을	생각+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

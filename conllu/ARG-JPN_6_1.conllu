@@ -1,0 +1,168 @@
+# sent_id = ARG-JPN_06_1_01
+# text =  조기언어교육을 할 때는 장점과 단점이 있다.
+1	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	장점과	장점+과	NOUN	NNG+JC	_	6	nsubj	_	_
+5	단점이	단점+이	NOUN	NNG+JKS	_	4	conj	_	_
+6	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_06_1_02
+# text =  먼저 장점은 일찍 교육을 하면 할수록 언어를 더 잘 외울 수 있는 것이다.
+1	먼저	먼저	ADV	MAG	_	13	advmod	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	13	nsubj	_	_
+3	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하면	하+면	VERB	VV+EC	_	6	advcl	_	_
+6	할수록	하+ㄹ수록	VERB	VV+EC	_	12	advcl	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+8	더	더	ADV	MAG	_	10	advmod	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	외울	외우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_06_1_03
+# text =  아이는 능력적으로 기록력이 좋다.
+1	아이는	아이+는	NOUN	NNG+JX	_	4	dislocated	_	_
+2	능력적으로	능력+적+으로	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	기록력이	기록+력+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_06_1_04
+# text =  그래서 언어교육을 일찍 시작하면 그 전도 많은 단어나 문법을 외울 수 있다.
+1	그래서	그래서	ADV	MAJ	_	12	cc	_	_
+2	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	전도	전도	NOUN	NF	_	7	nmod	_	_
+7	많은	많+은	ADJ	VA+ETM	_	8	amod	_	_
+8	단어나	단어+나	NOUN	NNG+JC	_	10	obj	_	_
+9	문법을	문법+을	NOUN	NNG+JKO	_	8	conj	_	_
+10	외울	외우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_06_1_05
+# text =  조기에 언어교육을 하면 원어민처럼 외국어를 사용할 수 있는 아이가 될 수도 있다.
+1	조기에	조기+에	ADV	NNG+JKB	_	3	obl	_	_
+2	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	12	advcl	_	_
+4	원어민처럼	원어민+처럼	ADV	NNG+JKB	_	6	obl	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	아이가	아이+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	될	되+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_06_1_06
+# text =  하지만 조기언어교육은 단점도 있다.
+1	하지만	하지만	ADV	MAJ	_	4	cc	_	_
+2	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	4	dislocated	_	_
+3	단점도	단점+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_06_1_07
+# text =  그것은 부모님이나 친구가 쓰는 모국어를 외우기 어렵게 되는 것이다.
+1	그것은	그것+은	PRON	NP+JX	_	9	nsubj	_	_
+2	부모님이나	부모+님+이나	NOUN	NNG+XSN+JC	_	6	nsubj	_	_
+3	친구가	친구+가	NOUN	NNG+JKS	_	2	conj	_	_
+4	쓰는	쓰+는	VERB	VV+ETM	_	5	acl	_	_
+5	모국어를	모국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	외우기	외우+기	NOUN	VV+ETN	_	8	nsubj	_	_
+7	어렵게	어렵+게	ADV	VA+EC	_	8	advmod	_	_
+8	되는	되+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_1_08
+# text =  아이는 기억력이 좋아서 외국어도 외우기가 쉽다.
+1	아이는	아이+는	NOUN	NNG+JX	_	3	dislocated	_	_
+2	기억력이	기억력+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	좋아서	좋+아서	VERB	VA+EC	_	6	advcl	_	_
+4	외국어도	외국어+도	NOUN	NNG+JX	_	5	obj	_	_
+5	외우기가	외우+기+가	NOUN	VV+ETN+JKS	_	6	nsubj	_	_
+6	쉽다	쉽+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_06_1_09
+# text =  그래도 열심히 외국어를 배우면 모국어를 쓰는 기회가 없어져서 모국어로 확실하게 쓸 수 없게 될 수도 있다.
+1	그래도	그래도	ADV	MAJ	_	16	cc	_	_
+2	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+5	모국어를	모국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	쓰는	쓰+는	VERB	VV+ETM	_	7	acl	_	_
+7	기회가	기회+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	없어져서	없+어지+어서	VERB	VA+XSV+EC	_	16	advcl	_	_
+9	모국어로	모국어+로	ADV	NNG+JKB	_	11	obl	_	_
+10	확실하게	확실+하+게	ADV	XR+XSA+EC	_	11	advmod	_	_
+11	쓸	쓰+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없게	없+게	VERB	VX+EC	_	15	advcl	_	_
+14	될	되+ㄹ	VERB	VX+ETM	_	15	acl	_	_
+15	수도	수+도	NOUN	NNB+JX	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_06_1_10
+# text =  그 영향은 계속되고 사회인이 되는 후에도 어려움을 느끼는 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	영향은	영향+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	계속되고	계속+되+고	VERB	NNG+XSV+EC	_	9	advcl	_	_
+4	사회인이	사회+인+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	되는	되+는	VERB	VV+ETM	_	8	advcl	_	_
+6	후에도	후+에+도	ADV	NNG+JKB+JX	_	3	mark	_	_
+7	어려움을	어렵+ㅁ+을	NOUN	VA+ETN+JKO	_	8	obj	_	_
+8	느끼는	느끼+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_1_11
+# text =  또는 조기에 2개 이상 언어를 배우면 들 다 애매하고 적당하게 쓸 수 없는 경우가 있을 것이다.
+1	또는	또는	ADV	MAG	_	16	cc	_	_
+2	조기에	조기+에	ADV	NNG+JKB	_	6	obl	_	_
+3	2개	2+개	NOUN	SN+NNB	_	6	obl	_	_
+4	이상	이상	ADP	NNG	_	3	case	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우면	배우+면	VERB	VV+EC	_	16	advcl	_	_
+7	들	들	VERB	NF	_	11	obj	_	_
+8	다	다	ADV	MAG	_	16	advmod	_	_
+9	애매하고	애매+하+고	VERB	XR+XSA+EC	_	11	advmod	_	_
+10	적당하게	적당+하+게	ADV	XR+XSA+EC	_	9	conj	_	_
+11	쓸	쓰+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없는	없+는	VERB	VX+ETM	_	14	acl	_	_
+14	경우가	경우+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있을	있+을	VERB	VV+ETM	_	16	acl	_	_
+16	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_06_1_12
+# text =  그래서 조기언어교육을 할 때는 그런 아이의 특성과 미치는 영향을 잘 알고 배려하는 필요가 있다.
+1	그래서	그래서	ADV	MAJ	_	14	cc	_	_
+2	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	14	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	그런	그런	DET	MM	_	6	det	_	_
+6	아이의	아이+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	특성과	특성+과	NOUN	NNG+JC	_	11	obj	_	_
+8	미치는	미치+는	VERB	VV+ETM	_	9	acl	_	_
+9	영향을	영향+을	NOUN	NNG+JKO	_	7	conj	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	알고	알+고	VERB	VV+EC	_	14	advcl	_	_
+12	배려하는	배려+하+는	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	필요가	필요+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

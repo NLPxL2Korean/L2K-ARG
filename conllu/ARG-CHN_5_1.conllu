@@ -1,0 +1,121 @@
+# sent_id = ARG-CHN_5_1_01
+# text = 자연 보존은 자연 개발보다 더 중요하다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존은	보존+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발보다	개발+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_5_1_02
+# text = 우리 나라 중국도 몇 년 전에 자원이 예를 들어 식유 풍부했다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	나라	나라	NOUN	NNG	_	11	obl	_	_
+3	중국도	중국+도	NOUN	NNP+JX	_	2	flat	_	_
+4	몇	몇	DET	MM	_	5	det	_	_
+5	년	년	NOUN	NNB	_	11	obl	_	_
+6	전에	전+에	ADV	NNG+JKB	_	5	case	_	_
+7	자원이	자원+이	NOUN	NNG+JKS	_	11	dislocated	_	_
+8	예를	예+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	들어	들+어	VERB	VV+EC	_	11	advcl	_	_
+10	식유	식유	NOUN	NNG	_	11	nsubj	_	_
+11	풍부했다	풍부+하+았+다	ADJ	NNG+XSA+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_5_1_03
+# text = 그러나 사람들이 식유를 쓰기위해 무제한으로 개발해 보니 경제적인 이익을 얻었지만 자연환경에 회복할 수 없는 피해를 주었다.
+1	그러나	그러나	ADV	MAJ	_	16	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	식유를	식유+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	쓰기위해	쓰+기+위하+아	NOUN	VV+ETN+VV+EC	_	6	advcl	_	_
+5	무제한으로	무제한+으로	ADV	NNG+JKB	_	6	obl	_	_
+6	개발해	개발+하+아	VERB	NNG+XSV+EC	_	16	advcl	_	_
+7	보니	보+니	VERB	VX+EC	_	6	advcl	_	_
+8	경제적인	경제+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	amod	_	_
+9	이익을	이익+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	얻었지만	얻+었+지만	VERB	VV+EP+EC	_	16	advcl	_	_
+11	자연환경에	자연+환경+에	ADV	NNG+NNG+JKB	_	16	obl	_	_
+12	회복할	회복+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	없는	없+는	VERB	VX+ETM	_	15	advcl	_	_
+15	피해를	피해+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	주었다	주+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_5_1_04
+# text = 식유를 과도하게 개발하기 때문에 식유가 풍부한 지역 아름다웠던 환경은 많이 악회되거고 심지어 사람도 거거서 거주할 수 없는 곳이 됬었다.
+1	식유를	식유+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	과도하게	과도+하+게	ADV	NNG+XSA+EC	_	3	advmod	_	_
+3	개발하기	개발+하+기	VERB	NNG+XSV+ETN	_	19	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	식유가	식유+가	NOUN	NF+JKS	Typo=Yes	6	nsubj	_	_
+6	풍부한	풍부+하+ㄴ	ADJ	XR+XSA+ETM	_	7	acl	_	_
+7	지역	지역	NOUN	NNG	_	9	nmod	_	_
+8	아름다웠던	아름답+었+던	ADJ	VA+EP+ETM	_	9	acl	_	_
+9	환경은	환경+은	NOUN	NNG+JX	_	11	nsubj	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	악회되거고	악회+되+거고	VERB	NF+XSV+NA	Typo=Yes	19	advcl	_	_
+12	심지어	심지어	ADV	MAG	_	19	advmod	_	_
+13	사람도	사람+도	NOUN	NNG+JX	_	15	nsubj	_	_
+14	거거서	거거+서	ADV	NF+JKB	Typo=Yes	15	obl	_	_
+15	거주할	거주+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	없는	없+는	ADJ	VA+ETM	_	18	acl	_	_
+18	곳이	곳+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	됬었다	되+ㅆ+었+다	VERB	VV+NA+EP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CHN_5_1_05
+# text = 따라서 지속적인 개발관점에서 보면 개발하는 과정중에 자연 본존은 제일 먼저 자리에 차지하여야 한다.
+1	따라서	따라서	ADV	MAJ	_	12	cc	_	_
+2	지속적인	지속+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	개발관점에서	개발+관점+에서	ADV	NNG+NNG+JKB	_	4	obl	_	_
+4	보면	보+면	VERB	VV+EC	_	12	advcl	_	_
+5	개발하는	개발+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	과정중에	과정+중+에	ADV	NNG+NNB+JKB	_	12	obl	_	_
+7	자연	자연	NOUN	NNG	_	8	nmod	_	_
+8	본존은	본존+은	NOUN	NF+JX	Typo=Yes	12	nsubj	_	_
+9	제일	제일	ADV	MAG	_	10	advmod	_	_
+10	먼저	먼저	ADV	MAG	_	12	advmod	_	_
+11	자리에	자리+에	ADV	NNG+JKB	_	12	obl	_	_
+12	차지하여야	차지+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+13	한다	하	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_5_1_06
+# text = 자연본돈을 하면서 환경에 최소한 피해를 주는 자연 개발을 하면 앞으로는 더 지속적인 개발이 가능할 것이다.
+1	자연본돈을	자연+본돈+을	NOUN	NNG+NF+JKO	Typo=Yes	2	obj	_	_
+2	하면서	하+면서	VERB	VV+EC	_	9	advcl	_	_
+3	환경에	환경+에	ADV	NNG+JKB	_	6	obl	_	_
+4	최소한	최소한	ADV	MAG	_	6	advmod	_	_
+5	피해를	피해+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	주는	주+는	VERB	VV+ETM	_	8	acl	_	_
+7	자연	자연	NOUN	NNG	_	8	nmod	_	_
+8	개발을	개발+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+10	앞으로는	앞+으로+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	지속적인	지속+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	13	amod	_	_
+13	개발이	개발+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	가능할	가능+하+ㄹ	ADJ	NNG+XSA+ETM	_	15	acl	_	_
+15	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_5_1_07
+# text = 사람들이 같이 살아있는 지구에서 자기이익을 생각하만 안되고 다른사람들의 이익 또한 생존환경도 생각해야 한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	살아있는	살+아+있+는	VERB	VV+EC+VX+ETM	_	4	acl	_	_
+4	지구에서	지구+에서	ADV	NNG+JKB	_	12	obl	_	_
+5	자기이익을	자기+이익+을	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+6	생각하만	생각+하+만	VERB	NNG+XSV+NA	Typo=Yes	7	advcl	_	_
+7	안되고	안+되+고	VERB	MAG+VV+EC	_	12	advcl	_	_
+8	다른사람들의	다른+사람+들+의	NOUN	MM+NNG+XSN+JKG	_	9	nmod:poss	_	_
+9	이익	이익	NOUN	NNG	_	12	obj	_	_
+10	또한	또한	ADV	MAG	_	12	cc	_	_
+11	생존환경도	생존+환경+도	NOUN	NNG+NNG+JX	_	12	obj	_	_
+12	생각해야	생각+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+13	한다	하	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_

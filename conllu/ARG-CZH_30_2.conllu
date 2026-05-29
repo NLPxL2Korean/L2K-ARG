@@ -1,0 +1,205 @@
+# sent_id = ARG-CZH_30_2_01
+# text = 나는 역사가 우리 미래에 영향이 있다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	미래에	미래+에	ADV	NNG+JKB	_	6	obl	_	_
+5	영향이	영향+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있다고	있+다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_30_2_02
+# text = 그거때문에 우리는 역사에 대해 배우면 우리 지금의 인생에서도 더 잘 이해할 수 있는 것 같다.
+1	그거때문에	그거+때문+에	ADV	NP+NNB+JKB	_	15	obl	_	_
+2	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+3	역사에	역사+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+5	배우면	배우+면	VERB	VV+EC	_	15	advcl	_	_
+6	우리	우리	PRON	NP	_	7	nmod	_	_
+7	지금의	지금+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	인생에서도	인생+에서+도	ADV	NNG+JKB+JX	_	11	obl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_30_2_03
+# text = 나는 역사에 관심이 많아서 한국에 대해 배울 때 우리 체코 역사와 많은 비슷한 행사를 보일 수 있다.
+1	나는	나+는	PRON	NP+JX	_	17	dislocated	_	_
+2	역사에	역사+에	ADV	NNG+JKB	_	4	obl	_	_
+3	관심이	관심+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	많아서	많+아서	ADJ	VA+EC	_	17	advcl	_	_
+5	한국에	한국+에	ADV	NNP+JKB	_	6	obl	_	_
+6	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	17	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	우리	우리	PRON	NP	_	10	nmod	_	_
+10	체코	체코	NOUN	NNP	_	11	nmod	_	_
+11	역사와	역사+와	ADV	NNG+JKB	_	13	obl	_	_
+12	많은	많+은	ADJ	VA+ETM	_	14	amod	_	_
+13	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	14	acl	_	_
+14	행사를	행사+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	보일	보이+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_30_2_04
+# text = 그래다가 나는 그것덕분에 한국 사람들 마음의 조금 더 잘 이해할 수 있다.
+1	그래다가	그래다가	ADV	NA	Typo=Yes	12	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+3	그것덕분에	그것+덕분+에	ADV	NP+NNG+JKB	_	10	obl	_	_
+4	한국	한국	NOUN	NNP	_	5	nmod	_	_
+5	사람들	사람+들	NOUN	NNG+XSN	_	6	nmod	_	_
+6	마음의	마음+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	조금	조금	ADV	MAG	_	8	advmod	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_30_2_05
+# text = 내가 대학교를 다닐 때 우리 교승님은 한국 역사를 설명했을 때 위안부에 대해서 말 했다.
+1	내가	내+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	대학교를	대학교+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	다닐	다니+ㄹ	VERB	VV+ETM	_	14	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	우리	우리	PRON	NP	_	6	nmod	_	_
+6	교승님은	교승+님+은	NOUN	NF+XSN+JX	Typo=Yes	14	nsubj	_	_
+7	한국	한국	NOUN	NNP	_	8	nmod	_	_
+8	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	설명했을	설명+하+았+을	VERB	NNG+XSV+EP+ETM	_	14	advcl	_	_
+10	때	때	ADV	NNG	_	9	mark	_	_
+11	위안부에	위안부+에	ADV	NNG+JKB	_	12	obl	_	_
+12	대해서	대하+아서	VERB	VV+EC	_	14	advcl	_	_
+13	말	말	NOUN	NNG	_	14	obj	_	_
+14	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_30_2_06
+# text = 그런데 교승님은 원래 일본어를 공부해서 그때는 다양한 일본 역사 행사에 대해서 알게 됐다.
+1	그런데	그런데	ADV	MAJ	_	12	cc	_	_
+2	교승님은	교승+님+은	NOUN	NF+XSN+JX	Typo=Yes	5	nsubj	_	_
+3	원래	원래	ADV	NNG	_	5	advmod	_	_
+4	일본어를	일본+어+를	NOUN	NNP+XSN+JKO	_	5	obj	_	_
+5	공부해서	공부+하+아서	VERB	NNG+XSV+EC	_	12	advcl	_	_
+6	그때는	그+때+는	NOUN	MM+NNG+JX	_	12	obl	_	_
+7	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+8	일본	일본	NOUN	NNP	_	9	nmod	_	_
+9	역사	역사	NOUN	NNG	_	10	nmod	_	_
+10	행사에	행사+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대해서	대하+아서	VERB	VV+EC	_	12	advcl	_	_
+12	알게	알+게	VERB	VV+EC	_	0	root	_	_
+13	됐다	되+었+다	VERB	VX+EP+EF	_	12	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_30_2_07
+# text = 그래서 우리에께 가르져주셨을 때 자신의 외견으로 말해주셨다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	우리에께	우리+에께	NOUN	NP+NA	Typo=Yes	3	obl	_	_
+3	가르져주셨을	가르지+어+주+시+었+을	VERB	NV+EC+VX+EP+EP+ETM	Typo=Yes	7	advcl	_	_
+4	때	때	ADV	NNB	_	3	mark	_	_
+5	자신의	자신+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	외견으로	외견+으로	ADV	NF+JKB	Typo=Yes	7	obl	_	_
+7	말해주셨다	말+하+아+주+시+었+다	VERB	NNG+XSV+EC+VX+EP+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_30_2_08
+# text = 그래서 나는 한국 전부가 그냥 돈을 필요할 때 일본에께서 위안부를 기억하도록하고 돈을 달라고 한다고 생각했다.
+1	그래서	그래서	ADV	MAJ	_	15	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	15	nsubj	_	_
+3	한국	한국	NOUN	NNP	_	4	nmod	_	_
+4	전부가	전부+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+5	그냥	그냥	ADV	MAG	_	7	advmod	_	_
+6	돈을	돈+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	필요할	필요+하+ㄹ	ADJ	NNG+XSA+ETM	_	14	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	일본에께서	일본+에께서	NOUN	NNP+NA	Typo=Yes	13	obl	_	_
+10	위안부를	위안부+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	기억하도록하고	기억+하+도록+하+고	VERB	NNG+XSV+EC+VX+EC	_	14	advcl	_	_
+12	돈을	돈+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	달라고	달+라고	VERB	VV+EC	_	14	ccomp	_	_
+14	한다고	하	AUX	VX+EC	_	15	ccomp	_	_
+15	생각했다	생각+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_30_2_09
+# text = 그런데 나중에 한국 친구들과 말할 때 그렇지 않다고 알게 됐다.
+1	그런데	그런데	ADV	MAJ	_	9	cc	_	_
+2	나중에	나중+에	ADV	NNG+JKB	_	5	obl	_	_
+3	한국	한국	NOUN	NNP	_	4	nmod	_	_
+4	친구들과	친구+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	그렇지	그렇+지	ADJ	VA+EC	_	9	ccomp	_	_
+8	않다고	않	AUX	VX+EC	_	7	aux	_	_
+9	알게	알+게	VERB	VV+EC	_	0	root	_	_
+10	됐다	되+었+다	VERB	VX+EP+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_30_2_10
+# text = 그래서 우리는 다른 사람이나 다른 나라의 핸동을 이해하고 싶으면 그 나라의 역사를 조금 알아야 된다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	16	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	16	nsubj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+4	사람이나	사람+이나	NOUN	NNG+JC	_	7	nmod:poss	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	나라의	나라+의	NOUN	NNG+JKG	_	4	conj	_	_
+7	핸동을	핸동+을	NOUN	NF+JKO	Typo=Yes	8	obj	_	_
+8	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+9	싶으면	싶	AUX	VX+EC	_	8	aux	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	나라의	나라+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	역사를	역사+를	NOUN	NNG+JKO	_	14	obj	_	_
+13	조금	조금	ADV	MAG	_	14	advmod	_	_
+14	알아야	알+아야	VERB	VV+EC	_	16	ccomp	_	_
+15	된다고	되+ㄴ다고	VERB	VX+EC	_	14	advcl	_	_
+16	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_30_2_11
+# text = 그리고 나쁜 역사 행사가 다시 나오지 않도록 이 역사에 대해 알아야 할 것 같다.
+1	그리고	그리고	ADV	MAJ	_	14	cc	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	행사가	행사+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	다시	다시	ADV	MAG	_	6	advmod	_	_
+6	나오지	나오+지	VERB	VV+EC	_	11	advcl	_	_
+7	않도록	않	AUX	VX+EC	_	6	aux	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	역사에	역사+에	ADV	NNG+JKB	_	10	obl	_	_
+10	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+11	알아야	알+아야	VERB	VV+EC	_	13	acl	_	_
+12	할	하	AUX	VX+ETM	_	11	aux	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_30_2_12
+# text = 또는 어떤 나라의 사람들 조금 비슷한 성격이 있다.
+1	또는	또는	ADV	MAG	_	8	cc	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	나라의	나라+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	사람들	사람+들	NOUN	NNG+XSN	_	6	dislocated	_	_
+5	조금	조금	ADV	MAG	_	6	advmod	_	_
+6	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	7	amod	_	_
+7	성격이	성격+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_30_2_13
+# text = 이 성격은 역사 경험 조금 만든다.
+1	이	이	DET	MM	_	2	det	_	_
+2	성격은	성격+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	경험	경험	NOUN	NNG	_	6	obj	_	_
+5	조금	조금	ADV	MAG	_	6	advmod	_	_
+6	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

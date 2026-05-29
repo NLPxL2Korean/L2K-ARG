@@ -1,0 +1,523 @@
+# sent_id = ARG-ENG_06_3_15_1
+# text = 이 사회에선 학점이랑 송공을 너무 많이 박수랑 축하는 것을 줘요.
+1	이	이	DET	MM	_	2	det	_	_
+2	사회에선	사회+에서+ㄴ	ADV	NNG+JKB+JX	_	10	obl	_	_
+3	학점이랑	학점+이랑	NOUN	NNG+JC	_	10	obl	_	_
+4	송공을	송공+을	NOUN	NF+JKO	Typo=Yes	3	conj	_	_
+5	너무	너무	ADV	MAG	_	8	advmod	_	_
+6	많이	많이	ADV	MAG	_	8	advmod	_	_
+7	박수랑	박수+랑	NOUN	NNG+JC	_	10	obj	_	_
+8	축하는	축하+는	NOUN	NNG+NA	Typo=Yes	9	nmod	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	7	conj	_	_
+10	줘요	주+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_06_3_03_1
+# text = 이렇게 사면 누구 임길까요?
+1	이렇게	이렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	사면	사+면	VERB	VV+EC	_	4	advcl	_	_
+3	누구	누구	PRON	NP	_	4	nsubj	_	_
+4	임길까요	임길+까요	VERB	NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_06_3_05_1
+# text = 시험 잘 보는 아이 기우고있는 어머니인가요?
+1	시험	시험	NOUN	NNG	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	보는	보+는	VERB	VV+ETM	_	4	acl	_	_
+4	아이	아이	NOUN	NNG	_	5	obj	_	_
+5	기우고있는	기우+고+있+는	VERB	NV+EC+VX+ETM	Typo=Yes	6	acl	_	_
+6	어머니인가요	어머니+이+ㄴ가요	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_3_04_1
+# text = 이 포 대학교 갈 수 있는 학생 인가요?
+1	이	이	DET	MM	_	3	det	_	_
+2	포	포	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	대학교	대학교	NOUN	NNG	_	4	obl	_	_
+4	갈	가+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	학생	학생	NOUN	NNG	_	0	root	_	_
+8	인가요	이+ㄴ가요	ADJ	VCP+EF	_	7	flat	_	SpaceAfter=No
+9	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_06_3_12_1
+# text = 이런 애은 3학년에 벌써 11시 까지 공부하고 있고 몸이 필요한 잠이랑 놀기 할수없어요.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	애은	애+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	3학년에	3+학년+에	ADV	SN+NNB+JKB	_	7	obl	_	_
+4	벌써	벌써	ADV	MAG	_	7	advmod	_	_
+5	11시	11+시	NOUN	SN+NNB	_	7	obl	_	_
+6	까지	까지	ADP	JX	_	3	case	_	_
+7	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+8	있고	있	AUX	VX+EC	_	7	aux	_	_
+9	몸이	몸+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	필요한	필요+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	acl	_	_
+11	잠이랑	잠+이랑	NOUN	NNG+JC	_	13	obj	_	_
+12	놀기	놀+기	VERB	VV+ETN	_	11	conj	_	_
+13	할수없어요	하+ㄹ+수+없+어요	VERB	VV+ETM+NNB+VX+EF	_	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_06_3_14_1
+# text = 난 시험 들어지면 아직도 날 사랑할까라고 생감하죠.
+1	난	나+ㄴ	PRON	NP+JX	_	7	nsubj	_	_
+2	시험	시험	NOUN	NNG	_	3	nsubj	_	_
+3	들어지면	들어지+면	VERB	NV+EC	Typo=Yes	7	advcl	_	_
+4	아직도	아직+도	ADV	MAG+JX	_	6	advmod	_	_
+5	날	나+ㄹ	PRON	NP+JKO	_	6	obj	_	_
+6	사랑할까라고	사랑+하+ㄹ까+라고	VERB	NNG+XSV+EF+EC	_	7	ccomp	_	_
+7	생감하죠	생감+하+죠	VERB	NF+XSV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_06_3_09_1
+# text = 유치생 부터 어른 까지 가르치 본적 있어요.
+1	유치생	유치생	NOUN	NNG	_	5	obl	_	_
+2	부터	부터	ADP	JX	_	1	case	_	_
+3	어른	어른	NOUN	NNG	_	5	obl	_	_
+4	까지	까지	ADP	JX	_	3	case	_	_
+5	가르치	가르치	VERB	VV	_	6	acl	_	_
+6	본적	보+ㄴ+적	NOUN	VX+ETM+NNB	_	7	nsubj	_	_
+7	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_06_3_02_1
+# text = 유치원 줄 사는 부모님 부터 지벵 못간 마음있는 야간한 직원 까지 보면 볼 수 없는 대리 느낄수있어요.
+1	유치원	유치원	NOUN	NNG	_	2	nmod	_	_
+2	줄	줄	NOUN	NNG	_	3	obj	_	_
+3	사는	사+는	VERB	VV+ETM	_	4	acl	_	_
+4	부모님	부모+님	NOUN	NNG+XSN	_	12	obl	_	_
+5	부터	부터	ADP	JX	_	4	case	_	_
+6	지벵	지벵	NOUN	NF	Typo=Yes	7	obl	_	_
+7	못간	못+가+ㄴ	VERB	MAG+VV+ETM	_	8	acl	_	_
+8	마음있는	마음+있+는	VERB	NNG+VV+ETM	_	10	acl	_	_
+9	야간한	야간+하+ㄴ	VERB	NF+XSV+ETM	Typo=Yes	10	acl	_	_
+10	직원	직원	NOUN	NNG	_	12	obl	_	_
+11	까지	까지	ADP	JX	_	10	case	_	_
+12	보면	보+면	VERB	VV+EC	_	17	advcl	_	_
+13	볼	보+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	없는	없+는	VERB	VX+ETM	_	16	acl	_	_
+16	대리	대리	NOUN	NF	Typo=Yes	17	obj	_	_
+17	느낄수있어요	느끼+ㄹ+수+있+어요	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_06_3_10_1
+# text = 그리고 생각 할수있게만큼 다른 부모님 마나는 적이있어요.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	생각	생각	NOUN	NNG	_	3	obj	_	_
+3	할수있게만큼	하+ㄹ+수+있+게+만큼	ADV	VV+ETM+NNB+VX+EC+NNB	_	6	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	부모님	부모+님	NOUN	NNG+XSN	_	6	obj	_	_
+6	마나는	마나+는	VERB	NV+ETM	Typo=Yes	7	acl	_	_
+7	적이있어요	적+이+있+어요	ADJ	NNB+JKS+VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_06_3_07_1
+# text = 경쟁을 더 선호하는 사람들은 더 효율적이라고 생각할 수 있으나 더 큰 관점에서 보자면 연구에 의하면 경쟁에 비중을 둔 나라들 보다 협조에 비중을 둔 나라들은 스트레스를 덜 받고 해서 결국에는 다른 방법들보다 더 효율적이라고 했다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	효율적이라고	효율+적+이+라고	ADJ	NNG+XSN+VCP+EC	_	7	ccomp	_	_
+7	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있으나	있+으나	VERB	VX+EC	_	13	advcl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	큰	크+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	관점에서	관점+에서	ADV	NNG+JKB	_	13	obl	_	_
+13	보자면	보+자면	VERB	VV+EC	_	34	advcl	_	_
+14	연구에	연구+에	ADV	NNG+JKB	_	15	obl	_	_
+15	의하면	의하+면	VERB	VV+EC	_	34	advcl	_	_
+16	경쟁에	경쟁+에	ADV	NNG+JKB	_	18	obl	_	_
+17	비중을	비중+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	둔	두+ㄴ	VERB	VV+ETM	_	19	acl	_	_
+19	나라들	나라+들	NOUN	NNG+XSN	_	27	obl	_	_
+20	보다	보다	ADP	JKB	_	19	case	_	_
+21	협조에	협조+에	ADV	NF+JKB	Typo=Yes	23	obl	_	_
+22	비중을	비중+을	NOUN	NNG+JKO	_	23	obj	_	_
+23	둔	두+ㄴ	VERB	VV+ETM	_	24	acl	_	_
+24	나라들은	나라+들+은	NOUN	NNG+XSN+JX	_	27	nsubj	_	_
+25	스트레스를	스트레스+를	NOUN	NNG+JKO	_	27	obj	_	_
+26	덜	덜	ADV	MAG	_	27	advmod	_	_
+27	받고	받+고	VERB	VV+EC	_	28	advcl	_	_
+28	해서	하+아서	VERB	VX+EC	_	34	advcl	_	_
+29	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	34	obl	_	_
+30	다른	다르+ㄴ	ADJ	VA+ETM	_	31	amod	_	_
+31	방법들보다	방법+들+보다	ADV	NNG+XSN+JKB	_	33	obl	_	_
+32	더	더	ADV	MAG	_	33	advmod	_	_
+33	효율적이라고	효율+적+이+라고	ADJ	NNG+XSN+VCP+EC	_	34	ccomp	_	_
+34	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+35	.	.	PUNCT	SF	_	34	punct	_	_
+
+# sent_id = ARG-ENG_06_3_13_1
+# text = 부모도 불안하게 보여요.
+1	부모도	부모+도	NOUN	NNG+JX	_	3	nsubj	_	_
+2	불안하게	불안+하+게	ADV	XR+XSA+EC	_	3	advmod	_	_
+3	보여요	보이+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_06_3_01_1
+# text = 우리 나라 사회가 보면 "경쟁" 생각 밖에 알 수없어요.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	나라	나라	NOUN	NNG	_	3	nmod	_	_
+3	사회가	사회+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	보면	보+면	VERB	VV+EC	_	9	advcl	_	_
+5	"경쟁"	"+경쟁+"	VERB	SS+NNG+SS	_	6	nmod	_	_
+6	생각	생각	NOUN	NNG	_	9	obl	_	_
+7	밖에	밖에	ADP	JX	_	6	case	_	_
+8	알	알+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수없어요	수+없+어요	ADJ	NNB+VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_06_3_06_1
+# text = 제 생각엔 모두 지고있어요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각엔	생각+에+ㄴ	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	모두	모두	NOUN	NNG	_	4	nsubj	_	_
+4	지고있어요	지+고+있+어요	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_06_3_11_1
+# text = 다른 사람들한테 의지할 수 있으니 더 편리하다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들한테	사람+들+한테	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	의지할	의지+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있으니	있+으니	VERB	VX+EC	_	7	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	편리하다	편리+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_06_3_01
+# text = 협동과 경쟁 중에 협동을 더 선호한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중에	중+에	ADV	NNB+JKB	_	2	case	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_3_02
+# text = 왜 선호한 건지 여러 가지 있다.
+1	왜	왜	ADV	MAG	_	2	advmod	_	_
+2	선호한	선호+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	건지	것+이+ㄴ지	NOUN	NNB	_	6	dislocated	_	_
+4	여러	여러	DET	MM	_	5	det	_	_
+5	가지	가지	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_3_03
+# text = 일단은 경쟁은 경제를 시킬 수 있다는 말은 있긴 있지만 그래도 연구에 따르면 개인주의에 따라하는 나라들은 협동주의에 따라하는 나라들보다 삶의 만족도가 더 낮다고 결과가 나왔다.
+1	일단은	일단+은	ADV	MAG+JX	_	8	advmod	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	경제를	경제+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	시킬	시키+ㄹ	VERB	NV+ETM	Typo=Yes	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다는	있+다는	VERB	VX+ETM	_	7	acl	_	_
+7	말은	말+은	NOUN	NNG+JX	_	8	nsubj	_	_
+8	있긴	있+기+ㄴ	VERB	VV+ETN+ETM	_	24	advcl	_	_
+9	있지만	있	AUX	VX+EC	_	8	aux	_	_
+10	그래도	그래도	ADV	MAG	_	24	advmod	_	_
+11	연구에	연구+에	ADV	NNG+JKB	_	12	obl	_	_
+12	따르면	따르+면	VERB	VV+EC	_	24	advcl	_	_
+13	개인주의에	개인+주의+에	ADV	NNG+NNG+JKB	_	14	obl	_	_
+14	따라하는	따라하+는	VERB	VV+ETM	_	15	acl	_	_
+15	나라들은	나라+들+은	NOUN	NNG+XSN+JX	_	22	dislocated	_	_
+16	협동주의에	협동+주의+에	ADV	NNG+NNG+JKB	_	17	obl	_	_
+17	따라하는	따라하+는	VERB	VV+ETM	_	18	acl	_	_
+18	나라들보다	나라+들+보다	ADV	NNG+XSN+JKB	_	22	obl	_	_
+19	삶의	삶+의	NOUN	NNG+JKG	_	20	nmod:poss	_	_
+20	만족도가	만족도+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+21	더	더	ADV	MAG	_	22	advmod	_	_
+22	낮다고	낮+다고	ADJ	VA+EC	_	24	ccomp	_	_
+23	결과가	결과+가	NOUN	NNG+JKS	_	24	nsubj	_	_
+24	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-ENG_06_3_04
+# text = 그래서 경쟁을 하는 반면에 협동을 더 좋다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	반면에	반면+에	ADV	NNG+JKB	_	7	obl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_06_3_05
+# text = 게다가 협동이란 것은 사람들과 일하는 것이며 아이디어를 나눌 수 있다.
+1	게다가	게다가	ADV	MAG	_	10	advmod	_	_
+2	협동이란	협동+이+란	NOUN	NNG+VCP+JX	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	8	nsubj	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	일하는	일+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이며	것+이+며	ADJ	NNB+VCP+EC	_	10	advcl	_	_
+7	아이디어를	아이디어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	나눌	나+눌	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_06_3_06
+# text = 그러나 경쟁은 혼자서 하는 거고 무엇이든 혼자서 하면 더 어려울 수 있다고 본다.
+1	그러나	그러나	ADV	MAJ	_	13	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	혼자서	혼자+서	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	거고	것+이+고	ADJ	NNB+VCP+EC	_	12	advcl	_	_
+6	무엇이든	무엇+이든	PRON	NP+JX	_	8	obj	_	_
+7	혼자서	혼자+서	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	하면	하+면	VERB	VV+EC	_	12	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	어려울	어렵+ㄹ	ADJ	VA+ETM	_	11	amod	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VX+EC	_	13	ccomp	_	_
+13	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_06_3_07
+# text = 협동하는 사회 있었으면 1등 2등 누구은지 신경 아쓰고 사람들이 자기 행복 신경 쓸수있을 것 같아요.
+1	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	2	acl	_	_
+2	사회	사회	NOUN	NNG	_	3	nsubj	_	_
+3	있었으면	있+었+으면	VERB	VV+EP+EC	_	15	advcl	_	_
+4	1등	1+등	NOUN	SN+NNB	_	6	nsubj	_	_
+5	2등	2+등	NOUN	SN+NNB	_	4	conj	_	_
+6	누구은지	누구+으+ㄴ지	NOUN	NP+NA+EC	Typo=Yes	8	ccomp	_	_
+7	신경	신경	NOUN	NNG	_	8	obj	_	_
+8	아쓰고	아+쓰+고	VERB	NA+VV+EC	Typo=Yes	13	advcl	_	_
+9	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+10	자기	자기	NOUN	NNG	_	11	nmod	_	_
+11	행복	행복	NOUN	NNG	_	13	obl	_	_
+12	신경	신경	NOUN	NNG	_	13	obj	_	_
+13	쓸수있을	쓰+ㄹ+수+있+을	VERB	VV+ETM+NNB+VX+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_06_3_08
+# text = 그래서 협동을 선호한다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_06_3_09
+# text = 또한 협동을 하면 뭘 망해도 실패해도 혼자 있는 것이 아니다.
+1	또한	또한	ADV	MAJ	_	10	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+4	뭘	무엇+을	PRON	NP+JX	_	5	obj	_	_
+5	망해도	망하+아도	VERB	VV+EC	_	6	advcl	_	_
+6	실패해도	실패+하+아도	VERB	NNG+XSV+EC	_	10	advcl	_	_
+7	혼자	혼자	ADV	NNG	_	8	advmod	_	_
+8	있는	있+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKC	_	10	nsubj	_	_
+10	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_06_3_10
+# text = 다같이 다시 아이디어를 나누며 더 열심히 하면 되는 것이다.
+1	다같이	다+같이	ADV	MAG+MAG	_	4	advmod	_	_
+2	다시	다시	ADV	MAG	_	4	advmod	_	_
+3	아이디어를	아이디어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	나누며	나누+며	VERB	VV+EC	_	7	advcl	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	열심히	열심히	ADV	MAG	_	7	advmod	_	_
+7	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+8	되는	되+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_06_3_11
+# text = 4년 동안 보면 애들 많 민는 부모가 제일 행복하지 않은 애들 있어요.
+1	4년	4+년	NOUN	SN+NNB	_	3	obl	_	_
+2	동안	동안	NOUN	NNG	_	1	case	_	_
+3	보면	보+면	VERB	VV+EC	_	12	advcl	_	_
+4	애들	애+들	NOUN	NNG+XSN	_	6	obj	_	_
+5	많	많	ADV	NA	Typo=Yes	6	advmod	_	_
+6	민는	민+는	VERB	NV+ETM	Typo=Yes	7	acl	_	_
+7	부모가	부모+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	제일	제일	ADV	MAG	_	9	advmod	_	_
+9	행복하지	행복+하+지	ADJ	NNG+XSA+EC	_	11	acl	_	_
+10	않은	않	AUX	VX+ETM	_	9	aux	_	_
+11	애들	애+들	NOUN	NNG	_	12	nsubj	_	_
+12	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_06_3_12
+# text = 경쟁에서 이런 개념이 없다.
+1	경쟁에서	경쟁+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	이런	이런	DET	MM	_	3	det	_	_
+3	개념이	개념+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_06_3_13
+# text = 그래서 더 선호한 것 같다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	선호한	선호+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	같다고	같+다고	ADJ	VA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_3_14
+# text = 당연히 가끔식 다른 사람들과 안맞으면 답답할 수 있지만 “두 머리는 한 머리보다 낫다 ”라는 인용을 맞다고 생각한다.
+1	당연히	당연히	ADV	MAG	_	8	advmod	_	_
+2	가끔식	가끔+식	ADV	MAG+NA	Typo=Yes	5	advmod	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	안맞으면	안+맞+으면	VERB	MAG+VV+EC	_	6	advcl	_	_
+6	답답할	답답+하+ㄹ	ADJ	NNG+XSA+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있지만	있+지만	VERB	VX+EC	_	17	advcl	_	_
+9	“두	“+두	NUM	SS+MM	_	10	nummod	_	_
+10	머리는	머리+는	NOUN	NNG+JX	_	13	nsubj	_	_
+11	한	한	NUM	MM	_	12	nummod	_	_
+12	머리보다	머리+보다	ADV	NNG+JKB	_	13	obl	_	_
+13	낫다	낫+다	ADJ	VA+EC	_	15	acl	_	_
+14	”라는	”+라는	VERB	SS+ETM	_	13	case	_	_
+15	인용을	인용+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	맞다고	맞+다고	VERB	VV+EC	_	17	ccomp	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_06_3_15
+# text = 그리고 다른 방안과 새로운 생각을 배울 수 있어서 협동을 더 선호하는 게 당연한다고 본다.
+1	그리고	그리고	ADV	MAJ	_	14	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+3	방안과	방안+과	NOUN	NNG+JC	_	6	obj	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	생각을	생각+을	NOUN	NNG+JKO	_	3	conj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VX+EC	_	13	advcl	_	_
+9	협동을	협동+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	게	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	당연한다고	당연+하+ㄴ다고	ADJ	NNG+XSA+EC	_	14	ccomp	_	_
+14	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_06_3_16
+# text = 결과 말고 노력이 박수하면 실패 안 무서워하는 더 행복한 아이들이 기울 수 있어요.
+1	결과	결과	NOUN	NNG	_	2	obl	_	_
+2	말고	말+고	VERB	VV+EC	_	13	advcl	_	_
+3	노력이	노력+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	박수하면	박수+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+5	실패	실패	NOUN	NNG	_	7	obj	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	무서워하는	무섭+어+하+는	VERB	VA+EC+VX+ETM	_	10	acl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	기울	기우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_06_3_17
+# text = 한국에서 이름이랑 브랜드 너무 많이 신경써요.
+1	한국에서	한국+에서	ADV	NNP+JKB	_	6	obl	_	_
+2	이름이랑	이름+이랑	NOUN	NNG+JC	_	6	obj	_	_
+3	브랜드	브랜드	NOUN	NNG	_	2	conj	_	_
+4	너무	너무	ADV	MAG	_	6	advmod	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	신경써요	신경+쓰+어요	VERB	NNG+VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_3_18
+# text = 다른사람의 눈에 좋아 보이고 싶어서 빛으로 명픔 사고 매년 핸폰 바꿔지고 초등학생도 새러운 아이템 없는 친구들이 괴롭혀요.
+1	다른사람의	다른+사람+의	NOUN	MM+NNG+JKG	_	2	nmod:poss	_	_
+2	눈에	눈+에	ADV	NNG+JKB	_	3	obl	_	_
+3	좋아	좋+아	ADJ	VA+EC	_	4	advcl	_	_
+4	보이고	보이+고	VERB	VV+EC	_	11	advcl	_	_
+5	싶어서	싶	AUX	VX+EC	_	4	aux	_	_
+6	빛으로	빛+으로	ADV	NF+JKB	Typo=Yes	8	obl	_	_
+7	명픔	명픔	NOUN	NF	Typo=Yes	8	obj	_	_
+8	사고	사+고	VERB	VV+EC	_	11	advcl	_	_
+9	매년	매+년	NOUN	MM+NNB	_	11	obl	_	_
+10	핸폰	핸폰	NOUN	NNG	_	11	obj	_	_
+11	바꿔지고	바꾸+어지+고	VERB	VV+XSV+EC	_	17	advcl	_	_
+12	초등학생도	초등학생+도	NOUN	NNG+JX	_	17	dislocated	_	_
+13	새러운	새럽+ㄴ	VERB	NV+EC	Typo=Yes	14	amod	_	_
+14	아이템	아이+템	NOUN	NNG	_	15	nsubj	_	_
+15	없는	없+는	ADJ	VA+ETM	_	16	acl	_	_
+16	친구들이	친구+들+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+17	괴롭혀요	괴롭+히+어요	ADJ	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_06_3_19
+# text = 근데 이렇게 살면 좋아하는 일, 옷, 스타일에 다 안 따라하고 다 좀 밖에서 보면 안 이쁜 인생을살아요.
+1	근데	근데	ADV	MAJ	_	19	cc	_	_
+2	이렇게	이렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	살면	살+면	VERB	VV+EC	_	16	advcl	_	_
+4	좋아하는	좋아하+는	VERB	VV+ETM	_	5	acl	_	_
+5	일	일	NOUN	NNG	_	9	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	옷	옷	NOUN	NNG	_	9	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	스타일에	스타일+에	ADV	NNG+JKB	_	12	obl	_	_
+10	다	다	ADV	MAG	_	12	advmod	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	따라하고	따라하+고	VERB	VV+EC	_	19	advcl	_	_
+13	다	다	ADV	MAG	_	16	advmod	_	_
+14	좀	좀	ADV	MAG	_	16	advmod	_	_
+15	밖에서	밖+에서	ADV	NNG+JKB	_	16	obl	_	_
+16	보면	보+면	VERB	VV+EC	_	19	advcl	_	_
+17	안	안	ADV	MAG	_	18	advmod	_	_
+18	이쁜	이쁘+ㄴ	ADJ	VA+ETM	_	19	amod	_	_
+19	인생을살아요	인생+을+살+아요	VERB	NNG+JKO+VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_06_3_20
+# text = 이것 행복인까요?
+1	이것	이것	PRON	NP	_	2	nsubj	_	_
+2	행복인까요	행복+이+ㄴ까요	VERB	NNG+VCP+NA	Typo=Yes	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_06_3_21
+# text = 제 생각엔 아닌것같아요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각엔	생각+에+ㄴ	ADV	NNG+JKB+JX	_	3	obl	_	_
+3	아닌것같아요	아니+ㄴ+것+같+아요	ADJ	VCN+ETM+NNB+VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_06_3_22
+# text = 항상 다른 사람 보다 더 잘하고 싶다고 생각하는것 보다 어제의 날보다 잘하고싶다고 생각하면 우리의 학교도 일도 사회에서도 더 협동하고 행복한 인생 살수있겠습니다.
+1	항상	항상	ADV	MAG	_	13	advmod	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람	사람	NOUN	NNG	_	6	obl	_	_
+4	보다	보다	ADV	JKB	_	3	case	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	잘하고	잘하+고	VERB	VV+EC	_	8	ccomp	_	_
+7	싶다고	싶+다고	AUX	VX+EC	_	6	aux	_	_
+8	생각하는것	생각+하+는+것	VERB	NNG+XSV+ETM+NNB	_	12	obl	_	_
+9	보다	보다	ADV	JKB	_	8	case	_	_
+10	어제의	어제+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	날보다	날+보다	ADV	NNG+JKB	_	12	obl	_	_
+12	잘하고싶다고	잘하+고+싶+다고	VERB	VV+EC+VX+EC	_	13	ccomp	_	_
+13	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	22	advcl	_	_
+14	우리의	우리+의	PRON	NP+JKG	_	15	nmod:poss	_	_
+15	학교도	학교+도	NOUN	NNG+JX	_	22	obl	_	_
+16	일도	일+도	NOUN	NNG+JX	_	15	conj	_	_
+17	사회에서도	사회+에서+도	ADV	NNG+JKB+JX	_	15	conj	_	_
+18	더	더	ADV	MAG	_	19	advmod	_	_
+19	협동하고	협동+하+고	VERB	NNG+XSV	_	21	acl	_	_
+20	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	19	conj	_	_
+21	인생	인생	NOUN	NNG	_	22	obj	_	_
+22	살수있겠습니다	살+ㄹ+수+있+겠+습니다	VERB	VV+ETM+NNB+VX+EP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-ENG_06_3_28
+# text = 저는 과외선생님이에요.
+1	저는	저+는	PRON	NP+JX	_	2	nsubj	_	_
+2	과외선생님이에요	과외+선생+님+이+에요	VERB	NNG+NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_

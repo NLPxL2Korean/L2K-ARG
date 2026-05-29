@@ -1,0 +1,97 @@
+# sent_id = ARG-CZH_11_2_01
+# text = 사람들이 너,나 할 것 없이 실수를 한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	너,나	너+,+나	ADV	NP+SP+NP	_	3	obl	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	없이	없이	ADV	MAG	_	7	advcl	_	_
+6	실수를	실수+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_11_2_02
+# text = 역사에 사람들이 여러가지 실수를 했다.
+1	역사에	역사+에	ADV	NNG+JKB	_	5	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	여러가지	여러+가지	NOUN	MM+NNB	_	4	nmod	_	_
+4	실수를	실수+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_11_2_03
+# text = 작은 실수부터 큰 실수까지 모두는 세상에게 피해를 줬다.
+1	작은	작+은	ADJ	VA+ETM	_	2	amod	_	_
+2	실수부터	실수+부터	NOUN	NNG+JX	_	8	obl	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	실수까지	실수+까지	NOUN	NNG+JX	_	8	obl	_	_
+5	모두는	모두+는	NOUN	NNG+JX	_	8	nsubj	_	_
+6	세상에게	세상+에게	ADV	NNG+JKB	_	8	obl	_	_
+7	피해를	피해+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	줬다	주+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_11_2_04
+# text = 그 실수에 대해 이야기하지 않으면 그 실수를 다시 하기는 마련이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	실수에	실수+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해	대하+아	VERB	VV+EC	_	4	advcl	_	_
+4	이야기하지	이야기+하+지	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	않으면	않	AUX	VX+EC	_	4	aux	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	실수를	실수+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	다시	다시	ADV	MAG	_	9	advmod	_	_
+9	하기는	하+기+는	VERB	VV+ETN+JX	_	10	nmod	_	_
+10	마련이다	마련+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_11_2_05
+# text = 지금은 세게 문제가 많이 있다.
+1	지금은	지금+은	NOUN	NNG+JX	_	3	dislocated	_	_
+2	세게	세게	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	문제가	문제+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	있다	있+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_11_2_06
+# text = 과거보다 지금은 자연보호에 대해서 많이 이야기하는데 역사를 자 배웠으면 사람들이 환견 문제가 생기지 않을 수도 있다.
+1	과거보다	과거+보다	ADV	NNG+JKB	_	6	obl	_	_
+2	지금은	지금+은	ADV	NNG+JX	_	6	advmod	_	_
+3	자연보호에	자연+보호+에	ADV	NNG+NNG+JKB	_	4	obl	_	_
+4	대해서	대하+아서	VERB	VV+EC	_	6	advcl	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	이야기하는데	이야기+하+는데	VERB	NNG+XSV+EC	_	16	advcl	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	자	자	ADV	NA	Typo=Yes	9	advmod	_	_
+9	배웠으면	배우+었+으면	VERB	VV+EP+EC	_	16	advcl	_	_
+10	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	13	dislocated	_	_
+11	환견	환견	NOUN	NF	Typo=Yes	12	nmod	_	_
+12	문제가	문제+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	생기지	생기+지	VERB	VV+EC	_	15	acl	_	_
+14	않을	않	AUX	VX+ETM	_	13	aux	_	_
+15	수도	수+도	NOUN	NNB+JX	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_11_2_07
+# text = 공부하지 않으면 세게 전쟁 3도 생길지도 모른다.
+1	공부하지	공부+하+지	VERB	NNG+XSV+EC	_	7	advcl	_	_
+2	않으면	않	AUX	VX+EC	_	1	aux	_	_
+3	세게	세게	NOUN	NF	Typo=Yes	4	nmod	_	_
+4	전쟁	전쟁	NOUN	NNG	_	5	nmod	_	_
+5	3도	3+도	NOUN	SN+JX	_	6	nsubj	_	_
+6	생길지도	생기+ㄹ지+도	VERB	VV+EC+JX	_	7	ccomp	_	_
+7	모른다	모르+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_11_2_08
+# text = 그래서 어릴때부터 축을 때까지 역사를 배워야 한다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	6	obl	_	_
+3	축을	축+을	VERB	NV+ETM	Typo=Yes	6	advcl	_	_
+4	때까지	때+까지	ADV	NNB+JX	_	3	mark	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배워야	배우+어야	VERB	VV+EC	_	8	ccomp	_	_
+7	한다고	하	AUX	VX+EC	_	6	aux	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

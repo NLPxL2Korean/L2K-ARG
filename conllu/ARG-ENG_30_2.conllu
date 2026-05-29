@@ -1,0 +1,170 @@
+# sent_id = ARG-ENG_30_2_01
+# text = 역사를 무거건 배워야 됍니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	무거건	무거건	ADV	NA	Typo=Yes	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	됍니다	돼+ㅂ니다	VERB	NA+EF	Typo=Yes	3	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_30_2_02
+# text = 역사에, 사람들은 여러가지 실수들이 했읍니다.
+1	역사에	역사+에	ADV	NNG+JKB	_	6	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	dislocated	_	_
+4	여러가지	여러+가지	NOUN	MM+NNB	_	5	nmod	_	_
+5	실수들이	실수+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	했읍니다	하+았+읍니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_30_2_03
+# text = 역사를 안 배우면 그 실수들이 다시 생일 기회도 있읍니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	안	안	ADV	MAG	_	3	advmod	_	_
+3	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	실수들이	실수+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+6	다시	다시	ADV	MAG	_	7	advmod	_	_
+7	생일	생이+ㄹ	VERB	NV+ETM	Typo=Yes	8	acl	_	_
+8	기회도	기회+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있읍니다	있+읍니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_30_2_04
+# text = 그리고, 다른 나라들의 역사도 배워야 합니다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	6	punct	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나라들의	나라+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	역사도	역사+도	NOUN	NNG+JX	_	6	obj	_	_
+6	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+7	합니다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_30_2_05
+# text = 그것는 왜냐면 그 나라들의 역사들 중에 곡 배워야 돼는 부분들이 있을 것입니다.
+1	그것는	그것+는	PRON	NP+JX	_	11	dislocated	_	_
+2	왜냐면	왜냐면	ADV	MAJ	_	12	cc	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	나라들의	나라+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	역사들	역사+들	NOUN	NNG+XSN	_	8	obl	_	_
+6	중에	중+에	ADV	NNB+JKB	_	5	case	_	_
+7	곡	곡	ADV	MAG	_	8	advmod	_	_
+8	배워야	배우+어야	VERB	VV+EC	_	10	acl	_	_
+9	돼는	돼+는	VERB	NA+ETM	Typo=Yes	8	advcl	_	_
+10	부분들이	부분+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	있을	있+을	VERB	VV+ETM	_	12	acl	_	_
+12	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_30_2_06
+# text = 사람들이 이 세계의 역사를 정화긴 모르면, 그 역사가 다시 생일 수도 있읍니다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	세계의	세계+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	정화긴	정화긴	ADV	NA	Typo=Yes	6	advmod	_	_
+6	모르면	모르+면	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	역사가	역사+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	다시	다시	ADV	MAG	_	11	advmod	_	_
+11	생일	생이+ㄹ	VERB	NV+ETM	Typo=Yes	12	acl	_	_
+12	수도	수+도	NOUN	NNB+JX	_	13	nsubj	_	_
+13	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_30_2_07
+# text = 그리고 사람들은 역사가 모르면 요즘 문제들 위해서 방법을 잦는 것이 어려울 수도 있읍니다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	4	dislocated	_	_
+3	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	모르면	모르+면	VERB	VV+EC	_	13	advcl	_	_
+5	요즘	요즘	NOUN	NNG	_	6	nmod	_	_
+6	문제들	문제+들	NOUN	NNG+XSN	_	7	obj	_	_
+7	위해서	위하+아서	VERB	VV+EC	_	9	advcl	_	_
+8	방법을	방법+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	잦는	잦+는	VERB	NV+ETM	Typo=Yes	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	어려울	어렵+ㄹ	ADJ	VA+ETM	_	12	acl	_	_
+12	수도	수+도	NOUN	NNB+JX	_	13	nsubj	_	_
+13	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_30_2_08
+# text = 왜냐면 역사를 모르면 그 문제가 왜 생였는지를 잘 몰를수도 있읍니다.
+1	왜냐면	왜냐면	ADV	MAJ	_	10	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	모르면	모르+면	VERB	VV+EC	_	10	advcl	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	왜	왜	ADV	MAG	_	7	advmod	_	_
+7	생였는지를	생이+었+는지+를	VERB	NV+EP+EC+JKO	Typo=Yes	9	ccomp	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	몰를수도	몰르+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	Typo=Yes	10	nsubj	_	_
+10	있읍니다	있+읍니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_30_2_09
+# text = 그 문제가 왜 생였는지를 알아야 그 문제를 없어주시기 위해서 방법을 찾을 수 있읍니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	문제가	문제+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	왜	왜	ADV	MAG	_	4	advmod	_	_
+4	생였는지를	생이+었+는지+를	VERB	NV+EP+EC+JKO	Typo=Yes	5	ccomp	_	_
+5	알아야	알+아야	VERB	VV+EC	_	13	advcl	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	문제를	문제+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	없어주시기	없+어+주+시+기	NOUN	VA+EC+VX+EP+ETN	_	9	obj	_	_
+9	위해서	위하+아서	VERB	VV+EC	_	13	advcl	_	_
+10	방법을	방법+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	찾을	찾+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_30_2_10
+# text = 그리고, 역사가 모르면, 다를 나라들에 생각들은 모를수가 있습니다.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	모르면	모르+면	VERB	VV+EC	_	10	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	다를	다르+ㄹ	ADJ	VA+ETM	_	7	amod	_	_
+7	나라들에	나라+들+에	ADV	NNG+XSN+JKB	_	10	obl	_	_
+8	생각들은	생각+들+은	NOUN	NNG+XSN+JX	_	9	obj	_	_
+9	모를수가	모르+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_30_2_11
+# text = 어떤 나라가 잘 지내고 싶으면, 역사 없이 그 나라가 지금 왜 잘 지내고 싶은지, 아니면 진실로 잘 지내고 싶은지 모를수가 있습니다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	나라가	나라+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	지내고	지내+고	VERB	VV+EC	_	23	advcl	_	_
+5	싶으면	싶	AUX	VX+EC	_	4	aux	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	역사	역사	NOUN	NNG	_	8	nsubj	_	_
+8	없이	없이	ADV	MAG	_	23	advcl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	나라가	나라+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+11	지금	지금	ADV	MAG	_	14	advmod	_	_
+12	왜	왜	ADV	MAG	_	14	advmod	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	지내고	지내+고	VERB	VV+EC	_	22	ccomp	_	_
+15	싶은지	싶	AUX	VX+EC	_	14	aux	_	SpaceAfter=No
+16	,	,	PUNCT	SP	_	14	punct	_	_
+17	아니면	아니+면	ADJ	VCN+EC	_	23	advcl	_	_
+18	진실로	진실+로	ADV	NNG+JKB	_	20	obl	_	_
+19	잘	잘	ADV	MAG	_	20	advmod	_	_
+20	지내고	지내+고	VERB	VV+EC	_	14	conj	_	_
+21	싶은지	싶	AUX	VX+EC	_	20	aux	_	_
+22	모를수가	모르+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	23	nsubj	_	_
+23	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_30_2_12
+# text = 그것이 정말 위험합니다.
+1	그것이	그것+이	PRON	NP+JKS	_	3	nsubj	_	_
+2	정말	정말	ADV	MAG	_	3	advmod	_	_
+3	위험합니다	위험+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_

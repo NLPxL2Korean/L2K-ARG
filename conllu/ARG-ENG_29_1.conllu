@@ -1,0 +1,165 @@
+# sent_id = ARG-ENG_29_1_01
+# text = 조기언어교육은 매우 중요해요.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	nsubj	_	_
+2	매우	매우	ADV	MAG	_	3	advmod	_	_
+3	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_29_1_02
+# text = 연구에 따라서 젊은 아이들은 성인보다 더 쉽게 배운다고 해요.
+1	연구에	연구+에	ADV	NNG+JKB	_	2	obl	_	_
+2	따라서	따르+아서	VERB	VV+EC	_	9	advcl	_	_
+3	젊은	젊+은	ADJ	VA+ETM	_	4	amod	_	_
+4	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+5	성인보다	성인+보다	ADV	NNG+JKB	_	8	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	쉽게	쉽+게	ADV	VA+EC	_	8	advmod	_	_
+8	배운다고	배우+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	해요	하	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_29_1_03
+# text = 아이들의 뇌가 아직 (dev elop)하고 있어서 언어를 조금 더 자연스럽게 배울 수 있어요.
+1	아이들의	아이+들+의	NOUN	NNG+XSN+JKG	_	2	nmod:poss	_	_
+2	뇌가	뇌+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	아직	아직	ADV	MAG	_	4	advmod	_	_
+4	(dev	(+dev+elop+)+하+고	NOUN	SN+SL+SL+SS+VV+EC	Typo=Yes	13	advcl	_	_
+5	elop)하고	_	X	_	_	4	goeswith	_	_
+6	있어서	있	AUX	VX+EC	_	4	aux	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+8	조금	조금	ADV	MAG	_	9	advmod	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	11	advmod	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_29_1_04
+# text = 또한, 아이들은 아직 사회적인 것을 배우고 있고 세상에 좀 적응해야 돼서 새로운 언어나 문화를 보면 그냥 보통 처럼 적응할 수 있는 것 같아요.
+1	또한	또한	ADV	MAG	_	24	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+4	아직	아직	ADV	MAG	_	7	advmod	_	_
+5	사회적인	사회+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	6	amod	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+7	배우고	배우+고	VERB	VV+EC	_	24	advcl	_	_
+8	있고	있	AUX	VX+EC	_	7	aux	_	_
+9	세상에	세상+에	ADV	NNG+JKB	_	11	obl	_	_
+10	좀	좀	ADV	MAG	_	11	advmod	_	_
+11	적응해야	적응+하+아야	VERB	NNG+XSV+EC	_	7	conj	_	_
+12	돼서	되+어서	VERB	VX+EC	_	11	advcl	_	_
+13	새로운	새롭+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	언어나	언어+나	NOUN	NNG+JC	_	16	obj	_	_
+15	문화를	문화+를	NOUN	NNG+JKO	_	14	conj	_	_
+16	보면	보+면	VERB	VV+EC	_	20	advcl	_	_
+17	그냥	그냥	ADV	MAG	_	20	advmod	_	_
+18	보통	보통	ADV	MAG	_	20	obl	_	_
+19	처럼	처럼	ADP	JKB	_	18	case	_	_
+20	적응할	적응+하+ㄹ	VERB	NNG+XSV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있는	있+는	VERB	VX+ETM	_	23	acl	_	_
+23	것	것	NOUN	NNB	_	24	nsubj	_	_
+24	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-ENG_29_1_05
+# text = 성인들은 아이에 비해서 자기의 언어를 다 알고, 새로운 것에 대해서 좀 의심적인 마음 있을 수도 있어요.
+1	성인들은	성인+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+2	아이에	아이+에	ADV	NNG+JKB	_	3	obl	_	_
+3	비해서	비하+아서	VERB	VV+EC	_	7	advcl	_	_
+4	자기의	자기+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	다	다	ADV	MAG	_	7	advmod	_	_
+7	알고	알+고	VERB	VV+EC	_	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	새로운	새롭+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	것에	것+에	ADV	NNB+JKB	_	11	obl	_	_
+11	대해서	대하+아서	VERB	VV+EC	_	17	advcl	_	_
+12	좀	좀	ADV	MAG	_	13	advmod	_	_
+13	의심적인	의심+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	마음	마음	NOUN	NNG	_	15	nsubj	_	_
+15	있을	있+을	VERB	VV+ETM	_	16	acl	_	_
+16	수도	수+도	NOUN	NNB+JX	_	17	nsubj	_	_
+17	있어요	있+어요	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_29_1_06
+# text = 그리고, 과학적으로 성인들은 다른 언어를 배울 때도 아주 힘든대요.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	과학적으로	과학+적+으로	ADV	NNG+XSN+JKB	_	10	obl	_	_
+4	성인들은	성인+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	10	advcl	_	_
+8	때도	때+도	ADV	NNG+JX	_	7	mark	_	_
+9	아주	아주	ADV	MAG	_	10	advmod	_	_
+10	힘든대요	힘들+ㄴ대요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_29_1_07
+# text = 그래서 교육 연구원에 따르면 조기언어교육에 투자하면 좋겠어요.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	교육	교육	NOUN	NNG	_	3	nmod	_	_
+3	연구원에	연구원+에	ADV	NNG+JKB	_	4	obl	_	_
+4	따르면	따르+면	VERB	VV+EC	_	7	advcl	_	_
+5	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	6	obl	_	_
+6	투자하면	투자+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	좋겠어요	좋+겠+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_29_1_08
+# text = 학교들은, 특히 초등학교들, 언어 수업 몇 개 있으면 좋겠어요.
+1	학교들은	학교+들+은	NOUN	NNG+XSN+JX	_	10	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	특히	특히	ADV	MAG	_	4	advmod	_	_
+4	초등학교들	초등학교+들	NOUN	NNG+XSN	_	1	appos	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	6	punct	_	_
+6	언어	언어	NOUN	NNG	_	7	nmod	_	_
+7	수업	수업	NOUN	NNG	_	10	dislocated	_	_
+8	몇	몇	DET	MM	_	9	det	_	_
+9	개	개	NOUN	NNB	_	10	nsubj	_	_
+10	있으면	있+으면	VERB	VV+EC	_	11	advcl	_	_
+11	좋겠어요	좋+겠+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_29_1_09
+# text = 그런데 그냥 문법이나 문장을 그대로 외우기보다는, 현실적인 자료로 공부하면 좋겠어요.
+1	그런데	그런데	ADV	MAJ	_	11	cc	_	_
+2	그냥	그냥	ADV	MAG	_	6	advmod	_	_
+3	문법이나	문법+이나	NOUN	NNG+JC	_	6	obj	_	_
+4	문장을	문장+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	그대로	그대로	ADV	MAG	_	6	advmod	_	_
+6	외우기보다는	외우+기+보다+는	VERB	VV+ETN+JKB+JX	_	11	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	현실적인	현실+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	amod	_	_
+9	자료로	자료+로	ADV	NNG+JKB	_	10	obl	_	_
+10	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+11	좋겠어요	좋+겠+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_29_1_10
+# text = 아까 말한 것 처럼, 특히 아이들은 자연스럽게 언어를 배우잖아요.
+1	아까	아까	ADV	MAG	_	2	advmod	_	_
+2	말한	말+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	것	것	NOUN	NNB	_	10	obl	_	_
+4	처럼	처럼	ADP	JKB	_	3	case	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	특히	특히	ADV	MAG	_	10	advmod	_	_
+7	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+8	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	10	advmod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우잖아요	배우+잖아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_29_1_11
+# text = 사실이면, 왜 자연스럽지 않은 교곽서로 가르쳐요?
+1	사실이면	사실+이+면	ADJ	NNG+VCP+EC	_	7	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	왜	왜	ADV	MAG	_	7	advmod	_	_
+4	자연스럽지	자연+스럽+지	ADJ	NNG+XSA+EC	_	6	amod	_	_
+5	않은	않	AUX	VX+ETM	_	4	aux	_	_
+6	교곽서로	교곽서+로	ADV	NNG+JKB	_	7	obl	_	_
+7	가르쳐요	가르치+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_

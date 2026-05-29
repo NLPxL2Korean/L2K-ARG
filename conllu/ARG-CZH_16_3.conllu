@@ -1,0 +1,88 @@
+# sent_id = ARG-CZH_16_3_01
+# text = 나는 경쟁을 선호해요.
+1	나는	나+는	PRON	NP+JX	_	3	nsubj	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_16_3_02
+# text = 나는 경쟁이 있으면 더 많은 동기가 있을거예요.
+1	나는	나+는	PRON	NP+JX	_	7	dislocated	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	동기가	동기+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있을거예요	있+을+것+이+에요	ADJ	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_16_3_03
+# text = 경쟁이 있으면 상을 탈 수 있고 재미있어요.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+3	상을	상+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	탈	타+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	0	root	_	_
+7	재미있어요	재미+있+어요	ADJ	NNG+VA+EF	_	6	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_16_3_04
+# text = 사람들을 더 열심히 일할거예요.
+1	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	일할거예요	일+하+ㄹ+것+이+에요	VERB	NNG+XSV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_16_3_05
+# text = 나는 운동을 하기 때문에 경쟁을 많이 좋아요.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	운동을	운동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하기	하+기	VERB	VV+ETN	_	7	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	경쟁을	경쟁+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_16_3_06
+# text = 나는 상을 받을 때 행복해요.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	상을	상+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	받을	받+을	VERB	VV+ETM	_	5	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	행복해요	행복+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_16_3_07
+# text = 어떤 사람들은 열심히 일하지 않기 때문에 협동하는 것을 안 좋아요.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	일하지	일+하+지	VERB	NNG+XSV+EC	_	10	obl	_	_
+5	않기	않	AUX	VX+ETN	_	4	aux	_	_
+6	때문에	때문+에	ADV	NNB+JKB	_	4	case	_	_
+7	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+9	안	안	ADV	MAG	_	10	advmod	_	_
+10	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_16_3_08
+# text = 나는 항상 일을 해야 해요.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	항상	항상	ADV	MAG	_	4	advmod	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+5	해요	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_16_3_09
+# text = 그래서 협동보다 경쟁을 더 좋아요.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	협동보다	협동+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

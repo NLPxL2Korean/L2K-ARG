@@ -1,0 +1,157 @@
+# sent_id = ARG-ENG_40_2_01
+# text = 역사를 왜 배워야 하냐고 물어보는 학생들이 참 많다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	왜	왜	ADV	MAG	_	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	하냐고	하+냐고	VERB	VX+EC	_	3	aux	_	_
+5	물어보는	물+어+보+는	VERB	VV+EC+VX+ETM	_	6	acl	_	_
+6	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+7	참	참	ADV	MAG	_	8	advmod	_	_
+8	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_40_2_02
+# text = 좀 지루하기도 하며 현재와는 무슨 연결이 있는지 모르겠다며 그렇다.
+1	좀	좀	ADV	MAG	_	2	advmod	_	_
+2	지루하기도	지루+하+기+도	NOUN	XR+XSA+ETN+JX	_	8	advcl	_	_
+3	하며	하+며	VERB	VX+EC	_	2	aux	_	_
+4	현재와는	현재+와+는	NOUN	NNG+JKB+JX	_	7	obl	_	_
+5	무슨	무슨	DET	MM	_	6	det	_	_
+6	연결이	연결+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있는지	있+는지	VERB	VV+EC	_	8	ccomp	_	_
+8	모르겠다며	모르+겠+다며	VERB	VV+EP+EC	_	9	advcl	_	_
+9	그렇다	그렇+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_40_2_03
+# text = 근데 역사를 배우면 우리 사회가 어떻게 이렇게 되었는지 알게 되고 앞으로는 일이 왜 벌어나고 무슨 의미가 있는지 알게 되기도 한다.
+1	근데	근데	ADV	MAJ	_	18	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	사회가	사회+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+7	이렇게	이렇+게	ADV	VA+EC	_	8	advmod	_	_
+8	되었는지	되+었+는지	VERB	VV+EP+EC	_	9	ccomp	_	_
+9	알게	알+게	VERB	VV+EC	_	18	advcl	_	_
+10	되고	되+고	VERB	VX+EC	_	9	advcl	_	_
+11	앞으로는	앞+으로+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+12	일이	일+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+13	왜	왜	ADV	MAG	_	14	advmod	_	_
+14	벌어나고	벌어나+고	VERB	VV+EC	_	18	ccomp	_	_
+15	무슨	무슨	DET	MM	_	16	det	_	_
+16	의미가	의미+가	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	있는지	있+는지	VERB	VV+EC	_	14	conj	_	_
+18	알게	알+게	VERB	VV+EC	_	0	root	_	_
+19	되기도	되+기+도	VERB	VV+ETN+JX	_	18	advcl	_	_
+20	한다	하+ㄴ다	VERB	VX+EF	_	18	aux	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_40_2_04
+# text = 예를 들어서 한국 사람들이 예전의 일본 태극기의 모습을 보면 왜 나쁜 감정이 나는지 참 중요한 일이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	16	advcl	_	_
+3	한국	한국	NOUN	NNP	_	4	nmod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+5	예전의	예전+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+6	일본	일본	NOUN	NNP	_	7	nmod	_	_
+7	태극기의	태극기+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	모습을	모습+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	보면	보+면	VERB	VV+EC	_	13	advcl	_	_
+10	왜	왜	ADV	MAG	_	16	advmod	_	_
+11	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	감정이	감정+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	나는지	나+는지	VERB	VV+EC	_	16	csubj	_	_
+14	참	참	ADV	MAG	_	15	advmod	_	_
+15	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	16	amod	_	_
+16	일이다	일+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_40_2_05
+# text = 역사를 모르며 다른 사람들이 왜 너와 달리 좀 이상하게 반응하고 있는지 이해도 안 가고 공감할 수 없다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	모르며	모르+며	VERB	VV+EC	_	14	advcl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+5	왜	왜	ADV	MAG	_	7	advmod	_	_
+6	너와	너+와	NOUN	NP+JKB	_	7	obl	_	_
+7	달리	달리	ADV	MAG	_	10	advcl	_	_
+8	좀	좀	ADV	MAG	_	9	advmod	_	_
+9	이상하게	이상+하+게	ADV	NNG+XSA+EC	_	10	advmod	_	_
+10	반응하고	반응+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+11	있는지	있+는지	AUX	VX+EC	_	10	aux	_	_
+12	이해도	이해+도	NOUN	NNG	_	14	nsubj	_	_
+13	안	안	ADV	MAG	_	14	advmod	_	_
+14	가고	가+고	VERB	VV+EC	_	0	root	_	_
+15	공감할	공감+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	없다	없+다	ADJ	VX+EF	_	14	conj	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_40_2_06
+# text = 근데 역사를 좀 더 알아보면 더 좋은 세상을 만들 수 있지 않을까 생각이 든다.
+1	근데	근데	ADV	MAJ	_	14	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+3	좀	좀	ADV	MAG	_	5	advmod	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	알아보면	알아보+면	VERB	VV+EC	_	14	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	세상을	세상+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	만들	만들+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	14	advcl	_	_
+11	있지	있+지	VERB	VX+EC	_	10	aux	_	_
+12	않을까	않+을까	AUX	VX+EC	_	10	aux	_	_
+13	생각이	생각+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_40_2_07
+# text = 그럼에 불구하고 역사의 패턴으로도 앞으로는 무슨 일이 일어날지 좀 더 적당하게 추측할 수 있다.
+1	그럼에	그럼+에	ADV	MAG+JKB	_	2	advmod	_	_
+2	불구하고	불구+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+3	역사의	역사+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	패턴으로도	패턴+으로+도	ADV	NNG+JKB+JX	_	12	obl	_	_
+5	앞으로는	앞+으로+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+6	무슨	무슨	DET	MM	_	7	det	_	_
+7	일이	일+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	일어날지	일어나+ㄹ지	VERB	VV+EC	_	12	ccomp	_	_
+9	좀	좀	ADV	MAG	_	12	advmod	_	_
+10	더	더	ADV	MAG	_	12	advmod	_	_
+11	적당하게	적당+하+게	ADV	XR+XSA+EC	_	12	advmod	_	_
+12	추측할	추측+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_40_2_08
+# text = 우리가 예전에 잘못으로 배울 수 있고 앞으로의 일어나는 일을 미리 의식하고 예방할 수 있을지 모른다.
+1	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+2	예전에	예전+에	ADV	NNG+JKB	_	4	obl	_	_
+3	잘못으로	잘+못+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	배울	배우+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	14	advcl	_	_
+7	앞으로의	앞+으로+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+8	일어나는	일어나+는	VERB	VV+ETM	_	9	acl	_	_
+9	일을	일+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	미리	미리	ADV	MAG	_	11	advmod	_	_
+11	의식하고	의식+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+12	예방할	예방+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있을지	있+을지	VERB	VX+EC	_	15	ccomp	_	_
+15	모른다	모르+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_40_2_09
+# text = 그래서 제 생각에는 역사를 배우기엔 나쁜 것 하나도 없다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우기엔	배우+기+에+ㄴ	NOUN	VV+ETN+JKB+JX	_	9	obl	_	_
+6	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	7	acl	_	_
+7	것	것	NOUN	NNB	_	9	dislocated	_	_
+8	하나도	하나+도	NOUN	NR+JX	_	9	nsubj	_	_
+9	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

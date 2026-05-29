@@ -1,0 +1,127 @@
+# sent_id = ARG-JPN_37_3_01
+# text =  저는 경쟁보다는 협동을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	경쟁보다는	경쟁+보다+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_37_3_02
+# text =  물론 경쟁도 때로는 서로 자극이 되어 서로가 발전하기 위해 필요한 일이라고 생각하지만 자신만을 위한 경쟁을 하게 된다면 때로는 서로 상처를 주게 될 수도 있다고 생각합니다.
+1	물론	물론	ADV	MAG	_	25	advmod	_	_
+2	경쟁도	경쟁+도	NOUN	NNG+JX	_	6	dislocated	_	_
+3	때로는	때로+는	VERB	MAG+JX	_	6	advmod	_	_
+4	서로	서로	ADV	MAG	_	6	advmod	_	_
+5	자극이	자극+이	NOUN	NNG+JKC	_	6	nsubj	_	_
+6	되어	되+어	VERB	VV+EC	_	11	advcl	_	_
+7	서로가	서로+가	PRON	NNG+JKS	_	8	nsubj	_	_
+8	발전하기	발전+하+기	NOUN	NNG+XSV+ETN	_	10	obj	_	_
+9	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+10	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	11	acl	_	_
+11	일이라고	일+이+라고	VERB	NNB+VCP+EC	_	16	ccomp	_	_
+12	생각하지만	생각+하+지만	VERB	NNG+XSV+EC	_	25	advcl	_	_
+13	자신만을	자신+만+을	NOUN	NNG+JX+JKO	_	14	obj	_	_
+14	위한	위하+ㄴ	VERB	VV+ETM	_	16	acl	_	_
+15	경쟁을	경쟁+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	하게	하+게	VERB	VV+EC	_	24	advcl	_	_
+17	된다면	되+ㄴ다면	VERB	VX+EC	_	16	advcl	_	_
+18	때로는	때로+는	ADJ	MAG+JX	_	21	advmod	_	_
+19	서로	서로	ADV	MAG	_	21	advmod	_	_
+20	상처를	상처+를	NOUN	NNG+JKO	_	21	obj	_	_
+21	주게	주+게	VERB	VV+EC	_	23	acl	_	_
+22	될	되+ㄹ	VERB	VX+ETM	_	21	advcl	_	_
+23	수도	수+도	NOUN	NNB+JX	_	24	nsubj	_	_
+24	있다고	있+다고	VERB	VX+EC	_	25	ccomp	_	_
+25	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-JPN_37_3_03
+# text =  반면 협동은 인간이 살아가는 데 있어서 필요한 일이라고 생각합니다.
+1	반면	반면	ADV	MAG	_	9	advmod	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	8	nsubj	_	_
+3	인간이	인간+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	살아가는	살아가+는	VERB	VV+ETM	_	5	acl	_	_
+5	데	데	ADV	NNB	_	6	obl	_	_
+6	있어서	있+어서	AUX	VV+EC	_	8	advcl	_	_
+7	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	8	amod	_	_
+8	일이라고	일+이+라고	VERB	NNB+VCP+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_37_3_04
+# text =  인간이 혼자서 할 수 있는 일에는 제한이 있습니다.
+1	인간이	인간+이	NOUN	NNG+JKS	_	8	dislocated	_	_
+2	혼자서	혼자+서	ADV	NNG+JKS	_	3	nsubj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있는	있+는	VERB	VX+ETM	_	6	acl	_	_
+6	일에는	일+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+7	제한이	제한+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_37_3_05
+# text =  모든 일은 협동을 하여 나아간다면 더 큰 결과를 얻을 수 있고 더 큰 목표를 향해 나아갈 수 있을 것입니다.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	일은	일+은	NOUN	NNG+JX	_	5	obj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하여	하+아	VERB	VV+EC	_	5	advcl	_	_
+5	나아간다면	나아가+ㄴ다면	VERB	VV+EC	_	11	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	결과를	결과+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	얻을	얻+을	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	19	advcl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	큰	크+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	목표를	목표+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	향해	향하+여	VERB	VV+EC	_	16	advcl	_	_
+16	나아갈	나아가+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있을	있+을	VERB	VX+ETM	_	19	acl	_	_
+19	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_37_3_06
+# text =  또한 협동 과정에서 서로 의견이 달라 갈등하게 되더라도 결국에는 협동이라는 것은 같은 목표를 향해 가는 사람이 하는 일이기때문에 목표가 같다면 갈등을 하게 되더라도 잘 합의하고 서로에게 상처 주는일도없이 하나가 되어 나아갈 수 있을 것이라 생각합니다.
+1	또한	또한	ADV	MAJ	_	35	cc	_	_
+2	협동	협동	NOUN	NNG	_	3	nmod	_	_
+3	과정에서	과정+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	서로	서로	ADV	MAG	_	6	advmod	_	_
+5	의견이	의견+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	달라	다르+아	VERB	VA+EC	_	7	advcl	_	_
+7	갈등하게	갈등+하+게	VERB	NNG+XSV+EC	_	35	advcl	_	_
+8	되더라도	되+더라도	VERB	VX+EC	_	7	advcl	_	_
+9	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	18	obl	_	_
+10	협동이라는	협동+이+라는	VERB	NNG+VCP+ETM	_	11	acl	_	_
+11	것은	것+은	NOUN	NNB+JX	_	18	nsubj	_	_
+12	같은	같+은	VERB	VA+ETM	_	13	amod	_	_
+13	목표를	목표+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	향해	향하+여	VERB	VV+EC	_	16	acl	_	_
+15	가는	가+는	VERB	VX+ETM	_	14	aux	_	_
+16	사람이	사람+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	하는	하+는	VERB	VV+ETM	_	18	acl	_	_
+18	일이기때문에	일+이+기+때문+에	ADV	NNG+VCP+ETN+NNB+JKB	_	35	obl	_	_
+19	목표가	목표+가	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	같다면	같+다면	VERB	VA+EC	_	34	advcl	_	_
+21	갈등을	갈+등+을	NOUN	NNG+JKO	_	22	obj	_	_
+22	하게	하+게	VERB	VV+EC	_	30	advcl	_	_
+23	되더라도	되+더라도	VERB	VX+EC	_	22	advcl	_	_
+24	잘	잘	ADV	MAG	_	25	advmod	_	_
+25	합의하고	합의+하+고	VERB	NNG+XSV+EC	_	30	advcl	_	_
+26	서로에게	서로+에게	NOUN	NNG+JKB	_	28	obl	_	_
+27	상처	상처	NOUN	NNG	_	28	obj	_	_
+28	주는일도없이	주+는+일+도+없+이	NOUN	VV+ETM+NNG+JX+VA+EC	_	30	advcl	_	_
+29	하나가	하나+가	NOUN	NNG+JKS	_	30	nsubj	_	_
+30	되어	되+어	VERB	VV+EC	_	31	advcl	_	_
+31	나아갈	나아가+ㄹ	VERB	VV+ETM	_	32	acl	_	_
+32	수	수	NOUN	NNB	_	33	nsubj	_	_
+33	있을	있+을	VERB	VX+ETM	_	34	acl	_	_
+34	것이라	것+이+라	VERB	NNB+VCP+EC	_	35	ccomp	_	_
+35	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+36	.	.	PUNCT	SF	_	35	punct	_	_
+
+# sent_id = ARG-JPN_37_3_07
+# text = .
+1	.	.	PUNCT	SF	_	0	root	_	_

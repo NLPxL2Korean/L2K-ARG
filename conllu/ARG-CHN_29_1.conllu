@@ -1,0 +1,117 @@
+# sent_id = ARG-CHN_29_1_01
+# text = 자연 보존은 자연 개발보다 더 중요다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존은	보존+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발보다	개발+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요다고	중요+다고	ADJ	NNG+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_29_1_02
+# text = 첫 번째, 자연 보존은 원실적이다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	번째	번째	NOUN	NNB	_	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	보존은	보존+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	원실적이다	원실+적+이+다	ADJ	NF+XSN+VCP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_29_1_03
+# text = 다시 만들어 할수 없다.
+1	다시	다시	ADV	MAG	_	2	advmod	_	_
+2	만들어	만들+어	VERB	VV+EC	_	3	advcl	_	_
+3	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	4	nsubj	_	_
+4	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_29_1_04
+# text = 사람에 대해 선물이다.
+1	사람에	사람+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해	대하+아	VERB	VV+EC	_	3	advcl	_	_
+3	선물이다	선물+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_29_1_05
+# text = 두번째, 자연보존은 후대에게다 볼 수 있다.
+1	두번째	두+번째	NOUN	MM+NNB	_	7	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연보존은	자연+보존+은	NOUN	NNG+NNG+JX	_	5	nsubj	_	_
+4	후대에게다	후대+에게+다	NOUN	NNG+JKB+MAG	_	5	obl	_	_
+5	볼	보+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_29_1_06
+# text = 예를 들어서 국가의 문화 및 역사 등 다른 사람에개 소개할 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	12	advcl	_	_
+3	국가의	국가+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+4	문화	문화	NOUN	NNG	_	10	obj	_	_
+5	및	및	ADV	MAG	_	6	cc	_	_
+6	역사	역사	NOUN	NNG	_	4	conj	_	_
+7	등	등	NOUN	NNB	_	6	case	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	사람에개	사람+에개	NOUN	NNG+NA	Typo=Yes	10	obl	_	_
+10	소개할	소개+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_29_1_07
+# text = 뿐만 아니라 자연 물건은 이 새상에서 존재하는 의미가 있다.
+1	뿐만	뿐+만	NOUN	NNB+JX	_	2	nsubj	_	_
+2	아니라	아니+라	ADJ	VCN+EC	_	9	advcl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	물건은	물건+은	NOUN	NNG+JX	_	9	dislocated	_	_
+5	이	이	DET	MM	_	6	det	_	_
+6	새상에서	새상+에서	ADV	NNG+JKB	_	7	obl	_	_
+7	존재하는	존재+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	의미가	의미+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_29_1_08
+# text = 새번째, 자연 개발은 사람들이 만들어서 너무 완벽하고 아름답다.
+1	새번째	새+번째	NOUN	NA+NNB	Typo=Yes	9	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발은	개발+은	NOUN	NNG+JX	_	8	nsubj	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	만들어서	만들+어서	VERB	VV+EC	_	8	advcl	_	_
+7	너무	너무	ADV	MAG	_	8	advmod	_	_
+8	완벽하고	완벽+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+9	아름답다	아름답+다	ADJ	VA+EF	_	8	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_29_1_09
+# text = 자연 보존에 대해 더 쉽게 만들다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존에	보존+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	만들다	만들+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_29_1_10
+# text = 어떤 중요한 의미가 없다.
+1	어떤	어떤	DET	MM	_	3	det	_	_
+2	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	의미가	의미+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_29_1_11
+# text = 그렇니까 자연 보존은 자연 개발보다 더 중요한다.
+1	그렇니까	그렇니까	ADV	NA	Typo=Yes	7	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존은	보존+은	NOUN	NNG+JX	_	7	nsubj	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	개발보다	개발+보다	ADV	NNG+JKB	_	7	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

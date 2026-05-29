@@ -1,0 +1,127 @@
+# sent_id = ARG-ENG_22_2_01
+# text = 모든 분야에 있는 혁명과 발전은 역사와 불과분한 관계를 가지고 있다.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	분야에	분야+에	ADV	NNG+JKB	_	3	obl	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	혁명과	혁명+과	NOUN	NNG+JC	_	9	nsubj	_	_
+5	발전은	발전+은	NOUN	NNG+JX	_	4	conj	_	_
+6	역사와	역사+와	NOUN	NNG+JC	_	9	obl	_	_
+7	불과분한	불과분+하+ㄴ	ADJ	NF+XSA+ETM	_	8	amod	_	_
+8	관계를	관계+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	가지고	가지+고	VERB	VV+EC	_	0	root	_	_
+10	있다	있+다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_22_2_02
+# text = 따라서 사회나 자기 분야에 의미있는 발전을 일으키려면 역사를 배워야 한다.
+1	따라서	따라서	ADV	MAJ	_	9	cc	_	_
+2	사회나	사회+나	NOUN	NNG+JC	_	7	obl	_	_
+3	자기	자기	PRON	NNG	_	4	nmod	_	_
+4	분야에	분야+에	ADV	NNG+JKB	_	2	conj	_	_
+5	의미있는	의미+있+는	ADJ	NNG+VA+ETM	_	6	amod	_	_
+6	발전을	발전+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	일으키려면	일으키+려면	VERB	VV+EC	_	9	advcl	_	_
+8	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+10	한다	하+ㄴ다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_22_2_03
+# text = 예를 들어, 새로운 식당을 열때 그 지역의 배경과 인구에 입맛을 역시로 통해 연구를 해야한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	식당을	식당+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	열때	열+ㄹ+때	VERB	VV+ETM+NNG	_	15	advcl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	지역의	지역+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	배경과	배경+과	NOUN	NNG+JC	_	15	obj	_	_
+10	인구에	인구+에	ADV	NNG+JKB	_	15	obl	_	_
+11	입맛을	입맛+을	NOUN	NNG+JKO	_	9	conj	_	_
+12	역시로	역시+로	ADV	NF+JKB	_	13	obl	_	_
+13	통해	통하+아	VERB	VV+EC	_	15	advcl	_	_
+14	연구를	연구+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	해야한다	하+아야+하+ㄴ다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_22_2_04
+# text = 부산에 전통 독일 식당을 열면 망할 가능성이 높다.
+1	부산에	부산+에	ADV	NNP+JKB	_	5	obl	_	_
+2	전통	전통	NOUN	NNG	_	3	nmod	_	_
+3	독일	독일	NOUN	NNP	_	4	nmod	_	_
+4	식당을	식당+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	열면	열+면	VERB	VV+EC	_	8	advcl	_	_
+6	망할	망하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	높다	높+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_22_2_05
+# text = 부산 역사의 독일 이민과 교류가 적기 때문이다.
+1	부산	부산	NOUN	NNP	_	2	nmod	_	_
+2	역사의	역사+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+3	독일	독일	NOUN	NNP	_	4	nmod	_	_
+4	이민과	이민+과	NOUN	NNP+JC	_	6	nsubj	_	_
+5	교류가	교류+가	NOUN	NNG+JKS	_	4	conj	_	_
+6	적기	적+기	NOUN	VA+ETN	_	7	nmod	_	_
+7	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_22_2_06
+# text = 반면에 부산은 지역상으로 일본과 가깝고 일본 주민들이 상대적으로 많기 때문에 일본 식당을 여는 것은 나쁜 생각이 아니다.
+1	반면에	반면+에	ADV	NNG+JKB	_	17	obl	_	_
+2	부산은	부산+은	NOUN	NNP+JX	_	5	nsubj	_	_
+3	지역상으로	지역+상+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+4	일본과	일본+과	ADV	NNP+JKB	_	5	obl	_	_
+5	가깝고	가깝+고	VERB	VA+EC	_	9	advcl	_	_
+6	일본	일본	NOUN	NNP	_	7	nmod	_	_
+7	주민들이	주민+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+8	상대적으로	상대+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+9	많기	많+기	NOUN	VA+ETN	_	17	obl	_	_
+10	때문에	때문+에	ADP	NNB+JKB	_	9	case	_	_
+11	일본	일본	NOUN	NNP	_	12	nmod	_	_
+12	식당을	식당+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	여는	열+는	VERB	VV+ETM	_	14	acl	_	_
+14	것은	것+은	NOUN	NNB+JX	_	17	dislocated	_	_
+15	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	생각이	생각+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_22_2_07
+# text = 하지만 다른 역사적인 요소들도 고려해야 한다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	다른	다른	ADJ	MM	_	4	amod	_	_
+3	역사적인	역사+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	요소들도	요소+들+도	NOUN	NNG+XSN+JX	_	5	obj	_	_
+5	고려해야	고려+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+6	한다	하+ㄴ다	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_22_2_08
+# text = 한국 경정, 국내에 있는 음식트렌드, 소비자에 소비 페턴, 등 있다.
+1	한국	한국	NOUN	NNP	_	2	nmod	_	_
+2	경정	경정	NOUN	NF	_	10	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	국내에	국내+에	ADV	NNP+JKB	_	5	obl	_	_
+5	있는	있+는	VERB	VV+ETM	_	6	acl	_	_
+6	음식트렌드	음식+트렌드	NOUN	NNG+NNG	_	10	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	소비자에	소비자+에	ADV	NNG+JKB	_	13	obl	_	_
+9	소비	소비	NOUN	NNG	_	10	nmod	_	_
+10	페턴	페턴	NOUN	NF	_	13	nsubj	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	등	등	NOUN	NNB	_	10	case	_	_
+13	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_22_2_09
+# text = 어떻게 보면 이런것들도 역사에 포함되어 있다.
+1	어떻게	어떻+게	ADV	VA+EC	_	2	advmod	_	_
+2	보면	보+면	VERB	VV+EC	_	5	advcl	_	_
+3	이런것들도	이런+것+들+도	NOUN	MM+NNB+XSN+JX	_	5	nsubj	_	_
+4	역사에	역사+에	ADV	NNG+JKB	_	5	obl	_	_
+5	포함되어	포함+되+어	VERB	NNG+XSV+EC	_	0	root	_	_
+6	있다	있+다	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_

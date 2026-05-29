@@ -1,0 +1,160 @@
+# sent_id = ARG-HENG_07_2_01
+# text = 우리는 역사를 배워야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	3	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	한다	하+ㄴ다	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_07_2_02
+# text = 우리의 시대에는 문제 여러가지 있고 아주 많다.
+1	우리의	우리+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	시대에는	시대+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	문제	문제	NOUN	NNG	_	4	nmod	_	_
+4	여러가지	여러+가지	NOUN	MM+NNB	_	5	nsubj	_	_
+5	있고	있+고	VERB	VV+EC	_	0	root	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	많다	많+다	ADJ	VA+EF	_	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_07_2_03
+# text = 예를 들면, 전세계에 global warming이 인간들 주기고 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	8	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	전세계에	전+세계+에	ADV	MM+NNG+JKB	_	8	obl	_	_
+5	global	global	NOUN	SL	_	6	amod	_	_
+6	warming이	warming+이	NOUN	SL+JKS	_	8	nsubj	_	_
+7	인간들	인간+들	NOUN	NNG+XSN	_	8	obj	_	_
+8	주기고	주기+고	VERB	NV+EC	_	0	root	_	_
+9	있다	있+다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_07_2_04
+# text = 그런데 global warming이 인간들이 만든 문제이라 인간들이 이 문제를 푸러야 된다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	global	global	NOUN	SL	_	3	amod	_	_
+3	warming이	warming+이	NOUN	SL+JKS	_	6	nsubj	_	_
+4	인간들이	인간+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	만든	만들+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	문제이라	문제+이+라	VERB	NNG+VCP+EC	_	10	advcl	_	_
+7	인간들이	인간+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	문제를	문제+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	푸러야	푸+러야	VERB	NV+NA	_	0	root	_	_
+11	된다	되+ㄴ다	VERB	VX+EF	_	10	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_07_2_05
+# text = 역사를 보면 인간들이 우리 전세계가 점점 뜨거워지는게 알고 있었는데 돈욕심 너무 많아서 상관 없었다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	보면	보+면	VERB	VV+EC	_	14	advcl	_	_
+3	인간들이	인간+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	전세계가	전+세계+가	NOUN	MM+NNG+JKS	_	7	nsubj	_	_
+6	점점	점점	ADV	MAG	_	7	advmod	_	_
+7	뜨거워지는게	뜨겁+어지+는+것+이	VERB	VA+XSV+ETM+NNB+JKS	_	8	nsubj	_	_
+8	알고	알+고	VERB	VV+EC	_	12	advcl	_	_
+9	있었는데	있+었+는데	VERB	VX+EP+EC	_	8	aux	_	_
+10	돈욕심	돈+욕심	NOUN	NNG+NNG	_	12	nsubj	_	_
+11	너무	너무	ADV	MAG	_	12	advmod	_	_
+12	많아서	많+아서	VERB	VA+EC	_	14	advcl	_	_
+13	상관	상관	NOUN	NNG	_	14	nsubj	_	_
+14	없었다	없+었+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_07_2_06
+# text = 그래서 지금 사는 시대인들은 미래를 생각하면서 그 다른 역사에 사람들과 다르게 global warming에 대해 신경써야 된다.
+1	그래서	그래서	ADV	MAJ	_	15	cc	_	_
+2	지금	지금	ADV	MAG	_	3	advmod	_	_
+3	사는	살+는	VERB	VV+ETM	_	4	acl	_	_
+4	시대인들은	시대인+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+5	미래를	미래+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	생각하면서	생각+하+면서	VERB	NNG+XSV+EC	_	15	advcl	_	_
+7	그	그	DET	MM	_	9	det	_	_
+8	다른	다른	ADJ	MM	_	9	amod	_	_
+9	역사에	역사+에	ADV	NNG+JKB	_	15	obl	_	_
+10	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	11	obl	_	_
+11	다르게	다르+게	ADV	VA+EC	_	15	advcl	_	_
+12	global	global	NOUN	SL	_	13	amod	_	_
+13	warming에	warming+에	ADV	SL+JKB	_	14	obl	_	_
+14	대해	대하+아	VERB	VV+EC	_	15	advcl	_	_
+15	신경써야	신경+쓰+어야	VERB	NNG+VV+EC	_	0	root	_	_
+16	된다	되+ㄴ다	VERB	VX+EF	_	15	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_07_2_07
+# text = 역사는 잘못했던 일을 보여주면서 우리의 미래를 신경쓰게 만두른다.
+1	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+2	잘못했던	잘못+하+았+던	VERB	NNG+XSV+EP+ETM	_	3	acl	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	보여주면서	보여주+면서	VERB	VV+EC	_	8	advcl	_	_
+5	우리의	우리+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	미래를	미래+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	신경쓰게	신경+쓰+게	ADV	NNG+VV+EC	_	8	advcl	_	_
+8	만두른다	만두르+ㄴ다	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_07_2_08
+# text = 또한 역사는 미래에 다시 나타난다.
+1	또한	또한	ADV	MAJ	_	5	cc	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	5	nsubj	_	_
+3	미래에	미래+에	ADV	NNG+JKB	_	5	obl	_	_
+4	다시	다시	ADV	MAG	_	5	advmod	_	_
+5	나타난다	나타나+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_07_2_09
+# text = 예를 들면, 60년 전에 미국 백인 경찰들이 흑인사람들 나쁜짓을 많이 했다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	60년	60+년	NOUN	SN+NNB	_	12	obl	_	_
+5	전에	전+에	ADP	NNG+JKB	_	4	case	_	_
+6	미국	미국	NOUN	NNP	_	7	nmod	_	_
+7	백인	백인	NOUN	NNG	_	8	nmod	_	_
+8	경찰들이	경찰+들+이	NOUN	NNG+XSN+XSN	_	12	nsubj	_	_
+9	흑인사람들	흑인+사람+들	NOUN	NNG+NNG+XSN	_	12	obl	_	_
+10	나쁜짓을	나쁘+ㄴ+짓+을	NOUN	VA+ETM+NNG+JKO	_	12	obj	_	_
+11	많이	많이	ADV	MAG	_	12	advmod	_	_
+12	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_07_2_10
+# text = 때리고 죽이고 삶을 못실게 만들었다.
+1	때리고	때리+고	ADV	VV+EC	_	2	advcl	_	_
+2	죽이고	죽+이+고	VERB	VV+XSV+EC	_	5	advcl	_	_
+3	삶을	삶+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	못실게	못+실+게	ADV	MAG+NV+EC	_	5	advcl	_	_
+5	만들었다	만들+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_07_2_11
+# text = 올해 2022년에는 아직도 백인 경찰들이 흑인사람에게 똑같은 행동하고 있다.
+1	올해	올해	NOUN	NNG	_	2	nmod	_	_
+2	2022년에는	2022+년+에+는	ADV	SN+NNB+JKB+JX	_	8	obl	_	_
+3	아직도	아직+도	ADV	MAG+JX	_	8	advmod	_	_
+4	백인	백인	NOUN	NNG	_	5	nmod	_	_
+5	경찰들이	경찰+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+6	흑인사람에게	흑인+사람+에게	NOUN	NNG+NNG+JKB	_	8	obl	_	_
+7	똑같은	똑같+은	VERB	VA+ETM	_	8	amod	_	_
+8	행동하고	행동+하+고	VERB	NNG+VV+EC	_	0	root	_	_
+9	있다	있+다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_07_2_12
+# text = 역사에 봤던 일들이 아직도 있으니, 우리는 미국 경찰의 문제가 있다고 인정 해야된다.
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	봤던	보+았+던	VERB	VV+EP+ETM	_	3	acl	_	_
+3	일들이	일+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	아직도	아직+도	ADV	MAG+JX	_	5	advmod	_	_
+5	있으니	있+으니	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	우리는	우리+는	PRON	NP+JX	_	13	nsubj	_	_
+8	미국	미국	NOUN	NNP	_	9	nmod	_	_
+9	경찰의	경찰+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	문제가	문제+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VV+EC	_	13	ccomp	_	_
+12	인정	인정	NOUN	NNG	_	13	obj	_	_
+13	해야된다	하+아야+되+ㄴ다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

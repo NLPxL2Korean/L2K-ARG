@@ -1,0 +1,209 @@
+# sent_id = ARG-CHN_26_1_01
+# text = 자연 보존과 자연 개발은 모두 중요하지만 자연 보존이 비교적으로 더 중요하다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존과	보존+과	NOUN	NNG+JC	_	12	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발은	개발+은	NOUN	NNG+JX	_	2	conj	_	_
+5	모두	모두	ADV	MAG	_	6	advmod	_	_
+6	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	11	advcl	_	_
+7	자연	자연	NOUN	NNG	_	8	nmod	_	_
+8	보존이	보존+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+9	비교적으로	비교+적+으로	ADV	NNG+XSN+JKB	_	11	obl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_26_1_02
+# text = 지난 주에 나오 뉴스에 따라 태국의 어느 섬이 2021년까지 관광객에세 열리지 않는다고 들었다.
+1	지난	지나+ㄴ	VERB	VV+ETM	_	2	acl	_	_
+2	주에	주+에	ADV	NNB+JKB	_	3	obl	_	_
+3	나오	나오	VERB	VV	_	4	acl	_	_
+4	뉴스에	뉴스+에	ADV	NNG+JKB	_	5	obl	_	_
+5	따라	따르+아	VERB	VV+EC	_	13	advcl	_	_
+6	태국의	태국+의	NOUN	NNP+JKG	_	8	nmod:poss	_	_
+7	어느	어느	DET	MM	_	8	det	_	_
+8	섬이	섬+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+9	2021년까지	2021+년+까지	NOUN	SN+NNB+JX	_	11	obl	_	_
+10	관광객에세	관광+객+에세	ADV	NNG+XSN+NA	Typo=Yes	11	obl	_	_
+11	열리지	열리+지	VERB	VV+EC	_	13	ccomp	_	_
+12	않는다고	않	AUX	VX+EC	_	11	aux	_	_
+13	들었다	들+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_26_1_03
+# text = 그 섬을 개발하고 관광객에게 결리는 것은 경제적으로 큰 이익을 얻을 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	섬을	섬+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	개발하고	개발+하+고	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	관광객에게	관광+객+에게	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	결리는	결리+는	VERB	NV+ETM	Typo=Yes	6	acl	_	_
+6	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+7	경제적으로	경제+적+으로	ADV	NNG+XSN+JKB	_	10	obl	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	이익을	이익+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	얻을	얻+을	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_26_1_04
+# text = 그러나 이와 동시에 자연 환경이 많이 파괴될 수 있다.
+1	그러나	그러나	ADV	MAJ	_	9	cc	_	_
+2	이와	이+와	PRON	NP+JKB	_	9	obl	_	_
+3	동시에	동시+에	ADV	NNG+JKB	_	9	obl	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	환경이	환경+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	파괴될	파괴+되+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_26_1_05
+# text = 자연은 이름 그대로 자연스러운 모습을 보여주고 그 내에 원래의 생태 환경에게 인위적인 피해를 주지 않는 것이 더 중요하다.
+1	자연은	자연+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	이름	이름	NOUN	NNG	_	6	obl	_	_
+3	그대로	그대로	ADV	MAG	_	6	advmod	_	_
+4	자연스러운	자연+스럽+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	모습을	모습+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	보여주고	보여주+고	VERB	VV+EC	_	16	acl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	내에	내+에	ADV	NNB+JKB	_	14	obl	_	_
+9	원래의	원래+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+10	생태	생태	NOUN	NNG	_	11	nmod	_	_
+11	환경에게	환경+에게	ADV	NNG+JKB	_	14	obl	_	_
+12	인위적인	인위+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	13	acl	_	_
+13	피해를	피해+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	주지	주+지	VERB	VV+EC	_	6	conj	_	_
+15	않는	않	AUX	VX+ETM	_	14	aux	_	_
+16	것이	것+이	NOUN	NNB+JKS	_	18	nsubj	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_26_1_06
+# text = 태국 정부도 이런 입장에 서서 그 섬의 생태 환경을 회복시키려는 노력을 하고 있음을 볼 수 있다.
+1	태국	태국	NOUN	NNP	_	2	nmod	_	_
+2	정부도	정부+도	NOUN	NNG+JX	_	5	nsubj	_	_
+3	이런	이런	DET	MM	_	4	det	_	_
+4	입장에	입장+에	ADV	NNG+JKB	_	5	obl	_	_
+5	서서	서+어서	VERB	VV+EC	_	12	advcl	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	섬의	섬+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+8	생태	생태	NOUN	NNG	_	9	nmod	_	_
+9	환경을	환경+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	회복시키려는	회복+시키+려는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	노력을	노력+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	하고	하+고	VERB	VV+EC	_	14	obj	_	_
+13	있음을	있	AUX	VX+ETN+JKO	_	12	aux	_	_
+14	볼	보+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_26_1_07
+# text = 필가자 어렸을 때 고향과 1시간 거리에 바닷가 쪽으로 놀러가는 아름다운 기억이 있다.
+1	필가자	필가+자	NOUN	NF+NA	Typo=Yes	2	nsubj	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	12	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	고향과	고향+과	ADV	NNG+JKB	_	5	obl	_	_
+5	1시간	1+시간	NOUN	SN+NNB	_	6	nmod	_	_
+6	거리에	거리+에	ADV	NNG+JKB	_	9	obl	_	_
+7	바닷가	바닷가	NOUN	NNG	_	9	obl	_	_
+8	쪽으로	쪽+으로	ADV	NNG+JKB	_	7	case	_	_
+9	놀러가는	놀러가+는	VERB	VV+ETM	_	11	acl	_	_
+10	아름다운	아름답+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	기억이	기억+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_26_1_08
+# text = 그러나 고등학교때 한 번 더 가봤는데 그 바닷가의 모습이 원전히 달라졌다.
+1	그러나	그러나	ADV	MAJ	_	11	cc	_	_
+2	고등학교때	고등학교+때	NOUN	NNG+NNG	_	6	obl	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	번	번	NOUN	NNB	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	가봤는데	가+아+보+았+는데	VERB	VV+EC+VX+EP+EC	_	11	advcl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	바닷가의	바닷가+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	모습이	모습+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	원전히	원전히	ADV	NA	Typo=Yes	11	advmod	_	_
+11	달라졌다	다르+아지+었+다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_26_1_09
+# text = 어렸을 때는 그 옆에 어촌이 있고 현대적인 시설이 없었다.
+1	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	9	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	옆에	옆+에	ADV	NNG+JKB	_	6	obl	_	_
+5	어촌이	어촌+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	0	root	_	_
+7	현대적인	현대+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	시설이	시설+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	없었다	없+었+다	ADJ	VA+EP+EF	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_26_1_10
+# text = 그렇게만 바람을 맞고 친구들과 노는 것이 지금 다시 생각해도 좋은 추억이었다.
+1	그렇게만	그렇+게+만	ADV	VA+EC+JX	_	3	advmod	_	_
+2	바람을	바람+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	맞고	맞+고	VERB	VV+EC	_	5	advcl	_	_
+4	친구들과	친구+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	노는	놀+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+7	지금	지금	ADV	MAG	_	9	advmod	_	_
+8	다시	다시	ADV	MAG	_	9	advmod	_	_
+9	생각해도	생각+하+아도	VERB	NNG+XSV+EC	_	11	advcl	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	11	amod	_	_
+11	추억이었다	추억+이+었+다	ADJ	NNG+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_26_1_11
+# text = 그러나 그후에 갔을 때는 놀이동산도 생겼고 더 이상 바닷가, 어촌의 느낌이 없어졌다.
+1	그러나	그러나	ADV	MAJ	_	13	cc	_	_
+2	그후에	그+후+에	ADV	MM+NNG+JKB	_	3	obl	_	_
+3	갔을	가+았+을	VERB	VV+EP+ETM	_	13	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	놀이동산도	놀이+동산+도	NOUN	NNG+NNG+JX	_	6	nsubj	_	_
+6	생겼고	생기+었+고	VERB	VV+EP+EC	_	13	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	이상	이상	NOUN	NNG	_	13	obl	_	_
+9	바닷가	바닷가	NOUN	NNG	_	11	list	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	어촌의	어촌+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	느낌이	느낌+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	없어졌다	없+어지+었+다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_26_1_12
+# text = 모든 것이 상업적인 것으로 변했다.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+3	상업적인	상업+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+4	것으로	것+으로	ADV	NNB+JKB	_	5	obl	_	_
+5	변했다	변하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_26_1_13
+# text = 따라서 자연은 자연 그대로의 모습이 사람들한테 보여주면 되고, 과도적으로 개발하면 자연 그대로의 느낌이 없어질 수 있다.
+1	따라서	따라서	ADV	MAJ	_	17	cc	_	_
+2	자연은	자연+은	NOUN	NNG+JX	_	7	dislocated	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	그대로의	그대로+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	모습이	모습+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	사람들한테	사람+들+한테	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	보여주면	보여주+면	VERB	VV+EC	_	17	advcl	_	_
+8	되고	되+고	VERB	VX+EC	_	7	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	과도적으로	과도+적+으로	ADV	NNG+XSN+JKB	_	11	obl	_	_
+11	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	17	advcl	_	_
+12	자연	자연	NOUN	NNG	_	13	nmod	_	_
+13	그대로의	그대로+의	NOUN	NNG+JKG	_	14	nmod:poss	_	_
+14	느낌이	느낌+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	없어질	없+어지+ㄹ	VERB	VA+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

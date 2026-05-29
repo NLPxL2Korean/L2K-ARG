@@ -1,0 +1,169 @@
+# sent_id = ARG-ENG_26_1_01
+# text = 조기언어교육은 언어 발달이 가장 쉬울 때에 언어교육에 집중하는 것이다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	9	nsubj	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	발달이	발달+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	가장	가장	ADV	MAG	_	5	advmod	_	_
+5	쉬울	쉽+ㄹ	ADJ	VA+ETM	_	8	advcl	_	_
+6	때에	때+에	ADV	NNG+JKB	_	5	mark	_	_
+7	언어교육에	언어+교육+에	ADV	NNG+NNG+JKB	_	8	obl	_	_
+8	집중하는	집중+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_26_1_02
+# text = 한국에서 특히 영어조기교육에 많은 시간과 노력을 투자한다.
+1	한국에서	한국+에서	ADV	NNP+JKB	_	7	obl	_	_
+2	특히	특히	ADV	MAG	_	7	advmod	_	_
+3	영어조기교육에	영어+조기+교육+에	ADV	NNG+NNG+NNG+JKB	_	7	obl	_	_
+4	많은	많+은	ADJ	VA+ETM	_	6	acl	_	_
+5	시간과	시간+과	NOUN	NNG+JC	_	7	obj	_	_
+6	노력을	노력+을	NOUN	NNG+JKO	_	5	conj	_	_
+7	투자한다	투자+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_26_1_03
+# text = 조기언어교육의 장점은 적절한 시기에 언어를 습득하기 때문에 그 언어를 모국어로 사용할 수 있는 것이다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	14	nsubj	_	_
+3	적절한	적절+하+ㄴ	ADJ	XR+XSA+ETM	_	4	amod	_	_
+4	시기에	시기+에	ADV	NNG+JKB	_	6	obl	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+6	습득하기	습득+하+기	ADJ	NNG+XSA+ETN	_	11	obl	_	_
+7	때문에	때문+에	ADV	NNB+JKB	_	6	case	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+10	모국어로	모국어+로	ADV	NNG+JKB	_	11	obl	_	_
+11	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_26_1_04
+# text = 특히 어른들이 어려워하는 발음이나 억향이 자연스럽게 하게 된다.
+1	특히	특히	ADV	MAG	_	7	advmod	_	_
+2	어른들이	어른+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	어려워하는	어렵+어+하+는	ADJ	VA+EC+VX+ETM	_	4	acl	_	_
+4	발음이나	발음+이나	NOUN	NNG+JC	_	7	nsubj	_	_
+5	억향이	억향+이	NOUN	NNG+JKS	_	4	conj	_	_
+6	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	7	advmod	_	_
+7	하게	하+게	VERB	VV+EC	_	0	root	_	_
+8	된다	되+ㄴ다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_26_1_05
+# text = 그래서 영어 교육열에 매달리는 한국 부모님은 아이들이 영어를 잘하기 위해서 조기교육을 많이 시킨다.
+1	그래서	그래서	ADV	MAJ	_	13	cc	_	_
+2	영어	영어	NOUN	NNP	_	3	nmod	_	_
+3	교육열에	교육+열+에	ADV	NNG+NNG+JKB	_	4	obl	_	_
+4	매달리는	매달리+는	VERB	VV+ETM	_	6	acl	_	_
+5	한국	한국	NOUN	NNP	_	6	nmod	_	_
+6	부모님은	부모+님+은	ADV	NNG+XSN+JKB	_	13	nsubj	_	_
+7	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+8	영어를	영어+를	NOUN	NNP+JKO	_	9	obj	_	_
+9	잘하기	잘하+기	NOUN	NNG+ETN	_	10	obj	_	_
+10	위해서	위하+아서	VERB	VV+EC	_	13	advcl	_	_
+11	조기교육을	조기+교육+을	NOUN	NNG+NNG+JKO	_	13	obj	_	_
+12	많이	많이	ADV	MAG	_	13	advmod	_	_
+13	시킨다	시키+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_26_1_06
+# text = 그러나 모국어도 잘 익히지 못하는 상태에 새로운 언어를 도입하는 것이 좋지만 않다.
+1	그러나	그러나	ADV	MAJ	_	11	cc	_	_
+2	모국어도	모국어+도	NOUN	NNG+JX	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	익히지	익히+지	VERB	VV+EC	_	6	acl	_	_
+5	못하는	못하+는	VERB	VX+ETM	_	4	advcl	_	_
+6	상태에	상태+에	ADV	NNG+JKB	_	11	obl	_	_
+7	새로운	새롭+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	도입하는	도입+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	좋지만	좋+지+만	ADJ	VA+EC+JX	_	0	root	_	_
+12	않다	않	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_26_1_07
+# text = 교육방법에 따라 학생은 많은 스트레스를 받을 수 있기 때문이다.
+1	교육방법에	교육+방법+에	ADV	NNG+NNG+JKB	_	2	obl	_	_
+2	따라	따르+아	VERB	VV+EC	_	8	advcl	_	_
+3	학생은	학생+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	스트레스를	스트레스+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	받을	받+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있기	있+기	NOUN	VX+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_26_1_08
+# text = 조기언어교육 방법 중에 그 언어를 쓰는 나라에 가서 사는 방법도 있다.
+1	조기언어교육	조기+언어+교육	NOUN	NNG+NNG+NNG	_	2	nmod	_	_
+2	방법	방법	NOUN	NNG	_	11	obl	_	_
+3	중에	중+에	ADV	NNB+JKB	_	2	case	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	쓰는	쓰+는	VERB	VV+ETM	_	7	acl	_	_
+7	나라에	나라+에	ADV	NNG+JKB	_	8	obl	_	_
+8	가서	가+아서	VERB	VV+EC	_	9	advcl	_	_
+9	사는	살+는	VERB	VV+ETM	_	10	acl	_	_
+10	방법도	방법+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_26_1_09
+# text = 언어를 자동으로 만나게 되기 때문이다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	자동으로	자동+으로	ADV	NNG+JKB	_	3	obl	_	_
+3	만나게	만나+게	VERB	VV+EC	_	5	nmod	_	_
+4	되기	되+기	NOUN	VX+ETN	_	3	advcl	_	_
+5	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_26_1_10
+# text = 하지만 어린 나이에 다른 문화와 환경에 접하면 스트레스를 많이 받는다.
+1	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+2	어린	어리+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	나이에	나이+에	ADV	NNG+JKB	_	7	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	문화와	문화+와	NOUN	NNG+JC	_	7	obl	_	_
+6	환경에	환경+에	ADV	NNG+JKB	_	5	conj	_	_
+7	접하면	접하+면	VERB	VV+EC	_	10	advcl	_	_
+8	스트레스를	스트레스+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	받는다	받+는다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_26_1_11
+# text = 그리고 아직 모국어가 익숙하지 않을 경우에는 모국어 잃거나 잘못 사용하게 될 가능성이 높다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	아직	아직	ADV	MAG	_	4	advmod	_	_
+3	모국어가	모국어+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	익숙하지	익숙+하+지	ADJ	XR+XSA+EC	_	6	acl	_	_
+5	않을	않	AUX	VX+ETM	_	4	aux	_	_
+6	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	13	obl	_	_
+7	모국어	모국어	NOUN	NNG	_	8	obj	_	_
+8	잃거나	잃+거나	VERB	VV+EC	_	11	advcl	_	_
+9	잘못	잘못	ADV	MAG	_	10	advmod	_	_
+10	사용하게	사용+하+게	VERB	NNG+XSV+EC	_	8	conj	_	_
+11	될	되+ㄹ	VERB	VX+ETM	_	12	acl	_	_
+12	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+13	높다	높+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_26_1_12
+# text = 따라서 조기언어교육 할까 말까 고민할 때 장단점을 고려해서 결정하는 거이 좋다.
+1	따라서	따라서	ADV	MAJ	_	11	cc	_	_
+2	조기언어교육	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	3	obj	_	_
+3	할까	하+ㄹ까	VERB	VV+EC	_	5	ccomp	_	_
+4	말까	말+까	VERB	VV+EC	_	3	conj	_	_
+5	고민할	고민+하+ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	장단점을	장단점+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	고려해서	고려+하+아서	VERB	NNG+XSV+EC	_	9	advcl	_	_
+9	결정하는	결정+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	거이	거+이	NOUN	NF+JKS	Typo=Yes	11	nsubj	_	_
+11	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

@@ -1,0 +1,181 @@
+# sent_id = ARG-ENG_02_3_01
+# text = 저는 경쟁보다 협동을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_02_3_01
+# text = 저는 경쟁더 선호해요.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	경쟁더	경쟁+더	NOUN	NNG+MAG	_	3	obj	_	_
+3	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_02_3_02
+# text = 왜냐하면 사람이 협동할 때 모두가 이익을 볼 수 있습니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	모두가	모두+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	이익을	이익+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	볼	보+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_02_3_02
+# text = 제 경쟁을 종아하는 이유는 자기 동기예요.
+1	제	저+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	종아하는	종아하+는	VERB	VV+XSV	_	4	acl	_	_
+4	이유는	이유+는	NOUN	NNG+JX	_	6	nsubj	_	_
+5	자기	자기	PRON	NNG	_	6	nmod	_	_
+6	동기예요	동기+이+에요	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_02_3_03
+# text = 경쟁과 달리 협동을 하면 보통 긍정적인 감정만 있다고 봅니다.
+1	경쟁과	경쟁+과	ADV	NNG+JKB	_	2	obl	_	_
+2	달리	달리	ADV	MAG	_	4	advcl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+5	보통	보통	ADV	MAG	_	8	advmod	_	_
+6	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	감정만	감정+만	NOUN	NNG+JX	_	8	nsubj	_	_
+8	있다고	있+다고	VERB	VV+EC	_	9	ccomp	_	_
+9	봅니다	보+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_02_3_03
+# text = 상대방 있으면 저가 노력 더 많하더라고요.
+1	상대방	상대+방	NOUN	NNG+NNG	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+3	저가	저+가	ADV	NP+JKS	_	6	nsubj	_	_
+4	노력	노력	NOUN	NNG	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	많하더라고요	많하+더라+고요	ADJ	NV+EC+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_02_3_04
+# text = 경쟁적인 사람한테 부정적인 감정이 많고 친구나 동기와 문제가 더 생길 수 있을 것 같습니다.
+1	경쟁적인	경쟁+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+2	사람한테	사람+한테	ADV	NNG+JKB	_	5	obl	_	_
+3	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	감정이	감정+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많고	많+고	ADJ	VA+EC	_	13	acl	_	_
+6	친구나	친구+나	NOUN	NNG+JC	_	10	obl	_	_
+7	동기와	동기+와	ADV	NNG+JKB	_	6	conj	_	_
+8	문제가	문제+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	생길	생기+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있을	있+을	VERB	VX+ETM	_	5	conj	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_02_3_04
+# text = 스ㅍ어츠이나 산업에서 경쟁이 중요해요.
+1	스ㅍ어츠이나	스ㅍ어츠+이나	NOUN	NF+JC	_	4	obl	_	_
+2	산업에서	산업+에서	ADV	NNG+JKB	_	1	conj	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_02_3_05
+# text = 제가 갈등을 싫어하기 때문에 경쟁도 싫어합니다.
+1	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	갈등을	갈등+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	싫어하기	싫어하+기	VERB	VV+ETN	_	6	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	경쟁도	경쟁+도	NOUN	NNG+JX	_	6	obj	_	_
+6	싫어합니다	싫어하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_02_3_05
+# text = 제 상대방의 수능 보면 얼만나 제 수능 비교적으ㄹㅗ 알 수 있어요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	상대방의	상대+방+의	NOUN	NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	수능	수능	NOUN	NNG	_	4	obj	_	_
+4	보면	보+면	VERB	VV+EC	_	11	advcl	_	_
+5	얼만나	얼만나	NOUN	NA	_	11	advmod	_	_
+6	제	저+의	PRON	NP+JKG	_	7	nmod:poss	_	_
+7	수능	수능	NOUN	NNG	_	9	obj	_	_
+8	비교적으ㄹㅗ	비교+적+으ㄹㅗ	ADV	NNG+XSN+NA	_	9	obl	_	_
+9	알	알+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_02_3_06
+# text = 또한, 어떤 목표가 있으면 다른 사람과 협동해서 그 목표를 덜 힘들게 이뤌 수 있다고 생각합니다.
+1	또한	또한	ADV	MAG	_	16	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	목표가	목표+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있으면	있+으면	VERB	VV+EC	_	15	advcl	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	사람과	사람+과	ADV	NNG+JKB	_	8	obl	_	_
+8	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	15	advcl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	목표를	목표+를	NOUN	NNG+JKO	_	13	obj	_	_
+11	덜	덜	ADV	MAG	_	12	advmod	_	_
+12	힘들게	힘들+게	ADV	VA+EC	_	13	advmod	_	_
+13	이뤌	이루+어+ㄹ	VERB	VV+EC+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다고	있+다고	VERB	VX+EC	_	16	ccomp	_	_
+16	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_02_3_06
+# text = 경쟁 던분에 기술 발달 더 빨라요.
+1	경쟁	경쟁	NOUN	NNG	_	6	obl	_	_
+2	던분에	던분+에	ADV	NF+JKB	_	1	case	_	_
+3	기술	기술	NOUN	NNG	_	4	nmod	_	_
+4	발달	발달	NOUN	NNG	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	빨라요	빠르+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_02_3_07
+# text = 제가 외향적인 사람이라서 그런지, 다른 사람과 협동할 때 보통 많이 즐깁니다.
+1	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	외향적인	외향+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	사람이라서	사람+이+라서	ADJ	NNG+VCP+EC	_	4	advcl	_	_
+4	그런지	그렇+ㄴ지	ADJ	VA+EC	_	12	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	사람과	사람+과	ADV	NNG+JKB	_	8	obl	_	_
+8	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	12	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	보통	보통	ADV	MAG	_	12	advmod	_	_
+11	많이	많이	ADV	MAG	_	12	advmod	_	_
+12	즐깁니다	즐기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_02_3_08
+# text = 경쟁 경우에서는 보통 스트레스를 받고 나서 잘 못하는 편입니다.
+1	경쟁	경쟁	NOUN	NNG	_	2	nmod	_	_
+2	경우에서는	경우+에서+는	ADV	NNP+JKB+JX	_	9	obl	_	_
+3	보통	보통	ADV	MAG	_	9	advmod	_	_
+4	스트레스를	스트레스+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	받고	받+고	VERB	VV+EC	_	9	advcl	_	_
+6	나서	나+아서	VERB	VX+EC	_	5	advcl	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	못하는	못하+는	VERB	VV+ETM	_	9	acl	_	_
+9	편입니다	편+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_02_3_09
+# text = 이 여러까지 이유 때문에 경쟁보다 협동을 선호합니다.
+1	이	이	DET	MM	_	2	det	_	_
+2	여러까지	여러까지	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	이유	이유	NOUN	NNG	_	7	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	7	obl	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

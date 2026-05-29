@@ -1,0 +1,212 @@
+# sent_id = ARG-CHN_19_2_01
+# text = 사람드링 성공을 하려면 노력 뿐만 아니라 다른 사람하고 협동이나 경쟁도 필요하다고 생각한다.
+1	사람드링	사람+드+링	NOUN	NNG+NA+NA	Typo=Yes	3	nsubj	_	_
+2	성공을	성공+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하려면	하+려면	VERB	VV+EC	_	11	advcl	_	_
+4	노력	노력	NOUN	NNG	_	6	nsubj	_	_
+5	뿐만	뿐+만	ADP	JX+JX	_	4	case	_	_
+6	아니라	아니+라	ADJ	VCN+EC	_	11	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+8	사람하고	사람+하고	ADV	NNG+JKB	_	11	obl	_	_
+9	협동이나	협동+이나	NOUN	NNG+JC	_	11	nsubj	_	_
+10	경쟁도	경쟁+도	NOUN	NNG+JX	_	9	conj	_	_
+11	필요하다고	필요+하+다고	ADJ	NNG+XSA+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_19_2_02
+# text = 그런데 협동과 경쟁 중에서 어느 것이 더 중요하냐면 저는 협동이 더 중요하다고 답할 것이다.
+1	그런데	그런데	ADV	MAJ	_	14	cc	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	8	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	어느	어느	DET	MM	_	6	det	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	중요하냐면	중요+하+냐+면	ADJ	NNG+XSA+EF+EC	_	13	advcl	_	_
+9	저는	저+는	PRON	NP+JX	_	13	nsubj	_	_
+10	협동이	협동+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	13	ccomp	_	_
+13	답할	답+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_19_2_03
+# text = 왜냐하면 성공은 자기가 할 수 있는 일이 아니기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	성공은	성공+은	NOUN	NNG+JX	_	8	dislocated	_	_
+3	자기가	자기+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	일이	일+이	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	아니기	아니+기	ADJ	VCN+EC	_	9	nmod	_	_
+9	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_19_2_04
+# text = 사람은 어떤 성공을 하려면 자시 노력 꼭 필요하고 그 다음에 다른 사람과 같이 행동해서 같이 해 내는 ㄱ네 성공이라고 생각한다.
+1	사람은	사람+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	성공을	성공+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하려면	하+려면	VERB	VV+EC	_	20	advcl	_	_
+5	자시	자시	NOUN	NF	Typo=Yes	6	nmod	_	_
+6	노력	노력	NOUN	NNG	_	8	nsubj	_	_
+7	꼭	꼭	ADV	MAG	_	8	discourse	_	_
+8	필요하고	필요+하+고	ADJ	NNG+XSA+EC	_	14	advcl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	다음에	다음+에	ADV	NNG+JKB	_	14	obl	_	_
+11	다른	다르+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	사람과	사람+과	ADV	NNG+JKB	_	14	obl	_	_
+13	같이	같이	ADV	MAG	_	14	advmod	_	_
+14	행동해서	행동+하+아서	VERB	NNG+XSV+EC	_	16	advcl	_	_
+15	같이	같이	ADV	MAG	_	16	advmod	_	_
+16	해	하+아	VERB	VV+EC	_	18	acl	_	_
+17	내는	내+는	VERB	VX+ETM	_	16	advcl	_	_
+18	ㄱ네	ㄱ네	NOUN	NA	Typo=Yes	19	nsubj	_	_
+19	성공이라고	성공+이+라고	ADJ	NNG+VCP+EC	_	20	ccomp	_	_
+20	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_19_2_05
+# text = 자기만에 실험이나 연습도 마찬가지다.
+1	자기만에	자기+만+에	ADV	NNG+NNG+JKB	_	4	obl	_	_
+2	실험이나	실험+이나	NOUN	NNG+JC	_	4	nsubj	_	_
+3	연습도	연습+도	NOUN	NNG+JX	_	2	conj	_	_
+4	마찬가지다	마찬가지+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_19_2_06
+# text = 자기가 하는 거는 맞지만 주변 사람들의 도움 꼭 받게 된다.
+1	자기가	자기+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	하는	하+는	VERB	VV+ETM	_	3	acl	_	_
+3	거는	거+는	NOUN	NNB+JX	_	4	nsubj	_	_
+4	맞지만	맞+지만	ADJ	VA+EC	_	9	advcl	_	_
+5	주변	주변	NOUN	NNG	_	6	nmod	_	_
+6	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	도움	도움	NOUN	NNG	_	9	obj	_	_
+8	꼭	꼭	ADV	MAG	_	9	advmod	_	_
+9	받게	받+게	VERB	VV+EC	_	0	root	_	_
+10	된다	되+ㄴ다	VERB	VX+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_19_2_07
+# text = 실험실 문 열어 주는 아저씨나 밥 해 주는 어머니나 다 이 성공의 참가자고 협동한 사람이다.
+1	실험실	실험실	NOUN	NNG	_	2	nmod	_	_
+2	문	문	NOUN	NNG	_	3	obj	_	_
+3	열어	열+어	VERB	VV+ETM	_	5	acl	_	_
+4	주는	주+는	VERB	VX+ETM	_	3	advcl	_	_
+5	아저씨나	아저씨+나	NOUN	NNG+JC	_	13	nsubj	_	_
+6	밥	밥	NOUN	NNG	_	7	obj	_	_
+7	해	하+아	VERB	VV+EC	_	9	acl	_	_
+8	주는	주+는	VERB	VX+ETM	_	7	advcl	_	_
+9	어머니나	어머니+나	NOUN	NNG+JC	_	5	conj	_	_
+10	다	다	ADV	MAG	_	15	advmod	_	_
+11	이	이	DET	MM	_	12	det	_	_
+12	성공의	성공+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	참가자고	참가자+이+고	ADJ	NNG+VCP+EC	_	0	root	_	_
+14	협동한	협동+하+ㄴ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	사람이다	사람+이+다	ADJ	NNG+VCP+EF	_	13	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_19_2_08
+# text = 그리고 어떤 일은 자기만 생각하고 자기만 하면 부족한 면이 있을 것이다.
+1	그리고	그리고	ADV	MAJ	_	11	cc	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	일은	일+은	NOUN	NNG+JX	_	11	obl	_	_
+4	자기만	자기+만	PRON	NP+JX	_	5	obj	_	_
+5	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	자기만	자기+만	PRON	NP+JX	_	7	obj	_	_
+7	하면	하+면	VERB	VV+EC	_	11	advcl	_	_
+8	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	면이	면+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있을	있+을	VERB	VV+ETM	_	11	acl	_	_
+11	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_19_2_09
+# text = 이럴 때는 협동하는 사람이 있다면 같이 사고하고 생각해 주고 해 주면 그 일이 더 부족한 면이 줄일 수 있고 더 완만하게 할 수 있다.
+1	이럴	이러+ㄹ	VERB	VV+ETM	_	5	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다면	있+다면	ADJ	VA+EC	_	7	advcl	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	사고하고	사고+하+고	VERB	NNG+XSV+EC	_	24	advcl	_	_
+8	생각해	생각+하+아	VERB	NNG+XSV+EC	_	7	conj	_	_
+9	주고	주+고	VERB	VX+EC	_	8	advcl	_	_
+10	해	하+아	VERB	VV+EC	_	7	conj	_	_
+11	주면	주+면	VERB	VX+EC	_	10	advcl	_	_
+12	그	그	DET	MM	_	13	det	_	_
+13	일이	일+이	NOUN	NNG+JKS	_	17	dislocated	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	16	amod	_	_
+16	면이	면+이	NOUN	NNG+JKS	_	17	obj	_	_
+17	줄일	줄이+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있고	있	AUX	VX+EC	_	24	advcl	_	_
+20	더	더	ADV	MAG	_	22	advmod	_	_
+21	완만하게	완만+하+게	ADV	XR+XSA+EC	_	22	advmod	_	_
+22	할	하+ㄹ	VERB	VV+ETM	_	23	acl	_	_
+23	수	수	NOUN	NNB	_	24	nsubj	_	_
+24	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-CHN_19_2_10
+# text = 그러면 성공의 환율이 더 높아질 수 있다.
+1	그러면	그러면	ADV	MAJ	_	7	cc	_	_
+2	성공의	성공+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	환율이	환율+이	NOUN	NNG+JKS	_	7	dislocated	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	높아질	높+아지+ㄹ	VERB	VA+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_19_2_11
+# text = 물론 경쟁도 필요하지만 협동하면서도 경쟁 할 수 있다.
+1	물론	물론	ADV	MAG	_	8	advmod	_	_
+2	경쟁도	경쟁+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	필요하지만	필요+하+지만	ADJ	NNG+XSA+EC	_	8	advcl	_	_
+4	협동하면서도	협동+하+면서+도	VERB	NNG+XSV+EC+JX	_	8	advcl	_	_
+5	경쟁	경쟁	NOUN	NNG	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_19_2_12
+# text = 같은 팀에 있는 사람들 간에 의견이나 견해가 다를 때 있고 그럴 때 서로 주고받고 그 과정도 경쟁이라고 볼 수 있다.
+1	같은	같+은	ADJ	VA+ETM	_	2	amod	_	_
+2	팀에	팀+에	ADV	NNG+JKB	_	3	obl	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	사람들	사람+들	NOUN	NNG+XSN	_	5	nmod	_	_
+5	간에	간+에	ADV	NNB+JKB	_	8	obl	_	_
+6	의견이나	의견+이나	NOUN	NNG+JC	_	8	nsubj	_	_
+7	견해가	견해+가	NOUN	NNG+JKS	_	6	conj	_	_
+8	다를	다르+ㄹ	ADJ	VA+ETM	_	9	acl	_	_
+9	때	때	NOUN	NNG	_	10	nsubj	_	_
+10	있고	있+고	ADJ	VA+EC	_	14	advcl	_	_
+11	그럴	그러+ㄹ	ADJ	VA+ETM	_	14	advcl	_	_
+12	때	때	ADV	NNG	_	11	mark	_	_
+13	서로	서로	ADV	MAG	_	14	advmod	_	_
+14	주고받고	주+고+받+고	VERB	VV+EC+VV+EC	_	17	advcl	_	_
+15	그	그	DET	MM	_	16	det	_	_
+16	과정도	과정+도	NOUN	NNG+JX	_	17	nsubj	_	_
+17	경쟁이라고	경쟁+이+라고	ADJ	NNG+VCP+EC	_	18	ccomp	_	_
+18	볼	보+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_19_2_13
+# text = 이렇게 경쟁하면서 협동은 성공의 가장 큰 요소이다.
+1	이렇게	이렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	경쟁하면서	경쟁+하+면서	VERB	NNG+XSV+EC	_	7	advcl	_	_
+3	협동은	협동+은	NOUN	NNG+JX	_	7	nsubj	_	_
+4	성공의	성공+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+5	가장	가장	ADV	MAG	_	6	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	요소이다	요소+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

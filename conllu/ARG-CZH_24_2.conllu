@@ -1,0 +1,67 @@
+# sent_id = ARG-CZH_24_2_01
+# text = 우리는 꼭 세계의 역사를 배워야 합니다.
+1	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+2	꼭	꼭	ADV	MAG	_	5	advmod	_	_
+3	세계의	세계+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+6	합니다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_24_2_02
+# text = 왜냐하면 사람은 다른 문화에 대해서 알게 되야 하기 때문입니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	문화에	문화+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대해서	대하+아서	VERB	VV+EC	_	6	advcl	_	_
+6	알게	알+게	VERB	VV+EC	_	9	nmod	_	_
+7	되야	되+야	VERB	VX+EC	_	6	advcl	_	_
+8	하기	하	AUX	VX+ETN	_	6	aux	_	_
+9	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_24_2_03
+# text = 문화에 대해서 잘 모르는 사람들은 항상 이상한 이야기를 합니다.
+1	문화에	문화+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	모르는	모르+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+6	항상	항상	ADV	MAG	_	9	advmod	_	_
+7	이상한	이상+하+ㄴ	ADJ	XR+XSA+ETM	_	8	amod	_	_
+8	이야기를	이야기+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_24_2_04
+# text = 우리 할아버지께서 러시아를 사랑하다고 말하십니다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	할아버지께서	할아버지+께서	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	러시아를	러시아+를	NOUN	NNP+JKO	_	4	obj	_	_
+4	사랑하다고	사랑+하+다고	VERB	NNG+XSV+EC	_	5	ccomp	_	_
+5	말하십니다	말+하+시+ㅂ니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_24_2_05
+# text = 하지만 러시아가 역사에 체코에게 나쁜 것이 했습니다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	러시아가	러시아+가	NOUN	NNP+JKS	_	7	dislocated	_	_
+3	역사에	역사+에	ADV	NNG+JKB	_	7	obl	_	_
+4	체코에게	체코+에게	ADV	NNP+JKB	_	7	obl	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	했습니다	하+았+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_24_2_06
+# text = 그래서 우리 할아버지처럼 사람은 역사를 꼭 배워야 합니다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	우리	우리	PRON	NP	_	3	nmod	_	_
+3	할아버지처럼	할아버지+처럼	ADV	NNG+JKB	_	7	obl	_	_
+4	사람은	사람+은	NOUN	NNG+JX	_	7	nsubj	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	꼭	꼭	ADV	MAG	_	7	advmod	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	합니다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_

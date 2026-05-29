@@ -1,0 +1,211 @@
+# sent_id = ARG-ENG_36_2_01
+# text = 그런다.
+1	그런다	그러+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-ENG_36_2_02
+# text = 역사를 배워야 한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	한다	하+ㄴ다	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_36_2_03
+# text = 역사를 배우지 않는다면 역사의 트림을 잊어버릴 것이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우지	배우+지	VERB	VV+EC	_	7	advcl	_	_
+3	않는다면	않+는다면	AUX	VX+EC	_	2	aux	_	_
+4	역사의	역사+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	트림을	트림+을	NOUN	NF+JKO	_	6	obj	_	_
+6	잊어버릴	잊+어+버리+ㄹ	VERB	VV+EC+VX+ETM	_	7	acl	_	_
+7	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_36_2_04
+# text = 미국에서는 이번 문제가 늘게 나쁜 것이다.
+1	미국에서는	미국+에서+는	ADV	NNP+JKB+JX	_	6	obl	_	_
+2	이번	이번	NOUN	NNG	_	3	nmod	_	_
+3	문제가	문제+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	늘게	늘게	VERB	NA	_	6	advmod	_	_
+5	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	6	amod	_	_
+6	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_36_2_05
+# text = 장부는 학교에게 돈을 많이 안 줘서 학교들은 많은 수업들은 말못 가르쳐요.
+1	장부는	장부+는	NOUN	NF+JX	_	6	nsubj	_	_
+2	학교에게	학교+에게	NOUN	NNG+JKB	_	6	obl	_	_
+3	돈을	돈+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	많이	많이	ADV	MAG	_	6	advmod	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	줘서	주+어서	VERB	VV+EC	_	11	advcl	_	_
+7	학교들은	학교+들+은	NOUN	NNG+JX	_	11	nsubj	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	수업들은	수업+들+은	NOUN	NNG+XSN+JX	_	11	obj	_	_
+10	말못	말+못	NOUN	NNG+MAG	_	11	advmod	_	_
+11	가르쳐요	가르치+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_36_2_06
+# text = 선생님들은 돈을 많이 안 받고 시험들은 역사에 대해 부탁하지 않아서 학생은 별로 못 배우는 것이다.
+1	선생님들은	선생+님+들+은	NOUN	NNG+XSN+XSN+JX	_	5	nsubj	_	_
+2	돈을	돈+을	NOUN	NNG+JKO	_	5	obj	_	_
+3	많이	많이	ADV	MAG	_	5	advmod	_	_
+4	안	안	ADV	MAG	_	5	advmod	_	_
+5	받고	받+고	VERB	VV+EC	_	15	advcl	_	_
+6	시험들은	시험+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+7	역사에	역사+에	ADV	NNG+JKB	_	8	obl	_	_
+8	대해	대하+아	VERB	VV+EC	_	9	advcl	_	_
+9	부탁하지	부탁+하+지	VERB	NNG+XSV+EC	_	5	conj	_	_
+10	않아서	않+아서	AUX	VX+EC	_	9	aux	_	_
+11	학생은	학생+은	NOUN	NNG+JX	_	14	nsubj	_	_
+12	별로	별로	ADV	MAG	_	14	advmod	_	_
+13	못	못	ADV	MAG	_	14	advmod	_	_
+14	배우는	배우+는	VERB	VV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_36_2_07
+# text = 우리는 흑인의 역사에 대해 잘 모르고 중요한 일에 대해 모른다.
+1	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+2	흑인의	흑인+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	역사에	역사+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	모르고	모르+고	VERB	VV+EC	_	0	root	_	_
+7	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	일에	일+에	ADV	NNG+JKB	_	9	obl	_	_
+9	대해	대하+아	VERB	VV+EC	_	10	advcl	_	_
+10	모른다	모르+ㄴ다	VERB	VV+EF	_	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_36_2_08
+# text = 그래서 미국인들은 나쁜 역사를 기억하지 못한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	미국인들은	미국인+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	기억하지	기억+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+6	못한다	못하+ㄴ다	VERB	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_2_09
+# text = 그 대신에 좋은 격사만 배워서, 미국의 흑역사를 잊어버린다.
+1	그	그	DET	MM	_	2	det	_	_
+2	대신에	대신+에	ADP	NNG+JKB	_	5	obl	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	격사만	격사+만	NOUN	NF+JX	_	5	obj	_	_
+5	배워서	배우+어서	VERB	VV+EC	_	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	미국의	미국+의	NOUN	NNP+JKG	_	8	nmod:poss	_	_
+8	흑역사를	흑역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	잊어버린다	잊+어+버리+ㄴ다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_36_2_10
+# text = 그 때문에, 미국은 지금 문제가 많다.
+1	그	그	PRON	MM	_	2	det	_	_
+2	때문에	때문+에	ADP	NNB+JKB	_	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	미국은	미국+은	NOUN	NNP+JX	_	7	dislocated	_	_
+5	지금	지금	ADV	MAG	_	7	advmod	_	_
+6	문제가	문제+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_36_2_11
+# text = 나지를 잊어버려서 지금 우리는 장부에 비슷한 태도가 있는 사람이 많다.
+1	나지를	나지+를	NOUN	NF+JKO	_	2	obj	_	_
+2	잊어버려서	잊+어+버리+어서	VERB	VV+EC+VX+EF	_	10	advcl	_	_
+3	지금	지금	ADV	MAG	_	10	advmod	_	_
+4	우리는	우리+는	PRON	NP+JX	_	10	dislocated	_	_
+5	장부에	장부+에	ADV	NF+JKB	_	10	obl	_	_
+6	비슷한	비슷+하+ㄴ	VERB	XR+XSA+ETM	_	7	amod	_	_
+7	태도가	태도+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있는	있+는	VERB	VV+ETM	_	9	acl	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_2_12
+# text = 여를 들면 트럼프, 마저리 테이러 그린, 등.
+1	여를	여+를	NOUN	NF+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	5	advcl	_	_
+3	트럼프	트럼프	NOUN	NNP	_	5	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	마저리	마저리	NOUN	NNP	_	0	root	_	_
+6	테이러	테이러	VERB	NNP	_	5	flat	_	_
+7	그린	그린	NOUN	NNP	_	5	flat	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	등	등	NOUN	NNB	_	5	case	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_2_13
+# text = 그리고 리퍼블리캔들 이분들을 사랑한다.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	리퍼블리캔들	리퍼블리캔+들	NOUN	NNG+XSN	_	4	nsubj	_	_
+3	이분들을	이+분+들+을	NOUN	MM+NNB+XSN+JKO	_	4	obj	_	_
+4	사랑한다	사랑+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_36_2_14
+# text = 리퍼블리캔들은 역사를 진짜 배우고 싶지 않아서 나쁜 선택을 계속한다.
+1	리퍼블리캔들은	리퍼블리캔+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	진짜	진짜	ADV	MAG	_	4	advmod	_	_
+4	배우고	배우+고	VERB	VV+EC	_	9	advcl	_	_
+5	싶지	싶+지	AUX	VX+EC	_	4	aux	_	_
+6	않아서	않+아서	AUX	VX+EC	_	4	aux	_	_
+7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	선택을	선택+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	계속한다	계속+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_36_2_15
+# text = 그리고 행복하게 한다.
+1	그리고	그리고	ADV	MAJ	_	3	cc	_	_
+2	행복하게	행복+하+게	ADV	NNG+XSA+EC	_	3	advmod	_	_
+3	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_36_2_16
+# text = 그렇면서 돈이 없는 사람이 죽고, 미친 리퍼블리캔들은 디시를 어택했다.
+1	그렇면서	그렇+면서	VERB	NV+EC	_	10	advcl	_	_
+2	돈이	돈+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	없는	없+는	VERB	VA+ETM	_	4	acl	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	죽고	죽+고	VERB	VV+EC	_	10	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	미친	미치+ㄴ	ADJ	VV+ETM	_	8	acl	_	_
+8	리퍼블리캔들은	리퍼블리캔+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+9	디시를	디시+를	NOUN	NF+JKO	_	10	obj	_	_
+10	어택했다	어택+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_2_17
+# text = 역사를 잘 못 가르치고 배울때 리퍼블리캔들이랑 비슷하게 생각하는 사람이 나타난다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+2	잘	잘	ADV	MAG	_	5	advmod	_	_
+3	못		X	_	_	2	goeswith	_	_
+4	가르치고	가르치+고	VERB	VV+EC	_	5	advcl	_	_
+5	배울때	배우+ㄹ+때	NOUN	VV+ETM+NNG	_	10	advcl	_	_
+6	리퍼블리캔들이랑	리퍼블리캔+들+이랑	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	비슷하게	비슷+하+게	ADV	XR+XSA+EC	_	8	advcl	_	_
+8	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	나타난다	나타나+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_2_18
+# text = 그런데 역사를 잘 배우면 1월 6일이랑 같은 일 못 생긴다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+5	1월	1+월	NOUN	SN+NNB	_	7	obl	_	_
+6	6일이랑	6+일+이랑	ADV	SN+NNB+JKB	_	5	flat	_	_
+7	같은	같+은	VERB	VA+ETM	_	8	acl	_	_
+8	일	일	NOUN	NNG	_	10	nsubj	_	_
+9	못	못	ADV	MAG	_	10	advmod	_	_
+10	생긴다	생기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,182 @@
+# sent_id = ARG-CZH_05_1_01
+# text = 조기언어교육의 장점과 단점이 뭐냐면은 제가 좋은 대담을 줄 수 있을 지 잘 모르겠습니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점과	장점+과	NOUN	NNG+JC	_	4	nsubj	_	_
+3	단점이	단점+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	뭐냐면은	뭐+이+냐+고+하+면+은	VERB	NP+VCP+EF+JKQ+VV+EC+JX	_	13	advcl	_	_
+5	제가	제+가	PRON	NP+JKS	_	13	nsubj	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	대담을	대담+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	줄	주+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있을	있+을+지	VERB	VX+NA+EC	Typo=Yes	13	ccomp	_	_
+11	지	_	X	_	_	10	goeswith	_	_
+12	잘	잘	ADV	MAG	_	13	advmod	_	_
+13	모르겠습니다	모르+겠+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_05_1_02
+# text = 제가 어릴 때에는 저의 모국어인 체코어 외에 다른 언어를 안배워서 개인적인 경험이 없습니다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	어릴	어리+ㄹ	ADJ	VA+ETM	_	13	advcl	_	_
+3	때에는	때+에+는	ADV	NNG+JKB+JX	_	2	mark	_	_
+4	저의	저+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	모국어인	모국어+이+ㄴ	ADJ	NNG+VCP+ETM	_	6	acl	_	_
+6	체코어	체코+어	NOUN	NNP+NNB	_	7	nmod	_	_
+7	외에	외+에	ADV	NNB+JKB	_	10	obl	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	안배워서	안+배우+어서	VERB	MAG+VV+EC	_	13	advcl	_	_
+11	개인적인	개인+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	경험이	경험+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_05_1_03
+# text = 그래서 장점이든 단점이든 그것을 제가 그냥 추측하는 것입니다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	장점이든	장점+이든	NOUN	NNG+JX	_	7	obl	_	_
+3	단점이든	단점+이든	NOUN	NNG+JX	_	7	obl	_	_
+4	그것을	그것+을	PRON	NP+JKO	_	7	obj	_	_
+5	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+6	그냥	그냥	ADV	MAG	_	8	advmod	_	_
+7	추측하는	추측+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_05_1_04
+# text = 제일 먼저는 제가 장점에 대해 이야기하도록 하겠습니다.
+1	제일	제일	ADV	MAG	_	2	advmod	_	_
+2	먼저는	먼저+는	NOUN	NNG+JX	_	6	obl	_	_
+3	제가	제+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	장점에	장점+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+6	이야기하도록	이야기+하+도록	VERB	NNG+XSV+EC	_	0	root	_	_
+7	하겠습니다	하	AUX	VX+EP+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_05_1_05
+# text = 제가 보기에는 아이들이 정말 어릴때부터 여러가지 언어를 배우면 나중에 인생이 더 쉬워질 거라고 믿습니다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	보기에는	보+기+에+는	NOUN	VV+ETN+JKB+JX	_	14	obl	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+4	정말	정말	ADV	MAG	_	5	advmod	_	_
+5	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	8	obl	_	_
+6	여러가지	여러+가지	NOUN	MM+NNB	_	7	nmod	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우면	배우+면	VERB	VV+EC	_	13	advcl	_	_
+9	나중에	나중+에	ADV	NNG+JKB	_	13	obl	_	_
+10	인생이	인생+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	쉬워질	쉽+어지+ㄹ	VERB	VA+XSV+ETM	_	13	acl	_	_
+13	거라고	것+이+라고	ADJ	NNB+VCP+EC	_	14	ccomp	_	_
+14	믿습니다	믿+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_05_1_06
+# text = 요즘은 모국어뿐만아니라 제2언어인 영어를 잘하는 것이 너무 당연한 것이라고 생각하는 사람들이 많아서 저3이나 제4언어까지 알면 경쟁률이 높은 세상에서 선공할 수 있다고 하면 과언이 아닐 것 같습니다.
+1	요즘은	요즘+은	ADV	NNG+JX	_	12	advmod	_	_
+2	모국어뿐만아니라	모국어+뿐+만+아니+라	NOUN	NNG+JX+JX+VCN+EC	_	5	advcl	_	_
+3	제2언어인	제+2+언어+이+ㄴ	NOUN	NNG+SN+NNG+VCP+ETM	_	4	acl	_	_
+4	영어를	영어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	잘하는	잘하+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+7	너무	너무	ADV	MAG	_	8	advmod	_	_
+8	당연한	당연+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	acl	_	_
+9	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	10	ccomp	_	_
+10	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+12	많아서	많+아서	ADJ	VA+EC	_	15	advcl	_	_
+13	저3이나	저+3+이나	NOUN	NF+SN+JC	Typo=Yes	15	obj	_	_
+14	제4언어까지	제+4+언어+까지	NOUN	NNG+SN+NNG+JX	_	13	conj	_	_
+15	알면	알+면	VERB	VV+EC	_	21	advcl	_	_
+16	경쟁률이	경쟁+률+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+17	높은	높+은	ADJ	VA+ETM	_	18	acl	_	_
+18	세상에서	세상+에서	ADV	NNG+JKB	_	19	obl	_	_
+19	선공할	선공+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있다고	있+다고	VERB	VX+EC	_	22	ccomp	_	_
+22	하면	하	AUX	VX+EC	_	24	advcl	_	_
+23	과언이	과언+이	NOUN	NNG+JKS	_	24	nsubj	_	_
+24	아닐	아니+ㄹ	ADJ	VCN+ETM	_	25	acl	_	_
+25	것	것	NOUN	NNB	_	26	nsubj	_	_
+26	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-CZH_05_1_07
+# text = 단점은 당연히 몇 개도 있습니다.
+1	단점은	단점+은	NOUN	NNG+JX	_	5	dislocated	_	_
+2	당연히	당연히	ADV	MAG	_	5	advmod	_	_
+3	몇	몇	DET	MM	_	4	det	_	_
+4	개도	개+도	NOUN	NNB+JX	_	5	nsubj	_	_
+5	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_05_1_08
+# text = 부모님의 기대감이 지나치게 높아서 공부밖에 모르는 쩖은 아이들이 스트레스 엄청 많이 받고 미래에서 더 심각한 (예를 들명 정신적인) 문제들이 생길 수 있다는 것이 사실입니다.
+1	부모님의	부모+님+의	NOUN	NNG+XSN+JKG	_	2	nmod:poss	_	_
+2	기대감이	기대+감+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	지나치게	지나치+게	ADV	VV+EC	_	4	advmod	_	_
+4	높아서	높+아서	ADJ	VA+EC	_	22	advcl	_	_
+5	공부밖에	공부+밖에	NOUN	NNG+JX	_	6	obj	_	_
+6	모르는	모르+는	VERB	VV+ETM	_	8	acl	_	_
+7	쩖은	쩖+은	VERB	NV+ETM	Typo=Yes	8	amod	_	_
+8	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+9	스트레스	스트레스	NOUN	NNG	_	12	obj	_	_
+10	엄청	엄청	ADV	MAG	_	11	advmod	_	_
+11	많이	많이	ADV	MAG	_	12	advmod	_	_
+12	받고	받+고	VERB	VV+EC	_	20	advcl	_	_
+13	미래에서	미래+에서	ADV	NNG+JKB	_	20	obl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	심각한	심각+하+ㄴ	ADJ	XR+XSA+ETM	_	19	amod	_	_
+16	(예를	(+예+를	NOUN	SS+NNG+JKO	_	17	obj	_	_
+17	들명	들+명	VERB	VV+NA	Typo=Yes	18	advcl	_	_
+18	정신적인)	정신+적+이+ㄴ+)	ADJ	NNG+NNG+VCP+ETM+SS	_	19	acl	_	_
+19	문제들이	문제+들+이	NOUN	NNG+XSN+JKS	_	20	nsubj	_	_
+20	생길	생기+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있다는	있+다는	VERB	VX+ETM	_	23	acl	_	_
+23	것이	것+이	NOUN	NNB+JKS	_	24	nsubj	_	_
+24	사실입니다	사실+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-CZH_05_1_09
+# text = 그 이유로 조기언어교육이 완전 나쁘다고 말할 수 없는게 다 한계가 있어야 한다고 사람들이 잘 알아야 됩니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	15	obl	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	5	nsubj	_	_
+4	완전	완전	ADV	NNG	_	5	advmod	_	_
+5	나쁘다고	나쁘+다고	ADJ	VA+EC	_	6	ccomp	_	_
+6	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없는게	없+는+것+이	NOUN	VX+ETM+NNB+JKS	_	11	dislocated	_	_
+9	다	다	ADV	MAG	_	11	advmod	_	_
+10	한계가	한계+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있어야	있+어야	VERB	VV+EC	_	15	ccomp	_	_
+12	한다고	하	AUX	VX+EC	_	11	aux	_	_
+13	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	15	nsubj	_	_
+14	잘	잘	ADV	MAG	_	15	advmod	_	_
+15	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+16	됩니다	되+ㅂ니다	VERB	VX+EF	_	15	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_05_1_10
+# text = 결국에는 아이들이 어른 생활에 대해 아주 천천히 그리고 재미있는 방법으로 알게 되는 과정이 제일 중요한 것이 아니겠습니까?
+1	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	17	obl	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+3	어른	어른	NOUN	NNG	_	4	nmod	_	_
+4	생활에	생활+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	천천히	천천히	ADV	MAG	_	11	advmod	_	_
+8	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+9	재미있는	재미+있+는	ADJ	NNG+VA+ETM	_	10	amod	_	_
+10	방법으로	방법+으로	ADV	NNG+JKB	_	11	obl	_	_
+11	알게	알+게	VERB	VV+EC	_	16	acl	_	_
+12	되는	되+는	VERB	VX+ETM	_	11	advcl	_	_
+13	과정이	과정+이	NOUN	NNG+JKS	_	17	dislocated	_	_
+14	제일	제일	ADV	MAG	_	15	advmod	_	_
+15	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	16	acl	_	_
+16	것이	것+이	NOUN	NNB+JKC	_	17	nsubj	_	_
+17	아니겠습니까	아니+겠+습니까	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+18	?	?	PUNCT	SF	_	17	punct	_	_

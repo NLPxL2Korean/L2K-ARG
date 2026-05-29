@@ -1,0 +1,168 @@
+# sent_id = ARG-ENG_30_1_01
+# text = 조기언어교육은 많이 좋은 것들이 있읍니다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	obl	_	_
+2	많이	많이	ADV	MAG	_	5	advmod	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	것들이	것+들+이	NOUN	NNB+XSN+JKS	_	5	nsubj	_	_
+5	있읍니다	있+읍니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_30_1_02
+# text = 어릴 때 언어가 배우면 그 언어를 더 쉽게 사용할 수 있읍니다.
+1	어릴	어리+ㄹ	VERB	VV+ETM	_	4	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	언어가	언어+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	쉽게	쉽+게	ADV	VA+EC	_	9	advmod	_	_
+9	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_30_1_03
+# text = 왜냐면 그 언어가 아이한테 더 편한니까요.
+1	왜냐면	왜냐면	ADV	MAJ	_	6	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	언어가	언어+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	아이한테	아이+한테	ADV	NNB+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	편한니까요	편하+ㄴ+니까요	ADJ	VA+NA+EC	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_30_1_04
+# text = 어른들은 언어가 배울때 낙가림이 생일수도 있읍니다만, 아이들한테 그 언어로 대화하는 거 일찍 가르쳐주시면, 편하게 말 할 수 있어요.
+1	어른들은	어른+들+은	NOUN	NNG+XSN+JX	_	3	dislocated	_	_
+2	언어가	언어+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	배울때	배우+ㄹ+때	NOUN	VV+ETM+NNG	_	6	advcl	_	_
+4	낙가림이	낙가림+이	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+5	생일수도	생이+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	Typo=Yes	6	nsubj	_	_
+6	있읍니다만	있+읍니다만	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	아이들한테	아이+들+한테	ADV	NNG+XSN+JKB	_	14	obl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	언어로	언어+로	ADV	NNG+JKB	_	11	obl	_	_
+11	대화하는	대화+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	거	거	NOUN	NNB	_	14	obj	_	_
+13	일찍	일찍	ADV	MAG	_	14	advmod	_	_
+14	가르쳐주시면	가르치+어+주+시+면	VERB	VV+EC+VX+EP+EC	_	20	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	14	punct	_	_
+16	편하게	편하+게	ADV	VA+EC	_	18	advmod	_	_
+17	말	말	NOUN	NNG	_	18	obj	_	_
+18	할	하+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_30_1_05
+# text = 하지만, 아이가 많은 언어들이 배우고나 알고 있으면 그 아이가 해갈릴수도 있읍니다.
+1	하지만	하지만	ADV	MAJ	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아이가	아이+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	언어들이	언어+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	배우고나	배우+고나	VERB	VV+NA	Typo=Yes	7	advcl	_	_
+7	알고	알+고	VERB	VV+EC	_	12	advcl	_	_
+8	있으면	있	AUX	VX+EC	_	7	aux	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	아이가	아이+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	해갈릴수도	해갈리+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	Typo=Yes	12	nsubj	_	_
+12	있읍니다	있+읍니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_30_1_06
+# text = 어릴대 언어들의 차이가 모를 수도 있으니까 아는 언어들 다 같은 시간에 말하는 상황이 생일수도 있읍니다.
+1	어릴대	어리+ㄹ+대	ADV	VA+ETM+NF	Typo=Yes	6	advcl	_	_
+2	언어들의	언어+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	차이가	차이+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	모를	모르+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수도	수+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있으니까	있+으니까	VERB	VX+EC	_	15	advcl	_	_
+7	아는	알+는	VERB	VV+ETM	_	8	acl	_	_
+8	언어들	언어+들	NOUN	NNG+XSN	_	12	obj	_	_
+9	다	다	ADV	MAG	_	10	advmod	_	_
+10	같은	같+은	ADJ	VA+ETM	_	11	amod	_	_
+11	시간에	시간+에	ADV	NNG+JKB	_	12	obl	_	_
+12	말하는	말+하+는	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	상황이	상황+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	생일수도	생이+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	Typo=Yes	15	nsubj	_	_
+15	있읍니다	있+읍니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_30_1_07
+# text = 그래서, 아이들한테 다른 언어를 가르쳐줄때 조심해야 됍니다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아이들한테	아이+들+한테	ADV	NNG+XSN+JKB	_	6	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	가르쳐줄때	가르치+어+주+ㄹ+때	NOUN	VV+EC+VX+ETM+NNG	_	7	advcl	_	_
+7	조심해야	조심+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+8	됍니다	돼+ㅂ니다	VERB	NV+EF	Typo=Yes	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_30_1_08
+# text = 하지만 조기언어교육에 약한부분들이 있더라도, 아이들위해 정말 좋은 것입니다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	4	obl	_	_
+3	약한부분들이	약하+ㄴ+부분+들+이	NOUN	VA+ETM+NNG+XSN+JKS	_	4	nsubj	_	_
+4	있더라도	있+더라도	VERB	VV+EC	_	9	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	아이들위해	아이+들+위하+아	VERB	NNG+XSN+VV+EC	_	9	advcl	_	_
+7	정말	정말	ADV	MAG	_	8	advmod	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_30_1_09
+# text = 어릴때, 단어들이나 문법은 더 자얀스럽게 배울수있고, 더 편하게 이야기할수 있읍니다.
+1	어릴때	어리+ㄹ+때	NOUN	VA+ETM+NNG	_	12	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	단어들이나	단어+들+이나	NOUN	NNG+XSN+JC	_	7	obj	_	_
+4	문법은	문법+은	NOUN	NNG+JX	_	3	conj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	자얀스럽게	자얀+스럽+게	ADV	NF+XSA+EC	Typo=Yes	7	advmod	_	_
+7	배울수있고	배우+ㄹ+수+있+고	VERB	VV+ETM+NNB+VX+EC	_	12	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	편하게	편하+게	ADV	VA+EC	_	11	advmod	_	_
+11	이야기할수	이야기+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	12	nsubj	_	_
+12	있읍니다	있+읍니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_30_1_10
+# text = 그리고 어릴때 언어가 배우면, 바름이 더 자얀스럽게 나울수도 있읍니다.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	_
+2	어릴때	어리+ㄹ+때	NOUN	VA+ETM+NNG	_	4	advcl	_	_
+3	언어가	언어+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	바름이	바름+이	NOUN	NF+JKS	Typo=Yes	9	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	자얀스럽게	자얀+스럽+게	ADV	NF+XSA+EC	Typo=Yes	9	advmod	_	_
+9	나울수도	나우+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	Typo=Yes	10	nsubj	_	_
+10	있읍니다	있+읍니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_30_1_11
+# text = 하지만 그 자얀스러움 때문에 문법은 제대로 안 배울수도 있어요.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	자얀스러움	자얀+스럽+ㅁ	VERB	NF+XSA+ETN	Typo=Yes	9	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	문법은	문법+은	NOUN	NNG+JX	_	8	obj	_	_
+6	제대로	제대로	ADV	MAG	_	8	advmod	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	배울수도	배우+ㄹ+수+도	NOUN	VV+ETM+NNB+JX	_	9	nsubj	_	_
+9	있어요	있+어요	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_30_1_12
+# text = 그래서 조심스럽게 가르쳐야 됍니다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	조심스럽게	조심+스럽+게	ADV	NNG+XSA+EC	_	3	advmod	_	_
+3	가르쳐야	가르치+어야	VERB	VV+EC	_	0	root	_	_
+4	됍니다	돼+ㅂ니다	VERB	NV+EF	Typo=Yes	3	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_

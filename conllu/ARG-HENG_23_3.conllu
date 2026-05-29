@@ -1,0 +1,64 @@
+# sent_id = ARG-HENG_23_3_01
+# text = 저는 협동 보다 경쟁을 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	협동	협동	NOUN	NNG	_	6	obl	_	_
+3	보다	보다	ADV	JKB	_	2	case	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_23_3_02
+# text = 협동은 중요하지만 친구들 사의에있는 경쟁 이 더 재밌다고 봐요.
+1	협동은	협동+은	NOUN	NNP+JX	_	2	nsubj	_	_
+2	중요하지만	중요+하+지만	VERB	NNG+XSA+EC	_	9	advcl	_	_
+3	친구들	친구+들	NOUN	NNG+XSN	_	4	nmod	_	_
+4	사의에있는	사의+에+있+는	ADV	NF+JKB+VV+ETM	_	5	obl	_	_
+5	경쟁	경쟁	NOUN	NNG	_	8	nsubj	_	_
+6	이	이	DET	JKS	_	5	case	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	재밌다고	재미+있+다고	VERB	NNG+XSA+EC	_	9	ccomp	_	_
+9	봐요	보+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_23_3_03
+# text = 경쟁이있으면 참석하는 사람들이 더 열심이 일을해요.
+1	경쟁이있으면	경쟁+이+있+으면	VERB	NNG+JKS+VV+EC	_	6	advcl	_	_
+2	참석하는	참석+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	열심이	열심이	NOUN	NA	_	6	advmod	_	_
+6	일을해요	일+을+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_23_3_04
+# text = 다른 사람들보다 더 잘할수있다고 보여줄수있으면 저는 바로합니다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람들보다	사람+들+보다	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	잘할수있다고	잘하+ㄹ+수+있+다고	VERB	VV+ETM+NNB+VX+EC	_	5	ccomp	_	_
+5	보여줄수있으면	보이+어+주+ㄹ+수+있+으면	VERB	VV+EC+VX+ETM+NNB+VX+EC	_	7	advcl	_	_
+6	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+7	바로합니다	바로+하+ㅂ니다	ADJ	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_23_3_05
+# text = 트키 저는 칭창을 받는거가 조와요.
+1	트키	트키	NOUN	NA	_	5	advmod	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	칭창을	칭창+을	NOUN	NF+JKO	_	4	obj	_	_
+4	받는거가	받+는+거+가	NOUN	VV+ETM+NNB+JKS	_	5	nsubj	_	_
+5	조와요	조오+아요	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_23_3_06
+# text = 그 런대 경쟁이 너무 만으면 찰아리 협동을 선택할거같아요.
+1	그	그	DET	NA	_	3	cc	_	_
+2	런대	_	X	_	_	1	goeswith	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	만으면	만+으면	VERB	NV+EC	_	8	advcl	_	_
+6	찰아리	찰아리	VERB	NA	_	8	advmod	_	_
+7	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	선택할거같아요	선택+하+ㄹ+거+같+아요	VERB	NNG+XSV+ETM+NNB+VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

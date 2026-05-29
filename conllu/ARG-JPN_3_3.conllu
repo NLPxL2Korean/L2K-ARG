@@ -1,0 +1,112 @@
+# sent_id = ARG-JPN_03_3_01
+# text =  저는 협동과 경쟁 중 협동을 더 선호한다.
+1	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	7	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중	중	ADP	NNB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_03_3_02
+# text =  그 이유는 이하와 같아.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	이하와	이하+와	ADV	NNG+JKB	_	4	obl	_	_
+4	같아	같+아	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_03_3_03
+# text =  경쟁을 하면 남보다 더 좋은 결과을 내려고 하는 동안에서 자신의 능력이 더 좋아질 가능성도 춘분히 있다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+3	남보다	남+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	acl	_	_
+6	결과을	결과+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	내려고	내+려고	VERB	VV+EC	_	13	advcl	_	_
+8	하는	하+는	AUX	VX+ETM	_	7	aux	_	_
+9	동안에서	동안+에서	ADV	NNG+JKB	_	7	mark	_	_
+10	자신의	자신+의	PRON	NNG+JKG	_	11	nmod:poss	_	_
+11	능력이	능력+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	좋아질	좋+아지+ㄹ	VERB	VA+XSV+ETM	_	14	acl	_	_
+14	가능성도	가능성+도	NOUN	NNG+JX	_	16	nsubj	_	_
+15	춘분히	춘분히	ADV	NA	_	16	advmod	_	_
+16	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_03_3_04
+# text =  하지만 남들과 같이 협동을 하는 경우 자신에게는 없었던 아이디어나 위경, 그리고 능력도 같이 이용할 수 있게 되고 혼자서 무언가를 할 때 보다 더 좋고 더 큰 결과를 낼 수 있다.
+1	하지만	하지만	ADV	MAJ	_	31	cc	_	_
+2	남들과	남+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+3	같이	같이	ADV	MAG	_	5	advmod	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	경우	경우	NOUN	NNG	_	31	obl	_	_
+7	자신에게는	자신+에게+는	ADV	NP+JKB+JX	_	8	obl	_	_
+8	없었던	없+었+던	VERB	VA+EP+ETM	_	9	acl	_	_
+9	아이디어나	아이디어+나	NOUN	NNG+JC	_	13	list	_	_
+10	위경	위경	NOUN	NF	_	9	conj	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+13	능력도	능력+도	NOUN	NNG+JX	_	15	obj	_	_
+14	같이	같이	ADV	MAG	_	15	advmod	_	_
+15	이용할	이용+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있게	있+게	VERB	VX+EC	_	31	advcl	_	_
+18	되고	되+고	VERB	VX+EC	_	17	advcl	_	_
+19	혼자서	혼자+서	ADV	NNG+JKS	_	21	nsubj	_	_
+20	무언가를	무엇+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	21	obj	_	_
+21	할	하+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	때	때	ADV	NNG	_	25	obl	_	_
+23	보다	보다	ADV	JKB	_	22	case	_	_
+24	더	더	ADV	MAG	_	25	advmod	_	_
+25	좋고	좋+고	VERB	VA+EC	_	31	advcl	_	_
+26	더	더	ADV	MAG	_	27	advmod	_	_
+27	큰	크+ㄴ	ADJ	VA+ETM	_	28	amod	_	_
+28	결과를	결과+를	NOUN	NNG+JKO	_	29	obj	_	_
+29	낼	내+ㄹ	VERB	VV+ETM	_	30	acl	_	_
+30	수	수	NOUN	NNB	_	31	nsubj	_	_
+31	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+32	.	.	PUNCT	SF	_	31	punct	_	_
+
+# sent_id = ARG-JPN_03_3_05
+# text =  그리고 다른 사람과 같이 협동하면 인간관계도 다양하게 될 것이다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람과	사람+과	ADV	NNG+JKB	_	5	obl	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	인간관계도	인간+관계+도	NOUN	NNG+NNG+JX	_	8	nsubj	_	_
+7	다양하게	다양+하+게	ADV	XR+XSA+EC	_	8	advmod	_	_
+8	될	되+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_03_3_06
+# text =  물론 협동은 다른 사람들와며 소통이 어렵지만 그 어려움보다 같이 협력해서 할 수 있는 것이 더 큰 의미가 있다고 생각하기 때문에 협동을 선호한다.
+1	물론	물론	ADV	MAG	_	6	advmod	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	6	dislocated	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람들와며	사람+들+와며	NOUN	NNG+XSN+NA	_	6	obl	_	_
+5	소통이	소통+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	어렵지만	어렵+지만	VERB	VA+EC	_	22	advcl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	어려움보다	어렵+ㅁ+보다	ADV	VV+ETN+JKB	_	10	obl	_	_
+9	같이	같이	ADV	MAG	_	10	advmod	_	_
+10	협력해서	협력+하+아서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	것이	것+이	NOUN	NNB+JKS	_	18	dislocated	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	큰	크+ㄴ	ADJ	VA+ETM	_	17	amod	_	_
+17	의미가	의미+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	있다고	있+다고	VERB	VV+EC	_	19	ccomp	_	_
+19	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	22	obl	_	_
+20	때문에	때문+에	ADP	NNB+JKB	_	19	case	_	_
+21	협동을	협동+을	NOUN	NNG+JKO	_	22	obj	_	_
+22	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_

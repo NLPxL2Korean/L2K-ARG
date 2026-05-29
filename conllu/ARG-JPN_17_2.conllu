@@ -1,0 +1,147 @@
+# sent_id = ARG-JPN_17_2_01
+# text =  저는 저희가 역사를 배워야 한다고 생각한다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	저희가	저희+가	PRON	NP+JKS	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	한다고	하+ㄴ다고	AUX	VX+EC	_	4	aux	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_17_2_02
+# text =  그 이유에는 두가지가 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유에는	이유+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	두가지가	두+가지+가	NOUN	MM+NNB+JKS	_	4	nsubj	_	_
+4	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_17_2_03
+# text =  우선 첫번째는 역사부터 배울 수 있는 것이 많다는 것이다.
+1	우선	우선	ADV	MAG	_	9	cc	_	_
+2	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	9	obl	_	_
+3	역사부터	역사+부터	ADV	NNG+JX	_	4	obl	_	_
+4	배울	배우+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	많다는	많+다는	VERB	VA+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_17_2_04
+# text =  역사 중에서도 특히 정쟁이나 유행병등 실수나 좋지 않은 일부터 배울 수 있는 것이 많다고 생각한다.
+1	역사	역사	NOUN	NNG	_	14	obl	_	_
+2	중에서도	중+에서+도	ADP	NNB+JKB+JX	_	1	case	_	_
+3	특히	특히	ADV	MAG	_	14	advmod	_	_
+4	정쟁이나	정쟁+이나	NOUN	NF+JC	_	6	nmod	_	_
+5	유행병등	유행병+등	NOUN	NNG+NNB	_	4	conj	_	_
+6	실수나	실수+나	ADV	NNG+JKB	_	10	obl	_	_
+7	좋지	좋+지	VERB	VA+EC	_	9	amod	_	_
+8	않은	않+은	AUX	VX+ETM	_	7	aux	_	_
+9	일부터	일+부터	ADV	NNG+JX	_	6	conj	_	_
+10	배울	배우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	것이	것+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	많다고	많+다고	VERB	VA+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_17_2_05
+# text =  똑같은 실수를 하지 않더록, 그리고 더 좋은 미래를 만들기 위해서 역사부터 배우는 것은 많다.
+1	똑같은	똑같+은	ADJ	VA+ETM	_	2	amod	_	_
+2	실수를	실수+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	하지	하+지	VERB	VV+EC	_	15	advcl	_	_
+4	않더록	않+더록	AUX	VX+NA	_	3	aux	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	미래를	미래+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	만들기	만들+기	NOUN	VV+ETN	_	11	obj	_	_
+11	위해서	위하+아서	VERB	VV+EC	_	13	advcl	_	_
+12	역사부터	역사+부터	ADV	NNG+JX	_	13	obl	_	_
+13	배우는	배우+는	VERB	VV+ETM	_	14	acl	_	_
+14	것은	것+은	NOUN	NNB+JX	_	15	nsubj	_	_
+15	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_17_2_06
+# text =  두번째는 자신의 나라의 역사를 배워야 자기 나라를 이해할 수 있다는 것이다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	11	obl	_	_
+2	자신의	자신+의	PRON	NNG+JKG	_	3	nmod:poss	_	_
+3	나라의	나라+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	11	advcl	_	_
+6	자기	자기	NOUN	NP	_	7	nmod	_	_
+7	나라를	나라+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다는	있+다는	VERB	VX+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_17_2_07
+# text =  지금은 국제적으로 사람들의 커뮤니케이션이 많아져서 다른 나라의 사람이와 합유하는 기회도 많아진다.
+1	지금은	지금+은	ADV	NNG+JX	_	5	advmod	_	_
+2	국제적으로	국제+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	커뮤니케이션이	커뮤니케이션+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많아져서	많+아지+어서	VERB	VA+XSV+EC	_	11	advcl	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	나라의	나라+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	사람이와	사람+이+와	NOUN	NNG+NA+JKB	_	9	obl	_	_
+9	합유하는	합유+하+는	VERB	NF+XSV+ETM	_	10	acl	_	_
+10	기회도	기회+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	많아진다	많+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_17_2_08
+# text =  이럴 때 자기의 나라의 어떤 역사가 있고 어떤 문화가 있는지 잘 소게할 수 있는 능력이 중요하다고 생각한다.
+1	이럴	이러+ㄹ	VERB	VV+ETM	_	16	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	자기의	자기+의	PRON	NNG+JKG	_	4	nmod:poss	_	_
+4	나라의	나라+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+5	어떤	어떤	DET	MM	_	6	det	_	_
+6	역사가	역사+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있고	있+고	VERB	VV+EC	_	12	ccomp	_	_
+8	어떤	어떤	DET	MM	_	9	det	_	_
+9	문화가	문화+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있는지	있+는지	VERB	VV+EC	_	7	conj	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	소게할	소게+하+ㄹ	VERB	NF+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	능력이	능력+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	17	ccomp	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_17_2_09
+# text =  그 뿐만 아니라 자기 나라와 상대방의 나라와 어떤 일이 있었고 어떤 역사가 있는지 파악해야 더 좋은 관계를 만들기 위해 도움이 될 수도 있다고 생각한다.
+1	그	그	PRON	MM	_	2	det	_	_
+2	뿐만	뿐+만	NOUN	NNB+JX	_	3	nsubj	_	_
+3	아니라	아니+라	VERB	VCN+EC	_	23	advcl	_	_
+4	자기	자기	PRON	NNG	_	5	nmod	_	_
+5	나라와	나라+와	NOUN	NNG+JC	_	10	obl	_	_
+6	상대방의	상대방+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	나라와	나라+와	NOUN	NNG+JC	_	5	conj	_	_
+8	어떤	어떤	DET	MM	_	9	det	_	_
+9	일이	일+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있었고	있+었+고	VERB	VV+EP+EC	_	13	advcl	_	_
+11	어떤	어떤	DET	MM	_	12	det	_	_
+12	역사가	역사+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	있는지	있+는지	VERB	VV+EC	_	14	ccomp	_	_
+14	파악해야	파악+하+아야	VERB	NNG+XSV+EC	_	23	advcl	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	좋은	좋+은	ADJ	VA+ETM	_	17	amod	_	_
+17	관계를	관계+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	만들기	만들+기	NOUN	VV+ETN	_	19	obj	_	_
+19	위해	위하+아	VERB	VV+EC	_	21	advcl	_	_
+20	도움이	도움+이	NOUN	NNG+JKC	_	21	nsubj	_	_
+21	될	되+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	수도	수+도	NOUN	NNB+JX	_	23	nsubj	_	_
+23	있다고	있+다고	VERB	VX+EC	_	24	ccomp	_	_
+24	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_

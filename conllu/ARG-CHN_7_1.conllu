@@ -1,0 +1,170 @@
+# sent_id = ARG-CHN_7_1_01
+# text = 자연 보존이 더 중요하다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존이	보존+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_7_1_02
+# text = 태초에 세상이 창조되고 인간에게 다스리라는 명령을 받았지만 사회와 경제의 점진적인 발전으로 인하여 자연의 균형이 깨지고 지진, 홍수, 글로벌 온난화 등등 재난들이 많이 다가오고 있다.
+1	태초에	태초+에	ADV	NNG+JKB	_	3	obl	_	_
+2	세상이	세상+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	창조되고	창조+되+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	인간에게	인간+에게	ADV	NNG+JKB	_	5	obl	_	_
+5	다스리라는	다스리+라는	VERB	VV+ETM	_	6	acl	_	_
+6	명령을	명령+을	NOUN	NF+JKO	Typo=Yes	7	obj	_	_
+7	받았지만	받+았+지만	VERB	VV+EP+EC	_	15	advcl	_	_
+8	사회와	사회+와	NOUN	NNG+JC	_	11	nmod:poss	_	_
+9	경제의	경제+의	NOUN	NNG+JKG	_	8	conj	_	_
+10	점진적인	점진+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	발전으로	발전+으로	ADV	NNG+JKB	_	12	obl	_	_
+12	인하여	인하+아	VERB	VV+EC	_	15	advcl	_	_
+13	자연의	자연+의	NOUN	NNG+JKG	_	14	nmod:poss	_	_
+14	균형이	균형+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	깨지고	깨지+고	VERB	VV+EC	_	25	advcl	_	_
+16	지진	지진	NOUN	NNG	_	18	list	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	홍수	홍수	NOUN	NNG	_	21	list	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	_
+20	글로벌	글로벌	NOUN	NNG	_	21	nmod	_	_
+21	온난화	온난+화	NOUN	NNG+XSN	_	23	nmod	_	_
+22	등등	등등	NOUN	NNB	_	21	case	_	_
+23	재난들이	재난+들+이	NOUN	NNG+XSN+JKS	_	25	nsubj	_	_
+24	많이	많이	ADV	MAG	_	25	advmod	_	_
+25	다가오고	다가오+고	VERB	VV+EC	_	0	root	_	_
+26	있다	있	AUX	VX+EF	_	25	aux	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-CHN_7_1_03
+# text = 이러한 상황 가운데 자연 개발에 치중하는 것은 지혜로운 것이 아니라고 여긴다.
+1	이러한	이러하+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	상황	상황	NOUN	NNG	_	6	obl	_	_
+3	가운데	가운데	NOUN	NNG	_	2	case	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	개발에	개발+에	ADV	NNG+JKB	_	6	obl	_	_
+6	치중하는	치중+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	10	dislocated	_	_
+8	지혜로운	지혜롭+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	것이	것+이	NOUN	NNB+JKC	_	10	nsubj	_	_
+10	아니라고	아니+라고	ADJ	VCN+EC	_	11	ccomp	_	_
+11	여긴다	여기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_7_1_04
+# text = 자연이 없으면 인간도 못 산다.
+1	자연이	자연+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	없으면	없+으면	ADJ	VA+EC	_	5	advcl	_	_
+3	인간도	인간+도	NOUN	NNG+JX	_	5	nsubj	_	_
+4	못	못	ADV	MAG	_	5	advmod	_	_
+5	산다	살+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_7_1_05
+# text = 자연이 보존되든 개발되든 자연 보호의 의식을 가지고 인류가 힘을 합하여 자연을 지켜야 한다.
+1	자연이	자연+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	보존되든	보존+되+든	VERB	NNG+XSV+EC	_	12	advcl	_	_
+3	개발되든	개발+되+든	VERB	NNG+XSV+EC	_	12	advcl	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	보호의	보호+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	의식을	의식+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	가지고	가지+고	VERB	VV+EC	_	12	advcl	_	_
+8	인류가	인류+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	힘을	힘+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	합하여	합하+아	VERB	VV+EC	_	12	advcl	_	_
+11	자연을	자연+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	지켜야	지키+어야	VERB	VV+EC	_	0	root	_	_
+13	한다	하	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_7_1_06
+# text = 황사가 심해진 중국 베이징, 미세먼지가 나빠져가는 한국 서울을 보면서 공장의 폐기 배출을 억제하고, 나무를 더 많이 심어야 한다는 책임감은 모든 사람에게 있다는 생각이 든다.
+1	황사가	황사+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	심해진	심하+아지+ㄴ	VERB	VA+XSV+ETM	_	4	acl	_	_
+3	중국	중국	NOUN	NNP	_	4	nmod	_	_
+4	베이징	베이징	NOUN	NNP	_	9	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	미세먼지가	미세+먼지+가	NOUN	NNG+NNG+JKS	_	7	nsubj	_	_
+7	나빠져가는	나쁘+아지+어+가+는	VERB	VA+XSV+EC+VX+ETM	_	9	acl	_	_
+8	한국	한국	NOUN	NNP	_	9	nmod	_	_
+9	서울을	서울+을	NOUN	NNP+JKO	_	10	obj	_	_
+10	보면서	보+면서	VERB	VV+EC	_	26	advcl	_	_
+11	공장의	공장+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	폐기	폐기	NOUN	NNG	_	13	nmod	_	_
+13	배출을	배출+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	억제하고	억제+하+고	VERB	NNG+XSV+EC	_	19	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	14	punct	_	_
+16	나무를	나무+를	NOUN	NNG+JKO	_	19	obj	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	많이	많이	ADV	MAG	_	19	advmod	_	_
+19	심어야	심+어야	VERB	VV+EC	_	21	acl	_	_
+20	한다는	하	AUX	VX+ETM	_	19	aux	_	_
+21	책임감은	책임감+은	NOUN	NNG+JX	_	24	nsubj	_	_
+22	모든	모든	DET	MM	_	23	det	_	_
+23	사람에게	사람+에게	ADV	NNG+JKB	_	24	obl	_	_
+24	있다는	있+다는	VERB	VV+ETM	_	25	acl	_	_
+25	생각이	생각+이	NOUN	NNG+JKS	_	26	nsubj	_	_
+26	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-CHN_7_1_07
+# text = 자연 본존을 하면서 더 많은 자연 자원을 개발을 하고 인간의 살기에 좋은 지구 환경을 만들어내어야 된다고 여긴다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	본존을	본존+을	NOUN	NF+JKO	Typo=Yes	3	obj	_	_
+3	하면서	하+면서	VERB	VV+EC	_	9	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	7	amod	_	_
+6	자연	자연	NOUN	NNG	_	7	nmod	_	_
+7	자원을	자원+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	개발을	개발+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	하고	하+고	VERB	VV+EC	_	15	advcl	_	_
+10	인간의	인간+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	살기에	살+기+에	VERB	VV+ETN+JKB	_	12	obl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	14	acl	_	_
+13	지구	지구	NOUN	NNG	_	14	nmod	_	_
+14	환경을	환경+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	만들어내어야	만들+어+내+어야	VERB	VV+EC+VX+EC	_	17	ccomp	_	_
+16	된다고	되+ㄴ다고	VERB	VX+EC	_	15	advcl	_	_
+17	여긴다	여기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_7_1_08
+# text = 여태까지 자연을 해치는 일들이 너무 많아서 이 땅과 환경에 회복시키는 시간이 필요하다.
+1	여태까지	여태+까지	ADV	MAG+JX	_	6	obl	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	해치는	해치+는	VERB	VV+ETM	_	4	acl	_	_
+4	일들이	일+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	많아서	많+아서	ADJ	VA+EC	_	12	advcl	_	_
+7	이	이	DET	MM	_	8	det	_	_
+8	땅과	땅+과	NOUN	NNG+JC	_	12	obl	_	_
+9	환경에	환경+에	ADV	NNG+JKB	_	8	conj	_	_
+10	회복시키는	회복+시키+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	시간이	시간+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_7_1_09
+# text = 자연 개발보다 자연 보존을 먼저 잘하고, 어느 정도 자연이 회복된 다음에 자연 개발도 할께 할 수 있다는 생각이 든다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발보다	개발+보다	ADV	NNG+JKB	_	6	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존을	보존+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	먼저	먼저	ADV	MAG	_	6	advmod	_	_
+6	잘하고	잘하+고	VERB	VV+EC	_	20	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	어느	어느	DET	MM	_	9	det	_	_
+9	정도	정도	NOUN	NNG	_	11	obl	_	_
+10	자연이	자연+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	회복된	회복+되+ㄴ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	다음에	다음+에	ADV	NNG+JKB	_	16	obl	_	_
+13	자연	자연	NOUN	NNG	_	14	nmod	_	_
+14	개발도	개발+도	NOUN	NNG+JX	_	15	obj	_	_
+15	할께	할께	ADV	NA	Typo=Yes	16	advmod	_	_
+16	할	하+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다는	있+다는	VERB	VX+ETM	_	19	acl	_	_
+19	생각이	생각+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_

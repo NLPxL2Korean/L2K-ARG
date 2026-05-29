@@ -1,0 +1,63 @@
+# sent_id = ARG-CZH_24_1_01
+# text = 제 생각에는 조기언어교육이 많이 단점이 있습니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	6	dislocated	_	_
+4	많이	많이	ADV	MAG	_	6	advmod	_	_
+5	단점이	단점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_24_1_02
+# text = 첫번째는 아이들은 다른 언어를 배울 때 초등학교와 중학교에서 언어 수업 쉬울 거예요.
+1	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	12	obl	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	11	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	초등학교와	초등학교+와	NOUN	NNG+JC	_	11	obl	_	_
+8	중학교에서	중학교+에서	ADV	NNG+JKB	_	7	conj	_	_
+9	언어	언어	NOUN	NNG	_	10	nmod	_	_
+10	수업	수업	NOUN	NNG	_	11	nsubj	_	_
+11	쉬울	쉽+ㄹ	ADJ	VA+ETM	_	12	acl	_	_
+12	거예요	것+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_24_1_03
+# text = 요즘은 체코에서 학생들이 6살부터 영어를 공부하기 시작해서 어릴때 이 언어를 할 수 없어요.
+1	요즘은	요즘+은	ADV	NNG+JX	_	7	advmod	_	_
+2	체코에서	체코+에서	ADV	NNP+JKB	_	7	obl	_	_
+3	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+4	6살부터	6+살+부터	NOUN	SN+NNB+JX	_	7	obl	_	_
+5	영어를	영어+를	NOUN	NNP+JKO	_	6	obj	_	_
+6	공부하기	공부+하+기	VERB	NNG+XSV+ETN	_	7	obj	_	_
+7	시작해서	시작+하+아서	VERB	NNG+XSV+EC	_	13	advcl	_	_
+8	어릴때	어리+ㄹ+때	ADJ	VA+ETM+NNB	_	11	obl	_	_
+9	이	이	DET	MM	_	10	det	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없어요	없+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_24_1_04
+# text = 그래서 아이들은 2살이나 3살부터 다른 언어를 공부해야겠어요.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+3	2살이나	2+살+이나	ADV	SN+NNB+JC	_	7	obl	_	_
+4	3살부터	3+살+부터	NOUN	SN+NNB+JX	_	3	conj	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	공부해야겠어요	공부+하+아야+겠+어요	VERB	NNG+XSV+EC+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_24_1_05
+# text = 제 생각에는 이 교육의 장점이 없어요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	교육의	교육+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	장점이	장점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없어요	없+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

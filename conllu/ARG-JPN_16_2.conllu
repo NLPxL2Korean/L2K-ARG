@@ -1,0 +1,43 @@
+# sent_id = ARG-JPN_16_2_01
+# text =  저의는 역사를 배워야 한다고 생각합니다.
+1	저의는	저의+는	NOUN	NF+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_16_2_02
+# text =  왜나하면 지금을 살아가는 사람으러서 선인들이 남겨준 과고를 더 좋은 미래로 바꿔가야 합니다.
+1	왜나하면	왜냐하면	ADV	NA	_	11	cc	_	_
+2	지금을	지금+을	NOUN	NF+JKO	_	3	obj	_	_
+3	살아가는	살아가+는	VERB	VV+ETM	_	4	acl	_	_
+4	사람으러서	사람+으러서	VERB	NNG+NA	_	11	obl	_	_
+5	선인들이	선인+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	남겨준	남겨주+ㄴ	VERB	VV+EC	_	7	acl	_	_
+7	과고를	과고+를	NOUN	NF+JKO	_	11	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	VERB	VA+ETM	_	10	amod	_	_
+10	미래로	미래+로	ADV	NNG+JKB	_	11	obl	_	_
+11	바꿔가야	바꾸+어+가+야	VERB	VV+EC+VX+EC	_	0	root	_	_
+12	합니다	하+ㅂ니다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_16_2_03
+# text =  같은 실수를 하지 얂도록 그리고 좋은 역사에 따라하고 행복한 세상이 이어질 수 있도록 책임저야 합니다.
+1	같은	같+은	ADJ	VA+ETM	_	4	amod	_	_
+2	실수를	실수+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	하지	하+지	VERB	VV+EC	_	14	advcl	_	_
+4	얂도록	얂+도록	VERB	VX+EC	_	3	advcl	_	_
+5	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	역사에	역사+에	ADV	NNG+JKB	_	8	obl	_	_
+8	따라하고	따라+하고	VERB	VV+EC	_	13	advcl	_	_
+9	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	세상이	세상+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	이어질	이어지+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있도록	있+도록	ADV	VX+EC	_	3	conj	_	_
+14	책임저야	책임+저+야	VERB	NNF+NA+NA	_	0	root	_	_
+15	합니다	하+ㅂ니다	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_

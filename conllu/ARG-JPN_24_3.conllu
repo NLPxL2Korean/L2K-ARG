@@ -1,0 +1,150 @@
+# sent_id = ARG-JPN_24_3_01
+# text =  나는 협동을 신호한다.
+1	나는	나+는	PRON	NP+JX	_	3	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	신호한다	신호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_24_3_02
+# text =  외냐하면 나는 경쟁하는 것이 잘못 하는 성격이기 때문이다.
+1	외냐하면	외냐하면	ADV	NA	_	8	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+3	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+5	잘못	잘못	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	성격이기	성격+이+기	NOUN	NNG+VCP+ETN	_	8	nmod	_	_
+8	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_24_3_03
+# text =  또
+1	또	또	ADV	MAG	_	0	root	_	_
+
+# sent_id = ARG-JPN_24_3_04
+# text =  사람과 싸우는 것도 원하지 얂기 때문에 경쟁하는 것이 신호하지 않다.
+1	사람과	사람+과	ADV	NNG+JKB	_	2	obl	_	_
+2	싸우는	싸우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것도	것+도	NOUN	NNB+JX	_	4	obj	_	_
+4	원하지	원하+지	VERB	VV+EC	_	9	obl	_	_
+5	얂기	얂+기	NOUN	NV+ETN	_	4	aux	_	_
+6	때문에	때문+에	ADP	NNB+JKB	_	5	case	_	_
+7	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	신호하지	신호+하+지	VERB	NF+XSV+EC	_	0	root	_	_
+10	않다	않+다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_24_3_05
+# text =  경쟁할때 다른 사람은 적이 된다.
+1	경쟁할때	경쟁+하+ㄹ+때	VERB	NNG+XSV+ETM+NNG	_	5	obl	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람은	사람+은	NOUN	NNG+JX	_	5	dislocated	_	_
+4	적이	적+이	NOUN	NNB+JKC	_	5	nsubj	_	_
+5	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_24_3_06
+# text =  적이 되면 협동하는 것도 없고 자신이 이길 수 있도록 움지이기 때문에 마음이 힘들고 정신에 좋지 않는 영향을 미친다.
+1	적이	적+이	NOUN	NNB+JKS	_	2	nsubj	_	_
+2	되면	되+면	VERB	VV+EC	_	18	advcl	_	_
+3	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것도	것+도	NOUN	NNB+JX	_	5	nsubj	_	_
+5	없고	없+고	VERB	VA+EC	_	0	root	_	_
+6	자신이	자신+이	PRON	NNG+JKS	_	7	nsubj	_	_
+7	이길	이기+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있도록	있+도록	ADV	VX+EC	_	10	advcl	_	_
+10	움지이기	움지+이+기	NOUN	NF+XSV+ETN	_	13	obl	_	_
+11	때문에	때문+에	ADP	NNB+JKB	_	10	case	_	_
+12	마음이	마음+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	힘들고	힘들+고	VERB	VA+EC	_	5	conj	_	_
+14	정신에	정신+에	ADV	NNG+JKB	_	15	obl	_	_
+15	좋지	좋+지	VERB	VA+EC	_	17	acl	_	_
+16	않는	않+는	AUX	VX+ETM	_	15	aux	_	_
+17	영향을	영향+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	미친다	미치+ㄴ다	VERB	VV+EF	_	13	conj	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_24_3_07
+# text =  이런 점에서 나는 사람과 협동하여 무언가를 달성하거나 완성하는 것이 좋다고 생각한다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	점에서	점+에서	ADV	NNB+JKB	_	11	obl	_	_
+3	나는	나+는	VERB	NP+JX	_	11	nsubj	_	_
+4	사람과	사람+과	ADV	NNG+JKB	_	5	obl	_	_
+5	협동하여	협동+하+아	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	무언가를	무엇+이+ㄴ가+를	NOUN	NNG+VCP+EC+JKO	_	7	obj	_	_
+7	달성하거나	달성+하+거나	VERB	NNG+XSV+EC	_	9	acl	_	_
+8	완성하는	완성+하+는	VERB	NNG+XSV+ETM	_	7	conj	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	좋다고	좋+다고	VERB	VA+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_24_3_08
+# text =  또이것은 정치도 똑같다.
+1	또이것은	또+이것+은	NOUN	MAG+NP+JX	_	3	nsubj	_	_
+2	정치도	정치+도	NOUN	NNG+JX	_	3	obl	_	_
+3	똑같다	똑같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_24_3_09
+# text =  모국을 지키기 위해 다른 나라와 싸우는 것이 아니라 이야기를 통하여 어떻게 하면 나라를 바꿀 수 있는지,문제를 해결할 수 있는지를 생각하는 것이 중요하다.
+1	모국을	모국+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	지키기	지키+기	NOUN	VV+ETN	_	3	obj	_	_
+3	위해	위하+아	VERB	VV+EC	_	22	advcl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	나라와	나라+와	NOUN	NNG+JC	_	6	obl	_	_
+6	싸우는	싸우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKC	_	8	nsubj	_	_
+8	아니라	아니+라	VERB	VCN+EC	_	22	advcl	_	_
+9	이야기를	이야기+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	통하여	통하+아	VERB	VV+EC	_	14	advcl	_	_
+11	어떻게	어떻+게	ADV	VA+EC	_	12	advmod	_	_
+12	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+13	나라를	나라+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	바꿀	바꾸+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는지,문제를	있+는지,+문제+를	ADV	VX+ETM+SP+NNG+JKO	_	17	obj	_	_
+17	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있는지를	있+는지+를	VERB	VX+EC+JKO	_	20	ccomp	_	_
+20	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	21	acl	_	_
+21	것이	것+이	NOUN	NNB+JKS	_	22	nsubj	_	_
+22	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_24_3_10
+# text =  이 때 국민의 의견도 듣고, 받아들이고 해결할 수 있는 사람이 되야 나라는 바뀌기 시작한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	5	obl	_	_
+3	국민의	국민+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	의견도	의견+도	NOUN	NNG+JX	_	5	obj	_	_
+5	듣고	듣+고	VERB	VV+EC	_	7	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	받아들이고	받아들이+고	VERB	VV+EC	_	8	advcl	_	_
+8	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	사람이	사람+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	되야	되+야	VERB	VV+NA	_	15	advcl	_	_
+13	나라는	나라+는	NOUN	NNG+JX	_	14	nsubj	_	_
+14	바뀌기	바뀌+기	NOUN	VV+ETN	_	15	ccomp	_	_
+15	시작한다	시작+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_24_3_11
+# text =  이런 나라에 관한 문제를 해결하기위해 가장 중요하고 필요하는 것이 바로 협동이라고 생각한다.
+1	이런	이런	DET	MM	_	4	det	_	_
+2	나라에	나라+에	ADV	NNG+JKB	_	3	obl	_	_
+3	관한	관하+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	문제를	문제+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	해결하기위해	해결+하+기+위하+아	NOUN	NNG+XSV+ETN+VV+EC	_	7	advcl	_	_
+6	가장	가장	ADV	MAG	_	7	advmod	_	_
+7	중요하고	중요+하+고	VERB	NNG+XSA+EC	_	9	acl	_	_
+8	필요하는	필요+하+는	VERB	NNG+XSA+ETM	_	7	conj	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	바로	바로	ADV	MAG	_	11	advmod	_	_
+11	협동이라고	협동+이+라고	VERB	NNG+VCP+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

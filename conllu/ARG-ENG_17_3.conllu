@@ -1,0 +1,106 @@
+# sent_id = ARG-ENG_17_3_01
+# text = 협동과 경쟁은 둘다 장단점이 있지만 개인적으로 경쟁을 선호한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	5	dislocated	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	1	conj	_	_
+3	둘다	둘+다	VERB	NR+MAG	_	1	appos	_	_
+4	장단점이	장단점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있지만	있+지만	VERB	VV+EC	_	8	advcl	_	_
+6	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+7	경쟁을	경쟁+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_17_3_02
+# text = 사회에 규모가 크거나 목적이 매우 중요한 작업이 등장할 때 사람들이 개인적인 편견과 이기적인 욕망들이 포기해야 하고 밀수적으로 협동해야 해서 경쟁보다 협동은 중요하다고 생각한다.
+1	사회에	사회+에	ADV	NNG+JKB	_	8	obl	_	_
+2	규모가	규모+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	크거나	크+거나	ADJ	VA+EC	_	7	acl	_	_
+4	목적이	목적+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	매우	매우	ADV	MAG	_	6	advmod	_	_
+6	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	conj	_	_
+7	작업이	작업+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	등장할	등장+하+ㄹ	VERB	NNG+XSV+ETM	_	15	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	15	nsubj	_	_
+11	개인적인	개인+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	편견과	편견+과	NOUN	NNG+JC	_	15	obj	_	_
+13	이기적인	이기+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	욕망들이	욕망+들+이	NOUN	NNG+XSN+JKS	_	12	conj	_	_
+15	포기해야	포기+하+아야	VERB	NNG+XSV+EC	_	22	advcl	_	_
+16	하고	하	AUX	VX+EC	_	15	aux	_	_
+17	밀수적으로	밀수+적+으로	ADV	NF+XSN+JKB	Typo=Yes	18	obl	_	_
+18	협동해야	협동+하+아야	VERB	NNG+XSV+EC	_	15	conj	_	_
+19	해서	하	AUX	VX+EC	_	18	aux	_	_
+20	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	22	obl	_	_
+21	협동은	협동+은	NOUN	NNG+JX	_	22	nsubj	_	_
+22	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	23	ccomp	_	_
+23	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_17_3_03
+# text = 그런데 우리가 크고 중요한 작업에 참석할 기회나 필요가 흐믈고 사적인 삶에 필수적으로 해야 하는 일보다 이루고 십은 개인의 꿈이 더 많다.
+1	그런데	그런데	ADV	MAJ	_	21	cc	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	21	dislocated	_	_
+3	크고	크+고	ADJ	VA+EC	_	5	amod	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	conj	_	_
+5	작업에	작업+에	ADV	NNG+JKB	_	6	obl	_	_
+6	참석할	참석+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+7	기회나	기회+나	NOUN	NNG+JC	_	9	nsubj	_	_
+8	필요가	필요+가	NOUN	NNG+JKS	_	7	conj	_	_
+9	흐믈고	흐믈+고	VERB	NV+EC	Typo=Yes	21	advcl	_	_
+10	사적인	사+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	삶에	삶+에	ADV	NNG+JKB	_	13	obl	_	_
+12	필수적으로	필수+적+으로	ADV	NNG+XSN+JKB	_	13	obl	_	_
+13	해야	하+아야	VERB	VV+EC	_	15	acl	_	_
+14	하는	하	AUX	VX+ETM	_	13	aux	_	_
+15	일보다	일+보다	ADV	NNG+JKB	_	21	obl	_	_
+16	이루고	이루+고	VERB	VV+EC	_	19	advcl	_	_
+17	십은	십+은	VERB	NV+ETM	Typo=Yes	16	advcl	_	_
+18	개인의	개인+의	NOUN	NNG+JKG	_	19	nmod:poss	_	_
+19	꿈이	꿈+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+20	더	더	ADV	MAG	_	21	advmod	_	_
+21	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_17_3_04
+# text = 어느 십리학자가 인간들이 행복하게 되고 싶으면 자아화해야 한다고 했다.
+1	어느	어느	DET	MM	_	2	det	_	_
+2	십리학자가	십리+학자+가	NOUN	NF+NNG+JKS	Typo=Yes	9	nsubj	_	_
+3	인간들이	인간+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	행복하게	행복+하+게	ADV	NNG+XSA+EC	_	5	advmod	_	_
+5	되고	되+고	VERB	VV+EC	_	7	advcl	_	_
+6	싶으면	싶	AUX	VX+EC	_	5	aux	_	_
+7	자아화해야	자아+화+하+아야	VERB	NNG+XSN+XSV+EC	_	9	ccomp	_	_
+8	한다고	하	AUX	VX+EC	_	7	aux	_	_
+9	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_17_3_05
+# text = 사람은 자아화하려면 자기 하고 싶은 일해야 한다.
+1	사람은	사람+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	자아화하려면	자아+화+하+려면	VERB	NNG+XSN+XSV+EC	_	6	advcl	_	_
+3	자기	자기	PRON	NP	_	4	nsubj	_	_
+4	하고	하+고	VERB	VV+EC	_	6	acl	_	_
+5	싶은	싶	AUX	VX+ETM	_	4	aux	_	_
+6	일해야	일+하+아야	VERB	NNG+VV+EC	_	0	root	_	_
+7	한다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_17_3_06
+# text = 다르게 말하면, 개인의 꿈은 이루기 위해서 일해야 자아화할 수 있고 행복하게 살 수 있다.
+1	다르게	다르+게	ADV	VA+EC	_	2	advmod	_	_
+2	말하면	말+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	개인의	개인+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	꿈은	꿈+은	NOUN	NNG+JX	_	6	obj	_	_
+6	이루기	이루+기	VERB	VV+ETN	_	7	obj	_	_
+7	위해서	위하+아서	VERB	VV+EC	_	8	advcl	_	_
+8	일해야	일+하+아야	VERB	NNG+XSV+EC	_	11	advcl	_	_
+9	자아화할	자아+화+하+ㄹ	ADJ	NNG+XSN+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	0	root	_	_
+12	행복하게	행복+하+게	ADV	NNG+XSA+EC	_	13	advmod	_	_
+13	살	살+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	11	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

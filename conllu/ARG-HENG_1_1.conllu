@@ -1,0 +1,125 @@
+# sent_id = ARG-HENG_01_1_01
+# text = 조기언어교육의 장던점에 대해서 설명하겠습니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장던점에	장던점+에	ADV	NF+JKB	_	3	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+4	설명하겠습니다	설명+하+겠+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_01_1_02
+# text = 조기 언어교육은 오래전부터 핫한주제입니다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	4	nsubj	_	_
+3	오래전부터	오래+전+부터	ADV	MAG+NNG+JX	_	4	obl	_	_
+4	핫한주제입니다	핫하+ㄴ+주제+이+ㅂ니다	VERB	VA+ETM+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_01_1_03
+# text = 80년대 미국에는 일본어를 강조했고, 요세는 중국어는 인기언어되었습니다.
+1	80년대	80+년대	NOUN	SN+NNB	_	2	nmod	_	_
+2	미국에는	미국+에+는	ADV	NNP+JKB+JX	_	4	obl	_	_
+3	일본어를	일본어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	강조했고	강조+하+았+고	VERB	NNG+XSV+EP+EC	_	0	root	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	요세는	요세+는	NOUN	NF+JX	_	8	obl	_	_
+7	중국어는	중국어+는	NOUN	NNG+JX	_	8	nsubj	_	_
+8	인기언어되었습니다	인기+언어+되+었+습니다	VERB	NNG+NNG+VV+EP+EF	_	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_01_1_04
+# text = 변화는 국제상황에 따라서, 또다시 다른 제3언어를 강조하겠지요.
+1	변화는	변화+는	NOUN	NNG+JX	_	8	nsubj	_	_
+2	국제상황에	국제+상황+에	ADV	NNG+NNG+JKB	_	3	obl	_	_
+3	따라서	따르+아서	VERB	VV+EC	_	8	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	또다시	또+다시	VERB	MAG+MAG	_	8	advmod	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	제3언어를	제+3+언어+를	NOUN	XPN+SN+NNG+JKO	_	8	obj	_	_
+8	강조하겠지요	강조+하+겠+지요	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_01_1_05
+# text = 조기언어교육의 장점은 몇게 있습니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	4	dislocated	_	_
+3	몇게	몇+게	NOUN	MM+NF	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_01_1_06
+# text = 첫째는 더 다양한, 경험을 알려줄 수 있습니다.
+1	첫째는	첫째+는	NOUN	NR+JX	_	8	obl	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	8	punct	_	_
+5	경험을	경험+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	알려줄	알리+어+주+ㄹ	VERB	VV+EC+VX+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_01_1_07
+# text = 물론 소통은 우선목표이겠지만, 그것보다는 다른 사람이 역사성도 느낄 수 있습니다.
+1	물론	물론	ADV	MAG	_	11	advmod	_	_
+2	소통은	소통+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	우선목표이겠지만	우선+목표+이+겠+지만	NOUN	MAG+NNG+VCP+EP+EC	_	11	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	그것보다는	그것+보다+는	ADV	NP+JKB+JX	_	9	obl	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	역사성도	역사+성+도	NOUN	NNG+XSN+JX	_	9	obj	_	_
+9	느낄	느끼+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_01_1_08
+# text = 두번째는, 실지적으로 기본적인 언어 마스터리를 하시면, 기회가 많아질수 밖에 없습니다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	12	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	실지적으로	실지+적+으로	ADV	NF+XSN+JKB	_	7	obl	_	_
+4	기본적인	기본+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	마스터리를	마스터리+를	NOUN	NF+JKO	_	7	obj	_	_
+7	하시면	하+시+면	VERB	VV+EP+EC	_	12	advcl	_	_
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	기회가	기회+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	많아질수	많+아지+ㄹ+수	VERB	VA+XSV+ETM+NNB	_	12	obl	_	_
+11	밖에	밖에	ADP	JX	_	10	case	_	_
+12	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_01_1_09
+# text = 단점은, 아무리 교육을 시켜도, 주의 상황 생길 환경이 그 언어로 사용하지 않으면, 괜히 공부로 한 것입니다.
+1	단점은	단점+은	NOUN	NNG+JX	_	19	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아무리	아무리	ADV	MAG	_	5	advmod	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	시켜도	시키+어+도	VERB	VV+ETM	_	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	7	punct	_	_
+7	주의	주의	NOUN	NNG	_	8	nmod	_	_
+8	상황	상황	NOUN	NNG	_	9	nsubj	_	_
+9	생길	생기+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	환경이	환경+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	언어로	언어+로	ADV	NNG+JKB	_	13	obl	_	_
+13	사용하지	사용+하+지	VERB	NNG+XSV+EC	_	19	advcl	_	_
+14	않으면	않+으면	AUX	VX+EC	_	13	aux	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	13	punct	_	_
+16	괜히	괜히	ADV	MAG	_	18	advmod	_	_
+17	공부로	공부+로	ADV	NNG+JKB	_	18	obl	_	_
+18	한	하+ㄴ	VERB	VV+ETM	_	19	acl	_	_
+19	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_01_1_10
+# text = 동기와 부모도 그 언어로 쓰지 아니면, 무효과입니다.
+1	동기와	동기+와	NOUN	NNG+JC	_	5	nsubj	_	_
+2	부모도	부모+도	NOUN	NNG+JX	_	1	conj	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	언어로	언어+로	ADV	NNG+JKB	_	5	obl	_	_
+5	쓰지	쓰+지	VERB	VV+EC	_	8	advcl	_	_
+6	아니면	아니+면	VERB	NA+EC	_	5	aux	_	_
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	무효과입니다	무+효과+이+ㅂ니다	VERB	XPN+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

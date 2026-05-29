@@ -1,0 +1,100 @@
+# sent_id = ARG-JPN_41_1_01
+# text =  조기 언어교육의 장점은 원어민의 감각을 얻을 수 있는 것이라고 생각한다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점은	장점+은	NOUN	NNG+JX	_	9	nsubj	_	_
+4	원어민의	원어민+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	감각을	감각+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	얻을	얻+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	것이라고	것+이+라고	VERB	NNB+VCP+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_41_1_02
+# text =  어린 시절을 자신이 태어난 나라가 아니라 배우고 싶은 언어나 문화를 접할 수 있는 곳에서 생활하면 그 나라가 자연스럽게 다가오고 습득이 될 것 같다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	시절을	시절+을	NOUN	NNG+JKO	_	15	obj	_	_
+3	자신이	자신+이	PRON	NNG+JKS	_	4	nsubj	_	_
+4	태어난	태어나+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	나라가	나라+가	NOUN	NNG+JKC	_	6	nsubj	_	_
+6	아니라	아니+라	VERB	VCN+EC	_	13	advcl	_	_
+7	배우고	배우+고	VERB	VV+EC	_	9	acl	_	_
+8	싶은	싶+은	AUX	VX+ETM	_	7	aux	_	_
+9	언어나	언어+나	NOUN	NNG+JC	_	11	obj	_	_
+10	문화를	문화+를	NOUN	NNG+JKO	_	9	conj	_	_
+11	접할	접하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	곳에서	곳+에서	ADV	NNG+JKB	_	15	obl	_	_
+15	생활하면	생활+하+면	VERB	NNG+XSV+EC	_	23	advcl	_	_
+16	그	그	DET	MM	_	17	det	_	_
+17	나라가	나라+가	NOUN	NNG+JKS	_	19	nsubj	_	_
+18	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	19	advmod	_	_
+19	다가오고	다가+오+고	VERB	VV+EC	_	23	advcl	_	_
+20	습득이	습득+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	될	되+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	것	것	NOUN	NNB	_	23	nsubj	_	_
+23	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_41_1_03
+# text =  언어쪽으로 봤을 때는 발음을 제대로 할 수 있게 된다고도 한다.
+1	언어쪽으로	언어+쪽+으로	ADV	NNG+NNB+JKB	_	2	obl	_	_
+2	봤을	보+았+을	VERB	VV+EP+ETM	_	8	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	발음을	발음+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	제대로	제대로	ADV	MAG	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있게	있+게	VERB	VX+EC	_	10	ccomp	_	_
+9	된다고도	되+ㄴ다고+도	AUX	VX+EC+JX	_	8	advcl	_	_
+10	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_41_1_04
+# text =  그 반면 자신이 태어난 나라에 대한 것들을 접할 수 있는 기회가 적어진다는 단점을 들 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	반면	반면	ADP	NNG	_	16	obl	_	_
+3	자신이	자신+이	PRON	NNG+JKS	_	8	nsubj	_	_
+4	태어난	태어나+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	나라에	나라+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대한	대하+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	8	obj	_	_
+8	접할	접하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	기회가	기회+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	적어진다는	적+어지+ㄴ다는	VERB	VA+XSV+ETM	_	13	acl	_	_
+13	단점을	단점+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	들	들+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_41_1_05
+# text =  그로 인해 모국어의 문법을 잘못 배울 확률이 높아질 우려가 있다.
+1	그로	그+로	ADV	NP+JKB	_	2	obl	_	_
+2	인해	인하+아	VERB	VV+EC	_	10	advcl	_	_
+3	모국어의	모국어+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	문법을	문법+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘못	잘못	ADV	NNG	_	6	advmod	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	확률이	확률+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	높아질	높+아지+ㄹ	VERB	VA+XSV+ETM	_	9	acl	_	_
+9	우려가	우려+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_41_1_06
+# text =  특히 쓰기 능력이 떨어질 가능성이 있지 않을까 싶다.
+1	특히	특히	ADV	MAG	_	6	advmod	_	_
+2	쓰기	쓰+기	NOUN	VV+ETN	_	3	nmod	_	_
+3	능력이	능력+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	떨어질	떨어지+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	있지	있+지	VERB	VV+EC	_	0	root	_	_
+7	않을까	않+을까	AUX	VX+EC	_	6	aux	_	_
+8	싶다	싶+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	6	punct	_	_

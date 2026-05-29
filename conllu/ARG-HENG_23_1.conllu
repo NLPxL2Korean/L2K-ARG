@@ -1,0 +1,83 @@
+# sent_id = ARG-HENG_23_1_01
+# text = 조기언어교육의 장점은 많다고 생각해요.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	많다고	많+다고	VERB	VA+EC	_	4	ccomp	_	_
+4	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_23_1_02
+# text = 한언어 배우는 겄보다 두언어를 동시에 배우면 생각하는 방법이 더 만아요.
+1	한언어	한+언어	NOUN	MM+NNG	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	겄보다	겄+보다	ADV	NF+JKB	_	10	obl	_	_
+4	두언어를	두+언어+를	NOUN	MM+NNG+JKO	_	6	obj	_	_
+5	동시에	동시+에	ADV	NNG+JKB	_	6	obl	_	_
+6	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+7	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	방법이	방법+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	만아요	만+아요	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_23_1_03
+# text = 그리고 다른 언어를 배울대 더 씨워요.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배울대	배우+ㄹ+대	VERB	VV+ETM+NF	_	6	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	씨워요	씨+어요	ADJ	NV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_23_1_04
+# text = 저는 한국어과 영어를 배워서 칠항년대 덕일수엎이 더 씨웠어요.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	한국어과	한국어+과	NOUN	NNG+JC	_	4	obj	_	_
+3	영어를	영어+를	NOUN	NNP+JKO	_	2	conj	_	_
+4	배워서	배우+어서	VERB	VV+EC	_	8	advcl	_	_
+5	칠항년대	칠+항년+대	NOUN	MM+NF+NF	_	8	obl	_	_
+6	덕일수엎이	덕일+수엎+이	NOUN	NF+NF+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	씨웠어요	씨+었+어요	ADJ	NV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_23_1_05
+# text = 하고 언어 얼였을대 배우면 바름과 언어가 더 조와요.
+1	하고	하고	X	NA	_	8	cc	_	_
+2	언어	언어	NOUN	NNG	_	3	nsubj	_	_
+3	얼였을대	얼였+을+대	NOUN	NA+ETM+NF	_	4	advcl	_	_
+4	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+5	바름과	바름+과	NOUN	NNG+JC	_	8	nsubj	_	_
+6	언어가	언어+가	NOUN	NNG+JKS	_	5	conj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	조와요	조와+요	VERB	NA+JX	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_23_1_06
+# text = 하지만 아이들이 만은 언어드를 배우면 말이 핵갈일수있어요.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	만은	만+은	VERB	NV+ETM	_	4	amod	_	_
+4	언어드를	언어+드+를	NOUN	NNG+NA+JKO	_	5	obj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	7	advcl	_	_
+6	말이	말+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	핵갈일수있어요	핵갈이+ㄹ+수+있+어요	VERB	NV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_23_1_07
+# text = 저는 19살인대 말이 핵갈일수있어요.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	19살인대	19+살+이+ㄴ대	VERB	SN+NNB+VCP+NA	_	4	advcl	_	_
+3	말이	말+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	핵갈일수있어요	핵갈이+ㄹ+수+있+어요	VERB	NV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_23_1_08
+# text = 그런대 조기언어교육의 장점이 더있다고 생각해요.
+1	그런대	그런대	ADV	NA	_	5	cc	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	더있다고	더+있+다고	VERB	MAG+VV+EC	_	5	ccomp	_	_
+5	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

@@ -1,0 +1,145 @@
+# sent_id = ARG-HENG_07_1_01
+# text = 조기언어교육은 아이들 한테 큰 영향력이 있다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	6	dislocated	_	_
+2	아이들	아이+들	NOUN	NNG+XSN	_	6	obl	_	_
+3	한테	한테	ADV	JKB	_	2	case	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향력이	영향력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_07_1_02
+# text = 나이가 어리면 몸과 모리가 아직도 자라고 있어서 어떤 말 쓰는지 아주 중요하다.
+1	나이가	나이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	어리면	어리+면	VERB	VA+EC	_	6	advcl	_	_
+3	몸과	몸+과	NOUN	NNG+JC	_	6	nsubj	_	_
+4	모리가	모리+가	NOUN	NF+JKS	_	3	conj	_	_
+5	아직도	아직+도	ADV	MAG+JX	_	6	advmod	_	_
+6	자라고	자+라고	VERB	VV+EC	_	12	advcl	_	_
+7	있어서	있+어서	AUX	VX+EC	_	6	aux	_	_
+8	어떤	어떤	DET	MM	_	9	det	_	_
+9	말	말	NOUN	NNG	_	10	obj	_	_
+10	쓰는지	쓰+는지	VERB	VV+EC	_	12	csubj	_	_
+11	아주	아주	ADV	MAG	_	12	advmod	_	_
+12	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_07_1_03
+# text = 다른 여러가지 언어를 드리고 연습하면 어른 될 때 말하고 이해하는게 쉽게 된다.
+1	다른	다른	ADJ	MM	_	3	amod	_	_
+2	여러가지	여러+가지	NOUN	MM+NNB	_	3	nmod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	드리고	드리+고	VERB	NV+EC	_	5	advcl	_	_
+5	연습하면	연습+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+6	어른	어른	NOUN	NNG	_	7	nsubj	_	_
+7	될	되+ㄹ	VERB	VV+ETM	_	10	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	말하고	말+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+10	이해하는게	이해+하+는+것+이	VERB	NNG+XSV+ETM+NNB+JKC	_	12	nsubj	_	_
+11	쉽게	쉽+게	ADV	VA+EC	_	12	advmod	_	_
+12	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_07_1_04
+# text = 아이들은 어른들보다 언어를 더 빨리 배운다.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+2	어른들보다	어른+들+보다	ADV	NNG+XSN+JKB	_	6	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	빨리	빨리	ADV	MAG	_	6	advmod	_	_
+6	배운다	배우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_07_1_05
+# text = 그런데 애가 핵갈릴 수 있다.
+1	그런데	그런데	ADV	MAJ	_	5	cc	_	_
+2	애가	애가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	핵갈릴	핵갈리+ㄹ	VERB	NV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_07_1_06
+# text = 언어를 두개 배우면서 사람들 한테 어떤 언어를 사용해야 되는지 모를 수 있고 불편할 수 있다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	두개	두+개	NOUN	MM+NNB	_	1	appos	_	_
+3	배우면서	배우+면서	VERB	VV+EC	_	12	advcl	_	_
+4	사람들	사람+들	NOUN	NNG+XSN	_	8	obl	_	_
+5	한테	한테	ADV	JKB	_	4	case	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	사용해야	사용+하+아야	VERB	NNG+XSV+EC	_	10	ccomp	_	_
+9	되는지	되+는지	AUX	VX+EC	_	8	advcl	_	_
+10	모를	모르+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있고	있+고	VERB	VX+EC	_	0	root	_	_
+13	불편할	불편+하+ㄹ	VERB	NNG+XSA+ETM	_	14	amod	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	12	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_07_1_07
+# text = 가끔 아이가 언어를 배울때 부담도 느낄 수 있다.
+1	가끔	가끔	ADV	MAG	_	6	advmod	_	_
+2	아이가	아이+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배울때	배우+ㄹ+때	VERB	VV+ETM+NNG	_	6	advcl	_	_
+5	부담도	부담+도	NOUN	NNG+JX	_	6	obj	_	_
+6	느낄	느끼+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_07_1_08
+# text = 특히 배우는 게 힘들면 아니면 그냥 배우기 싫으면 애가 안타고 싶은 마음 가지면서 포기하고 싶다고 말할 수 있다.
+1	특히	특히	ADV	MAG	_	18	advmod	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	게	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+4	힘들면	힘들+면	VERB	VA+EC	_	8	advcl	_	_
+5	아니면	아니+면	VERB	VCN+EC	_	8	advcl	_	_
+6	그냥	그냥	ADV	MAG	_	8	advmod	_	_
+7	배우기	배우+기	NOUN	VV+ETN	_	8	nsubj	_	_
+8	싫으면	싫+으면	VERB	VA+EC	_	18	advcl	_	_
+9	애가	애가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	안타고	안+타+고	VERB	MAG+VV+EC	_	12	acl	_	_
+11	싶은	싶+은	AUX	VX+ETM	_	10	aux	_	_
+12	마음	마음	NOUN	NNG	_	13	obj	_	_
+13	가지면서	가지+면서	VERB	VV+EC	_	18	advcl	_	_
+14	포기하고	포기+하+고	VERB	NNG+XSV+EC	_	16	ccomp	_	_
+15	싶다고	싶+다고	AUX	VX+EC	_	14	aux	_	_
+16	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_07_1_09
+# text = 애를 싫은 것은 시키면 안된다고 생각한다.
+1	애를	애+를	NOUN	NNG+JKO	_	5	obj	_	_
+2	싫은	싫+은	VERB	VA+ETM	_	3	amod	_	_
+3	것은	것+은	NOUN	NNB+JX	_	4	obj	_	_
+4	시키면	시키+면	VERB	VV+EC	_	5	advcl	_	_
+5	안된다고	안+되+ㄴ다고	VERB	MAG+VV+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_07_1_10
+# text = 그래서 먼저 아이들한테 하고 싶은지 물어보고 언어를 다른 언어와 확실히 distraction 있다고 말하면 조기언어교육이 좋은일이 될 수 있다.
+1	그래서	그래서	ADV	MAJ	_	18	cc	_	_
+2	먼저	먼저	ADV	MAG	_	6	advmod	_	_
+3	아이들한테	아이+들+한테	ADV	NNG+XSN+JKB	_	6	obl	_	_
+4	하고	하+고	VERB	VV+EC	_	6	ccomp	_	_
+5	싶은지	싶+은지	AUX	VX+EC	_	4	aux	_	_
+6	물어보고	물+어+보+고	VERB	VV+EC+VC+EC	_	18	advcl	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+8	다른	다른	ADJ	VA+ETM	_	9	amod	_	_
+9	언어와	언어+와	ADV	NNG+JKB	_	12	obl	_	_
+10	확실히	확실히	ADV	MAG	_	12	advmod	_	_
+11	distraction	distraction	NOUN	SL	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VV+EC	_	13	ccomp	_	_
+13	말하면	말+하+면	VERB	NNG+XSV+EC	_	18	advcl	_	_
+14	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	16	dislocated	_	_
+15	좋은일이	좋+은+일+이	NOUN	VA+ETM+NNG+JKC	_	16	nsubj	_	_
+16	될	되+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

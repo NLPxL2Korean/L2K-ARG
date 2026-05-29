@@ -1,0 +1,279 @@
+# sent_id = ARG-ENG_14_1_01
+# text = 아이에게 조기언어교육의 아주 쉬워요.
+1	아이에게	아이+에게	ADV	NNG+JKB	_	4	obl	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	쉬워요	쉽+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_14_1_04_1
+# text = 위에서 언급된 바와 같이 조기 언어교육으로 인해 나중에 성인으로서 언어학습이 쉬워질 수 있다는 장점이 있다.
+1	위에서	위+에서	ADV	NNG+JKB	_	2	obl	_	_
+2	언급된	언급+되+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	바와	바+와	ADV	NNB+JKB	_	4	obl	_	_
+4	같이	같이	ADV	MAG	_	15	advcl	_	_
+5	조기	조기	NOUN	NNG	_	6	nmod	_	_
+6	언어교육으로	언어+교육+으로	ADV	NNG+NNG+JKB	_	7	obl	_	_
+7	인해	인하+아	VERB	VV+EC	_	11	advcl	_	_
+8	나중에	나중+에	ADV	NNG+JKB	_	11	obl	_	_
+9	성인으로서	성인+으로서	ADV	NNG+JKB	_	11	obl	_	_
+10	언어학습이	언어+학습+이	NOUN	NNG+NNG+JKS	_	11	nsubj	_	_
+11	쉬워질	쉽+어지+ㄹ	VERB	VA+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다는	있+다는	VERB	VX+ETM	_	14	acl	_	_
+14	장점이	장점+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_14_1_02_1
+# text = 어린 나이에 언어를 공부하거나 주면의 원어민 화자의 대화를 흡수하고 그 언어가 내면화가 될 수 있다면 나중에 언어 학습에 좋은 성과가 보이기 쉽기 때문이다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이에	나이+에	ADV	NNG+JKB	_	4	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하거나	공부+하+거나	VERB	NNG+XSV+EC	_	23	advcl	_	_
+5	주면의	주면+의	NOUN	NF+JKG	Typo=Yes	7	nmod:poss	_	_
+6	원어민	원어민	NOUN	NNG	_	7	nmod	_	_
+7	화자의	화자+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	대화를	대화+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	흡수하고	흡수+하+고	VERB	NNG+XSV+EC	_	4	conj	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	언어가	언어+가	NOUN	NNG+JKS	_	13	dislocated	_	_
+12	내면화가	내면+화+가	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+13	될	되+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다면	있+다면	VERB	VX+EC	_	4	conj	_	_
+16	나중에	나중+에	ADV	NNG+JKB	_	21	obl	_	_
+17	언어	언어	NOUN	NNG	_	18	nmod	_	_
+18	학습에	학습+에	ADV	NNG+JKB	_	21	obl	_	_
+19	좋은	좋+은	ADJ	VA+ETM	_	20	amod	_	_
+20	성과가	성과+가	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	보이기	보이+기	VERB	VV+ETN	_	22	nsubj	_	_
+22	쉽기	쉽+기	ADJ	VA+ETN	_	23	acl	_	_
+23	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_14_1_03_1
+# text = 본 글에서는 조기언어교육의 장단점을 논의하고자 한다.
+1	본	본	DET	MM	_	2	det	_	_
+2	글에서는	글+에서+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	장단점을	장단점+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	논의하고자	논의+하+고자	VERB	NNG+XSV+EC	_	0	root	_	_
+6	한다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_14_1_06_1
+# text = 그러므로 어린 나이에서는 언어교육을 시키는 것이 나중에 큰 도움이 될 수 있다고 할 수 있다.
+1	그러므로	그러므로	ADV	MAJ	_	15	cc	_	_
+2	어린	어리+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	나이에서는	나이+에서+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	시키는	시키+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	10	dislocated	_	_
+7	나중에	나중+에	ADV	NNG+JKB	_	10	obl	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	도움이	도움+이	NOUN	NNG+JKC	_	10	nsubj	_	_
+10	될	되+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VX+EC	_	13	ccomp	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_14_1_01_1
+# text = 조기 언어 교육은 많은 관심을 끌고 있다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육은	교육+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	관심을	관심+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	끌고	끌+고	VERB	VV+EC	_	0	root	_	_
+7	있다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_14_1_05_1
+# text = 아동 세뇌는 성인에 비해서 유연성이 있으므로 외국어, 특히 모국어와 다른 구조의 외국어를 더 쉽게 이해할 수 있다.
+1	아동	아동	NOUN	NNG	_	2	nmod	_	_
+2	세뇌는	세뇌+는	NOUN	MM+NNG	_	6	dislocated	_	_
+3	성인에	성인+에	ADV	NNG+JKB	_	4	obl	_	_
+4	비해서	비하+아서	VERB	VV+EC	_	6	advcl	_	_
+5	유연성이	유연+성+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	있으므로	있+으므로	VERB	VV+EC	_	18	advcl	_	_
+7	외국어	외국어	NOUN	NNG	_	11	obl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	특히	특히	ADV	MAG	_	11	advmod	_	_
+10	모국어와	모국어+와	NOUN	NNG+JC	_	7	appos	_	_
+11	다른	다르+ㄴ	ADJ	VA+ETM	_	12	acl	_	_
+12	구조의	구조+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	외국어를	외국어+를	NOUN	NNG+JKO	_	16	obj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	쉽게	쉽+게	ADV	VA+EC	_	16	advmod	_	_
+16	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_14_1_02
+# text = 아이가 배우는 것이 더 쉬워요.
+1	아이가	아이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	쉬워요	쉽+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_14_1_03
+# text = 그리고 외국어를 배우면 아이가 보통 똑똑할 거예요.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	7	advcl	_	_
+4	아이가	아이+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	보통	보통	ADV	MAG	_	6	advmod	_	_
+6	똑똑할	똑똑+하+ㄹ	ADJ	XR+XSA+ETM	_	7	acl	_	_
+7	거예요	것+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_14_1_04
+# text = 학교 다니면서 이 사람들이 시험을 잘 들어요.
+1	학교	학교	NOUN	NNG	_	2	obj	_	_
+2	다니면서	다니+면서	VERB	VV+EC	_	7	advcl	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	시험을	시험+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	들어요	듣+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_14_1_05
+# text = 그리고 취직하려고 외국어를 배운 사람이 더 인상적이에요.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	취직하려고	취직+하+려고	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배운	배우+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	인상적이에요	인상+적+이+에요	ADJ	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_14_1_06
+# text = 그러데 외국어를 배우는 것이 비싸요.
+1	그러데	그러데	ADV	NA	Typo=Yes	5	cc	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	비싸요	비싸+요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_14_1_07
+# text = 그러나 조기언어교육은 대상 아이와 너무 안 맞거나 교육이 비효과적으로 진행되고 있다면 큰 효과를 보이지 못한다는 단점도 있다.
+1	그러나	그러나	ADV	MAJ	_	17	cc	_	_
+2	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	17	dislocated	_	_
+3	대상	대상	NOUN	NNG	_	4	nmod	_	_
+4	아이와	아이+와	NOUN	NNG+JC	_	7	obl	_	_
+5	너무	너무	ADV	MAG	_	7	advmod	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	맞거나	맞+거나	VERB	VV+EC	_	10	advcl	_	_
+8	교육이	교육+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	비효과적으로	비+효과+적+으로	ADV	XPN+NNG+XSN+JKB	_	10	obl	_	_
+10	진행되고	진행+되+고	VERB	NNG+XSV+EC	_	17	advcl	_	_
+11	있다면	있	AUX	VX+EC	_	10	aux	_	_
+12	큰	크+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	효과를	효과+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	보이지	보이+지	VERB	VV+EC	_	16	acl	_	_
+15	못한다는	못하+ㄴ다는	VERB	VX+ETM	_	14	advcl	_	_
+16	단점도	단점+도	NOUN	NNG+JX	_	17	nsubj	_	_
+17	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_14_1_08
+# text = 평생 영어를 공부를 했는데 영어 한 마디도 못하는 사람이 꽤 있다는 것을 생각하면, 영어를 공부하는 시간 대신에 악기나 그 아이가 좋아했던 것을 교육시킬 수 있었다는 것이 유감스럽다.
+1	평생	평생	NOUN	NNG	_	4	obl	_	_
+2	영어를	영어+를	NOUN	NNP+JKO	_	4	obj	_	_
+3	공부를	공부+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	했는데	하+았+는데	VERB	VV+EP+EC	_	8	advcl	_	_
+5	영어	영어	NOUN	NNG	_	7	nmod	_	_
+6	한	한	NUM	MM	_	7	nummod	_	_
+7	마디도	마디+도	NOUN	NNG+JX	_	8	obj	_	_
+8	못하는	못하+는	VERB	VV+ETM	_	9	acl	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	꽤	꽤	ADV	MAG	_	11	advmod	_	_
+11	있다는	있+다는	VERB	VV+ETM	_	12	acl	_	_
+12	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+13	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	28	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	영어를	영어+를	NOUN	NNP+JKO	_	16	obj	_	_
+16	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	시간	시간	NOUN	NNG	_	24	obl	_	_
+18	대신에	대신+에	ADV	NNG+JKB	_	17	case	_	_
+19	악기나	악기+나	NOUN	NNG+JC	_	24	obj	_	_
+20	그	그	DET	MM	_	21	det	_	_
+21	아이가	아이+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+22	좋아했던	좋아하+았+던	VERB	VV+EP+ETM	_	23	acl	_	_
+23	것을	것+을	NOUN	NNB+JKO	_	19	conj	_	_
+24	교육시킬	교육+시키+ㄹ	VERB	NNG+XSV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있었다는	있+었+다는	VERB	VX+EP+ETM	_	27	acl	_	_
+27	것이	것+이	NOUN	NNB+JKS	_	28	nsubj	_	_
+28	유감스럽다	유감+스럽+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+29	.	.	PUNCT	SF	_	28	punct	_	_
+
+# sent_id = ARG-ENG_14_1_09
+# text = 즉, 조기언어교육의 큰 단점이 성과률이 아주 높지 않다는 점이라 할 수 있다.
+1	즉	즉	ADV	MAG	_	13	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	5	nmod:poss	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	단점이	단점+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+6	성과률이	성과+률+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+7	아주	아주	ADV	MAG	_	8	advmod	_	_
+8	높지	높+지	ADJ	VA+EC	_	10	acl	_	_
+9	않다는	않	AUX	VX+EC	_	8	aux	_	_
+10	점이라	점+이+라	ADJ	NNG+VCP+EC	_	11	ccomp	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_14_1_10
+# text = 조기 언어교육은 누구나에게 시키는 것보다는 이 아이에 적합한지, 이 아이가 배우고 싶은 것이 뭔지 등을 생각한 후 조기 언어교육을 실시할 건지 고려하는 것이 맞다고 본다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	8	nsubj	_	_
+3	누구나에게	누구+나+에게	ADV	NP+JX+JKB	_	4	obl	_	_
+4	시키는	시키+는	VERB	VV+ETM	_	5	acl	_	_
+5	것보다는	것+보다+는	ADV	NNB+JKB+JX	_	8	obl	_	_
+6	이	이	DET	MM	_	7	det	_	_
+7	아이에	아이+에	ADV	NNG+JKB	_	8	obl	_	_
+8	적합한지	적합+하+ㄴ지	ADJ	NNG+XSA+EC	_	17	ccomp	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	이	이	DET	MM	_	11	det	_	_
+11	아이가	아이+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	배우고	배우+고	VERB	VV+EC	_	14	acl	_	_
+13	싶은	싶	AUX	VX+ETM	_	12	aux	_	_
+14	것이	것+이	NOUN	NNB+JKS	_	15	nsubj	_	_
+15	뭔지	뭐+이+ㄴ지	ADJ	NP+VCP+EC	_	8	list	_	_
+16	등을	등+을	NOUN	NNB+JKO	_	15	case	_	_
+17	생각한	생각+하+ㄴ	VERB	NNG+XSV+ETM	_	23	advcl	_	_
+18	후	후	ADV	NNG	_	12	mark	_	_
+19	조기	조기	NOUN	NNG	_	20	nmod	_	_
+20	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	21	obj	_	_
+21	실시할	실시+하+ㄹ	VERB	NNG+XSV+ETM	_	22	acl	_	_
+22	건지	것+이+ㄴ지	NOUN	NNB	_	23	ccomp	_	_
+23	고려하는	고려+하+는	VERB	NNG+XSV+ETM	_	24	acl	_	_
+24	것이	것+이	NOUN	NNB+JKS	_	25	nsubj	_	_
+25	맞다고	맞+다고	VERB	VV+EC	_	26	ccomp	_	_
+26	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-ENG_14_1_11
+# text = 이렇게 하면 더 효율적인 교육을 이룰 수 있을 것이다.
+1	이렇게	이렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	효율적인	효율+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+5	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	이룰	이루+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있을	있+을	VERB	VX+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

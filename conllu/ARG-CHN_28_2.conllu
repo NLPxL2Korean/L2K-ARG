@@ -1,0 +1,201 @@
+# sent_id = ARG-CHN_28_2_01
+# text = 협동보다 경쟁이 성공에 더 큰 영향을 미친다.
+1	협동보다	협동+보다	ADV	NNG+JKB	_	7	obl	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+3	성공에	성공+에	ADV	NNG+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_28_2_02
+# text = 경장은 진보를 일으킨다.
+1	경장은	경장+은	NOUN	NF+JX	Typo=Yes	3	nsubj	_	_
+2	진보를	진보+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	일으킨다	일으키+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_28_2_03
+# text = 사람마다 자존심이 있기 때문이다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	3	obl	_	_
+2	자존심이	자존심+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있기	있+기	VERB	VV+ETN	_	4	nmod	_	_
+4	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_28_2_04
+# text = "경쟁이 있어야 진보가 있다"라는 말이 있다.
+1	"경쟁이	"+경쟁+이	NOUN	SS+NNG+JKS	_	2	nsubj	_	_
+2	있어야	있+어야	VERB	VV+EC	_	4	advcl	_	_
+3	진보가	진보+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있다"라는	있+다+"+라+는	ADJ	VV+EF+SS+JKQ+ETM	_	5	acl	_	_
+5	말이	말+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_28_2_05
+# text = 사람이 자기의 자존심 때문에상대방보다 더 잘하고 싶기 마련이다.
+1	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	자기의	자기+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	자존심	자존심	NOUN	NNG	_	6	obl	_	_
+4	때문에상대방보다	때문+에+상대방+보다	ADV	NNB+JKB+NNG+JKB	_	3	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	잘하고	잘하+고	VERB	VV+EC	_	8	nmod	_	_
+7	싶기	싶	AUX	VX+ETN	_	6	aux	_	_
+8	마련이다	마련+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_28_2_06
+# text = 그러면 상대방이 있어야 혼자보다 더 열심히 한다.
+1	그러면	그러면	ADV	MAJ	_	7	cc	_	_
+2	상대방이	상대방+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있어야	있+어야	VERB	VV+EC	_	7	advcl	_	_
+4	혼자보다	혼자+보다	ADV	NNG+JKB	_	7	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	열심히	열심히	ADV	MAG	_	7	advmod	_	_
+7	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_28_2_07
+# text = 또한 경쟁하는 상대 있으면 그 일에 대한 재미도 더 붙이고 열정도 생긴다.
+1	또한	또한	ADV	MAJ	_	12	cc	_	_
+2	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	상대	상대	NOUN	NNG	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	10	advcl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	일에	일+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	재미도	재미+도	NOUN	NNG+JX	_	10	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	붙이고	붙+이+고	VERB	VV+XSV+EC	_	0	root	_	_
+11	열정도	열정+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	생긴다	생기+ㄴ다	VERB	VV+EF	_	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_28_2_08
+# text = 같이 협조해서 완성하는 것이보다 같이 경쟁하는 게 낫다.
+1	같이	같이	ADV	MAG	_	2	advmod	_	_
+2	협조해서	협조+하+아서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	완성하는	완성+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이보다	것+이+보다	ADV	NNB+JKS+JKB	_	6	obl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	게	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	낫다	낫+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_28_2_09
+# text = 열정이 더 붙여서 재미기도 하고 좋은 성적을 일으킬 수 있다.
+1	열정이	열정+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	붙여서	붙이+어서	VERB	VV+EC	_	5	advcl	_	_
+4	재미기도	재미+기+도	NOUN	NNG+ETN+JX	_	5	obl	_	_
+5	하고	하	AUX	VX+EC	_	0	root	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	성적을	성적+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	일으킬	일으키+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있	AUX	VX+EF	_	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_28_2_10
+# text = 게다가 경쟁하면은 더하게 된다.
+1	게다가	게다가	ADV	MAG	_	4	advmod	_	_
+2	경쟁하면은	경쟁+하+면+은	VERB	NNG+XSV+EC+JX	_	4	advcl	_	_
+3	더하게	더+하+게	ADV	MAG+VV+EC	_	4	advmod	_	_
+4	된다	되+ㄴ다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_28_2_11
+# text = 이기고 싶은 마음이 있기 때문에 아무리도 상대방보다 더 하고 싶다.
+1	이기고	이기+고	VERB	VV+EC	_	3	acl	_	_
+2	싶은	싶	AUX	VX+ETM	_	1	aux	_	_
+3	마음이	마음+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있기	있+기	VERB	VV+ETN	_	9	obl	_	_
+5	때문에	때문+에	ADV	NNB+JKB	_	4	case	_	_
+6	아무리도	아무리도	ADV	NA	Typo=Yes	9	advmod	_	_
+7	상대방보다	상대방+보다	ADV	NNG+JKB	_	9	obl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	하고	하+고	VERB	VV+EC	_	0	root	_	_
+10	싶다	싶	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_28_2_12
+# text = 그러면 자기도 모르게 더하게 된다.
+1	그러면	그러면	ADV	MAJ	_	5	cc	_	_
+2	자기도	자기+도	PRON	NP+JX	_	3	nsubj	_	_
+3	모르게	모르+게	VERB	VV+EC	_	5	advcl	_	_
+4	더하게	더+하+게	ADV	MAG+VV+EC	_	5	advmod	_	_
+5	된다	되+ㄴ다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_28_2_13
+# text = 한편 협동은 상대와 같아 일하게 된다.
+1	한편	한편	ADV	MAG	_	5	advmod	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	5	nsubj	_	_
+3	상대와	상대+와	ADV	NNG+JKB	_	5	obl	_	_
+4	같아	같+아	ADJ	VA+EC	_	5	advcl	_	_
+5	일하게	일+하+게	VERB	NNG+XSV+EC	_	0	root	_	_
+6	된다	되+ㄴ다	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_28_2_14
+# text = 만약에 손발이 안 압히면 포기하거나 열심히 하지 않는 상황이 나타날 겁니다.
+1	만약에	만약+에	ADV	NNG+JKB	_	4	obl	_	_
+2	손발이	손+발+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+3	안	안	ADV	MAG	_	4	advmod	_	_
+4	압히면	압히+면	VERB	NV+EC	Typo=Yes	5	advcl	_	_
+5	포기하거나	포기+하+거나	VERB	NNG+XSV+EC	_	9	acl	_	_
+6	열심히	열심히	ADV	MAG	_	7	advmod	_	_
+7	하지	하+지	VERB	VV+EC	_	5	conj	_	_
+8	않는	않	AUX	VX+ETM	_	7	aux	_	_
+9	상황이	상황+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	나타날	나타나+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	겁니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_28_2_15
+# text = 같이 하기 불편하기 때문이다.
+1	같이	같이	ADV	MAG	_	2	advmod	_	_
+2	하기	하+기	VERB	VV+ETN	_	3	nsubj	_	_
+3	불편하기	불편+하+기	ADJ	NNG+XSA+ETN	_	4	nmod	_	_
+4	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_28_2_16
+# text = 그러므로 오히려 혼자해서 경쟁하는 것이 성공에 더 미칠 수 있다.
+1	그러므로	그러므로	ADV	MAJ	_	10	cc	_	_
+2	오히려	오히려	ADV	MAG	_	10	advmod	_	_
+3	혼자해서	혼자+하+아서	VERB	MAG+XSV+EC	_	4	advcl	_	_
+4	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	10	dislocated	_	_
+6	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	미칠	미치+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_28_2_17
+# text = 간 사람이 의존하는 것이보다 자기를 의존하는 것이 낫다.
+1	간	가+ㄴ	VERB	NV+ETM	Typo=Yes	2	acl	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	의존하는	의존+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이보다	것+이+보다	ADV	NNB+JKS+JKB	_	8	obl	_	_
+5	자기를	자기+를	PRON	NP+JKO	_	6	obj	_	_
+6	의존하는	의존+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	낫다	낫+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_28_2_18
+# text = 경쟁은 자기의 힘을 더 강하게 할수 있다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	자기의	자기+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	힘을	힘+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	강하게	강하+게	ADV	VA+EC	_	6	advmod	_	_
+6	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

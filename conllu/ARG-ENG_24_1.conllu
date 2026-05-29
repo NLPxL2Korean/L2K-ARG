@@ -1,0 +1,145 @@
+# sent_id = ARG-ENG_24_1_01
+# text = 언어는 인간의 소통 방법으로 아주 종요한 것 같습니다.
+1	언어는	언어+는	NOUN	NNG+JX	_	6	nsubj	_	_
+2	인간의	인간+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+3	소통	소통	NOUN	NNG	_	4	nmod	_	_
+4	방법으로	방법+으로	ADV	NNG+JKB	_	6	obl	_	_
+5	아주	아주	ADV	MAG	_	6	advmod	_	_
+6	종요한	종요+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	7	amod	_	_
+7	것	것	NOUN	NNB	_	8	nsubj	_	_
+8	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_24_1_02
+# text = 그렇지만 나라마다 언어가 달라서 문제가 생깁니다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	6	cc	_	_
+2	나라마다	나라+마다	NOUN	NNG+JX	_	4	obl	_	_
+3	언어가	언어+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	달라서	다르+아서	ADJ	VA+EC	_	6	advcl	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	생깁니다	생기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_24_1_03
+# text = 아이들에게 최초에 언어 소욕하면 제일 자연스럽게 한 언어를 배울 수 있습니다.
+1	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	4	obl	_	_
+2	최초에	최초+에	ADV	NNG+JKB	_	4	obl	_	_
+3	언어	언어	NOUN	NNG	_	4	obj	_	_
+4	소욕하면	소욕+하+면	VERB	NF+XSV+EC	Typo=Yes	11	advcl	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	9	advmod	_	_
+7	한	한	DET	MM	_	8	det	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_24_1_04
+# text = 언어 배우면서 세게에 더 많은 사람들이랑 소통할 수 있습니다.
+1	언어	언어	NOUN	NNG	_	2	obj	_	_
+2	배우면서	배우+면서	VERB	VV+EC	_	9	advcl	_	_
+3	세게에	세게+에	ADV	NF+JKB	Typo=Yes	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	소통할	소통+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_24_1_05
+# text = 가족안에 여러 언어를 쓰면 아이에게 힘들수 있습니다.
+1	가족안에	가족+안+에	ADV	NNG+NNG+JKB	_	4	obl	_	_
+2	여러	여러	DET	MM	_	3	det	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	쓰면	쓰+면	VERB	VV+EC	_	6	advcl	_	_
+5	아이에게	아이+에게	ADV	NNG+JKB	_	6	obl	_	_
+6	힘들수	힘들+ㄹ+수	VERB	VA+ETM+NNB	_	7	nsubj	_	_
+7	있습니다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_24_1_06
+# text = 너무 일찍 여러언어 소개하면 아이한테 더 늦게 말 할수도 있습니다.
+1	너무	너무	ADV	MAG	_	2	advmod	_	_
+2	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+3	여러언어	여러+언어	NOUN	MM+NNG	_	4	obj	_	_
+4	소개하면	소개+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	아이한테	아이+한테	ADV	NNB+JKB	_	9	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	늦게	늦+게	ADV	VA+EC	_	9	advmod	_	_
+8	말	말	NOUN	NNG	_	9	obj	_	_
+9	할수도	하+ㄹ+수+도	NOUN	VV+ETM+NNB+JX	_	10	nsubj	_	_
+10	있습니다	있+습니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_24_1_07
+# text = 그런데 아이는 말을 시작할 때 소통 능력이 한 언어만 쓰는 아이보다 더 잘 할수 있습니다.
+1	그런데	그런데	ADV	MAJ	_	15	cc	_	_
+2	아이는	아이+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	말을	말+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	15	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	소통	소통	NOUN	NNG	_	7	nmod	_	_
+7	능력이	능력+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+8	한	한	DET	MM	_	9	det	_	_
+9	언어만	언어+만	NOUN	NNG+JX	_	10	obj	_	_
+10	쓰는	쓰+는	VERB	VV+ETM	_	11	acl	_	_
+11	아이보다	아이+보다	ADV	NNG+JKB	_	14	obl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	15	nsubj	_	_
+15	있습니다	있+습니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_24_1_08
+# text = 과학적으로 언어능력이 뇌도 여러 부분 씁니다.
+1	과학적으로	과학+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+2	언어능력이	언어+능력+이	NOUN	NNG+NNG+JKS	_	6	nsubj	_	_
+3	뇌도	뇌+도	NOUN	NNG+JX	_	6	obl	_	_
+4	여러	여러	DET	MM	_	5	det	_	_
+5	부분	부분	NOUN	NNG	_	6	obj	_	_
+6	씁니다	쓰+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_24_1_09
+# text = 그래서 여러 언어에 아는 사람들이 한 언어만 하는 사람보다 생각할 때 더 여율 수도 있습니다.
+1	그래서	그래서	ADV	MAJ	_	15	cc	_	_
+2	여러	여러	DET	MM	_	3	det	_	_
+3	언어에	언어+에	ADV	NNG+JKB	_	4	obl	_	_
+4	아는	알+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+6	한	한	DET	MM	_	7	det	_	_
+7	언어만	언어+만	NOUN	NNG+JX	_	8	obj	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	사람보다	사람+보다	ADV	NNG+JKB	_	13	obl	_	_
+10	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	13	advcl	_	_
+11	때	때	ADV	NNG	_	10	mark	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	여율	여유+ㄹ	VERB	NV+ETM	Typo=Yes	14	acl	_	_
+14	수도	수+도	NOUN	NNB+JX	_	15	nsubj	_	_
+15	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_24_1_10
+# text = 문제가 생기면 언어 더 많이 아는 사람은 여러 방법을 풀 수 있는데 한 언어만 아는 사람이 할 수 없습니다.
+1	문제가	문제+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	생기면	생기+면	VERB	VV+EC	_	19	advcl	_	_
+3	언어	언어	NOUN	NNG	_	6	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	아는	알+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람은	사람+은	NOUN	NNG+JX	_	10	nsubj	_	_
+8	여러	여러	DET	MM	_	9	det	_	_
+9	방법을	방법+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	풀	풀+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는데	있+는데	VERB	VX+EC	_	19	advcl	_	_
+13	한	한	DET	MM	_	14	det	_	_
+14	언어만	언어+만	NOUN	NNG+JX	_	15	obj	_	_
+15	아는	알+는	VERB	VV+ETM	_	16	acl	_	_
+16	사람이	사람+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	할	하+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	없습니다	없+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

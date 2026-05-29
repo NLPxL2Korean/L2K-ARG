@@ -1,0 +1,143 @@
+# sent_id = ARG-JPN_20_3_01
+# text =  저는 협동이 중요하다리는 생각이도있지만 경쟁을 더 선호한다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동이	협동+이	NOUN	NF+JKS	_	3	nsubj	_	_
+3	중요하다리는	중요+하+다+리는	VERB	NNG+XSA+EC+NA	_	4	acl	_	_
+4	생각이도있지만	생각+이+도+있+지만	VERB	NNG+JKS+JX+VV+EC	_	7	advcl	_	_
+5	경쟁을	경쟁+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_20_3_02
+# text =  왠하면, 경쟁이 너무재미있기때문이다.
+1	왠하면	왠하면	ADV	NA	_	4	cc	_	paceAfter=No
+2	,	,	PUNCT	SP	_	4	punct	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	너무재미있기때문이다	너무+재미+있+기+때문+이+다	VERB	MAG+NNG+VA+ETN+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_20_3_03
+# text =  경쟁을 하고 시람은 처음으로 성장할수 있다고 해도 과언이 아니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하고	하+고	VERB	VV+EC	_	5	advcl	_	_
+3	시람은	시람+은	NOUN	NF+JX	_	5	nsubj	_	_
+4	처음으로	처음+으로	ADV	NNG+JKB	_	5	obl	_	_
+5	성장할수	성장+하+ㄹ+수	VERB	NNG+XSV+ETM+NNB	_	6	nsubj	_	_
+6	있다고	있+다고	VERB	VX+EC	_	7	ccomp	_	_
+7	해도	하+아도	VERB	VV+EC	_	9	advcl	_	_
+8	과언이	과언+이	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_20_3_04
+# text =  자신의 의견과 생각을 잘 가지고 자신의 힘을 쓰고 경쟁하는 것이 너무 자격적으로 느낌이 좋다.
+1	자신의	자신+의	PRON	NNG+JKG	_	3	nmod:poss	_	_
+2	의견과	의견+과	NOUN	NNG+JC	_	5	obj	_	_
+3	생각을	생각+을	NOUN	NNG+JKO	_	2	conj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	가지고	가지+고	VERB	VV+EC	_	8	advcl	_	_
+6	자신의	자신+의	PRON	NNG+JKG	_	7	nmod:poss	_	_
+7	힘을	힘+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	쓰고	쓰+고	VERB	VV+EC	_	9	advcl	_	_
+9	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+11	너무	너무	ADV	MAG	_	14	advmod	_	_
+12	자격적으로	자격+적+으로	ADV	NF+XSN+JKB	_	14	obl	_	_
+13	느낌이	느낌+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_20_3_05
+# text =  협동만 하고 있으면 자신의 실력이 발기하지 않아서 너무 아깝다고 느낀다.
+1	협동만	협동+만	NOUN	NNG+JX	_	2	obj	_	_
+2	하고	하+고	VERB	VV+EC	_	6	advcl	_	_
+3	있으면	있+으면	AUX	VX+EC	_	2	aux	_	_
+4	자신의	자신+의	PRON	NNG+JKG	_	5	nmod:poss	_	_
+5	실력이	실력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	발기하지	발기+하+지	VERB	NF+XSV+EC	_	10	advcl	_	_
+7	않아서	않+아서	AUX	VX+EC	_	6	aux	_	_
+8	너무	너무	ADV	MAG	_	9	advmod	_	_
+9	아깝다고	아깝+다고	VERB	VA+EC	_	10	ccomp	_	_
+10	느낀다	느끼+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_20_3_06
+# text =  경쟁은 나쁜 것이 아니다고 여로분에게 전하고 싶다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	것이	것+이	NOUN	NNB+JKC	_	4	nsubj	_	_
+4	아니다고	아니+다고	VERB	VA+EC	_	6	ccomp	_	_
+5	여로분에게	여로분+에게	ADV	NF+JKB	_	6	obl	_	_
+6	전하고	전하+고	VERB	VV+EC	_	0	root	_	_
+7	싶다	싶+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_20_3_07
+# text =  일본에 살고 있으면 일반적으로 협동을 소중하게 생각하는 사람이 많고 세상의 분위기도 협동을 중요시하는 인상이 있다.
+1	일본에	일본+에	ADV	NNP+JKB	_	2	obl	_	_
+2	살고	살+고	VERB	VV+EC	_	9	advcl	_	_
+3	있으면	있+으면	AUX	VX+EC	_	2	aux	_	_
+4	일반적으로	일반+적+으로	ADV	NNG+XSN+JKB	_	7	obl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	소중하게	소중+하+게	ADV	XR+XSA+EC	_	7	advmod	_	_
+7	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	많고	많+고	VERB	VA+EC	_	0	root	_	_
+10	세상의	세상+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	분위기도	분위기+도	NOUN	NNG+JX	_	13	nsubj	_	_
+12	협동을	협동+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	중요시하는	중요+시+하+는	VERB	NNG+XSN+XSV+ETM	_	14	acl	_	_
+14	인상이	인상+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VV+EF	_	9	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_20_3_08
+# text =  마음이 착한 사람이나 다른 사람과 비슷하게 있고 싶은 사람이 맣ㄴ아서 그런 세상의 인상이 있다고 생각하지만 저는 그런 세상이 선호하지않다.
+1	마음이	마음+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	착한	착하+ㄴ	ADJ	VA+ETM	_	3	acl	_	_
+3	사람이나	사람+이나	NOUN	NNG+JC	_	7	obl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람과	사람+과	NOUN	NNG+JC	_	3	conj	_	_
+6	비슷하게	비슷+하+게	ADV	XR+XSA+EC	_	7	advmod	_	_
+7	있고	있+고	VERB	VV+EC	_	9	acl	_	_
+8	싶은	싶+은	AUX	VX+ETM	_	7	aux	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	맣ㄴ아서	맣ㄴ+아서	VERB	NA+EC	_	14	advcl	_	_
+11	그런	그런	DET	MM	_	12	det	_	_
+12	세상의	세상+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	인상이	인상+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있다고	있+다고	VERB	VV+EC	_	15	ccomp	_	_
+15	생각하지만	생각+하+지만	VERB	NNG+XSV+EC	_	19	advcl	_	_
+16	저는	저+는	PRON	NP+JX	_	19	nsubj	_	_
+17	그런	그런	DET	MM	_	18	det	_	_
+18	세상이	세상+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	선호하지않다	선호+하+지+않+다	VERB	NNG+XSV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_20_3_09
+# text =  마지막으로 저는 협동도 중요하다고 생각하지만 경쟁이없으면 성장하기 어렵다고 느끼기위해 경쟁을 더선호한다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	11	obl	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	협동도	협동+도	NOUN	NF+JX	_	4	nsubj	_	_
+4	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각하지만	생각+하+지만	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	경쟁이없으면	경쟁+이+없+으면	VERB	NNG+JKS+VA+EC	_	8	advcl	_	_
+7	성장하기	성장+하+기	NOUN	NNG+XSV+ETN	_	8	nsubj	_	_
+8	어렵다고	어렵+다고	VERB	VA+EC	_	9	ccomp	_	_
+9	느끼기위해	느끼+기+위하+아	NOUN	VV+ETN+VV+EC	_	11	advcl	_	_
+10	경쟁을	경쟁+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	더선호한다	더+선호+하+ㄴ다	VERB	MAG+NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_20_3_10
+# text =  경쟁으로 더 촣은 방식을 찾아 낼 수 있다.
+1	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	5	obl	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	촣은	촣+은	VERB	NV+ETM	_	4	amod	_	_
+4	방식을	방식+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	찾아	찾+아	VERB	VV+EC	_	7	acl	_	_
+6	낼	내+ㄹ	VERB	VX+ETM	_	5	aux	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

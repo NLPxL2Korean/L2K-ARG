@@ -1,0 +1,177 @@
+# sent_id = ARG-ENG_36_3_01
+# text = 제 생각에는 경쟁에 비해서 현동은 더 좋은 것이다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+3	경쟁에	경쟁+에	ADV	NNG+JKB	_	4	obl	_	_
+4	비해서	비하+아서	VERB	VV+EC	_	8	advcl	_	_
+5	현동은	현동+은	NOUN	NF+JX	Typo=Yes	8	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_36_3_02
+# text = 사람들은 도(island)가 아니라는 이야기를 기억난다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+2	도(island)가	도+(+island+)	NOUN	NNG+SS+SL+SS	_	3	nsubj	_	_
+3	아니라는	아니+라는	ADJ	VCN+EC	_	4	acl	_	_
+4	이야기를	이야기+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	기억난다	기억나+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_3_03
+# text = 의미는 완전히 혼자 사람들은 살지 못한다.
+1	의미는	의미+는	NOUN	NNG+JX	_	5	dislocated	_	_
+2	완전히	완전히	ADV	MAG	_	5	advmod	_	_
+3	혼자	혼자	ADV	NNG	_	5	advmod	_	_
+4	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+5	살지	살+지	VERB	VV+EC	_	0	root	_	_
+6	못한다	못하+ㄴ다	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_3_04
+# text = 다른 사람이 필효한다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	필효한다	필효+하+ㄴ다	VERB	NF+XSA+NA	Typo=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_36_3_05
+# text = 그때문에 우리는 사람.
+1	그때문에	그+때문+에	ADV	MM+NNG+JKB	_	3	obl	_	_
+2	우리는	우리+는	PRON	NP+JX	_	3	nsubj	_	_
+3	사람	사람	NOUN	NNG	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_36_3_06
+# text = 사람들이 사회적인 것이다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	사회적인	사회+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_36_3_07
+# text = 그래서, 특히 큰일 생기거나 중요한 것을 하려고면 다른 사람의 도움이 필요한다.
+1	그래서	그래서	ADV	MAJ	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	특히	특히	ADV	MAG	_	8	advmod	_	_
+4	큰일	크+ㄴ+일	NOUN	VA+ETM+NNG	_	5	nsubj	_	_
+5	생기거나	생기+거나	VERB	VV+EC	_	12	advcl	_	_
+6	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	하려고면	하+려고+면	VERB	VV+EC+EC	_	5	conj	_	_
+9	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	사람의	사람+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	도움이	도움+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	필요한다	필요+하+ㄴ다	ADJ	NNG+XSA+NA	Typo=Yes	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_36_3_08
+# text = 다른 사람은 다양한 생각을 가져와서 문제를 나타날때 나알 수 있다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	생각을	생각+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	가져와서	가져오+아서	VERB	VV+EC	_	10	advcl	_	_
+6	문제를	문제+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	나타날때	나타나+ㄹ+때	NOUN	VV+ETM+NNB	_	8	advcl	_	_
+8	나알	나아+ㄹ	VERB	NV+ETM	Typo=Yes	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_3_09
+# text = 그렇기는 하는데 현동도 문제가 있다.
+1	그렇기는	그렇+기+는	VERB	VV+ETN+JX	_	2	nsubj	_	_
+2	하는데	하+는데	VERB	VV+EC	_	5	advcl	_	_
+3	현동도	현동+도	NOUN	NF+JX	Typo=Yes	5	dislocated	_	_
+4	문제가	문제+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_3_10
+# text = 예를 들면 모노폴리에 대해서 생각한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	5	advcl	_	_
+3	모노폴리에	모노폴리+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해서	대하+아서	VERB	VV+EC	_	5	advcl	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_3_11
+# text = 모노폴리나 트러스트라는 것은 생길 때, 상품들은 비씨질 것이다.
+1	모노폴리나	모노폴리+나	NOUN	NNG+JC	_	3	acl	_	_
+2	트러스트라는	트러스트+이+라는	ADJ	NNG+VCP+ETM	_	1	conj	_	_
+3	것은	것+은	NOUN	NNB+JX	_	4	nsubj	_	_
+4	생길	생기+ㄹ	VERB	VV+ETM	_	8	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	상품들은	상품+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+8	비씨질	비씨+아지+ㄹ	VERB	NV+XSV+ETM	Typo=Yes	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_36_3_12
+# text = 모노폴리 때문에 가끔 경쟁이 필요하다.
+1	모노폴리	모노+폴리	NOUN	NNG+NNG	_	5	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	가끔	가끔	ADV	MAG	_	5	advmod	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_3_13
+# text = 그러지만, 보통 인생에 대한 일에 대해 말할 때 현동은 더 선호한다.
+1	그러지만	그러+지만	ADV	NA	Typo=Yes	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	보통	보통	ADV	MAG	_	8	advmod	_	_
+4	인생에	인생+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대한	대하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	일에	일+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대해	대하+아	VERB	VV+EC	_	8	advcl	_	_
+8	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	12	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	현동은	현동+은	NOUN	NF+JX	Typo=Yes	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_36_3_14
+# text = 사람과 사람 사이에 경쟁이 너무 있을 때, 사회가 아프다.
+1	사람과	사람+과	NOUN	NNG+JC	_	3	nmod	_	_
+2	사람	사람	NOUN	NNG	_	1	conj	_	_
+3	사이에	사이+에	ADV	NNG+JKB	_	6	obl	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	있을	있+을	VERB	VV+ETM	_	10	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	사회가	사회+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	아프다	아프+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_3_15
+# text = 사업은 너무 경쟁 대신에 현동하는 것도 사회에게 나쁜데 사람 같이 일하면 사람마다 더 행복할 것이다.
+1	사업은	사업+은	NOUN	NNG+JX	_	5	nsubj	_	_
+2	너무	너무	ADV	MAG	_	5	advmod	_	_
+3	경쟁	경쟁	NOUN	NNG	_	5	obl	_	_
+4	대신에	대신+에	ADV	NNG+JKB	_	3	case	_	_
+5	현동하는	현동+하+는	VERB	NF+XSV+ETM	Typo=Yes	6	acl	_	_
+6	것도	것+도	NOUN	NNB+JX	_	8	nsubj	_	_
+7	사회에게	사회+에게	ADV	NNG+JKB	_	8	obl	_	_
+8	나쁜데	나쁘+ㄴ데	VERB	VV+EC	_	15	advcl	_	_
+9	사람	사람	NOUN	NNG	_	11	nsubj	_	_
+10	같이	같이	ADV	MAG	_	11	advmod	_	_
+11	일하면	일+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+12	사람마다	사람+마다	NOUN	NNG+JX	_	14	obl	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	행복할	행복+하+ㄹ	ADJ	NNG+XSA+ETM	_	15	acl	_	_
+15	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_36_3_16
+# text = 그래서 현동을 선호한다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	현동을	현동+을	NOUN	NF+JKO	Typo=Yes	3	obj	_	_
+3	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_

@@ -1,0 +1,64 @@
+# sent_id = ARG-JPN_30_3_01
+# text =  저는 協力를 좋아합니다.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	協力를	協力+를	NOUN	SL+JKO	_	3	obj	_	_
+3	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_30_3_02
+# text =  사람은 혼자서 살 수 없습니다.
+1	사람은	사람+은	NOUN	NNG+JX	_	5	dislocated	_	_
+2	혼자서	혼자+서	ADV	NNG+JKS	_	3	nsubj	_	_
+3	살	살+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	없습니다	없+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_30_3_03
+# text =  학교에서 공부할 때 머르는 것이 서로에 가르지면서 같이 열심히 하고나 학교 행사 때도 한 명식 하는 일을 전해서 하나의 큰 것을 만들는 것은 기분이 좋아서 친구들의 사이도 너무 좋아졌습니다.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	2	obl	_	_
+2	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	29	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	머르는	머르+는	VERB	NV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	서로에	서로+에	ADV	NNG+JKB	_	7	obl	_	_
+7	가르지면서	가르지+면서	VERB	NV+EC	_	10	advcl	_	_
+8	같이	같이	ADV	MAG	_	10	advmod	_	_
+9	열심히	열심히	ADV	MAG	_	10	advmod	_	_
+10	하고나	하+고나	VERB	VV+EC	_	23	acl	_	_
+11	학교	학교	NOUN	NNG	_	12	nmod	_	_
+12	행사	행사	NOUN	NNG	_	18	obl	_	_
+13	때도	때+도	ADV	NNG+JX	_	13	case	_	_
+14	한	한	NUM	MM	_	15	nummod	_	_
+15	명식	명+식	NOUN	NNB+NA	_	16	obl	_	_
+16	하는	하+는	VERB	VV+ETM	_	17	acl	_	_
+17	일을	일+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	전해서	전하+아서	VERB	VV+EC	_	22	advcl	_	_
+19	하나의	하나+의	NOUN	NR+JKG	_	21	nmod:poss	_	_
+20	큰	크+ㄴ	ADJ	VA+ETM	_	21	amod	_	_
+21	것을	것+을	NOUN	NNB+JKO	_	22	obj	_	_
+22	만들는	만들+는	VERB	VV+ETM	_	10	conj	_	_
+23	것은	것+은	NOUN	NNB+JX	_	25	dislocated	_	_
+24	기분이	기분+이	NOUN	NNG+JKS	_	25	nsubj	_	_
+25	좋아서	좋+아서	VERB	VA+EC	_	29	advcl	_	_
+26	친구들의	친구+들+의	NOUN	NNG+XSN+JKG	_	27	nmod:poss	_	_
+27	사이도	사이+도	NOUN	NNG+JX	_	29	nsubj	_	_
+28	너무	너무	ADV	MAG	_	29	advmod	_	_
+29	좋아졌습니다	좋+아지+었+습니다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+30	.	.	PUNCT	SF	_	29	punct	_	_
+
+# sent_id = ARG-JPN_30_3_04
+# text =  그래서 사람들이 協力하는 것이 스트래스도 없고 좋은 기분이 됄 수 있으니까 좋아합니다.
+1	그래서	그래서	ADV	MAJ	_	12	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	協力하는	協力+하+는	VERB	SL+VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	dislocated	_	_
+5	스트래스도	스트래스+도	NOUN	NF+JX	_	6	nsubj	_	_
+6	없고	없+고	VERB	VA+EC	_	10	acl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+8	기분이	기분+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	됄	됄+ㄹ	VERB	VV+ETM	_	6	conj	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있으니까	있+으니까	VERB	VX+EC	_	12	advcl	_	_
+12	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

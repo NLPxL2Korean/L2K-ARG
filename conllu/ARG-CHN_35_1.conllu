@@ -1,0 +1,90 @@
+# sent_id = ARG-CHN_35_1_01
+# text = 저는 자연 보존 더 중요한다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존	보존	NOUN	NNG	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_35_1_02
+# text = 왜냐하면 자연은 원래대로 보존하는 것이 자연에게 준종하기 뿐만 아니라 자연의 원모습은 제일 맥력적이라고 생각하기 때문입니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	15	cc	_	_
+2	자연은	자연+은	NOUN	NNG+JX	_	4	obj	_	_
+3	원래대로	원래+대로	NOUN	NNG+JX	_	4	obl	_	_
+4	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	자연에게	자연+에게	ADV	NNG+JKB	_	7	obl	_	_
+7	준종하기	준종+하+기	NOUN	NF+XSV+ETN	Typo=Yes	9	nsubj	_	_
+8	뿐만	뿐+만	NOUN	NNB+JX	_	7	case	_	_
+9	아니라	아니+라	ADJ	VCN+EC	_	13	advcl	_	_
+10	자연의	자연+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	원모습은	원+모습+은	NOUN	XPN+NNG+JX	_	13	nsubj	_	_
+12	제일	제일	ADV	MAG	_	13	advmod	_	_
+13	맥력적이라고	맥력+적+이+라고	ADJ	NF+XSN+VCP+EC	Typo=Yes	14	ccomp	_	_
+14	생각하기	생각+하+기	VERB	NNG+XSV+ETN	_	15	nmod	_	_
+15	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_35_1_03
+# text = 물론 자연 개발도 좋지만 그 개발 후에 다른 문제점 생길지도 모르니까 좋지 않다고 생각합니다.
+1	물론	물론	ADV	MAG	_	4	advmod	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발도	개발+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	좋지만	좋+지만	ADJ	VA+EC	_	12	advcl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	개발	개발	NOUN	NNG	_	10	obl	_	_
+7	후에	후+에	ADV	NNG+JKB	_	6	case	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	문제점	문제점	NOUN	NNG	_	10	nsubj	_	_
+10	생길지도	생기+ㄹ지+도	VERB	VV+EC+JX	_	11	ccomp	_	_
+11	모르니까	모르+니까	VERB	VV+EC	_	12	advcl	_	_
+12	좋지	좋+지	ADJ	VA+EC	_	14	ccomp	_	_
+13	않다고	않	AUX	VX+EC	_	12	aux	_	_
+14	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_35_1_04
+# text = 마찬 설형수술한 사람과 해 본 적이 없는 사람 비교하는 것은 똑같다고 생각합니다.
+1	마찬	마찬	ADV	NA	Typo=Yes	11	advmod	_	_
+2	설형수술한	설형+수술+하+ㄴ	VERB	NF+NNG+XSV+ETM	Typo=Yes	3	acl	_	_
+3	사람과	사람+과	NOUN	NNG+JC	_	9	obj	_	_
+4	해	하+아	VERB	VV+EC	_	6	acl	_	_
+5	본	보+ㄴ	VERB	VX+ETM	_	4	advcl	_	_
+6	적이	적+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	없는	없+는	ADJ	VA+ETM	_	8	acl	_	_
+8	사람	사람	NOUN	NNG	_	3	conj	_	_
+9	비교하는	비교+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것은	것+은	NOUN	NNB+JX	_	11	nsubj	_	_
+11	똑같다고	똑같+다고	ADJ	VA+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_35_1_05
+# text = 예를 들어 대부분 사람들은 “강남미인” 보다 “자연미인”은 더 선호하고 더 예쁜다고 생각합니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	12	advcl	_	_
+3	대부분	대부분	NOUN	NNG	_	4	nmod	_	_
+4	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	12	nsubj	_	_
+5	“강남미인”	“+강남+미인+”	NOUN	SS+NNP+NNG+SS	_	11	obl	_	_
+6	보다	보다	ADP	JKB	_	5	case	_	_
+7	“자연미인”은	“+자연+미인+”+은	NOUN	SS+NNG+NNG+SS+JX	_	9	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	선호하고	선호+하+고	VERB	NNG+XSV+EC	_	12	ccomp	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	예쁜다고	예쁘+ㄴ다고	ADJ	VA+EC	_	9	conj	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_35_1_06
+# text = 그러니까 자연 보존하는 것은 개발보다 더 중요한다고 생각합니다.
+1	그러니까	그러니까	ADV	MAJ	_	8	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	obj	_	_
+3	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	7	nsubj	_	_
+5	개발보다	개발+보다	ADV	NNG+JKB	_	7	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

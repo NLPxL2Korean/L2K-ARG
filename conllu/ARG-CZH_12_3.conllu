@@ -1,0 +1,124 @@
+# sent_id = ARG-CZH_12_3_01
+# text = 요즘은 까끔 학교나 회사에서 어떻게 함게 일하기 가르치고 팀 만들어요.
+1	요즘은	요즘+은	ADV	NNG+JX	_	8	advmod	_	_
+2	까끔	까끔	ADV	NA	Typo=Yes	8	advmod	_	_
+3	학교나	학교+나	NOUN	NNG+JC	_	7	obl	_	_
+4	회사에서	회사+에서	ADV	NNG+JKB	_	3	conj	_	_
+5	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+6	함게	함게	ADV	NA	Typo=Yes	7	advmod	_	_
+7	일하기	일+하+기	VERB	NNG+XSV+ETN	_	8	obj	_	_
+8	가르치고	가르치+고	VERB	VV+EC	_	0	root	_	_
+9	팀	팀	NOUN	NNG	_	10	obj	_	_
+10	만들어요	만들+어요	VERB	VV+EF	_	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_3_02
+# text = 협동이 중요하는데 저는 경쟁 더 좋아해요.
+1	협동이	협동+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	중요하는데	중요+하+는데	ADJ	NNG+XSA+EC	_	6	advcl	_	_
+3	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+4	경쟁	경쟁	NOUN	NNG	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋아해요	좋아하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_12_3_03
+# text = 경쟁이 있으면 저는 더 많이 신경쓰고, 더 열심히 해요.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있으면	있+으면	ADJ	VA+EC	_	10	advcl	_	_
+3	저는	저+는	PRON	NP+JX	_	10	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	신경쓰고	신경+쓰+고	VERB	NNG+XSV+EC	_	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	열심히	열심히	ADV	MAG	_	10	advmod	_	_
+10	해요	하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_3_04
+# text = '아드레날' 때문에 재미있는 시갈 보내요.
+1	'아드레날'	'+아드레날+'	NOUN	SS+NF+SS	Typo=Yes	5	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	재미있는	재미+있+는	ADJ	NNG+VA+ETM	_	4	amod	_	_
+4	시갈	시갈	NOUN	NF	Typo=Yes	5	obj	_	_
+5	보내요	보내+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_12_3_05
+# text = 스트레스를 받을 수 있지만 다 잘 되면 시실은 스트레스를 풀리기여요.
+1	스트레스를	스트레스+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	받을	받+을	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있지만	있	AUX	VX+EC	_	10	advcl	_	_
+5	다	다	ADV	MAG	_	7	advmod	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	되면	되+면	VERB	VV+EC	_	10	advcl	_	_
+8	시실은	시실+은	NOUN	NF+JX	Typo=Yes	10	nsubj	_	_
+9	스트레스를	스트레스+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	풀리기여요	풀리+기+이+어요	VERB	VV+ETN+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_3_06
+# text = 저는 고등하교에 있었을 때 우리는 보통 축구, 농구 해야 했어요.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	고등하교에	고등하교+에	ADV	NF+JKB	Typo=Yes	3	obl	_	_
+3	있었을	있+었+을	VERB	VV+EP+ETM	_	10	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	우리는	우리+는	PRON	NP+JX	_	10	nsubj	_	_
+6	보통	보통	ADV	MAG	_	10	advmod	_	_
+7	축구	축구	NOUN	NNG	_	9	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	농구	농구	NOUN	NNG	_	10	obj	_	_
+10	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+11	했어요	하	AUX	VX+EP+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_3_07
+# text = 그 팀에서 저는 보통 잘 못했으니까 제 방 친구들은 나에게 화가 났어요.
+1	그	그	DET	MM	_	2	det	_	_
+2	팀에서	팀+에서	ADV	NNG+JKB	_	6	obl	_	_
+3	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+4	보통	보통	ADV	MAG	_	6	advmod	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	못했으니까	못하+았+으니까	VERB	VV+EP+EC	_	12	advcl	_	_
+7	제	저+의	PRON	NP+JKG	_	8	nmod:poss	_	_
+8	방	방	NOUN	NNG	_	9	nmod	_	_
+9	친구들은	친구+들+은	NOUN	NNG+XSN+JX	_	12	dislocated	_	_
+10	나에게	나+에게	PRON	NP+JKB	_	12	obl	_	_
+11	화가	화+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	났어요	나+았+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_12_3_08
+# text = 그때부터 팀안에서 실수 할 거면 걱정이에요.
+1	그때부터	그+때+부터	NOUN	MM+NNG+JX	_	6	obl	_	_
+2	팀안에서	팀+안+에서	ADV	NNG+NNG+JKB	_	4	obl	_	_
+3	실수	실수	NOUN	NNG	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	거면	것+이+면	ADJ	NNB+VCP+EC	_	6	advcl	_	_
+6	걱정이에요	걱정+이+에요	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_12_3_09
+# text = 그래서 협동이 별로 좋아하지 않애요.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	협동이	협동+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	별로	별로	ADV	MAG	_	4	advmod	_	_
+4	좋아하지	좋아하+지	VERB	VV+EC	_	0	root	_	_
+5	않애요	않	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_12_3_10
+# text = 팀으로 일하면 스트레스 많히 받고 제생각이 다른 사람보타 진짜 달라요.
+1	팀으로	팀+으로	ADV	NNG+JKB	_	2	obl	_	_
+2	일하면	일+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
+3	스트레스	스트레스	NOUN	NNG	_	5	obj	_	_
+4	많히	많+히	ADV	VA+NA	Typo=Yes	5	advmod	_	_
+5	받고	받+고	VERB	VV+EC	_	0	root	_	_
+6	제생각이	저+의+생각+이	NOUN	NP+JKG+NNG+JKS	_	10	nsubj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	사람보타	사람+보타	NOUN	NNG+NA	Typo=Yes	10	obl	_	_
+9	진짜	진짜	ADV	MAG	_	10	advmod	_	_
+10	달라요	다르+아요	ADJ	VA+EF	_	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	5	punct	_	_

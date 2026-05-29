@@ -1,0 +1,147 @@
+# sent_id = ARG-JPN_19_1_01
+# text =  조기언어교육에는 다양하는 장단점이 있다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육에는	언어+교육+에+는	ADV	NNG+NNG+JKB+JX	_	5	obl	_	_
+3	다양하는	다양+하+는	VERB	NNG+XSA+NA	_	4	amod	_	_
+4	장단점이	장단점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_19_1_02
+# text =  우석 장점으로 두가지 들수있다.
+1	우석	우석	NOUN	NA	_	4	advmod	_	_
+2	장점으로	장점+으로	ADV	NNG+JKB	_	4	obl	_	_
+3	두가지	두+가지	NOUN	MM+NNB	_	4	obj	_	_
+4	들수있다	들+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_19_1_03
+# text =  첫
+1	첫	첫	NUM	MM	_	0	root	_	_
+
+# sent_id = ARG-JPN_19_1_04
+# text =  번째는 언어교육에 대한 학습자의 이미지나 의육이 높아지는 것 이다.
+1	번째는	번째+는	NOUN	NNB+JX	_	8	obl	_	_
+2	언어교육에	언어+교육+에	ADV	NNG+NNG+JKB	_	3	obl	_	_
+3	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+4	학습자의	학습자+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	이미지나	이미지+나	VERB	NNG+JC	_	7	nsubj	_	_
+6	의육이	의육+이	NOUN	NF+JKS	_	5	conj	_	_
+7	높아지는	높+아지+는	VERB	VA+XSV+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	0	root	_	_
+9	이다	이+다	VERB	VCP+EF	_	8	case	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_19_1_05
+# text =  늦게 언어교육을 시작하면,언어교육에 대한 어려운이미지나 틀린 선입감이 생겨서 공부하기가 힘들게 된다.
+1	늦게	늦+게	ADV	VA+EC	_	3	advmod	_	_
+2	언어교육을	언어교육+을	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	SpaceAfter=No
+4	,언어교육에	,+언어+교육+에	ADV	SP+NNG+NNG+JKB	_	5	obl	_	_
+5	대한	대하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	어려운이미지나	어렵+ㄴ+이미지+나	VERB	VA+ETM+NNG+JC	_	9	nsubj	_	_
+7	틀린	틀리+ㄴ	NOUN	VA+ETM	_	8	amod	_	_
+8	선입감이	선입감+이	NOUN	NF+JKS	_	6	conj	_	_
+9	생겨서	생기+어서	VERB	VV+EC	_	12	advcl	_	_
+10	공부하기가	공부+하+기+가	NOUN	NNG+XSV+ETN+JX	_	12	nsubj	_	_
+11	힘들게	힘들+게	ADV	VA+EC	_	12	advmod	_	_
+12	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_19_1_06
+# text =  두번째는 어릴 때의 늬는 그후보다 더욱 새로운 지식을 인픗하기가 쉽다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	10	obl	_	_
+2	어릴	어리+ㄹ	VERB	VA+ETM	_	3	acl	_	_
+3	때의	때+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	늬는	늬+는	NOUN	NF+JX	_	10	dislocated	_	_
+5	그후보다	그+후+보다	ADV	MM+NNG+JKB	_	10	obl	_	_
+6	더욱	더욱	ADV	MAG	_	10	advmod	_	_
+7	새로운	새롭+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	지식을	지식+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	인픗하기가	인픗+하+기+가	NOUN	NF+XSV+ETN+JKS	_	10	nsubj	_	_
+10	쉽다	쉽+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_19_1_07
+# text =  어릴 때부터 많은 새로운 지식을 외우고 재미있게 공부할 수 있는것 이 조기 언어교육의 장점이라고 생각하다.
+1	어릴	어리+ㄹ	VERB	VA+ETM	_	10	advcl	_	_
+2	때부터	때+부터	ADV	NNG+JX	_	1	mark	_	_
+3	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	지식을	지식+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	외우고	외우+고	VERB	VV+EC	_	8	advcl	_	_
+7	재미있게	재미+있+게	ADV	NNG+VA+EC	_	8	advmod	_	_
+8	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는것	있+는+것	VERB	VA+ETM+NNB	_	14	nsubj	_	_
+11	이	이	DET	MM	_	13	det	_	_
+12	조기	조기	NOUN	NNG	_	13	nmod	_	_
+13	언어교육의	언어교육+의	NOUN	NNG+NNG+JKG	_	14	nmod:poss	_	_
+14	장점이라고	장점+이+라고	VERB	NNG+VCP+EC	_	15	ccomp	_	_
+15	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_19_1_08
+# text =  하지만 당연히 조기언어 교육에는 나쁜 점도 있는 것이 사실이다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	당연히	당연히	ADV	MAG	_	9	advmod	_	_
+3	조기언어	조기+언어	NOUN	NNG+NNG	_	4	nmod	_	_
+4	교육에는	교육+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	점도	점+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있는	있+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	사실이다	사실+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_19_1_09
+# text =  먼저 틀린 지식을 그대로 외울 수도있는것이 나쁜 점이다.
+1	먼저	먼저	ADV	MAG	_	8	advmod	_	_
+2	틀린	틀리+ㄴ	NOUN	VA+ETM	_	3	amod	_	_
+3	지식을	지식+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	그대로	그대로	ADV	MAG	_	5	advmod	_	_
+5	외울	외우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+6	수도있는것이	수+도+있+는+것+이	NOUN	NNB+JX+VX+ETM+NNB+JKS	_	8	nsubj	_	_
+7	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	8	acl	_	_
+8	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_19_1_10
+# text =  어릴 때에는 자기가 가지는 지식이 부족하기 때문에 공부하다가 틀린 것을 외울 때도 있다.
+1	어릴	어리+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+2	때에는	때+에+는	ADV	NNG+JKB+JX	_	1	mark	_	_
+3	자기가	자기+가	PRON	NNG+JKS	_	4	nsubj	_	_
+4	가지는	가지+는	VERB	VV+ETM	_	5	acl	_	_
+5	지식이	지식+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	부족하기	부족+하+기	NOUN	NNG+XSA+ETN	_	13	obl	_	_
+7	때문에	때문+에	ADP	NNB+JKB	_	6	case	_	_
+8	공부하다가	공부+하+다가	VERB	NNG+XSV+EC	_	13	advcl	_	_
+9	틀린	틀리+ㄴ	VERB	VA+ETM	_	10	amod	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	외울	외우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	때도	때+도	NOUN	NNG+JX	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_19_1_11
+# text =  조기 언어교육에는 장점도 있고 단점도 있지만,교육자들이 어떤 교육을 하는지에따라 학습자에 대해 좋은 교육이할 수 있는지가 크게 관하고 있는것도 사실이다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육에는	언어+교육+에+는	ADV	NNG+NNG+JKB+JX	_	4	obl	_	_
+3	장점도	장점+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있고	있+고	VERB	VV+EC	_	19	advcl	_	_
+5	단점도	단점+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있지만,교육자들이	있+지만+,+교육자+들+이	NOUN	VV+EC+SP+NNG+XSN+JKS	_	4	conj	_	_
+7	어떤	어떤	DET	MM	_	8	det	_	_
+8	교육을	교육+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	하는지에따라	하+는지+에+따르+아	VERB	VV+EC+JKB+VV+EC	_	17	advcl	_	_
+10	학습자에	학습자+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대해	대하+아	VERB	VV+EC	_	13	advcl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	교육이할	교육+이+하+ㄹ	VERB	NNG+JKS+VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있는지가	있+는지+가	VERB	VX+EC+JKS	_	17	csubj	_	_
+16	크게	크+게	ADV	VA+EC	_	17	advmod	_	_
+17	관하고	관하+고	VERB	NV+EC	_	19	nsubj	_	_
+18	있는것도	있+는+것+도	VERB	VX+ETM+NNB+JX	_	17	aux	_	_
+19	사실이다	사실+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

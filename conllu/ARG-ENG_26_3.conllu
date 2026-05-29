@@ -1,0 +1,205 @@
+# sent_id = ARG-ENG_26_3_01
+# text = 한국에서 6년쯤 지나던 미국인으로써 극단적인 협동 문화와 경쟁 문화를 봤다고 하면 누구나 인정할 거라고 생각한다.
+1	한국에서	한국+에서	ADV	NNP+JKB	_	3	obl	_	_
+2	6년쯤	6+년+쯤	ADV	SN+NNB+XSN	_	3	obl	_	_
+3	지나던	지나+던	VERB	VV+ETM	_	4	acl	_	_
+4	미국인으로써	미국인+으로써	ADV	NNG+JKB	_	10	obl	_	_
+5	극단적인	극단+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+6	협동	협동	NOUN	NNG	_	7	nmod	_	_
+7	문화와	문화+와	NOUN	NNG+JC	_	10	obj	_	_
+8	경쟁	경쟁	NOUN	NNG	_	9	nmod	_	_
+9	문화를	문화+를	NOUN	NNG+JKO	_	7	conj	_	_
+10	봤다고	보+았+다고	VERB	VV+EP+EC	_	11	ccomp	_	_
+11	하면	하+면	AUX	VV+EC	_	14	advcl	_	_
+12	누구나	누구+나	ADV	NP+JX	_	13	nsubj	_	_
+13	인정할	인정+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	거라고	것+이+라고	VERB	NNB+VCP+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_26_3_02
+# text = 사실 한국에서 둘다 나란히 존재하고 있는 것 같다.
+1	사실	사실	ADV	MAG	_	8	advmod	_	_
+2	한국에서	한국+에서	ADV	NNP+JKB	_	5	obl	_	_
+3	둘다	둘+다	VERB	NR+NNG	_	5	nsubj	_	_
+4	나란히	나란히	ADV	MAG	_	5	advmod	_	_
+5	존재하고	존재+하+고	VERB	NNG+XSV+EC	_	7	acl	_	_
+6	있는	있+는	AUX	VX+ETM	_	5	aux	_	_
+7	것	것	NOUN	NNB	_	8	nsubj	_	_
+8	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_26_3_03
+# text = 수능을 고부하기 위해서 4시간 밖에 못 자는 고3은 한국의 치열한 경쟁을 표시하고 아이돌 그룹의 칼춤은 한국의 협동의 모습이다.
+1	수능을	수능+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	고부하기	고부+하+기	NOUN	NF+XSV+ETN	_	3	obj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	7	advcl	_	_
+4	4시간	4+시간	NOUN	SN+NNB	_	7	obl	_	_
+5	밖에	밖에	ADP	JX	_	4	case	_	_
+6	못	못	ADV	MAG	_	7	advmod	_	_
+7	자는	자+는	VERB	VV+ETM	_	8	acl	_	_
+8	고3은	고+3+은	NOUN	NNG+SN+JX	_	12	nsubj	_	_
+9	한국의	한국+의	NOUN	NNP+JKG	_	11	nmod:poss	_	_
+10	치열한	치열+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	경쟁을	경쟁+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	표시하고	표시+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+13	아이돌	아이돌	NOUN	NNG	_	14	nmod	_	_
+14	그룹의	그룹+의	NOUN	NNP+JKG	_	15	nmod:poss	_	_
+15	칼춤은	칼+춤+은	NOUN	NNG+NNG+JX	_	18	nsubj	_	_
+16	한국의	한국+의	NOUN	NNP+JKG	_	17	nmod:poss	_	_
+17	협동의	협동+의	NOUN	NNP+JKG	_	18	nmod:poss	_	_
+18	모습이다	모습+이+다	VERB	NNG+VCP+EF	_	12	conj	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_26_3_04
+# text = 근데 두 현상을 보는 내가 그 사람이 대단하다고 여기면서 거부감이 든다.
+1	근데	근데	ADV	MAJ	_	11	cc	_	_
+2	두	두	NUM	MM	_	3	nummod	_	_
+3	현상을	현상+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	보는	보+는	VERB	VV+ETM	_	5	acl	_	_
+5	내가	내+가	PRON	NP+JKS	_	9	nsubj	_	_
+6	그	그	DET	MM	_	3	det	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	대단하다고	대단+하+다고	VERB	XR+XSA+EC	_	9	ccomp	_	_
+9	여기면서	여기+면서	VERB	VV+EC	_	11	advcl	_	_
+10	거부감이	거부+감+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_26_3_05
+# text = 나는 경쟁에 더 익숙하지만 승부욕이 많은 사람을 싫어한다.
+1	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+2	경쟁에	경쟁+에	ADV	NNG+JKB	_	4	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	익숙하지만	익숙+하+지만	VERB	XR+XSA+EC	_	8	advcl	_	_
+5	승부욕이	승부욕+이	NOUN	NF+JKS	_	6	nsubj	_	_
+6	많은	많+은	VERB	VA+ETM	_	7	acl	_	_
+7	사람을	사람+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	싫어한다	싫어하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_26_3_06
+# text = 그리고 협동은 좋은 것을 인정하면서 다른 사람이 나에게 소중한 시간을 내어 줄 수 있냐고 부탁하면 거부는 자동으로 내 입술애 올라온다.
+1	그리고	그리고	ADV	MAJ	_	20	cc	_	_
+2	협동은	협동+은	NOUN	NF+JX	_	3	nsubj	_	_
+3	좋은	좋+은	VERB	VA+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	5	obj	_	_
+5	인정하면서	인정+하+면서	VERB	NNG+XSV+EC	_	20	advcl	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+8	나에게	나+에게	ADV	NP+JKB	_	15	obl	_	_
+9	소중한	소중+하+ㄴ	ADJ	XR+XSA+ETM	_	10	amod	_	_
+10	시간을	시간+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	내어	내+어	VERB	VV+EC	_	13	acl	_	_
+12	줄	주+ㄹ	VERB	VX+ETM	_	11	aux	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있냐고	있+냐고	VERB	VX+EC	_	15	ccomp	_	_
+15	부탁하면	부탁+하+면	VERB	NNG+XSV+EC	_	20	advcl	_	_
+16	거부는	거부+는	NOUN	NNG+JX	_	20	nsubj	_	_
+17	자동으로	자동+으로	ADV	NNG+JKB	_	20	obl	_	_
+18	내	나+의	PRON	NP+JKG	_	19	nmod:poss	_	_
+19	입술애	입술+애	NOUN	NNG+NA	_	20	obl	_	_
+20	올라온다	올라오+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_26_3_07
+# text = 그래도 둘중에 하나만 선택해야 한다면 나는 협동을 택할 것이다.
+1	그래도	그래도	ADV	MAJ	_	9	cc	_	_
+2	둘중에	둘+중+에	ADV	NR+NNB+JKB	_	4	obl	_	_
+3	하나만	하나+만	ADV	NNG+JX	_	4	obj	_	_
+4	선택해야	선택+하+아야	VERB	NNG+XSV+EC	_	9	advcl	_	_
+5	한다면	하+ㄴ다면	AUX	VX+EC	_	4	aux	_	_
+6	나는	나+는	VERB	NP+JX	_	8	nsubj	_	_
+7	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	택할	택하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_26_3_08
+# text = 경쟁에서 익는 자와 치는 자로 나눠져 있고, 나와 다른 사람과 비교하는 형상이 계속하게 된다.
+1	경쟁에서	경쟁+에서	ADV	NNG+JKB	_	6	obl	_	_
+2	익는	익+는	VERB	NV+ETM	_	3	acl	_	_
+3	자와	자+와	NOUN	NNG+JC	_	6	obl	_	_
+4	치는	치+는	VERB	NV+ETM	_	5	acl	_	_
+5	자로	자로	ADV	NNG+JKB	_	3	conj	_	_
+6	나눠져	나누+어지+어	VERB	VV+XSV+EC	_	14	advcl	_	_
+7	있고	있+고	AUX	VX+EC	_	6	aux	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	나와	나+와	ADV	NP+JKB	_	12	obl	_	_
+10	다른	다른	ADJ	MM	_	11	amod	_	_
+11	사람과	사람+과	NOUN	NNG+JC	_	9	conj	_	_
+12	비교하는	비교+하+는	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	형상이	형상+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	계속하게	계속+하+게	VERB	NNG+XSV+EC	_	0	root	_	_
+15	된다	되+ㄴ다	VERB	VX+EF	_	14	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_26_3_09
+# text = 나는 그런 삶을 살고 싶지 않다.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	삶을	삶+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	살고	살+고	VERB	VV+EC	_	0	root	_	_
+5	싶지	싶+지	AUX	VX+EC	_	4	aux	_	_
+6	않다	않+다	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_26_3_10
+# text = 정신적으로 좋지 않고 관계측면에서 수 많은 문제를 일이킬 수 있기 때문이다.
+1	정신적으로	정신+적+으로	ADV	NNG+XSN+JKB	_	2	obl	_	_
+2	좋지	좋+지	VERB	VA+EC	_	8	advcl	_	_
+3	않고	않+고	AUX	VX+EC	_	2	aux	_	_
+4	관계측면에서	관계+측면+에서	ADV	NNG+NNG+JKB	_	8	obl	_	_
+5	수	수	NOUN	VA	_	7	amod	_	_
+6	많은	_	X	_	_	5	goeswith	_	_
+7	문제를	문제+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	일이킬	일이키+ㄹ	VERB	NV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있기	있+기	NOUN	VX+ETN	_	11	nmod	_	_
+11	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_26_3_11
+# text = 협동하면서 다른 사람의 의견을 듣는 것이 어려울 수도 있고, 나만큼 일을 안하거나 못하는 사람을 볼 때 짜증날 수도 있는데 그런 감정을 내가 스스로 감당하면 해결할 수 있다.
+1	협동하면서	협동+하+면서	VERB	NNG+XSV+EC	_	20	advcl	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람의	사람+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	의견을	의견+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	듣는	듣+는	VERB	VV+ETM	_	8	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	어려울	어렵+ㄹ	VERB	VA+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	20	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	나만큼	나+만큼	ADV	NNG+JKB	_	13	obl	_	_
+12	일을	일+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	안하거나	안+하+거나	VERB	NNG+XSV+EC	_	15	acl	_	_
+14	못하는	못하+는	VERB	VV+ETM	_	13	conj	_	_
+15	사람을	사람+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	볼	보+ㄹ	VERB	VV+ETM	_	20	advcl	_	_
+17	때	때	ADV	NNG	_	16	mark	_	_
+18	짜증날	짜증+나+ㄹ	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	수도	수+도	NOUN	NNB+JX	_	20	nsubj	_	_
+20	있는데	있+는데	VERB	VX+EC	_	28	advcl	_	_
+21	그런	그런	DET	MM	_	22	det	_	_
+22	감정을	감정+을	NOUN	NNG+JKO	_	25	obj	_	_
+23	내가	내+가	PRON	NP+JKS	_	25	nsubj	_	_
+24	스스로	스스로	ADV	MAG	_	25	advmod	_	_
+25	감당하면	감당+하+면	VERB	NNG+XSV+EC	_	26	advcl	_	_
+26	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	27	acl	_	_
+27	수	수	NOUN	NNB	_	28	nsubj	_	_
+28	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+29	.	.	PUNCT	SF	_	28	punct	_	_
+
+# sent_id = ARG-ENG_26_3_12
+# text = 그래서 나는 경쟁에 휩쓸한 사회보다 협동의 사회에 살고 싶다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+3	경쟁에	경쟁+에	ADV	NNG+JKB	_	4	obl	_	_
+4	휩쓸한	휩쓸+하+ㄴ	VERB	VV+XSV+ETM	_	5	acl	_	_
+5	사회보다	사회+보다	ADV	NNG+JKB	_	8	obl	_	_
+6	협동의	협동+의	NOUN	NF+JKG	_	7	nmod:poss	_	_
+7	사회에	사회+에	ADV	NNG+JKB	_	8	obl	_	_
+8	살고	살+고	VERB	VV+EC	_	0	root	_	_
+9	싶다	싶+다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_

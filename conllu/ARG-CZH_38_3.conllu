@@ -1,0 +1,154 @@
+# sent_id = ARG-CZH_38_3_01
+# text = 오늘 사회에서 ‘협동이 중요하다’하고 ‘경쟁이 중요하다’ 이 두 의견을 자주 들릴 수 있다.
+1	오늘	오늘	ADV	MAG	_	2	nmod	_	_
+2	사회에서	사회+에서	ADV	NNG+JKB	_	11	obl	_	_
+3	‘협동이	‘+협동+이	NOUN	SS+NNG+JKS	_	4	nsubj	_	_
+4	중요하다’하고	중요+하+다+’+하고	ADJ	NNG+XSA+EF+SS+JC	_	13	advcl	_	_
+5	‘경쟁이	‘+경쟁+이	NOUN	SS+NNG+JKS	_	6	nsubj	_	_
+6	중요하다’	중요+하+다+’	ADJ	NNG+XSA+EF+SS	_	4	conj	_	_
+7	이	이	DET	MM	_	9	det	_	_
+8	두	두	DET	MM	_	9	det	_	_
+9	의견을	의견+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	자주	자주	ADV	MAG	_	11	advmod	_	_
+11	들릴	들리+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_38_3_02
+# text = 이 두 중에서 어느 방법이 더 좋았을까?
+1	이	이	DET	MM	_	2	det	_	_
+2	두	두	DET	MM	_	7	obl	_	_
+3	중에서	중+에서	ADV	NNB+JKB	_	2	case	_	_
+4	어느	어느	DET	MM	_	5	det	_	_
+5	방법이	방법+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋았을까	좋+았+을까	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_38_3_03
+# text = 제가 보기에는 협동이 더 중요하다고 생각한다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	보기에는	보+기+에+는	NOUN	VV+ETN+JKB+JX	_	6	obl	_	_
+3	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_38_3_04
+# text = 이유는 다른 사람과 가이 일하고 각 사람이 자기가 제일 잘 할 수 있는 것에 집중하면 결과가 더 빨리 나오고 더 좋게 될 수 있기 때문이다.
+1	이유는	이유+는	NOUN	NNG+JX	_	25	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람과	사람+과	NOUN	NNG+JC	_	5	obl	_	_
+4	가이	가이	ADV	NA	Typo=Yes	5	advmod	_	_
+5	일하고	일+하+고	VERB	NNG+XSV+EC	_	24	advcl	_	_
+6	각	각	DET	MM	_	7	amod	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+8	자기가	자기+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+9	제일	제일	ADV	MAG	_	10	advmod	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	것에	것+에	ADV	NNB+JKB	_	15	obl	_	_
+15	집중하면	집중+하+면	VERB	NNG+XSV+EC	_	5	conj	_	_
+16	결과가	결과+가	NOUN	NNG+JKS	_	19	nsubj	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	빨리	빨리	ADV	MAG	_	19	advmod	_	_
+19	나오고	나오+고	VERB	VV+EC	_	23	acl	_	_
+20	더	더	ADV	MAG	_	21	advmod	_	_
+21	좋게	좋+게	ADV	VA+EC	_	22	advmod	_	_
+22	될	되+ㄹ	VERB	VX+ETM	_	19	advcl	_	_
+23	수	수	NOUN	NNB	_	24	nsubj	_	_
+24	있기	있+기	NOUN	VX+ETN	_	25	nmod	_	_
+25	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-CZH_38_3_05
+# text = 경쟁의 경우에는 각 사람이 자기 능력을 높아질도록 많은 힘을 써야 하고 사회에서 스트레스도 높아진다.
+1	경쟁의	경쟁+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+3	각	각	DET	MM	_	4	amod	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	자기	자기	NOUN	NNG	_	6	nmod	_	_
+6	능력을	능력+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	높아질도록	높+아지+ㄹ+도록	VERB	VA+XSV+ETM+EC	_	10	advcl	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	힘을	힘+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	써야	쓰+어야	VERB	VV+EC	_	14	advcl	_	_
+11	하고	하	AUX	VX+EC	_	10	aux	_	_
+12	사회에서	사회+에서	ADV	NNG+JKB	_	14	obl	_	_
+13	스트레스도	스트레스+도	NOUN	NNG+JX	_	14	nsubj	_	_
+14	높아진다	높+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_38_3_06
+# text = 예를 들면 경쟁이 높은 한국 사회를 보면 각 사람이 똑같은 해택을 얻도럭 똑같은 대학교나 직장에 다니고 싶어해서 사회에서 스트래스도 높고 자살도 많이 생기고 인간관계가 조금 떨어진다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	26	advcl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	높은	높+은	ADJ	VA+ETM	_	5	acl	_	_
+5	한국	한국	NOUN	NNP	_	6	nmod	_	_
+6	사회를	사회+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	보면	보+면	VERB	VV+EC	_	20	advcl	_	_
+8	각	각	DET	MM	_	9	amod	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+10	똑같은	똑같+은	ADJ	VA+ETM	_	11	amod	_	_
+11	해택을	해택+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	얻도럭	얻+도럭	VERB	VV+NA	Typo=Yes	16	advcl	_	_
+13	똑같은	똑같+은	ADJ	VA+ETM	_	14	amod	_	_
+14	대학교나	대학교+나	NOUN	NNG+JC	_	16	obl	_	_
+15	직장에	직장+에	ADV	NNG+JKB	_	14	conj	_	_
+16	다니고	다니+고	VERB	VV+EC	_	26	advcl	_	_
+17	싶어해서	싶	AUX	VX+EC+VX+EC	_	16	aux	_	_
+18	사회에서	사회+에서	ADV	NNG+JKB	_	20	obl	_	_
+19	스트래스도	스트래스+도	NOUN	NF+JX	Typo=Yes	20	nsubj	_	_
+20	높고	높+고	ADJ	VA+EC	_	0	root	_	_
+21	자살도	자살+도	NOUN	NNG+JX	_	23	nsubj	_	_
+22	많이	많이	ADV	MAG	_	23	advmod	_	_
+23	생기고	생기+고	VERB	VV+EC	_	20	conj	_	_
+24	인간관계가	인간+관계+가	NOUN	NNG+NNG+JKS	_	26	nsubj	_	_
+25	조금	조금	ADV	MAG	_	26	advmod	_	_
+26	떨어진다	떨어지+ㄴ다	VERB	VV+EF	_	20	conj	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CZH_38_3_07
+# text = 또한 인기가 없는 직장에 사람이 없다.
+1	또한	또한	ADV	MAJ	_	6	cc	_	_
+2	인기가	인기+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없는	없+는	ADJ	VA+ETM	_	4	acl	_	_
+4	직장에	직장+에	ADV	NNG+JKB	_	6	obl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_38_3_08
+# text = 위에 설명한 이유로 협동이 더 좋다고 생각한다.
+1	위에	위+에	ADV	NNG+JKB	_	2	obl	_	_
+2	설명한	설명+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	이유로	이유+로	ADV	NNG+JKB	_	7	obl	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋다고	좋+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_38_3_09
+# text = 직장, 가족, 사회에서도 사람들이 협동하면 더 좋은 환경과 사회를 만들 수 있다고 생각한다.
+1	직장	직장	NOUN	NNG	_	3	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	가족	가족	NOUN	NNG	_	5	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	사회에서도	사회+에서+도	ADV	NNG+JKB+JX	_	7	obl	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+10	환경과	환경+과	NOUN	NNG+JC	_	12	obj	_	_
+11	사회를	사회+를	NOUN	NNG+JKO	_	10	conj	_	_
+12	만들	만들+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다고	있+다고	VERB	VX+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

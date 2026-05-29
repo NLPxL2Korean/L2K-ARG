@@ -1,0 +1,165 @@
+# sent_id = ARG-CZH_32_1_01
+# text = 어린이 자주 잘 배웁니다.
+1	어린이	어린이	NOUN	NNG	_	4	nsubj	_	_
+2	자주	자주	ADV	MAG	_	4	advmod	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	배웁니다	배우+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_32_1_02
+# text = 어렸을 때부터 우리는 많이 배워야 합니다.
+1	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	5	advcl	_	_
+2	때부터	때+부터	ADV	NNG+JX	_	1	mark	_	_
+3	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+6	합니다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_32_1_03
+# text = 말하기와 걷기를 배우니까 다 좀 빨리 배웁니다.
+1	말하기와	말+하+기+와	VERB	NNG+XSV+ETN+JC	_	3	obj	_	_
+2	걷기를	걷+기+를	VERB	VV+ETN+JKO	_	1	conj	_	_
+3	배우니까	배우+니까	VERB	VV+EC	_	7	advcl	_	_
+4	다	다	ADV	MAG	_	7	advmod	_	_
+5	좀	좀	ADV	MAG	_	6	advmod	_	_
+6	빨리	빨리	ADV	MAG	_	7	advmod	_	_
+7	배웁니다	배우+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_32_1_04
+# text = 언어 하나나 두개 배우면 어렵지 않다고 생각합니다.
+1	언어	언어	NOUN	NNG	_	4	obj	_	_
+2	하나나	하나+나	NUM	NR+JX	_	4	obj	_	_
+3	두개	두+개	NOUN	MM+NNB	_	2	conj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	5	advcl	_	_
+5	어렵지	어렵+지	ADJ	VA+EC	_	7	ccomp	_	_
+6	않다고	않	AUX	VX+EC	_	5	aux	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_32_1_05
+# text = 부모님이 두개 언어 말하면 아이가 언어 두개 배우겠습니다.
+1	부모님이	부모+님+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	두개	두+개	NOUN	MM+NNB	_	3	nmod	_	_
+3	언어	언어	NOUN	NNG	_	4	obj	_	_
+4	말하면	말+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	아이가	아이+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	언어	언어	NOUN	NNG	_	8	obj	_	_
+7	두개	두+개	NOUN	MM+NNB	_	6	flat	_	_
+8	배우겠습니다	배우+겠+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_32_1_06
+# text = 그래서 학교에서도 일직 언어를 가르치면 일직 언어를 배우게 됩니다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	학교에서도	학교+에서+도	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	일직	일직	ADV	NA	Typo=Yes	5	advmod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	가르치면	가르치+면	VERB	VV+EC	_	8	advcl	_	_
+6	일직	일직	ADV	NF	Typo=Yes	8	advmod	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우게	배우+게	VERB	VV+EC	_	0	root	_	_
+9	됩니다	되+ㅂ니다	VERB	VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_32_1_07
+# text = 그렇지만 어린이 학교에서 많이 배워야 합니다.
+1	그렇지만	그렇지만	ADV	MAJ	_	5	cc	_	_
+2	어린이	어린이	NOUN	NNG	_	5	nsubj	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+6	합니다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_32_1_08
+# text = 읽기과 쓰기등 배워야 합니다.
+1	읽기과	읽+기+과	ADV	VV+ETN+JC	_	3	obj	_	_
+2	쓰기등	쓰+기+등	NOUN	VV+ETN+NNB	_	1	conj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	합니다	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_32_1_09
+# text = 언어를도 배우면 아마 다른 것을 잘 못 배울 것 같습니다.
+1	언어를도	언어+를+도	NOUN	NNG+JKO+JX	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+3	아마	아마	ADV	MAG	_	8	advmod	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+6	잘	잘	ADV	MAG	_	8	advmod	_	_
+7	못	못	ADV	MAG	_	8	advmod	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_32_1_10
+# text = 저는 영어를 첫번째 배웠을 때 우리 선생님이 좋지 않습니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	영어를	영어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	첫번째	첫+번째	NOUN	MM+NNB	_	4	obl	_	_
+4	배웠을	배우+었+을	VERB	VV+EP+ETM	_	8	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	우리	우리	PRON	NP	_	7	nmod	_	_
+7	선생님이	선생+님+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+9	않습니다	않	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_32_1_11
+# text = 아무것도 배울 수 없었습니다.
+1	아무것도	아무+것+도	NOUN	MM+NNB+JX	_	2	obj	_	_
+2	배울	배우+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	없었습니다	없+었+습니다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_32_1_12
+# text = 그래서 좋은 선생과 좋은 방법이 있으면 어린어 언어를 배울 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	선생과	선생+과	NOUN	NNG+JC	_	6	nsubj	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	방법이	방법+이	NOUN	NNG+JKS	_	3	conj	_	_
+6	있으면	있+으면	ADJ	VA+EC	_	7	advcl	_	_
+7	어린어	어린어	NOUN	NF	Typo=Yes	9	nsubj	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_32_1_13
+# text = 체코에서 영어 교육을 10살 때 시작합니다.
+1	체코에서	체코+에서	ADV	NNP+JKB	_	6	obl	_	_
+2	영어	영어	NOUN	NNP	_	3	nmod	_	_
+3	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	10살	10+살	NOUN	SN+NNB	_	6	obl	_	_
+5	때	때	NOUN	NNG	_	4	case	_	_
+6	시작합니다	시작+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_32_1_14
+# text = 저는 10살부터 배우는 것이 좋다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	10살부터	10+살+부터	NOUN	SN+NNB+JX	_	3	obl	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	좋다고	좋+다고	ADJ	VA+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_32_1_15
+# text = 학생은 읽기과 쓰기 알아서 언어 배우기가 쉬울 것 같습니다.
+1	학생은	학생+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	읽기과	읽+기+과	ADV	VV+ETN+JC	_	4	obj	_	_
+3	쓰기	쓰+기	VERB	VV+ETN	_	2	conj	_	_
+4	알아서	알+아서	VERB	VV+EC	_	9	advcl	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	배우기가	배우+기+가	VERB	VV+ETN+JKS	_	7	nsubj	_	_
+7	쉬울	쉽+ㄹ	ADJ	VA+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	9	nsubj	_	_
+9	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

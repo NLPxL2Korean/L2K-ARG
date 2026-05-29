@@ -1,0 +1,95 @@
+# sent_id = ARG-CZH_09_3_01
+# text = 저는 경쟁보다 협동을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_09_3_02
+# text = 저의 성격이 꼼꼼하고 내성적이라서 혼자만 일을 하면 좋지만 다른 사람들 함께 팀처럼 협동하면 더 효과적이 좋은 결과가 있다고 생각한다.
+1	저의	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	성격이	성격+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	꼼꼼하고	꼼꼼+하+고	VERB	MAG+XSA+EC	_	8	advcl	_	_
+4	내성적이라서	내성+적+이+라서	ADJ	NNG+XSN+VCP+EC	_	3	conj	_	_
+5	혼자만	혼자+만	NOUN	NNG+JX	_	7	nsubj	_	_
+6	일을	일+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+8	좋지만	좋+지만	ADJ	VA+EC	_	18	advcl	_	_
+9	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	사람들	사람+들	NOUN	NNG+XSN	_	13	nsubj	_	_
+11	함께	함께	ADV	MAG	_	13	advmod	_	_
+12	팀처럼	팀+처럼	ADV	NNG+JKB	_	13	obl	_	_
+13	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	18	advcl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	효과적이	효과+적+이	NOUN	NNG+XSN+VCP	_	17	acl	_	_
+16	좋은	좋+은	ADJ	VA+ETM	_	17	amod	_	_
+17	결과가	결과+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	있다고	있+다고	VERB	VV+EC	_	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CZH_09_3_03
+# text = 여러 사람 중에서 다양한 실력자들이 있는데 누가 무엇을 가장 제일 이해하거나 할 수 있는 것이 정리해 놓어서 일을 할 때 최고의 결과가 나온다.
+1	여러	여러	DET	MM	_	2	det	_	_
+2	사람	사람	NOUN	NNG	_	6	obl	_	_
+3	중에서	중+에서	ADV	NNB+JKB	_	2	case	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	실력자들이	실력자+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	있는데	있+는데	VERB	VV+EC	_	23	advcl	_	_
+7	누가	누구+가	PRON	NP+JKS	_	11	nsubj	_	_
+8	무엇을	무엇+을	PRON	NP+JKO	_	11	obj	_	_
+9	가장	가장	ADV	MAG	_	11	advmod	_	_
+10	제일	제일	ADV	MAG	_	11	advmod	_	_
+11	이해하거나	이해+하+거나	VERB	NNG+XSV+EC	_	23	advcl	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	것이	것+이	NOUN	NNB+JKS	_	16	nsubj	_	_
+16	정리해	정리+하+아	VERB	NNG+XSV+EC	_	17	advcl	_	_
+17	놓어서	놓+어서	VERB	VV+NA	Typo=Yes	11	conj	_	_
+18	일을	일+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	할	하+ㄹ	VERB	VV+ETM	_	23	advcl	_	_
+20	때	때	ADV	NNG	_	19	mark	_	_
+21	최고의	최고+의	NOUN	NNG+JKG	_	22	nmod:poss	_	_
+22	결과가	결과+가	NOUN	NNG+JKS	_	23	nsubj	_	_
+23	나온다	나오+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CZH_09_3_04
+# text = 다양한 성격의 사람들이 만날때 말다춤이 자꾸 생길 수도 있지만 중요한 목표를 위해 힘을 다 내고 최선을 다하면 결국에는 친한 우정을 만들 수 있다.
+1	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+2	성격의	성격+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	만날때	만나+ㄹ+때	NOUN	VV+ETM+NNG	_	9	advcl	_	_
+5	말다춤이	말다춤+이	NOUN	NF+JKS	Typo=Yes	7	nsubj	_	_
+6	자꾸	자꾸	ADV	MAG	_	7	advmod	_	_
+7	생길	생기+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있지만	있+지만	VERB	VX+EC	_	23	advcl	_	_
+10	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	목표를	목표+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	위해	위하+아	VERB	VV+EC	_	15	advcl	_	_
+13	힘을	힘+을	NOUN	NNG+JKO	_	15	obj	_	_
+14	다	다	ADV	MAG	_	17	advmod	_	_
+15	내고	내+고	VERB	VV+EC	_	17	advcl	_	_
+16	최선을	최선+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	다하면	다+하+면	VERB	MAG+VV+EC	_	23	advcl	_	_
+18	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	21	obl	_	_
+19	친한	친하+ㄴ	ADJ	VA+ETM	_	20	amod	_	_
+20	우정을	우정+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	만들	만들+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CZH_09_3_05
+# text = 팀의 역할을 잘 정리하면 성공할 것이 확실이다.
+1	팀의	팀+의	NOUN	NNP+JKG	_	2	nmod:poss	_	_
+2	역할을	역할+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	정리하면	정리+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
+5	성공할	성공+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	확실이다	확실+이+다	VERB	XR+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

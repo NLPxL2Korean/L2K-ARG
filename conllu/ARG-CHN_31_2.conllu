@@ -1,0 +1,110 @@
+# sent_id = ARG-CHN_31_2_01
+# text = 경쟁은 일시의 성공하에 큰 영향을 미칠 수 있지만 장기적인 성공을 위해서 협동은 더 중요하나고 생각합니다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	일시의	일시+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	성공하에	성공+하+에	ADV	NNG+NNB+JKB	_	6	obl	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미칠	미치+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있지만	있	AUX	VX+EC	_	14	advcl	_	_
+9	장기적인	장기+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	10	amod	_	_
+10	성공을	성공+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	위해서	위하+아서	VERB	VV+EC	_	14	advcl	_	_
+12	협동은	협동+은	NOUN	NNG+JX	_	14	nsubj	_	_
+13	더	더	ADV	MAG	_	15	advmod	_	_
+14	중요하나고	중요+하+나고	ADJ	XR+XSA+NA	Typo=Yes	15	ccomp	_	_
+15	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_31_2_02
+# text = 특기 학교에서, 학생들이 이미 심한 경쟁을 익숙하고 심험중에 높은 점수를 위하여 열심 자기공부 열심히 하는 현상은 많다.
+1	특기	특기	ADV	NA	Typo=Yes	18	advmod	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	18	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+5	이미	이미	ADV	MAG	_	8	advmod	_	_
+6	심한	심하+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	경쟁을	경쟁+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	익숙하고	익숙+하+고	ADJ	XR+XSA+EC	_	17	acl	_	_
+9	심험중에	심험+중+에	ADV	NF+NNB+JKB	Typo=Yes	16	obl	_	_
+10	높은	높+은	ADJ	VA+ETM	_	11	amod	_	_
+11	점수를	점수+를	NOUN	NNG+JKO	_	8	obj	_	_
+12	위하여	위하+아	VERB	VV+EC	_	16	advcl	_	_
+13	열심	열심	ADV	NNG	_	16	advmod	_	_
+14	자기공부	자기+공부	NOUN	NNG+NNG	_	16	obj	_	_
+15	열심히	열심히	ADV	MAG	_	16	advmod	_	_
+16	하는	하+는	VERB	VV+ETM	_	8	conj	_	_
+17	현상은	현상+은	NOUN	NNG+JX	_	18	nsubj	_	_
+18	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_31_2_03
+# text = 고등학생때부터 대학교, 대학관시절 까지 동료끼리의 협동과 교 류가아니고 단 경쟁과 익기적인 마음만 갖고 성장했다.
+1	고등학생때부터	고등학생+때+부터	NOUN	NNG+NNG+JX	_	15	obl	_	_
+2	대학교	대학교	NOUN	NNG	_	4	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	대학관시절	대학관+시절	NOUN	NF+NNG	Typo=Yes	15	obl	_	_
+5	까지	까지	ADP	JX	_	4	case	_	_
+6	동료끼리의	동료+끼리+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	협동과	협동+과	NOUN	NNG+JC	_	14	advcl	_	_
+8	교	교+류+가+아니+고	NOUN	NF+NF+JKS+VCN+EC	Typo=Yes	7	conj	_	_
+9	류가아니고	_	X	_	_	8	goeswith	_	_
+10	단	단	ADV	NA	Typo=Yes	15	advmod	_	_
+11	경쟁과	경쟁+과	NOUN	NNG+JC	_	14	obj	_	_
+12	익기적인	익기+적+이+ㄴ	ADJ	NF+XSN+VCP+ETM	Typo=Yes	13	amod	_	_
+13	마음만	마음+만	NOUN	NNG+JX	_	11	conj	_	_
+14	갖고	갖+고	VERB	VV+EC	_	15	advcl	_	_
+15	성장했다	성장+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_31_2_04
+# text = 이런 교육 채제를 인해 경제사회에 필요한는 기술 인제가 흥하지만 지식의 교환과 협조이 점점 필요하는 국제협동의 유행중에 이 인제들의 경쟁력 오히려 낮아진다.
+1	이런	이런	DET	MM	_	3	det	_	_
+2	교육	교육	NOUN	NNG	_	3	nmod	_	_
+3	채제를	채제+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	인해	인하+아	VERB	VV+EC	_	21	advcl	_	_
+5	경제사회에	경제+사회+에	ADV	NNG+NNG+JKB	_	6	obl	_	_
+6	필요한는	필요+하+ㄴ+는	VERB	NNG+XSV+ETM+NA	Typo=Yes	8	acl	_	_
+7	기술	기술	NOUN	NNG	_	8	nmod	_	_
+8	인제가	인제+가	NOUN	NF+JKS	Typo=Yes	9	nsubj	_	_
+9	흥하지만	흥하+지만	VERB	VV+EC	_	21	advcl	_	_
+10	지식의	지식+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	교환과	교환+과	NOUN	NNG+JC	_	14	nsubj	_	_
+12	협조이	협조+이	NOUN	NNG+JKS	_	11	conj	_	_
+13	점점	점점	ADV	MAG	_	11	advmod	_	_
+14	필요하는	필요+하+는	ADJ	NNG+XSA+ETM	_	15	acl	_	_
+15	국제협동의	국제+협동+의	NOUN	NNG+NNG+JKG	_	16	nmod:poss	_	_
+16	유행중에	유행+중+에	ADV	NNG+NNB+JKB	_	21	obl	_	_
+17	이	이	DET	MM	_	18	det	_	_
+18	인제들의	인제+들+의	NOUN	NF+XSN+JKG	Typo=Yes	19	nmod:poss	_	_
+19	경쟁력	경쟁력	NOUN	NNG	_	21	nsubj	_	_
+20	오히려	오히려	ADV	MAG	_	21	advmod	_	_
+21	낮아진다	낮+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_31_2_05
+# text = 그래서 호조와 협동은 더 진밀한 사화환경을 형성시킬 수 있는 뿐만 아니라 공동 성공을 위해 힘이 될 수 있는 점이 더 중요하다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	22	cc	_	_
+2	호조와	호조+와	NOUN	NF+JC	Typo=Yes	7	nsubj	_	_
+3	협동은	협동+은	NOUN	NF+JX	Typo=Yes	2	conj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	진밀한	진밀+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	6	amod	_	_
+6	사화환경을	사화+환경+을	NOUN	NF+NNG+JKO	Typo=Yes	7	obj	_	_
+7	형성시킬	형성+시키+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있는	있+는	VERB	VX+ETM	_	10	acl	_	_
+10	뿐만	뿐+만	NOUN	NNB+JX	_	11	nsubj	_	_
+11	아니라	아니+라	ADJ	VCN+EC	_	22	advcl	_	_
+12	공동	공동	NOUN	NNG	_	13	nmod	_	_
+13	성공을	성공+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	위해	위하+아	VERB	VV+EC	_	16	advcl	_	_
+15	힘이	힘+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	될	되+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있는	있+는	VERB	VX+ETM	_	19	acl	_	_
+19	점이	점+이	NOUN	NNB+JKS	_	21	nsubj	_	_
+20	더	더	ADV	MAG	_	21	advmod	_	_
+21	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	22	ccomp	_	_
+22	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_

@@ -1,0 +1,53 @@
+# sent_id = ARG-JPN_30_2_01
+# text =  저는 역사를 배우는 것이 좋다라고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	좋다라고	좋+다+라고	VERB	VA+EC+JKQ	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_30_2_02
+# text =  이유는 국가간에서 있었던 사고를 알고 있으면 미래에 다시 이런 것이 하면 안 됀다 라고 생각할 수 있습니다.
+1	이유는	이유+는	NOUN	NNG+JX	_	17	dislocated	_	_
+2	국가간에서	국가간+에서	ADV	NNG+NNB+JKB	_	3	obl	_	_
+3	있었던	있+었+던	VERB	VV+EP+ETM	_	4	acl	_	_
+4	사고를	사고+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	알고	알+고	VERB	VV+EC	_	17	advcl	_	_
+6	있으면	있+으면	AUX	VX+EC	_	5	aux	_	_
+7	미래에	미래+에	ADV	NNG+JKB	_	11	obl	_	_
+8	다시	다시	ADV	MAG	_	11	advmod	_	_
+9	이런	이런	DET	MM	_	10	det	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	하면	하+면	VERB	VV+EC	_	13	advcl	_	_
+12	안	안	ADV	MAG	_	13	advmod	_	_
+13	됀다	돼+ㄴ다	VERB	NV+EF	_	15	ccomp	_	_
+14	라고	라고	ADP	JKQ	_	13	case	_	_
+15	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_30_2_03
+# text =  그리고 세계의 모두가 핸복에 살기 위해서는 어떻게 해야 한다 라고 생각해서 좋은 행동을 하려고 하는 사람도 많아지게 된다고 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	19	cc	_	_
+2	세계의	세계+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	모두가	모두+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	핸복에	핸복+에	ADV	NF+JKB	_	5	obl	_	_
+5	살기	살+기	NOUN	VV+ETN	_	6	obj	_	_
+6	위해서는	위하+아서+는	VERB	VV+EC+JX	_	8	advcl	_	_
+7	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+8	해야	하+아야	VERB	VV+EC	_	11	ccomp	_	_
+9	한다	하+ㄴ다	AUX	VX+EF	_	8	aux	_	_
+10	라고	라고	ADP	JKQ	_	9	case	_	_
+11	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	14	advcl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	행동을	행동+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	하려고	하+려고	VERB	VV+EC	_	16	acl	_	_
+15	하는	하+는	AUX	VX+ETM	_	14	aux	_	_
+16	사람도	사람+도	NOUN	NNG+JX	_	17	nsubj	_	_
+17	많아지게	많+아지+게	VERB	VA+XSV+EC	_	19	ccomp	_	_
+18	된다고	되+ㄴ다고	VERB	VX+EC	_	17	advcl	_	_
+19	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

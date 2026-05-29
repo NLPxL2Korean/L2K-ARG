@@ -1,0 +1,126 @@
+# sent_id = ARG-CZH_33_1_01
+# text = 아이들이 다른 언어를 공부하면 제 생각에 좋은 것이다.
+1	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	제	저+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	생각에	생각+에	ADV	NNG+JKB	_	7	obl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_33_1_02
+# text = 왜냐하면 아이들이 많은 것이 아직 무르기 대문에 다른 언어를 쉽게 배울 수 있다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	13	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	dislocated	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+5	아직	아직	ADV	MAG	_	6	advmod	_	_
+6	무르기	무르+기	NOUN	NV+ETN	Typo=Yes	11	obl	_	_
+7	대문에	대문+에	ADV	NF+JKB	Typo=Yes	6	case	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+10	쉽게	쉽+게	ADV	VA+EC	_	11	advmod	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_33_1_03
+# text = 하지만 한 사람 많은 언어로 아이들에게 말씀하면 아이들이 그 언어들이 해가릴 수 있다.
+1	하지만	하지만	ADV	MAJ	_	13	cc	_	_
+2	한	한	NUM	MM	_	3	nummod	_	_
+3	사람	사람	NOUN	NNG	_	7	nsubj	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	언어로	언어+로	ADV	NNG+JKB	_	7	obl	_	_
+6	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	말씀하면	말씀+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+8	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	13	dislocated	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	언어들이	언어+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	해가릴	해가리+ㄹ	VERB	NV+ETM	Typo=Yes	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_33_1_04
+# text = 그래서 제 생각으로 부모님 한 명 체코로만 말씀하면 그 다른 부모님 영어로만 말씀하면 문제가 없다.
+1	그래서	그래서	ADV	MAJ	_	15	cc	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각으로	생각+으로	ADV	NNG+JKB	_	15	obl	_	_
+4	부모님	부모+님	NOUN	NNG+XSN	_	8	nsubj	_	_
+5	한	한	DET	MM	_	4	appos	_	_
+6	명	명	NOUN	NNB	_	5	case	_	_
+7	체코로만	체코+로+만	ADV	NNP+JKB+JX	_	8	obl	_	_
+8	말씀하면	말씀+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+9	그	그	DET	MM	_	11	det	_	_
+10	다른	다르+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	부모님	부모+님	NOUN	NNG+XSN	_	13	nsubj	_	_
+12	영어로만	영어+로+만	ADV	NNG+JKB+JX	_	13	obl	_	_
+13	말씀하면	말씀+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+14	문제가	문제+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_33_1_05
+# text = 요즘도 아이들이 학교에서 다른 언어를 공부하고 있다.
+1	요즘도	요즘+도	ADV	NNG+JX	_	6	advmod	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+7	있다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_33_1_06
+# text = 제 생각으로 그 것이 좋지 않다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각으로	생각+으로	ADV	NNG+JKB	_	5	obl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+6	않다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_33_1_07
+# text = 왜냐하면 아이들이 먼저 단어를 공부하고 문법도 공부해야한다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	5	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	먼저	먼저	ADV	MAG	_	5	advmod	_	_
+4	단어를	단어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+6	문법도	문법+도	NOUN	NNG+JX	_	7	obj	_	_
+7	공부해야한다	공부+하+아야+하+ㄴ다	VERB	NNG+XSV+EC+VX+EF	_	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_33_1_08
+# text = 하지만 아이들이 그 다른 언어를 자주 들으면서 배울 수 있다고 생각 하다.
+1	하지만	하지만	ADV	MAJ	_	11	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+3	그	그	DET	MM	_	5	det	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	자주	자주	ADV	MAG	_	7	advmod	_	_
+7	들으면서	듣+으면서	VERB	VV+EC	_	8	advcl	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다고	있+다고	VERB	VX+EC	_	11	ccomp	_	_
+11	생각	생각+하+다	VERB	NNG+XSV+EF	Typo=Yes	0	root	_	_
+12	하다	_	X	_	_	11	goeswith	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_33_1_09
+# text = 그리고 제 생각에 다른 언어를 할 수 있는 것이 좋다.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각에	생각+에	ADV	NNG+JKB	_	10	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

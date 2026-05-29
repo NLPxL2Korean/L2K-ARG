@@ -1,0 +1,80 @@
+# sent_id = ARG-CHN_16_2_01
+# text = 협동은 성공에 더 큰 영향을 미친다.
+1	협동은	협동+은	NOUN	NNP+JX	_	6	nsubj	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_16_2_02
+# text = 왜냐하면 팀의 능력은 너무 큰데 저희 같이 일을 하면 더욱이 효과적인 성과를 받을 수 있다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	15	cc	_	_
+2	팀의	팀+의	NOUN	NNP+JKG	_	3	nmod:poss	_	_
+3	능력은	능력+은	NOUN	NNG+JX	_	5	nsubj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	큰데	크+ㄴ데	ADJ	VA+EC	_	15	advcl	_	_
+6	저희	저희	PRON	NP	_	9	nsubj	_	_
+7	같이	같이	ADV	MAG	_	9	advmod	_	_
+8	일을	일+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	하면	하+면	VERB	VV+EC	_	15	advcl	_	_
+10	더욱이	더욱이	ADV	MAG	_	13	advmod	_	_
+11	효과적인	효과+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	성과를	성과+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	받을	받+을	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_16_2_03
+# text = 사람마다 다른 특징도 있고 다른 의건도 있는데 저희 같이 일을 할 때 다양한 방법을 생길 수 있다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	4	obl	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	특징도	특징+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있고	있+고	VERB	VV+EC	_	15	advcl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	의건도	의건+도	NOUN	NF+JX	Typo=Yes	7	nsubj	_	_
+7	있는데	있+는데	VERB	VV+EC	_	4	conj	_	_
+8	저희	저희	PRON	NP	_	11	nsubj	_	_
+9	같이	같이	ADV	MAG	_	11	advmod	_	_
+10	일을	일+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	15	advcl	_	_
+12	때	때	ADV	NNG	_	11	mark	_	_
+13	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	14	amod	_	_
+14	방법을	방법+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	생길	생기+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_16_2_04
+# text = 성공은 많은 정의가 있다.
+1	성공은	성공+은	NOUN	NNG+JX	_	4	dislocated	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	정의가	정의+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_16_2_05
+# text = 많은 친구가 사귈 수 있는 것도 성공이 이다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	친구가	친구+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	사귈	사귀+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있는	있+는	VERB	VX+ETM	_	6	acl	_	_
+6	것도	것+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	성공이	성공+이	NOUN	NNG+NA	Typo=Yes	0	root	_	_
+8	이다	이+다	ADJ	VCP+EF	_	7	flat	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_16_2_06
+# text = 인생의 성공 위해서 저희는 협동을 선택해야 한다.
+1	인생의	인생+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	성공	성공	NOUN	NNG	_	3	obj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	6	advcl	_	_
+4	저희는	저희+는	PRON	NP+JX	_	6	nsubj	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선택해야	선택+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+7	한다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_

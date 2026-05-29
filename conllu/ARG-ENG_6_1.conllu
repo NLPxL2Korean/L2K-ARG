@@ -1,0 +1,512 @@
+# sent_id = ARG-ENG_06_1_01
+# text = 사회를 나가는 것은 점점 힘들수록 부모님으로서 아이들에게 최대한 기회를 주고 싶은 마음이 커진다.
+1	사회를	사회+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	나가는	나가+는	VERB	VV+ETM	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	5	nsubj	_	_
+4	점점	점점	ADV	MAG	_	5	advmod	_	_
+5	힘들수록	힘들+ㄹ수록	ADJ	VA+EC	_	13	advcl	_	_
+6	부모님으로서	부모+님+으로서	ADV	NNG+XSN+JKB	_	10	obl	_	_
+7	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	10	obl	_	_
+8	최대한	최대한	ADV	MAG	_	10	advmod	_	_
+9	기회를	기회+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	주고	주+고	VERB	VV+EC	_	12	acl	_	_
+11	싶은	싶	AUX	VX+ETM	_	10	aux	_	_
+12	마음이	마음+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	커진다	커지+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_06_1_01
+# text = 우리 세계에있는 사회들 점점 더 국제적인으로 다 되고있어요.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	세계에있는	세계+에+있+는	ADV	NNG+JKB+VV+ETM	_	3	acl	_	_
+3	사회들	사회+들	NOUN	NNG+XSN	_	8	nsubj	_	_
+4	점점	점점	ADV	MAG	_	8	advmod	_	_
+5	더	더	ADV	MAG	_	8	advmod	_	_
+6	국제적인으로	국제+적+이+ㄴ+으로	ADV	NNG+XSN+VCP+ETM+JKB	_	8	obl	_	_
+7	다	다	ADV	MAG	_	8	advmod	_	_
+8	되고있어요	되+고+있+어요	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_06_1_02
+# text = 조기 언어교육을 비롯한 기회들은 긍정적일수도 있고 부정적일 수도 있으나 여러 관점을 봐야 아이들에게 좋은 선택인지 결정할 수 있다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	비롯한	비롯+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	기회들은	기회+들+은	NOUN	NNG+XSN+JX	_	6	dislocated	_	_
+5	긍정적일수도	긍정+적+이+ㄹ+수+도	NOUN	NNG+XSN+VCP+ETM+NNB+JX	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	12	advcl	_	_
+7	부정적일	부정+적+이+ㄹ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있으나	있+으나	VERB	VX+EC	_	6	conj	_	_
+10	여러	여러	DET	MM	_	11	det	_	_
+11	관점을	관점+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	봐야	보+아야	VERB	VV+EC	_	18	advcl	_	_
+13	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	14	obl	_	_
+14	좋은	좋+은	ADJ	VA+ETM	_	15	acl	_	_
+15	선택인지	선택+이+ㄴ지	ADJ	NNG+VCP+EC	_	16	ccomp	_	_
+16	결정할	결정+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_06_1_02
+# text = 이새대의 애들은 이 국제적인 사회랑 경제 에서 송공하고 싶으면 다연하거 외국언어 필요합니다.
+1	이새대의	이+새대+의	NOUN	MM+NF+JKG	_	2	nmod:poss	_	_
+2	애들은	애+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+3	이	이	DET	MM	_	5	det	_	_
+4	국제적인	국제+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+5	사회랑	사회+랑	NOUN	NNG+JC	_	8	obl	_	_
+6	경제	경제	NOUN	NNG	_	5	conj	_	_
+7	에서	에서	ADP	JKB	_	6	case	_	_
+8	송공하고	송공+하+고	VERB	NF+XSV+EC	_	12	advcl	_	_
+9	싶으면	싶+으면	AUX	VX+EC	_	8	aux	_	_
+10	다연하거	다연+하+거	VERB	NF+XSA+EC	_	12	advcl	_	_
+11	외국언어	외국+언어	NOUN	NNG+NNG	_	12	nsubj	_	_
+12	필요합니다	필요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_06_1_03
+# text = 이번 에세이에서 조기 언어교육은 아이들에게 좋다는 목표로 설명하겠다.
+1	이번	이번	NOUN	NNG	_	2	nmod	_	_
+2	에세이에서	에세이+에서	ADV	NNG+JKB	_	8	obl	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	6	nsubj	_	_
+5	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	좋다는	좋+다는	ADJ	VA+ETM	_	7	acl	_	_
+7	목표로	목표+로	ADV	NNG+JKB	_	8	obl	_	_
+8	설명하겠다	설명+하+겠+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_06_1_03
+# text = 그래도 우리는 조기언어교육의 새러운 방법 찾아야돼요.
+1	그래도	그래도	ADV	MAJ	_	6	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	5	nmod:poss	_	_
+4	새러운	새겁+ㄴ	VERB	NV+EC	_	5	amod	_	_
+5	방법	방법	NOUN	NNG	_	6	obj	_	_
+6	찾아야돼요	찾+아야+되+어요	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_1_04
+# text = 일단은 현황에서 보자면 일을 구할 수 있는 기회들이 빠른 속도로 줄이고 있다.
+1	일단은	일단+은	ADV	MAG+JX	_	3	advmod	_	_
+2	현황에서	현황+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	보자면	보+자면	VERB	VV+EC	_	11	advcl	_	_
+4	일을	일+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	구할	구하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	기회들이	기회+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+9	빠른	빠르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	속도로	속도+로	ADV	NNG+JKB	_	11	obl	_	_
+11	줄이고	줄+이+고	VERB	VV+XSV+EC	_	0	root	_	_
+12	있다	있	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_06_1_04
+# text = 대한민국에 있는 애들 다른 나라 애들보다 영어 더 일찍 시작하고 더 많이 공부하지만 영어 잘 사용한 어른 만든는지 확실히 아니에요.
+1	대한민국에	대한민국+에	ADV	NNP+JKB	_	2	obl	_	_
+2	있는	있+는	VERB	VV+ETM	_	3	acl	_	_
+3	애들	애+들	NOUN	NNG	_	13	nsubj	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	나라	나라	NOUN	NNG	_	6	nmod	_	_
+6	애들보다	애들+보다	ADV	NNG+JKB	_	10	obl	_	_
+7	영어	영어	NOUN	NNG	_	10	obj	_	_
+8	더	더	ADV	MAG	_	10	advmod	_	_
+9	일찍	일찍	ADV	MAG	_	10	advmod	_	_
+10	시작하고	시작+하+고	VERB	NNG+XSV+EC	_	13	advcl	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	많이	많이	ADV	MAG	_	13	advmod	_	_
+13	공부하지만	공부+하+지만	VERB	NNG+XSV+EC	_	20	advcl	_	_
+14	영어	영어	NOUN	NNG	_	16	obj	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	사용한	사용+하+ㄴ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	어른	어른	NOUN	NNG	_	18	obj	_	_
+18	만든는지	만들+ㄴ+는지	VERB	VV+NA+EC	_	20	csubj	_	_
+19	확실히	확실히	ADV	MAG	_	20	advmod	_	_
+20	아니에요	아니+에요	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_06_1_05
+# text = 게다가 대부분 대학교일 뿐만 아니라 석사까지 하는 사람들이 많다.
+1	게다가	게다가	ADV	MAG	_	9	advmod	_	_
+2	대부분	대부분	NOUN	NNG	_	3	nsubj	_	_
+3	대학교일	대학교+이+ㄹ	ADJ	NNG+VCP+ETM	_	4	acl	_	_
+4	뿐만	뿐+만	NOUN	NNB+JX	_	5	nsubj	_	_
+5	아니라	아니+라	ADJ	VCN+EC	_	9	advcl	_	_
+6	석사까지	석사+까지	ADV	NNG+JKB	_	7	obl	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_06_1_05
+# text = 어린 나이 부터 언어 배운는 것을 애들 다른 과목에 실력 더 얼리는것 확실히 하고 외국 언어 가능한 사람들이 일자리 더 많이 있지만 한국에 있는 조기 언어 교육의 방법때문에 애들 스트레스 너무 받아서 결과 안좋아요.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이	나이	NOUN	NNG	_	5	obl	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	언어	언어	NOUN	NNG	_	5	obj	_	_
+5	배운는	배우+ㄴ+는	VERB	VV+ETM+ETM	_	6	acl	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	14	nsubj	_	_
+7	애들	애+들	NOUN	NNG+EC	_	12	nsubj	_	_
+8	다른	다른	ADJ	MM	_	9	amod	_	_
+9	과목에	과목+에	ADV	NNG+JKB	_	12	obl	_	_
+10	실력	실력	NOUN	NNG	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	얼리는것	얼리+는+것	NOUN	NV+ETM+NNB	_	14	obj	_	_
+13	확실히	확실히	ADV	MAG	_	14	advmod	_	_
+14	하고	하+고	VERB	VV+EC	_	22	advcl	_	_
+15	외국	외국	NOUN	NNG	_	16	nmod	_	_
+16	언어	언어	NOUN	NNG	_	17	nsubj	_	_
+17	가능한	가능+하+ㄴ	VERB	NNG+XSA+ETM	_	18	acl	_	_
+18	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	22	dislocated	_	_
+19	일자리	일자리	NOUN	NNG	_	12	nsubj	_	_
+20	더	더	ADV	MAG	_	22	advmod	_	_
+21	많이	많이	ADV	MAG	_	22	advmod	_	_
+22	있지만	있+지만	VERB	VV+EC	_	34	advcl	_	_
+23	한국에	한국+에	ADV	NNP+JKB	_	24	obl	_	_
+24	있는	있+는	VERB	VV+ETM	_	27	acl	_	_
+25	조기	조기	NOUN	NNG	_	28	nmod:poss	_	_
+26	언어	언어	NOUN	NNG	_	25	flat	_	_
+27	교육의	교육+의	NOUN	NNG+JKG	_	25	flat	_	_
+28	방법때문에	방법+때문+에	ADV	NNG+NNB+JKB	_	32	obl	_	_
+29	애들	애+들	NOUN	NNG+XSN	_	32	nsubj	_	_
+30	스트레스	스트레스	NOUN	NNG	_	32	obj	_	_
+31	너무	너무	ADV	MAG	_	32	advmod	_	_
+32	받아서	받+아서	VERB	VV+EC	_	34	advcl	_	_
+33	결과	결과	NOUN	NNG	_	34	nsubj	_	_
+34	안좋아요	안+좋+아요	ADJ	MAG+VA+EF	_	0	root	_	SpaceAfter=No
+35	.	.	PUNCT	SF	_	34	punct	_	_
+
+# sent_id = ARG-ENG_06_1_06
+# text = 그래서 아이들은 취급을 잘 할 수 있게 조기 언어 언어교육은 무조건 필요하다.
+1	그래서	그래서	ADV	MAJ	_	12	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+3	취급을	취급+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있게	있+게	VERB	VX+EC	_	12	advcl	_	_
+8	조기	조기	NOUN	NNG	_	9	nmod	_	_
+9	언어	언어	NOUN	NNG	_	10	nmod	_	_
+10	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	12	nsubj	_	_
+11	무조건	무조건	ADV	MAG	_	12	advmod	_	_
+12	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_06_1_06
+# text = 첫번째 생각해야돼는 포인트는 인간들에게 제일 자유수러운 등력은 언어예요.
+1	첫번째	첫+번째	NOUN	MM+NNB	_	2	obl	_	_
+2	생각해야돼는	생각+하+아야+되+어+는	VERB	NNG+XSV+EC+VX+NA+ETM	_	3	acl	_	_
+3	포인트는	포인트+는	NOUN	NNG+JX	_	8	nsubj	_	_
+4	인간들에게	인간+들+에게	NOUN	NNG+XSN+JKB	_	6	obl	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	자유수러운	자유+수럽+ㄴ	VERB	NNG+NA+ETM	_	7	acl	_	_
+7	등력은	등력+은	NOUN	NNG+JX	_	8	nsubj	_	_
+8	언어예요	언어+이+에요	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_06_1_07
+# text = 당연히, 아이들은 어려서 교육만 시킬 수 없는 사람들 있겠지만, 나중에 다른 언어를 유창하게 사용할 수 없으면 일 기회를 사라질 것이다.
+1	당연히	당연히	ADV	MAG	_	10	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+4	어려서	어리+어서	ADJ	VA+EC	_	10	advcl	_	_
+5	교육만	교육+만	NOUN	NNG+JX	_	6	obj	_	_
+6	시킬	시키+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없는	없+는	ADJ	VA+ETM	_	9	acl	_	_
+9	사람들	사람+들	NOUN	NNG+XSN	_	10	nsubj	_	_
+10	있겠지만	있+겠+지만	VERB	VV+EP+EC	_	22	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	나중에	나중+에	ADV	NNG+JKB	_	18	obl	_	_
+13	다른	다르+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	언어를	언어+를	NOUN	NNG+JKO	_	16	obj	_	_
+15	유창하게	유창+하+게	ADV	XR+XSA+EC	_	16	advmod	_	_
+16	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	없으면	없+으면	ADJ	VA+EC	_	22	advcl	_	_
+19	일	일	NOUN	NNG	_	20	nmod	_	_
+20	기회를	기회+를	NOUN	NNG+JKO	_	21	obj	_	_
+21	사라질	사라지+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-ENG_06_1_07
+# text = 언어로 우리는 새상을 경험할수있어요.
+1	언어로	언어+로	ADV	NNG+JKB	_	4	obl	_	_
+2	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+3	새상을	새상+을	NOUN	NF+JKO	_	4	obj	_	_
+4	경험할수있어요	경험+하+ㄹ+수+있+어요	VERB	NNG+XSV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_06_1_08
+# text = 다음으로, 나이가 많은 것과 달리 어릴 때 아이들은 새로운 언어를 쉽게 배울 수 있다.
+1	다음으로	다음+으로	ADV	NNG+JKB	_	15	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	나이가	나이+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	acl	_	_
+5	것과	것+과	ADV	NNB+JKB	_	6	obl	_	_
+6	달리	달리	ADV	MAG	_	13	advcl	_	_
+7	어릴	어리+ㄹ	VERB	VV+ETM	_	13	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+10	새로운	새롭+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	언어를	언어+를	NOUN	NNG+JKO	_	13	obj	_	_
+12	쉽게	쉽+게	ADV	VA+EC	_	13	advmod	_	_
+13	배울	배우+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_06_1_08
+# text = 본 색깔도 좋아하는 맛도 불편한 느낌도 - 언어 없으면 다 설명할수없어요.
+1	본	보+ㄴ	VERB	VV+ETM	_	2	acl	_	_
+2	색깔도	색깔+도	NOUN	NNG+JX	_	11	obj	_	_
+3	좋아하는	좋아하+는	VERB	VV+ETM	_	4	acl	_	_
+4	맛도	맛+도	NOUN	NNG+JX	_	9	conj	_	_
+5	불편한	불편+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	느낌도	느낌+도	NOUN	NNG+JX	_	9	conj	_	_
+7	-	-	NOUN	SO	_	6	punct	_	_
+8	언어	언어	NOUN	NNG	_	9	nsubj	_	_
+9	없으면	없+으면	VERB	VA+EC	_	11	advcl	_	_
+10	다	다	ADV	MAG	_	9	advmod	_	_
+11	설명할수없어요	설명+하+ㄹ+수+없+어요	VERB	NNG+XSV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_06_1_09
+# text = 왜냐하면 아이들의 뇌 발달은 아직 끝나지 않기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	8	cc	_	_
+2	아이들의	아이+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+3	뇌	뇌	NOUN	NNG	_	4	nmod	_	_
+4	발달은	발달+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	아직	아직	ADV	MAG	_	6	advmod	_	_
+6	끝나지	끝나+지	VERB	VV+EC	_	8	nmod	_	_
+7	않기	않	AUX	VX+ETN	_	6	aux	_	_
+8	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_06_1_09
+# text = 어릴때 애들 언어 위해서 배고파요.
+1	어릴때	어리+ㄹ+때	ADJ	VA+ETM+NNG	_	5	obl	_	_
+2	애들	애+들	NOUN	NNG	_	3	nmod	_	_
+3	언어	언어	NOUN	NNG	_	4	obj	_	_
+4	위해서	위하+아서	VERB	VV+EC	_	5	advcl	_	_
+5	배고파요	배고프+아요	VERB	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_06_1_10
+# text = 그래서 일찍 가르치는 것은 맞다고 본다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	가르치는	가르치+는	VERB	VV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	5	nsubj	_	_
+5	맞다고	맞+다고	VERB	VV+EC	_	6	ccomp	_	_
+6	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_06_1_10
+# text = 자기 본 세상 어른에게 설명 하고 싶고 이 나이 에 뇌가 활동 제일 많아요.
+1	자기	자기	PRON	NP	_	2	nsubj	_	_
+2	본	보+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	세상	세상	NOUN	NNG	_	6	obj	_	_
+4	어른에게	어른+에게	ADV	NP+JKB	_	6	obl	_	_
+5	설명	설명	NOUN	NNG	_	6	obj	_	_
+6	하고	하+고	VERB	VV+EC	_	14	advcl	_	_
+7	싶고	싶+고	AUX	VX+EC	_	6	aux	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	나이	나이	NOUN	NNG	_	14	obl	_	_
+10	에	에	ADP	JKB	_	9	case	_	_
+11	뇌가	뇌+가	VERB	VV+EC	_	14	dislocated	_	_
+12	활동	활동	NOUN	NNG	_	14	nsubj	_	_
+13	제일	제일	ADV	MAG	_	14	advmod	_	_
+14	많아요	많+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_06_1_11
+# text = 그러나 치매를 일찍 멈추고 싶다면 나이 많아도 배울 수 있지만 그래도 여러 연구에 의하면 일찍 배우는 것은 훨씬 더 나았다고 한다.
+1	그러나	그러나	ADV	MAJ	_	21	cc	_	_
+2	치매를	치매+를	NOUN	NF+JKO	Typo=Yes	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	멈추고	멈추+고	VERB	VV+EC	_	10	advcl	_	_
+5	싶다면	싶	AUX	VX+EC	_	4	aux	_	_
+6	나이	나이	NOUN	NNG	_	7	nsubj	_	_
+7	많아도	많+아도	ADJ	VA+EC	_	8	advcl	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있지만	있+지만	VERB	VX+EC	_	21	advcl	_	_
+11	그래도	그래도	ADV	MAJ	_	21	cc	_	_
+12	여러	여러	DET	MM	_	13	det	_	_
+13	연구에	연구+에	ADV	NNG+JKB	_	14	obl	_	_
+14	의하면	의하+면	VERB	VV+EC	_	21	advcl	_	_
+15	일찍	일찍	ADV	MAG	_	16	advmod	_	_
+16	배우는	배우+는	VERB	VV+ETM	_	17	acl	_	_
+17	것은	것+은	NOUN	NNB+JX	_	20	nsubj	_	_
+18	훨씬	훨씬	ADV	MAG	_	20	advmod	_	_
+19	더	더	ADV	MAG	_	20	advmod	_	_
+20	나았다고	낫+았+다고	ADJ	VA+EP+EC	_	21	ccomp	_	_
+21	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_06_1_11
+# text = 더 쉽게 언어 배우는 시간 없어서 가르칠수 있으면 좋아요.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	쉽게	쉽+게	ADV	VA+EC	_	4	advmod	_	_
+3	언어	언어	NOUN	NNG	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	시간	시간	NOUN	NNB	_	6	nsubj	_	_
+6	없어서	없+어서	VERB	VA+EC	_	9	advcl	_	_
+7	가르칠수	가르치+ㄹ+수	NOUN	VV+ETM+NNB	_	8	nsubj	_	_
+8	있으면	있+으면	VERB	VX+EC	_	9	advcl	_	_
+9	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_06_1_12
+# text = 마지막으로 비판하고 있는 사람들은 조기 언어교육은 아이들에게 힘들 수 있다고 시간이 낭비한다고 볼 수 있으나 내 경우에는 나이를 먹을수록 새로운 언어를 안 배우면 후회를 커지므로 부조건 조기언어교육이 부정적인 거보다 긍정적으로 볼 수 있다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	33	obl	_	_
+2	비판하고	비판+하+고	VERB	NNG+XSV+EC	_	4	acl	_	_
+3	있는	있	AUX	VX+ETM	_	2	aux	_	_
+4	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+5	조기	조기	NOUN	NNG	_	6	nmod	_	_
+6	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	8	nsubj	_	_
+7	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	8	obl	_	_
+8	힘들	힘들+ㄹ	ADJ	VA+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다고	있+다고	VERB	VX+EC	_	12	advcl	_	_
+11	시간이	시간+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	낭비한다고	낭비+하+ㄴ다고	VERB	NNG+XSV+EC	_	13	ccomp	_	_
+13	볼	보+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있으나	있+으나	VERB	VX+EC	_	33	advcl	_	_
+16	내	나+의	PRON	NP+JKG	_	17	nmod:poss	_	_
+17	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	33	obl	_	_
+18	나이를	나이+를	NOUN	NNG+JKO	_	19	obj	_	_
+19	먹을수록	먹+을수록	VERB	VV+EC	_	25	advcl	_	_
+20	새로운	새롭+ㄴ	ADJ	VA+ETM	_	21	amod	_	_
+21	언어를	언어+를	NOUN	NNG+JKO	_	23	obj	_	_
+22	안	안	ADV	MAG	_	23	advmod	_	_
+23	배우면	배우+면	VERB	VV+EC	_	25	advcl	_	_
+24	후회를	후회+를	NOUN	NNG+JKO	_	25	obj	_	_
+25	커지므로	커지+므로	VERB	VV+EC	_	33	advcl	_	_
+26	부조건	부조건	ADV	NA	Typo=Yes	28	advmod	_	_
+27	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	28	nsubj	_	_
+28	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	29	amod	_	_
+29	거보다	거+보다	ADV	NNB+JKB	_	31	obl	_	_
+30	긍정적으로	긍정+적+으로	ADV	NNG+XSN+JKB	_	31	obl	_	_
+31	볼	보+ㄹ	VERB	VV+ETM	_	32	acl	_	_
+32	수	수	NOUN	NNB	_	33	nsubj	_	_
+33	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+34	.	.	PUNCT	SF	_	33	punct	_	_
+
+# sent_id = ARG-ENG_06_1_12
+# text = 다음에 미래에서 애들 영어있나 중국있나 확실한 것은 - 언어 필요해요.
+1	다음에	다음+에	ADV	NNG+JKB	_	6	obl	_	_
+2	미래에서	미래+에서	ADV	NF+JKB	_	6	obl	_	_
+3	애들	애+들	NOUN	NNG	_	6	obl	_	_
+4	영어있나	영어+있+나	VERB	NNP+VV+EC	_	6	ccomp	_	_
+5	중국있나	중국+있+나	NOUN	NNP+VV+EC	_	6	ccomp	_	_
+6	확실한	확실+하+ㄴ	ADJ	XR+XSA+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	10	dislocated	_	_
+8	-	-	NOUN	SO	_	7	punct	_	_
+9	언어	언어	NOUN	NNG	_	10	nsubj	_	_
+10	필요해요	필요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_06_1_13
+# text = 우리 국제적 세상에서 일하고싶으면 외국 언어 잘 한 사람들이 매력있어요.
+1	우리	우리	PRON	NP	_	4	nsubj	_	_
+2	국제적	국제+적	ADJ	NNG+XSN	_	3	amod	_	_
+3	세상에서	세상+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	일하고싶으면	일+하+고+싶+으면	VERB	NNG+XSV+EC+VX+EC	_	10	advcl	_	_
+5	외국	외국	NOUN	NNG	_	6	nmod	_	_
+6	언어	언어	NOUN	NNG	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	한	하+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+10	매력있어요	매력+있+어요	ADJ	NNG+VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_06_1_14
+# text = 언어 잘 공부하면 그살람 힘든일 잘 참을 수있고 길게 집중할수있는 것 더 보여요.
+1	언어	언어	NOUN	NNG	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+4	그살람	그+살람	NOUN	MM+NF	_	7	nsubj	_	_
+5	힘든일	힘들+ㄴ+일	VERB	VA+ETM+NNG	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	참을	참+을	VERB	VV+ETM	_	8	acl	_	_
+8	수있고	수+있+고	VERB	NNB+VX+EC	_	13	advcl	_	_
+9	길게	길+게	ADV	VA+EC	_	10	advmod	_	_
+10	집중할수있는	집중+하+ㄹ+수+있+는	VERB	NNG+XSV+ETM+NNB+VX+ETM	_	11	acl	_	_
+11	것	것	NOUN	NNB	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	보여요	보+이+어요	ADJ	VV+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_06_1_15
+# text = 애들 일직 시작 하면 능력 기우면 애들 에게 미래위한큰 전물이에요 하지만 우리나라의 공부방법은 문제예요.
+1	애들	애+들	NOUN	NNG	_	4	nsubj	_	_
+2	일직	일직	NOUN	NA	_	1	advmod	_	_
+3	시작	시작	NOUN	NNG	_	4	obj	_	_
+4	하면	하+면	VERB	VV+EC	_	6	advcl	_	_
+5	능력	능력	NOUN	NNG	_	6	obj	_	_
+6	기우면	기우+면	VERB	NV+EC	_	10	advcl	_	_
+7	애들	애+들	NOUN	NNG+XSN	_	10	obl	_	_
+8	에게	에게	ADV	JKB	_	7	case	_	_
+9	미래위한큰	미래+위하+ㄴ+크+ㄴ	VERB	NNG+VV+ETM+VA+ETM	_	10	acl	_	_
+10	전물이에요	전물+이+에요	VERB	NF+VCP+EF	_	14	advcl	_	_
+11	하지만	하+지만	VERB	VV+EC	_	14	advcl	_	_
+12	우리나라의	우리+나라+의	NOUN	NP+NNG+JKG	_	13	nmod:poss	_	_
+13	공부방법은	공부+방법+은	NOUN	NNG+NNG+JX	_	14	nsubj	_	_
+14	문제예요	문제+이+에요	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_06_1_16
+# text = 애들 뇌의 나이 산관 없이 어린 나이부터 위우는 것 시키고 애들 언어 힘든게생각을 생겨요.
+1	애들	애+들	NOUN	NNG+XSN	_	2	nmod	_	_
+2	뇌의	뇌+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	나이	나이	NOUN	NNG	_	5	obl	_	_
+4	산관	산관	NOUN	NF	_	5	nsubj	_	_
+5	없이	없이	VERB	MAG	_	10	advcl	_	_
+6	어린	어리+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	나이부터	나이+부터	ADV	NNG+JX	_	10	obl	_	_
+8	위우는	위우+는	VERB	NV+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	obj	_	_
+10	시키고	시키+고	VERB	VV+EC	_	14	advcl	_	_
+11	애들	애+들	NOUN	NNG+XSN	_	14	nsubj	_	_
+12	언어	언어	NOUN	NNG	_	13	nmod	_	_
+13	힘든게생각을	힘들+ㄴ+것+이+생각+을	NOUN	VA+ETM+NNB+JKS+NNG+JKO	_	14	obj	_	_
+14	생겨요	생기+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_06_1_17
+# text = 5살 뇌 랑 6살 뇌가 차이 있고 더 자유수럽게 가르치면 더 좋은 결과 나올수있어요.
+1	5살	5+살	NOUN	SN+NNB	_	2	nmod	_	_
+2	뇌	뇌	NOUN	NNG	_	4	nmod	_	_
+3	랑	랑	NOUN	JC	_	2	case	_	_
+4	6살	6+살	NOUN	SN+NNB	_	5	nmod	_	_
+5	뇌가	뇌+가	NOUN	NNG+JKS	_	7	dislocated	_	_
+6	차이	차이	NOUN	NNG	_	7	nsubj	_	_
+7	있고	있+고	VERB	VV+EC	_	14	advcl	_	_
+8	더	더	ADV	MAG	_	10	advmod	_	_
+9	자유수럽게	자유+수럽+게	ADV	NNG+NA+EC	_	10	advmod	_	_
+10	가르치면	가르치+면	VERB	VV+EC	_	14	advcl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	좋은	좋+은	VERB	VA+ETM	_	13	amod	_	_
+13	결과	결과	NOUN	NNG	_	14	nsubj	_	_
+14	나올수있어요	나오+ㄹ+수+있+어요	NOUN	VV+ETM+NNB+VX+EF	_	0	root	_	_
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_06_1_17-1
+# text = 제 입장에 조기언어교육 중용하고 좋은데 애들 잘 맞은 방법 써야돼요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	입장에	입장+에	ADV	NNG+JKB	_	4	obl	_	_
+3	조기언어교육	조기+언어+교육	NOUN	NNG+NNG+NNG	_	4	nsubj	_	_
+4	중용하고	중용+하+고	VERB	NF+XSA+EC	_	5	advcl	_	_
+5	좋은데	좋+은데	VERB	VA+EC	_	10	advcl	_	_
+6	애들	애+들	NOUN	NNG+XSN	_	8	obl	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	맞은	맞+은	VERB	VV+ETM	_	9	acl	_	_
+9	방법	방법	NOUN	NNG	_	10	obj	_	_
+10	써야돼요	쓰+어야+되+어요	VERB	VV+EC+VX+EF	_	0	root	_	_
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,257 @@
+# sent_id = ARG-CHN_1_1_01
+# text = 자연을 보존하냐 아니면 지금보다 더 자연을 개발하냐 하는 문제는 인간이 더 오래 살고 싶냐에 달려 있다고 본다.
+1	자연을	자연+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	보존하냐	보존+하+냐	VERB	NNG+XSV+EF	_	3	ccomp	_	_
+3	아니면	아니+면	ADJ	VCN+EC	_	8	advcl	_	_
+4	지금보다	지금+보다	ADV	NNG+JKB	_	7	obl	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	자연을	자연+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	개발하냐	개발+하+냐	VERB	NNG+XSV+EF	_	8	ccomp	_	_
+8	하는	하	VERB	VV+ETM	_	9	acl	_	_
+9	문제는	문제+는	NOUN	NNG+JX	_	15	nsubj	_	_
+10	인간이	인간+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	오래	오래	ADV	MAG	_	13	advmod	_	_
+13	살고	살+고	VERB	VV+EC	_	15	obl	_	_
+14	싶냐에	싶	AUX	VX+EF+JKB	_	13	aux	_	_
+15	달려	달리+어	VERB	VV+EC	_	17	ccomp	_	_
+16	있다고	있	AUX	VX+EC	_	15	aux	_	_
+17	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_1_1_02
+# text = 어떤 과학자의 말로 가스나 대기 때문에 지구온난화 현상이 날로 심해지고 있는데 이대로 하면 지구가 언젠가 멸망하지 않겠는가하는 질문에 아니다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	과학자의	과학자+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	말로	말+로	ADV	NNG+JKB	_	19	obl	_	_
+4	가스나	가스+나	NOUN	NNG+JC	_	10	obl	_	_
+5	대기	대기	NOUN	NNG	_	4	conj	_	_
+6	때문에	때문+에	ADV	NNB+JKB	_	5	case	_	_
+7	지구온난화	지구+온난+화	NOUN	NNG+NNG+XSN	_	8	nmod	_	_
+8	현상이	현상+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	날로	날로	ADV	MAG	_	10	advmod	_	_
+10	심해지고	심해지+고	VERB	VV+EC	_	13	advcl	_	_
+11	있는데	있	AUX	VX+EC	_	10	aux	_	_
+12	이대로	이대로	ADV	MAG	_	13	advmod	_	_
+13	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+14	지구가	지구+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+15	언젠가	언젠가	ADV	MAG	_	16	advmod	_	_
+16	멸망하지	멸망+하+지	VERB	NNG+XSV+EC	_	18	acl	_	_
+17	않겠는가하는	않	AUX	VV+EP+EF+VV+ETM	_	16	aux	_	_
+18	질문에	질문+에	ADV	NNG+JKB	_	19	obl	_	_
+19	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CHN_1_1_03
+# text = 지구가 지금보다 몇 심도 더 올라간 적도 있고 인체 느낄 수 있는 최저 기온보다 몇 십도 더 내려간 적도 있다고 하셨다.
+1	지구가	지구+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+2	지금보다	지금+보다	ADV	NNG+JKB	_	6	obl	_	_
+3	몇	몇	DET	MM	_	4	det	_	_
+4	심도	심+도	NOUN	NA+NNB	Typo=Yes	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	올라간	올라가+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	적도	적+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있고	있+고	VERB	VV+EC	_	20	advcl	_	_
+9	인체	인체	NOUN	NNG	_	10	nsubj	_	_
+10	느낄	느끼+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+13	최저	최저	NOUN	NNG	_	14	nmod	_	_
+14	기온보다	기온+보다	ADV	NNG+JKB	_	18	obl	_	_
+15	몇	몇	DET	MM	_	16	det	_	_
+16	십도	십+도	NOUN	MM+NNB	_	18	nsubj	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	내려간	내려가+ㄴ	VERB	VV+ETM	_	19	acl	_	_
+19	적도	적+도	NOUN	NNB+JX	_	20	nsubj	_	_
+20	있다고	있+다고	VERB	VV+EC	_	21	ccomp	_	_
+21	하셨다	하+시+었+다	VERB	VV+EP+EP+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_1_1_04
+# text = 다시 말로 지구가 멸망하지 않고 인간이 멸망할 거뿐이다.
+1	다시	다시	ADV	MAG	_	8	advmod	_	_
+2	말로	말+로	ADV	NNG+JKB	_	8	obl	_	_
+3	지구가	지구+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	멸망하지	멸망+하+지	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	않고	않	AUX	VX+EC	_	4	aux	_	_
+6	인간이	인간+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	멸망할	멸망+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	거뿐이다	거+뿐+이+다	VERB	NNB+JX+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_1_1_05
+# text = 그래서 지금처럼 계획없이 무작정으로 자연을 개발하면 결국은 인간은 스스로 무덤을 파는 것과 마찬가지라고 본다.
+1	그래서	그래서	ADV	MAJ	_	14	cc	_	_
+2	지금처럼	지금+처럼	ADV	NNG+JKB	_	6	obl	_	_
+3	계획없이	계획+없이	ADV	NNG+MAG	_	6	advmod	_	_
+4	무작정으로	무작정+으로	ADV	NNG+JKB	_	6	obl	_	_
+5	자연을	자연+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+7	결국은	결국+은	NOUN	NNG+JX	_	14	obl	_	_
+8	인간은	인간+은	NOUN	NNG+JX	_	11	nsubj	_	_
+9	스스로	스스로	ADV	MAG	_	11	advmod	_	_
+10	무덤을	무덤+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	파는	파+는	VERB	VV+ETM	_	12	acl	_	_
+12	것과	것+과	ADV	NNB+JKB	_	13	obl	_	_
+13	마찬가지라고	마찬가지+이+라고	ADJ	NNG+VCP+EC	_	14	ccomp	_	_
+14	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_1_1_06
+# text = 결국은 자연을 자연법칙에 따라 개발하고, 지금 이미 충분히 개발된 자연에 자기 재생 능력이 회복할 때까지 충분한 시간을 주고 자연을 더 보존해야 한다.
+1	결국은	결국+은	NOUN	NNG+JX	_	22	obl	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	5	obj	_	_
+3	자연법칙에	자연+법칙+에	ADV	NNG+NNG+JKB	_	4	obl	_	_
+4	따라	따르+아	VERB	VV+EC	_	5	advcl	_	_
+5	개발하고	개발+하+고	VERB	NNG+XSV+EC	_	22	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	지금	지금	ADV	MAG	_	10	advmod	_	_
+8	이미	이미	ADV	MAG	_	9	advmod	_	_
+9	충분히	충분히	ADV	MAG	_	10	advmod	_	_
+10	개발된	개발+되+ㄴ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	자연에	자연+에	ADV	NNG+JKB	_	15	obl	_	_
+12	자기	자기	PRON	NP	_	13	nmod	_	_
+13	재생	재생	NOUN	NNG	_	14	nmod	_	_
+14	능력이	능력+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	회복할	회복+하+ㄹ	VERB	NNG+XSV+ETM	_	19	advcl	_	_
+16	때까지	때+까지	ADV	NNG+JX	_	15	mark	_	_
+17	충분한	충분+하+ㄴ	ADJ	NNG+XSA+ETM	_	18	amod	_	_
+18	시간을	시간+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	주고	주+고	VERB	VV+EC	_	22	advcl	_	_
+20	자연을	자연+을	NOUN	NNG+JKO	_	22	obj	_	_
+21	더	더	ADV	MAG	_	22	advmod	_	_
+22	보존해야	보존+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+23	한다	하	AUX	VX+EF	_	22	aux	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-CHN_1_1_07
+# text = 세계 만물에 규칙이 있다.
+1	세계	세계	NOUN	NNG	_	2	nmod	_	_
+2	만물에	만물+에	ADV	NNG+JKB	_	4	obl	_	_
+3	규칙이	규칙+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_1_1_08
+# text = 충분히 쉬어야 더 효율적으로 일을 할 수 있듯이 지금 봤을 때 자연은 이미 피곤한 상태에 빠졌다.
+1	충분히	충분히	ADV	MAG	_	2	advmod	_	_
+2	쉬어야	쉬+어야	VERB	VV+EC	_	6	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	효율적으로	효율+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+5	일을	일+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있듯이	있+듯이	VERB	VX+EC	_	16	advcl	_	_
+9	지금	지금	ADV	MAG	_	10	advmod	_	_
+10	봤을	보+았+을	VERB	VV+EP+ETM	_	16	advcl	_	_
+11	때	때	ADV	NNG	_	10	mark	_	_
+12	자연은	자연+은	NOUN	NNG+JX	_	16	nsubj	_	_
+13	이미	이미	ADV	MAG	_	16	advmod	_	_
+14	피곤한	피곤+하+ㄴ	ADJ	NNG+XSA+ETM	_	15	amod	_	_
+15	상태에	상태+에	ADV	NNG+JKB	_	16	obl	_	_
+16	빠졌다	빠지+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_1_1_09
+# text = 이제서야 충분한 휴식을 줘야 하지 않겠는가?
+1	이제서야	이제서야	ADV	MAG	_	4	advmod	_	_
+2	충분한	충분+하+ㄴ	ADJ	XR+XSA+ETM	_	3	amod	_	_
+3	휴식을	휴식+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	줘야	주+어야	VERB	VV+EC	_	0	root	_	_
+5	하지	하	AUX	VX+EC	_	4	aux	_	_
+6	않겠는가	않	AUX	VX+EP+EF	_	4	aux	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_1_1_10
+# text = 하나 더 보충할 게 있다면 자연을 개발하되 어떻게 햐는냐에 따라 결과가 좋아질 수도 더 나빠질 수도 있다.
+1	하나	하나	NUM	NR	_	3	obj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	보충할	보충+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	게	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	있다면	있+다면	VERB	VV+EC	_	17	advcl	_	_
+6	자연을	자연+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	개발하되	개발+하+되	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	어떻게	어떻+게	ADV	VA+EC	_	9	advmod	_	_
+9	햐는냐에	햐+는냐+에	ADV	NV+NA+JKB	Typo=Yes	10	obl	_	_
+10	따라	따르+아	VERB	VV+EC	_	17	advcl	_	_
+11	결과가	결과+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	좋아질	좋+아지+ㄹ	VERB	VA+XSV+ETM	_	13	acl	_	_
+13	수도	수+도	NOUN	NNB+JX	_	17	nsubj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	나빠질	나쁘+아지+ㄹ	VERB	VA+XSV+ETM	_	16	acl	_	_
+16	수도	수+도	NOUN	NNB+JX	_	13	conj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_1_1_11
+# text = 인간이라는 물종이 생기고 나서 지난 200년전까지 자연을 개발하지 않은 것이 아니었다.
+1	인간이라는	인간+이+라는	ADJ	NNG+VCP+ETM	_	2	acl	_	_
+2	물종이	물종+이	NOUN	NF+JKS	Typo=Yes	3	nsubj	_	_
+3	생기고	생기+고	VERB	VV+EC	_	11	advcl	_	_
+4	나서	나+아서	VERB	VX+EC	_	3	advcl	_	_
+5	지난	지나+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	200년전까지	200+년+전+까지	ADV	SN+NNB+NNG+JX	_	8	obl	_	_
+7	자연을	자연+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	개발하지	개발+하+지	VERB	NNG+XSV+EC	_	10	acl	_	_
+9	않은	않	AUX	VX+ETM	_	8	aux	_	_
+10	것이	것+이	NOUN	NNB+JKC	_	11	nsubj	_	_
+11	아니었다	아니+었+다	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_1_1_12
+# text = 그러나 생산력이 떨어져 자연법칙에 따라 농견 문화 생활을 하면서 자연에 대한 개발과 보존이 병행이라고 할 수 있다.
+1	그러나	그러나	ADV	MAJ	_	17	cc	_	_
+2	생산력이	생산력+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	떨어져	떨어지+어	VERB	VV+EC	_	9	advcl	_	_
+4	자연법칙에	자연+법칙+에	ADV	NNG+NNG+JKB	_	5	obl	_	_
+5	따라	따르+아	VERB	VV+EC	_	9	advcl	_	_
+6	농견	농견	NOUN	NF	Typo=Yes	7	nmod	_	_
+7	문화	문화	NOUN	NNG	_	8	nmod	_	_
+8	생활을	생활+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	하면서	하+면서	VERB	VV+EC	_	14	advcl	_	_
+10	자연에	자연+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대한	대하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	개발과	개발+과	NOUN	NNG+JC	_	14	nsubj	_	_
+13	보존이	보존+이	NOUN	NNG+JKS	_	12	conj	_	_
+14	병행이라고	병행+이+라고	ADJ	NNG+VCP+EC	_	15	ccomp	_	_
+15	할	하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_1_1_13
+# text = 그러나 생산력이 높아지면서 인간은 나름대로 자연을 과도로 개발한 나머지 이제 온갖 문제가 생기지 않았나?
+1	그러나	그러나	ADV	MAJ	_	13	cc	_	_
+2	생산력이	생산력+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	높아지면서	높+아지+면서	VERB	VA+XSV+EC	_	8	advcl	_	_
+4	인간은	인간+은	NOUN	NNG+JX	_	8	nsubj	_	_
+5	나름대로	나름+대로	NOUN	NNB+JX	_	8	obl	_	_
+6	자연을	자연+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	과도로	과도+로	ADV	NNG+JKB	_	8	obl	_	_
+8	개발한	개발+하+ㄴ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	나머지	나머지	NOUN	NNG	_	13	obl	_	_
+10	이제	이제	ADV	MAG	_	13	advmod	_	_
+11	온갖	온갖	ADV	MAG	_	13	advmod	_	_
+12	문제가	문제+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	생기지	생기+지	VERB	VV+EC	_	0	root	_	_
+14	않았나	않	AUX	VX+EP+EF	_	13	aux	_	SpaceAfter=No
+15	?	?	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_1_1_14
+# text = 더 이상 자연을 해치지 않게 잘 다듬어야 인간이 더 오래 살 수 있을 거라고 생각한다.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	이상	이상	NOUN	NNG	_	4	obl	_	_
+3	자연을	자연+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	해치지	해치+지	VERB	VV+EC	_	7	advcl	_	_
+5	않게	않	AUX	VX+EC	_	4	aux	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	다듬어야	다듬+어야	VERB	VV+EC	_	11	advcl	_	_
+8	인간이	인간+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	오래	오래	ADV	MAG	_	11	advmod	_	_
+11	살	살+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있을	있+을	VERB	VX+ETM	_	14	acl	_	_
+14	거라고	거+이+라고	ADJ	NNB+VCP+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

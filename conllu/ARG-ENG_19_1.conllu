@@ -1,0 +1,130 @@
+# sent_id = ARG-ENG_19_1_01
+# text = 조기언어교육의 단점보다는 장점이 더 많다고 생각합니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	단점보다는	단점+보다+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많다고	많+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_19_1_02
+# text = 특히 미국에서는 언어를 더 많이 알수록 더 많은 것을 할 수 있다고 믿어요.
+1	특히	특히	ADV	MAG	_	13	advmod	_	_
+2	미국에서는	미국+에서+는	ADV	NNP+JKB+JX	_	13	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	알수록	알+ㄹ수록	VERB	VV+EC	_	12	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VX+EC	_	13	ccomp	_	_
+13	믿어요	믿+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_19_1_03
+# text = 언어는 어릴수록 더 쉽게 배우고 더 오래동안 기억해요.
+1	언어는	언어+는	NOUN	NNG+JX	_	8	obj	_	_
+2	어릴수록	어리+ㄹ수록	VERB	VA+EC	_	8	advcl	_	_
+3	더	더	ADV	MAG	_	5	advmod	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	배우고	배우+고	VERB	VV+EC	_	8	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	오래동안	오래+동안	ADV	MAG+NNG	_	8	advmod	_	_
+8	기억해요	기억+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_19_1_04
+# text = 어떤 사람들은 언어 교육보다 수학이나 과학교육이 더 중요하다고 생각할 수도 있는데, 언어를 배워서 얻는 것도 똑같이 많아요.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육보다	교육+보다	ADV	NNG+JKB	_	8	obl	_	_
+5	수학이나	수학+이나	NOUN	NNG+JC	_	8	nsubj	_	_
+6	과학교육이	과학+교육+이	NOUN	NNG+NNG+JKS	_	5	conj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	9	ccomp	_	_
+9	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있는데	있+는데	VERB	VX+EC	_	18	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	언어를	언어+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	배워서	배우+어서	VERB	VV+EC	_	15	advcl	_	_
+15	얻는	얻+는	VERB	VV+ETM	_	16	acl	_	_
+16	것도	것+도	NOUN	NNB+JX	_	18	nsubj	_	_
+17	똑같이	똑같이	VERB	MAG	_	18	advmod	_	_
+18	많아요	많+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_19_1_05
+# text = 예를 들어서 어렸을 때 언어를 배우면, 크면서 더 많은 다양한 사람들과 예기를 나누고 다양한 경험들을 할 수 있어요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	14	advcl	_	_
+3	어렸을	어리+었+을	VERB	VA+EP+ETM	_	6	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	크면서	크+면서	VERB	VV+EC	_	14	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+11	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	12	amod	_	_
+12	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	14	obl	_	_
+13	예기를	예기+를	NOUN	NF+JKO	_	14	obj	_	_
+14	나누고	나누+고	VERB	VV+EC	_	0	root	_	_
+15	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	16	amod	_	_
+16	경험들을	경험+들+을	NOUN	NNG+XSN+JKO	_	17	obj	_	_
+17	할	하+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있어요	있+어요	ADJ	VX+EF	_	14	conj	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_19_1_06
+# text = 세상을 더 잘 알아가는데에는 언어고육이 중요해요.
+1	세상을	세상+을	NOUN	NNG+JKO	_	4	obj	_	_
+2	더	더	ADV	MAG	_	4	advmod	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	알아가는데에는	알+아+가+는+데+에+는	VERB	VV+EC+VX+ETM+NNB+JKB+JX	_	6	advcl	_	_
+5	언어고육이	언어+고육+이	NOUN	NNG+NF+JKS	_	6	nsubj	_	_
+6	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_19_1_07
+# text = 언어교육 그 자체의 단점은 많이 없어도, 교육방법에 따라서 단점이 있을 수도 있어요.
+1	언어교육	언어+교육	NOUN	NNG+NNG	_	6	dislocated	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	자체의	자체+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	단점은	단점+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	없어도	없+어도	VERB	VA+EC	_	13	advcl	_	_
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	교육방법에	교육+방법+에	ADV	NNG+NNG+JKB	_	9	obl	_	_
+9	따라서	따르+아서	VERB	VV+EC	_	13	advcl	_	_
+10	단점이	단점+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있을	있+을	VERB	VV+ETM	_	12	acl	_	_
+12	수도	수+도	NOUN	NNB+JX	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_19_1_08
+# text = 예를 들어, 표준을 너무 강조하거나, 다른 종료에 언어를 쓰는 아이들을 소회 시킬 수 있어요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	표준을	표준+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	강조하거나	강조+하+거나	VERB	NNG+XSV+EC	_	16	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	다른	다른	ADJ	MM	_	9	amod	_	_
+9	종료에	종료+에	ADV	NNG+JKB	_	12	obl	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	쓰는	쓰+는	VERB	VV+ETM	_	12	acl	_	_
+12	아이들을	아이+들+을	NOUN	NNG+XSN+JKO	_	14	obj	_	_
+13	소회	소회	NOUN	NF	_	14	obj	_	_
+14	시킬	시키+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

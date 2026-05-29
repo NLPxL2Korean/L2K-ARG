@@ -1,0 +1,53 @@
+# sent_id = ARG-CZH_16_2_02
+# text = 우리는 우리의 삶에 살아야 하기 때문에 역사를 배워서 안 두ㅐ요.
+1	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+2	우리의	우리+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	삶에	삶+에	ADV	NNG+JKB	_	4	obl	_	_
+4	살아야	살+아야	VERB	VV+EC	_	8	obl	_	_
+5	하기	하	AUX	VX+ETN	_	4	aux	_	_
+6	때문에	때문+에	ADV	NNB+JKB	_	4	case	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배워서	배우+어서	VERB	VV+EC	_	10	advcl	_	_
+9	안	안	ADV	MAG	_	10	advmod	_	_
+10	두ㅐ요	두ㅐ+요	VERB	NV+JX	Typo=Yes	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_16_2_03
+# text = 모든 사람과 친구가 되어야 해요.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	4	obl	_	_
+3	친구가	친구+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	되어야	되+어야	VERB	VV+EC	_	0	root	_	_
+5	해요	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_16_2_04
+# text = 역사때문에 싸우지 마세요.
+1	역사때문에	역사+때문+에	ADV	NNG+NNB+JKB	_	2	obl	_	_
+2	싸우지	싸우+지	VERB	VV+EC	_	0	root	_	_
+3	마세요	말+시+어요	VERB	VX+EP+EF	_	2	advcl	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_16_2_01-2
+# text = 그것은 우리의 정체성이예요
+1	그것은	그것+은	PRON	NP+JX	_	3	nsubj	_	_
+2	우리의	우리+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	정체성이예요	정체+성+이+에요	ADJ	NNG+XSN+VCP+EF	_	0	root	_	_
+
+# sent_id = ARG-CZH_16_2_01-1
+# text = 우리나라 역사를 배우서 중요해 요
+1	우리나라	우리+나라	NOUN	NP+NNG	_	2	nmod:poss	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우서	배우+어서	VERB	VV+EC	_	4	advcl	_	_
+4	중요해	중요+하+아	ADJ	NNG+XSA+EC	_	0	root	_	_
+5	요	요	ADP	JX	_	4	case	_	_
+
+# sent_id = ARG-CZH_16_2_01-3
+# text = 우리는 실수들을 다시 않기우해 역사를 배워요.
+1	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+2	실수들을	실수+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+3	다시	다시	ADV	MAG	_	4	advmod	_	_
+4	않기우해	않+기+우하+아	VERB	VV+ETN+VV+EC	_	6	advcl	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배워요	배우+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

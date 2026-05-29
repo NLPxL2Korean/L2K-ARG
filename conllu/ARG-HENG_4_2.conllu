@@ -1,0 +1,182 @@
+# sent_id = ARG-HENG_04_2_01
+# text = 역사는 배워야 합니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	합니다	하+ㅂ니다	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-HENG_04_2_02
+# text = 초등학생이었을 때는 왜 배워야 하는지 몰랐지만, 대학교를 가니까 조금 더 이해가 돼는 것 같아요.
+1	초등학생이었을	초등학생+이+었+을	VERB	NNG+VCP+EP+ETM	_	6	advcl	_	_
+2	때는	때+는	NOUN	NNG+JX	_	1	mark	_	_
+3	왜	왜	ADV	MAG	_	4	advmod	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	하는지	하+는지	VERB	VX+EC	_	4	aux	_	_
+6	몰랐지만	모르+았+지만	VERB	VV+EP+EC	_	15	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	대학교를	대학교+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	가니까	가+니까	VERB	VV+EC	_	13	advcl	_	_
+10	조금	조금	ADV	MAG	_	13	advmod	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	이해가	이해+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	돼는	되+어+는	VERB	VV+NA+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_04_2_03
+# text = 무언가를 배우고 나면, 어디서.
+1	무언가를	무엇+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	2	ccomp	_	_
+2	배우고	배우+고	VERB	VV+EC	_	5	advcl	_	_
+3	나면	나+면	VERB	VX+EC	_	2	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	어디서	어디+서	ADV	NP+JKB	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_04_2_04
+# text =.
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-HENG_04_2_05
+# text = 어떡해..왜.
+1	어떡해	어떻+게+하+아	ADV	VA+EC+VV+EF	_	2	advcl	_	_
+2	..왜	..+왜	ADJ	SE+MAG	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	SpaceAfter=No
+
+# sent_id = ARG-HENG_04_2_06
+# text = 이런 일이 됐는지 저절로 궁금할 꺼 같으고, 이런 거애 역사를 알면 나중애 똑같은 실수 아니면 궁금한 점이 풀림니다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	일이	일+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	됐는지	되+었+는지	VERB	VV+EP+EC	_	5	advcl	_	_
+4	저절로	저절로	ADV	MAG	_	5	advmod	_	_
+5	궁금할	궁금+하+ㄹ	VERB	XR+XSA+ETM	_	6	acl	_	_
+6	꺼	꺼	NOUN	NF	_	7	nsubj	_	_
+7	같으고	같+으고	VERB	VA+NA	_	19	advcl	_	_
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	이런	이런	DET	MM	_	10	det	_	_
+10	거애	거+애	NOUN	NNB+JKB	_	12	obl	_	_
+11	역사를	역사+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	알면	알+면	VERB	VV+EC	_	19	advcl	_	_
+13	나중애	나중+애	VERB	NNG+NA	_	16	obl	_	_
+14	똑같은	똑같+은	ADJ	VA+ETM	_	15	amod	_	_
+15	실수	실수	NOUN	NNG	_	16	nsubj	_	_
+16	아니면	아니+면	VERB	VCN+EC	_	19	advcl	_	_
+17	궁금한	궁금+하+ㄴ	ADJ	XR+XSA+ETM	_	18	amod	_	_
+18	점이	점+이	NOUN	NNB+JKS	_	19	nsubj	_	_
+19	풀림니다	풀리+ㅁ니다	ADJ	VV+NA	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_04_2_07
+# text = 예를 들면, 지금 abortion이랑 그거를 위한 법이랑 court case 들이 미국애서 많은 의상 (opinion) 들을 떠오르개 만듭니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	18	advcl	_	_
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	지금	지금	ADV	MAG	_	18	advmod	_	_
+5	abortion이랑	abortion+이랑	NOUN	SL+JC	_	18	obj	_	_
+6	그거를	그거+를	NOUN	VA+ETM+JKO	_	8	obj	_	_
+7	위한	위하+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+8	법이랑	법+이랑	NOUN	NNG+JC	_	5	conj	_	_
+9	court	cour+t	NOUN	NNG	_	13	nsubj	_	_
+10	case	case	NOUN	SL+JKO	_	9	flat	_	_
+11	들이	들+이	NOUN	NNG+JKS	_	9	case	_	_
+12	미국애서	미국+애서	NOUN	NNG	_	13	obl	_	_
+13	많은	많+은	ADJ	VA+ETM	_	17	amod	_	_
+14	의상	의상	NOUN	NNG	_	5	conj	_	_
+15	(opinion)	(+opinion+)	NOUN	SN+SL+SN	_	14	flat	_
+16	들을	들+을	ADP	XSN+JKO	_	14	case	_	_
+17	떠오르개	떠오르+개	VERB	VV+NA	_	18	advcl	_	_
+18	만듭니다	만들+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_04_2_08
+# text = 이럴수록 저는 이 법이 어디서 나오고 왜 사람들이 싸우고 대모하는지를 아릭 위해 역사를 알아야 됍니다.
+1	이럴수록	이렇+ㄹ수록	ADV	VV+EC	_	14	advcl	_	_
+2	저는	저+는	PRON	NP+JX	_	14	nsubj	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	법이	법+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	어디서	어디+서	ADV	NP+JKB	_	6	obl	_	_
+6	나오고	나오+고	VERB	VV+EC	_	10	advcl	_	_
+7	왜	왜	ADV	MAG	_	10	advmod	_	_
+8	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+9	싸우고	싸우+고	VERB	VV+EC	_	10	advcl	_	_
+10	대모하는지를	대모+하+는지+를	NOUN	NF+XSV+EC+JKO	_	11	ccomp	_	_
+11	아릭	아릭	NOUN	NA	_	12	obj	_	_
+12	위해	위하+아	VERB	VV+EC	_	14	advcl	_	_
+13	역사를	역사+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+15	됍니다	돼+ㅂ니다	VERB	NV+EF	_	14	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_04_2_09
+# text = 역사를 알고 기억하면 어른이 됄 때 교육됀 자기 생각 (educated opin ion)을 위한 선택과 투표(vote)를 내릴 수 있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알고	알+고	VERB	VV+EC	_	3	advcl	_	_
+3	기억하면	기억+하+면	VERB	NNG+XSV+EC	_	18	advcl	_	_
+4	어른이	어른+이	NOUN	NNG+JKC	_	5	nsubj	_	_
+5	됄	돼+ㄹ	VERB	NV+ETM	_	16	advcl	_	_
+6	때	때	ADV	NNG	_	3	mark	_	_
+7	교육됀	교육+돼+ㄴ	NOUN	NNG+NA+ETM	_	9	acl	_	_
+8	자기	자기	PRON	NNG	_	9	nmod	_	_
+9	생각	생각	NOUN	NNG	_	13	obj	_	_
+10	(educated	(+educated	NOUN	SS+SL	_	11	acl	_	_
+11	opin	opin	NOUN	SL	_	9	appos	_	_
+12	ion)을	_	X	_	_	11	goeswith	_	_
+13	위한	위하+ㄴ	VERB	VV+ETM	_	15	acl	_	_
+14	선택과	선택+과	NOUN	NNG+JC	_	16	obj	_	_
+15	투표(vote)를	투표+(+vote)+를	NOUN	NNG+SS+SL+SS+JKO	_	14	conj	_	_
+16	내릴	내리+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_04_2_10
+# text = 교육 없이, 그리고 특별이 역사 공부 없이는 사홰 생활을 모르면서 선택과 의견을 표현하면 자기 자신하고 주변애 사람과 위험하고 피해를 주실 수 있어요.
+1	교육	교육	NOUN	NNG	_	2	nsubj	_	_
+2	없이	없이	VERB	MAG	_	23	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	그리고	그리고	ADV	MAJ	_	23	cc	_	_
+5	특별이	특별이	NOUN	NA	_	8	advmod	_	_
+6	역사	역사	NOUN	NNG	_	7	nmod	_	_
+7	공부	공부	NOUN	NNG	_	8	nsubj	_	_
+8	없이는	없이+는	NOUN	MAG+JX	_	23	advmod	_	_
+9	사홰	사홰	NOUN	NF	_	10	nmod	_	_
+10	생활을	생활+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	모르면서	모르+면서	VERB	VV+EC	_	14	advcl	_	_
+12	선택과	선택+과	NOUN	NNG+JC	_	14	obj	_	_
+13	의견을	의견+을	NOUN	NNG+JKO	_	12	conj	_	_
+14	표현하면	표현+하+면	VERB	NNG+XSV+EC	_	23	advcl	_	_
+15	자기	자기	NOUN	NNG	_	16	nmod	_	_
+16	자신하고	자신+하고	VERB	NNG+JC	_	21	obl	_	_
+17	주변애	주변+애	VERB	NNG+NA	_	21	obl	_	_
+18	사람과	사람+과	NOUN	NNG+JC	_	16	conj	_	_
+19	위험하고	위험+하+고	VERB	NNG+XSV+EC	_	21	obj	_	_
+20	피해를	피해+를	NOUN	NNG+JKO	_	19	conj	_	_
+21	주실	주+시+ㄹ	VERB	VV+EP+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-HENG_04_2_11
+# text = 물론 자기 생각은 역사로 바꾸지 않은 간흥성도 있지만, 역사를 충분히 알고 행동을 하면 더 안전하고 사홰애도 도움이 됄 껏 같아요.
+1	물론	물론	ADV	MAG	_	8	advmod	_	_
+2	자기	자기	PRON	NNG	_	3	nmod	_	_
+3	생각은	생각+은	NOUN	NNG+JX	_	5	obj	_	_
+4	역사로	역사+로	ADV	NNG+JKB	_	5	obl	_	_
+5	바꾸지	바꾸+지	VERB	VV+EC	_	7	acl	_	_
+6	않은	않+은	AUX	VX+ETM	_	5	aux	_	_
+7	간흥성도	간흥+성+도	NOUN	NF+XSN+JX	_	8	nsubj	_	_
+8	있지만	있+지만	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	역사를	역사+를	NOUN	NNG+JKO	_	12	obj	_	_
+11	충분히	충분히	ADV	MAG	_	12	advmod	_	_
+12	알고	알+고	VERB	VV+EC	_	14	advcl	_	_
+13	행동을	행동+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	안전하고	안전+하+고	VERB	NNG+XSA+EC	_	0	root	_	_
+17	사홰애도	사홰+애+도	VERB	NF+NA+JX	_	19	obl	_	_
+18	도움이	도움+이	NOUN	NNG+JKC	_	19	nsubj	_	_
+19	됄	돼+ㄹ	VERB	NV+ETM	_	20	acl	_	_
+20	껏	껏	NOUN	NF	_	21	nsubj	_	_
+21	같아요	같+아요	ADJ	VA+EF	_	16	conj	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_

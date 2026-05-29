@@ -1,0 +1,130 @@
+# sent_id = ARG-CHN_14_2_01
+# text = 대만 속담중에서 그런 말이 있다.
+1	대만	대만	NOUN	NNP	_	2	nmod	_	_
+2	속담중에서	속담+중+에서	ADV	NNG+NNB+JKB	_	5	obl	_	_
+3	그런	그런	DET	MM	_	4	det	_	_
+4	말이	말+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_14_2_02
+# text = '사람이 많을수록 힘이 커진다'라고 한다.
+1	'사람이	'+사람+이	NOUN	SS+NNG+JKS	_	2	nsubj	_	_
+2	많을수록	많+을수록	ADJ	VA+EC	_	4	advcl	_	_
+3	힘이	힘+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	커진다'라고	커지+ㄴ다+'+라고	VERB	VV+EF+SS+EC	_	5	ccomp	_	_
+5	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_14_2_03
+# text = 그것은 바로 협동의 중요성이다.
+1	그것은	그것+은	PRON	NP+JX	_	4	nsubj	_	_
+2	바로	바로	ADV	MAG	_	4	advmod	_	_
+3	협동의	협동+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	중요성이다	중요+성+이+다	ADJ	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_14_2_04
+# text = 협동은 성공에 큰 역할이 되어다.
+1	협동은	협동+은	NOUN	NNG+JX	_	5	dislocated	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	5	obl	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	역할이	역할+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	되어다	되+어+다	VERB	VV+EC+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_14_2_05
+# text = 왜냐하면 이 과정에 자신의 장점을 살릴 수 있을 뿐만 아니라 자신의 모자람에 타인이 채울 수 있기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	17	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	과정에	과정+에	ADV	NNG+JKB	_	6	obl	_	_
+4	자신의	자신+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	장점을	장점+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	살릴	살리+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있을	있+을	VERB	VX+ETM	_	9	acl	_	_
+9	뿐만	뿐+만	NOUN	NNB+JX	_	10	nsubj	_	_
+10	아니라	아니+라	ADJ	VCN+EC	_	16	advcl	_	_
+11	자신의	자신+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	모자람에	모자라+ㅁ+에	VERB	VV+ETN+JKB	_	14	obl	_	_
+13	타인이	타인+이	NOUN	NNG+JKS	_	14	obj	_	_
+14	채울	채우+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있기	있+기	NOUN	VX+ETN	_	17	nmod	_	_
+17	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_14_2_06
+# text = 경쟁은 사람의 참재력에 자격을 줄 수 있겠지만 그 과정에 사람의 열정과 자신감은 빳길 것이다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	5	nsubj	_	_
+2	사람의	사람+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	참재력에	참재력+에	ADV	NF+JKB	Typo=Yes	5	obl	_	_
+4	자격을	자격+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	줄	주+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있겠지만	있+겠+지만	VERB	VX+EP+EC	_	14	advcl	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	과정에	과정+에	ADV	NNG+JKB	_	14	obl	_	_
+10	사람의	사람+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	열정과	열정+과	NOUN	NNG+JC	_	14	nsubj	_	_
+12	자신감은	자신감+은	NOUN	NNG+JX	_	11	conj	_	_
+13	빳길	빳기+ㄹ	VERB	NV+ETM	Typo=Yes	14	acl	_	_
+14	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_14_2_07
+# text = 그래서 지금 이 세상에 사람들도 공동체 생활을 하고 있다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	지금	지금	ADV	MAG	_	8	advmod	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	세상에	세상+에	ADV	NNG+JKB	_	8	obl	_	_
+5	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+6	공동체	공동체	NOUN	NNG	_	7	nmod	_	_
+7	생활을	생활+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	하고	하+고	VERB	VV+EC	_	0	root	_	_
+9	있다	있	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_14_2_08
+# text = 원래 삶은 자신이 타인과 서로 도움을 주고 받아야 잘 살아갈 수 있다.
+1	원래	원래	ADV	MAG	_	7	advmod	_	_
+2	삶은	삶+은	NOUN	NNG+JX	_	10	obj	_	_
+3	자신이	자신+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+4	타인과	타인+과	ADV	NNG+JKB	_	7	obl	_	_
+5	서로	서로	ADV	MAG	_	7	advmod	_	_
+6	도움을	도움+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	주고	주+고	VERB	VV+EC	_	8	advcl	_	_
+8	받아야	받+아야	VERB	VV+EC	_	10	advcl	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	살아갈	살+아+가+ㄹ	VERB	VV+EC+VX+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_14_2_09
+# text = 혼자서 이 세상과 싸우면서 사는 것은 얼마나 힘들지 않을까?
+1	혼자서	혼자+서	ADV	NNG+JKB	_	4	nsubj	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	세상과	세상+과	ADV	NNG+JKB	_	4	obl	_	_
+4	싸우면서	싸우+면서	VERB	VV+EC	_	5	advcl	_	_
+5	사는	살+는	VERB	VV+ETM	_	6	acl	_	_
+6	것은	것+은	NOUN	NNB+JX	_	8	nsubj	_	_
+7	얼마나	얼마나	ADV	MAG	_	8	advmod	_	_
+8	힘들지	힘들+지	ADJ	VA+EC	_	0	root	_	_
+9	않을까	않	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	?	?	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_14_2_10
+# text = 다시 말하여 협동은 바로 현재 세상이 될 수 있게 해주는 힘이다.
+1	다시	다시	ADV	MAG	_	2	advmod	_	_
+2	말하여	말+하+아	VERB	NNG+XSV+EC	_	11	advcl	_	_
+3	협동은	협동+은	NOUN	NNG+JX	_	11	nsubj	_	_
+4	바로	바로	ADV	MAG	_	11	advmod	_	_
+5	현재	현재	ADV	NNG	_	7	advmod	_	_
+6	세상이	세상+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	될	되+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있게	있+게	VERB	VX+EC	_	10	advcl	_	_
+10	해주는	하+아+주+는	VERB	VV+EC+VX+ETM	_	11	acl	_	_
+11	힘이다	힘+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

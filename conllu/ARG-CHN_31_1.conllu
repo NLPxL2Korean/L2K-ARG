@@ -1,0 +1,110 @@
+# sent_id = ARG-CHN_31_1_01
+# text = 자연 보존이 더 중요하다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존이	보존+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_31_1_02
+# text = 많은 사람들은 자연 개발이 우선이라고 주장하고 있지만 실제로 지구에게 부정적인 영향을 미치고 있다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발이	개발+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	우선이라고	우선+이+라고	ADJ	NNG+VCP+EC	_	6	ccomp	_	_
+6	주장하고	주장+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+7	있지만	있	AUX	VX+EC	_	6	aux	_	_
+8	실제로	실제로	ADV	MAG	_	12	advmod	_	_
+9	지구에게	지구+에게	ADV	NNG+JKB	_	12	obl	_	_
+10	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	영향을	영향+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	미치고	미치+고	VERB	VV+EC	_	0	root	_	_
+13	있다	있	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_31_1_03
+# text = 공예혁명때 부터 자연의 개발이 더 빨은 속도로 진행을 시작했다.
+1	공예혁명때	공예+혁명+때	NOUN	NF+NNG+NNG	Typo=Yes	9	obl	_	_
+2	부터	부터	ADP	JX	_	1	case	_	_
+3	자연의	자연+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	개발이	개발+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	빨은	빨으+ㄴ	VERB	NV+ETM	Typo=Yes	7	amod	_	_
+7	속도로	속도+로	ADV	NNG+JKB	_	9	obl	_	_
+8	진행을	진행+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	시작했다	시작+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_31_1_04
+# text = 자연 자원, 생태, 동식물.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	자원	자원	NOUN	NNG	_	4	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	생태	생태	NOUN	NNG	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	동식물	동식물	NOUN	NNG	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_31_1_05
+# text =.
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-CHN_31_1_06
+# text =.
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-CHN_31_1_07
+# text = 지구에 뭐든 것이 이익인데 인류 발전의 도구를 됐다.
+1	지구에	지구+에	ADV	NNG+JKB	_	4	obl	_	_
+2	뭐든	뭐든	NOUN	NA	Typo=Yes	3	nmod	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+4	이익인데	이익+이+ㄴ데	ADJ	NNG+VCP+EC	_	8	advcl	_	_
+5	인류	인류	NOUN	NNG	_	6	nmod	_	_
+6	발전의	발전+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	도구를	도구+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	됐다	되+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_31_1_08
+# text = 21세기에 고속 발전된 과학기술은 더 과한 자연 개발에게 도움이 됐다.
+1	21세기에	21+세기+에	ADV	SN+NNB+JKB	_	3	obl	_	_
+2	고속	고속	NOUN	NNG	_	3	obl	_	_
+3	발전된	발전+되+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	과학기술은	과학+기술+은	NOUN	NNG+NNG+JX	_	10	dislocated	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	과한	과하+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+7	자연	자연	NOUN	NNG	_	8	nmod	_	_
+8	개발에게	개발+에게	ADV	NNG+JKB	_	10	obl	_	_
+9	도움이	도움+이	NOUN	NNG+JKC	_	10	nsubj	_	_
+10	됐다	되+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_31_1_09
+# text = 그러나, 경제적인 발달을 취득하는 반면에 자연생테의 위기가 나타났다.
+1	그러나	그러나	ADV	MAJ	_	9	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	경제적인	경제+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	발달을	발달+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	취득하는	취득+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	반면에	반면+에	ADV	NNG+JKB	_	9	obl	_	_
+7	자연생테의	자연+생테+의	NOUN	NNG+NF+JKG	Typo=Yes	8	nmod:poss	_	_
+8	위기가	위기+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	나타났다	나타나+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_31_1_10
+# text = 그래서 저는 자연 보존이 지금 인류가 제일 우선 실행해야되는 임무이라고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존이	보존+이	NOUN	NNG+JKS	_	10	dislocated	_	_
+5	지금	지금	ADV	MAG	_	9	advmod	_	_
+6	인류가	인류+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+7	제일	제일	ADV	MAG	_	8	advmod	_	_
+8	우선	우선	ADV	MAG	_	9	advmod	_	_
+9	실행해야되는	실행+하+아야+되+는	VERB	NNG+XSV+EC+VX+ETM	_	10	acl	_	_
+10	임무이라고	임무+이+라고	ADJ	NNG+VCP+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

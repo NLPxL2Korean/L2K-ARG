@@ -1,0 +1,305 @@
+# sent_id = ARG-HENG_12_1_01
+# text = 어렸을떼 언어를 배우는게 아주 좋고 중요한다고 생각을합니다.
+1	어렸을떼	어리+었+을+떼	VERB	VA+EP+ETM+NF	_	3	advcl	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는게	배우+는+것+이	VERB	VV+ETM+NNB+JKS	_	5	nsubj	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	좋고	좋+고	VERB	VA+EC	_	7	ccomp	_	_
+6	중요한다고	중요+하+ㄴ다고	VERB	NNG+XSA+EC	_	5	conj	_	_
+7	생각을합니다	생각+을+하+ㅂ니다	VERB	NNG+JKO+VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_12_1_01
+# text = 어릴때 붙어 많은 글과 교육을 받을수록 좋게 생각하고 있습니다.
+1	어릴때	어리+ㄹ+때	ADV	VA+ETM+NNG	_	6	advcl	_	_
+2	붙어	붙어	VERB	NA	_	1	case	_	_
+3	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+4	글과	글+과	NOUN	NNG+JC	_	6	obj	_	_
+5	교육을	교육+을	NOUN	NNG+JKO	_	4	conj	_	_
+6	받을수록	받+을수록	VERB	VV+EC	_	7	advcl	_	_
+7	좋게	좋+게	ADV	VA+EC	_	8	advcl	_	_
+8	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+9	있습니다	있+습니다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_12_1_02
+# text = 어린 나이 부터 다른 어너를 배우는 것은 일단 헐신 쉽습니다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이	나이	NOUN	NNG	_	6	obl	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	다른	다른	ADJ	VA+ETM	_	5	amod	_	_
+5	어너를	어너+를	NOUN	NF+JKO	_	6	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+8	일단	일단	ADV	MAG	_	10	advmod	_	_
+9	헐신	헐신	NOUN	NA	_	10	advmod	_	_
+10	쉽습니다	쉽+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_12_1_02
+# text = 나의가 많아질수록 새로운 것을 배우기가 점점 힘들어지고 여유도 없어집니다.
+1	나의가	나의+가	NOUN	NF+JX	_	2	nsubj	_	_
+2	많아질수록	많+아지+ㄹ수록	VERB	VA+XSV+EC	_	7	advcl	_	_
+3	새로운	새롭+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	5	obj	_	_
+5	배우기가	배우+기+가	NOUN	VV+ETN+JKS	_	7	nsubj	_	_
+6	점점	점점	ADV	MAG	_	7	advmod	_	_
+7	힘들어지고	힘들+어지+고	VERB	VA+XSV+EC	_	0	root	_	_
+8	여유도	여유+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	없어집니다	없+어지+ㅂ니다	ADJ	VA+XSV+EF	_	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_12_1_03
+# text = 나중에 어른이 되서 배우는 것보다는 어렸을 떼 배우는 게 헐쉰 빨릅니다.
+1	나중에	나중+에	ADV	NNG+JKB	_	3	obl	_	_
+2	어른이	어른+이	NOUN	NNG+JKC	_	3	nsubj	_	_
+3	되서	되+서	VERB	VV+EC	_	4	advcl	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것보다는	것+보다+는	ADV	NNB+JKB+JX	_	11	obl	_	_
+6	어렸을	어리+었+을	VERB	VA+EP+ETM	_	8	advcl	_	_
+7	떼	떼	NOUN	NF	_	6	mark	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	게	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	헐쉰	헐쉰	ADV	NA	_	11	advmod	_	_
+11	빨릅니다	빨르+ㅂ니다	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_12_1_03
+# text = 좋은 점은 많고 나쁜 점은 별로 없는걸로 생각을 합니다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	점은	점+은	NOUN	NNB+JX	_	3	nsubj	_	_
+3	많고	많+고	VERB	VA+EC	_	7	advcl	_	_
+4	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	점은	점+은	NOUN	NNB+JX	_	7	nsubj	_	_
+6	별로	별로	ADV	MAG	_	7	advmod	_	_
+7	없는걸로	없+는+걸+로	ADV	VA+ETM+NF+JKB	_	9	obl	_	_
+8	생각을	생각+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_12_1_04
+# text = 또한 저같은 경우에서는 어렸을떼 한국어를 배우는 것이 한국 문화와 역사를 가리쳐주었습니다.
+1	또한	또한	ADV	MAJ	_	11	cc	_	_
+2	저같은	저+같+은	ADJ	NP+VA+ETM	_	3	acl	_	_
+3	경우에서는	경우+에서+는	ADV	NNP+JKB+JX	_	11	obl	_	_
+4	어렸을떼	어리+었+을+떼	VERB	VA+EP+ETM+NF	_	6	advcl	_	_
+5	한국어를	한국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+8	한국	한국	NOUN	NNP	_	9	nmod	_	_
+9	문화와	문화+와	NOUN	NNG+JC	_	11	obj	_	_
+10	역사를	역사+를	NOUN	NNG+JKO	_	9	conj	_	_
+11	가리쳐주었습니다	가리치+어+주+었+습니다	VERB	NV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_12_1_04
+# text = 제가 아는 친구들은 한 language만 알고 있어서 어른들이나 한국에 있는 가족들과 대화를 힘들어 합니다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	아는	알+는	VERB	VV+ETM	_	3	acl	_	_
+3	친구들은	친구+들+은	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+4	한	한	NUM	MM	_	5	nummod	_	_
+5	language만	language+만	NOUN	SL+JX	_	6	obj	_	_
+6	알고	알+고	VERB	VV+EC	_	13	advcl	_	_
+7	있어서	있+어서	AUX	VX+EC	_	6	aux	_	_
+8	어른들이나	어른+들+이나	NOUN	NNG+XSN+JC	_	13	obl	_	_
+9	한국에	한국+에	ADV	NNP+JKB	_	10	obl	_	_
+10	있는	있+는	VERB	VV+ETM	_	11	acl	_	_
+11	가족들과	가족+들+과	ADV	NNG+XSN+JKB	_	8	conj	_	_
+12	대화를	대화+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	힘들어	힘들+어	VERB	VA+EC	_	0	root	_	_
+14	합니다	하+ㅂ니다	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_12_1_05
+# text = 미국에서 태워난 교표에게 한국에 대해 소개해주었습니다.
+1	미국에서	미국+에서	ADV	NNP+JKB	_	2	obl	_	_
+2	태워난	태워나+ㄴ	VERB	NV+EC	_	3	acl	_	_
+3	교표에게	교표+에게	NOUN	NF+JKB	_	6	obl	_	_
+4	한국에	한국+에	ADV	NNP+JKB	_	5	obl	_	_
+5	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+6	소개해주었습니다	소개+하+아+주+었+습니다	VERB	NNG+XSV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_12_1_05
+# text = 저는 어렸을 떼 한글학교를 싫어했지만 요즘에는 그런 생각이 전혀 없습니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	어렸을	어리+었+을	VERB	VA+EP+ETM	_	5	advcl	_	_
+3	떼	떼	NOUN	NF	_	2	mark	_	_
+4	한글학교를	한글+학교+를	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	싫어했지만	싫어하+았+지만	VERB	VV+EP+EC	_	10	advcl	_	_
+6	요즘에는	요즘+에+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+7	그런	그런	DET	MM	_	8	det	_	_
+8	생각이	생각+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	전혀	전혀	ADV	MAG	_	10	advmod	_	_
+10	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_12_1_06
+# text = 추석, 새해, 딱지, 종이접기, 태권도, 이런 것들을 가려추었습니다.
+1	추석	추석	NOUN	NNG	_	12	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	새해	새해	NOUN	NNG	_	12	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	딱지	딱지	NOUN	NNG	_	12	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	종이접기	종이접+기	NOUN	NNG	_	12	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	태권도	태권도	NOUN	NNG	_	12	list	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	이런	이런	ADJ	MM	_	12	amod	_	_
+12	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	13	obj	_	_
+13	가려추었습니다	가려추+었+습니다	VERB	NV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_12_1_06
+# text = 한국에 있는 사촌들과 식구란 연락을 주고받고해서 후에가 없습니다.
+1	한국에	한국+에	ADV	NNP+JKB	_	2	obl	_	_
+2	있는	있+는	VERB	VV+ETM	_	3	acl	_	_
+3	사촌들과	사촌+들+과	NOUN	NNG+XSN+JC	_	6	obl	_	_
+4	식구란	식구+란	NOUN	NNG+NA	_	3	conj	_	_
+5	연락을	연락+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	주고받고해서	주+고+받+고+하+아서	VERB	VV+EC+VV+EC+VV+EC	_	8	advcl	_	_
+7	후에가	후에+가	ADV	NF+JKS	_	8	nsubj	_	_
+8	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_12_1_07
+# text = 하지만, 솔칙이 말하면, 어렸을떼 다른 어너를 배우는 것에 나쁜 점들도 있습니다.
+1	하지만	하지만	ADV	MAJ	_	13	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	솔칙이	솔칙이	NOUN	NA	_	4	advmod	_	_
+4	말하면	말+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	어렸을떼	어리+었+을+떼	VERB	VV+EP+ETM+NF	_	9	advcl	_	_
+7	다른	다른	ADJ	MM	_	8	amod	_	_
+8	어너를	어너+를	NOUN	NF+JKO	_	9	obj	_	_
+9	배우는	배우+는	VERB	VV+ETM	_	10	acl	_	_
+10	것에	것+에	ADV	NNB+JKB	_	13	obl	_	_
+11	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	점들도	점+들+도	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_12_1_07
+# text = 우리도 새로운 가족을 시작하면서도 자식들한테도 한글어와 다른 나라의 글을 가르칠 노력을 할 것입니다.
+1	우리도	우리+도	PRON	NP+JX	_	12	nsubj	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	가족을	가족+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	시작하면서도	시작+하+면서+도	VERB	NNG+XSV+EC+JX	_	13	advcl	_	_
+5	자식들한테도	자식+들+한테+도	ADV	NNG+XSN+JKB+JX	_	10	obl	_	_
+6	한글어와	한글+어+와	NOUN	NNG+XSN+JC	_	10	obj	_	_
+7	다른	다른	ADJ	MM	_	8	amod	_	_
+8	나라의	나라+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	글을	글+을	NOUN	NNG+JKO	_	6	conj	_	_
+10	가르칠	가르치+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	노력을	노력+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_12_1_08
+# text = 어린 아이가 영어를 배우는 것도 힘든데, 동시에 다른 어너를 배우려니까, 힘든 경우가 많았습니다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	아이가	아이+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	영어를	영어+를	NOUN	NNP+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것도	것+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	힘든데	힘들+ㄴ데	VERB	VA+EC	_	11	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	동시에	동시+에	ADV	NNG+JKB	_	11	obl	_	_
+9	다른	다른	ADJ	MM	_	10	amod	_	_
+10	어너를	어너+를	NOUN	NF+JKO	_	11	obj	_	_
+11	배우려니까	배우+려니까	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	힘든	힘들+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	경우가	경우+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	많았습니다	많+았+습니다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_12_1_08
+# text = 어렷을떼 그렇게 싫어하던 교육이 이재야 감사하게 생각을 하게 됩니다.
+1	어렷을떼	어리+엇+을+떼	NOUN	VA+NA+ETM+NF	_	3	advcl	_	_
+2	그렇게	그렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	싫어하던	싫어하+던	VERB	VV+ETM	_	4	acl	_	_
+4	교육이	교육+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+5	이재야	이재야	ADV	NA	_	8	advmod	_	_
+6	감사하게	감사+하+게	ADV	NNG+XSA+EC	_	8	advmod	_	_
+7	생각을	생각+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	하게	하+게	VERB	VV+EC	_	0	root	_	_
+9	됩니다	되+ㅂ니다	VERB	VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_12_1_09
+# text = 재 어린 기억에, 재가 "R" 소리를 잘 못 말한 기억이 많습니다.
+1	재	재	NOUN	NF	_	2	nmod	_	_
+2	어린	어리+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	기억에	기억+에	ADV	NNG+JKB	_	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	1	punct	_	_
+5	재가	재+가	NOUN	NF+JKS	_	10	nsubj	_	_
+6	"R"	"+R+"	VERB	SS+SL+SS	_	7	nmod	_	_
+7	소리를	소리+를	NOUN	NNG+JKO	_	10	obj	_	_
+8	잘	잘	ADV	MAG	_	10	advmod	_	_
+9	못	못	ADV	MAG	_	10	advmod	_	_
+10	말한	말+하+ㄴ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	기억이	기억+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_12_1_09
+# text = 아직도 글을 쓰는거를 힘들어해도 후에나 나쁘게 생각을 안합니다.
+1	아직도	아직+도	ADV	MAG+JX	_	4	advmod	_	_
+2	글을	글+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	쓰는거를	쓰+는+거+를	NOUN	VV+ETM+NNB+JKO	_	4	obj	_	_
+4	힘들어해도	힘들+어+하+아도	VERB	VA+EC+VX+EC	_	8	advcl	_	_
+5	후에나	후+에+나	ADV	NNG+JKB+JX	_	8	obl	_	_
+6	나쁘게	나쁘+게	ADV	VA+EC	_	8	advmod	_	_
+7	생각을	생각+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	안합니다	안+하+ㅂ니다	ADJ	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_12_1_10
+# text = 그래서 "World" 아니면 "Warm' 같은 말을 했었을 떼 놀림받은 기억들이 있습니다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	"World"	"+World+"	NOUN	SS+SL+SS	_	5	obl	_	_
+3	아니면	아니+면	VERB	VCN+EC	_	5	advcl	_	_
+4	"Warm'	"+Warm+'	NOUN	SS+SL+SS	_	2	conj	_	_
+5	같은	같+은	VERB	VA+ETM	_	6	acl	_	_
+6	말을	말+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	했었을	하+았었+을	VERB	VV+EP+ETM	_	11	advcl	_	_
+8	떼	떼	NOUN	NF	_	7	mark	_	_
+9	놀림받은	놀림+받+은	VERB	NNG+VV+EC	_	10	acl	_	_
+10	기억들이	기억+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_12_1_11
+# text = 결과는 하지만 어린 나이떼 다른 어너를 배우는 것은 아주 좋다고 생각합니다.
+1	결과는	결과+는	NOUN	NNG+JX	_	10	dislocated	_	_
+2	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+3	어린	어리+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나이떼	나이+떼	ADV	NNG+NF	_	7	obl	_	_
+5	다른	다른	ADJ	VA+ETM	_	6	amod	_	_
+6	어너를	어너+를	NOUN	NF+JKO	_	7	obj	_	_
+7	배우는	배우+는	VERB	VV+ETM	_	8	acl	_	_
+8	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+9	아주	아주	ADV	MAG	_	10	advmod	_	_
+10	좋다고	좋+다고	VERB	VA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_12_1_12
+# text = 어렸을 떼는 좀 힘들었지만, 어른이 되어서 부모님한테 감사하고 한국어를 할수있어서 아주 다행입니다.
+1	어렸을	어리+었+을	VERB	VA+EP+ETM	_	4	advcl	_	_
+2	떼는	떼+는	NOUN	NF+JX	_	1	mark	_	_
+3	좀	좀	ADV	MAG	_	4	advmod	_	_
+4	힘들었지만	힘들+었+지만	VERB	VA+EP+EC	_	13	advcl	_	_
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	어른이	어른+이	NOUN	NNG+JKC	_	7	nsubj	_	_
+7	되어서	되+어서	VERB	VV+EC	_	13	advcl	_	_
+8	부모님한테	부모+님+한테	ADV	NNG+XSN+JKB	_	9	obl	_	_
+9	감사하고	감사+하+고	VERB	NNG+XSV+EC	_	11	advcl	_	_
+10	한국어를	한국어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	할수있어서	하+ㄹ+수+있+어서	VERB	VV+ETM+NNB+VX+EC	_	13	advcl	_	_
+12	아주	아주	ADV	MAG	_	13	advmod	_	_
+13	다행입니다	다행+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

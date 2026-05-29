@@ -1,0 +1,129 @@
+# sent_id = ARG-CZH_10_3_01
+# text = 협동과 경쟁을 중에서 하나만을 고르는 것이 어렵다고 생각한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	5	obl	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	1	conj	_	_
+3	중에서	중+에서	ADV	NNB+JKB	_	2	case	_	_
+4	하나만을	하나+만+을	NOUN	NNG+JX+JKO	_	5	obj	_	_
+5	고르는	고르+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	어렵다고	어렵+다고	ADJ	VA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_10_3_02
+# text = 두 개는 중요하고 필이 있어 보인다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	개는	개+는	NOUN	NNB+JX	_	3	nsubj	_	_
+3	중요하고	중요+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+4	필이	필이	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+5	있어	있+어	VERB	VV+EC	_	3	conj	_	_
+6	보인다	보이+ㄴ다	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_10_3_03
+# text = 개인적인 성장을 위해서 다른 사람과 경쟁이 도와 줄 수 있다.
+1	개인적인	개인+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	2	amod	_	_
+2	성장을	성장+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	7	advcl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	사람과	사람+과	NOUN	NNG+JC	_	7	obl	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	도와	돕+아	VERB	VV+EC	_	9	acl	_	_
+8	줄	주+ㄹ	VERB	VX+ETM	_	7	advcl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_10_3_04
+# text = 등료나 친구 실력에 재 실력을 비교할 수 있어서 어떤 점에 더 잘 할 수 있다고 빨리 배울 수 있다.
+1	등료나	등료+나	NOUN	NNG+JC	_	3	nmod	_	_
+2	친구	친구	NOUN	NNG	_	1	conj	_	_
+3	실력에	실력+에	ADV	NNG+JKB	_	6	obl	_	_
+4	재	재	NOUN	NF	Typo=Yes	5	nmod	_	_
+5	실력을	실력+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	비교할	비교+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있	AUX	VX+EC	_	19	advcl	_	_
+9	어떤	어떤	DET	MM	_	10	det	_	_
+10	점에	점+에	ADV	NNB+JKB	_	13	obl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	잘	잘	ADV	MAG	_	13	advmod	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다고	있	AUX	VX+EC	_	17	ccomp	_	_
+16	빨리	빨리	ADV	MAG	_	17	advmod	_	_
+17	배울	배우+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CZH_10_3_05
+# text = 근처에서 다른 사람들이 더 잘 하면 세상의 끝이 아니다.
+1	근처에서	근처+에서	ADV	NNG+JKB	_	6	obl	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+7	세상의	세상+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	끝이	끝+이	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_10_3_06
+# text = 반대로, 건강한 동의를 줄 수 있는 상태이다.
+1	반대로	반대+로	ADV	NNG+JKB	_	8	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	건강한	건강+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	동의를	동의+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	줄	주+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	상태이다	상태+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_10_3_07
+# text = 팀에서 일하기를 위해서 협동이 제일 중요하다고 생각한다.
+1	팀에서	팀+에서	ADV	NNG+JKB	_	2	obl	_	_
+2	일하기를	일+하+기+를	VERB	NNG+XSV+ETN+JKO	_	3	obj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	6	advcl	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_10_3_08
+# text = 어떤 회사나 학교에서 더 높은 결과를 얻기 위해서 사람들이 항상 팀과 함께 일한다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	회사나	회사+나	NOUN	NNG+JC	_	7	obl	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	2	conj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	높은	높+은	ADJ	VA+ETM	_	6	acl	_	_
+6	결과를	결과+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	얻기	얻+기	VERB	VV+ETN	_	8	obj	_	_
+8	위해서	위하+아서	VERB	VV+EC	_	13	advcl	_	_
+9	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+10	항상	항상	ADV	MAG	_	13	advmod	_	_
+11	팀과	팀+과	ADV	NNG+JKB	_	13	obl	_	_
+12	함께	함께	ADV	MAG	_	13	advmod	_	_
+13	일한다	일+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_10_3_09
+# text = 결국, 협동과 경쟁에 대해서 '도구'라고 생각하면 위 삶에 큰 도움이 될 수 있다.
+1	결국	결국	ADV	MAG	_	14	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	7	punct	_	_
+3	협동과	협동+과	NOUN	NNG+JC	_	5	obl	_	_
+4	경쟁에	경쟁+에	ADV	NNG+JKB	_	3	conj	_	_
+5	대해서	대하+아서	VERB	VV+EC	_	7	advcl	_	_
+6	'도구'라고	'+도구+'+라고	VERB	SS+NNG+SS+JKQ	_	7	ccomp	_	_
+7	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+8	위	위	NOUN	NNG	_	9	nmod	_	_
+9	삶에	삶+에	ADV	NNG+JKB	_	12	obl	_	_
+10	큰	크+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	도움이	도움+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	될	되+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

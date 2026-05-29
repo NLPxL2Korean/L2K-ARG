@@ -1,0 +1,234 @@
+# sent_id = ARG-ENG_03_3_06_1
+# text = 경쟁은 분노와 미움이면 협동은 만족함과 평화다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	분노와	분노+와	NOUN	NNG+JC	_	5	advcl	_	_
+3	미움이면	미움+이+면	ADJ	NNG+VCP+EC	_	2	conj	_	_
+4	협동은	협동+은	NOUN	NNG+JX	_	5	nsubj	_	_
+5	만족함과	만족+하+ㅁ+과	VERB	NNG+XSV+ETN+JC	_	0	root	_	_
+6	평화다	평화+이+다	ADJ	NNG+VCP+EF	Typo=Yes	5	conj	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_03_3_01_1
+# text = 인생의 모든 면에서 치열하게 경쟁하게 되면 오히려 악영향을 미칠 수 있다고 주장한다.
+1	인생의	인생+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	모든	모든	DET	MM	_	3	det	_	_
+3	면에서	면+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	치열하게	치열+하+게	ADV	NNG+XSA+EC	_	5	advmod	_	_
+5	경쟁하게	경쟁+하+게	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	되면	되+면	VERB	VX+EC	_	5	advcl	_	_
+7	오히려	오히려	ADV	MAG	_	9	advmod	_	_
+8	악영향을	악+영향+을	NOUN	XPN+NNG+JKO	_	9	obj	_	_
+9	미칠	미치+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	주장한다	주장+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_03_3_09_1
+# text = 인생은 혼자서 하는 일이 아니기 때문에 협동은 필수적이라고 본다.
+1	인생은	인생+은	NOUN	NNG+JX	_	5	dislocated	_	_
+2	혼자서	혼자+서	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	일이	일+이	NOUN	NNG+JKC	_	5	nsubj	_	_
+5	아니기	아니+기	ADJ	VCN+ETN	_	8	obl	_	_
+6	때문에	때문+에	ADV	NNB+JKB	_	5	case	_	_
+7	협동은	협동+은	NOUN	NNG+JX	_	8	nsubj	_	_
+8	필수적이라고	필수+적+이+라고	ADJ	NNG+XSN+VCP+EC	_	9	ccomp	_	_
+9	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_03_3_02_1
+# text = 그러므로 협동과 경쟁 중 협동을 더 선호한다.
+1	그러므로	그러므로	ADV	MAJ	_	7	cc	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	7	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중	중	NOUN	NNB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_03_3_01
+# text = 인생에 협동과 경쟁 경우 많잖아요.
+1	인생에	인생+에	ADV	NNG+JKB	_	5	obl	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	4	nmod	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	경우	경우	NOUN	NNG	_	5	nsubj	_	_
+5	많잖아요	많+잖아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_03_3_08_1
+# text = 게다가 협동으로 자기가 몰랐던 것과 상대방이 몰랐던 것을 서로한테 가르치면서 그 빈틈이 채우고 주고 받으면서 든든한 팀이 될 것이다.
+1	게다가	게다가	ADV	MAG	_	19	advmod	_	_
+2	협동으로	협동+으로	ADV	NNG+JKB	_	10	obl	_	_
+3	자기가	자기+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	몰랐던	모르+았+던	VERB	VV+EP+ETM	_	5	acl	_	_
+5	것과	것+과	ADV	NNB+JKB	_	10	obj	_	_
+6	상대방이	상대방+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	몰랐던	모르+았+던	VERB	VV+EP+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	5	conj	_	_
+9	서로한테	서로+한테	ADV	NNG+JKB	_	10	obl	_	_
+10	가르치면서	가르치+면서	VERB	VV+EC	_	13	advcl	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	빈틈이	빈틈+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	채우고	채우+고	VERB	VV+EC	_	19	advcl	_	_
+14	주고	주+고	VERB	VV+EC	_	15	advcl	_	_
+15	받으면서	받+으면서	VERB	VV+EC	_	13	conj	_	_
+16	든든한	든든+하+ㄴ	ADJ	XR+XSA+ETM	_	17	amod	_	_
+17	팀이	팀+이	NOUN	NNG+JKC	_	18	nsubj	_	_
+18	될	되+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_03_3_05_1
+# text = 사람의 수에 힘이 있는 까닭에 혼자서 하는 것보다 차라리 누군가와 같이 하는 것이 낫다.
+1	사람의	사람+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	수에	수+에	ADV	NNB+JKB	_	4	obl	_	_
+3	힘이	힘+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있는	있+는	VERB	VV+ETM	_	5	acl	_	_
+5	까닭에	까닭+에	ADV	NNB+JKB	_	14	obl	_	_
+6	혼자서	혼자+서	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것보다	것+보다	ADV	NNB+JKB	_	14	obl	_	_
+9	차라리	차라리	ADV	MAG	_	12	advmod	_	_
+10	누군가와	누구+이+ㄴ가+와	ADV	NP+VCP+EC+JKB	_	12	obl	_	_
+11	같이	같이	ADV	MAG	_	12	advmod	_	_
+12	하는	하+는	VERB	VV+ETM	_	13	acl	_	_
+13	것이	것+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	낫다	낫+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_03_3_07_1
+# text = 어떤 일이든 경쟁말고 협동으로 행위하면 해낼 수 있는 결과는 훨씬 더 좋다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	일이든	일+이+든	ADJ	NNG+VCP+EC	_	5	advcl	_	_
+3	경쟁말고	경쟁+말+고	VERB	NNG+VV+EC	_	5	advcl	_	_
+4	협동으로	협동+으로	ADV	NNG+JKB	_	5	obl	_	_
+5	행위하면	행위+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+6	해낼	해내+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	결과는	결과+는	NOUN	NNG+JX	_	12	nsubj	_	_
+10	훨씬	훨씬	ADV	MAG	_	11	advmod	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_03_3_04_1
+# text = 끝까지 포기하지 않게 싸우면 지치고 아무런 일이 잘 될 수가 없다.
+1	끝까지	끝+까지	NOUN	NNG+JX	_	2	obl	_	_
+2	포기하지	포기+하+지	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	않게	않	AUX	VX+EC	_	2	aux	_	_
+4	싸우면	싸우+면	VERB	VV+EC	_	5	advcl	_	_
+5	지치고	지치+고	VERB	VV+EC	_	11	advcl	_	_
+6	아무런	아무+런	DET	MM	_	7	det	_	_
+7	일이	일+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	될	되+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수가	수+가	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_03_3_03_1
+# text = 경쟁을 어느 정도 존재하는 것이 좋다고 부인할 수 없지만 협동없이 가능할 수 없을 것이다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+2	어느	어느	DET	MM	_	3	det	_	_
+3	정도	정도	NOUN	NNG	_	4	obl	_	_
+4	존재하는	존재+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	좋다고	좋+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	부인할	부인+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없지만	없+지만	ADJ	VA+EC	_	14	advcl	_	_
+10	협동없이	협동+없이	ADV	NNG+MAG	_	11	advcl	_	_
+11	가능할	가능+하+ㄹ	ADJ	NNG+XSA+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없을	없+을	ADJ	VA+ETM	_	14	acl	_	_
+14	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_03_3_02
+# text = 인간에 둘이 중요하지만 저는 협동을 선호해요.
+1	인간에	인간+에	ADV	NNG+JKB	_	3	obl	_	_
+2	둘이	둘이	NOUN	NR+JKS	_	3	nsubj	_	_
+3	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	6	advcl	_	_
+4	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_03_3_03
+# text = 다 함께 성공하는 것을 정말 좋아해서요.
+1	다	다	ADV	MAG	_	3	advmod	_	_
+2	함께	함께	ADV	MAG	_	3	advmod	_	_
+3	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+5	정말	정말	ADV	MAG	_	6	advmod	_	_
+6	좋아해서요	좋아하+아서+요	VERB	VV+EC+JX	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_03_3_04
+# text = 모두 열심히 노력하는 모습을 보면 아주 만족해요.
+1	모두	모두	ADV	MAG	_	3	advmod	_	_
+2	열심히	열심히	ADV	MAG	_	3	advmod	_	_
+3	노력하는	노력+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	모습을	모습+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	보면	보+면	VERB	VV+EC	_	7	advcl	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	만족해요	만족+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_03_3_05
+# text = 복잡한 문제를 풀리면서 사람들이 서로 도움 주면 분위기가 따뜻해지고 스트레쓰 없어져됴.
+1	복잡한	복잡+하+ㄴ	ADJ	XR+XSA+ETM	_	2	amod	_	_
+2	문제를	문제+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	풀리면서	풀리+면서	VERB	VV+EC	_	7	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	서로	서로	ADV	MAG	_	7	advmod	_	_
+6	도움	도움	NOUN	NNG	_	7	obj	_	_
+7	주면	주+면	VERB	VV+EC	_	9	advcl	_	_
+8	분위기가	분위기+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	따뜻해지고	따뜻+하+아지+고	VERB	XR+XSA+XSV+EC	_	0	root	_	_
+10	스트레쓰	스트레쓰	NOUN	NF	Typo=Yes	11	nsubj	_	_
+11	없어져됴	없+어지+어됴	VERB	VA+XSV+NA	Typo=Yes	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_03_3_06
+# text = 같은 사람이랑 자주 협동 활동하면 관계 더 깊어져요.
+1	같은	같+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람이랑	사람+이랑	ADV	NNG+JKB	_	5	obl	_	_
+3	자주	자주	ADV	MAG	_	5	advmod	_	_
+4	협동	협동	NOUN	NNG	_	5	obj	_	_
+5	활동하면	활동+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+6	관계	관계	NOUN	NNG	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	깊어져요	깊+어지+어요	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_03_3_07
+# text = 경쟁은 외로워질 만든 사람 많잖아요.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	외로워질	외롭+어지+ㄹ	VERB	VA+XSV+ETM	_	4	acl	_	_
+3	만든	만들+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	사람	사람	NOUN	NNG	_	5	nsubj	_	_
+5	많잖아요	많+잖아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_03_3_08
+# text = 한번 이긴 다음에 욕심도 생길 수 있어요.
+1	한번	한+번	NOUN	MM+NNB	_	2	obj	_	_
+2	이긴	이기+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	다음에	다음+에	ADV	NNG+JKB	_	5	obl	_	_
+4	욕심도	욕심+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	생길	생기+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_03_3_09
+# text = 그래서 저는 협동을 선호해요.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

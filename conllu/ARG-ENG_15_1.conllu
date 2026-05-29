@@ -1,0 +1,61 @@
+# sent_id = ARG-ENG_15_1_01
+# text = 언어 배우고 좋네요.
+1	언어	언어	NOUN	NNG	_	2	obj	_	_
+2	배우고	배우+고	VERB	VV+EC	_	3	advcl	_	_
+3	좋네요	좋+네요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_15_1_02
+# text = 많이 사람들이 많은 언어들 말해요.
+1	많이	많이	ADV	MAG	_	5	advmod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	많은	많+은	VERB	VA+ETM	_	4	amod	_	_
+4	언어들	언어+들	NOUN	NNG+XSN	_	5	obj	_	_
+5	말해요	말+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_1_03
+# text = 언어교육은 머리를 좋아합니다.
+1	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	3	nsubj	_	_
+2	머리를	머리+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_15_1_04
+# text = 언어교육 있으면 학생들이 특히 똑똑할게요.
+1	언어교육	언어+교육	NOUN	NNG+NNG	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	5	advcl	_	_
+3	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	특히	특히	ADV	MAG	_	5	advmod	_	_
+5	똑똑할게요	똑똑+하+ㄹ게요	VERB	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_1_05
+# text = 그리고 학생들이는 많은 사람를 연락할 돼요.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	학생들이는	학생+들+이+는	NOUN	NNG+XSN+JKS+JX	_	5	nsubj	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	사람를	사람+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	연락할	연락+하+ㄹ	VERB	NNG+XSV+ETM	_	0	root	_	_
+6	돼요	되+어요	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_1_06
+# text = 언어교육으로 학생들이 사람를 기쁨 알아고 할게요.
+1	언어교육으로	언어+교육+으로	ADV	NNG+NNG+JKB	_	6	obl	_	_
+2	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	사람를	사람+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	기쁨	기쁨	NOUN	NNG	_	5	obj	_	_
+5	알아고	알+아+고	VERB	VV+EC+EC	_	6	advcl	_	_
+6	할게요	하+ㄹ게요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_15_1_07
+# text = 나쁜 쪽으로 조기언어교육 학생한테 스트레스 받았습니다.
+1	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	쪽으로	쪽+으로	ADV	NNG+JKB	_	6	obl	_	_
+3	조기언어교육	조기+언어+교육	NOUN	NNG+NNG+NNG	_	6	obl	_	_
+4	학생한테	학생+한테	ADV	NNG+JKB	_	6	obl	_	_
+5	스트레스	스트레스	NOUN	NNG	_	6	obj	_	_
+6	받았습니다	받+았+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

@@ -1,0 +1,190 @@
+# sent_id = ARG-CHN_28_1_01
+# text = 자연 보존보다 자연 개발이 더 중요한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존보다	보존+보다	ADV	NNG+JKB	_	6	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발이	개발+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_28_1_02
+# text = 먼저, 자연 보존은 기유 자원을 보존하는 말이다.
+1	먼저	먼저	ADV	MAG	_	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존은	보존+은	NOUN	NNG+JX	_	8	nsubj	_	_
+5	기유	기유	NOUN	NF	Typo=Yes	6	nmod	_	_
+6	자원을	자원+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	말이다	말+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_28_1_03
+# text = 기유 자원을 보존하는 것이도 중요하지만 그 자원을 그대로 남길 수 있지만 언제가는 보존했어도 사라질 것이다.
+1	기유	기유	NOUN	NF	Typo=Yes	2	nmod	_	_
+2	자원을	자원+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이도	것+이+도	NOUN	NNB+JKS+JX	_	5	nsubj	_	_
+5	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	15	advcl	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	자원을	자원+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	그대로	그대로	ADV	MAG	_	9	advmod	_	_
+9	남길	남기+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있지만	있+지만	VERB	VX+EC	_	15	advcl	_	_
+12	언제가는	언제가+는	ADV	NA+JX	Typo=Yes	14	advmod	_	_
+13	보존했어도	보존+하+았+어도	VERB	NNG+XSV+EP+EC	_	14	advcl	_	_
+14	사라질	사라지+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_28_1_04
+# text = 그러나 계속 계발하면은 더 생길 것이다.
+1	그러나	그러나	ADV	MAJ	_	6	cc	_	_
+2	계속	계속	ADV	MAG	_	3	advmod	_	_
+3	계발하면은	계발+하+면+은	VERB	NNG+XSV+EC+JX	_	6	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	생길	생기+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_28_1_05
+# text = 다음은 자연 보존을 해도 다 보존할 수 있는 것이 아니다.
+1	다음은	다음+은	NOUN	NNG+JX	_	4	obl	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존을	보존+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	해도	하+아도	VERB	VV+EC	_	10	advcl	_	_
+5	다	다	ADV	MAG	_	6	advmod	_	_
+6	보존할	보존+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKC	_	10	nsubj	_	_
+10	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_28_1_06
+# text = 인위 손해도 있기 때문이다.
+1	인위	인위	NOUN	NF	Typo=Yes	2	nmod	_	_
+2	손해도	손해+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있기	있+기	ADJ	VA+ETN	_	4	nmod	_	_
+4	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_28_1_07
+# text = 그런 인위 손해 행위를 막기려면 상당히 많은 노동력이 필요한다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	인위	인위	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	손해	손해	NOUN	NNG	_	4	nmod	_	_
+4	행위를	행위+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	막기려면	막+기+려면	VERB	VV+ETN+EC	_	9	advcl	_	_
+6	상당히	상당히	ADV	MAG	_	7	advmod	_	_
+7	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+8	노동력이	노동력+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	필요한다	필요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_28_1_08
+# text = 그러면 지원도 낭비하고 성과도 큰지는 모른다.
+1	그러면	그러면	ADV	MAJ	_	6	cc	_	_
+2	지원도	지원+도	NOUN	NNG+JX	_	3	obj	_	_
+3	낭비하고	낭비+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+4	성과도	성과+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	큰지는	크+ㄴ지+는	ADJ	VA+EC+JX	_	6	obj	_	_
+6	모른다	모르+ㄴ다	VERB	VV+EF	_	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_28_1_09
+# text = 반면에 자연개발을 하려면 그쪽만 집중하면 도니다.
+1	반면에	반면+에	ADV	NNG+JKB	_	6	obl	_	_
+2	자연개발을	자연+개발+을	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	하려면	하+려면	VERB	VV+EC	_	6	advcl	_	_
+4	그쪽만	그+쪽+만	NOUN	MM+NNG+JX	_	5	obl	_	_
+5	집중하면	집중+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+6	도니다	도+니다	VERB	NV+NA	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_28_1_10
+# text = 자연보존보다 지원을 그렇기 들지 않기 때문이다.
+1	자연보존보다	자연+보존+보다	ADV	NNG+NNG+JKB	_	4	obl	_	_
+2	지원을	지원+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	그렇기	그렇+기	ADV	VA+NA	Typo=Yes	4	advmod	_	_
+4	들지	들+지	VERB	VV+EC	_	6	nmod	_	_
+5	않기	않	AUX	VX+ETN	_	4	aux	_	_
+6	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_28_1_11
+# text = 생태 위기, 기온 이상 등 여러 천연 재해를 발생하고 있기 때문에 자연은 손해를 받고 있다.
+1	생태	생태	NOUN	NNG	_	2	nmod	_	_
+2	위기	위기	NOUN	NNG	_	5	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	기온	기온	NOUN	NNG	_	5	nmod	_	_
+5	이상	이상	NOUN	NNG	_	9	ccomp	_	_
+6	등	등	NOUN	NNB	_	5	case	_	_
+7	여러	여러	DET	MM	_	9	det	_	_
+8	천연	천연	NOUN	NNG	_	9	nmod	_	_
+9	재해를	재해+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	발생하고	발생+하+고	VERB	NNG+XSV+EC	_	15	obl	_	_
+11	있기	있	AUX	VX+ETN	_	10	aux	_	_
+12	때문에	때문+에	ADV	NNB+JKB	_	10	case	_	_
+13	자연은	자연+은	NOUN	NNG+JX	_	15	nsubj	_	_
+14	손해를	손해+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	받고	받+고	VERB	VV+EC	_	0	root	_	_
+16	있다	있	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_28_1_12
+# text = 어떤 물종은 사라지고 있다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	물종은	물종+은	NOUN	NF+JX	Typo=Yes	3	nsubj	_	_
+3	사라지고	사라지+고	VERB	VV+EC	_	0	root	_	_
+4	있다	있	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_28_1_13
+# text = 더 이상 자연 개발을 하지 않고 이미 손해된 자연을 보존만 생각하고 있으면 안 된다.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	이상	이상	ADV	NNG	_	5	advmod	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발을	개발+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하지	하+지	VERB	VV+EC	_	11	advcl	_	_
+6	않고	않	AUX	VX+EC	_	5	aux	_	_
+7	이미	이미	ADV	MAG	_	8	advmod	_	_
+8	손해된	손해+되+ㄴ	VERB	NNG+XSV+EC	_	9	acl	_	_
+9	자연을	자연+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	보존만	보존+만	NOUN	NNG+JX	_	11	obj	_	_
+11	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+12	있으면	있	AUX	VX+EC	_	11	aux	_	_
+13	안	안	ADV	MAG	_	11	advmod	_	_
+14	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_28_1_14
+# text = 손해된 자연은 아무리 보존해도 그대로 돌아오지 않기 마련이기 때문이다.
+1	손해된	손해+되+ㄴ	VERB	NNG+XSV+ETM	_	2	acl	_	_
+2	자연은	자연+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	아무리	아무리	ADV	MAG	_	4	advmod	_	_
+4	보존해도	보존+하+아도	VERB	NNG+XSV+EC	_	6	advcl	_	_
+5	그대로	그대로	ADV	MAG	_	6	advmod	_	_
+6	돌아오지	돌아오+지	VERB	VV+EC	_	8	obj	_	_
+7	않기	않	AUX	VX+ETN	_	6	aux	_	_
+8	마련이기	마련+이+기	NOUN	NNB+VCP+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_28_1_15
+# text = 차라리 개발 쪽으로 집중하고 이미 손해된 자연의 부분을 최대한 채운 것이 좋다.
+1	차라리	차라리	ADV	MAG	_	4	advmod	_	_
+2	개발	개발	NOUN	NNG	_	3	nmod	_	_
+3	쪽으로	쪽+으로	ADV	NNB+JKB	_	4	obl	_	_
+4	집중하고	집중+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+5	이미	이미	ADV	MAG	_	6	advmod	_	_
+6	손해된	손해+되+ㄴ	VERB	NNG+XSV+EC	_	7	acl	_	_
+7	자연의	자연+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	부분을	부분+을	NOUN	NNG+JKO	_	10	obj	_	_
+9	최대한	최대한	ADV	MAG	_	10	advmod	_	_
+10	채운	채우+ㄴ	VERB	VV+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

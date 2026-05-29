@@ -1,0 +1,128 @@
+# sent_id = ARG-CZH_04_2_01
+# text = 제 생각에는 역사를 배우지 않아면 안 된다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우지	배우+지	VERB	VV+EC	_	7	advcl	_	_
+5	않아면	않	AUX	VX+NA	Typo=Yes	4	aux	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_04_2_02
+# text = 그 이유는 역사에서는 중요한 배워야 할 좀이 많다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	8	dislocated	_	_
+3	역사에서는	역사+에서+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	acl	_	_
+6	할	하	AUX	VX+ETM	_	5	aux	_	_
+7	좀이	좀+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_04_2_03
+# text = 역사에 대해서 하나도 모르면 사회가 개발 할 수 없는 것 같다.
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+3	하나도	하나+도	NUM	NR+JX	_	4	obl	_	_
+4	모르면	모르+면	VERB	VV+EC	_	11	advcl	_	_
+5	사회가	사회+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	개발	개발+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	8	acl	_	_
+7	할	_	X	_	_	6	goeswith	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없는	없+는	VERB	VX+ETM	_	10	acl	_	_
+10	것	것	NOUN	NNB	_	11	nsubj	_	_
+11	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_04_2_04
+# text = 옛날 사람들이 무엇을 잘 하고 무엇을 잘 못 했다.
+1	옛날	옛날	NOUN	NNG	_	2	nmod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	무엇을	무엇+을	PRON	NP+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	하고	하+고	VERB	VV+EC	_	0	root	_	_
+6	무엇을	무엇+을	PRON	NP+JKO	_	9	obj	_	_
+7	잘	잘	ADV	MAG	_	9	advmod	_	_
+8	못	못	ADV	MAG	_	9	advmod	_	_
+9	했다	하+았+다	VERB	VV+EP+EF	_	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_04_2_05
+# text = 이 것을 아라야 잘 살 수 있다고 생각한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	아라야	아라+야	VERB	NV+NA	Typo=Yes	7	advcl	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	살	살+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VX+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_04_2_06
+# text = 물론, 역사만 알면 다 아는 것이 아니다.
+1	물론	물론	ADV	MAG	_	8	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사만	역사+만	NOUN	NNG+JX	_	4	obj	_	_
+4	알면	알+면	VERB	VV+EC	_	6	advcl	_	_
+5	다	다	ADV	MAG	_	8	advmod	_	_
+6	아는	알+는	VERB	VV+ETM	_	8	acl	_	_
+7	것이	것+이	NOUN	NNB+JKC	_	8	nsubj	_	_
+8	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_04_2_07
+# text = 하지만 사람이 무조건 알아야 하는 것 중에 하나라고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	무조건	무조건	ADV	MAG	_	4	advmod	_	_
+4	알아야	알+아야	VERB	VV+EC	_	6	acl	_	_
+5	하는	하	AUX	VX+ETM	_	4	aux	_	_
+6	것	것	NOUN	NNB	_	8	obl	_	_
+7	중에	중+에	ADV	NNB+JKB	_	6	case	_	_
+8	하나라고	하나+이+라고	ADJ	NP+VCP+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_04_2_08
+# text = 학교에서나 가족들한테 어렸을 때부터 우리나라와 다른나라의 역사에 대해 들으면 아이들이 이 세상, 이 사회를 더 쉽게 이해할 수 있을 것 같다.
+1	학교에서나	학교+에서+나	ADV	NNG+JKB+JC	_	9	obl	_	_
+2	가족들한테	가족+들+한테	ADV	NNG+XSN+JKB	_	1	conj	_	_
+3	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	9	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	우리나라와	우리+나라+와	NOUN	NP+NNG+JC	_	7	nmod:poss	_	_
+6	다른나라의	다른+나라+의	NOUN	MM+NNG+JKG	_	5	conj	_	_
+7	역사에	역사+에	ADV	NNG+JKB	_	8	obl	_	_
+8	대해	대하+아	VERB	VV+EC	_	9	advcl	_	_
+9	들으면	듣+으면	VERB	VV+EC	_	22	advcl	_	_
+10	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	18	nsubj	_	_
+11	이	이	DET	MM	_	12	det	_	_
+12	세상	세상	NOUN	NNG	_	15	list	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	이	이	DET	MM	_	15	det	_	_
+15	사회를	사회+를	NOUN	NNG+JKO	_	18	obj	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	쉽게	쉽+게	ADV	VA+EC	_	18	advmod	_	_
+18	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있을	있+을	VERB	VX+ETM	_	21	acl	_	_
+21	것	것	NOUN	NNB	_	22	nsubj	_	_
+22	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-CZH_04_2_09
+# text = 사회를 빨리 이해하게 되면 앞으로 잘 살 수 있을 거라고 생각한다.
+1	사회를	사회+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	빨리	빨리	ADV	MAG	_	3	advmod	_	_
+3	이해하게	이해+하+게	VERB	NNG+XSV+EC	_	10	advcl	_	_
+4	되면	되+면	VERB	VX+EC	_	3	advcl	_	_
+5	앞으로	앞+으로	ADV	NNG+JKB	_	7	obl	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	살	살+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있을	있+을	VERB	VX+ETM	_	10	acl	_	_
+10	거라고	것+이+라고	ADJ	NNB+VCP+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

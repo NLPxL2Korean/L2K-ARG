@@ -1,0 +1,118 @@
+# sent_id = ARG-CZH_40_1_01
+# text = 요즘에 우리는 다른 나라에세 새활을 보고 싶다고 생각합니다.
+1	요즘에	요즘+에	ADV	NNG+JKB	_	8	obl	_	_
+2	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나라에세	나라+에세	NOUN	NNG+NA	Typo=Yes	6	obl	_	_
+5	새활을	새활+을	NOUN	NF+JKO	Typo=Yes	6	obj	_	_
+6	보고	보+고	VERB	VV+EC	_	8	ccomp	_	_
+7	싶다고	싶	AUX	VX+EC	_	6	aux	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_40_1_02
+# text = 그리고 그 좋은 나라 우리는 이사해야 됩니다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	그	그	DET	MM	_	4	det	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	나라	나라	NOUN	NNG	_	6	obl	_	_
+5	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+6	이사해야	이사+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+7	됩니다	되+ㅂ니다	VERB	VX+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_40_1_03
+# text = 다른 나라 다른 언어 사용합니다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나라	나라	NOUN	NNG	_	5	nsubj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	언어	언어	NOUN	NNG	_	5	obj	_	_
+5	사용합니다	사용+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_40_1_05
+# text = 제 부모님은 슬로보기아 언어 밖에 말 못 하고 아돌어께 영어이나 독일어 갈졌어 못 합니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	부모님은	부모+님+은	ADV	NNG+XSN+JKB	_	8	nsubj	_	_
+3	슬로보기아	슬로보기아	NOUN	NF	Typo=Yes	4	nmod	_	_
+4	언어	언어	NOUN	NNG	_	8	obl	_	_
+5	밖에	밖에	ADP	JX	_	4	case	_	_
+6	말	말	NOUN	NNG	_	8	obj	_	_
+7	못	못	ADV	MAG	_	8	advmod	_	_
+8	하고	하+고	VERB	VV+EC	_	12	advcl	_	_
+9	아돌어께	아돌어께	ADV	NA	Typo=Yes	12	advmod	_	_
+10	영어이나	영어+이나	NOUN	NNG+JC	_	12	obj	_	_
+11	독일어	독일어	NOUN	NNG	_	10	conj	_	_
+12	갈졌어	갈지+었+어	VERB	NV+EP+EC	Typo=Yes	14	advcl	_	_
+13	못	못	ADV	MAG	_	14	advmod	_	_
+14	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_40_1_06
+# text = 저는 언어를 학교에서 열 두 년 똥안 공부하고 영어로 그망 할 수 있었습니다.
+1	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	8	obl	_	_
+4	열	열	NUM	MM	_	5	nummod	_	_
+5	두	두	NUM	MM	_	6	nummod	_	_
+6	년	년	NOUN	NNB	_	8	obl	_	_
+7	똥안	똥안	NOUN	NF	Typo=Yes	6	case	_	_
+8	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+9	영어로	영어+로	ADV	NNG+JKB	_	11	obl	_	_
+10	그망	그망	ADV	NA	Typo=Yes	11	advmod	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있었습니다	있+었+습니다	ADJ	VX+EP+EF	_	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_40_1_07
+# text = 다음에 대학교를 영어로 한국어를 공부해야 된다고 잘 못 냈습니다.
+1	다음에	다음+에	ADV	NNG+JKB	_	9	obl	_	_
+2	대학교를	대학교+를	NOUN	NNG+JKO	_	9	obj	_	_
+3	영어로	영어+로	ADV	NNG+JKB	_	5	obl	_	_
+4	한국어를	한국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	된다고	되+ㄴ다고	VERB	VX+EC	_	5	advcl	_	_
+7	잘	잘	ADV	MAG	_	9	advmod	_	_
+8	못	못	ADV	MAG	_	9	advmod	_	_
+9	냈습니다	내+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_40_1_08
+# text = 그때무내 우리는 아이부토 왜국 언어 갈다고 생각합니다.
+1	그때무내	그때무내	NOUN	NA	Typo=Yes	7	obl	_	_
+2	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+3	아이부토	아이+부토	NOUN	NNG+NA	Typo=Yes	6	obl	_	_
+4	왜국	왜국	NOUN	NF	Typo=Yes	5	nmod	_	_
+5	언어	언어	NOUN	NNG	_	6	obl	_	_
+6	갈다고	같+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_40_1_04-2
+# text = 그 이유 때무내 언어부토 대학생까지 우리의 나라 말하고 왜국언어 공부해야 되고 선택합니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유	이유	NOUN	NNG	_	12	obl	_	_
+3	때무내	때무+내	NOUN	NF+NA	Typo=Yes	2	case	_	_
+4	언어부토	언어+부토	NOUN	NNG+NA	Typo=Yes	8	obl	_	_
+5	대학생까지	대학생+까지	NOUN	NNG+JX	_	8	obl	_	_
+6	우리의	우리+의	PRON	NP+JKG	_	7	nmod:poss	_	_
+7	나라	나라	NOUN	NNG	_	8	nmod	_	_
+8	말하고	말+하고	NOUN	NNG+JC	_	10	obj	_	_
+9	왜국언어	왜국+언어	NOUN	NF+NNG	Typo=Yes	8	conj	_	_
+10	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	12	advcl	_	_
+11	되고	되+고	VERB	VX+EC	_	10	advcl	_	_
+12	선택합니다	선택+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_40_1_04-1
+# text = 하지만 우리는 그냥 다른 언어를 말하지 못 합니다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+3	그냥	그냥	ADV	MAG	_	6	advmod	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	말하지	말+하+지	VERB	NNG+XSV+EC	_	8	ccomp	_	_
+7	못	못	ADV	MAG	_	8	advmod	_	_
+8	합니다	하+ㅂ니다	VERB	VV+EC	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

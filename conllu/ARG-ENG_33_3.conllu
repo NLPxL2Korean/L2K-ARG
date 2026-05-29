@@ -1,0 +1,195 @@
+# sent_id = ARG-ENG_33_3_01
+# text = 저는 협동과 경쟁 중에 협동을 선호한다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에	중+에	ADP	NNB+JKB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_33_3_02
+# text = 일자리에서 동료들하고 사이 잘 지내려면 경쟁하는 분위기보다 협동하는 분위기가 더 유리한다.
+1	일자리에서	일+자리+에서	ADV	NNG+NNG+JKB	_	5	obl	_	_
+2	동료들하고	동료+들+하고	VERB	NNG+XSN+JKB	_	5	obl	_	_
+3	사이	사+이	NOUN	NNG+JKS	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	지내려면	지내+려면	VERB	VV+EC	_	11	advcl	_	_
+6	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	분위기보다	분위기+보다	ADV	NNG+JKB	_	11	obl	_	_
+8	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	분위기가	분위기+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	유리한다	유리+하+ㄴ다	VERB	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_33_3_03
+# text = 금요일까지 끝내야할 일이 있으면 동료들을 일을 다 나눠서 같이 일하면 다음주에 다시 일자리에 가서 열심히 일했던 동료를 다시 보고싶지만 일을 따로해서 끝나면 집에 가도 된다는 프로젝트이면 집에 일찍 가면서 보스한테 칭찬받은 동료를 싫어하게 되고 일자리에 나가고 싶지 않아진다.
+1	금요일까지	금요일+까지	ADV	NNG+JX	_	2	obl	_	_
+2	끝내야할	끝내+아야+하+ㄹ	VERB	VV+EC+VX+ETM	_	3	acl	_	_
+3	일이	일+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	10	advcl	_	_
+5	동료들을	동료+들+을	NOUN	NNG+XSN+JKO	_	10	obj	_	_
+6	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	다	다	ADV	MAG	_	8	advmod	_	_
+8	나눠서	나누+어서	VERB	VV+EC	_	10	advcl	_	_
+9	같이	같이	ADV	MAG	_	10	advmod	_	_
+10	일하면	일+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+11	다음주에	다음+주+에	ADV	NNG+NNB+JKB	_	14	obl	_	_
+12	다시	다시	ADV	MAG	_	14	advmod	_	_
+13	일자리에	일+자리+에	ADV	NNG+NNG+JKB	_	14	obl	_	_
+14	가서	가+아서	VERB	VV+EC	_	19	advcl	_	_
+15	열심히	열심히	ADV	MAG	_	16	advmod	_	_
+16	일했던	일+하+았+던	VERB	NNG+XSV+EP+ETM	_	17	acl	_	_
+17	동료를	동료+를	NOUN	NNG+JKO	_	19	obj	_	_
+18	다시	다시	ADV	MAG	_	19	advmod	_	_
+19	보고싶지만	보+고+싶+지만	VERB	VV+EC+VX+EC	_	33	advcl	_	_
+20	일을	일+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	따로해서	따로+하+아서	VERB	MAG+VV+EC	_	22	advcl	_	_
+22	끝나면	끝나+면	VERB	VV+EC	_	24	advcl	_	_
+23	집에	집+에	ADV	NNG+JKB	_	24	obl	_	_
+24	가도	가+아도	VERB	VV+EC	_	26	acl	_	_
+25	된다는	되+ㄴ다는	VERB	VV+ETM	_	24	advcl	_	_
+26	프로젝트이면	프로젝트+이+면	VERB	NNG+VCP+EC	_	33	advcl	_	_
+27	집에	집+에	ADV	NNG+JKB	_	29	obl	_	_
+28	일찍	일찍	ADV	MAG	_	29	advmod	_	_
+29	가면서	가+면서	VERB	VV+EC	_	31	advcl	_	_
+30	보스한테	보스+한테	ADV	NNG+JKB	_	31	obl	_	_
+31	칭찬받은	칭찬+받+은	NOUN	NNG+VV+ETN	_	32	acl	_	_
+32	동료를	동료+를	NOUN	NNG+JKO	_	33	obj	_	_
+33	싫어하게	싫어하+게	VERB	VV+EC	_	0	root	_	_
+34	되고	되+고	VERB	VX+EC	_	33	advcl	_	_
+35	일자리에	일+자리+에	ADV	NNP+JKB	_	36	obl	_	_
+36	나가고	나가+고	VERB	VV+EC	_	33	conj	_	_
+37	싶지	싶+지	AUX	VX+EC	_	36	aux	_	_
+38	않아진다	않+아지+ㄴ다	VERB	VX+XSV+EF	_	36	aux	_	SpaceAfter=No
+39	.	.	PUNCT	SF	_	33	punct	_	_
+
+# sent_id = ARG-ENG_33_3_04
+# text = 물론 다 같이 협동해서 일해야하는데 한명이 열심히 하지 않은 것도 안 좋다.
+1	물론	물론	ADV	MAG	_	12	advmod	_	_
+2	다	다	ADV	MAG	_	4	advmod	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	5	advcl	_	_
+5	일해야하는데	일+하+아야+하+는데	VERB	NNG+XSV+ETM+VX+EC	_	8	advcl	_	_
+6	한명이	한+명+이	NOUN	MM+NNB+JKS	_	8	nsubj	_	_
+7	열심히	열심히	ADV	MAG	_	8	advmod	_	_
+8	하지	하+지	VERB	VV+EC	_	10	acl	_	_
+9	않은	않+은	AUX	VX+ETM	_	8	aux	_	_
+10	것도	것+도	NOUN	NNB+JX	_	12	nsubj	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_33_3_05
+# text = 그래서 누구와 협동하는지가 중요한다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	누구와	누구+와	NOUN	NP+JKB	_	3	obl	_	_
+3	협동하는지가	협동+하+는지+가	NOUN	NNG+XSV+EC+JKS	_	4	csubj	_	_
+4	중요한다고	중요+하+ㄴ다고	VERB	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_33_3_06
+# text = 좋은 사람하고 협동하면 협동이 좋고 다른 상황에 경쟁이 더 좋을수도 있다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람하고	사람+하고	VERB	NNG+JKB	_	3	obl	_	_
+3	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	협동이	협동+이	NOUN	NF+JKS	_	5	nsubj	_	_
+5	좋고	좋+고	VERB	VA+EC	_	0	root	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	상황에	상황+에	ADV	NNG+JKB	_	11	obl	_	_
+8	경쟁이	경쟁+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	좋을수도	좋+을+수+도	NOUN	VA+ETM+NNB+JX	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	5	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_33_3_07
+# text = 예를 들면 학교에서 재미없는 수업에세 숙제를 줬는데 할 의지 없으면 옆자리에 앉은 학생보다 잘 하고 싶으면 하고 싶지 않은 숙제를 할 의지를 생길 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	25	advcl	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	7	obl	_	_
+4	재미없는	재미+없+는	VERB	NNG+VA+ETM	_	6	amod	_	_
+5	수업에세	수업+에세	ADV	NNG+NF	_	6	nmod	_	_
+6	숙제를	숙제+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	줬는데	주+었+는데	VERB	VV+EP+EC	_	10	advcl	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	의지	의지	NOUN	NNG	_	10	nsubj	_	_
+10	없으면	없+으면	VERB	VA+EC	_	25	advcl	_	_
+11	옆자리에	옆+자리+에	ADV	NNG+JKB	_	12	obl	_	_
+12	앉은	앉+은	VERB	VV+ETM	_	13	acl	_	_
+13	학생보다	학생+보다	ADV	NNG+JKB	_	15	obl	_	_
+14	잘	잘	ADV	MAG	_	15	advmod	_	_
+15	하고	하+고	VERB	VV+EC	_	25	advcl	_	_
+16	싶으면	싶+으면	AUX	VX+EC	_	15	aux	_	_
+17	하고	하+고	VERB	VX+EC	_	20	acl	_	_
+18	싶지	싶+지	AUX	VX+EC	_	17	aux	_	_
+19	않은	않+은	AUX	VX+ETM	_	17	aux	_	_
+20	숙제를	숙제+를	NOUN	NNG+JKO	_	21	obj	_	_
+21	할	하+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	의지를	의지+를	NOUN	NNG+JKO	_	23	obj	_	_
+23	생길	생기+ㄹ	VERB	VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-ENG_33_3_08
+# text = 하지만 그 느낌이 위험할 수 있다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	느낌이	느낌+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	위험할	위험+하+ㄹ	VERB	NNG+XSA+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_33_3_09
+# text = 너무 심하게 경쟁을 하게 되면 수업 뿐만 아니라 그 학생과의 관계가 나빠질 수 있다.
+1	너무	너무	ADV	MAG	_	2	advmod	_	_
+2	심하게	심하+게	ADV	VA+EC	_	4	advmod	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하게	하+게	VERB	VV+EC	_	14	advcl	_	_
+5	되면	되+면	VERB	VX+EC	_	4	advcl	_	_
+6	수업	수업	NOUN	NNG	_	8	nsubj	_	_
+7	뿐만	뿐+만	NOUN	JX+JX	_	6	case	_	_
+8	아니라	아니+라	VERB	VCN+EC	_	14	advcl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	학생과의	학생+과+의	NOUN	NNG+JKB+JKG	_	11	nmod:poss	_	_
+11	관계가	관계+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	나빠질	나쁘+아지+ㄹ	VERB	VA+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_33_3_10
+# text = 그리고 부모나 선생이 그 경쟁을 계속 끓어내면 습관이 되서 사람들과 어울리기 힘들어 질 수도 있어서 가벼운 경쟁이 좋을 수도 있지만 심한 경쟁은 사람의 성격을 상할 수 있다고 생각한다.
+1	그리고	그리고	ADV	MAJ	_	28	cc	_	_
+2	부모나	부모+나	ADV	NNG+JC	_	7	nsubj	_	_
+3	선생이	선생+이	NOUN	NNG+JKC	_	2	conj	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	경쟁을	경쟁+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	계속	계속	ADV	MAG	_	7	advmod	_	_
+7	끓어내면	끓+어+내+면	VERB	NV+EC+VX+EC	_	9	advcl	_	_
+8	습관이	습관+이	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	되서	되+서	VERB	VV+EC	_	15	advcl	_	_
+10	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	11	obl	_	_
+11	어울리기	어울+리+기	NOUN	VV+ETN	_	12	nsubj	_	_
+12	힘들어	힘들+어	ADV	VA+EC	_	14	acl	_	_
+13	질	_	X	_	_	12	goeswith	_	_
+14	수도	수+도	NOUN	NNB+JX	_	15	nsubj	_	_
+15	있어서	있+어서	VERB	VX+EC	_	27	advcl	_	_
+16	가벼운	가볍+ㄴ	ADJ	VA+ETM	_	17	amod	_	_
+17	경쟁이	경쟁+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	좋을	좋+을	VERB	VA+ETM	_	19	acl	_	_
+19	수도	수+도	NOUN	NNB+JX	_	20	nsubj	_	_
+20	있지만	있+지만	VERB	VX+EC	_	27	advcl	_	_
+21	심한	심하+ㄴ	ADJ	VA+ETM	_	22	amod	_	_
+22	경쟁은	경쟁+은	NOUN	NNG+JX	_	25	nsubj	_	_
+23	사람의	사람+의	NOUN	NNG+JKG	_	24	nmod:poss	_	_
+24	성격을	성격+을	NOUN	NNG+JKO	_	25	obj	_	_
+25	상할	상하+ㄹ	VERB	VV+ETM	_	26	acl	_	_
+26	수	수	NOUN	NNB	_	27	nsubj	_	_
+27	있다고	있+다고	VERB	VX+EC	_	28	ccomp	_	_
+28	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+29	.	.	PUNCT	SF	_	28	punct	_	_

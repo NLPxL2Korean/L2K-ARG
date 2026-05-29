@@ -1,0 +1,103 @@
+# sent_id = ARG-HENG_21_2_01
+# text = 역사는 지금 우리가 이 시대에 살게 해 준 우리 선조들의 노력, 혹은 아픔을 공유하기 위해 존재할 것 같다.
+1	역사는	역사+는	NOUN	NNG+JX	_	17	nsubj	_	_
+2	지금	지금	ADV	MAG	_	6	advmod	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	이	이	DET	MM	_	5	det	_	_
+5	시대에	시대+에	ADV	NNG+JKB	_	6	obl	_	_
+6	살게	살+게	VERB	VV+EC	_	11	acl	_	_
+7	해	하+아	VERB	VX+EC	_	6	aux	_	_
+8	준	주+ㄴ	VERB	VX+ETM	_	6	aux	_	_
+9	우리	우리	PRON	NP	_	10	nmod	_	_
+10	선조들의	선조+들+의	NOUN	NNG+XSN+JKG	_	11	nmod:poss	_	_
+11	노력	노력	NOUN	NNG	_	14	list	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	혹은	혹은	ADV	MAG	_	15	advmod	_	_
+14	아픔을	아픔+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	공유하기	공유+하+기	NOUN	NNG+XSV+ETN	_	16	obj	_	_
+16	위해	위하+아	VERB	VV+EC	_	17	advcl	_	_
+17	존재할	존재+하+ㄹ	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	것	것	NOUN	NNB	_	19	nsubj	_	_
+19	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_21_2_02
+# text = 하지만, 나는 이러한 역사를 배우는 것이 꼭 필수는 아니라고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+4	이러한	이러하+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	10	dislocated	_	_
+8	꼭	꼭	ADV	MAG	_	10	advmod	_	_
+9	필수는	필수+는	NOUN	NNG+JX	_	10	nsubj	_	_
+10	아니라고	아니+라고	VERB	VCN+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_21_2_03
+# text = 그 이유인 즉슨, 물론 역사의 본질적인 개념은 참 좋은 것이지만, 우리가 정말 선조들의 노력을 알기위한 큰 사건들만 알아도 괜찮을 것 같다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유인	이유+이+ㄴ	VERB	NNG+VCP+ETM	_	23	advcl	_	_
+3	즉슨	_	X	_	_	2	goeswith	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	2	punct	_	_
+5	물론	물론	ADV	MAG	_	11	advmod	_	_
+6	역사의	역사+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+7	본질적인	본질+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	개념은	개념+은	NOUN	NNG+JX	_	11	nsubj	_	_
+9	참	참	ADV	MAG	_	10	advmod	_	_
+10	좋은	좋+은	VERB	VA+ETM	_	11	amod	_	_
+11	것이지만	것+이+지만	VERB	NNB+VCP+EC	_	23	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	우리가	우리+가	PRON	NP+JKS	_	20	nsubj	_	_
+14	정말	정말	ADV	MAG	_	17	advmod	_	_
+15	선조들의	선조+들+의	NOUN	NNG+XSN+JKG	_	16	nmod:poss	_	_
+16	노력을	노력+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	알기위한	알+기+위하+ㄴ	VERB	VV+ETN+VV+ETM	_	19	acl	_	_
+18	큰	크+ㄴ	ADJ	VA+ETM	_	19	amod	_	_
+19	사건들만	사건+들+만	NOUN	NNG+XSN+JX	_	20	obj	_	_
+20	알아도	알+아도	VERB	VV+EC	_	21	advcl	_	_
+21	괜찮을	괜찮+을	VERB	VA+ETM	_	22	acl	_	_
+22	것	것	NOUN	NNB	_	23	nsubj	_	_
+23	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-HENG_21_2_04
+# text = 솔직히 말해서, 우리가 조선 왕족의 이름들을 다 외워서 쓸 떼가 없기는하다.
+1	솔직히	솔직히	ADV	MAJ	_	2	advmod	_	_
+2	말해서	말+하+아서	VERB	NNG+XSV+EC	_	12	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	1	punct	_	_
+4	우리가	우리+가	PRON	NP+JKS	_	9	nsubj	_	_
+5	조선	조선	NOUN	NNP	_	6	nmod	_	_
+6	왕족의	왕족+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	이름들을	이름+들+을	NOUN	NNG+XSN+JKO	_	9	obj	_	_
+8	다	다	ADV	MAG	_	9	advmod	_	_
+9	외워서	외우+어서	VERB	VV+EC	_	12	advcl	_	_
+10	쓸	쓰+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	떼가	떼+가	VERB	NF+JKS	_	12	nsubj	_	_
+12	없기는하다	없+기+는+하+다	VERB	VA+ETN+JX+VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_21_2_05
+# text = 정말 우리 역사를 진심으로 사랑한다면, 깊이 파고 들 수는 있겠지만, 그것이 우리 일반인들 모두에게 강요되어서는 안된다고 생각한다.
+1	정말	정말	ADV	MAG	_	5	advmod	_	_
+2	우리	우리	PRON	NP	_	3	nmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	진심으로	진심+으로	ADV	NNG+JKB	_	5	obl	_	_
+5	사랑한다면	사랑+하+ㄴ다면	VERB	NNG+XSV+EC	_	11	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	깊이	깊이	NOUN	MAG	_	8	advmod	_	_
+8	파고	파+고	VERB	VV+EC	_	10	acl	_	_
+9	들	들+ㄹ	VERB	VX+ETM	_	8	aux	_	_
+10	수는	수+는	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있겠지만	있+겠+지만	VERB	VX+EP+EC	_	19	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	그것이	그것+이	PRON	NP+JKS	_	17	nsubj	_	_
+14	우리	우리	PRON	NP	_	15	nmod	_	_
+15	일반인들	일반인+들	NOUN	NNG+XSN	_	16	nmod	_	_
+16	모두에게	모두+에게	ADV	NNG+JKB	_	17	obl	_	_
+17	강요되어서는	강요+되+어서+는	VERB	NNG+XSV+EC+JX	_	18	advcl	_	_
+18	안된다고	안+되+ㄴ다고	VERB	MAG+VV+EC	_	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

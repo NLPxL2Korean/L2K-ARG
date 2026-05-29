@@ -1,0 +1,85 @@
+# sent_id = ARG-ENG_15_2_01
+# text = 역사를 배워 하내요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워	배우+어	VERB	VV+EC	_	3	advcl	_	_
+3	하내요	하+내요	VERB	VV+NA	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_15_2_02
+# text = 새상에 기역한 100% 역사를 배워해요.
+1	새상에	새상+에	ADV	NF+JKB	_	2	obl	_	_
+2	기역한	기역+하+ㄴ	VERB	NF+XSV+ETM	_	4	acl	_	_
+3	100%	100+%	NOUN	SN+SW	_	4	nummod	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워해요	배우+어+하+아요	VERB	VV+NA+VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_2_03
+# text = 역사는 중요한 있습니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	3	nsubj	_	_
+2	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	3	amod	_	_
+3	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_15_2_04
+# text = 우리 세대 역사를 알겠습니고 벌로해요.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	세대	세대	NOUN	NNG	_	3	nmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알겠습니고	알+겠+습니고	VERB	VV+EP+NA	_	5	advcl	_	_
+5	벌로해요	벌+로+하+아요	VERB	NNG+JKB+VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_15_2_05
+# text = 지난 시간 나쁜 것은들이 다시 안할게요.
+1	지난	지나+ㄴ	VERB	VV+ETM	_	2	acl	_	_
+2	시간	시간	NOUN	NNB	_	4	nmod	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	것은들이	것+은+들+이	NOUN	NNB+JX+XSN+JKS	_	6	nsubj	_	_
+5	다시	다시	ADV	MAG	_	6	advmod	_	_
+6	안할게요	안+하+ㄹ게요	VERB	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_15_2_06
+# text = 역사를 안 배워 있으면 지난 시간 실수 다시 할 거예요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	안	안	ADV	MAG	_	3	advmod	_	_
+3	배워	배우+어	VERB	VV+EC	_	10	advcl	_	_
+4	있으면	있+으면	AUX	VX+EC	_	3	aux	_	_
+5	지난	지나+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	시간	시간	NOUN	NNB	_	7	nmod	_	_
+7	실수	실수	NOUN	NNG	_	9	obj	_	_
+8	다시	다시	ADV	MAG	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	거예요	것+이+에요	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_15_2_07
+# text = 지난시간으로 많은 것은들이 배워했어요.
+1	지난시간으로	지나+ㄴ+시간+으로	ADV	VV+ETM+NNG+JKB	_	4	obl	_	_
+2	많은	많+은	VERB	VA+ETM	_	3	amod	_	_
+3	것은들이	것+은+들+이	NOUN	NNB+JX+XSN+JKS	_	4	nsubj	_	_
+4	배워했어요	배우+어+하+았+어요	VERB	VV+NA+VX+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_15_2_08
+# text = 그리고 미래으로 새로과 좋아하는 것들이 빌어해요.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	미래으로	미래+으로	ADV	NF+JKB	_	6	obl	_	_
+3	새로과	새로과	NOUN	NA	_	6	advmod	_	_
+4	좋아하는	좋아하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것들이	것+들+이	NOUN	NNB+XSN+JKS	_	6	nsubj	_	_
+6	빌어해요	빌어하+아요	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_15_2_09
+# text = 그래서 역사를 배와과 공부하고 우리는 새로 미래 만들거예요.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	배와과	배와과	ADV	NA	_	4	advmod	_	_
+4	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+6	새로	새로	ADV	MAG	_	8	advmod	_	_
+7	미래	미래	NOUN	NNG	_	8	obj	_	_
+8	만들거예요	만들+ㄹ+거+이+에요	VERB	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

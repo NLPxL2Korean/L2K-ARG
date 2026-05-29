@@ -1,0 +1,151 @@
+# sent_id = ARG-CZH_02_3_01
+# text = 저음에 학교에 입학할 때부터 다른 학생들과 비교하는 경우가 많다.
+1	저음에	저음+에	ADV	NF+JKB	Typo=Yes	3	obl	_	_
+2	학교에	학교+에	ADV	NNG+JKB	_	3	obl	_	_
+3	입학할	입학+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	학생들과	학생+들+과	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	비교하는	비교+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	경우가	경우+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_02_3_02
+# text = 어떤 사람들이 비교가 좋지 않다고 생각한다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	비교가	비교+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	좋지	좋+지	ADJ	VA+EC	_	6	ccomp	_	_
+5	않다고	않	AUX	VX+EC	_	4	aux	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_02_3_03
+# text = 저런 경쟁으로 스트레스만 받고 장점이 별로 없다고 말한다.
+1	저런	저런	DET	MM	_	2	det	_	_
+2	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	4	obl	_	_
+3	스트레스만	스트레스+만	NOUN	NNG+JX	_	4	obj	_	_
+4	받고	받+고	VERB	VV+EC	_	7	advcl	_	_
+5	장점이	장점+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	별로	별로	ADV	MAG	_	7	advmod	_	_
+7	없다고	없+다고	ADJ	VA+EC	_	8	ccomp	_	_
+8	말한다	말+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_02_3_04
+# text = 이와 반면에 경쟁 덕분에 사람들이 더 열심히 공부나 일하게 된다는 말이 있다.
+1	이와	이+와	PRON	NP+JKB	_	2	nmod	_	_
+2	반면에	반면+에	ADV	NNG+JKB	_	12	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	9	obl	_	_
+4	덕분에	덕분+에	ADV	NNG+JKB	_	3	case	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	열심히	열심히	ADV	MAG	_	8	advmod	_	_
+8	공부나	공부+나	NOUN	NNG+JC	_	11	obj	_	_
+9	일하게	일+하+게	VERB	NNG+VV+EC	_	8	conj	_	_
+10	된다는	되+ㄴ다는	VERB	VX+ETM	_	9	advcl	_	_
+11	말이	말+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_02_3_05
+# text = 제 생각에 협동이나 경쟁을 선호하는 것이 사람이 성격과 달려 있다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에	생각+에	ADV	NNG+JKB	_	5	obl	_	_
+3	협동이나	협동+이나	NOUN	NNG+JC	_	5	obj	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+7	사람이	사람+이	NOUN	NNG+NA	Typo=Yes	8	nmod	_	_
+8	성격과	성격+과	NOUN	NNG+JC	_	9	obj	_	_
+9	달려	달리+어	VERB	VV+EC	_	0	root	_	_
+10	있다	있	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_02_3_06
+# text = 사람마다 일하는 스타일이 달라서 혼자 일하는 것을 좋아하는 사람들도 있고 그룹안에 일하는 것을 좋아하는 사람들도 있다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	4	obl	_	_
+2	일하는	일+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	스타일이	스타일+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	달라서	다르+아서	ADJ	VA+EC	_	10	advcl	_	_
+5	혼자	혼자	ADV	MAG	_	6	advmod	_	_
+6	일하는	일+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	좋아하는	좋+아+하+는	VERB	VA+EC+VV+ETM	_	9	acl	_	_
+9	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+10	있고	있+고	ADJ	VA+EC	_	0	root	_	_
+11	그룹안에	그룹+안+에	ADV	NNG+NNB+JKB	_	12	obl	_	_
+12	일하는	일+하+는	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	것을	것+을	NOUN	NNB+JKO	_	14	obj	_	_
+14	좋아하는	좋+아+하+는	VERB	VA+EC+VV+ETM	_	15	acl	_	_
+15	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VA+EF	_	10	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_02_3_07
+# text = 저는 사적 자기의식이 높은 편이라서 어느 정도 혼자서 일하는 것을 선호한다.
+1	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+2	사적	사+적	NOUN	NNG+XSN	_	3	amod	_	_
+3	자기의식이	자기+의식+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+4	높은	높+은	ADJ	VA+ETM	_	5	acl	_	_
+5	편이라서	편+이+라서	ADJ	NNB+VCP+EC	_	11	advcl	_	_
+6	어느	어느	DET	MM	_	7	det	_	_
+7	정도	정도	NOUN	NNG	_	9	obl	_	_
+8	혼자서	혼자+서	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_02_3_08
+# text = 다른 사람과 같이 일하면 저 사람들의 행동을 영향할 수 없다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	4	obl	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	일하면	일+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	저	저	DET	MM	_	6	det	_	_
+6	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	행동을	행동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	영향할	영향+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_02_3_09
+# text = 또 경쟁을 통해 열심히 하는 편이다.
+1	또	또	ADV	MAJ	_	6	cc	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	통해	통하+아	VERB	VV+EC	_	6	advcl	_	_
+4	열심히	열심히	ADV	MAG	_	5	advmod	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	편이다	편+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_02_3_10
+# text = 항상 가장 잘 하도록 노력 많이 하는 성격이 있기 때문에 협동보다 경쟁을 선호합니다.
+1	항상	항상	ADV	MAG	_	3	advmod	_	_
+2	가장	가장	ADV	MAG	_	3	advmod	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	하도록	하+도록	VERB	VV+EC	_	7	advcl	_	_
+5	노력	노력	NOUN	NNG	_	7	obj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	성격이	성격+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있기	있+기	VERB	VV+ETN	_	13	obl	_	_
+10	때문에	때문+에	ADV	NNB+JKB	_	9	case	_	_
+11	협동보다	협동+보다	ADV	NNG+JKB	_	13	obl	_	_
+12	경쟁을	경쟁+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_02_3_11
+# text = 경쟁을 통해 자기 한계를 넘어갈수 있다고 생각한다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	통해	통하+아	VERB	VV+EC	_	6	advcl	_	_
+3	자기	자기	NOUN	NNG	_	4	nmod	_	_
+4	한계를	한계+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	넘어갈수	넘+어+가+ㄹ+수	VERB	VV+EC+VX+ETM+NNB	_	6	nsubj	_	_
+6	있다고	있+다고	VERB	VX+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

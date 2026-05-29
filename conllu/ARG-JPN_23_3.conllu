@@ -1,0 +1,89 @@
+# sent_id = ARG-JPN_23_3_01
+# text =  나는 협동과 경쟁 중 경쟁을 더 선호하는 것 같다.
+1	나는	나+는	PRON	NP+JX	_	9	dislocated	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	7	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중	중	ADP	NNB	_	3	case	_	_
+5	경쟁을	경쟁+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	9	nsubj	_	_
+9	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_23_3_02
+# text =  왜나하면 무엇을 하든 다른 사람들에게 지기 싫어서 더 열심히 하는 버릇이 있어서, 경쟁을 더 선호하지 않을까 생각이 들었기 때문이다.
+1	왜나하면	왜냐하면	ADV	NA	_	20	cc	_	_
+2	무엇을	무엇+을	NOUN	NP+JKO	_	3	obj	_	_
+3	하든	하+든	VERB	VV+EC	_	7	advcl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람들에게	사람+들+에게	NOUN	NNG+XSN+JKB	_	6	obl	_	_
+6	지기	지+기	NOUN	VV+ETN	_	7	obj	_	_
+7	싫어서	싫+어서	VERB	VV+EC	_	10	advcl	_	_
+8	더	더	ADV	MAG	_	10	advmod	_	_
+9	열심히	열심히	ADV	MAG	_	10	advmod	_	_
+10	하는	하+는	VERB	VV+ETM	_	11	acl	_	_
+11	버릇이	버릇+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	있어서	있+어서	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	경쟁을	경쟁+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	선호하지	선호+하+지	VERB	NNG+XSV+EC	_	19	advcl	_	_
+17	않을까	않+을까	AUX	VX+EC	_	16	aux	_	_
+18	생각이	생각+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	들었기	들+었+기	NOUN	VV+EP+ETN	_	20	nmod	_	_
+20	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_23_3_03
+# text =  다른 사람들이랑 협조하고 서로 도우면서 하는 것도 물론 좋아하지만 누군가와 경쟁하면서 무언가를 했을 때 제일 성장한다고 생각해서 경쟁이 더 좋지 않을까 생각했다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	협조하고	협조+하+고	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	서로	서로	ADV	MAG	_	5	advmod	_	_
+5	도우면서	돕+으면서	VERB	VV+EC	_	6	advcl	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것도	것+도	NOUN	NNB+JX	_	11	nsubj	_	_
+8	물론	물론	ADV	MAG	_	9	advmod	_	_
+9	좋아하지만	좋아하+지만	VERB	VV+EC	_	22	advcl	_	_
+10	누군가와	누구+이+ㄴ가+와	ADV	NP+VCP+EC+JKB	_	11	obl	_	_
+11	경쟁하면서	경쟁+하+면서	VERB	NNG+XSV+EC	_	13	advcl	_	_
+12	무언가를	무엇+이+ㄴ가	NOUN	NP+VCP+EF	_	13	obj	_	_
+13	했을	하+았+을	VERB	VV+EP+ETM	_	16	advcl	_	_
+14	때	때	ADV	NNG	_	13	mark	_	_
+15	제일	제일	ADV	MAG	_	16	advmod	_	_
+16	성장한다고	성장+하+ㄴ다고	VERB	NNG+XSV+EC	_	17	ccomp	_	_
+17	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	22	advcl	_	_
+18	경쟁이	경쟁+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+19	더	더	ADV	MAG	_	20	advmod	_	_
+20	좋지	좋+지	VERB	VA+EC	_	22	ccomp	_	_
+21	않을까	않+을까	AUX	VX+EC	_	20	aux	_	_
+22	생각했다	생각+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_23_3_04
+# text =  하자만 나는 결과만 경쟁을 하고 싶고 과정을 경쟁대상으로 하고 싶지는 않다.
+1	하자만	하+자만	ADV	NA	_	5	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+3	결과만	결과+만	NOUN	NNG+JX	_	5	obj	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하고	하+고	VERB	VV+EC	_	0	root	_	_
+6	싶고	싶+고	AUX	VX+EC	_	5	aux	_	_
+7	과정을	과정+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	경쟁대상으로	경쟁+대상+으로	ADV	NNG+NNG+JKB	_	9	obl	_	_
+9	하고	하+고	VERB	VV+EC	_	5	conj	_	_
+10	싶지는	싶+지+는	AUX	VX+EC+JX	_	9	aux	_	_
+11	않다	않+다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_23_3_05
+# text =  그저 결과만 다른 사람들이랑 비교하고 경쟁하는 것이 좋다.
+1	그저	그저	ADV	MAG	_	8	advmod	_	_
+2	결과만	결과+만	NOUN	NNG+JX	_	5	obj	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	비교하고	비교+하+고	VERB	NNG+XSV+EC	_	6	advcl	_	_
+6	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

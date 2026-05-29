@@ -1,0 +1,120 @@
+# sent_id = ARG-ENG_19_3_01
+# text = 저는 경쟁보다 협동을 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_19_3_02
+# text = 어떤 사람들은 경쟁을 즐길 수도 있지만, 저는 경쟁을 하면 스트래스를 받아서 할 일을 잘 못합니다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	즐길	즐기+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수도	수+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있지만	있+지만	VERB	VX+EC	_	16	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	저는	저+는	PRON	NP+JX	_	10	nsubj	_	_
+9	경쟁을	경쟁+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	하면	하+면	VERB	VV+EC	_	12	advcl	_	_
+11	스트래스를	스트래스+를	NOUN	NF+JKO	_	12	obj	_	_
+12	받아서	받+아서	VERB	VV+EC	_	16	advcl	_	_
+13	할	하	AUX	VV+ETM	_	14	acl	_	_
+14	일을	일+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	못합니다	못하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_19_3_03
+# text = 하지만 협동을 하면 일을 더 잘 합니다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+4	일을	일+을	NOUN	NNG+JKO	_	7	obj	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_19_3_04
+# text = 경쟁이 있어야 사람들이 발전을 한다는 말도 사실이라고 믿지만, 경쟁만 영원히 할 수는 없다고 생각합니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있어야	있+어야	VERB	VV+EC	_	5	advcl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	발전을	발전+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	한다는	하+ㄴ다는	VERB	VV+ETM	_	6	acl	_	_
+6	말도	말+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	사실이라고	사실+이+라고	VERB	NNG+VCP+EC	_	8	ccomp	_	_
+8	믿지만	믿+지만	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	경쟁만	경쟁+만	NOUN	NNG+JX	_	12	obj	_	_
+11	영원히	영원히	ADV	MAG	_	12	advmod	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수는	수+는	NOUN	NNB+JX	_	14	nsubj	_	_
+14	없다고	없+다고	VERB	VX+EC	_	15	ccomp	_	_
+15	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_19_3_05
+# text = 협동을 해야 사람들이 발전도 하면서 더 오래 동안 같이 살 수 있다고 생각합니다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	해야	하+아야	VERB	VV+EC	_	12	advcl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+4	발전도	발전+도	NOUN	NNG+JX	_	5	obj	_	_
+5	하면서	하+면서	VERB	VV+EC	_	12	advcl	_	_
+6	더	더	ADV	MAG	_	10	advmod	_	_
+7	오래	오래	ADV	MAG	_	10	advmod	_	_
+8	동안	동안	ADP	NNG	_	7	case	_	_
+9	같이	같이	ADV	MAG	_	10	advmod	_	_
+10	살	살+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VX+EC	_	13	ccomp	_	_
+13	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_19_3_06
+# text = 예를 들면 학교에서 경쟁을 하면 학생들이 다 혼자서만 배워요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	9	advcl	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+6	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+7	다	다	ADV	MAG	_	9	advmod	_	_
+8	혼자서만	혼자+서+만	VERB	NNG+JKS+JX	_	9	advmod	_	_
+9	배워요	배우+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_19_3_07
+# text = 하지만 학생들이 서로를 도우면 배우는 것도 많아지고 새로운 발견을 할 수 있어요.
+1	하지만	하지만	ADV	MAJ	_	12	cc	_	_
+2	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	서로를	서로+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	도우면	돕+으면	VERB	VV+EC	_	7	advcl	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	것도	것+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	많아지고	많+아지+고	VERB	VA+XSV+EC	_	0	root	_	_
+8	새로운	새롭+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	발견을	발견+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_19_3_08
+# text = 많은 경우에는 한 사람보다는 더 많은 사람들이 같이 무엇을 해내는 것이 좋아요.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	사람보다는	사람+보다+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	많은	많+은	ADJ	VA+ETM	_	7	amod	_	_
+7	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+8	같이	같이	ADV	MAG	_	10	advmod	_	_
+9	무엇을	무엇+을	NOUN	NP+JKO	_	10	obj	_	_
+10	해내는	하+아+내+는	VERB	VV+EC+VX+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

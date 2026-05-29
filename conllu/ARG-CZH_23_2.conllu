@@ -1,0 +1,87 @@
+# sent_id = ARG-CZH_23_2_01
+# text = 우리 사회에 역사가 큰 역화가 있다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	사회에	사회+에	ADV	NNG+JKB	_	6	obl	_	_
+3	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	acl	_	_
+5	역화가	역화+가	NOUN	NF+JKS	Typo=Yes	6	nsubj	_	_
+6	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_23_2_02
+# text = 사실 제 생각에는 모든 사람은 적은 역사라도 알아야 하는데 시간이 지날수록 학교에서 공부해야 할 정보가 많아지다.
+1	사실	사실	ADV	MAG	_	16	advmod	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	16	obl	_	_
+4	모든	모든	DET	MM	_	5	det	_	_
+5	사람은	사람+은	NOUN	NNG+JX	_	8	nsubj	_	_
+6	적은	적+은	ADJ	VA+ETM	_	7	amod	_	_
+7	역사라도	역사+이+라도	ADJ	NNG+VCP+EC	_	8	advcl	_	_
+8	알아야	알+아야	VERB	VV+EC	_	16	advcl	_	_
+9	하는데	하	AUX	VX+EC	_	8	aux	_	_
+10	시간이	시간+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	지날수록	지나+ㄹ수록	VERB	VV+EC	_	16	advcl	_	_
+12	학교에서	학교+에서	ADV	NNG+JKB	_	13	obl	_	_
+13	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	15	acl	_	_
+14	할	하	AUX	VX+ETM	_	13	aux	_	_
+15	정보가	정보+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	많아지다	많+아지+다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_23_2_03
+# text = 그것 때문에 우리 제일 중요하거나 우리 나라에 대한 역사를 공부하면 춘분하다고 한다.
+1	그것	그것	NOUN	NNG	_	10	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	우리	우리	PRON	NP	_	10	nsubj	_	_
+4	제일	제일	ADV	MAG	_	5	advmod	_	_
+5	중요하거나	중요+하+거나	ADJ	NNG+XSA+EC	_	9	acl	_	_
+6	우리	우리	PRON	NP	_	10	nmod	_	_
+7	나라에	나라+에	ADV	NNG+JKB	_	8	obl	_	_
+8	대한	대하+ㄴ	VERB	VV+ETM	_	5	conj	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+11	춘분하다고	춘분+하+다고	ADJ	NA+XSA+EC	Typo=Yes	12	ccomp	_	_
+12	한다	하+ㄴ다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_23_2_04
+# text = 역사를 알면 다른 나라의 문화를 더 이해할 수 있다고 생각한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알면	알+면	VERB	VV+EC	_	7	advcl	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나라의	나라+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	문화를	문화+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다고	있+다고	VERB	VX+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_23_2_05
+# text = 그리고 어떤 나라가 어떤 나라를 좋아하는지 싫어하는지도 이해할 수 있다.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	나라가	나라+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	나라를	나라+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	좋아하는지	좋+아+하+는지	VERB	VA+EC+XSV+EC	_	8	ccomp	_	_
+7	싫어하는지도	싫+어+하+는지+도	VERB	VA+EC+XSV+EC+JX	_	6	conj	_	_
+8	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_23_2_06
+# text = 이것뿐만 아니라 다른 좋은 효과가 많아서 역사를 배워야 한다고 생각한다.
+1	이것뿐만	이것+뿐+만	NOUN	NR+JX+JX	_	2	nsubj	_	_
+2	아니라	아니+라	ADJ	VCN+EC	_	6	advcl	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	효과가	효과+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많아서	많+아서	ADJ	VA+EC	_	8	advcl	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배워야	배우+어야	VERB	VV+EC	_	10	ccomp	_	_
+9	한다고	하	AUX	VX+EC	_	8	aux	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

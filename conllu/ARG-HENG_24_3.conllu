@@ -1,0 +1,118 @@
+# sent_id = ARG-HENG_24_3_01
+# text = 저는 경쟁 보다 협동을 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	6	obl	_	_
+3	보다	보다	ADV	JKB	_	2	case	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_24_3_02
+# text = 저는 운동을 자주 하는데, 게인 운동 보다 팀 스포츠를 좋아합니다.
+1	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+2	운동을	운동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	자주	자주	ADV	MAG	_	4	advmod	_	_
+4	하는데	하+는데	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	게인	게인	NOUN	NF	_	7	nmod	_	_
+7	운동	운동	NOUN	NNG	_	11	obl	_	_
+8	보다	보다	ADV	JKB	_	7	case	_	_
+9	팀	팀	NOUN	NNG	_	10	nmod	_	_
+10	스포츠를	스포츠+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_24_3_03
+# text = 왜냐하면, 팀원들 의지 할 수 있고 저만 잘 해야하는 부담이 없습니다.
+1	왜냐하면	왜냐하면	ADV	MAG	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	팀원들	팀원+들	NOUN	NNG+XSN	_	4	obj	_	_
+4	의지	의지	NOUN	NNG	_	6	acl	_	_
+5	할	할	X	_	_	4	goeswith	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있+고	VERB	VX+EC	_	0	root	_	_
+8	저만	저+만	NOUN	NP+JX	_	10	nsubj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	해야하는	하+아야+하+는	VERB	VV+EC+VX+ETM	_	11	acl	_	_
+11	부담이	부담+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	없습니다	없+습니다	ADJ	VA+EF	_	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_24_3_04
+# text = 가끔 경쟁이 생길때가 있는데, 항상 텐션이 올라오고 안 좋은감정들이 생깁니다.
+1	가끔	가끔	ADV	MAG	_	4	advmod	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	생길때가	생기+ㄹ+때+가	NOUN	VV+ETM+NNG+JKS	_	4	nsubj	_	_
+4	있는데	있+는데	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	항상	항상	ADV	MAG	_	8	advmod	_	_
+7	텐션이	텐션+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	올라오고	올라오+고	VERB	VV+EC	_	11	advcl	_	_
+9	안	안	ADV	MAG	_	10	advmod	_	_
+10	좋은감정들이	좋+은+감정+들+이	NOUN	VA+ETM+NNG+XSN+JKS	_	11	nsubj	_	_
+11	생깁니다	생기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_24_3_05
+# text = 더 쉽게 싸우게 되고 괜히 감정몰입이돼요.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	쉽게	쉽+게	ADV	VA+EC	_	3	advmod	_	_
+3	싸우게	싸우+게	VERB	VV+EC	_	6	advcl	_	_
+4	되고	되+고	VERB	VX+EC	_	3	advcl	_	_
+5	괜히	괜히	ADV	MAG	_	6	advmod	_	_
+6	감정몰입이돼요	감정+몰입+이+되+어요	VERB	NNG+NNG+JKS+VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_24_3_06
+# text = 인생은 "다른 사람들보다 더 잘 해야 돼" 생각하고 살면 항상 부담, 경계, 의심 갖고 살 거라고 생각합니다.
+1	인생은	인생+은	NOUN	NNG+JX	_	9	obj	_	_
+2	"다른	"+다른	VERB	SS+MM	_	3	amod	_	_
+3	사람들보다	사람+들+보다	ADV	NNG+XSN+JKB	_	6	obl	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	해야	하+아야	VERB	VV+EC	_	8	ccomp	_	_
+7	돼"	되+어+"	PUNCT	VX+EF+SS	_	6	advcl	_	_
+8	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	9	advcl	_	_
+9	살면	살+면	VERB	VV+EC	_	18	advcl	_	_
+10	항상	항상	ADV	MAG	_	16	advmod	_	_
+11	부담	부담	NOUN	NNG	_	15	list	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	13	punct	_	_
+13	경계	경계	NOUN	NNG	_	15	list	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	의심	의심	NOUN	NNG	_	16	obj	_	_
+16	갖고	갖+고	VERB	VV+EC	_	17	advcl	_	_
+17	살	살+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	거라고	거+이+라고	VERB	NNB+VCP+EC	_	19	ccomp	_	_
+19	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_24_3_07
+# text = 다른 사람들한테 배우고 같이 협동을 하면 더 싵고 편하게 살 수 있습니다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람들한테	사람+들+한테	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	배우고	배우+고	VERB	VV+EC	_	6	advcl	_	_
+4	같이	같이	ADV	MAG	_	6	advmod	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	하면	하+면	VERB	VV+EC	_	12	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	싵고	싵+고	VERB	NV+EC	_	10	advmod	_	_
+9	편하게	편하+게	ADV	VA+EC	_	8	conj	_	_
+10	살	살+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_24_3_08
+# text = 다른 사람들의 도움을 받으면서 좋은 경험, 추억들 많이 생겼습니다.
+1	다른	다른	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	도움을	도움+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	받으면서	받+으면서	VERB	VV+EC	_	10	advcl	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	경험	경험	NOUN	NNG	_	8	list	_	15	list
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	추억들	추억+들	NOUN	NNG+XSN	_	10	nsubj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	생겼습니다	생기+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

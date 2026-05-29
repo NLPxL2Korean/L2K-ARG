@@ -1,0 +1,220 @@
+# sent_id = ARG-CHN_12_2_01
+# text = 협동이 성공에 더 큰 영향을 미친다고 본다.
+1	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미친다고	미치+ㄴ다고	VERB	VV+EC	_	7	ccomp	_	_
+7	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_12_2_02
+# text = 그 이유는 다음과 같다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	다음과	다음+과	ADV	NNG+JKB	_	4	obl	_	_
+4	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_12_2_03
+# text = 첫째, 한 사람의 힘으로 성공을 이룰 수도 있지만, 여러 사함의 힘으로는 더 쉽게 성공을 이룰 수 있다고 본다.
+1	첫째	첫째	NUM	NR	_	20	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	힘으로	힘+으로	ADV	NNG+JKB	_	7	obl	_	_
+6	성공을	성공+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	이룰	이루+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있지만	있+지만	VERB	VX+EC	_	19	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	여러	여러	DET	MM	_	12	amod	_	_
+12	사함의	사함+의	NOUN	NF+JKG	Typo=Yes	13	nmod:poss	_	_
+13	힘으로는	힘+으로+는	ADV	NNG+JKB+JX	_	17	obl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	쉽게	쉽+게	ADV	VA+EC	_	17	advmod	_	_
+16	성공을	성공+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	이룰	이루+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다고	있+다고	VERB	VX+EC	_	20	ccomp	_	_
+20	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_12_2_04
+# text = 한 사람은 아무래 잘 해도 한계가 있기 때문에다.
+1	한	한	NUM	MM	_	2	nummod	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	아무래	아무래	ADV	NA	Typo=Yes	5	advmod	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	해도	하+아도	VERB	VV+EC	_	7	advcl	_	_
+6	한계가	한계+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있기	있+기	ADJ	VA+ETN	_	8	nmod	_	_
+8	때문에다	때문+에+다	VERB	NNB+JKB+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_12_2_05
+# text = 서로의 한계가 가른 팀원의 힘으로 보완하여 능력이 강한 팀이 구성될 수 잇다.
+1	서로의	서로+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	한계가	한계+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	가른	가르+ㄴ	VERB	NV+ETM	Typo=Yes	4	acl	_	_
+4	팀원의	팀원+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	힘으로	힘+으로	ADV	NNG+JKB	_	6	obl	_	_
+6	보완하여	보완+하+아	VERB	NNG+XSV+EC	_	12	advcl	_	_
+7	능력이	능력+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	강한	강하+ㄴ	ADJ	VA+ETM	_	9	acl	_	_
+9	팀이	팀+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	구성될	구성+되+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	잇다	잇+다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_12_2_06
+# text = 한 팀의 힘으로 싸우는 것이 성공의 확률이 더 높다고 생각한다.
+1	한	한	NUM	MM	_	2	nummod	_	_
+2	팀의	팀+의	NOUN	NNP+JKG	_	3	nmod:poss	_	_
+3	힘으로	힘+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	싸우는	싸우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	9	dislocated	_	_
+6	성공의	성공+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	확률이	확률+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	높다고	높+다고	ADJ	VA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_12_2_07
+# text = 둘째, 협동을 통해 다양한 방법을 찾을 수 있다.
+1	둘째	둘째	NUM	NR	_	9	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	9	punct	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	통해	통하+아	VERB	VV+EC	_	9	advcl	_	_
+5	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	방법을	방법+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	찾을	찾+을	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_12_2_08
+# text = 어떤 문제가 생겨 그의 해결 방법을 찾을 때 협동을 통해 더 좋은 해결안이 찾을 수 있다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	문제가	문제+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	생겨	생기+어	VERB	VV+EC	_	7	advcl	_	_
+4	그의	그+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	해결	해결	NOUN	NNG	_	6	nmod	_	_
+6	방법을	방법+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	찾을	찾+을	VERB	VV+ETM	_	16	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	협동을	협동+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	통해	통하+아	VERB	VV+EC	_	16	advcl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	해결안이	해결안+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	찾을	찾+을	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_12_2_09
+# text = 팀원들이 각자 해결 방법이 제시하고 서로 토론하면서 그 중에 제일 좋은 해결안이 찾을 수 있다.
+1	팀원들이	팀원+들+이	NOUN	NNG+XSN+JKS	_	5	dislocated	_	_
+2	각자	각자	ADV	MAG	_	5	advmod	_	_
+3	해결	해결	NOUN	NNG	_	4	nmod	_	_
+4	방법이	방법+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	제시하고	제시+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	서로	서로	ADV	MAG	_	7	advmod	_	_
+7	토론하면서	토론+하+면서	VERB	NNG+XSV+EC	_	15	advcl	_	_
+8	그	그	DET	MM	_	13	obl	_	_
+9	중에	중+에	ADV	NNB+JKB	_	8	case	_	_
+10	제일	제일	ADV	MAG	_	11	advmod	_	_
+11	좋은	좋+은	ADJ	VA+ETM	_	12	amod	_	_
+12	해결안이	해결안+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	찾을	찾+을	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_12_2_10
+# text = 셋째, 경쟁도 성공에 영향을 미칠 수 있지만 경쟁 과정에 안 좋은 일이 생기게 될 수도 있다.
+1	셋째	셋째	NUM	NR	_	17	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	8	punct	_	_
+3	경쟁도	경쟁+도	NOUN	NNG+JX	_	6	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미칠	미치+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있지만	있+지만	VERB	VX+EC	_	17	advcl	_	_
+9	경쟁	경쟁	NOUN	NNG	_	10	nmod	_	_
+10	과정에	과정+에	ADV	NNG+JKB	_	14	obl	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	일이	일+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	생기게	생기+게	VERB	VV+EC	_	16	acl	_	_
+15	될	되+ㄹ	VERB	VX+ETM	_	14	advcl	_	_
+16	수도	수+도	NOUN	NNB+JX	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_12_2_11
+# text = 예를 들어, 경쟁 중에 한 선수가 너무나 이기고 싶어서 그 지나친 승부욕때문에 적당하지 않는 수단을 사용할 수도 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	경쟁	경쟁	NOUN	NNG	_	19	obl	_	_
+5	중에	중+에	ADV	NNB+JKB	_	4	case	_	_
+6	한	한	NUM	MM	_	7	nummod	_	_
+7	선수가	선수+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	너무나	너무나	ADV	MAG	_	9	advmod	_	_
+9	이기고	이기+고	VERB	VV+EC	_	19	advcl	_	_
+10	싶어서	싶	AUX	VX+EC	_	9	aux	_	_
+11	그	그	DET	MM	_	13	det	_	_
+12	지나친	지나치+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	승부욕때문에	승부욕+때문+에	ADV	NNG+NNB+JKB	_	17	obl	_	_
+14	적당하지	적당+하+지	ADJ	XR+XSA+EC	_	16	amod	_	_
+15	않는	않	AUX	VX+ETM	_	14	aux	_	_
+16	수단을	수단+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	수도	수+도	NOUN	NNB+JX	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CHN_12_2_12
+# text = 결국 당당하게 상대방을 이길 수 없는 것이다.
+1	결국	결국	ADV	MAG	_	7	advmod	_	_
+2	당당하게	당당+하+게	ADV	MAG+XSA+EC	_	4	advmod	_	_
+3	상대방을	상대방+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	이길	이기+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	없는	없+는	VERB	VX+ETM	_	7	advcl	_	_
+7	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_12_2_13
+# text = 따라서 경쟁보다 협동이 성공에 더 큰 영향을 미친다고 본다.
+1	따라서	따라서	ADV	MAJ	_	9	cc	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	8	obl	_	_
+3	협동이	협동+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미친다고	미치+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_12_2_14
+# text = 또한, 협동 과정에 다른 사람과의 팀워크 능력도 향상 시킬 수 있다.
+1	또한	또한	ADV	MAG	_	12	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	협동	협동	NOUN	NNG	_	4	nmod	_	_
+4	과정에	과정+에	ADV	NNG+JKB	_	9	obl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람과의	사람+과+의	NOUN	NNG+JKB+JKG	_	7	nmod:poss	_	_
+7	팀워크	팀워크	NOUN	NNG	_	8	nmod	_	_
+8	능력도	능력+도	NOUN	NNG+JX	_	9	obj	_	_
+9	향상	향상+시키+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	11	acl	_	_
+10	시킬	_	X	_	_	9	goeswith	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

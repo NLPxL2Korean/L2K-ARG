@@ -1,0 +1,188 @@
+# sent_id = ARG-HENG_18_3_01
+# text = 협동과 경쟁은 세상을 살아가며 수없이 겪어야 하는 일들입니다.
+1	협동과	협동+과	NOUN	NF+JC	_	8	nsubj	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	1	conj	_	_
+3	세상을	세상+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	살아가며	살아가+며	VERB	VV+EC	_	6	advcl	_	_
+5	수없이	수없이	ADV	MAG	_	6	advmod	_	_
+6	겪어야	겪+어야	VERB	VV+EC	_	8	acl	_	_
+7	하는	하+는	AUX	VX+ETM	_	6	aux	_	_
+8	일들입니다	일+들+이+ㅂ니다	VERB	NNG+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_18_3_02
+# text = 두 가지는 다 성장이 끝에 있습니다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	가지는	가지+는	NOUN	NNB+JX	_	6	dislocated	_	_
+3	다	다	ADV	MAG	_	6	advmod	_	_
+4	성장이	성장+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	끝에	끝+에	ADP	NNG+JKB	_	6	obl	_	_
+6	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_18_3_03
+# text = 그러나 성장에 이르는 과정을 저는 더 중요하게 봅니다.
+1	그러나	그러나	ADV	MAJ	_	8	cc	_	_
+2	성장에	성장+에	ADV	NNG+JKB	_	3	obl	_	_
+3	이르는	이르+는	VERB	VV+ETM	_	4	acl	_	_
+4	과정을	과정+을	NOUN	NNG+JKO	_	8	obj	_	_
+5	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요하게	중요+하+게	ADV	NNG+XSA+EC	_	8	advmod	_	_
+8	봅니다	보+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_18_3_04
+# text = 경쟁을 해서 성장하고 이기면 좋지만 나 자신을 깎아내리면서 얻는 결과 같아 개인적으로 선호하지 않습니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	해서	하+아서	VERB	VV+EC	_	3	advcl	_	_
+3	성장하고	성장+하+고	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	이기면	이기+면	VERB	VV+EC	_	5	advcl	_	_
+5	좋지만	좋+지만	VERB	VA+EC	_	13	advcl	_	_
+6	나	나	PRON	NP	_	7	nmod	_	_
+7	자신을	자신+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	깎아내리면서	깎+아+내리+면서	VERB	VV+EC+VX+EC	_	9	advcl	_	_
+9	얻는	얻+는	VERB	VV+ETM	_	10	acl	_	_
+10	결과	결과	NOUN	NNG	_	11	nsubj	_	_
+11	같아	같+아	VERB	VA+EC	_	13	advcl	_	_
+12	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	13	obl	_	_
+13	선호하지	선호+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+14	않습니다	않+습니다	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_18_3_05
+# text = 협동해서 같이 뭔가를 이루는 성취감이 더 오래가고 기분도 좋습니다.
+1	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	4	advcl	_	_
+2	같이	같이	ADV	MAG	_	4	advmod	_	_
+3	뭔가를	뭐+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	4	ccomp	_	_
+4	이루는	이루+는	VERB	VV+ETM	_	5	acl	_	_
+5	성취감이	성취+감+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	오래가고	오래+가+고	VERB	MAG+VV+EC	_	9	advcl	_	_
+8	기분도	기분+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_18_3_06
+# text = 협동을 하게 되면 서로가 팀안에서 주어진 역할을 해내야 하기 때문에 그 과정에서 책임감이 늘게 됩니다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하게	하+게	VERB	VV+EC	_	8	advcl	_	_
+3	되면	되+면	VERB	VX+EC	_	2	advcl	_	_
+4	서로가	서로+가	PRON	NNG+JKS	_	8	nsubj	_	_
+5	팀안에서	팀+안+에서	ADV	NNG+NNG+JKB	_	6	obl	_	_
+6	주어진	주어지+ㄴ	VERB	VV+XSV	_	7	acl	_	_
+7	역할을	역할+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	해내야	해내+아야	VERB	VV+EC	_	14	obl	_	_
+9	하기	하+기	AUX	VX+ETN	_	8	aux	_	_
+10	때문에	때문+에	ADP	NNB+JKB	_	8	case	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	과정에서	과정+에서	ADV	NNG+JKB	_	14	obl	_	_
+13	책임감이	책임+감+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+14	늘게	늘+게	VERB	VV+EC	_	0	root	_	_
+15	됩니다	되+ㅂ니다	VERB	VX+EF	_	14	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_18_3_07
+# text = 내가 나의 주어진 임무를 해내지 못해 피해를 주면 안되니까 더 열심히하게 됩니다.
+1	내가	내+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	나의	나+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+3	주어진	주어지+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	임무를	임무+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	해내지	해내+지	VERB	VV+EC	_	8	advcl	_	_
+6	못해	못하+아	VERB	VX+EC	_	5	advcl	_	_
+7	피해를	피해+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	주면	주+면	VERB	VV+EC	_	9	advcl	_	_
+9	안되니까	안+되+니까	VERB	MAG+VV+EC	_	11	advcl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	열심히하게	열심히+하+게	ADV	MAG+VV+EC	_	0	root	_	_
+12	됩니다	되+ㅂ니다	VERB	VX+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_18_3_08
+# text = 협동을 할 때 팀원에게 제일 적합한 임무를 주게되어 내가 무엇을 잘하는지 알게됩니다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	8	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	팀원에게	팀원+에게	ADV	NNG+JKB	_	8	obl	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	적합한	적합+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	임무를	임무+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	주게되어	주+게+되+어	VERB	VV+EC+VX+EC	_	12	advcl	_	_
+9	내가	내+가	PRON	NP+JKS	_	11	nsubj	_	_
+10	무엇을	무엇+을	NOUN	NP+JKO	_	11	obj	_	_
+11	잘하는지	잘하+는지	VERB	VV+EC	_	12	ccomp	_	_
+12	알게됩니다	알+게+되+ㅂ니다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_18_3_09
+# text = 경쟁을 하면 옆을 볼 여유도 없이 바쁘게 움직여야 하지만 협동을 하면 즐겁게 임무를 완수할 수 있습니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+3	옆을	옆+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	볼	보+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	여유도	여유+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	없이	없이	VERB	MAG	_	8	advcl	_	_
+7	바쁘게	바쁘+게	ADV	VA+EC	_	8	advmod	_	_
+8	움직여야	움직이+어야	VERB	VV+EC	_	16	advcl	_	_
+9	하지만	하+지만	AUX	VX+EC	_	8	aux	_	_
+10	협동을	협동+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+12	즐겁게	즐겁+게	ADV	VA+EC	_	14	advmod	_	_
+13	임무를	임무+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	완수할	완수+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_18_3_10
+# text = 경쟁을 선호가지 않는 가장 큰 이유는 누군가와 경쟁할 때 생기는 불편한 마음 때문입니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	선호가지	선호+가+지	NOUN	NNG+NA+EC	_	6	acl	_	_
+3	않는	않+는	AUX	VX+ETM	_	2	aux	_	_
+4	가장	가장	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	이유는	이유+는	NOUN	NNG+JX	_	13	nsubj	_	_
+7	누군가와	누구+이+ㄴ가+와	ADV	NP+VCP+EC+JKB	_	8	obl	_	_
+8	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	10	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	생기는	생기+는	VERB	VV+ETM	_	12	acl	_	_
+11	불편한	불편+하+ㄴ	ADJ	NNG+XSA+ETM	_	12	amod	_	_
+12	마음	마음	NOUN	NNG	_	13	nmod	_	_
+13	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_18_3_11
+# text = 모두와 사이 좋게 지내면 좋겠는데 경쟁할 때는 그런 마음을 유지하기가 어렵습니다.
+1	모두와	모두+와	NOUN	NNG+JKB	_	3	obl	_	_
+2	사이	사이	NOUN	NNG	_	3	nsubj	_	_
+3	좋게	좋+게	ADV	VA+EC	_	4	advcl	_	_
+4	지내면	지내+면	VERB	VV+EC	_	5	advcl	_	_
+5	좋겠는데	좋+겠+는데	VERB	VA+EP+EC	_	11	advcl	_	_
+6	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+7	때는	때+는	ADV	NNG+JX	_	6	mark	_	_
+8	그런	그런	DET	MM	_	9	det	_	_
+9	마음을	마음+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	유지하기가	유지+하+기+가	NOUN	NNG+XSV+ETN+JKS	_	11	nsubj	_	_
+11	어렵습니다	어렵+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_18_3_12
+# text = 누군가와 적이 되는게 무섭고 싫기도 하고요.
+1	누군가와	누구+이+ㄴ가+와	ADJ	NP+VCP+EC+JKB	_	3	obl	_	_
+2	적이	적+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	되는게	되+는+것+이	VERB	VV+ETM+NNB+JKS	_	4	nsubj	_	_
+4	무섭고	무섭+고	VERB	VA+EC	_	0	root	_	_
+5	싫기도	싫+기+도	NOUN	VA+ETN+JX	_	4	conj	_	_
+6	하고요	하+고요	VERB	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_18_3_13
+# text = 장점이 더 많아 보이는 협동을 더 선호합니다.
+1	장점이	장점+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	많아	많+아	VERB	VA+EC	_	4	advcl	_	_
+4	보이는	보이+는	VERB	VV+ETM	_	5	acl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

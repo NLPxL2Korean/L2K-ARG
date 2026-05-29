@@ -1,0 +1,198 @@
+# sent_id = ARG-ENG_11_3_01
+# text = 저는 개인적으로 협동 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+3	협동	협동	NOUN	NNG	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_11_3_02_1
+# text = 몰론 경쟁중 잘 개선이나 배우는 사람 많지만 정기적으로 스트레스 많이 받는 것 같습니다.
+1	몰론	몰론	ADV	NA	Typo=Yes	7	advmod	_	_
+2	경쟁중	경쟁+중	NOUN	NNG+NNB	_	7	obl	_	_
+3	잘	잘	ADV	MAG	_	7	advmod	_	_
+4	개선이나	개선+이나	NOUN	NNG+JX	_	7	nsubj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	사람	사람	NOUN	NNG	_	4	conj	_	_
+7	많지만	많+지만	ADJ	VA+EC	_	13	advcl	_	_
+8	정기적으로	정기+적+으로	ADV	NNG+XSN+JKB	_	11	obl	_	_
+9	스트레스	스트레스	NOUN	NNG	_	11	obj	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	받는	받+는	VERB	VV+ETM	_	12	acl	_	_
+12	것	것	NOUN	NNB	_	13	nsubj	_	_
+13	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_11_3_05_1
+# text = 왜 이겨아한는 이유도 모로고.
+1	왜	왜	ADV	MAG	_	2	advmod	_	_
+2	이겨아한는	이기+어아+하+ㄴ+는	VERB	VV+NA+VX+VA+ETM	Typo=Yes	3	acl	_	_
+3	이유도	이유+도	NOUN	NNG+JX	_	4	obj	_	_
+4	모로고	모로+고	VERB	NV+EC	Typo=Yes	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_11_3_04_1
+# text = 반면에 경쟁중하는 일이 이기는 육심 생겨서 보통 잘 해도 만족스럽지 않다.
+1	반면에	반면+에	ADV	NNG+JKB	_	10	obl	_	_
+2	경쟁중하는	경쟁+중+하+는	VERB	NNG+NNB+VV+ETM	_	3	acl	_	_
+3	일이	일+이	NOUN	NNG+JKS	_	6	dislocated	_	_
+4	이기는	이기+는	VERB	VV+ETM	_	5	acl	_	_
+5	육심	육심	NOUN	NF	Typo=Yes	6	nsubj	_	_
+6	생겨서	생기+어서	VERB	VV+EC	_	9	advcl	_	_
+7	보통	보통	ADV	MAG	_	10	advmod	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	해도	하+아도	VERB	VV+EC	_	10	advcl	_	_
+10	만족스럽지	만족+스럽+지	ADJ	NNG+XSA+EC	_	0	root	_	_
+11	않다	않	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_11_3_02
+# text = 외냐하면 혼자 일하면 나는 일을 잘 하고 다른 사람이 실수를 할 수 없는다.
+1	외냐하면	외냐하면	ADV	NA	Typo=Yes	7	cc	_	_
+2	혼자	혼자	ADV	NNG	_	3	advmod	_	_
+3	일하면	일+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+5	일을	일+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	하고	하+고	VERB	VV+EC	_	0	root	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	실수를	실수+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없는다	없+는다	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_11_3_03
+# text = 뭐든지 일을 협동하면 잘 풀리지 않아도 같이 시간보내면서 즐거운시간 될수있다.
+1	뭐든지	뭐+이+든지	ADV	NP+VCP+JX	_	3	advcl	_	_
+2	일을	일+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	풀리지	풀리+지	VERB	VV+EC	_	10	advcl	_	_
+6	않아도	않	AUX	VX+EC	_	5	aux	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	시간보내면서	시간+보내+면서	VERB	NNG+VV+EC	_	10	advcl	_	_
+9	즐거운시간	즐겁+ㄴ+시간	NOUN	VV+ETM+NNG	_	10	nsubj	_	_
+10	될수있다	되+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_11_3_04
+# text = 그런데 가끔 사람들 같이 일하는 것이 가끔 좋다.
+1	그런데	그런데	ADV	MAJ	_	5	cc	_	_
+2	가끔	가끔	ADV	MAG	_	5	advmod	_	_
+3	사람들	사람+들	NOUN	NNG+XSN	_	5	obl	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	일하는	일+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+7	가끔	가끔	ADV	MAG	_	8	advmod	_	_
+8	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_11_3_05
+# text = 큰 일이 있으면, 똑똑한 사람 필요하면 같이 일하는 것이 더 좋다고 생각한다.
+1	큰	크+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	일이	일+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	똑똑한	똑똑+하+ㄴ	ADJ	XR+XSA+ETM	_	6	amod	_	_
+6	사람	사람	NOUN	NNG	_	7	nsubj	_	_
+7	필요하면	필요+하+면	ADJ	NNG+XSA+EC	_	12	advcl	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	좋다고	좋+다고	ADJ	VA+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_11_3_06
+# text = 그리고 일하는 사람들이 다른 사람하고 이야기를 좋아하면 같이 일하는 것이 더 좋다고 생각한다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	일하는	일+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	사람하고	사람+하고	ADV	NNG+JKB	_	7	obl	_	_
+6	이야기를	이야기+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	좋아하면	좋아하+면	VERB	VV+EC	_	12	advcl	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	좋다고	좋+다고	ADJ	VA+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_11_3_07
+# text = 사람들이 다른 사람하고 싸우는 것이 보통 싫다고 생각한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람하고	사람+하고	ADV	NNG+JKB	_	4	obl	_	_
+4	싸우는	싸우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	8	obj	_	_
+6	보통	보통	ADV	MAG	_	7	advmod	_	_
+7	싫다고	싫+다고	ADJ	VA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_11_3_08
+# text = 가끔 좋은 일이 나우지만 보통 안 된다.
+1	가끔	가끔	ADV	MAG	_	4	advmod	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	일이	일+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	나우지만	나우+지만	VERB	NV+EC	Typo=Yes	7	advcl	_	_
+5	보통	보통	ADV	MAG	_	7	advmod	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_11_3_09
+# text = 그래서 혼자 일하기 좋기는 한데 사람들 같일 하기도 좋다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	혼자	혼자	ADV	NNG	_	3	advmod	_	_
+3	일하기	일+하+기	VERB	NNG+XSV+ETN	_	4	nsubj	_	_
+4	좋기는	좋+기+는	VERB	VV+ETN+JX	_	9	advcl	_	_
+5	한데	하	AUX	JX+EC	_	4	aux	_	_
+6	사람들	사람+들	NOUN	NNG+XSN	_	8	obl	_	_
+7	같일	같일	ADV	NA	Typo=Yes	8	advmod	_	_
+8	하기도	하+기+도	VERB	VV+ETN+JX	_	9	nsubj	_	_
+9	좋다고	좋+다고	ADJ	VA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_11_3_10
+# text = 외냐하면 사람들이 싸우는 것은 안 좋다고 생각한다.
+1	외냐하면	외냐하면	ADV	NA	Typo=Yes	7	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	싸우는	싸우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	6	nsubj	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	좋다고	좋+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_11_3_21
+# text = 아한다.
+1	아한다	아하+ㄴ다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-ENG_11_3_23
+# text = 나는 보통 일을 빨리 할 수 있고 사람들하고 안 만나면 일이 더 빨리 할 수 있는다.
+1	나는	나+는	PRON	NP+JX	_	7	dislocated	_	_
+2	보통	보통	ADV	MAG	_	5	advmod	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	빨리	빨리	ADV	MAG	_	5	advmod	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있+고	VERB	VX+EC	_	0	root	_	_
+8	사람들하고	사람+들+하고	ADV	NNG+XSN+JKB	_	10	obl	_	_
+9	안	안	ADV	MAG	_	10	advmod	_	_
+10	만나면	만나+면	VERB	VV+EC	_	16	advcl	_	_
+11	일이	일+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	빨리	빨리	ADV	MAG	_	14	advmod	_	_
+14	할	하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는다	있+는다	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

@@ -1,0 +1,282 @@
+# sent_id = ARG-ENG_12_2_08_1
+# text = 사람들은 이 사실을 잊고 산다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	사실을	사실+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	잊고	잊+고	VERB	VV+EC	_	5	advcl	_	_
+5	산다	살+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_12_2_09_1
+# text = 지금도 "위안부"라는 이 한국 여성들은 일본한테 사과를 받은 적도 없고 보상도 받지 못 했다.
+1	지금도	지금+도	ADV	NNG+JX	_	10	advmod	_	_
+2	"위안부"라는	"+위안부+"+이+라는	ADV	SS+NNG+SS+VCP+ETM	_	5	acl	_	_
+3	이	이	DET	MM	_	5	det	_	_
+4	한국	한국	NOUN	NNP	_	5	nmod	_	_
+5	여성들은	여성+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+6	일본한테	일본+한테	ADV	NNP+JKB	_	8	obl	_	_
+7	사과를	사과+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	받은	받+은	VERB	VV+ETM	_	9	acl	_	_
+9	적도	적+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	없고	없+고	ADJ	VA+EC	_	0	root	_	_
+11	보상도	보상+도	NOUN	NNG+JX	_	12	obj	_	_
+12	받지	받+지	VERB	VV+EC	_	10	conj	_	_
+13	못	못	ADV	MAG	_	14	advmod	_	_
+14	했다	하+았+다	VERB	VX+EP+EF	_	10	conj	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_12_2_05_1
+# text = 일제국 시대때는 수많은 한국 사람들이 괴롭힘, 차별, 슬픔을 경험했다.
+1	일제국	일+제국	NOUN	XPN+NNG	_	2	nmod	_	_
+2	시대때는	시대+때+는	NOUN	NNG+NNG+JX	_	11	obl	_	_
+3	수많은	수많+은	ADJ	VA+ETM	_	5	amod	_	_
+4	한국	한국	NOUN	NNP	_	5	nmod	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+6	괴롭힘	괴롭히+ㅁ	VERB	VV+ETN	_	11	obj	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	8	punct	_	_
+8	차별	차별	NOUN	NNG	_	6	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	슬픔을	슬픔+을	NOUN	NNG+JKO	_	6	list	_	_
+11	경험했다	경험+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_12_2_10_1
+# text = 그래서 역사를 배워야 합니다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	합니다	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_12_2_04_1
+# text = 그런데 그래야만 하나?
+1	그런데	그런데	ADV	MAJ	_	2	cc	_	_
+2	그래야만	그렇+여야+만	ADJ	VA+EC+JX	_	0	root	_	_
+3	하나	하	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	?	?	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_12_2_07_1
+# text = 옛날 건물도 설명해 주워요.
+1	옛날	옛날	NOUN	NNG	_	2	nmod	_	_
+2	건물도	건물+도	NOUN	NNG+JX	_	3	obj	_	_
+3	설명해	설명+하+아	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	주워요	줍+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_12_2_06_1
+# text = 특기 제2차 세계 대전 때는 많은 한국, 필리핀 등 같은 나라의 여성들이 일본 군인들한테 잡혔고, 말도 할 수 없을 정도로 악역한 괴롭힘을 겸했다.
+1	특기	특기	ADV	NA	Typo=Yes	25	advmod	_	_
+2	제2차	제+2+차	NOUN	XPN+SN+XSN	_	3	nmod	_	_
+3	세계	세계	NOUN	NNG	_	4	nmod	_	_
+4	대전	대전	NOUN	NNG	_	25	obl	_	_
+5	때는	때+는	NOUN	NNG+JX	_	4	case	_	_
+6	많은	많+은	ADJ	VA+ETM	_	13	amod	_	_
+7	한국	한국	NOUN	NNP	_	13	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	필리핀	필리핀	NOUN	NNP	_	7	list	_	_
+10	등	등	NOUN	NNB	_	7	case	_	_
+11	같은	같+은	ADJ	VA+ETM	_	12	acl	_	_
+12	나라의	나라+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	여성들이	여성+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+14	일본	일본	NOUN	NNP	_	15	nmod	_	_
+15	군인들한테	군인+들+한테	ADV	NNG+XSN+JKB	_	16	obl	_	_
+16	잡혔고	잡히+었+고	VERB	VV+EP+EC	_	0	root	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	말도	말+도	NOUN	NNG+JX	_	19	obj	_	_
+19	할	하+ㄹ	VERB	VV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	없을	없+을	VERB	VX+ETM	_	25	advcl	_	_
+22	정도로	정도+로	ADV	NNG+JKB	_	21	mark	_	_
+23	악역한	악역+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	24	amod	_	_
+24	괴롭힘을	괴롭히+ㅁ+을	VERB	VV+ETN+JKO	_	25	obj	_	_
+25	겸했다	겸하+았+다	VERB	VV+EP+EF	_	16	conj	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-ENG_12_2_01
+# text = 역사는 우리의 미래를 추측할 수 있는 유일한 시선이 아니면 무엇인가?
+1	역사는	역사+는	NOUN	NNG+JX	_	10	nsubj	_	_
+2	우리의	우리+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	미래를	미래+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	추측할	추측+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+7	유일한	유일+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	시선이	시선+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	아니면	아니+면	ADJ	VCN+EC	_	10	advcl	_	_
+10	무엇인가	무엇+이+ㄴ가	VERB	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_12_2_02
+# text = 역사를 통해서 지금의 경제적, 사회적, 정치적인 사테를 알 수 있고 사람들이 어떻게 지금의 세상을 만들었는지 알 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	통해서	통하+아서	VERB	VV+EC	_	10	advcl	_	_
+3	지금의	지금+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+4	경제적	경제+적	NOUN	NNG+XSN	_	9	amod	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	사회적	사회+적	NOUN	NNG+XSN	_	4	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	정치적인	정치+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	list	_	_
+9	사테를	사테+를	NOUN	NF+JKO	Typo=Yes	10	obj	_	_
+10	알	알+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있고	있+고	VERB	VX+EC	_	0	root	_	_
+13	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+14	어떻게	어떻+게	ADV	VA+EC	_	17	advmod	_	_
+15	지금의	지금+의	NOUN	NNG+JKG	_	16	nmod:poss	_	_
+16	세상을	세상+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	만들었는지	만들+었+는지	VERB	VV+EP+EC	_	18	ccomp	_	_
+18	알	알+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	12	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_12_2_03
+# text = 우리는 역사를 배워야 세상을 더 쉽게 이해하고 더 지위적으로 행동할 수 있따.
+1	우리는	우리+는	PRON	NP+JX	_	3	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	7	advcl	_	_
+4	세상을	세상+을	NOUN	NNG+JKO	_	7	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	지위적으로	지위+적+으로	ADV	NF+XSN+JKB	Typo=Yes	10	obl	_	_
+10	행동할	행동+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있따	있+따	ADJ	VX+NA	Typo=Yes	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_12_2_04
+# text = 문화 대해서 가리칠 수 있습니다.
+1	문화	문화	NOUN	NNG	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	3	advcl	_	_
+3	가리칠	가리치+ㄹ	VERB	NV+ETM	Typo=Yes	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_12_2_05
+# text = 역사가 너무 재미있어서 학생 역사 배울때 재미있는다고 생각해요.
+1	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	너무	너무	ADV	MAG	_	3	advmod	_	_
+3	재미있어서	재미+있+어서	ADJ	NNG+VA+EC	_	7	advcl	_	_
+4	학생	학생	NOUN	NNG	_	6	nsubj	_	_
+5	역사	역사	NOUN	NNG	_	6	obj	_	_
+6	배울때	배우+ㄹ+때	NOUN	VV+ETM+NNG	_	8	advcl	_	_
+7	재미있는다고	재미+있+는다고	ADJ	NNG+VA+EC	_	8	ccomp	_	_
+8	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_12_2_06
+# text = 역사 옛날 사람들 우리에게 어떻께 사는지 알아요.
+1	역사	역사	NOUN	NNG	_	7	obl	_	_
+2	옛날	옛날	NOUN	NNG	_	3	nmod	_	_
+3	사람들	사람+들	NOUN	NNG+XSN	_	6	nsubj	_	_
+4	우리에게	우리+에게	PRON	NP+JKB	_	7	obl	_	_
+5	어떻께	어떻+께	ADV	VA+NA	Typo=Yes	6	advmod	_	_
+6	사는지	사+는지	VERB	VV+EC	_	7	ccomp	_	_
+7	알아요	알+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_12_2_07
+# text = 이 역사를 가르치지 않게 되면 어떻게 될까?
+1	이	이	DET	MM	_	2	det	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	가르치지	가르치+지	VERB	VV+EC	_	7	advcl	_	_
+4	않게	않	AUX	VX+EC	_	3	aux	_	_
+5	되면	되+면	VERB	VX+EC	_	3	advcl	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+7	될까	되+ㄹ까	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_12_2_08
+# text = 역사를 안 배우면 많이 중영하는 것 알 수 없어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	안	안	ADV	MAG	_	3	advmod	_	_
+3	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	중영하는	중영+하+는	ADJ	NF+XSA+ETM	Typo=Yes	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	obj	_	_
+7	알	알+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없어요	없+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_12_2_09
+# text = 역사를 엿날시대 대해서 알으수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+2	엿날시대	엿날+시대	NOUN	NF+NNG	Typo=Yes	3	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+4	알으수	알+으+수	VERB	VV+NA+NNB	Typo=Yes	5	nsubj	_	_
+5	있습니다	있+습니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_12_2_10
+# text = 왜?
+1	왜	왜	ADV	MAG	_	0	root	_	SpaceAfter=No
+2	?	?	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-ENG_12_2_11
+# text = 일본은 위안부의 역사를 가르치지 않기 때문이다.
+1	일본은	일본+은	NOUN	NNP+JX	_	4	nsubj	_	_
+2	위안부의	위안부+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	가르치지	가르치+지	VERB	VV+EC	_	6	nmod	_	_
+5	않기	않	AUX	VX+ETN	_	4	aux	_	_
+6	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_12_2_12
+# text = 그래서 사람들이 이 문제가 중요하다고 생각하지 않다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	문제가	문제+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각하지	생각+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+7	않다	않	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_12_2_13
+# text = 나는 이런 세상이 최악의 세상이라고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	이런	이런	DET	MM	_	3	det	_	_
+3	세상이	세상+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	최악의	최악+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	세상이라고	세상+이+라고	ADJ	NNG+VCP+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_12_2_21
+# text = 역사 너무 중영해서 역사를 꼭 배워야 합니다.
+1	역사	역사	NOUN	NNG	_	3	nsubj	_	_
+2	너무	너무	ADV	MAG	_	3	advmod	_	_
+3	중영해서	중영+하+아서	ADJ	NF+XSA+EC	Typo=Yes	6	advcl	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	꼭	꼭	ADV	MAG	_	6	advmod	_	_
+6	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+7	합니다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_12_2_22
+# text = 워냐하면 역사 우리에게 하면 한되는 것 가리칩니다.
+1	워냐하면	워냐하면	ADV	NA	Typo=Yes	7	cc	_	_
+2	역사	역사	NOUN	NNG	_	7	nsubj	_	_
+3	우리에게	우리+에게	PRON	NP+JKB	_	7	obl	_	_
+4	하면	하+면	VERB	VV+EC	_	5	advcl	_	_
+5	한되는	한+되+는	VERB	NA+VV+ETM	Typo=Yes	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	obj	_	_
+7	가리칩니다	가리치+ㅂ니다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_12_2_23
+# text = 역사 때문에 많은 것 이해 할 수 있어요.
+1	역사	역사	NOUN	NNG	_	5	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	것	것	NOUN	NNB	_	5	obj	_	_
+5	이해	이해+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	7	acl	_	_
+6	할	_	X	_	_	5	goeswith	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

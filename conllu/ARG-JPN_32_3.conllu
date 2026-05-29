@@ -1,0 +1,86 @@
+# sent_id = ARG-JPN_32_3_01
+# text =  저는 합력을 더 좋아합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	합력을	합력+을	NOUN	NF+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_32_3_02
+# text =  합력하고 뭔가를 하면 자기만으로 할 때 생각이 안 나왔던 반법을 찾을 수 있고 더 빨으게 진행할 수 있기 때문입니다.
+1	합력하고	합력+하+고	VERB	NF+XSV+EC	_	3	advcl	_	_
+2	뭔가를	뭐+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	3	ccomp	_	_
+3	하면	하+면	VERB	VV+EC	_	18	advcl	_	_
+4	자기만으로	자기+만+으로	ADV	NNG+JX+JKB	_	5	obl	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	생각이	생각+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	안	안	ADV	MAG	_	9	advmod	_	_
+9	나왔던	나오+았+던	VERB	VV+EP+ETM	_	10	acl	_	_
+10	반법을	반법+을	NOUN	NF+JKO	_	11	obj	_	_
+11	찾을	찾+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있고	있+고	VERB	VX+EC	_	18	advcl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	빨으게	빨으+게	ADV	NV+EC	_	16	advmod	_	_
+16	진행할	진행+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있기	있+기	NOUN	VX+ETN	_	19	nmod	_	_
+19	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_32_3_03
+# text =  그리고 혼자 하기에는 너무 힘들고 잘 못하는 것이도 많은 사람과 같이 하면 잘 할 수 있고 예상보다 더 좋은 결과가 나울 수도 있습니다.
+1	그리고	그리고	ADV	MAJ	_	16	cc	_	_
+2	혼자	혼자	NOUN	NNG	_	3	advmod	_	_
+3	하기에는	하+기+에+는	ADV	VV+ETN+JKB+JX	_	7	obl	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	힘들고	힘들+고	VERB	VA+EC	_	7	advcl	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	못하는	못하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이도	것+이+도	NOUN	NNB+NA+JX	_	14	obj	_	_
+9	많은	많+은	VERB	VA+ETM	_	10	amod	_	_
+10	사람과	사람+과	ADV	NNG+JKB	_	12	obl	_	_
+11	같이	같이	ADV	MAG	_	12	advmod	_	_
+12	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	할	하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있고	있+고	VERB	VX+EC	_	0	root	_	_
+17	예상보다	예상+보다	ADV	NNG+JKB	_	19	obl	_	_
+18	더	더	ADV	MAG	_	19	advmod	_	_
+19	좋은	좋+은	ADJ	VA+ETM	_	20	acl	_	_
+20	결과가	결과+가	NOUN	NNG+JKS	_	21	root	_	_
+21	나울	나우+ㄹ	VERB	NV+ETM	_	22	acl	_	_
+22	수도	수+도	NOUN	NNB+JX	_	23	nsubj	_	_
+23	있습니다	있+습니다	ADJ	VX+EF	_	16	conj	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_32_3_04
+# text =  합력하고 뭔가를 하는 과정에서 기뿜이나 술픔을 같이 느끼고 기뿜이는 2배로 술픔은 반으로 할 수 있다고 생각합니다.
+1	합력하고	합력+하+고	VERB	NF+XSV+EC	_	3	advcl	_	_
+2	뭔가를	뭐+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	3	ccomp	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	과정에서	과정+에서	ADV	NNG+JKB	_	8	obl	_	_
+5	기뿜이나	기뿌+ㅁ+이나	NOUN	NV+ETN+JC	_	8	obj	_	_
+6	술픔을	술프+ㅁ+을	NOUN	NV+ETN+JKO	_	5	conj	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	느끼고	느끼+고	VERB	VV+EC	_	15	advcl	_	_
+9	기뿜이는	기뿌+ㅁ+이+는	NOUN	NV+ETN+NA+JX	_	13	obj	_	_
+10	2배로	2+배+로	ADV	SN+NNB+JKB	_	13	obl	_	_
+11	술픔은	술프+ㅁ+은	NOUN	NV+ETN+JX	_	13	obj	_	_
+12	반으로	반+으로	ADV	NNG+JKB	_	13	obl	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다고	있+다고	VERB	VX+EC	_	16	ccomp	_	_
+16	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_32_3_05
+# text =  그래서 저는 합력을 더 좋아합니다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	합력을	합력+을	NOUN	NF+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

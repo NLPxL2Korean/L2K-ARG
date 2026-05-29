@@ -1,0 +1,103 @@
+# sent_id = ARG-JPN_18_1_01
+# text =  조기외국어교육의 장점은 3개 있습니다.
+1	조기외국어교육의	조기+외국어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	4	dislocated	_	_
+3	3개	3+개	NOUN	SN+NNB	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_18_1_02
+# text =  첫 번째는 어릴 때는 기억력이 더 있으니까 외국어를 말할 수 있게 되는 가능성이 높은 점입니다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	15	obl	_	_
+3	어릴	어리+ㄹ	VERB	VA+ETM	_	7	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	기억력이	기억력+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	있으니까	있+으니까	VERB	VV+EC	_	14	advcl	_	_
+8	외국어를	외국어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있게	있+게	VERB	VX+EC	_	13	acl	_	_
+12	되는	되+는	VERB	VX+ETM	_	11	advcl	_	_
+13	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+14	높은	높+은	VERB	VA+ETM	_	15	acl	_	_
+15	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_18_1_03
+# text =  두 번째는 외국어를 알아듣는 능력이 높아지는 가능성이 있는 점입니다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	9	obl	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알아듣는	알+아+듣+는	VERB	VV+EC+VV+ETM	_	5	acl	_	_
+5	능력이	능력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	높아지는	높+아지+는	VERB	VA+XSV+ETM	_	7	acl	_	_
+7	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	있는	있+는	VERB	VV+ETM	_	9	acl	_	_
+9	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_18_1_04
+# text =  길게 공부를 계속할수록 외국어를 듣는 기회도 많아져서 알아들을 수 있는 단어도 많아지는 것 같다고 생각합니다.
+1	길게	길+게	ADV	VA+EC	_	3	advmod	_	_
+2	공부를	공부+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	계속할수록	계속+하+ㄹ수록	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	듣는	듣+는	VERB	VV+ETM	_	6	acl	_	_
+6	기회도	기회+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	많아져서	많+아지+어서	VERB	VA+XSV+EC	_	12	advcl	_	_
+8	알아들을	알+아+듣+을	VERB	VV+EC+VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	단어도	단어+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	많아지는	많+아지+는	VERB	VA+XSV+ETM	_	13	acl	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같다고	같+다고	VERB	VA+EC	_	15	ccomp	_	_
+15	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_18_1_05
+# text =  세 번째는 외국 사람들과 교류할 범위가 넓게 되는 점입니다.
+1	세	세	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	9	obl	_	_
+3	외국	외국	NOUN	NNG	_	4	nmod	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	교류할	교류+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	범위가	범위+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	넓게	넓+게	ADV	VA+EC	_	8	advmod	_	_
+8	되는	되+는	VERB	VV+ETM	_	9	acl	_	_
+9	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_18_1_06
+# text =  조기외국어교육의 단점은 자기 나라의 언어를 말할 수 있게 될 때까지 오래 걸린 적정이 있는 점입니다.
+1	조기외국어교육의	조기+외국어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	15	nsubj	_	_
+3	자기	자기	PRON	NNG	_	4	nmod	_	_
+4	나라의	나라+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있게	있+게	VERB	VX+EC	_	14	advcl	_	_
+9	될	되+ㄹ	VERB	VX+ETM	_	8	advcl	_	_
+10	때까지	때+까지	ADV	NNG+JX	_	8	mark	_	_
+11	오래	오래	ADV	MAG	_	12	advmod	_	_
+12	걸린	걸리+ㄴ	VERB	VV+ETM	_	13	acl	_	_
+13	적정이	적정+이	NOUN	NF+JKS	_	14	nsubj	_	_
+14	있는	있+는	VERB	VV+ETM	_	15	acl	_	_
+15	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_18_1_07
+# text =  언어 두 개를 동시로 배우면 더 시간이 걸린다고 생각합니다.
+1	언어	언어	NOUN	NNG	_	3	nmod	_	_
+2	두	두	NUM	MM	_	3	nummod	_	_
+3	개를	개+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	동시로	동시+로	ADV	NNG+JKB	_	5	obl	_	_
+5	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+6	더	더	ADV	MAG	_	8	advmod	_	_
+7	시간이	시간+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	걸린다고	걸리+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

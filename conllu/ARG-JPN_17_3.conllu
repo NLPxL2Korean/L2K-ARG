@@ -1,0 +1,81 @@
+# sent_id = ARG-JPN_17_3_01
+# text =  저는 협동을 더 선호한다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_17_3_02
+# text =  왜냐하면 협동하면 혼자에서 못하는 일도 할 수 있기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	혼자에서	혼자+에서	ADV	NF+JKB	_	4	obl	_	_
+4	못하는	못하+는	VERB	VV+ETM	_	5	acl	_	_
+5	일도	일+도	NOUN	NNG+JX	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있기	있+기	NOUN	VX+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_17_3_03
+# text =  아무래도 혼자서 떠오르는 생각이나 아이디어에서는 제한이 있다고 생각하는 편이다.
+1	아무래도	아무래도	ADV	MAG	_	9	advmod	_	_
+2	혼자서	혼자+서	ADV	NNG+JKS	_	3	nsubj	_	_
+3	떠오르는	떠오르+는	VERB	VV+ETM	_	4	acl	_	_
+4	생각이나	생각+이나	NOUN	NNG+JC	_	7	obl	_	_
+5	아이디어에서는	아이디어+에서+는	ADV	NNG+JKB+JX	_	4	conj	_	_
+6	제한이	제한+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	편이다	편+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_17_3_04
+# text =  다른 사람들과 대화하고 각자 생각을 공유해야 더 좋은 일을 할 수 있다고 생각한다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	대화하고	대화+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+4	각자	각자	ADV	MAG	_	6	advmod	_	_
+5	생각을	생각+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	공유해야	공유+하+아야	VERB	NNG+XSV+EC	_	3	conj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	일을	일+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VX+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_17_3_05
+# text =  물론 다른 생각을 가지는 사람과 의경을 맞춰 가는 것은 어려운 일이지만 그 중에서도 다른 생각부터 배우는 것이 많고, 그 과정을 통해서 더 성장할 수 있다고 생각한다.
+1	물론	물론	ADV	MAG	_	27	advmod	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	생각을	생각+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	가지는	가지+는	VERB	VV+ETM	_	6	acl	_	_
+5	사람과	사람+과	NOUN	NNG+JC	_	7	obl	_	_
+6	의경을	의경+을	NOUN	NF+JKO	_	7	obj	_	_
+7	맞춰	맞+추+ㄹ	VERB	NNG+XSV+EC	_	9	acl	_	_
+8	가는	가+는	VERB	VX+ETM	_	7	aux	_	_
+9	것은	것+은	NOUN	NNB+JX	_	11	nsubj	_	_
+10	어려운	어렵+ㄴ	VERB	VA+ETM	_	11	amod	_	_
+11	일이지만	일+이+지만	VERB	NNG+VCP+EC	_	18	advcl	_	_
+12	그	그	DET	MM	_	13	det	_	_
+13	중에서도	중+에서+도	ADP	NNB+JKB+JX	_	18	obl	_	_
+14	다른	다른	ADJ	MM	_	15	amod	_	_
+15	생각부터	생각+부터	ADV	NNG+JX	_	16	obl	_	_
+16	배우는	배우+는	VERB	VV+ETM	_	17	acl	_	_
+17	것이	것+이	NOUN	NNB+JKS	_	18	nsubj	_	_
+18	많고	많+고	VERB	VA+EC	_	26	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	_
+20	그	그	DET	MM	_	21	det	_	_
+21	과정을	과정+을	NOUN	NNG+JKO	_	22	obj	_	_
+22	통해서	통하+아서	VERB	VV+EC	_	26	advcl	_	_
+23	더	더	ADV	MAG	_	24	advmod	_	_
+24	성장할	성장+하+ㄹ	VERB	NNG+XSV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있다고	있+다고	VERB	VX+EC	_	27	ccomp	_	_
+27	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	27	punct	_	_

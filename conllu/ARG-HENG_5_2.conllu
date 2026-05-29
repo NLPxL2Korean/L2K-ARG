@@ -1,0 +1,239 @@
+# sent_id = ARG-HENG_05_2_01
+# text = 역사를 배워야한다고 생각을 합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야한다고	배우+어야+하+ㄴ다고	VERB	VV+EC+VX+EC	_	4	ccomp	_	_
+3	생각을	생각+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_05_2_01
+# text = 역사를 배워야한다고 생각합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야한다고	배우+어야+하+ㄴ다고	VERB	VV+EC+VX+EC	_	3	ccomp	_	_
+3	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_05_2_02
+# text = 과거를 공부하면 현제 우리가 사는 사회과 사람들을 더 이해할 수 있기 때문입니다.
+1	과거를	과거+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+3	현제	현제	NOUN	NF	_	5	advmod	_	_
+4	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+5	사는	살+는	VERB	VV+ETM	_	6	acl	_	_
+6	사회과	사회+과	NOUN	NNG+JC	_	9	obl	_	_
+7	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	6	conj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있기	있+기	NOUN	VX+ETN	_	12	nmod	_	_
+12	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_05_2_02
+# text = 그이유는 지금 이순간을 역사가 만들었기 때문입니다.
+1	그이유는	그+이유+는	NOUN	MM+NNG+JX	_	6	nsubj	_	_
+2	지금	지금	ADV	NNG	_	3	nmod	_	_
+3	이순간을	이+순간+을	NOUN	MM+NNG+JKO	_	5	obj	_	_
+4	역사가	역사+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	만들었기	만들+었+기	NOUN	VV+EP+ETN	_	6	nmod	_	_
+6	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_05_2_03
+# text = 단순히 옛날 일들이라고 생각하는 학생들이 많을 겁니다.
+1	단순히	단순히	ADV	MAG	_	3	advmod	_	_
+2	옛날	옛날	NOUN	NNG	_	3	nmod	_	_
+3	일들이라고	일+들+이+라고	VERB	NNG+XSN+VCP+EC	_	4	ccomp	_	_
+4	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	많을	많+을	VERB	VA+ETM	_	7	acl	_	_
+7	겁니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_05_2_03
+# text = 과거의 인물들 그리고 사건들을 통해 이 세상이 발전할 수 있었고 그나마 좋아졌습니다.
+1	과거의	과거+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	인물들	인물+들	NOUN	NNG+XSN	_	5	obj	_	_
+3	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+4	사건들을	사건+들+을	NOUN	NNG+XSN+JKO	_	2	conj	_	_
+5	통해	통하+아	VERB	VV+EC	_	8	advcl	_	_
+6	이	이	DET	MM	_	7	det	_	_
+7	세상이	세상+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	발전할	발전+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있었고	있+었+고	VERB	VX+EP+EC	_	12	advcl	_	_
+11	그나마	그나마	ADV	MAG	_	12	advmod	_	_
+12	좋아졌습니다	좋+아지+었+습니다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_05_2_04
+# text = 하지만 역사는 배울 수록 흥미롭고 내 자신과 사회의 연결하는 역할이 되기 때문입니다.
+1	하지만	하지만	ADV	MAJ	_	12	cc	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	3	obj	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_		advcl	_	_
+4	수록	_	X	_	_	3	goeswith	_5	_
+5	흥미롭고	흥미+롭+고	VERB	NNG+VA+EC	_	11	advcl	_	_
+6	내	나+의	PRON	NP+JKG	_	7	nmod:poss	_	_
+7	자신과	자신+과	NOUN	NNG+JC	_	10	nmod:poss	_	_
+8	사회의	사회+의	NOUN	NNG+JKG	_	7	conj	_	_
+9	연결하는	연결+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	역할이	역할+이	NOUN	NNG+JKC	_	11	nsubj	_	_
+11	되기	되+기	NOUN	VV+ETN	_	12	nmod	_	_
+12	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_05_2_04
+# text = 또한 많은 실수과 잘못으로 인해 반성하고 배워서 다시는 반복하지 않으려고 노력합니다.
+1	또한	또한	ADV	MAJ	_	11	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	실수과	실수+과	NOUN	NNG+JC	_	5	obl	_	_
+4	잘못으로	잘+못+으로	ADV	NNG+JKB	_	3	conj	_	_
+5	인해	인하+아	VERB	VV+EC	_	6	advcl	_	_
+6	반성하고	반성+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	배워서	배우+어서	VERB	VV+EC	_	11	advcl	_	_
+8	다시는	다시+는	ADV	MAG+JX	_	9	advmod	_	_
+9	반복하지	반복+하+지	VERB	NNG+XSV+EC	_	11	ccomp	_	_
+10	않으려고	않+으려고	AUX	VX+EC	_	9	aux	_	_
+11	노력합니다	노력+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_05_2_05
+# text = 제가 10학년에 6.25 전쟁의 대해서 처음으로 배웠습니다.
+1	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+2	10학년에	10+학+년+에	ADV	SN+NNB+JKB	_	7	obl	_	_
+3	6.25	6+.+25	NOUN	SN+SF+SN	_	5	nmod:poss	_	_
+4	전쟁의	전쟁+의	NOUN	NNG+JKG	_	3	flat	_	_
+5	대해서	대하+아서	VERB	VV+EC	_	7	advcl	_	_
+6	처음으로	처음+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	배웠습니다	배우+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_05_2_05
+# text = 역사를 배우면 지금 갖고 있는 물건, 기술 그리고 자유를 더 간직하고 소중하게 느낄 수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	16	advcl	_	_
+3	지금	지금	ADV	MAG	_	4	advmod	_	_
+4	갖고	갖+고	VERB	VV+EC	_	6	acl	_	_
+5	있는	있+는	AUX	VX+ETM	_	4	aux	_	_
+6	물건	물건	NOUN	NNG	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	기술	기술	NOUN	NNG	_	12	obj	_	_
+9	그리고	그리고	CCONJ	MAJ	_	12	cc	_	_
+10	자유를	자유+를	NOUN	NNG+JKO	_	8	conj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	간직하고	간직+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+13	소중하게	소중+하+게	ADV	XR+XSA+EC	_	14	advmod	_	_
+14	느낄	느끼+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_05_2_06
+# text = 처음에는 저아 연관선이 없다고 생각도 했습니다.
+1	처음에는	처음+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+2	저아	저+아	NOUN	NP+NA	_	4	obl	_	_
+3	연관선이	연관+선+이	NOUN	NNG+NA+JKS	_	4	nsubj	_	_
+4	없다고	없+다고	VERB	VA+EC	_	6	ccomp	_	_
+5	생각도	생각+도	NOUN	NNG+JX	_	6	obj	_	_
+6	했습니다	하+았+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_05_2_06
+# text = 앞으로 역사는 계속 이루어지며 우리는 늘 배워야 합니다.
+1	앞으로	앞+으로	ADV	NNG+JKB	_	4	obl	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	계속	계속	ADV	MAG	_	4	advmod	_	_
+4	이루어지며	이루어지+며	VERB	VV+EC	_	7	advcl	_	_
+5	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+6	늘	늘	ADV	MAG	_	7	advmod	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	합니다	하+ㅂ니다	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_05_2_07
+# text = 하지만, 전쟁의 원인과 그 속에 일어났던 여러 일들을 배우면서 두 가지의 깨달음이 생겼습니다.
+1	하지만	하지만	ADV	MAJ	_	14	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	전쟁의	전쟁+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	원인과	원인+과	NOUN	NNG+JC	_	10	obj	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	속에	속+에	ADP	NNG+JKB	_	7	obl	_	_
+7	일어났던	일어나+았+던	VERB	VV+EP+ETM	_	9	acl	_	_
+8	여러	여러	DET	MM	_	9	det	_	_
+9	일들을	일+들+을	NOUN	NNG+XSN+JKO	_	4	conj	_	_
+10	배우면서	배우+면서	VERB	VV+EC	_	14	advcl	_	_
+11	두	두	NUM	MM	_	12	nummod	_	_
+12	가지의	가지+의	NOUN	NNB+JKG	_	13	nmod:poss	_	_
+13	깨달음이	깨닫+음+이	NOUN	VV+ETN+JKS	_	14	nsubj	_	_
+14	생겼습니다	생기+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_05_2_08
+# text = 첫 번째 깨달음은 역사는 여러 사회들의 경쟁과 정치를 한 순간에 포착을 한다는 것입니다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	번째	번째	NOUN	NNB	_	13	obl	_	_
+3	깨달음은	깨닫+음+은	NOUN	VV+ETN+JX	_	13	nsubj	_	_
+4	역사는	역사+는	NOUN	NNG+JX	_	12	nsubj	_	_
+5	여러	여러	DET	MM	_	6	det	_	_
+6	사회들의	사회+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	경쟁과	경쟁+과	NOUN	NNG+JC	_	12	obj	_	_
+8	정치를	정치+를	NOUN	NNG+JKO	_	7	conj	_	_
+9	한	한	NUM	MM	_	10	det	_	_
+10	순간에	순간+에	ADV	NNG+JKB	_	12	obl	_	_
+11	포착을	포착+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	한다는	하+ㄴ다는	VERB	VV+ETM	_	13	acl	_	_
+13	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_05_2_09
+# text = 두번째는 옛날에 이루워난 일이라고 현제에 사는 사람들을 영향 끼치지 않지 않습니다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	9	obl	_	_
+2	옛날에	옛날+에	ADV	NNG+JKB	_	3	obl	_	_
+3	이루워난	이루워나+ㄴ	VERB	NV+EC	_	4	acl	_	_
+4	일이라고	일+이+라고	VERB	NNG+VCP+EC	_	9	advcl	_	_
+5	현제에	현제+에	ADV	NF+JKB	_	6	obl	_	_
+6	사는	살+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	9	obj	_	_
+8	영향	영향	NOUN	NNG	_	9	obj	_	_
+9	끼치지	끼치+지	VERB	VV+EC	_	0	root	_	_
+10	않지	않+지	AUX	VX+EC	_	9	aux	_	_
+11	않습니다	않+습니다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_05_2_10
+# text = 제 가족들부터 현대 사회에 큰 영향을 끼칩니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	가족들부터	가족+들+부터	ADV	NNG+XSN+JX	_	7	obl	_	_
+3	현대	현대	NOUN	NNG	_	4	nmod	_	_
+4	사회에	사회+에	ADV	NNG+JKB	_	7	obl	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	끼칩니다	끼+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_05_2_11
+# text = 고등학교 다니면서 역사 선생님이 꼭 하시는 말이 "역사는 반복된다"입니다.
+1	고등학교	고등학교	NOUN	NNG	_	2	obj	_	_
+2	다니면서	다니+면서	VERB	VV+EC	_	9	advcl	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	선생님이	선생+님+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	꼭	꼭	ADV	MAG	_	6	advmod	_	_
+6	하시는	하+시+는	VERB	VV+EP+ETM	_	7	acl	_	_
+7	말이	말+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	"역사는	"+역사+는	NOUN	SS+NNG+JX	_	9	nsubj	_	_
+9	반복된다"입니다	반복+되+ㄴ다+"+이+ㅂ니다	ADJ	NNG+XSV+EF+SS+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_05_2_12
+# text = 우리가 옛 일들을 공부해서 사회를 좋은 방향으로 이끄루위한 책입이 있습니다.
+1	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+2	옛	옛	NOUN	MM	_	3	amod	_	_
+3	일들을	일+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	공부해서	공부+하+아서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	사회를	사회+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	좋은	좋+은	VERB	VA+ETM	_	7	amod	_	_
+7	방향으로	방향+으로	ADV	NNG+JKB	_	8	obl	_	_
+8	이끄루위한	이끄루+위하+ㄴ	VERB	NA+VV+ETM	_	9	acl	_	_
+9	책입이	책입+이	NOUN	NF+JKS	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

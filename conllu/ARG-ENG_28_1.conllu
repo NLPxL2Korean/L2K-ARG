@@ -1,0 +1,93 @@
+# sent_id = ARG-ENG_28_1_01
+# text = 언어가 일찍 배울 떄, 더 빨리 배울 수 있고, 그리고 더 많은 언어도 배울수 있을 것 같아요.
+1	언어가	언어+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	17	advcl	_	_
+4	떄	떄	ADV	NNB	_	3	mark	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	빨리	빨리	ADV	MAG	_	8	advmod	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있고	있+고	VERB	VX+EC	_	17	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	그리고	그리고	ADV	MAJ	_	16	cc	_	_
+13	더	더	ADV	MAG	_	16	advmod	_	_
+14	많은	많+은	ADJ	VA+ETM	_	15	amod	_	_
+15	언어도	언어+도	NOUN	NNG+JX	_	16	obj	_	_
+16	배울수	배우+ㄹ+수	NOUN	VV+ETM+NNB	_	17	nsubj	_	_
+17	있을	있+을	VERB	VX+ETM	_	18	acl	_	_
+18	것	것	NOUN	NNB	_	19	nsubj	_	_
+19	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_28_1_02
+# text = 그래도, 가끔은 아이들 위해 더 힘들 수 있어요.
+1	그래도	그래도	ADV	MAJ	_	9	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	가끔은	가끔+은	ADV	MAG+JX	_	9	advmod	_	_
+4	아이들	아이+들	NOUN	NNG+XSN	_	5	obj	_	_
+5	위해	위하+아	VERB	VV+EC	_	9	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	힘들	힘들+ㄹ	ADJ	VA+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_28_1_03
+# text = 이것은 언어나 문법이 정학이 이해 못할 떄 더 헷갈리게 될 수 있어요.
+1	이것은	이것+은	PRON	NP+JX	_	12	dislocated	_	_
+2	언어나	언어+나	NOUN	NNG+JC	_	6	nsubj	_	_
+3	문법이	문법+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	정학이	정학이	ADV	NA	Typo=Yes	6	advmod	_	_
+5	이해	이해	VERB	NNG+VV+EC	_	6	obj	_	_
+6	못할	못하+ㄹ	VERB	VV+ETM	_	10	advcl	_	_
+7	떄	떄	ADV	NNB	_	6	mark	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	헷갈리게	헷갈리+게	ADV	VV+EC	_	10	advmod	_	_
+10	될	되+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_28_1_04
+# text = 다른 장점은, 더 많은 사람이랑 통할수 있어요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	8	dislocated	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	사람이랑	사람+이랑	ADV	NNG+JKB	_	7	obl	_	_
+7	통할수	통하+ㄹ+수	NOUN	VV+ETM+NNB	_	8	nsubj	_	_
+8	있어요	있+어요	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_28_1_05
+# text = 그리고 다른 언어와 문화를 사랑할 수 있어요.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	언어와	언어+와	NOUN	NNG+JC	_	5	obj	_	_
+4	문화를	문화+를	NOUN	NNG+JKO	_	3	conj	_	_
+5	사랑할	사랑+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_28_1_06
+# text = 세상이 다 연결돼있는 시대에, 다른 나라를 좀더 잘 이해할수 있는게 좋은 것인 것 같아요.
+1	세상이	세상+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	다	다	ADV	MAG	_	3	advmod	_	_
+3	연결돼있는	연결+되+어+있+는	VERB	NNG+XSV+EC+VX+ETM	_	4	acl	_	_
+4	시대에	시대+에	ADV	NNG+JKB	_	15	obl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	나라를	나라+를	NOUN	NNG+JKO	_	10	obj	_	_
+8	좀더	좀+더	ADV	MAG+MAG	_	10	advmod	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	이해할수	이해+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	11	nsubj	_	_
+11	있는게	있	AUX	VX+ETM+NNB+JKS	_	12	nsubj	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	것인	것+이+ㄴ	VERB	NNB+VCP+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

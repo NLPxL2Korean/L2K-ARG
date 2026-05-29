@@ -1,0 +1,148 @@
+# sent_id = ARG-CHN_33_2_01
+# text = 협동이 성공에 더 큰 영향을 준다.
+1	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	준다	주+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_33_2_02
+# text = 경쟁에 비해 협동은 여러 명이 같이 하는 것이라 생각도 더욱 다양하다.
+1	경쟁에	경쟁+에	ADV	NNG+JKB	_	2	obl	_	_
+2	비해	비하+아	VERB	VV+EC	_	8	advcl	_	_
+3	협동은	협동+은	NOUN	NNP+JX	_	8	nsubj	_	_
+4	여러	여러	DET	MM	_	5	amod	_	_
+5	명이	명+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이라	것+이+라	ADJ	NNB+VCP+EC	_	11	advcl	_	_
+9	생각도	생각+도	NOUN	NNG+JX	_	11	nsubj	_	_
+10	더욱	더욱	ADV	MAG	_	11	advmod	_	_
+11	다양하다	다양+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_33_2_03
+# text = 협동을 통해 개인에게 부족한 부분을 발견하고 타인의 장점을 보고 서로 많이 배울 수 있다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	통해	통하+아	VERB	VV+EC	_	14	advcl	_	_
+3	개인에게	개인+에게	ADV	NNG+JKB	_	4	obl	_	_
+4	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	acl	_	_
+5	부분을	부분+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	발견하고	발견+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+7	타인의	타인+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	장점을	장점+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	보고	보+고	VERB	VV+EC	_	6	conj	_	_
+10	서로	서로	ADV	MAG	_	12	advmod	_	_
+11	많이	많이	ADV	MAG	_	12	advmod	_	_
+12	배울	배우+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_33_2_04
+# text = 다 같이 노력한 끝에 그 결과는 더 이상 한 사람의 성과가 아니라서 결과가 안 좋아도 개인의 실망감도 낮아진다.
+1	다	다	ADV	MAG	_	3	advmod	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	노력한	노력+하+ㄴ	VERB	NNG+XSV+ETM	_	12	advcl	_	_
+4	끝에	끝+에	ADV	NNB+JKB	_	3	mark	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	결과는	결과+는	NOUN	NNG+JX	_	12	dislocated	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	이상	이상	NOUN	NNG	_	12	obl	_	_
+9	한	한	NUM	MM	_	10	nummod	_	_
+10	사람의	사람+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	성과가	성과+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	아니라서	아니+라서	ADJ	VCN+EC	_	18	advcl	_	_
+13	결과가	결과+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+14	안	안	ADV	MAG	_	18	advmod	_	_
+15	좋아도	좋+아도	ADJ	VA+EC	_	18	advcl	_	_
+16	개인의	개인+의	NOUN	NNG+JKG	_	17	nmod:poss	_	_
+17	실망감도	실망+감+도	NOUN	NNG+XSN+JX	_	18	nsubj	_	_
+18	낮아진다	낮+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_33_2_05
+# text = 따라서 혼자 하는 것보다 정신적으로 더 편하다.
+1	따라서	따라서	ADV	MAJ	_	7	cc	_	_
+2	혼자	혼자	NOUN	NNG	_	3	nsubj	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	것보다	것+보다	ADV	NNB+JKB	_	7	obl	_	_
+5	정신적으로	정신+적+으로	ADV	NNG+XSN+JKB	_	7	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	편하다	편하+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_33_2_06
+# text = 경쟁은 물론 개인의 의지를 자극해서 더 노력할지도 모르지만 상대적 부정적인 영향이 더 크다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	8	nsubj	_	_
+2	물론	물론	ADV	MAG	_	8	advmod	_	_
+3	개인의	개인+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	의지를	의지+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	자극해서	자극+하+아서	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	노력할지도	노력+하+ㄹ지+도	VERB	NNG+XSV+EC+JX	_	8	ccomp	_	_
+8	모르지만	모르+지만	VERB	VV+EC	_	13	advcl	_	_
+9	상대적	상대+적	NOUN	NNG+XSN	_	13	obl	_	_
+10	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	영향이	영향+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	크다	크+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_33_2_07
+# text = 일반적으로 목표를 세우고 그를 향하여 혼자 열심히 하는 것이 힘이 없어진다.
+1	일반적으로	일반+적+으로	ADV	NNG+XSN+JKB	_	3	obl	_	_
+2	목표를	목표+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	세우고	세우+고	VERB	VV+EC	_	5	advcl	_	_
+4	그를	그+를	PRON	NP+JKO	_	5	obj	_	_
+5	향하여	향하+아	VERB	VV+EC	_	8	advcl	_	_
+6	혼자	혼자	ADV	MA	_	8	advmod	_	_
+7	열심히	열심히	ADV	MAG	_	8	advmod	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	11	dislocated	_	_
+10	힘이	힘+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_33_2_08
+# text = 경쟁은 아무래도 성공에 대한 기대가 크기 때문에 노력하는 도중에 정신이 피곤하면 더욱 하기 싫고 복잡해진다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	dislocated	_	_
+2	아무래도	아무래도	ADV	MAG	_	6	advmod	_	_
+3	성공에	성공+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	기대가	기대+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	크기	크+기	VERB	VV+ETN	_	14	obl	_	_
+7	때문에	때문+에	ADV	NNB+JKB	_	6	case	_	_
+8	노력하는	노력+하+는	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+9	도중에	도중+에	ADV	NNG+JKB	_	8	mark	_	_
+10	정신이	정신+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	피곤하면	피곤+하+면	ADJ	NNF+XSA+EC	_	14	advcl	_	_
+12	더욱	더욱	ADV	MAG	_	14	advmod	_	_
+13	하기	하+기	VERB	VV+ETN	_	14	nsubj	_	_
+14	싫고	싫+고	ADJ	VA+EC	_	0	root	_	_
+15	복잡해진다	복잡+하+아지+ㄴ다	VERB	XR+XSA+XSV+EF	_	14	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_33_2_09
+# text = 스트레스 받아 정신적으로 힘들다.
+1	스트레스	스트레스	NOUN	NNG	_	2	obj	_	_
+2	받아	받+아	VERB	VV+EC	_	4	advcl	_	_
+3	정신적으로	정신+적+으로	ADV	NNG+XSN+JKB	_	4	obl	_	_
+4	힘들다	힘들+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_33_2_10
+# text = 그래서 협동은 장점이 더 많아 성공에 더 큰 영향을 미친다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	10	nsubj	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많아	많+아	ADJ	VA+EC	_	10	advcl	_	_
+6	성공에	성공+에	ADV	NNG+JKB	_	10	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	영향을	영향+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

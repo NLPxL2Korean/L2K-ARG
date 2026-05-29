@@ -1,0 +1,84 @@
+# sent_id = ARG-CZH_17_2_01
+# text = 내가 역사를 배우는 것이 중요하다고 생각한다.
+1	내가	내+가	PRON	NP+JKS	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_17_2_02
+# text = 우리 직구와 나라와 도시와 우리 할머니와 할아버지가 무슨 일 겪은지 잊으면 안된다고 생각한다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	직구와	직구+와	NOUN	NF+JC	Typo=Yes	10	nsubj	_	_
+3	나라와	나라+와	NOUN	NNG+JC	_	2	conj	_	_
+4	도시와	도시+와	NOUN	NNG+JC	_	2	conj	_	_
+5	우리	우리	PRON	NP	_	6	nmod	_	_
+6	할머니와	할머니+와	NOUN	NNG+JC	_	2	conj	_	_
+7	할아버지가	할아버지+가	NOUN	NNG+JKC	_	2	conj	_	_
+8	무슨	무슨	DET	MM	_	9	det	_	_
+9	일	일	NOUN	NNG	_	10	obj	_	_
+10	겪은지	겪+은지	VERB	VV+EC	_	11	ccomp	_	_
+11	잊으면	잊+으면	VERB	VV+EC	_	12	advcl	_	_
+12	안된다고	안+되+ㄴ다고	VERB	MAG+VV+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_17_2_03
+# text = 과거에 일어난 일에 대해 알면 우리가 똑같은 실수을 피해할 수도 있고 많이 배울 수 있다.
+1	과거에	과거+에	ADV	NNG+JKB	_	2	obl	_	_
+2	일어난	일어나+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	일에	일+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+5	알면	알+면	VERB	VV+EC	_	11	advcl	_	_
+6	우리가	우리+가	PRON	NP+JKS	_	9	nsubj	_	_
+7	똑같은	똑같+은	ADJ	VA+ETM	_	8	amod	_	_
+8	실수을	실수+을	NOUN	NF+JKO	Typo=Yes	9	obj	_	_
+9	피해할	피해하+ㄹ	VERB	NV+ETM	Typo=Yes	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	0	root	_	_
+12	많이	많이	ADV	MAG	_	13	advmod	_	_
+13	배울	배우+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	11	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_17_2_04
+# text = 그런데 학교에서 역사에 대해 알려준 수업 때문에 많은 사람들이 역사가 재미없다고 생각한다.
+1	그런데	그런데	ADV	MAJ	_	12	cc	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	역사에	역사+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+5	알려준	알+리+어+주+ㄴ	VERB	VV+XSV+EC+VX+EC	_	11	acl	_	_
+6	수업	수업	NOUN	NNG	_	12	obl	_	_
+7	때문에	때문+에	ADV	NNB+JKB	_	6	case	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+10	역사가	역사+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	재미없다고	재미+없+다고	ADJ	NNG+VA+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_17_2_05
+# text = 사람들이 역사에 대한 관심이 가지고 있으면 역사뿐만 아니라 다른 나라의 사람의 의도와 행동도 조금 더 이해할 수 있다고 생각한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	dislocated	_	_
+2	역사에	역사+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대한	대하+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	관심이	관심+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	가지고	가지+고	VERB	VV+EC	_	18	advcl	_	_
+6	있으면	있	AUX	VX+EC	_	5	aux	_	_
+7	역사뿐만	역사+뿐+만	NOUN	NNG+JX+JX	_	8	nsubj	_	_
+8	아니라	아니+라	ADJ	VCN+EC	_	18	advcl	_	_
+9	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	나라의	나라+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	사람의	사람+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	의도와	의도+와	NOUN	NNG+JC	_	16	obj	_	_
+13	행동도	행동+도	NOUN	NNG+JX	_	12	conj	_	_
+14	조금	조금	ADV	MAG	_	15	advmod	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다고	있+다고	VERB	VX+EC	_	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

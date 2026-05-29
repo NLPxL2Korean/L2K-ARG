@@ -1,0 +1,255 @@
+# sent_id = ARG-HENG_03_2_01
+# text = 역사는 무족건 배워야 한다고 생각합니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	3	obj	_	_
+2	무족건	무족건	NOUN	MAG	_	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_03_2_01
+# text = 역사는 우리의삶과 되게 동떨어져있다고 느낄 수 있다.
+1	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+2	우리의삶과	우리+의+삶+과	ADV	NNG+JKG+NNG+JKB	_	4	obl	_	_
+3	되게	되게	ADV	MAG	_	4	advmod	_	_
+4	동떨어져있다고	동떨어지+어+있+다고	VERB	VA+EC+VX+EC	_	5	ccomp	_	_
+5	느낄	느끼+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_03_2_02
+# text = 역사를 공부하면서 아주 중요한 것들을 배울 수 있다고 생각합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	공부하면서	공부+하+면서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다고	있+다고	VERB	VX+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_03_2_02
+# text = 어떻게 보면 우리가 태어나기도 전에 발생했었던 사건들은 우리 삶의 직접적인 영향이 없을 수도 있다.
+1	어떻게	어떻+게	ADV	VA+EC	_	2	advmod	_	_
+2	보면	보+면	VERB	VV+EC	_	14	advcl	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+4	태어나기도	태어나+기+도	NOUN	VV+ETN+JX	_	6	obl	_	_
+5	전에	전+에	ADP	NNG+JKB	_	4	case	_	_
+6	발생했었던	발생+하+았었+던	VERB	NNG+XSV+EP+ETM	_	7	acl	_	_
+7	사건들은	사건+들+은	NOUN	NNG+XSN+JX	_	12	dislocated	_	_
+8	우리	우리	PRON	NP	_	9	nmod	_	_
+9	삶의	삶+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+10	직접적인	직접+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	영향이	영향+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	없을	없+을	VERB	VA+ETM	_	13	acl	_	_
+13	수도	수+도	NOUN	NNB+JX	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_03_2_03
+# text = 우리가 살고 있는 땅에 역사 에는 전쟁 들도 있고, 유명하고 대단한 인물들도 담겨있읍니다.
+1	우리가	우리+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	살고	살+고	VERB	VV+EC	_	4	acl	_	_
+3	있는	있+는	VERB	VX+ETM	_	2	aux	_	_
+4	땅에	땅+에	ADV	NNG+JKB	_	9	obl	_	_
+5	역사	역사	NOUN	NNG	_	9	obl	_	_
+6	에는	에+는	ADP	JKB+JX	_	5	case	_	_
+7	전쟁	전쟁	NOUN	NNG	_	9	nsubj	_	_
+8	들도	들+도	NOUN	XSN+JX	_	7	case	_	_
+9	있고	있+고	VERB	VV+EC	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	유명하고	유명+하+고	VERB	XR+XSA+EC	_	13	amod	_	_
+12	대단한	대단+하+ㄴ	ADJ	XR+XSA+ETM	_	11	conj	_	_
+13	인물들도	인물+들+도	NOUN	NNG+XSN+JX	_	14	nsubj	_	_
+14	담겨있읍니다	담기+어+있+읍니다	VERB	VV+EC+VX+EF	_	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_03_2_03
+# text = 하지만 역사 사건을 통해서 현재 사회주조 및 문제, 이념의 장단점, 등 다양한 진실을 발결할 수 있다.
+1	하지만	하지만	ADV	MAJ	_	18	cc	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	사건을	사건+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	통해서	통하+아서	VERB	VV+EC	_	16	advcl	_	_
+5	현재	현재	ADV	NNG	_	6	nmod	_	_
+6	사회주조	사회+주조	NOUN	NNG+NF	_	11	list	_	_
+7	및	및	NOUN	MAG	_	8	cc	_	_
+8	문제	문제	NOUN	NNG	_	6	conj	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	이념의	이념+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+11	장단점	장단점	NOUN	NNG	_	15	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	등	등	NOUN	NNB	_	11	case	_	_
+14	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	15	amod	_	_
+15	진실을	진실+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	발결할	발결+하+ㄹ	VERB	NF+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_03_2_04
+# text = 이 인물들을 존경하고 감사함을 배우고, 본인이 살고있는 땅에 대한 자존심을 키울 수 있읍니다.
+1	이	이	DET	MM	_	2	det	_	_
+2	인물들을	인물+들+을	NOUN	NNG+XSN+JKO	_	3	obj	_	_
+3	존경하고	존경+하+고	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	감사함을	감사+하+ㅁ+을	NOUN	NNG+XSV+ETN+JKO	_	5	obj	_	_
+5	배우고	배우+고	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	본인이	본인+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	살고있는	살+고+있+는	VERB	VV+EC+VX+ETM	_	11	acl	_	_
+9	땅에	땅+에	ADV	NNG+JKB	_	10	obl	_	_
+10	대한	대하+ㄴ	VERB	VV+ETM	_	11	acl	_	_
+11	자존심을	자존심+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	키울	키우+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있읍니다	있+읍+ㅂ니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_03_2_04
+# text = 물로 역사는 미래를 알려주지 않지만 우리가 만들어내고 싶은 미래의 나침반이 될 수 있다.
+1	물로	물로	ADV	NA	_	4	advmod	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	미래를	미래+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알려주지	알리+어+주+지	VERB	VV+EC+VX+EC	_	13	advcl	_	_
+5	않지만	않+지만	AUX	VX+EC	_	4	aux	_	_
+6	우리가	우리+가	PRON	NP+JKS	_	7	nsubj	_	_
+7	만들어내고	만들+어+내+고	VERB	VV+EC+VX+EC	_	10	acl	_	_
+8	싶은	싶+은	AUX	VX+ETM	_	7	aux	_	_
+9	미래의	미래+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	나침반이	나침반+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	될	되+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_03_2_05
+# text = 본인에 가족이 따르는 문화에데해서 배울수도 있읍니다.
+1	본인에	본인+에	ADV	NNG+JKB	_	3	obl	_	_
+2	가족이	가족+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	따르는	따르+는	VERB	VV+ETM	_	4	acl	_	_
+4	문화에데해서	문화+에+데하+아서	VERB	NNG+JKB+NV+EC	_	5	advcl	_	_
+5	배울수도	배우+ㄹ+수+도	NOUN	VV+ETM+NNB+JX	_	6	nsubj	_	_
+6	있읍니다	있+읍니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_03_2_05
+# text = 하지만 주의할 점은 역사에 얽매있는 것이다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	주의할	주의+하+ㄹ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	점은	점+은	NOUN	NNB+JX	_	6	nsubj	_	_
+4	역사에	역사+에	ADV	NNG+JKB	_	5	obl	_	_
+5	얽매있는	얽매+있+는	VERB	VV+VX+ETM	_	6	acl	_	_
+6	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_03_2_06
+# text = 문화가 언제부터 시작이 됐는지, 왜 시작이 됐는지, 그리고 그 문화가 왜 중요한지를 배울 수 있읍니다.
+1	문화가	문화+가	NOUN	NNG+JKS	_	4	dislocated	_	_
+2	언제부터	언제+부터	ADV	NNG+JX	_	4	obl	_	_
+3	시작이	시작+이	NOUN	NNG+JKC	_	4	nsubj	_	_
+4	됐는지	되+었+는지	VERB	VV+EP+EC	_	15	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	왜	왜	ADV	MAG	_	8	advmod	_	_
+7	시작이	시작+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	됐는지	되+었+는지	VERB	VV+EP+EC	_	15	ccomp	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	그리고	그리고	ADV	MAJ	_	17	cc	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	문화가	문화+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+13	왜	왜	ADV	MAG	_	14	advmod	_	_
+14	중요한지를	중요+하+ㄴ지+를	NOUN	NNG+XSA+EC+JKO	_	15	ccomp	_	_
+15	배울	배우+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_03_2_06
+# text = 예전에 한 사건이 있었기 때문에 무조건 같은 사건이 반복될 거라는 보장은 없다.
+1	예전에	예전+에	ADV	NNG+JKB	_	4	obl	_	_
+2	한	한	NUM	MM	_	3	det	_	_
+3	사건이	사건+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있었기	있+었+기	NOUN	VV+EP+ETN	_	9	obl	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+6	무조건	무조건	ADV	MAG	_	7	advmod	_	_
+7	같은	같+은	VERB	VA+ETM	_	8	amod	_	_
+8	사건이	사건+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	반복될	반복+되+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+10	거라는	거+이+라는	VERB	NNB+VCP+ETM	_	11	acl	_	_
+11	보장은	보장+은	NOUN	NNG+JX	_	12	nsubj	_	_
+12	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_03_2_07
+# text = 자기 문화가 아닌, 남들 문화에 데해서 배우는 것도 중요합니다.
+1	자기	자기	PRON	NP	_	2	nmod	_	_
+2	문화가	문화+가	NOUN	NNG+JKC	_	3	nsubj	_	_
+3	아닌	아니+ㄴ	VERB	VCN+ETM	_	6	acl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	남들	남+들	NOUN	NNG+XSN	_	6	nmod	_	_
+6	문화에	문화+에	ADV	NNG+JKB	_	7	obl	_	_
+7	데해서	데하+아서	VERB	NV+EC	_	8	advcl	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	것도	것+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_03_2_07
+# text = 각각 사건의 배경과 사실들을 고려할 필요가 있다.
+1	각각	각각	NUM	NNG	_	2	nmod	_	_
+2	사건의	사건+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	배경과	배경+과	NOUN	NNG+JC	_	5	obj	_	_
+4	사실들을	사실+들+을	NOUN	NNG+XSN+JKO	_	3	conj	_	_
+5	고려할	고려+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	필요가	필요+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_03_2_08
+# text = 존경을 할 줄 알아야 하니까요.
+1	존경을	존경+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	줄	줄	NOUN	NNB	_	4	obj	_	_
+4	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+5	하니까요	하+니까요	VERB	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_03_2_09
+# text = 역사를 배워야하는 제일 중요한 이유는 우리가 역사에서 일어났던 실수, 혹은 잘못된 행동을 알고, 미래에서 똑같은 일을 방지하게 위해서 역사를 배워야 합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야하는	배우+어야+하+는	VERB	VV+EC+VX+EC	_	5	acl	_	_
+3	제일	제일	ADV	MAG	_	4	advmod	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	22	obl	_	_
+6	우리가	우리+가	PRON	NP+JKS	_	8	nsubj	_	_
+7	역사에서	역사+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	일어났던	일어나+았+던	VERB	VV+EP+ETM	_	9	acl	_	_
+9	실수	실수	NOUN	NNG	_	13	list	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	혹은	혹은	NOUN	MAG	_	14	advmod	_	_
+12	잘못된	잘못+되+ㄴ	ADJ	NNG+XSV+ETM	_	13	acl	_	_
+13	행동을	행동+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	알고	알+고	VERB	VV+EC	_	22	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	14	punct	_	_
+16	미래에서	미래+에서	ADV	NF+JKB	_	19	obl	_	_
+17	똑같은	똑같+은	ADJ	VA+ETM	_	18	amod	_	_
+18	일을	일+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	방지하게	방지+하+게	ADV	NNG+XSV+EC	_	20	advcl	_	_
+20	위해서	위하+아서	VERB	VV+EC	_	22	advcl	_	_
+21	역사를	역사+를	NOUN	NNG+JKO	_	22	obj	_	_
+22	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+23	합니다	하+ㅂ니다	AUX	VX+EF	_	22	aux	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-HENG_03_2_10
+# text = 역사가 다 지나간 일이라서 몰라도 된다는건 잘못됐다고 생각합니다.
+1	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	다	다	ADV	MAG	_	3	advmod	_	_
+3	지나간	지나가+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	일이라서	일+이+라서	VERB	NNG+VCP+EC	_	5	advcl	_	_
+5	몰라도	모르+아도	VERB	VV+EC	_	6	advcl	_	_
+6	된다는건	되+ㄴ다는+거+ㄴ	VERB	VV+ETM+NNB+JX	_	7	nsubj	_	_
+7	잘못됐다고	잘못+되+었+다고	VERB	NNG+XSV+EP+EC	_	8	ccomp	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

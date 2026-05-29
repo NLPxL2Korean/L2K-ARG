@@ -1,0 +1,169 @@
+# sent_id = ARG-JPN_06_3_01
+# text =  나는 경쟁보다 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_06_3_02
+# text =  그 이유는 2개 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	dislocated	_	_
+3	2개	2+개	NOUN	SN+NNB	_	4	nsubj	_	_
+4	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_06_3_03
+# text =  첫째는 협동을 하면 개인으로 하는 것보다 더 좋은 결과가 나올 수 있기 때문이다.
+1	첫째는	첫째+는	NOUN	NR+JX	_	13	obl	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+4	개인으로	개인+으로	ADV	NNG+JKB	_	5	obl	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	것보다	것+보다	ADV	NNB+JKB	_	10	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	결과가	결과+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	나올	나오+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있기	있+기	NOUN	VX+ETN	_	13	nmod	_	_
+13	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_06_3_04
+# text =  경쟁은 다른 사람과 같이 하는 게 아니라 혼자서 해야 한다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	9	obj	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람과	사람+과	ADV	NNG+JKB	_	5	obl	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	게	것+이	NOUN	NNB+JKC	_	7	nsubj	_	_
+7	아니라	아니+라	VERB	VCN+EC	_	9	advcl	_	_
+8	혼자서	혼자+서	ADV	NNG+JKS	_	9	nsubj	_	_
+9	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+10	한다	하+ㄴ다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_3_05
+# text =  그래서 에너지도 1인분 밖에 없다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	에너지도	에너지+도	NOUN	NNG+JX	_	5	dislocated	_	_
+3	1인분	1+인분	NOUN	SN+NNB	_	5	nsubj	_	_
+4	밖에	밖에	ADP	JX	_	3	case	_	_
+5	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_06_3_06
+# text =  혼자서 할 수 있는 것은 많지 않다.
+1	혼자서	혼자+서	ADV	NNG+JKS	_	2	nsubj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있는	있+는	VERB	VX+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	6	nsubj	_	_
+6	많지	많+지	VERB	VA+EC	_	0	root	_	_
+7	않다	않+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_06_3_07
+# text =  하지만 협동을 하면 혼자라면 할 수 없는 것이라도 협력해서 성공할 수 있는 가능성이 높아지다.
+1	하지만	하지만	ADV	MAJ	_	14	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+4	혼자라면	혼자+이+라면	VERB	NNG+VCP+EC	_	5	advcl	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	없는	없+는	VERB	VX+ETM	_	8	acl	_	_
+8	것이라도	것+이+라도	VERB	NNB+VCP+EF	_	9	advcl	_	_
+9	협력해서	협력+하+아서	VERB	NNG+XSV+EC	_	10	advcl	_	_
+10	성공할	성공+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+14	높아지다	높+아지+다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_06_3_08
+# text =  그것은 단채나 사회 안에서는 무조건 필요한 생각이고.
+1	그것은	그것+은	PRON	NP+JX	_	7	nsubj	_	_
+2	단채나	단채+나	NOUN	NF+JC	_	6	obl	_	_
+3	사회	사회	NOUN	NNG	_	2	conj	_	_
+4	안에서는	안+에서+는	ADP	NNB+JKB+JX	_	3	case	_	_
+5	무조건	무조건	ADV	MAG	_	6	advmod	_	_
+6	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	7	acl	_	_
+7	생각이고	생각+이+고	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_06_3_09
+# text =  협동을 하면 더 많은 사람에게 좋은 영향을 미치는 것이다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	사람에게	사람+에게	NOUN	NNG+JKB	_	8	obl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미치는	미치+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_3_10
+# text =  또는 협동은 좋은 인간관계를 구소할 수도 있다.
+1	또는	또는	ADV	MAG	_	7	cc	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	5	nsubj	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	인간관계를	인간+관계+를	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	구소할	구소+하+ㄹ	VERB	NF+XSV+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_06_3_11
+# text =  협동을 하기 위해서는 사람들이 서로 소통을 하는 필요가 있다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하기	하+기	NOUN	VV+ETN	_	3	obj	_	_
+3	위해서는	위하+아서+는	VERB	VV+EC+JX	_	9	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	서로	서로	ADV	MAG	_	7	advmod	_	_
+6	소통을	소통+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	필요가	필요+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_3_12
+# text =  소동을 할 때마다 좋은 관계가 생기고 더 협력을 할 수 있는 상황이 된다.
+1	소동을	소동+을	NOUN	NF+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	13	advcl	_	_
+3	때마다	때+마다	ADV	NNG+JX	_	2	mark	_	_
+4	좋은	좋+은	VERB	VA+ETM	_	5	amod	_	_
+5	관계가	관계+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	생기고	생기+고	VERB	VV+EC	_	13	advcl	_	_
+7	더	더	ADV	MAG	_	9	advmod	_	_
+8	협력을	협력+을	NOUN	NNG+JKO	_	6	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있는	있+는	VERB	VX+ETM	_	12	acl	_	_
+12	상황이	상황+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_06_3_13
+# text =  그것은 경쟁을 할때는 생기지 않은 것이다.
+1	그것은	그것+은	PRON	NP+JX	_	6	nsubj	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	할때는	하+ㄹ+때+는	VERB	VV+ETM+NNB+JX	_	6	advcl	_	_
+4	생기지	생기+지	VERB	VV+EC	_	6	acl	_	_
+5	않은	않+은	AUX	VX+ETM	_	4	aux	_	_
+6	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_06_3_14
+# text =  그래서 나는 협동을 더 선호한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

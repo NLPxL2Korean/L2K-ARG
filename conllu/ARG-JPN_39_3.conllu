@@ -1,0 +1,138 @@
+# sent_id = ARG-JPN_39_3_01
+# text =  나는 협동과 경쟁 중에서는 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	7	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서는	중+에서+는	ADP	NNB+JKB+JX	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_39_3_02
+# text =  협동을 해서 성공을 했을 때 큰 기쁨을 느낄 수 있기 때문이다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	해서	하+아서	VERB	VV+EC	_	4	advcl	_	_
+3	성공을	성공+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	했을	하+았+을	VERB	VV+EP+ETM	_	8	advcl	_	_
+5	때	때	ADV	NNG	_	4	goeswith	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	기쁨을	기쁘+ㅁ+을	NOUN	VV+ETN+JKO	_	8	obj	_	_
+8	느낄	느끼+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있기	있+기	NOUN	VX+ETN	_	11	nmod	_	_
+11	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_39_3_03
+# text =  나는 중학생 때 탁구 동아리에 소속하고 있었다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	중학생	중학생	NOUN	NNG	_	6	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	탁구	탁구	NOUN	NNG	_	5	nmod	_	_
+5	동아리에	동아리+에	ADV	NF+JKB	_	6	obl	_	_
+6	소속하고	소속+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+7	있었다	있+었+다	AUX	VX+EP+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_39_3_04
+# text =  탁구는 1대1의 승부이기 때문에 팀의 협동 같은 것은 없다고 생각하고 있었다.
+1	탁구는	탁구+는	NOUN	NNG+JX	_	3	nsubj	_	_
+2	1대1의	1+대1+의	NOUN	SN+NNB+SN+JKG	_	3	nmod:poss	_	_
+3	승부이기	승부+이+기	NOUN	NNG+VCP+ETN	_	9	obl	_	_
+4	때문에	때문+에	ADP	NNB+JKB	_	3	case	_	_
+5	팀의	팀+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	협동	협동	NOUN	NNG	_	7	acl	_	_
+7	같은	같+은	VERB	VA+ETM	_	8	acl	_	_
+8	것은	것+은	NOUN	NNB+JX	_	9	nsubj	_	_
+9	없다고	없+다고	VERB	VA+EC	_	10	ccomp	_	_
+10	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+11	있었다	있+었+다	AUX	VX+EP+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_39_3_05
+# text =  하지만 탁구에도 대채전이 있어서 한 명이 이기면 되는 것이 아니라 팀 전채가 이겨야 했다.
+1	하지만	하지만	ADV	MAJ	_	13	cc	_	_
+2	탁구에도	탁구+에+도	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	대채전이	대채+전+이	NOUN	NF+XSN+JKS	_	4	nsubj	_	_
+4	있어서	있+어서	VERB	VV+EC	_	13	advcl	_	_
+5	한	한	NUM	MM	_	6	nummod	_	_
+6	명이	명+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	이기면	이기+면	VERB	VV+EC	_	9	acl	_	_
+8	되는	되+는	VERB	VX+ETM	_	7	advcl	_	_
+9	것이	것+이	NOUN	NNB+JKC	_	10	nsubj	_	_
+10	아니라	아니+라	VERB	VCN+EC	_	13	advcl	_	_
+11	팀	팀	NOUN	NNG	_	12	nmod	_	_
+12	전채가	전채+가	NOUN	NF+JKS	_	13	nsubj	_	_
+13	이겨야	이기+어야	VERB	VV+EC	_	0	root	_	_
+14	했다	하+았+다	VERB	VX+EP+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_39_3_06
+# text =  그래서 팀 멘버에서 서로 어드바이스를 하고 같이 연습을 했다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	팀	팀	NOUN	NNG	_	3	nmod	_	_
+3	멘버에서	멘버+에서	ADV	NF+JKB	_	6	obl	_	_
+4	서로	서로	ADV	MAG	_	6	advmod	_	_
+5	어드바이스를	어드바이스+를	NOUN	NF+JKO	_	6	obj	_	_
+6	하고	하+고	VERB	VV+EC	_	0	root	_	_
+7	같이	같이	ADV	MAG	_	9	advmod	_	_
+8	연습을	연습+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	했다	하+았+다	VERB	VV+EP+EF	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_39_3_07
+# text =  많은 연습을 통해서 결단력도 생긴 상태로 대회에 나갔다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	연습을	연습+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	통해서	통하+아서	VERB	VV+EC	_	5	advcl	_	_
+4	결단력도	결단력+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	생긴	생기+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	상태로	상태+로	ADV	NNG+JKB	_	8	obl	_	_
+7	대회에	대회+에	ADV	NNG+JKB	_	8	obl	_	_
+8	나갔다	나가+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_39_3_08
+# text =  결과는 치바현 여자 중학생 중에서 8위였다.
+1	결과는	결과+는	NOUN	NNG+JX	_	6	nsubj	_	_
+2	치바현	치바+현	NOUN	NNP+XSN	_	4	nmod	_	_
+3	여자	여자	NOUN	NNG	_	4	nmod	_	_
+4	중학생	중학생	NOUN	NNG	_	6	obl	_	_
+5	중에서	중+에서	ADP	NNB+JKB	_	4	case	_	_
+6	8위였다	8+위+이+었+다	VERB	SN+NNB+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_39_3_09
+# text =  조금 더 위의 순위가 목표였기 때문에 아쉬운 마음도 있었지만 그것보다 같이 협동을 해서 하나의 목표에 향해서 열심히 달린 것이 너무나 행복했다.
+1	조금	조금	ADV	MAG	_	2	advmod	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	위의	위+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	순위가	순위+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	목표였기	목표+이+었+기	NOUN	NNG+VCP+EP+ETN	_	9	obl	_	_
+6	때문에	때문+에	ADP	NNB+JKB	_	5	case	_	_
+7	아쉬운	아쉽+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	마음도	마음+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있었지만	있+었+지만	VERB	VV+EP+EC	_	21	advcl	_	_
+10	그것보다	그것+보다	ADV	NNG+JKB	_	13	obl	_	_
+11	같이	같이	ADV	MAG	_	13	advmod	_	_
+12	협동을	협동+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	해서	하+아서	VERB	VV+EC	_	21	advcl	_	_
+14	하나의	하나+의	NOUN	NP+JKG	_	15	nmod:poss	_	_
+15	목표에	목표+에	ADV	NNG+JKB	_	16	obl	_	_
+16	향해서	향하+아서	VERB	VV+EC	_	18	advcl	_	_
+17	열심히	열심히	ADV	MAG	_	18	advmod	_	_
+18	달린	달리+ㄴ	VERB	VV+ETM	_	19	acl	_	_
+19	것이	것+이	NOUN	NNB+JKS	_	21	nsubj	_	_
+20	너무나	너무나	ADV	MAG	_	21	advmod	_	_
+21	행복했다	행복+하+았+다	VERB	NNG+XSA+EP+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-JPN_39_3_10
+# text =  그렇기 떄문어 나는 협동을 선호한다.
+1	그렇기	그렇+기	NOUN	VA+ETN	_	5	obl	_	_
+2	떄문어	떄문+어	VERB	NF+NA	_	1	case	_	_
+3	나는	나+는	VERB	NP+JX	_	5	nsubj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

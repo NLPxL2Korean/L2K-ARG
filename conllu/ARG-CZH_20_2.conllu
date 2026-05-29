@@ -1,0 +1,157 @@
+# sent_id = ARG-CZH_20_2_01
+# text = 역사를 배워야 하다는 의견이 많은 반면에 역사를 배워야 하지 않다고 생각하는 사람들도 많다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	acl	_	_
+3	하다는	하	AUX	VX+ETM	_	2	aux	_	_
+4	의견이	의견+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	acl	_	_
+6	반면에	반면+에	ADV	NNG+JKB	_	13	obl	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배워야	배우+어야	VERB	VV+EC	_	11	ccomp	_	_
+9	하지	하	AUX	VX+EC	_	8	aux	_	_
+10	않다고	않	AUX	VX+EC	_	8	aux	_	_
+11	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+13	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_20_2_02
+# text = 현대 생활에 역사 지식이 중요한가?
+1	현대	현대	NOUN	NNG	_	2	nmod	_	_
+2	생활에	생활+에	ADV	NNG+JKB	_	5	obl	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	지식이	지식+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	중요한가	중요+하+ㄴ가	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_20_2_03
+# text = 사람마다 성격이 달라서 역사에 관심이 없는 사람들이 역사에 대해서 아무것도 모르고 편하게 사는 경우도 많다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	3	obl	_	_
+2	성격이	성격+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	달라서	다르+아서	ADJ	VA+EC	_	15	advcl	_	_
+4	역사에	역사+에	ADV	NNG+JKB	_	6	obl	_	_
+5	관심이	관심+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없는	없+는	ADJ	VA+ETM	_	7	acl	_	_
+7	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+8	역사에	역사+에	ADV	NNG+JKB	_	9	obl	_	_
+9	대해서	대하+아서	VERB	VV+EC	_	11	advcl	_	_
+10	아무것도	아무+것+도	NOUN	MM+NNB+JX	_	11	obj	_	_
+11	모르고	모르+고	VERB	VV+EC	_	13	advcl	_	_
+12	편하게	편하+게	ADV	VA+EC	_	13	advmod	_	_
+13	사는	살+는	VERB	VV+ETM	_	14	acl	_	_
+14	경우도	경우+도	NOUN	NNG+JX	_	15	nsubj	_	_
+15	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_20_2_04
+# text = 사실은 보통 사람의 생활을 하기 위해 깊은 역사적인 지식을 필요 없다.
+1	사실은	사실+은	ADV	NNG+JX	_	11	advmod	_	_
+2	보통	보통	NOUN	NNG	_	3	nmod	_	_
+3	사람의	사람+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	생활을	생활+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하기	하+기	VERB	VV+ETN	_	6	obj	_	_
+6	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+7	깊은	깊+은	ADJ	VA+ETM	_	9	amod	_	_
+8	역사적인	역사+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	amod	_	_
+9	지식을	지식+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	필요	필요	NOUN	NNG	_	11	nsubj	_	_
+11	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_20_2_05
+# text = 학교, 직업, 가게, 병원이나 식당에 가기 위해서 그런 것이 중요하지 않다.
+1	학교	학교	NOUN	NNG	_	9	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	직업	직업	NOUN	NNG	_	1	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	가게	가게	VERB	VV+EC	_	1	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	병원이나	병원+이나	NOUN	NNG+JC	_	1	list	_	_
+8	식당에	식당+에	ADV	NNG+JKB	_	1	conj	_	_
+9	가기	가+기	VERB	VV+ETN	_	10	obj	_	_
+10	위해서	위하+아서	VERB	VV+EC	_	13	advcl	_	_
+11	그런	그런	DET	MM	_	12	det	_	_
+12	것이	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	중요하지	중요+하+지	ADJ	NNG+XSA+EC	_	0	root	_	_
+14	않다	않	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_20_2_06
+# text = 그러나 대통령이나 투표하면 역사를 조금이라도 아는 것은 중요하다.
+1	그러나	그러나	ADV	MAJ	_	8	cc	_	_
+2	대통령이나	대통령+이나	NOUN	NNG+JX	_	3	obj	_	_
+3	투표하면	투표+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	조금이라도	조금+이라도	ADV	NNG+JX	_	6	advmod	_	_
+6	아는	알+는	VERB	VV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	8	nsubj	_	_
+8	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_20_2_07
+# text = 잘 발달한 나라에서 편하게 생활하면서 자기 나라의 상태가 영원히 그렇다고 생각할 수 있다.
+1	잘	잘	ADV	MAG	_	2	advmod	_	_
+2	발달한	발달+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	나라에서	나라+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	편하게	편하+게	ADV	VA+EC	_	5	advmod	_	_
+5	생활하면서	생활+하+면서	VERB	NNG+XSV+EC	_	13	advcl	_	_
+6	자기	자기	NOUN	NNG	_	7	nmod	_	_
+7	나라의	나라+의	NOUN	NNG+JKG	_	8	nmod	_	_
+8	상태가	상태+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	영원히	영원히	ADV	MAG	_	10	advmod	_	_
+10	그렇다고	그렇+다고	ADJ	VA+EC	_	11	ccomp	_	_
+11	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_20_2_08
+# text = 그러나 시민의 안전과 행복에 대한 관심이 없는 사람을 투표하면 후희할 수 있다.
+1	그러나	그러나	ADV	MAJ	_	12	cc	_	_
+2	시민의	시민+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	안전과	안전+과	NOUN	NNG+JC	_	5	obl	_	_
+4	행복에	행복+에	ADV	NNG+JKB	_	3	conj	_	_
+5	대한	대하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	관심이	관심+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	없는	없+는	ADJ	VA+ETM	_	8	acl	_	_
+8	사람을	사람+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	투표하면	투표+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+10	후희할	후희+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_20_2_09
+# text = 역사를 자세히 배우는 것이 필요 없으나 별로 안 배운 것은 좋지 않다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	자세히	자세히	ADV	MAG	_	3	advmod	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	dislocated	_	_
+5	필요	필요	NOUN	NNG	_	6	nsubj	_	_
+6	없으나	없+으나	ADJ	VA+EC	_	11	advcl	_	_
+7	별로	별로	ADV	MAG	_	9	advmod	_	_
+8	안	안	ADV	MAG	_	9	advmod	_	_
+9	배운	배우+ㄴ	VERB	VV+ETM	_	10	acl	_	_
+10	것은	것+은	NOUN	NNB+JX	_	11	nsubj	_	_
+11	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+12	않다	않	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_20_2_10
+# text = 자기 나라에 대한 관심이 없는 시민은 그 나라의 행복 뿐만 아니라 자기의 행복도 지원하지 않다.
+1	자기	자기	NOUN	NNG	_	2	nmod	_	_
+2	나라에	나라+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대한	대하+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	관심이	관심+이	NOUN	NNG+JKS	_	6	csubj	_	_
+5	없는	없+는	ADJ	VA+ETM	_	6	acl	_	_
+6	시민은	시민+은	NOUN	NNG+JX	_	14	nsubj	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	나라의	나라+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	행복	행복	NOUN	NNG	_	11	nsubj	_	_
+10	뿐만	뿐+만	ADP	JX+JX	_	9	case	_	_
+11	아니라	아니+라	ADJ	VCN+EC	_	14	advcl	_	_
+12	자기의	자기+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	행복도	행복+도	NOUN	NNG+JX	_	14	obj	_	_
+14	지원하지	지원+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+15	않다	않	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_

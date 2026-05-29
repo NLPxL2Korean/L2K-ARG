@@ -1,0 +1,97 @@
+# sent_id = ARG-JPN_04_3_01
+# text =  나는 협동을 경쟁보다 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_04_3_02
+# text =  이유는 협동은 혼자아니고 사람들와 같이 하는 때문이다.
+1	이유는	이유+는	NOUN	NNG+JX	_	7	nsubj	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	3	nsubj	_	_
+3	혼자아니고	혼자+아니+고	VERB	NNG+VCN+EC	_	7	acl	_	_
+4	사람들와	사람+들+와	ADV	NNG+XSN+NA	_	6	obl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	3	conj	_	_
+7	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_04_3_03
+# text =  경쟁은 리본적으로 혼자서 하는 것이다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	5	nsubj	_	_
+2	리본적으로	리본+적+으로	ADV	NF+XSN+JKB	_	4	obl	_	_
+3	혼자서	혼자+서	ADV	NNG+JKS	_	4	nsubj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_04_3_04
+# text =  개인의 머티베이션은 높지만 결과의 칠은 높은 아니다.
+1	개인의	개인+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	머티베이션은	머티베이션+은	NOUN	NF+JX	_	3	nsubj	_	_
+3	높지만	높+지만	VERB	VA+EC	_	7	advcl	_	_
+4	결과의	결과+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	칠은	칠은	NOUN	NA	_	7	advmod	_	_
+6	높은	높+은	VERB	VA+ETM	_	7	amod	_	_
+7	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_04_3_05
+# text =  "다른 사람보다 열심히 한다"라는 경쟁이 목표으로 하는 것이 생기다.
+1	"다른	"+다른	ADV	SS+MM	_	2	amod	_	_
+2	사람보다	사람+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	한다"라는	하+ㄴ다+"+라는	VERB	VV+EF+SS+JKQ	_	5	acl	_	_
+5	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	목표으로	목표+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	생기다	생기+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_04_3_06
+# text =  하지만 협동은 "잘 결과" 가 목표으로 한다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	"잘	"+잘	VERB	SS+MAG	_	4	advmod	_	_
+4	결과"	결과+"	ADV	NNG+SS	_	7	nsubj	_	_
+5	가	가	VERB	JKS	_	4	case	_	_
+6	목표으로	목표+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_04_3_07
+# text =  잘 결과를 위해서 사람들와 정담 할 수 있고 혼자서는 할 수 없은 것도 할 수 있다.
+1	잘	잘	ADV	MAG	_	3	advmod	_	_
+2	결과를	결과+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	8	advcl	_	_
+4	사람들와	사람+들+와	ADV	NNG+XSN+JKB	_	6	obl	_	_
+5	정담	정담	NOUN	NF	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있+고	VERB	VX+EC	_	0	root	_	_
+9	혼자서는	혼자+서+는	NOUN	NNG+JKS+JX	_	10	nsubj	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	없은	없+은	VERB	VA+ETM	_	13	acl	_	_
+13	것도	것+도	NOUN	NNB+JX	_	14	obj	_	_
+14	할	하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	8	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_04_3_08
+# text =  더 팀와크도 생기다 이상 기술한 때문에 나는 협동을 더 좋아한다.
+1	더	더	ADV	MAG	_	3	advmod	_	_
+2	팀와크도	팀+와크+도	NOUN	NNG+NF+JX	_	3	obj	_	_
+3	생기다	생기+다	NOUN	VV+EC	_	10	parataxis	_	_
+4	이상	이상	ADV	NNG	_	5	obl	_	_
+5	기술한	기술+하+ㄴ	VERB	NNG+XSV+ETM	_	10	advcl	_	_
+6	때문에	때문+에	ADP	NNB+JKB	_	5	mark	_	_
+7	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+8	협동을	협동+을	NOUN	NNG+JKO	_	10	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	좋아한다	좋아하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,127 @@
+# sent_id = ARG-ENG_18_3_01
+# text = 협동과 경쟁이 둘 다 중요한데, 저는 협동을 더 선호한다.
+1	협동과	협동+과	NOUN	NF+JC	_	5	nsubj	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	1	conj	_	_
+3	둘	둘	VERB	NR	_	4	nummod	_	_
+4	다	다	ADV	NNG	_	1	appos	_	_
+5	중요한데	중요+하+ㄴ데	VERB	NNG+XSA+EC	_	10	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	저는	저+는	PRON	NP+JX	_	10	nsubj	_	_
+8	협동을	협동+을	NOUN	NNG+JKO	_	10	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_18_3_02
+# text = 사람들이 같이 잘 할수 없다면, 결국에 실패할것이다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	같이	같이	ADV	MAG	_	4	advmod	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	5	nsubj	_	_
+5	없다면	없+다면	VERB	VX+EC	_	8	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	결국에	결국+에	ADV	NNG+JKB	_	8	obl	_	_
+8	실패할것이다	실패+하+ㄹ+것+이+다	VERB	NNG+XSV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_18_3_03
+# text = 인간 사회에서 사교이 개념이 너무 중요하다.
+1	인간	인간	NOUN	NNG	_	2	nmod	_	_
+2	사회에서	사회+에서	ADV	NNG+JKB	_	6	obl	_	_
+3	사교이	사교+이	NOUN	NNG+NA	_	4	nmod	_	_
+4	개념이	개념+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_3_04
+# text = 그리고 협동을 없다면 사회가 무너질 것이다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	없다면	없+다면	VERB	VA+EC	_	6	advcl	_	_
+4	사회가	사회+가	NOUN	NNG+JKC	_	5	nsubj	_	_
+5	무너질	무너지+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_3_05
+# text = 그래도 사회가 좋아질수 있 과정에서 경쟁이도 있을수도 있다.
+1	그래도	그래도	ADV	MAJ	_	8	cc	_	_
+2	사회가	사회+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	좋아질수	좋+아지+ㄹ+수	VERB	VA+XSV+ETM+NNB	_	4	nsubj	_	_
+4	있	있	VERB	VX	_	5	acl	_	_
+5	과정에서	과정+에서	ADV	NNG+JKB	_	7	obl	_	_
+6	경쟁이도	경쟁+이+도	NOUN	NNG+JKS+JX	_	7	nsubj	_	_
+7	있을수도	있+을+수+도	VERB	VV+ETM+NNB+JX	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_18_3_06
+# text = 경쟁은 사람한태 동기 줄 수 있는데 경쟁이 너무 많으면 위험할수도 있다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	사람한태	사람+한태	VERB	NNG+NA	_	4	obl	_	_
+3	동기	동기	NOUN	NNG	_	4	obj	_	_
+4	줄	주+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는데	있+는데	VERB	VX+EC	_	11	advcl	_	_
+7	경쟁이	경쟁+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	너무	너무	ADV	MAG	_	9	advmod	_	_
+9	많으면	많+으면	VERB	VA+EC	_	11	advcl	_	_
+10	위험할수도	위험+하+ㄹ+수+도	VERB	NNG+XSA+ETM+NNB+JX	_	11	nsubj	_	_
+11	있다	있+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_18_3_07
+# text = 반대 협동을 너무 많으면 단점을 덜있고 덜 심각한다.
+1	반대	반대	NOUN	NNG	_	6	obl	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	많으면	많+으면	VERB	VA+EC	_	6	advcl	_	_
+5	단점을	단점+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	덜있고	덜+있+고	VERB	MAG+VV+EC	_	0	root	_	_
+7	덜	덜	ADV	VA+ETM	_	8	advmod	_	_
+8	심각한다	심각+하+ㄴ다	VERB	NNG+XSA+EF	_	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_3_08
+# text = 제 생각에는 협동을 잘 있고싶으면 좋은 환경과 자체가 너무 중요한다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	있고싶으면	있+고+싶+으면	VERB	VV+EC+VX+EC	_	10	advcl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	환경과	환경+과	NOUN	NNG+JC	_	10	nsubj	_	_
+8	자체가	자체+가	NOUN	NNG+JKS	_	7	conj	_	_
+9	너무	너무	ADV	MAG	_	10	advmod	_	_
+10	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_18_3_09
+# text = 회사에서 회사문화가 나쁘면 보통 결국에 경쟁이 많이 새기고 협동을 많이 없어진다.
+1	회사에서	회사+에서	ADV	NNG+JKB	_	3	obl	_	_
+2	회사문화가	회사+문화+가	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+3	나쁘면	나쁘+면	VERB	VA+EC	_	8	advcl	_	_
+4	보통	보통	ADV	MAG	_	8	advmod	_	_
+5	결국에	결국+에	ADV	NNG+JKB	_	8	obl	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	새기고	새기+고	VERB	NV+EC	_	0	root	_	_
+9	협동을	협동+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_18_3_10
+# text = 그래서 성공하기 위해서 먼저 협동을 있어야되고 경쟁은 천천히 나온다면 괜찮을것같다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	성공하기	성공+하+기	NOUN	NNG+XSV+ETN	_	3	obj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	6	advcl	_	_
+4	먼저	먼저	ADV	MAG	_	6	advmod	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	있어야되고	있+어야+되+고	VERB	VV+EC+VX+EC	_	10	advcl	_	_
+7	경쟁은	경쟁+은	NOUN	NNG+JX	_	9	nsubj	_	_
+8	천천히	천천히	ADV	MAG	_	9	advmod	_	_
+9	나온다면	나오+ㄴ다면	VERB	VV+EC	_	10	advcl	_	_
+10	괜찮을것같다	괜찮+을+것+같+다	VERB	VA+ETM+NNB+VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

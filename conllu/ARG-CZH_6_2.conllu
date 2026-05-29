@@ -1,0 +1,127 @@
+# sent_id = ARG-CZH_06_2_01
+# text = 역사 공부는 완전 중요합니다.
+1	역사	역사	NOUN	NNG	_	2	nmod	_	_
+2	공부는	공부+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	완전	완전	ADV	NNG	_	4	advmod	_	_
+4	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_06_2_02
+# text = 사람들이 이렇게 말합니다: 우리가 예전실수를 다시 하지않을것 위해서 역사를 배워야합니다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	이렇게	이렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	말합니다	말+하+ㅂ니다	VERB	NNG+XSV+EC	_	11	advcl	_	SpaceAfter=No
+4	:	:	PUNCT	SP	_	3	punct	_	_
+5	우리가	우리+가	PRON	NP+JKS	_	11	nsubj	_	_
+6	예전실수를	예전+실수+를	NOUN	NNG+NNG+JKO	_	8	obj	_	_
+7	다시	다시	ADV	MAG	_	8	advmod	_	_
+8	하지않을것	하+지+않+을+것	NOUN	VV+EC+VX+ETM+NNB	_	9	obj	_	_
+9	위해서	위하+아서	VERB	VV+EC	_	11	advcl	_	_
+10	역사를	역사+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	배워야합니다	배우+어야+하+ㅂ니다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_06_2_03
+# text = 그게 사실입니다.
+1	그게	그것+이	PRON	NP+JKS	_	2	nsubj	_	_
+2	사실입니다	사실+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_06_2_04
+# text = 저는 미술사 좋아합니다.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	미술사	미술사	NOUN	NNG	_	3	obj	_	_
+3	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_06_2_05
+# text = 미술사는 옛사람들이 어떻게 생각하고 어떻게 느겼다고 보여줄수있습니다.
+1	미술사는	미술사+는	NOUN	NNG+JX	_	7	nsubj	_	_
+2	옛사람들이	옛+사람+들+이	NOUN	MM+NNG+XSN+JKS	_	4	nsubj	_	_
+3	어떻게	어떻+게	ADV	VA+EC	_	4	advmod	_	_
+4	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	7	ccomp	_	_
+5	어떻게	어떻+게	ADV	VA+EC	_	6	advmod	_	_
+6	느겼다고	느기+었+다고	VERB	NV+EP+EC	Typo=Yes	4	conj	_	_
+7	보여줄수있습니다	보이+어+주+ㄹ+수+있+습니다	VERB	VV+EC+VX+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_06_2_06
+# text = 그데 학교에서 현재역사를 선생님들 가르치지않습니다.
+1	그데	그데	ADV	NA	Typo=Yes	5	cc	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	현재역사를	현재+역사+를	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+4	선생님들	선생+님+들	NOUN	NNG+XSN+XSN	_	5	nsubj	_	_
+5	가르치지않습니다	가르치+지+않+습니다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_06_2_07
+# text = 그것은 큰 문제기 이라고 생각합니다.
+1	그것은	그것+은	PRON	NP+JX	_	3	nsubj	_	_
+2	큰	크+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	문제기	문제기	NOUN	NF	Typo=Yes	5	ccomp	_	_
+4	이라고	이+라고	ADJ	VCP+EC	_	3	flat	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_06_2_08
+# text = 왜냐하면 뉴스 를 보면 어떤 나라에 전쟁이 왜 있는지 모릅니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	10	cc	_	_
+2	뉴스	뉴스	NOUN	NNG	_	4	obj	_	_
+3	를	를	ADP	JKO	_	2	case	_	_
+4	보면	보+면	VERB	VV+EC	_	10	advcl	_	_
+5	어떤	어떤	DET	MM	_	6	det	_	_
+6	나라에	나라+에	ADV	NNG+JKB	_	9	obl	_	_
+7	전쟁이	전쟁+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	왜	왜	ADV	MAG	_	9	advmod	_	_
+9	있는지	있+는지	ADJ	VA+EC	_	10	ccomp	_	_
+10	모릅니다	모르+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_06_2_09
+# text = 어떤 나라 돈이 없는지 자유가 없는지, 이런 관계를 잘 이해가 안됩니다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	나라	나라	NOUN	NNG	_	3	nmod	_	_
+3	돈이	돈+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없는지	없+는지	ADJ	VA+EC	_	12	ccomp	_	_
+5	자유가	자유+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없는지	없+는지	ADJ	VA+EC	_	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	이런	이런	DET	MM	_	9	det	_	_
+9	관계를	관계+를	NOUN	NNG+JKO	_	12	obj	_	_
+10	잘	잘	ADV	MAG	_	12	advmod	_	_
+11	이해가	이해+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	안됩니다	안되+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_06_2_10
+# text = 학생들이 학교 역사 수업에서 20시대까지 역사를 배웁니다.
+1	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+2	학교	학교	NOUN	NNG	_	3	nmod	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	수업에서	수업+에서	ADV	NNG+JKB	_	7	obl	_	_
+5	20시대까지	20+시대+까지	NOUN	SN+NNB+JX	_	7	obl	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배웁니다	배우+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_06_2_11
+# text = 그래서 저의생각에는 역사 배우기 가 중요하지만 우리 는 아마 어떤 기간 을 공부안해도 되서 현대역사를 배우면 더 좋습니다.
+1	그래서	그래서	ADV	MAJ	_	18	cc	_	_
+2	저의생각에는	저+의+생각+에+는	ADV	NP+JKS+NNG+JKB+JX	_	6	obl	_	_
+3	역사	역사	NOUN	NNG	_	4	obj	_	_
+4	배우기	배우+기	VERB	VV+ETN	_	6	nsubj	_	_
+5	가	가	ADP	JKS	_	4	case	_	_
+6	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	13	advcl	_	_
+7	우리	우리	PRON	NP	_	13	nsubj	_	_
+8	는	는	ADP	JX	_	7	case	_	_
+9	아마	아마	ADV	MAG	_	13	advmod	_	_
+10	어떤	어떤	DET	MM	_	11	det	_	_
+11	기간	기간	NOUN	NNG	_	13	obj	_	_
+12	을	을	ADP	JKO	_	11	case	_	_
+13	공부안해도	공부+안+하+아도	VERB	NNG+MAG+VV+EC	_	16	advcl	_	_
+14	되서	되+서	VERB	VX+EC	_	13	advcl	_	_
+15	현대역사를	현대+역사+를	NOUN	NNG+NNG+JKO	_	16	obj	_	_
+16	배우면	배우+면	VERB	VV+EC	_	18	advcl	_	_
+17	더	더	ADV	MAG	_	18	advcl	_	_
+18	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

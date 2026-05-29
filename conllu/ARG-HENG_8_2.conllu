@@ -1,0 +1,140 @@
+# sent_id = ARG-HENG_08_2_01
+# text = 역사를 알아 야 현제와 미래를 더 잘 이해할수있게 됩니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알아	알+아	VERB	VV+EC	_	8	advcl	_	_
+3	야	_	X	_	_	2	goeswith	_	_
+4	현제와	현제+와	NOUN	NNG+JC	_	8	obj	_	_
+5	미래를	미래+를	NOUN	NNG+JKO	_	4	conj	_	_
+6	더	더	ADV	MAG	_	8	advmod	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	이해할수있게	이해+하+ㄹ+수+있+게	VERB	NNG+XSV+ETM+NNB+VX+EC	_	0	root	_	_
+9	됩니다	되+ㅂ니다	VERB	VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_08_2_02
+# text = 그래서 역사를 배워야 합니다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	합니다	하+ㅂ니다	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_08_2_03
+# text = 역사에는 많은 삶들이 담겨있고, 그 이야기들 속에는 나의 한, 짧은 삶에서 배울수있는것보다 훨씬 더 많은 지식이 숨어 있습니다.
+1	역사에는	역사+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	삶들이	삶+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	담겨있고	담기+어+있+고	VERB	VV+EC+VX+EC	_	19	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	이야기들	이야기+들	NOUN	NNG+XSN	_	19	obl	_	_
+8	속에는	속+에+는	ADP	NNB+JKB+JX	_	7	case	_	_
+9	나의	나+의	PRON	NP+JKG	_	13	nmod:poss	_	_
+10	한	한	NUM	MM	_	13	det	_	_
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	짧은	짧+은	ADJ	VA+ETM	_	13	amod	_	_
+13	삶에서	삶+에서	ADV	NNG+JKB	_	14	obl	_	_
+14	배울수있는것보다	배우+ㄹ+수+있+는+것+보다	VERB	VV+ETM+NNB+VX+ETM+NNB+JKB	_	17	obl	_	_
+15	훨씬	훨씬	ADV	MAG	_	17	advmod	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	많은	많+은	ADJ	VA+ETM	_	18	acl	_	_
+18	지식이	지식+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	숨어	숨+어	VERB	VV+EC	_	0	root	_	_
+20	있습니다	있+습니다	AUX	VX+EF	_	19	aux	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_08_2_04
+# text = 역사를 알면 다른 사람들의 실수 통해서 배울수있고, 더 좋은 것들을 개발할수있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알면	알+면	VERB	VV+EC	_	12	advcl	_	_
+3	다른	다른	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	실수	실수	NOUN	NNG	_	6	obj	_	_
+6	통해서	통하+아서	VERB	VV+EC	_	7	advcl	_	_
+7	배울수있고	배우+ㄹ+수+있+고	VERB	VV+ETM+NNB+VX+EC	_	12	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	12	amod	_	_
+11	것들을	것+들+을	NOUN	NNB+XSN+JKO	_	12	obj	_	_
+12	개발할수있습니다	개발+하+ㄹ+수+있+습니다	VERB	NNG+XSV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_08_2_05
+# text = 역사통해서 지혜럽고 영리한 사람들도 만날수 있습니다.
+1	역사통해서	역사+통하+아서	VERB	NNG+VV+EC	_	6	advcl	_	_
+2	지혜럽고	지혜+럽+고	VERB	NNG+NA+EC	_	4	amod	_	_
+3	영리한	영리+하+ㄴ	ADJ	XR+XSA+ETM	_	2	conj	_	_
+4	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	5	obj	_	_
+5	만날수	만나+ㄹ+수	VERB	VV+ETM+NNB	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_08_2_06
+# text = 그 사람들의 삶이야기를 알면, 우리의 마음과 생각들도 조금식 비슽하게 바뀌지 않을까요?
+1	그	그	DET	MM	_	2	det	_	_
+2	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	삶이야기를	삶+이야기+를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+4	알면	알+면	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	우리의	우리+의	PRON	NP+JKG	_	8	nmod:poss	_	_
+7	마음과	마음+과	NOUN	NNG+JC	_	11	nsubj	_	_
+8	생각들도	생각+들+도	NOUN	NNG+XSN+JX	_	7	conj	_	_
+9	조금식	조금+식	NOUN	NNG+NA	_	11	advmod	_	_
+10	비슽하게	비슽+하+게	ADV	NA+XSA+EC	_	11	advmod	_	_
+11	바뀌지	바뀌+지	VERB	VV+EC	_	0	root	_	_
+12	않을까	않+을까	AUX	VX+EC	_	11	aux	_	_
+13	요	요	VERB	JX	_	11	case	_	SpaceAfter=No
+14	?	?	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_2_07
+# text = 나라의 역사도 배워야 합니다.
+1	나라의	나라+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	역사도	역사+도	NOUN	NNG+JX	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	합니다	하+ㅂ니다	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_08_2_08
+# text = 그래야 지 나의 정치 의견을 생각하고 표현할수있고, 지금 현제에 돌아가는 일들을 깊게 이해하게 됩니다.
+1	그래야	그러하+여야	ADV	VA+EC	_	14	advcl	_	_
+2	지	_	X	_	_	1	goeswith	_	_
+3	나의	나+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+4	정치	정치	NOUN	NNG	_	5	nmod	_	_
+5	의견을	의견+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	표현할수있고	표현+하+ㄹ+수+있+고	VERB	NNG+XSV+ETM+NNB+VX+EC	_	14	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	지금	지금	ADV	MAG	_	11	advmod	_	_
+10	현제에	현제+에	ADV	NF+JKB	_	11	obl	_	_
+11	돌아가는	돌아가+는	VERB	VV+ETM	_	12	acl	_	_
+12	일들을	일+들+을	NOUN	NNG+XSN+JKO	_	14	obj	_	_
+13	깊게	깊+게	ADV	VA+EC	_	14	advmod	_	_
+14	이해하게	이해+하+게	VERB	NNG+XSV+EC	_	0	root	_	_
+15	됩니다	되+ㅂ니다	VERB	VX+EF	_	14	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_08_2_09
+# text = 역사를 잘아는 사람들이 있어야지 나라의 미래를 위해 좋은 결정들을 내릴수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	잘아는	잘+알+는	VERB	MAG+VV+ETM	_	3	acl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	있어야지	있+어야지	VERB	VV+EC	_	11	advcl	_	_
+5	나라의	나라+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	미래를	미래+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	결정들을	결정+들+을	NOUN	NNG+XSN+JKO	_	10	obj	_	_
+10	내릴수	내리+ㄹ+수	VERB	VV+ETM+NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_2_10
+# text = 국민들이 역사를 배우지 않으면 나라가 망할수 있습니다.
+1	국민들이	국민+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우지	배우+지	VERB	VV+EC	_	7	advcl	_	_
+4	않으면	않+으면	AUX	VX+EC	_	3	aux	_	_
+5	나라가	나라+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	망할수	망하+ㄹ+수	VERB	VV+ETM+NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

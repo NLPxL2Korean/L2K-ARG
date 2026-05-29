@@ -1,0 +1,60 @@
+# sent_id = ARG-CZH_18_3_01
+# text = 협동을 더 선호합니다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_18_3_02
+# text = 사람들이 협동하면 더 많은 것을 할 수 있습니다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	2	nsubj	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_18_3_03
+# text = 제 생각에는 사람들은 어렸을 때 협동이 중용하기 대해 알지만 다 생활에 경쟁해야 합니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+4	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	9	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	협동이	협동+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	중용하기	중용+하+기	NOUN	NF+XSA+ETN	Typo=Yes	8	obj	_	_
+8	대해	대하+아	VERB	VV+EC	_	9	advcl	_	_
+9	알지만	알+지만	VERB	VV+EC	_	12	advcl	_	_
+10	다	다	ADV	MAG	_	12	advmod	_	_
+11	생활에	생활+에	ADV	NNG+JKB	_	12	obl	_	_
+12	경쟁해야	경쟁+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+13	합니다	하	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_18_3_04
+# text = (학교에서, 나중에 일을 하면) 지금 바이러스 동안 협동이 생활들은 살려 줍니다.
+1	(학교에서	(+학교+에서	ADV	SS+NNG+JKB	_	5	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	나중에	나중+에	ADV	NNG+JKB	_	5	obl	_	_
+4	일을	일+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하면)	하+면+)	VERB	VV+EC+SS	_	11	advcl	_	_
+6	지금	지금	ADV	MAG	_	11	advmod	_	_
+7	바이러스	바이러스	NOUN	NNG	_	11	obl	_	_
+8	동안	동안	NOUN	NNG	_	7	case	_	_
+9	협동이	협동+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	생활들은	생활+들+은	NOUN	NNG+XSN+JX	_	11	obj	_	_
+11	살려	살리+어	VERB	VV+EC	_	0	root	_	_
+12	줍니다	주+ㅂ니다	VERB	VX+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_18_3_05
+# text = 도음이나 협동이 사람들을 행복하게 합니다.
+1	도음이나	도음+이나	NOUN	NF+JC	Typo=Yes	4	nsubj	_	_
+2	협동이	협동+이	NOUN	NNP+JKS	_	1	conj	_	_
+3	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	행복하게	행복+하+게	ADJ	NNG+XSA+EC	_	0	root	_	_
+5	합니다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

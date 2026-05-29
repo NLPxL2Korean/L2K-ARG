@@ -1,0 +1,100 @@
+# sent_id = ARG-CHN_36_1_01
+# text = 안녕하세요.
+1	안녕하세요	안녕+하+시+어요	ADJ	NNG+XSA+EP+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-CHN_36_1_02
+# text = 저는 이 주제: 자연 보존과 자연 개발 중 어느 것이 더 중요하다고 생각합니다’에 대한 저 의견은 자연 보존 더 중요합니다.
+1	저는	저+는	PRON	NP+JX	_	14	nsubj	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	주제	주제	NOUN	NNG	_	14	list	_	SpaceAfter=No
+4	:	:	PUNCT	SP	_	3	punct	_	_
+5	자연	자연	NOUN	NNG	_	6	nmod	_	_
+6	보존과	보존+과	NOUN	NNG+JC	_	13	obl	_	_
+7	자연	자연	NOUN	NNG	_	8	nmod	_	_
+8	개발	개발	NOUN	NNG	_	6	conj	_	_
+9	중	중	NOUN	NNB	_	8	case	_	_
+10	어느	어느	DET	MM	_	11	det	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	6	advmod	_	_
+13	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	14	ccomp	_	_
+14	생각합니다’에	생각+하+ㅂ니다+’+에	ADV	NNG+XSV+ETN+SS+JKB	_	15	obl	_	_
+15	대한	대하+ㄴ	VERB	VV+ETM	_	17	acl	_	_
+16	저	저	PRON	NP	_	17	nmod	_	_
+17	의견은	의견+은	NOUN	NNG+JX	_	21	dislocated	_	_
+18	자연	자연	NOUN	NNG	_	19	nmod	_	_
+19	보존	보존	NOUN	NNG	_	21	nsubj	_	_
+20	더	더	ADV	MAG	_	21	advmod	_	_
+21	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_36_1_03
+# text = 왜냐하면 인류 발전하기 위해 합리적인 자원 사용과 개발 자연 개발을 비해 더 중요합니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	13	cc	_	_
+2	인류	인류	NOUN	NNG	_	3	nsubj	_	_
+3	발전하기	발전+하+기	VERB	NNG+XSV+ETN	_	4	obj	_	_
+4	위해	위하+아	VERB	VV+EC	_	13	advcl	_	_
+5	합리적인	합리+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+6	자원	자원	NOUN	NNG	_	7	nmod	_	_
+7	사용과	사용+과	NOUN	NNG+JC	_	13	nsubj	_	_
+8	개발	개발	NOUN	NNG	_	7	conj	_	_
+9	자연	자연	NOUN	NNG	_	10	nmod	_	_
+10	개발을	개발+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	비해	비하+아	VERB	VV+EC	_	13	advcl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_36_1_04
+# text = 지금 우리 생활한 지구자연 환경은 점점 악화하고 있습니다.
+1	지금	지금	ADV	MAG	_	7	advmod	_	_
+2	우리	우리	PRON	NP	_	3	nsubj	_	_
+3	생활한	생활+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	지구자연	지구+자연	NOUN	NNG+NNG	_	5	nmod	_	_
+5	환경은	환경+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	점점	점점	ADV	MAG	_	7	advmod	_	_
+7	악화하고	악화+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+8	있습니다	있	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_36_1_05
+# text = 자연 보존 더 중요하다고 생각하는 이유는 3까지 정리했습니다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존	보존	NOUN	NNG	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	이유는	이유+는	NOUN	NNG+JX	_	8	nsubj	_	_
+7	3까지	3+까지	ADV	SN+JX	_	8	obl	_	_
+8	정리했습니다	정리+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_36_1_06
+# text = 1.
+1	1	1	NUM	SN	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-CHN_36_1_07
+# text = 인류 미래 발전 2.
+1	인류	인류	NOUN	NNG	_	2	nmod	_	_
+2	미래	미래	NOUN	NNG	_	3	nmod	_	_
+3	발전	발전	NOUN	NNG	_	0	root	_	_
+4	2	2	ADV	SN	_	3	advmod	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_36_1_08
+# text = 자연 자원 개발과 보호 3).인류와 동물들 생존환경 위에 저 생각한 이유과 생각입니다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	자원	자원	NOUN	NNG	_	3	nmod	_	_
+3	개발과	개발+과	ADV	NNG+JC	_	12	advmod	_	_
+4	보호	보호	NOUN	NNG	_	3	conj	_	_
+5	3)	3+)	ADV	SN+SS	_	12	advmod	_	SpaceAfter=No
+6	.인류와	.+인류+와	NOUN	SF+NNG+JC	_	8	nmod	_	_
+7	동물들	동물+들	NOUN	NNG+XSN	_	6	conj	_	_
+8	생존환경	생존+환경	NOUN	NNG+NNG	_	12	nmod	_	_
+9	위에	위+에	ADV	NNG+JKB	_	11	obl	_	_
+10	저	저	PRON	NP	_	11	nsubj	_	_
+11	생각한	생각+하+ㄴ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	이유과	이유+과	NOUN	NNG+JC	_	0	root	_	_
+13	생각입니다	생각+이+ㅂ니다	ADJ	NNG+VCP+EF	_	12	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_

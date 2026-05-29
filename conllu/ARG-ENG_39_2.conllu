@@ -1,0 +1,117 @@
+# sent_id = ARG-ENG_39_2_01
+# text = 약사는 우리에게 다른 인간과 연결된 과정을 가르칩니다.
+1	약사는	약사+는	NOUN	NF+JX	_	7	nsubj	_	_
+2	우리에게	우리+에게	ADV	NP+JKB	_	7	obl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	인간과	인간+과	ADV	NNG+JKB	_	5	obl	_	_
+5	연결된	연결+되+ㄴ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	과정을	과정+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	가르칩니다	가르치+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_39_2_02
+# text = 역사를 잘 모르는 사람들이 너무 간단화된 개인주의에 믿게 될 수도 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	모르는	모르+는	VERB	VV+ETM	_	4	acl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	간단화된	간단+화+되+ㄴ	VERB	NNG+XSN+XSV+ETM	_	9	acl	_	_
+7	개인주의에	개인+주의+에	ADV	NNG+NNG+JKB	_	8	obl	_	_
+8	믿게	믿+게	ADV	VV+EC	_	10	acl	_	_
+9	될	되+ㄹ	VERB	VX+ETM	_	8	advcl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_39_2_03
+# text = 그래서 역사를 조심히 가르친다는 것은 사회의 장간적인 건강에 아주 중요한다고 생각합니다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	조심히	조심히	ADV	MAG	_	4	advmod	_	_
+4	가르친다는	가르치+ㄴ다는	VERB	VV+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+6	사회의	사회+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+7	장간적인	장간+적+이+ㄴ	ADJ	NF+XSN+VCP+ETM	_	8	amod	_	_
+8	건강에	건강+에	ADV	NNG+JKB	_	10	obl	_	_
+9	아주	아주	ADV	MAG	_	10	advmod	_	_
+10	중요한다고	중요+하+ㄴ다고	VERB	NNG+XSA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_39_2_04
+# text = 지난 행사, 싸움, 성공, 믿음, 범죄, 실수, 희망 등등에 대해 배울수록 현대 사람들이 우리의 공유한 의무와 부담을 알아잡을 수 있습나다.
+1	지난	지나+ㄴ	VERB	VV+ETM	_	2	acl	_	_
+2	행사	행사	NOUN	NNG	_	14	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	싸움	싸우+어+어+ㄹ	NOUN	NNG	_	14	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	성공	성공	NOUN	NNG	_	14	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	믿음	믿음	NOUN	NNG	_	14	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	범죄	범죄	NOUN	NNG	_	14	list	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	실수	실수	NOUN	NNG	_	14	list	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	희망	희망	NOUN	NNG	_	16	obl	_	_
+15	등등에	등등+에	ADV	NNB+JKB	_	14	case	_	_
+16	대해	대하+아	VERB	VV+EC	_	17	advcl	_	_
+17	배울수록	배우+ㄹ수록	VERB	VV+EC	_	26	advcl	_	_
+18	현대	현대	NOUN	NNG	_	19	nmod	_	_
+19	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	24	nsubj	_	_
+20	우리의	우리+의	PRON	NP+JKG	_	22	nmod:poss	_	_
+21	공유한	공유+하+ㄴ	ADJ	NNG+XSA+ETM	_	22	amod	_	_
+22	의무와	의무+와	NOUN	NNG+JC	_	24	obj	_	_
+23	부담을	부담+을	NOUN	NNG+JKO	_	22	conj	_	_
+24	알아잡을	알+아+잡+을	VERB	VV+EC+VV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있습나다	있+습나다	VERB	VX+NA	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-ENG_39_2_05
+# text = 자기의 인생의 원인과 효과를 이해 잘 하는 사람들이 어느 능력을 얻었으면 그럴 요소를 모르는 사람들이 어느 의미한 능력의 부불이 없습니다.
+1	자기의	자기+의	PRON	NNG+JKG	_	2	nmod:poss	_	_
+2	인생의	인생+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	원인과	원인+과	NOUN	NNG+JC	_	7	obj	_	_
+4	효과를	효과+를	NOUN	NNG+JKO	_	3	conj	_	_
+5	이해	이해	NOUN	NNG	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+9	어느	어느	DET	MM	_	10	det	_	_
+10	능력을	능력+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	얻었으면	얻+었+으면	VERB	VV+EP+EC	_	20	advcl	_	_
+12	그럴	그렇+ㄹ	ADJ	VA+ETM	_	13	amod	_	_
+13	요소를	요소+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	모르는	모르+는	VERB	VV+ETM	_	15	acl	_	_
+15	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	20	dislocated	_	_
+16	어느	어느	DET	MM	_	19	det	_	_
+17	의미한	의미+하+ㄴ	ADJ	NNG+XSV+ETM	_	18	acl	_	_
+18	능력의	능력+의	NOUN	NNG+JKG	_	19	nmod:poss	_	_
+19	부불이	부불+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_39_2_06
+# text = 이런 이유 때문에 독재자와 무정의한 국가는 역사를 숨겨려고 합니다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	이유	이유	NOUN	NNG	_	8	obl	_	_
+3	때문에	때문+에	ADP	NNB+JKB	_	2	case	_	_
+4	독재자와	독재자+와	NOUN	NNG+JC	_	8	nsubj	_	_
+5	무정의한	무+정의+하+ㄴ	ADJ	XPN+NNG+XSA+ETM	_	6	amod	_	_
+6	국가는	국가+는	NOUN	NNG+JX	_	4	conj	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	숨겨려고	숨기+어+려고	VERB	VV+EC+EC	_	0	root	_	_
+9	합니다	하+ㅂ니다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_39_2_07
+# text = 보통의 사람의 역사관은 민주주의의 미래에 좋습니다.
+1	보통의	보통+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	사람의	사람+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	역사관은	역사관+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	민주주의의	민주+주의+의	NOUN	NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	미래에	미래+에	ADV	NNG+JKB	_	6	obl	_	_
+6	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

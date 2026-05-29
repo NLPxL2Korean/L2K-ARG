@@ -1,0 +1,71 @@
+# sent_id = ARG-CZH_29_1_01
+# text = 저의 의견은 아이들이 유치원에 다니면 나쁘지 않지만 좋지도 않다.
+1	저의	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	의견은	의견+은	NOUN	NNG+JX	_	8	obl	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	유치원에	유치원+에	ADV	NNG+JKB	_	5	obl	_	_
+5	다니면	다니+면	VERB	VV+EC	_	6	advcl	_	_
+6	나쁘지	나쁘+지	ADJ	VA+EC	_	8	advcl	_	_
+7	않지만	않	AUX	VX+EC	_	6	aux	_	_
+8	좋지도	좋+지+도	ADJ	VA+EC+JX	_	0	root	_	_
+9	않다	않	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_29_1_02
+# text = 왜냐하면 나중에 학교에서 공부해야 하니까 유치원에서도 공부하면 어린 시절이 잊기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	나중에	나중+에	ADV	NNG+JKB	_	4	obl	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	7	advcl	_	_
+5	하니까	하	AUX	VX+EC	_	4	aux	_	_
+6	유치원에서도	유치원+에서+도	ADV	NNG+JKB+JX	_	7	obl	_	_
+7	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	어린	어리+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	시절이	시절+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	잊기	잊+기	VERB	VV+ETN	_	11	nmod	_	_
+11	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_29_1_03
+# text = 그래서 학교 시작까지 아이들이 아무것도 공부 안 했으면 좋겠다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	학교	학교	NOUN	NNG	_	3	nmod	_	_
+3	시작까지	시작+까지	NOUN	NNG+JX	_	8	obl	_	_
+4	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+5	아무것도	아무+것+도	NOUN	MM+NNB+JX	_	8	obl	_	_
+6	공부	공부	NOUN	NNG	_	8	obj	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	했으면	하+았+으면	VERB	VV+EP+EC	_	9	advcl	_	_
+9	좋겠다	좋+겠+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_29_1_04
+# text = 그렇지만 혹시 가족 멤버들 중에 외국인이 있고 탄생부터 그 가족 멤버 외 같이 시간은 보내고 자연스럽게 배우면 반대하지 않다.
+1	그렇지만	그렇+지만	ADV	MAJ	_	18	cc	_	_
+2	혹시	혹시	ADV	MAG	_	17	advmod	_	_
+3	가족	가족	NOUN	NNG	_	4	nmod	_	_
+4	멤버들	멤버+들	NOUN	NNG+XSN	_	7	obl	_	_
+5	중에	중+에	ADV	NNB+JKB	_	4	case	_	_
+6	외국인이	외국인+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있고	있+고	ADJ	VA+EC	_	15	advcl	_	_
+8	탄생부터	탄생+부터	NOUN	NNG+JX	_	15	obl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	가족	가족	NOUN	NNG	_	11	nmod	_	_
+11	멤버	멤버	NOUN	NNG	_	15	obl	_	_
+12	외	외	ADP	NA	Typo=Yes	11	mark	_	_
+13	같이	같이	ADV	MAG	_	15	advmod	_	_
+14	시간은	시간+은	NOUN	NNG+JX	_	15	obj	_	_
+15	보내고	보내+고	VERB	VV+EC	_	17	advcl	_	_
+16	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	17	advmod	_	_
+17	배우면	배우+면	VERB	VV+EC	_	18	advcl	_	_
+18	반대하지	반대+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+19	않다	않	AUX	VX+EF	_	18	aux	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_29_1_05
+# text = 이렇은 방법은 아주 좋다.
+1	이렇은	이렇+은	ADJ	VA+ETM	_	2	amod	_	_
+2	방법은	방법+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

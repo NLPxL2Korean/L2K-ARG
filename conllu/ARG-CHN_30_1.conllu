@@ -1,0 +1,151 @@
+# sent_id = ARG-CHN_30_1_01
+# text = 자연 보존과 자연 개발을 생각하면 자연 보존은 더 중요한다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존과	보존+과	NOUN	NNG+JC	_	5	obj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발을	개발+을	NOUN	NNG+JKO	_	2	conj	_	_
+5	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	자연	자연	NOUN	NNG	_	7	nmod	_	_
+7	보존은	보존+은	NOUN	NNG+JX	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_30_1_02
+# text = 전공 때문에 지속가능한 소비에대해 관심을 가지고 요짐 세대에 마케팅 적으로 빠르게 확장하게 볼 수 있고 자원낭비와 자연파괴등 현상은 많이 나타난다.
+1	전공	전공	NOUN	NNG	_	6	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	지속가능한	지속+가능+하+ㄴ	VERB	NNG+NNG+XSA+ETM	_	4	acl	_	_
+4	소비에대해	소비+에+대하+아	VERB	NNG+JKB+VV+EC	_	6	obl	_	_
+5	관심을	관심+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	가지고	가지+고	VERB	VV+EC	_	15	advcl	_	_
+7	요짐	요짐	NOUN	NF	Typo=Yes	8	nmod	_	_
+8	세대에	세대+에	ADV	NNG+JKB	_	13	obl	_	_
+9	마케팅	마케팅+적+으로	ADV	NNG+XSN+JKB	Typo=Yes	13	obl	_	_
+10	적으로	_	X	_	_	9	goeswith	_	_
+11	빠르게	빠르+게	ADV	VA+EC	_	12	advmod	_	_
+12	확장하게	확장+하+게	ADV	NNG+XSV+EC	_	13	advmod	_	_
+13	볼	보+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있고	있+고	VERB	VX+EC	_	0	root	_	_
+16	자원낭비와	자원+낭비+와	NOUN	NNG+NNG+JC	_	18	nmod	_	_
+17	자연파괴등	자연+파괴+등	NOUN	NNG+NNG+NNB	_	16	conj	_	_
+18	현상은	현상+은	NOUN	NNG+JX	_	20	nsubj	_	_
+19	많이	많이	ADV	MAG	_	20	advmod	_	_
+20	나타난다	나타나+ㄴ다	VERB	VV+EF	_	15	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_30_1_03
+# text = 몇 년 전에 생활 환경을 보기도 지금 보다 하늘도 맑고 공기는 좋다.
+1	몇	몇	DET	MM	_	2	det	_	_
+2	년	년	NOUN	NNB	_	6	obl	_	_
+3	전에	전+에	ADV	NNG+JKB	_	2	case	_	_
+4	생활	생활	NOUN	NNG	_	5	nmod	_	_
+5	환경을	환경+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	보기도	보+기+도	VERB	VV+ETN+JX	_	10	advcl	_	_
+7	지금	지금	NOUN	NNG	_	10	obl	_	_
+8	보다	보다	ADP	JKB	_	7	case	_	_
+9	하늘도	하늘+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	맑고	맑+고	ADJ	VA+EC	_	0	root	_	_
+11	공기는	공기+는	NOUN	NNG+JX	_	12	nsubj	_	_
+12	좋다	좋+다	ADJ	VA+EF	_	10	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_30_1_04
+# text = 보통 생활지 뿔만 아니라 남극 부극 등 것이 아이스를 점점 툴리는 형상을 보면 다른 동물의 생활도 고려해야 한 생각을 들었다.
+1	보통	보통	ADV	MAG	_	2	nmod	_	_
+2	생활지	생활지	NOUN	NNG	_	4	nsubj	_	_
+3	뿔만	뿔+만	NOUN	NF+JX	Typo=Yes	2	case	_	_
+4	아니라	아니+라	ADJ	VCN+EC	_	20	advcl	_	_
+5	남극	남극	NOUN	NNG	_	8	nmod	_	_
+6	부극	부극	NOUN	NF	Typo=Yes	5	flat	_	_
+7	등	등	NOUN	NNB	_	6	case	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+9	아이스를	아이스+를	NOUN	NNG+JKO	_	11	obj	_	_
+10	점점	점점	ADV	MAG	_	11	advmod	_	_
+11	툴리는	툴리+는	VERB	NV+ETM	Typo=Yes	12	acl	_	_
+12	형상을	형상+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	보면	보+면	VERB	VV+EC	_	20	advcl	_	_
+14	다른	다르+ㄴ	ADJ	VA+ETM	_	15	amod	_	_
+15	동물의	동물+의	NOUN	NNG+JKG	_	16	nmod:poss	_	_
+16	생활도	생활+도	NOUN	NNG+JX	_	17	obj	_	_
+17	고려해야	고려+하+아야	VERB	NNG+XSV+EC	_	19	acl	_	_
+18	한	하	AUX	VX+ETM	_	17	aux	_	_
+19	생각을	생각+을	NOUN	NNG+JKO	_	20	obj	_	_
+20	들었다	들+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_30_1_05
+# text = 중국에서 태어난 문화적으로 자연이랑 동물 식물 등 공존하는 생각을 공부를 시작할 때 가지고 있으니까 다른 사람이나 모든 것이 부담 주지 않고 같이 점점 발전하는 것이 원한다.
+1	중국에서	중국+에서	ADV	NNP+JKB	_	2	obl	_	_
+2	태어난	태어나+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+3	문화적으로	문화+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+4	자연이랑	자연+이랑	NOUN	NNG+JC	_	8	obl	_	_
+5	동물	동물	NOUN	NNG	_	4	conj	_	_
+6	식물	식물	NOUN	NNG	_	5	flat	_	_
+7	등	등	NOUN	NNB	_	6	case	_	_
+8	공존하는	공존+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	생각을	생각+을	NOUN	NNG+JKO	_	13	obj	_	_
+10	공부를	공부+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	13	advcl	_	_
+12	때	때	ADV	NNB	_	11	mark	_	_
+13	가지고	가지+고	VERB	VV+EC	_	20	advcl	_	_
+14	있으니까	있	AUX	VX+EC	_	13	aux	_	_
+15	다른	다르+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	사람이나	사람+이나	NOUN	NNG+JC	_	20	nsubj	_	_
+17	모든	모든	DET	MM	_	18	det	_	_
+18	것이	것+이	NOUN	NNB+JKS	_	16	conj	_	_
+19	부담	부담	NOUN	NNG	_	20	obj	_	_
+20	주지	주+지	VERB	VV+EC	_	24	advcl	_	_
+21	않고	않	AUX	VX+EC	_	20	aux	_	_
+22	같이	같이	ADV	MAG	_	24	advmod	_	_
+23	점점	점점	ADV	MAG	_	24	advmod	_	_
+24	발전하는	발전+하+는	VERB	NNG+XSV+ETM	_	25	acl	_	_
+25	것이	것+이	NOUN	NNB+JKS	_	26	nsubj	_	_
+26	원한다	원하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-CHN_30_1_06
+# text = 그리고 지구 자원 오랫유지 하고 싶으면 자원을 존중해 한도를 지켜서 발전할 방법은 없지 않게 생각한다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	지구	지구	NOUN	NNG	_	3	nmod	_	_
+3	자원	자원	NOUN	NNG	_	5	obj	_	_
+4	오랫유지	오랫+유지	NOUN	NA+NNG	Typo=Yes	5	obj	_	_
+5	하고	하+고	VERB	VV+EC	_	8	advcl	_	_
+6	싶으면	싶	AUX	VX+EC	_	5	aux	_	_
+7	자원을	자원+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	존중해	존중+하+아	VERB	NNG+XSV+EC	_	10	advcl	_	_
+9	한도를	한도+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	지켜서	지키+어서	VERB	VV+EC	_	11	advcl	_	_
+11	발전할	발전+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	방법은	방법+은	NOUN	NNG+JX	_	13	nsubj	_	_
+13	없지	없+지	ADJ	VA+EC	_	15	ccomp	_	_
+14	않게	않	AUX	VX+EC	_	13	aux	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_30_1_07
+# text = 현대사회는 사람들이 개발의식은 강하게 보여서 보존적으로 더 주목을 필요할 생각을 있다.
+1	현대사회는	현대+사회+는	NOUN	NNG+NNG+JX	_	5	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	dislocated	_	_
+3	개발의식은	개발+의식+은	NOUN	NNG+NNG+JX	_	5	nsubj	_	_
+4	강하게	강하+게	ADV	VA+EC	_	5	advmod	_	_
+5	보여서	보이+어서	VERB	VV+EC	_	11	advcl	_	_
+6	보존적으로	보존+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+7	더	더	ADV	MAG	_	9	advmod	_	_
+8	주목을	주목+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	필요할	필요+하+ㄹ	ADJ	NNG+XSA+ETM	_	10	acl	_	_
+10	생각을	생각+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_30_1_08
+# text = 그래서 자연개발보다 자연보존은 더 중요하게 생각한다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	자연개발보다	자연+개발+보다	ADV	NNG+NNG+JKB	_	6	obl	_	_
+3	자연보존은	자연+보존+은	NOUN	NNG+NNG+JX	_	6	obj	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	중요하게	중요+하+게	ADV	XR+XSA+EC	_	6	advmod	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

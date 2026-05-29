@@ -1,0 +1,137 @@
+# sent_id = ARG-ENG_22_3_01
+# text = 개인적으로 협동을 선호한다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	3	obl	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_22_3_02
+# text = 대부분에 상화에서 이우르고 싶은 목표는 제로섬 게임이 이니기 때문이다.
+1	대부분에	대부분+에	ADV	NNG+JKB	_	8	obl	_	_
+2	상화에서	상화+에서	ADV	NF+JKB	_	3	obl	_	_
+3	이우르고	이우르+고	VERB	VV+EC	_	5	acl	_	_
+4	싶은	싶	AUX	VX+ETM	_	3	aux	_	_
+5	목표는	목표+는	NOUN	NNG+JX	_	9	nsubj	_	_
+6	제로섬	제로섬	ADV	NNG+JKB	_	8	obl	_	_
+7	게임이	게임+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	이니기	이니기	NOUN	VV+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_22_3_03
+# text = 다른 사람을 도와주는 과정에 나는 그 상황과 그 사람을 더 깊게 알게 된다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람을	사람+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	도와주는	도와주+는	VERB	VV+ETM	_	4	acl	_	_
+4	과정에	과정+에	ADV	NNG+JKB	_	12	obl	_	_
+5	나는	나+는	VERB	NP+JX	_	12	nsubj	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	상황과	상황+과	NOUN	NNG+JC	_	12	obj	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	사람을	사람+을	NOUN	NNG+JKO	_	12	conj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	깊게	깊+게	ADV	VA+EC	_	12	advmod	_	_
+12	알게	알+게	VERB	VV+EC	_	0	root	_	_
+13	된다	되+ㄴ다	VERB	VX+EF	_	12	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_22_3_04
+# text = 협동도 익이적인 혜택이 있다.
+1	협동도	협동+도	NOUN	NNP+JX	_	4	dislocated	_	_
+2	익이적인	익이+적+이+ㄴ	ADJ	NF+XSN+VCP+ETM	_	3	amod	_	_
+3	혜택이	혜택+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_22_3_05
+# text = 내가 사람을 도와주면 그 사람이 나주에 나를 도와줄수 있고 전환적 이유 때문에 기분이 좋아진다.
+1	내가	내+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	사람을	사람+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	도와주면	도와주+면	VERB	VV+EC	_	9	advcl	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	나주에	나주+에	ADV	NF+JKB	_	8	obl	_	_
+7	나를	나+를	PRON	NP+JKO	_	8	obj	_	_
+8	도와줄수	도와주+ㄹ+수	NOUN	VV+ETM+NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	0	root	_	_
+10	전환적	전환+적	ADJ	NF+XSN	_	11	amod	_	_
+11	이유	이유	NOUN	NNG	_	14	obl	_	_
+12	때문에	때문+에	ADP	NNB+JKB	_	11	case	_	_
+13	기분이	기분+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	좋아진다	좋+아지+ㄴ다	VERB	VA+XSV+EF	_	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_22_3_06
+# text = 뿐만 아니라, 다른 사람들이 내가 몰랐던 지직을 알려줄수 있고 협동을 통해 한사람 혼자 못 하는 일을 할수 있다.
+1	뿐만	뿐+만	NOUN	JX+JX	_	2	nsubj	_	_
+2	아니라	아니+라	VERB	VCN+EC	_	19	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+6	내가	내+가	PRON	NP+JKS	_	7	nsubj	_	_
+7	몰랐던	모르+았+던	VERB	VV+EP+ETM	_	8	acl	_	_
+8	지직을	지직+을	NOUN	NF+JKO	_	9	obj	_	_
+9	알려줄수	알리+어+주+ㄹ+수	NOUN	VV+ETM+VX+ETM+NNB	_	10	nsubj	_	_
+10	있고	있+고	AUX	VX+EC	_	19	advcl	_	_
+11	협동을	협동+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	통해	통하+아	VERB	VV+EC	_	18	advcl	_	_
+13	한사람	한+사람	NOUN	MM+NNG	_	16	nsubj	_	_
+14	혼자	혼자	ADV	NNG	_	16	advmod	_	_
+15	못	못	ADV	MAG	_	16	advmod	_	_
+16	하는	하+는	VERB	VV+ETM	_	17	acl	_	_
+17	일을	일+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_22_3_07
+# text = 인간들은 다른 동물들보다 약하고 작지만 협동을 통해서 현대 사회가 지어졌다.
+1	인간들은	인간+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+2	다른	다른	ADJ	VA+ETM	_	3	amod	_	_
+3	동물들보다	동물+들+보다	ADV	NNG+XSN+JKB	_	4	obl	_	_
+4	약하고	약+하고	VERB	VA+EC	_	10	advcl	_	_
+5	작지만	작+지만	VERB	VA+EC	_	5	conj	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	통해서	통하+아서	VERB	VV+EC	_	10	advcl	_	_
+8	현대	현대	NOUN	NNG	_	9	nmod	_	_
+9	사회가	사회+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	지어졌다	지어지+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_22_3_08
+# text = 현대 사회에서 가장 이상적인 예시는 컴퓨터다.
+1	현대	현대	NOUN	NNG	_	2	nmod	_	_
+2	사회에서	사회+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	가장	가장	ADV	MAG	_	4	advmod	_	_
+4	이상적인	이상+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	acl	_	_
+5	예시는	예시+는	NOUN	NNG+JX	_	6	nsubj	_	_
+6	컴퓨터다	컴퓨터+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_22_3_09
+# text = 많은 개발자들과 기업들이 소스코드를 자유롭게 공유한다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	개발자들과	개발자+들+과	NOUN	NNG+XSN+JC	_	6	nsubj	_	_
+3	기업들이	기업+들+이	NOUN	NNG+XSN+JKS	_	2	conj	_	_
+4	소스코드를	소스+코드+를	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+5	자유롭게	자유+롭+게	ADV	NNG+XSA+EC	_	6	advmod	_	_
+6	공유한다	공유+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_22_3_10
+# text = 이런 자유로운 협동 통해 외국에 있는 사람이 한국에 있는 사람 과 연락 할수 있다.
+1	이런	이런	DET	MM	_	3	det	_	_
+2	자유로운	자유롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	협동	협동	NOUN	NNG	_	4	obj	_	_
+4	통해	통하+아	VERB	VV+EC	_	13	advcl	_	_
+5	외국에	외국+에	ADV	NNG+JKB	_	6	obl	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+8	한국에	한국+에	ADV	NNP+JKB	_	9	obl	_	_
+9	있는	있+는	VERB	VV+ETM	_	10	acl	_	_
+10	사람	사람	NOUN	NNG	_	13	obl	_	_
+11	과	과	ADP	JKB	_	10	case	_	_
+12	연락	연락	NOUN	NNG	_	13	obj	_	_
+13	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

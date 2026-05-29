@@ -1,0 +1,350 @@
+# sent_id = ARG-ENG_05_3_04_1
+# text = 하지만 회사에서 동료와 경쟁만 있으면 모든 문제가 힘들고 일을 하는 것이 재밌없을 것이다.
+1	하지만	하지만	ADV	MAJ	_	13	cc	_	_
+2	회사에서	회사+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	동료와	동료+와	NOUN	NNG+JC	_	5	nsubj	_	_
+4	경쟁만	경쟁+만	NOUN	NNG+JX	_	3	conj	_	_
+5	있으면	있+으면	VERB	VV+EC	_	13	advcl	_	_
+6	모든	모든	DET	MM	_	7	det	_	_
+7	문제가	문제+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	힘들고	힘들+고	ADJ	VA+EC	_	13	acl	_	_
+9	일을	일+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	하는	하+는	VERB	VV+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	재밌없을	재미+있+없+을	VERB	NNG+VA+VA+ETM	_	8	conj	_	_
+13	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_05_3_01
+# text = 나는 협동과 경쟁 중에서 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	7	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_05_3_06_1
+# text = 반면에 실수를 하면 동료들이 도와줄 수 있어서 스트레스가 없어진다.
+1	반면에	반면+에	ADV	NNG+JKB	_	9	obl	_	_
+2	실수를	실수+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+4	동료들이	동료+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	도와줄	도와주+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어서	있+어서	VERB	VX+EC	_	9	advcl	_	_
+8	스트레스가	스트레스+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_05_3_08_1
+# text = 다른 사람과 일하거나 도와주면 다른 사람을 이해할 수 있다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	3	obl	_	_
+3	일하거나	일+하+거나	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	도와주면	도와주+면	VERB	VV+EC	_	9	advcl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람을	사람+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_05_3_03_1
+# text = 예를 들어서 회사에서 동료들이 같이 협동을 하면 모든 문제가 크지 않고 성공이 더 쉽게 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	15	advcl	_	_
+3	회사에서	회사+에서	ADV	NNG+JKB	_	7	obl	_	_
+4	동료들이	동료+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	같이	같이	ADV	MAG	_	7	advmod	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+8	모든	모든	DET	MM	_	9	det	_	_
+9	문제가	문제+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	크지	크+지	ADJ	VA+EC	_	15	advcl	_	_
+11	않고	않	AUX	VX+EC	_	10	aux	_	_
+12	성공이	성공+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	쉽게	쉽+게	ADV	VA+EC	_	15	advmod	_	_
+15	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_05_3_07_1
+# text = 우리 다른 실력 있어서 같이 잘 할 수 있다.
+1	우리	우리	PRON	NP	_	4	dislocated	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	실력	실력	NOUN	NNG	_	4	nsubj	_	_
+4	있어서	있+어서	VERB	VV+EC	_	9	advcl	_	_
+5	같이	같이	ADV	MAG	_	7	advmod	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_05_3_09_1
+# text = 하지만 경쟁이 있으면 다른 사람과 쉽게 싸울 수 있거나 다툴 수 있다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	9	advcl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	사람과	사람+과	ADV	NNG+JKB	_	7	obl	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	싸울	싸우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있거나	있+거나	VERB	VX+EC	_	0	root	_	_
+10	다툴	다+툴	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_05_3_10_1
+# text = 우리 삶은 행복이 중요하는데 경쟁이 있으면 행복한 경우가 없어진다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	삶은	삶+은	NOUN	NNG+JX	_	4	dislocated	_	_
+3	행복이	행복+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	중요하는데	중요+하+는데	ADJ	NNG+XSA+EC	_	9	advcl	_	_
+5	경쟁이	경쟁+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있으면	있+으면	VERB	VV+EC	_	9	advcl	_	_
+7	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	경우가	경우+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_05_3_05_1
+# text = 다른 동료와 경쟁이 있으면 집중해야 돼서 쉴 시간이 없어진다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	동료와	동료+와	ADV	NNG+JKB	_	4	obl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	5	advcl	_	_
+5	집중해야	집중+하+아야	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	돼서	되+어서	VERB	VX+EC	_	5	advcl	_	_
+7	쉴	쉬+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	시간이	시간+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_05_3_02_1
+# text = 협동하면 친구를 사귈 수 있고 좋은 기억이 남을 수 있는 반면에 경쟁이 있으면 스트레스를 받을 수 있고 친구가 사귀가 어렵다.
+1	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+2	친구를	친구+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	사귈	사귀+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있고	있+고	VERB	VX+EC	_	11	acl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	기억이	기억+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	남을	남+을	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	5	conj	_	_
+11	반면에	반면+에	ADV	NNG+JKB	_	20	obl	_	_
+12	경쟁이	경쟁+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	있으면	있+으면	VERB	VV+EC	_	20	advcl	_	_
+14	스트레스를	스트레스+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	받을	받+을	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있고	있+고	VERB	VX+EC	_	0	root	_	_
+18	친구가	친구+가	NOUN	NNG+JKS	_	19	obj	_	_
+19	사귀가	사귀+가	VERB	VV+JKS	_	20	nsubj	_	_
+20	어렵다	어렵+다	ADJ	VA+EF	_	17	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_05_3_02
+# text = 제 생각에는 협동 제일 좋은 것이다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	협동	협동	NOUN	NNG	_	6	nsubj	_	_
+4	제일	제일	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_05_3_03
+# text = 왜냐면 다른 의겐 있으면 더 좋은 결과 나올 것 같기 때문이에요.
+1	왜냐면	왜냐면	ADV	MAJ	_	11	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	의겐	의겐	NOUN	NF	Typo=Yes	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	결과	결과	NOUN	NNG	_	8	nsubj	_	_
+8	나올	나오+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같기	같+기	ADJ	VA+ETN	_	11	nmod	_	_
+11	때문이에요	때문+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_05_3_04
+# text = 사람 한 명은 부족하지 않아도 다른 사람도 좋은 실력 있을 수도 있어서 협동은 선호한다.
+1	사람	사람	NOUN	NNG	_	4	nsubj	_	_
+2	한	한	DET	MM	_	1	appos	_	_
+3	명은	명+은	NOUN	NNB+JX	_	2	case	_	_
+4	부족하지	부족+하+지	ADJ	NNG+XSA+EC	_	12	advcl	_	_
+5	않아도	않	AUX	VX+EC	_	4	aux	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	사람도	사람+도	NOUN	NNG+JX	_	10	dislocated	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	acl	_	_
+9	실력	실력	NOUN	NNG	_	10	nsubj	_	_
+10	있을	있+을	VERB	VV+ETM	_	11	acl	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있어서	있+어서	VERB	VX+EC	_	14	advcl	_	_
+13	협동은	협동+은	NOUN	NNG+JX	_	14	obj	_	_
+14	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_05_3_05
+# text = 예를 들어서 내가 말하기 잘 하는 사람이고, 친구가 너무 빨리 읽을 수 있는 사람이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	7	advcl	_	_
+3	내가	내+가	PRON	NP+JKS	_	7	nsubj	_	_
+4	말하기	말+하+기	VERB	NNG+XSV+ETN	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람이고	사람+이+고	ADJ	NNG+VCP+EC	_	0	root	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	친구가	친구+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+10	너무	너무	ADV	MAG	_	11	advmod	_	_
+11	빨리	빨리	ADV	MAG	_	12	advmod	_	_
+12	읽을	읽+을	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	사람이다	사람+이+다	ADJ	NNG+VCP+EF	_	7	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_05_3_06
+# text = 우리 과제 해야 되면 같이 하면 결과 더 좋을 것이다.
+1	우리	우리	PRON	NP	_	3	nsubj	_	_
+2	과제	과제	NOUN	NNG	_	3	obj	_	_
+3	해야	하+아야	VERB	VV+EC	_	6	advcl	_	_
+4	되면	되+면	VERB	VX+EC	_	3	advcl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+7	결과	결과	NOUN	NNG	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋을	좋+을	ADJ	VA+ETM	_	10	acl	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_05_3_07
+# text = 협동을 할 때 생활이 더 친절하고 평화롭다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	생활이	생활+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	친절하고	친절+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+7	평화롭다	평화+롭+다	ADJ	NNG+XSA+EF	_	6	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_05_3_08
+# text = '머리 하나보다 둘 다 있는 것이 좋다.
+1	'머리	'+머리	NOUN	SS+NNG	_	5	dislocated	_	_
+2	하나보다	하나+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	둘	둘	NUM	NR	_	5	nsubj	_	_
+4	다	다	ADV	MAG	_	5	advmod	_	_
+5	있는	있+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_05_3_09
+# text = ' 자주 들은 말일다.
+1	'	'	PUNCT	SS	_	4	punct	_	_
+2	자주	자주	ADV	MAG	_	3	advmod	_	_
+3	들은	듣+은	VERB	VV+ETM	_	4	acl	_	_
+4	말일다	말+이+ㄹ+다	VERB	NNG+VCP+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_05_3_10
+# text = 하나보다 둘 더 좋아요.
+1	하나보다	하나+보다	ADV	NNG+JKB	_	4	obl	_	_
+2	둘	둘	NUM	NR	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_05_3_11
+# text = 그리고 협동이면 서로 실수 확인할 수 있어요.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	협동이면	협동+이+면	ADJ	NNG+VCP+EC	_	7	advcl	_	_
+3	서로	서로	ADV	MAG	_	5	advmod	_	_
+4	실수	실수	NOUN	NNG	_	5	obj	_	_
+5	확인할	확인+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_05_3_12
+# text = 계속 경쟁이면 사람들은 서로를 도와주지 않을 것이다.
+1	계속	계속	ADV	MAG	_	2	advmod	_	_
+2	경쟁이면	경쟁+이+면	ADJ	NNG+VCP+EC	_	7	advcl	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+4	서로를	서로+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	도와주지	도와주+지	VERB	VV+EC	_	7	acl	_	_
+6	않을	않	AUX	VX+ETM	_	5	aux	_	_
+7	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_05_3_13
+# text = 협동으로 사람이 좋은 관계가 생길 수도 있다.
+1	협동으로	협동+으로	ADV	NNG+JKB	_	7	obl	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	7	dislocated	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	관계가	관계+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	생길	생기+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_05_3_14
+# text = 좋은 관계이면 더 좋은 결과 나올 수도 있지 않을까라고 생각한다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	관계이면	관계+이+면	ADJ	NNG+VCP+EC	_	6	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	결과	결과	NOUN	NNG	_	6	nsubj	_	_
+6	나올	나오+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있지	있+지	VERB	VX+EC	_	10	ccomp	_	_
+9	않을까라고	않	AUX	VX+EC+JKQ	_	8	aux	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_05_3_15
+# text = 제가 다른 사람하고 프로젝트하면 우리 다른 실려과 의겐 있어서 더 좋은 것을 만들을 수 있다.
+1	제가	제+가	PRON	NP+JKS	_	4	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람하고	사람+하고	ADV	NNG+JKB	_	4	obl	_	_
+4	프로젝트하면	프로젝트+하+면	VERB	NNG+VV+EC	_	15	advcl	_	_
+5	우리	우리	PRON	NP	_	7	nmod	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	실려과	실려+과	NOUN	NF+JC	Typo=Yes	9	nsubj	_	_
+8	의겐	의겐	NOUN	NF	Typo=Yes	7	conj	_	_
+9	있어서	있+어서	VERB	VV+EC	_	15	advcl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	좋은	좋+은	ADJ	VA+ETM	_	12	amod	_	_
+12	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+13	만들을	만들+을	VERB	VV+NA	Typo=Yes	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_05_3_16
+# text = 그래서 경쟁보다 협동도 중요한다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	협동도	협동+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_05_3_21
+# text = 협동과 경쟁 중 뭐가 더 좋을까요?
+1	협동과	협동+과	NOUN	NNG+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중	중	NOUN	NNB	_	2	case	_	_
+4	뭐가	뭐+가	PRON	NP+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋을까요	좋+을까요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_

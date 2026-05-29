@@ -1,0 +1,149 @@
+# sent_id = ARG-ENG_18_2_01
+# text = 인간이 좋아지고 싶다면 우리 역사를 꼭 배워야 한다.
+1	인간이	인간+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	좋아지고	좋+아지+고	VERB	VA+XSV+EC	_	7	advcl	_	_
+3	싶다면	싶+다면	AUX	VX+EC	_	2	aux	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	꼭	꼭	ADV	MAG	_	7	advmod	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	한다	하+ㄴ다	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_18_2_02
+# text = 어느 사회도 시간을 지나고 다음 새대 위해 더 좋은 삶은 주고 싶다.
+1	어느	어느	DET	MM	_	2	det	_	_
+2	사회도	사회+도	NOUN	NNG+JX	_	11	nsubj	_	_
+3	시간을	시간+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	지나고	지나+고	VERB	VV+EC	_	11	advcl	_	_
+5	다음	다음	NOUN	NNG	_	6	nmod	_	_
+6	새대	새대	NOUN	NF	_	7	obj	_	_
+7	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+10	삶은	삶+은	NOUN	NNG+JX	_	11	obj	_	_
+11	주고	주+고	VERB	VV+EC	_	0	root	_	_
+12	싶다	싶+다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_18_2_03
+# text = 우리 다 실수도 많고 잘못한것도 많아서, 이런 경험이 가르쳐줄수 있다.
+1	우리	우리	PRON	NP	_	4	dislocated	_	_
+2	다	다	ADV	MAG	_	4	advmod	_	_
+3	실수도	실수+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	많고	많+고	VERB	VA+EC	_	11	advcl	_	_
+5	잘못한것도	잘못+하+ㄴ+것+도	NOUN	NNG+XSV+ETM+NNB+JX	_	6	nsubj	_	_
+6	많아서	많+아서	VERB	VA+EC	_	4	conj	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	이런	이런	DET	MM	_	9	det	_	_
+9	경험이	경험+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	가르쳐줄수	가르치+어+주+ㄹ+수	NOUN	VV+EC+VX+ETM+NNB	_	11	nsubj	_	_
+11	있다	있+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_18_2_04
+# text = 우리 역사를 무시하면 당연히 다시 할 것이다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	무시하면	무시+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	당연히	당연히	ADV	MAG	_	6	advmod	_	_
+5	다시	다시	ADV	MAG	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_18_2_05
+# text = 그래서 역사를 재대로 가르쳐야된다.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	재대로	재대로	ADV	NA	_	4	advmod	_	_
+4	가르쳐야된다	가르치+어야+되+ㄴ다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_18_2_06
+# text = 나라마다 본인 역사를 더 예쁘게 다시 만들고 싶은데 이런 사고 방식을 틀리다.
+1	나라마다	나라+마다	ADV	NNG+JX	_	12	obl	_	_
+2	본인	본인	NOUN	NNG	_	3	nmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+4	더	더	ADV	MAG	_	7	advmod	_	_
+5	예쁘게	예쁘+게	ADV	VA+EC	_	7	advmod	_	_
+6	다시	다시	ADV	MAG	_	7	advmod	_	_
+7	만들고	만들+고	VERB	VV+EC	_	12	advcl	_	_
+8	싶은데	싶+은데	AUX	VX+EC	_	7	aux	_	_
+9	이런	이런	DET	MM	_	11	det	_	_
+10	사고	사고	NOUN	NNG	_	11	nmod	_	_
+11	방식을	방식+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	틀리다	틀리+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_18_2_07
+# text = 역사에 대해서 말할때 너무 솔직하게 봐야 된다.
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	3	advcl	_	_
+3	말할때	말+하+ㄹ+때	VERB	NNG+XSV+ETM+NNB	_	6	advcl	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	솔직하게	솔직+하+게	ADV	XR+XSA+EC	_	6	advmod	_	_
+6	봐야	보+아야	VERB	VV+EC	_	0	root	_	_
+7	된다	되+ㄴ다	VERB	VX+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_2_08
+# text = 아니면 재대로 배울수없다.
+1	아니면	아니+면	VERB	VCN+EC	_	3	advcl	_	_
+2	재대로	재대로	ADV	NA	_	3	advmod	_	_
+3	배울수없다	배우+ㄹ+수+없+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_18_2_09
+# text = 게다가 역사가 가르쳐줄 수있는 것은 공감이다.
+1	게다가	게다가	ADV	MAG	_	6	advmod	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	가르쳐줄	가르치+어+주+ㄹ	VERB	VV+EC+VX+ETM	_	5	acl	_	_
+4	수있는	수+있+는	VERB	NNB+VX+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	6	nsubj	_	_
+6	공감이다	공감+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_2_10
+# text = 교실에서 공감을 잘 가르칠수있는 방법을 많지않다.
+1	교실에서	교실+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	공감을	공감+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	가르칠수있는	가르치+ㄹ+수+있+는	NOUN	VV+ETM+NNB+VX+ETM	_	5	acl	_	_
+5	방법을	방법+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	많지않다	많+지+않+다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_2_11
+# text = 그런데 다른사람의 입장에서 볼수있다면 많이 배울수있다.
+1	그런데	그런데	ADV	MAJ	_	6	cc	_	_
+2	다른사람의	다른+사람+의	NOUN	MM+NNG+JKG	_	3	nmod:poss	_	_
+3	입장에서	입장+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	볼수있다면	보+ㄹ+수+있+다면	VERB	VV+ETM+NNB+VX+EC	_	6	advcl	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	배울수있다	배우+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_2_12
+# text = 역사적으로 나라안에 나라밖에서 다 문제가 많다.
+1	역사적으로	역사+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+2	나라안에	나라+안+에	ADV	NNG+NNG+JKB	_	6	obl	_	_
+3	나라밖에서	나라+밖+에서	ADV	NNG+NNG+JKB	_	6	obl	_	_
+4	다	다	ADV	MAG	_	6	advmod	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_18_2_13
+# text = 열심히 공부하면 다른 사람의 입장에 대해 배울수도 있고 공감이도 생길수있다.
+1	열심히	열심히	ADV	MAG	_	2	advmod	_	_
+2	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	다른	다른	ADJ	MM+ETM	_	4	amod	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	입장에	입장+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+7	배울수도	배울+수+도	NOUN	VV+ETM+NNB+JX	_	8	nsubj	_	_
+8	있고	있+고	VERB	VX+EC	_	0	root	_	_
+9	공감이도	공감+이+도	NOUN	NNG+JKS+JX	_	10	nsubj	_	_
+10	생길수있다	생기+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	8	punct	_	_

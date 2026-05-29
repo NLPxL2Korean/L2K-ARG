@@ -1,0 +1,149 @@
+# sent_id = ARG-ENG_24_3_01
+# text = 협동과 경쟁 둘 다 중요합니다.
+1	협동과	협동+과	NOUN	NNG+JC	_	5	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	둘	둘	NUM	NR	_	1	appos	_	_
+4	다	다	ADV	MAG	_	5	advmod	_	_
+5	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_24_3_02
+# text = 어떤 걸 더 선호하는게 보다 언제 협동 쓰거나 경재 선택하는 게 더 종요하는 것 같습니다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	걸	것+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호하는게	선호+하+는+것+이	VERB	NNG+XSV+ETM+NNB+JKS	_	13	obl	_	_
+5	보다	보다	ADP	JKB	_	4	case	_	_
+6	언제	언제	ADV	MAG	_	8	advmod	_	_
+7	협동	협동	NOUN	NNG	_	8	obj	_	_
+8	쓰거나	쓰+거나	VERB	VV+EC	_	11	acl	_	_
+9	경재	경재	NOUN	NF	Typo=Yes	10	obj	_	_
+10	선택하는	선택+하+는	VERB	NNG+XSV+ETM	_	8	conj	_	_
+11	게	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	종요하는	종요+하+는	ADJ	NF+XSA+ETM	Typo=Yes	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_24_3_03
+# text = 왜냐하면 둘 다 장점가 있는 것 같습니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	7	cc	_	_
+2	둘	둘	NUM	NR	_	5	dislocated	_	_
+3	다	다	ADV	MAG	_	5	advmod	_	_
+4	장점가	장점+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있는	있+는	VERB	VV+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_24_3_04
+# text = 환경은 다른 사람들이 잘 지낼수 있고 똑같은 목표가 있으면 협동을 선태할 겁니다.
+1	환경은	환경+은	NOUN	NNG+JX	_	5	dislocated	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	지낼수	지내+ㄹ+수	NOUN	VV+ETM+NNB	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	0	root	_	_
+7	똑같은	똑같+은	ADJ	VA+ETM	_	8	amod	_	_
+8	목표가	목표+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있으면	있+으면	VERB	VV+EC	_	11	advcl	_	_
+10	협동을	협동+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	선태할	선태+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	12	acl	_	_
+12	겁니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_24_3_05
+# text = 그 상황에 혹시나 다같이 협동하면서 그 목표를 더 빠르게 이룰 수도 있습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	상황에	상황+에	ADV	NNG+JKB	_	5	obl	_	_
+3	혹시나	혹시나	ADV	MAG	_	5	advmod	_	_
+4	다같이	다+같이	ADV	MAG+MAG	_	5	advmod	_	_
+5	협동하면서	협동+하+면서	VERB	NNG+XSV+EC	_	12	advcl	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	목표를	목표+를	NOUN	NNG+JKO	_	10	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	빠르게	빠르+게	ADV	VA+EC	_	10	advmod	_	_
+10	이룰	이루+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_24_3_06
+# text = 그런데 그 똑같은 상황안에 여러 팀가 있으면 경재도 장점가 있습니다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	그	그	DET	MM	_	4	det	_	_
+3	똑같은	똑같+은	ADJ	VA+ETM	_	4	amod	_	_
+4	상황안에	상황+안+에	ADV	NNG+NNG+JKB	_	7	obl	_	_
+5	여러	여러	DET	MM	_	6	det	_	_
+6	팀가	팀+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VV+EC	_	10	advcl	_	_
+8	경재도	경재+도	NOUN	NF+JX	Typo=Yes	10	dislocated	_	_
+9	장점가	장점+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_24_3_07
+# text = 경쟁 때문에 팀마다 더 빠르게 문제가 풀거나 더 creative 답은 생길 수도 있습니다.
+1	경쟁	경쟁	NOUN	NNG	_	7	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	팀마다	팀+마다	NOUN	NNG+JX	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	빠르게	빠르+게	ADV	VA+EC	_	7	advmod	_	_
+6	문제가	문제+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	풀거나	풀+거나	VERB	VV+EC	_	13	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	creative	creative	NOUN	SL	_	10	amod	_	_
+10	답은	답+은	NOUN	NNG+JX	_	11	nsubj	_	_
+11	생길	생기+ㄹ	VERB	VV+ETM	_	7	conj	_	_
+12	수도	수+도	NOUN	NNB+JX	_	7	conj	_	_
+13	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_24_3_08
+# text = 보통 생화 사면서 저는 협동 자주 하는 사람인 것 같습니다.
+1	보통	보통	ADV	NNG	_	10	advmod	_	_
+2	생화	생화	NOUN	NF	Typo=Yes	3	obj	_	_
+3	사면서	사+면서	VERB	VV+EC	_	10	advcl	_	_
+4	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+5	협동	협동	NOUN	NNG	_	7	obj	_	_
+6	자주	자주	ADV	MAG	_	7	advmod	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	사람인	사람+이+ㄴ	ADJ	NNG+VCP+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_24_3_09
+# text = 그런데 월래 있는 게 아니라 많이 연습하고 배웠습니다.
+1	그런데	그런데	ADV	MAJ	_	8	cc	_	_
+2	월래	월래	ADV	NA	Typo=Yes	3	advmod	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	게	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	아니라	아니+라	ADJ	VCN+EC	_	8	advcl	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	연습하고	연습+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	_
+8	배웠습니다	배우+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_24_3_10
+# text = 원래 경쟁력은 놉은 사람이었습니다.
+1	원래	원래	ADV	MAG	_	4	advmod	_	_
+2	경쟁력은	경쟁력+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	놉은	놉+은	VERB	NV+ETM	Typo=Yes	4	acl	_	_
+4	사람이었습니다	사람+이+었+습니다	ADJ	NNG+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_24_3_11
+# text = 그런데 자주 다른 사람들이 경쟁보면 너무 피곤해서 협동하는 사람가 되었습니다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	자주	자주	ADV	MAG	_	5	advmod	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	경쟁보면	경쟁+보+면	VERB	NNG+VV+EC	_	7	advcl	_	_
+6	너무	너무	ADV	MAG	_	7	advmod	_	_
+7	피곤해서	피곤+하+아서	ADJ	NNG+XSA+EC	_	10	advcl	_	_
+8	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	사람가	사람+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	되었습니다	되+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

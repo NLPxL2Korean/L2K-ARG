@@ -1,0 +1,94 @@
+# sent_id = ARG-ENG_38_1_01
+# text = 제 생각에 이주제에 대해서 다른어를 배우고 싶으면 일찍 시작해야 돼요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에	생각+에	ADV	NNG+JKB	_	9	obl	_	_
+3	이주제에	이+주제+에	ADV	MM+NNG+JKB	_	4	obl	_	_
+4	대해서	대하+아서	VERB	VV+EC	_	6	advcl	_	_
+5	다른어를	다른+어+를	NOUN	MM+NNG+JKO	_	6	obj	_	_
+6	배우고	배우+고	VERB	VV+EC	_	9	advcl	_	_
+7	싶으면	싶	AUX	VX+EC	_	6	aux	_	_
+8	일찍	일찍	ADV	MAG	_	9	advmod	_	_
+9	시작해야	시작+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+10	돼요	되+어요	VERB	VX+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_38_1_02
+# text = 근데 일찍 시작하면 문재도 있을거 같아요.
+1	근데	근데	ADV	MAJ	_	6	cc	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	문재도	문재+도	NOUN	NF+JX	Typo=Yes	5	nsubj	_	_
+5	있을거	있+을+거	NOUN	VV+ETM+NNB	_	6	nsubj	_	_
+6	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_38_1_03
+# text = 지루한 방법을 써면 학생들이 정말 심심할 수도 있어요.
+1	지루한	지루+하+ㄴ	ADJ	XR+XSA+ETM	_	2	amod	_	_
+2	방법을	방법+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	써면	써+면	VERB	NV+EC	Typo=Yes	8	advcl	_	_
+4	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	정말	정말	ADV	MAG	_	6	advmod	_	_
+6	심심할	심심+하+ㄹ	ADJ	XR+XSA+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_38_1_04
+# text = 언어교육 방법들이 대대로 지루해요.
+1	언어교육	언어교육	NOUN	NNG+NNG	_	2	nmod	_	_
+2	방법들이	방법+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	대대로	대대로	ADV	MAG	_	4	advmod	_	_
+4	지루해요	지루+하+아요	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_1_05
+# text = 근데 재미있게 가르치면 너무 촣은 거 같아요.
+1	근데	근데	ADV	MAJ	_	7	cc	_	_
+2	재미있게	재미+있+게	ADV	NNG+VA+EC	_	3	advmod	_	_
+3	가르치면	가르치+면	VERB	VV+EC	_	7	advcl	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	촣은	촣+은	VERB	NV+ETM	Typo=Yes	6	acl	_	_
+6	거	거	NOUN	NNB	_	7	nsubj	_	_
+7	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_38_1_06
+# text = 학생들이 빨리 배워서 일찍 시작하면 깊게 이해할 수 있어요.
+1	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	빨리	빨리	ADV	MAG	_	3	advmod	_	_
+3	배워서	배우+어서	VERB	VV+EC	_	5	advcl	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	깊게	깊+게	ADV	VA+EC	_	7	advmod	_	_
+7	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_38_1_07
+# text = 다른 문재가 있어요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	문재가	문재+가	NOUN	NF+JKS	Typo=Yes	3	nsubj	_	_
+3	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_38_1_08
+# text = 학생들이 다른 언어 많이 공부하면 학생의나라말에 대해서 공부시간 덜 있어요.
+1	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	언어	언어	NOUN	NNG	_	5	obj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	학생의나라말에	학생+의+나라+말+에	ADV	NNG+JKG+NNG+NNG+JKB	_	7	obl	_	_
+7	대해서	대하+아서	VERB	VV+EC	_	10	advcl	_	_
+8	공부시간	공부+시간	NOUN	NNG+NNG	_	10	nsubj	_	_
+9	덜	덜	ADV	MAG	_	10	advmod	_	_
+10	있어요	있	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_38_1_09
+# text = 이거도 중요해요.
+1	이거도	이거+도	PRON	NP+JX	_	2	nsubj	_	_
+2	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_

@@ -1,0 +1,61 @@
+# sent_id = ARG-JPN_08_3_01
+# text =  저는 경쟁보다 협동을 더 선호한다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_08_3_02
+# text =  협동하면 상대반에 나쁜 것을 하는 것이 없기 때문이다.
+1	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+2	상대반에	상대반+에	ADV	NF+JKB	_	5	obl	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	5	obj	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	없기	없+기	NOUN	VA+ETN	_	8	nmod	_	_
+8	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_08_3_03
+# text =  경쟁할 때는 상대반에 대해 항상 의식하야 하니까 힘들다.
+1	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	8	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	상대반에	상대반+에	ADV	NF+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+5	항상	항상	ADV	MAG	_	6	advmod	_	_
+6	의식하야	의식+하+야	VERB	NNG+XSV+NA	_	8	advcl	_	_
+7	하니까	하+니까	AUX	VX+EC	_	6	aux	_	_
+8	힘들다	힘들+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_08_3_04
+# text =  협동하면 제가 생각하지 않는 것이 할 수 있는 것도 있고 사람들과 좋은 사이로 지낼 수 있다.
+1	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	3	advcl	_	_
+2	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+3	생각하지	생각+하+지	VERB	NNG+XSV+EC	_	5	acl	_	_
+4	않는	않+는	AUX	VX+ETM	_	3	aux	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	것도	것+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있고	있+고	VERB	VV+EC	_	0	root	_	_
+11	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	14	obl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	사이로	사이+로	ADV	NNG+JKB	_	14	obl	_	_
+14	지낼	지내+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	10	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_08_3_05
+# text =  그래서 저는 협동을 중용한다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	중용한다고	중용+하+ㄴ다고	VERB	NF+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

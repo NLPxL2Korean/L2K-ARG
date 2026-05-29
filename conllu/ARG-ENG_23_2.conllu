@@ -1,0 +1,103 @@
+# sent_id = ARG-ENG_23_2_01
+# text = 역사는 배우는 것이 너무 중요합니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	5	dislocated	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_23_2_02
+# text = 하지만 무슨 연사를 학교에서 배우기 좋을까, 그런 대화가 제일 중요합니다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	무슨	무슨	DET	MM	_	3	det	_	_
+3	연사를	연사+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+5	배우기	배우+기	VERB	VV+ETN	_	6	nsubj	_	_
+6	좋을까	좋+을까	ADJ	VA+EC	_	11	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	그런	그런	DET	MM	_	9	det	_	_
+9	대화가	대화+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	제일	제일	ADV	MAG	_	11	advmod	_	_
+11	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_23_2_03
+# text = 학생이 학교에서 듣는 수업은 많지 않습니다.
+1	학생이	학생+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	듣는	듣+는	VERB	VV+ETM	_	4	acl	_	_
+4	수업은	수업+은	NOUN	NNG+JX	_	5	nsubj	_	_
+5	많지	많+지	ADJ	VA+EC	_	0	root	_	_
+6	않습니다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_23_2_04
+# text = 그래서 세계의 연사 모든 것을 곡 배워야 하는 것이 아닙니다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	세계의	세계+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	연사	연사	NOUN	NNG	_	5	nmod	_	_
+4	모든	모든	DET	MM	_	5	det	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+6	곡	곡	ADV	NA	Typo=Yes	7	advmod	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	9	acl	_	_
+8	하는	하	AUX	VX+ETM	_	7	aux	_	_
+9	것이	것+이	NOUN	NNB+JKC	_	10	nsubj	_	_
+10	아닙니다	아니+ㅂ니다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_23_2_05
+# text = 그렇지만 자기 고향의 역사와 세계의 역사를 배운는 것으로 현제의 사회의 상태에 대해 더 알 수 있습니다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	16	cc	_	_
+2	자기	자기	PRON	NP	_	3	nmod	_	_
+3	고향의	고향+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	역사와	역사+와	NOUN	NNG+JC	_	7	obj	_	_
+5	세계의	세계+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	4	conj	_	_
+7	배운는	배우+ㄴ+는	VERB	VV+ETM+ETM	_	8	acl	_	_
+8	것으로	것+으로	ADV	NNB+JKB	_	14	obl	_	_
+9	현제의	현제+의	NOUN	NF+JKG	Typo=Yes	10	nmod:poss	_	_
+10	사회의	사회+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	상태에	상태+에	ADV	NNG+JKB	_	12	obl	_	_
+12	대해	대하+아	VERB	VV+EC	_	14	advcl	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	알	알+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_23_2_06
+# text = 현제와 과고는 연하고 있습니다.
+1	현제와	현제+와	NOUN	NF+JC	Typo=Yes	3	nsubj	_	_
+2	과고는	과고+는	NOUN	NF+JX	Typo=Yes	1	conj	_	_
+3	연하고	연하+고	VERB	NV+EC	Typo=Yes	0	root	_	_
+4	있습니다	있	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_23_2_07
+# text = 과고를 모르면 문제가 좋아질 수 없습니다.
+1	과고를	과고+를	NOUN	NF+JKO	Typo=Yes	2	obj	_	_
+2	모르면	모르+면	VERB	VV+EC	_	6	advcl	_	_
+3	문제가	문제+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	좋아질	좋+아지+ㄹ	VERB	VA+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	없습니다	없+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_23_2_08
+# text = 미래의 사회에 위해서 과고를 보고 현제를 이해하고 더 좋은 사회를 만들 수 있으면 좋겠습니다.
+1	미래의	미래+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	사회에	사회+에	ADV	NNG+JKB	_	3	obl	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	14	advcl	_	_
+4	과고를	과고+를	NOUN	NF+JKO	Typo=Yes	5	obj	_	_
+5	보고	보+고	VERB	VV+EC	_	14	advcl	_	_
+6	현제를	현제+를	NOUN	NF+JKO	Typo=Yes	7	obj	_	_
+7	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	5	conj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+10	사회를	사회+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	만들	만들+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있으면	있+으면	VERB	VX+EC	_	14	advcl	_	_
+14	좋겠습니다	좋+겠+습니다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

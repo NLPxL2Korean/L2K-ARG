@@ -1,0 +1,211 @@
+# sent_id = ARG-ENG_03_2_05_1
+# text = 역사 없이 거듭된 고통을 겪게 되고 불필요하게 힘들게 사는 것 보다 100번 넘어지고 그 100번 기억하면서 101번 일어나는 것이 좋다.
+1	역사	역사	NOUN	NNG	_	2	nsubj	_	_
+2	없이	없이	ADV	MAG	_	5	advcl	_	_
+3	거듭된	거듭+되+ㄴ	ADJ	MAG+XSV+ETM	_	4	acl	_	_
+4	고통을	고통+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	겪게	겪+게	VERB	VV+EC	_	9	advcl	_	_
+6	되고	되+고	VERB	VX+EC	_	5	advcl	_	_
+7	불필요하게	불+필요+하+게	ADV	XPN+NNG+XSA+EC	_	9	advmod	_	_
+8	힘들게	힘들+게	ADV	VA+EC	_	9	advmod	_	_
+9	사는	살+는	VERB	VV+ETM	_	10	acl	_	_
+10	것	것	NOUN	NNB	_	20	obl	_	_
+11	보다	보다	ADP	JKB	_	10	case	_	_
+12	100번	100+번	NOUN	SN+NNB	_	13	obj	_	_
+13	넘어지고	넘어지+고	VERB	VV+EC	_	16	advcl	_	_
+14	그	그	DET	MM	_	15	det	_	_
+15	100번	100+번	NOUN	SN+NNB	_	16	obj	_	_
+16	기억하면서	기억+하+면서	VERB	NNG+XSV+EC	_	18	advcl	_	_
+17	101번	101+번	NOUN	SN+NNB	_	18	obj	_	_
+18	일어나는	일어나+는	VERB	VV+ETM	_	19	acl	_	_
+19	것이	것+이	NOUN	NNB+JKS	_	20	nsubj	_	_
+20	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_03_2_01
+# text = 역사를 배워야 합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	합니다	하	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_03_2_03_1
+# text = 역사를 배워서 존경할 수 있는 롤 모델을 찾을 수 있고 안 좋은 것 반복하지 않도록 노력할 수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워서	배우+어서	VERB	VV+EC	_	18	advcl	_	_
+3	존경할	존경+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+6	롤	롤	NOUN	NNG	_	8	obj	_	_
+7	모델을	모델+을	NOUN	NNG+JKO	_	6	flat	_	_
+8	찾을	찾+을	VERB	VV+ETM	_	10	advcl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있고	있+고	VERB	VX+EC	_	18	advcl	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	것	것	NOUN	NNB	_	14	obj	_	_
+14	반복하지	반복+하+지	VERB	NNG+XSV+EC	_	16	advcl	_	_
+15	않도록	않	AUX	VX+EC	_	14	aux	_	_
+16	노력할	노력+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_03_2_01_1
+# text = 사람으로써 인생에서 경험과 실수를 통해서 배우고 더 나은 사람이 된다고 너나없이 다들 알고 있는 사실이다.
+1	사람으로써	사람+으로써	ADV	NNG+JKB	_	6	obl	_	_
+2	인생에서	인생+에서	ADV	NNG+JKB	_	6	obl	_	_
+3	경험과	경험+과	NOUN	NNG+JC	_	5	obj	_	_
+4	실수를	실수+를	NOUN	NNG+JKO	_	3	conj	_	_
+5	통해서	통하+아서	VERB	VV+EC	_	6	advcl	_	_
+6	배우고	배우+고	VERB	VV+EC	_	10	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	나은	낫+은	ADJ	VA+ETM	_	9	amod	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	된다고	되+ㄴ다고	VERB	VV+EC	_	13	ccomp	_	_
+11	너나없이	너+나+없이	ADV	NP+NP+MAG	_	13	advmod	_	_
+12	다들	다+들	NOUN	NNG+XSN	_	13	nsubj	_	_
+13	알고	알+고	VERB	VV+EC	_	15	acl	_	_
+14	있는	있	AUX	VX+ETM	_	13	aux	_	_
+15	사실이다	사실+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_03_2_04_1
+# text = 역사를 올바르게 가르치고 잊지않도록 중시해야 더 나은 세상을 만들 것이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	올바르게	올바르+게	ADV	VV+EC	_	3	advmod	_	_
+3	가르치고	가르치+고	VERB	VV+EC	_	5	advcl	_	_
+4	잊지않도록	잊+지+않+도록	VERB	VV+EC+VX+EC	_	5	advcl	_	_
+5	중시해야	중시+하+아야	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	나은	낫+은	ADJ	VA+ETM	_	10	amod	_	_
+8	세상을	세상+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	만들	만들+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_03_2_02_1
+# text = 역사는 오래 전부터 잘 못 된 선택과 잘 된 선택들의 기록이고 그것을 명심하면서 두 번 다시 같은 잘 못 된 선택이나 실수를 안 하게 해준다고 생각해서 역사를 배워야 한다고 주장한다.
+1	역사는	역사+는	NOUN	NNG+JX	_	11	nsubj	_	_
+2	오래	오래	ADV	MAG	_	4	advmod	_	_
+3	전부터	전+부터	NOUN	NNG+JX	_	2	case	_	_
+4	잘	잘+못+되+ㄴ	ADJ	MAG+MAG+XSV+ETM	Typo=Yes	7	acl	_	_
+5	못	_	X	_	_	4	goeswith	_	_
+6	된	_	X	_	_	4	goeswith	_	_
+7	선택과	선택+과	ADV	NNG+JKB	_	11	nmod:poss	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	된	되+ㄴ	VERB	VV+ETM	_	10	acl	_	_
+10	선택들의	선택+들+의	NOUN	NNG+XSN+JKG	_	7	conj	_	_
+11	기록이고	기록+이+고	VERB	VV+EC+EC	_	30	advcl	_	_
+12	그것을	그것+을	PRON	NP+JKO	_	13	obj	_	_
+13	명심하면서	명심+하+면서	VERB	NNG+XSV+EC	_	24	advcl	_	_
+14	두	두	NUM	MM	_	15	nummod	_	_
+15	번	번	NOUN	NNB	_	24	obl	_	_
+16	다시	다시	ADV	MAG	_	24	advmod	_	_
+17	같은	같+은	ADJ	VA+ETM	_	21	amod	_	_
+18	잘	잘+못+되+ㄴ	ADJ	MAG+MAG+XSV+ETM	Typo=Yes	21	acl	_	_
+19	못	_	X	_	_	18	goeswith	_	_
+20	된	_	X	_	_	18	goeswith	_	_
+21	선택이나	선택+이나	NOUN	NNG+JC	_	24	obj	_	_
+22	실수를	실수+를	NOUN	NNG+JKO	_	21	conj	_	_
+23	안	안	ADV	MAG	_	24	advmod	_	_
+24	하게	하+게	VERB	VV+EC	_	26	ccomp	_	_
+25	해준다고	하	AUX	VX+EC+VX+EC	_	24	aux	_	_
+26	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	30	advcl	_	_
+27	역사를	역사+를	NOUN	NNG+JKO	_	28	obj	_	_
+28	배워야	배우+어야	VERB	VV+EC	_	30	ccomp	_	_
+29	한다고	하	AUX	VX+EC	_	28	aux	_	_
+30	주장한다	주장+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-ENG_03_2_02
+# text = 인생 처음으로 본 질문입니다.
+1	인생	인생	NOUN	NNG	_	3	obl	_	_
+2	처음으로	처음+으로	ADV	NNG+JKB	_	3	obl	_	_
+3	본	보+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	질문입니다	질문+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_03_2_03
+# text = 역사를 배우지 않으면 간직한 전통과 나라의 각각 문화를 없어질지도 모른다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우지	배우+지	VERB	VV+EC	_	9	advcl	_	_
+3	않으면	않	AUX	VX+EC	_	2	aux	_	_
+4	간직한	간직+하+ㄴ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	전통과	전통+과	NOUN	NNG+JC	_	8	nmod:poss	_	_
+6	나라의	나라+의	NOUN	NNG+JKG	_	5	conj	_	_
+7	각각	각각	NOUN	NNG	_	8	nmod	_	_
+8	문화를	문화+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	없어질지도	없+어지+ㄹ지+도	VERB	VA+XSV+EC+JX	_	10	ccomp	_	_
+10	모른다	모르+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_03_2_04
+# text = 넬슨 만델라의 이야기를 읽으면서 저도 포기를 안 할거라는 느낌을 느낍니다.
+1	넬슨	넬슨	NOUN	NNP	_	3	nmod:poss	_	_
+2	만델라의	만델라+의	NOUN	NNP+JKG	_	1	flat	_	_
+3	이야기를	이야기+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	읽으면서	읽+으면서	VERB	VV+EC	_	10	advcl	_	_
+5	저도	저+도	PRON	NP+JX	_	10	nsubj	_	_
+6	포기를	포기+를	NOUN	NNG+JKO	_	8	obj	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	할거라는	하+ㄹ+것+이+라는	VERB	VV+ETM+NNB+VCP+ETM	_	9	acl	_	_
+9	느낌을	느낌+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	느낍니다	느끼+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_03_2_05
+# text = 여성권 조직한 지도자 덕분에 이제 제가 투표하고 집은 살 수 있는 사실 알게 될 수 있습니다.
+1	여성권	여성+권	NOUN	NNG+XSN	_	2	obj	_	_
+2	조직한	조직+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	지도자	지도자	NOUN	NNG	_	13	obl	_	_
+4	덕분에	덕분+에	ADV	NNG+JKB	_	3	case	_	_
+5	이제	이제	ADV	MAG	_	13	advmod	_	_
+6	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+7	투표하고	투표+하+고	VERB	NNG+XSV+EC	_	13	advcl	_	_
+8	집은	집+은	NOUN	NNG+JX	_	9	obj	_	_
+9	살	살+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있는	있+는	VERB	VX+ETM	_	12	acl	_	_
+12	사실	사실	NOUN	NNG	_	13	obj	_	_
+13	알게	알+게	VERB	VV+EC	_	15	acl	_	_
+14	될	되+ㄹ	VERB	VX+ETM	_	13	advcl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_03_2_06
+# text = 역사 교육은 완벽하지 않습니다.
+1	역사	역사	NOUN	NNG	_	2	nmod	_	_
+2	교육은	교육+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	완벽하지	완벽+하+지	ADJ	NNG+XSA+EC	_	0	root	_	_
+4	않습니다	않	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_03_2_07
+# text = 힘 있는 사람이나 나라 정부 만든 역사 교육은 부족한 부분 많습니다.
+1	힘	힘	NOUN	NNG	_	2	nsubj	_	_
+2	있는	있+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람이나	사람+이나	NOUN	NNG+JC	_	11	dislocated	_	_
+4	나라	나라	NOUN	NNG	_	5	nmod	_	_
+5	정부	정부	NOUN	NNG	_	6	obj	_	_
+6	만든	만들+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+7	역사	역사	NOUN	NNG	_	8	nmod	_	_
+8	교육은	교육+은	NOUN	NNG+JX	_	3	conj	_	_
+9	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	부분	부분	NOUN	NNG	_	11	nsubj	_	_
+11	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_03_2_08
+# text = 그래서 역사 제데로 배울려면 혼자서 책하고 더큐멘터리를 봐야 합니다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	역사	역사	NOUN	NNG	_	4	obj	_	_
+3	제데로	제데로	ADV	NA	Typo=Yes	4	advmod	_	_
+4	배울려면	배우+ㄹ려면	VERB	VV+EC	_	8	advcl	_	_
+5	혼자서	혼자+서	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	책하고	책+하고	NOUN	NNG+JC	_	8	obj	_	_
+7	더큐멘터리를	더큐멘터리+를	NOUN	NF+JKO	Typo=Yes	6	conj	_	_
+8	봐야	보+아야	VERB	VV+EC	_	0	root	_	_
+9	합니다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_

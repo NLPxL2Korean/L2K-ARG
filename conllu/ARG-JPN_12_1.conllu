@@ -1,0 +1,108 @@
+# sent_id = ARG-JPN_12_1_01
+# text =  먼저 장점으로는 조기에 언어 교육을 함으로써 아이가 배우는 언어의 익숙하는 시간이 많아진다.
+1	먼저	먼저	ADV	MAG	_	12	advmod	_	_
+2	장점으로는	장점+으로+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+3	조기에	조기+에	ADV	NNG+JKB	_	6	obl	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	함으로써	하+ㅁ+으로써	ADV	VV+ETN+JKB	_	12	advcl	_	_
+7	아이가	아이+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+9	언어의	언어+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+10	익숙하는	익숙+하+는	VERB	XR+XSA+ETM	_	11	amod	_	_
+11	시간이	시간+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	많아진다	많+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_12_1_02
+# text =  언어를 어릴 때부터 배우면 배우는 시간도 비래해서 길어지며 결과적으로 그 언어를 접하는 시간이 많아질 것이다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+2	어릴	어리+ㄹ	VERB	VA+ETM	_	4	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	시간도	시간+도	NOUN	NNG+JX	_	8	nsubj	_	_
+7	비래해서	비래+하+아서	VERB	NF+XSV+EC	_	8	advcl	_	_
+8	길어지며	길+어지+며	VERB	VA+XSV+EC	_	15	advcl	_	_
+9	결과적으로	결과+적+으로	ADV	NNG+XSN+JKB	_	15	obl	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	접하는	접하+는	VERB	VV+ETM	_	13	acl	_	_
+13	시간이	시간+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	많아질	많+아지+ㄹ	VERB	VA+XSV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_12_1_03
+# text =  따라서 언어에 대한 능력과 이해를 깊이 하게 된다.
+1	따라서	따라서	ADV	MAJ	_	7	cc	_	_
+2	언어에	언어+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대한	대하+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	능력과	능력+과	NOUN	NNG+JC	_	7	obj	_	_
+5	이해를	이해+를	NOUN	NNG+JKO	_	4	conj	_	_
+6	깊이	깊이	ADV	MAG	_	7	advmod	_	_
+7	하게	하+게	VERB	VV+EC	_	0	root	_	_
+8	된다	되+ㄴ다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_12_1_04
+# text =  단점은 언어를 배우면서 모국어와 배우는 언어가 섞여 버리고 해갈릴 수 있다는 점이다.
+1	단점은	단점+은	NOUN	NNG+JX	_	12	nsubj	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면서	배우+면서	VERB	VV+EC	_	11	advcl	_	_
+4	모국어와	모국어+와	NOUN	NNG+JC	_	7	nsubj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	언어가	언어+가	NOUN	NNG+JKS	_	4	conj	_	_
+7	섞여	섞이+어	VERB	VV+EC	_	11	advcl	_	_
+8	버리고	버리+고	VERB	VX+EC	_	7	aux	_	_
+9	해갈릴	해갈리+ㄹ	VERB	NV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다는	있+다는	VERB	VX+ETM	_	12	acl	_	_
+12	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_12_1_05
+# text =  어릴 때 가지게 된 습관을 고치기 어렵다고 한다.
+1	어릴	어리+ㄹ	VERB	VA+ETM	_	3	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	가지게	가지+게	VERB	VV+EC	_	5	acl	_	_
+4	된	되+ㄴ	VERB	VX+ETM	_	3	aux	_	_
+5	습관을	습관+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	고치기	고치+기	NOUN	VV+ETN	_	7	csubj	_	_
+7	어렵다고	어렵+다고	VERB	VA+EC	_	8	ccomp	_	_
+8	한다	하+ㄴ다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_12_1_06
+# text =  만약에 섞여 버린 언어의 사용을 고칠 수 없으면 이 후에도 잘 못 된 사용법으로 언어를 쓰게 된다.
+1	만약에	만약+에	ADV	NNG+JKB	_	8	obl	_	_
+2	섞여	섞이+어	VERB	VV+EC	_	4	acl	_	_
+3	버린	버리+ㄴ	VERB	VX+ETM	_	2	aux	_	_
+4	언어의	언어+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	사용을	사용+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	고칠	고치+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없으면	없+으면	VERB	VA+EC	_	16	advcl	_	_
+9	이	이	DET	MM	_	16	obl	_	_
+10	후에도	후+에+도	ADV	NNG+JKB+JX	_	9	goeswith	_	_
+11	잘	잘	ADV	MAG	_	14	acl	_	_
+12	못	못	ADV	MAG	_	11	goeswith	_	_
+13	된	되+ㄴ	VERB	VV+ETM	_	12	goeswith	_	_
+14	사용법으로	사용+법+으로	ADV	NNG+NNG+JKB	_	16	obl	_	_
+15	언어를	언어+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	쓰게	쓰+게	VERB	VV+EC	_	0	root	_	_
+17	된다	되+ㄴ다	VERB	VX+EF	_	16	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_12_1_07
+# text =  그것 때문에 외국인과 교류할 때 오해가 생길 수 있다.
+1	그것	그것	NOUN	NNG	_	9	obl	_	_
+2	때문에	때문+에	ADP	NNB+JKB	_	1	case	_	_
+3	외국인과	외국인+과	ADV	NNG+JKB	_	4	obl	_	_
+4	교류할	교류+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	오해가	오해+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	생길	생기+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

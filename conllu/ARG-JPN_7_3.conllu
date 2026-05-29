@@ -1,0 +1,125 @@
+# sent_id = ARG-JPN_07_3_01
+# text =  나는 협동과 경쟁 중에서는 협동을 선호한다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서는	중+에서+는	ADP	NNB+JKB+JX	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_07_3_02
+# text =  그렇게 생각하는 이유를 두가지 제시한다.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	이유를	이유+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	두가지	두+가지	NOUN	MM+NNB	_	5	obj	_	_
+5	제시한다	제시+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_07_3_03
+# text =  하나는 협동이 가지고 있는 가능성이다.
+1	하나는	하나+는	NUM	NR+JX	_	5	nsubj	_	_
+2	협동이	협동+이	NOUN	NF+JKS	_	3	nsubj	_	_
+3	가지고	가지+고	VERB	VV+EC	_	5	acl	_	_
+4	있는	있+는	AUX	VX+ETM	_	3	aux	_	_
+5	가능성이다	가능+성+이+다	VERB	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_07_3_04
+# text =  다자와 협력하면 혼자로는 못하는 것들도 할 수 있는 가능성이 높아지고 할 수 있는 규모나 범위가 커진다고 생각한다.
+1	다자와	다자+와	ADV	NNG+JKB	_	2	obl	_	_
+2	협력하면	협력+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+3	혼자로는	혼자+로+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+4	못하는	못하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것들도	것+들+도	NOUN	NNB+XSN+JX	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+10	높아지고	높+아지+고	VERB	VA+XSV+EC	_	17	ccomp	_	_
+11	할	하+ㄹ	AUX	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	규모나	규모+나	NOUN	NNG+JC	_	16	nsubj	_	_
+15	범위가	범위+가	NOUN	NNG+JKS	_	14	conj	_	_
+16	커진다고	커지+ㄴ다고	VERB	VV+EC	_	10	conj	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_07_3_05
+# text =  그리고 문제를 해결할 때도 협동하면 더옥 빠르고 능률적이다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	문제를	문제+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+4	때도	때+도	ADV	NNG+JX	_	3	mark	_	_
+5	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	더옥	더옥	ADV	NA	_	7	advmod	_	_
+7	빠르고	빠르+고	ADV	VA+EC	_	0	root	_	_
+8	능률적이다	능률+적+이+다	VERB	NNG+XSN+VCP+EF	_	7	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_07_3_06
+# text =  또한 경쟁의 힘듬과 단점을 알고 있기 때문에 협동을 선호한다.
+1	또한	또한	ADV	MAJ	_	9	cc	_	_
+2	경쟁의	경쟁+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	힘듬과	힘드+ㅁ+과	NOUN	NV+ETN+JC	_	5	obj	_	_
+4	단점을	단점+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	알고	알+고	VERB	VV+EC	_	9	obl	_	_
+6	있기	있+기	AUX	VX+ETN	_	5	aux	_	_
+7	때문에	때문+에	ADP	NNB+JKB	_	5	case	_	_
+8	협동을	협동+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_07_3_07
+# text =  경쟁은 다른 사람과 자신의 차이를 계속 고려해야 되고 지지 않도록 항상 노력해야 한다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	7	obl	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람과	사람+과	NOUN	NNG+JC	_	5	nmod:poss	_	_
+4	자신의	자신+의	PRON	NNG+JKG	_	3	conj	_	_
+5	차이를	차이+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	계속	계속	ADV	MAG	_	7	advmod	_	_
+7	고려해야	고려+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+8	되고	되+고	VERB	VX+EC	_	7	advcl	_	_
+9	지지	지+지	VERB	VV+EC	_	12	advcl	_	_
+10	않도록	않+도록	AUX	VX+EC	_	9	aux	_	_
+11	항상	항상	ADV	MAG	_	12	advmod	_	_
+12	노력해야	노력+하+아야	VERB	NNG+XSV+EC	_	9	conj	_	_
+13	한다	하+ㄴ다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_07_3_08
+# text =  그것은 힘들고 스트레스가 쌓인다.
+1	그것은	그것+은	PRON	NP+JX	_	2	nsubj	_	_
+2	힘들고	힘들+고	VERB	VA+EC	_	0	root	_	_
+3	스트레스가	스트레스+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	쌓인다	쌓+이+ㄴ다	VERB	VV+XSV+EF	_	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-JPN_07_3_09
+# text =  그리고 경쟁적인 시점으로 행동하면 경쟁에 이겨서 1위를 딴 후에 목표를 잃을 수도 있다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	경쟁적인	경쟁+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	시점으로	시점+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	행동하면	행동+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+5	경쟁에	경쟁+에	ADV	NNG+JKB	_	6	obl	_	_
+6	이겨서	이기+어서	VERB	VV+EC	_	8	advcl	_	_
+7	1위를	1+위+를	NOUN	SN+NNB+JKO	_	8	obj	_	_
+8	딴	따+ㄴ	VERB	VV+ETM	_	11	advcl	_	_
+9	후에	후+에	ADV	NNG+JKB	_	8	mark	_	_
+10	목표를	목표+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	잃을	잃+을	VERB	VV+ETM	_	12	acl	_	_
+12	수도	수+도	NOUN	NNB+JX	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_07_3_10
+# text =  이상의 이유로 나는 경쟁보다 협동을 선호한다.
+1	이상의	이상+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	6	obl	_	_
+3	나는	나+는	VERB	NP+JX	_	6	nsubj	_	_
+4	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

@@ -1,0 +1,176 @@
+# sent_id = ARG-CZH_25_1_01
+# text = 조기언어교육이라면 아주 어린 나이부터 언어를 배운다는 것이다.
+1	조기언어교육이라면	조기+언어+교육+이+라면	NOUN	NNG+NNG+NNG+VCP+EC	_	7	nsubj	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	어린	어리+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나이부터	나이+부터	NOUN	NNG+JX	_	6	obl	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배운다는	배우+ㄴ다는	VERB	VV+ETM	_	7	acl	_	_
+7	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_25_1_02
+# text = 많은 사람들은 조기언어교육에 대한 장점은 강조하는 한편, 반대하는 사람들도 있다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+3	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	4	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	장점은	장점+은	NOUN	NNG+JX	_	6	obj	_	_
+6	강조하는	강조+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	한편	한편	NOUN	NNG	_	11	obl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	반대하는	반대+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	11	nsubj	_	_
+11	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_25_1_03
+# text = 그럼 조기언어교육 장단점에 대하여 더 자세히 알아보자.
+1	그럼	그럼	ADV	MAG	_	7	advmod	_	_
+2	조기언어교육	조기+언어+교육	NOUN	NNG+NNG+NNG	_	3	nmod	_	_
+3	장단점에	장단점+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대하여	대하+아	VERB	VV+EC	_	7	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	자세히	자세히	ADV	MAG	_	7	advmod	_	_
+7	알아보자	알+아+보+자	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_25_1_04
+# text = 먼저, 장점이다.
+1	먼저	먼저	ADV	MAG	_	3	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	3	punct	_	_
+3	장점이다	장점+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_25_1_05
+# text = 한국의 영어교육을 예로 들자.
+1	한국의	한국+의	NOUN	NNP+JKG	_	2	nmod:poss	_	_
+2	영어교육을	영어+교육+을	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+3	예로	예+로	ADV	NNG+JKB	_	4	obl	_	_
+4	들자	들+자	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_25_1_06
+# text = 한국어가 영어와 매우 다르기 때문에 영어를 배우는 데 많은 한국사람들은 힘들어하는 점이 있다.
+1	한국어가	한국어+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+2	영어와	영어+와	NOUN	NNG+JX	_	4	obl	_	_
+3	매우	매우	ADV	MAG	_	4	advmod	_	_
+4	다르기	다르+기	ADJ	VA+ETN	_	13	obl	_	_
+5	때문에	때문+에	ADV	NNB+JKB	_	4	case	_	_
+6	영어를	영어+를	NOUN	NNP+JKO	_	7	obj	_	_
+7	배우는	배우+는	VERB	VV+ETM	_	13	advcl	_	_
+8	데	데	ADV	NNB	_	7	mark	_	_
+9	많은	많+은	ADJ	VA+ETM	_	10	amod	_	_
+10	한국사람들은	한국+사람+들+은	NOUN	NNG+NNG+XSN+JX	_	13	dislocated	_	_
+11	힘들어하는	힘들+어+하+는	VERB	VA+EC+VX+ETM	_	12	acl	_	_
+12	점이	점+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_25_1_07
+# text = 그러나 나이가 어릴수록 외국어를 익히는 것이 쉽다고 한다.
+1	그러나	그러나	ADV	MAJ	_	8	cc	_	_
+2	나이가	나이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	어릴수록	어리+ㄹ수록	ADJ	VA+EC	_	7	advcl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	익히는	익히+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	쉽다고	쉽+다고	ADJ	VA+EC	_	8	ccomp	_	_
+8	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_25_1_08
+# text = 어린 아이들이 놀면서 재미있게, 그리고 자연스럽게 언어를 배울 수 있기 때문이다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	놀면서	놀+면서	VERB	VV+EC	_	9	advcl	_	_
+4	재미있게	재미+있+게	ADV	NNG+VA+EC	_	9	advmod	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+7	자연스럽게	자연+스럽+게	ADJ	NNG+XSA+EC	_	4	list	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있기	있+기	NOUN	VX+ETN	_	12	nmod	_	_
+12	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_25_1_09
+# text = 반면, 단점도 있다.
+1	반면	반면	NOUN	NNG	_	4	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	단점도	단점+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_25_1_10
+# text = 조기언어교육을 반대하는 사람들은 어린 아이들이 모국어부터 잘 익혀야 한다는 의견을 자주 말한다.
+1	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	2	obj	_	_
+2	반대하는	반대+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	12	nsubj	_	_
+4	어린	어리+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+6	모국어부터	모국어+부터	NOUN	NNG+JX	_	8	obl	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	익혀야	익히+어야	VERB	VV+EC	_	10	acl	_	_
+9	한다는	하	AUX	VX+ETM	_	8	aux	_	_
+10	의견을	의견+을	NOUN	NNG+JKO	_	12	obj	_	_
+11	자주	자주	ADV	MAG	_	12	advmod	_	_
+12	말한다	말+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_25_1_11
+# text = 영어와 같은 외국어를 잘 사용하면서도 한국어 반말과 존댓말 구별을 못한다는 것을 예를 들기도 한다.
+1	영어와	영어+와	ADV	NNG+JKB	_	2	obl	_	_
+2	같은	같+은	ADJ	VA+ETM	_	3	acl	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	사용하면서도	사용+하+면서+도	VERB	NNG+XSV+EC+JX	_	10	advcl	_	_
+6	한국어	한국어	NOUN	NNG	_	7	nmod	_	_
+7	반말과	반말+과	NOUN	NNG+JC	_	9	nmod	_	_
+8	존댓말	존댓말	NOUN	NNG	_	7	conj	_	_
+9	구별을	구별+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	못한다는	못하+ㄴ다는	VERB	VV+ETM	_	11	acl	_	_
+11	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+12	예를	예+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	들기도	들+기+도	VERB	VV+ETN+JX	_	0	root	_	_
+14	한다	하	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_25_1_12
+# text = 나는 조기언어교육에 장점이 단점보다 더 많다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	6	obl	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	단점보다	단점+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	많다고	많+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_25_1_13
+# text = 영어를 초등학교 3학년부터 배우기 시작해서 소통하는 데 큰 문제가 없으나 더 일찍 시작했더라면 쉽고 편하게 말할 수 있지 않았을까라는 생각이 가끔 들기도 하다.
+1	영어를	영어+를	NOUN	NNP+JKO	_	4	obj	_	_
+2	초등학교	초등학교	NOUN	NNG	_	3	nmod	_	_
+3	3학년부터	3+학년+부터	ADV	SN+NNG+JX	_	4	obl	_	_
+4	배우기	배우+기	VERB	VV+ETN	_	5	obj	_	_
+5	시작해서	시작+하+아서	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	소통하는	소통+하+는	VERB	NNG+XSV+ETM	_	10	advcl	_	_
+7	데	데	ADV	NNB	_	6	mark	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	문제가	문제+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	없으나	없+으나	ADJ	VA+EC	_	22	advcl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	일찍	일찍	ADV	MAG	_	13	advmod	_	_
+13	시작했더라면	시작+하+았+더라면	VERB	NNG+XSV+EP+EC	_	18	advcl	_	_
+14	쉽고	쉽+고	ADV	VA+EC	_	16	advmod	_	_
+15	편하게	편하+게	ADJ	VA+EC	_	14	conj	_	_
+16	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있지	있+지	VERB	VX+EC	_	20	acl	_	_
+19	않았을까라는	않	AUX	VX+EP+EF+JKQ	_	18	aux	_	_
+20	생각이	생각+이	NOUN	NNG+JKS	_	22	nsubj	_	_
+21	가끔	가끔	ADV	MAG	_	22	advmod	_	_
+22	들기도	들+기+도	VERB	VV+ETN+JX	_	0	root	_	_
+23	하다	하	AUX	VX+EF	_	22	aux	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_

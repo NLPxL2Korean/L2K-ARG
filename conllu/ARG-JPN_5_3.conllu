@@ -1,0 +1,103 @@
+# sent_id = ARG-JPN_05_3_01
+# text =  나는 경쟁보다 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_05_3_02
+# text =  경쟁도 더 열정적이 될 수 있고 스릴이 있어서 좋지만, 혼자서 모든 것을 해야하는 경우가 많기 때문에 경쟁에 이겨도 성취감이 느껴지지 않을 것 같다.
+1	경쟁도	경쟁+도	NOUN	NNG+JX	_	4	nsubj	_	_
+2	더	더	ADV	MAG	_	4	advmod	_	_
+3	열정적이	열정+적+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	될	되+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	9	advcl	_	_
+7	스릴이	스릴+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VV+EC	_	6	conj	_	_
+9	좋지만	좋+지만	VERB	VA+EC	_	24	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	혼자서	혼자+서	ADV	NNG+JKS	_	14	nsubj	_	_
+12	모든	모든	DET	MM	_	13	det	_	_
+13	것을	것+을	NOUN	NNB+JKO	_	14	obj	_	_
+14	해야하는	하+아야+하+는	VERB	VV+EC+VX+ETM	_	15	acl	_	_
+15	경우가	경우+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	많기	많+기	NOUN	VA+ETN	_	24	obl	_	_
+17	때문에	때문+에	ADP	NNB+JKB	_	16	case	_	_
+18	경쟁에	경쟁+에	ADV	NNG+JKB	_	19	obl	_	_
+19	이겨도	이기+어+도	NOUN	VV+EC+JX	_	21	advcl	_	_
+20	성취감이	성취+감+이	NOUN	NNG+XSN+JKS	_	21	nsubj	_	_
+21	느껴지지	느끼+어지+지	VERB	VV+XSV+EC	_	23	acl	_	_
+22	않을	않+을	AUX	VX+ETM	_	21	aux	_	_
+23	것	것	NOUN	NNB	_	24	nsubj	_	_
+24	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-JPN_05_3_03
+# text =  누군가와 함께 힘을 모아서 목표를 하나하나 달성하고 서로 도와주면서 하면 더 성취감을 느낄 수 있을 것 같고, 만약에 결과가 안 좋아도 다 같이 열심히 한 과정을 더 중요시 해서 아쉬움이 적을 것 같다.
+1	누군가와	누구+이+ㄴ가+와	ADV	NP+VCP+EC+JKB	_	4	obl	_	_
+2	함께	함께	ADV	MAG	_	4	advmod	_	_
+3	힘을	힘+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	모아서	모+아서	VERB	VV+EC	_	7	advcl	_	_
+5	목표를	목표+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	하나하나	하나+하나	VERB	NNG+NNG	_	7	obj	_	_
+7	달성하고	달성+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	서로	서로	ADV	MAG	_	9	advmod	_	_
+9	도와주면서	도와주+면서	VERB	VV+EC	_	7	conj	_	_
+10	하면	하+면	VERB	VV+EC	_	17	advcl	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	성취감을	성취+감+을	NOUN	NNG+XSN+JKO	_	13	obj	_	_
+13	느낄	느끼+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있을	있+을	VERB	VX+ETM	_	16	acl	_	_
+16	것	것	NOUN	NNB	_	17	nsubj	_	_
+17	같고	같+고	VERB	VA+EC	_	34	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	SP	_	17	punct	_	_
+19	만약에	만약+에	ADV	NNG+JKB	_	22	obl	_	_
+20	결과가	결과+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+21	안	안	ADV	MAG	_	22	advmod	_	_
+22	좋아도	좋+아도	VERB	VA+EC	_	34	advcl	_	_
+23	다	다	ADV	MAG	_	24	advmod	_	_
+24	같이	같이	ADV	MAG	_	26	advmod	_	_
+25	열심히	열심히	ADV	MAG	_	26	advmod	_	_
+26	한	하+ㄴ	VERB	VV+ETM	_	27	acl	_	_
+27	과정을	과정+을	NOUN	NNG+JKO	_	29	obj	_	_
+28	더	더	ADV	MAG	_	29	advmod	_	_
+29	중요시	중요+시	ADV	NNG+XSN	_	34	advcl	_	_
+30	해서	하+아서	VERB	XSV+EC	_	29	goeswith	_	_
+31	아쉬움이	아쉽+ㅁ+이	NOUN	VA+ETN+JKS	_	32	nsubj	_	_
+32	적을	적+을	VERB	VA+ETM	_	33	acl	_	_
+33	것	것	NOUN	NNB	_	34	nsubj	_	_
+34	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+35	.	.	PUNCT	SF	_	34	punct	_	_
+
+# sent_id = ARG-JPN_05_3_04
+# text =  그리고 경쟁은 누군가를 떨어뜨려야 하기 때문에 결과적으로 이겼다고 해도 마음 어딘가에 걸리는 게 있을 것이다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	누군가를	누구+이+ㄴ가+를	PRON	NP+VCP+EC+JKO	_	4	obj	_	_
+4	떨어뜨려야	떨어뜨리+어야	VERB	VV+EC	_	15	obl	_	_
+5	하기	하+기	AUX	VX+ETN	_	4	aux	_	_
+6	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+7	결과적으로	결과+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+8	이겼다고	이기+었+다고	VERB	VV+EP+EC	_	9	ccomp	_	_
+9	해도	하+아도	VERB	VV+EC	_	15	advcl	_	_
+10	마음	마음	NOUN	NNG	_	11	nmod	_	_
+11	어딘가에	어디+이+ㄴ가+에	ADP	NP+VCP+EC+JKB	_	12	obl	_	_
+12	걸리는	걸리+는	VERB	VV+ETM	_	13	acl	_	_
+13	게	것+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	있을	있+을	VERB	VV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_05_3_05
+# text =  그래서 나는 경쟁보다 협동을 더 선호한다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

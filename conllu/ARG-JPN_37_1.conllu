@@ -1,0 +1,163 @@
+# sent_id = ARG-JPN_37_1_01
+# text =  조기언어교육의 장점은 인간은 어릴수록 언어 습득 능력이 높다고 생각합니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	9	obl	_	_
+3	인간은	인간+은	NOUN	NNG+JX	_	4	nsubj	_	_
+4	어릴수록	어리+ㄹ수록	VERB	VA+EC	_	8	advcl	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	습득	습득+하+ㄹ	NOUN	NNG	_	7	nmod	_	_
+7	능력이	능력+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	높다고	높+다고	VERB	VA+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_37_1_02
+# text =  그 이유 저와 제 어머니을 예시로 들고 설명하겠습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유	이유	NOUN	NNG	_	8	obl	_	_
+3	저와	저+와	ADV	NP+JKB	_	7	obl	_	_
+4	제	저+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	어머니을	어머니+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	예시로	예시+로	ADV	NNG+JKB	_	7	obl	_	_
+7	들고	들+고	VERB	VV+EC	_	8	advcl	_	_
+8	설명하겠습니다	설명+하+겠+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_37_1_03
+# text =  저는 6살 때 한국어 공부를 시작했습니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	6살	6+살	NOUN	SN+NNB	_	6	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	한국어	한국어	NOUN	NNG	_	5	nmod	_	_
+5	공부를	공부+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	시작했습니다	시작+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_37_1_04
+# text =  초등학교에서 6년간 한국어를 공부하면서 일본에 살아있었지만 자연스럽게 일상대화정도는 할 수 있게 되었습니다.
+1	초등학교에서	초등학교+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	6년간	6+년+간	NOUN	SN+NNB+XSN	_	4	obl	_	_
+3	한국어를	한국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하면서	공부+하+면서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+5	일본에	일본+에	ADV	NNP+JKB	_	6	obl	_	_
+6	살아있었지만	살+아+있+었+지만	VERB	VV+EC+VX+EP+EC	_	11	advcl	_	_
+7	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	9	advmod	_	_
+8	일상대화정도는	일상+대화+정도+는	NOUN	NNG+NNG+NNG+JX	_	9	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있게	있+게	VERB	VX+EC	_	0	root	_	_
+12	되었습니다	되+었+습니다	VERB	VX+EP+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_37_1_05
+# text =  제 어머니는 한국어를 10년정도 배우려고 노력하고 계시고 매일매일 한국드라마를 보시지만 아직까지 듣기는 가능하나 길게 말하는 것은 어려워합니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	어머니는	어머니+는	NOUN	NNG+JX	_	17	nsubj	_	_
+3	한국어를	한국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	10년정도	10+년+정도	NOUN	SN+NNB+NNB	_	5	obl	_	_
+5	배우려고	배우+려고	VERB	VV+EC	_	6	advcl	_	_
+6	노력하고	노력+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+7	계시고	계시+고	VERB	VX+EC	_	6	aux	_	_
+8	매일매일	매일+매일	ADV	MAG+MAG	_	10	advmod	_	_
+9	한국드라마를	한국+드라마+를	NOUN	NNP+NNG+JKO	_	10	obj	_	_
+10	보시지만	보+시+지만	VERB	VV+EP+EC	_	17	advcl	_	_
+11	아직까지	아직+까지	ADV	MAG+JX	_	17	advmod	_	_
+12	듣기는	듣+기+는	NOUN	VV+ETN+JX	_	13	nsubj	_	_
+13	가능하나	가능+하+나	ADV	NNG+XSA+EC	_	17	advcl	_	_
+14	길게	길+게	ADV	VA+EC	_	15	advmod	_	_
+15	말하는	말+하+는	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	것은	것+은	NOUN	NNB+JX	_	17	obj	_	_
+17	어려워합니다	어렵+어+하+ㅂ니다	ADJ	VA+EC+VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_37_1_06
+# text =  이처럼 나이가 들면 들수록 습득 능력이 낮아지는 것을 알 수 있습니다.
+1	이처럼	이+처럼	ADV	NP+JKB	_	11	obl	_	_
+2	나이가	나이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	들면	들+면	VERB	VV+EC	_	4	advcl	_	_
+4	들수록	들+ㄹ수록	VERB	VA+EC	_	7	advcl	_	_
+5	습득	습득+하+ㄹ	NOUN	NNG	_	6	nmod	_	_
+6	능력이	능력+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	낮아지는	낮+아지+는	VERB	VA+XSV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	9	obj	_	_
+9	알	알+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_37_1_07
+# text =  조기언어교육의 단점은 너무 어릴 때부터 외국어를 배우면 모국어 능력이 떨어질 수 있다는 점이 있습니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	14	obl	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	어릴	어리+ㄹ	VERB	VA+ETM	_	7	advcl	_	_
+5	때부터	때+부터	ADV	NNG+JX	_	4	mark	_	_
+6	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+8	모국어	모국어	NOUN	NNG	_	9	nmod	_	_
+9	능력이	능력+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	떨어질	떨어지+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다는	있+다는	VERB	VX+ETM	_	13	acl	_	_
+13	점이	점+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_37_1_08
+# text =  다시 한번 저의 경우를 예시로 들겠습니다.
+1	다시	다시	ADV	MAG	_	6	advmod	_	_
+2	한번	한+번	ADV	MM+NNB	_	6	advmod	_	_
+3	저의	저+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	경우를	경우+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	예시로	예시+로	ADV	NNG+JKB	_	6	obl	_	_
+6	들겠습니다	들+겠+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_37_1_09
+# text =  저는 초등학교에서 한국어를 배웠습니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	초등학교에서	초등학교+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	한국어를	한국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배웠습니다	배우+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_37_1_10
+# text =  그래서 한국어는 어느정도 할 수 있지만 한자는 잘 못 씁니다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	한국어는	한국어+는	NOUN	NNG+JX	_	4	obj	_	_
+3	어느정도	어느+정도	ADV	MM+NNB	_	4	obl	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있지만	있+지만	VERB	VX+EC	_	10	advcl	_	_
+7	한자는	한자+는	NOUN	NNG+JX	_	10	obj	_	_
+8	잘	잘	ADV	MAG	_	10	advmod	_	_
+9	못	못	ADV	MAG	_	10	advmod	_	_
+10	씁니다	쓰+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_37_1_11
+# text =  원인은 다른 일반 학교를 다녔던 친구가 일본어로 한자나 문학을 공부하는 시간을 쪼개서 한국어를 학교에서는 가르쳐야하기 때문에 일본어 교육이 부족하게 되었다고 할 수 있습니다.
+1	원인은	원인+은	NOUN	NNG+JX	_	23	dislocated	_	_
+2	다른	다른	ADJ	MM	_	4	amod	_	_
+3	일반	일반	NOUN	NNG	_	4	nmod	_	_
+4	학교를	학교+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	다녔던	다니+었+던	VERB	VV+EP+ETM	_	6	acl	_	_
+6	친구가	친구+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+7	일본어로	일본어+로	ADV	NNG+JKB	_	10	obl	_	_
+8	한자나	한자+나	NOUN	NNG+JC	_	10	obj	_	_
+9	문학을	문학+을	NOUN	NNG+JKO	_	8	conj	_	_
+10	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	시간을	시간+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	쪼개서	쪼+개서	VERB	VV+EC	_	15	advcl	_	_
+13	한국어를	한국어+를	NOUN	NNG+JKO	_	15	obj	_	_
+14	학교에서는	학교+에서+는	ADV	NNG+JKB+JX	_	15	obl	_	_
+15	가르쳐야하기	가르치+어야+하+기	NOUN	VV+EC+VX+ETN	_	19	obl	_	_
+16	때문에	때문+에	ADP	NNB+JKB	_	15	case	_	_
+17	일본어	일본어	NOUN	NNG	_	18	nmod	_	_
+18	교육이	교육+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	부족하게	부족+하+게	ADV	NNG+XSA+EC	_	21	ccomp	_	_
+20	되었다고	되+었+다고	VERB	VX+EP+EC	_	19	advcl	_	_
+21	할	하+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_

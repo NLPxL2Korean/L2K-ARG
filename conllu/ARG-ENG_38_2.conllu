@@ -1,0 +1,86 @@
+# sent_id = ARG-ENG_38_2_01
+# text = 제 생각이 역사는 중요해요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각이	생각+이	NOUN	NNG+JKS	_	4	obl	_	_
+3	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+4	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_2_02
+# text = 사람들이 사람의 마음을 이해하고 싶어요.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	사람의	사람+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	마음을	마음+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+5	싶어요	싶	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_2_03
+# text = 역사를 공부하기로 마음을 이해하기를 시작할 수 있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	공부하기로	공부+하+기+로	VERB	NNG+XSV+ETN+JKB	_	5	obl	_	_
+3	마음을	마음+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	이해하기를	이해+하+기+를	VERB	NNG+XSV+ETN+JKO	_	5	obj	_	_
+5	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_38_2_04
+# text = 그리고 역사를 공부하기로 우리나라랑 우리 문화를 배울수 있어요.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	공부하기로	공부+하+기+로	VERB	NNG+XSV+ETN+JKB	_	7	obl	_	_
+4	우리나라랑	우리+나라+랑	NOUN	NP+NNG+JC	_	7	obj	_	_
+5	우리	우리	PRON	NP	_	6	nmod	_	_
+6	문화를	문화+를	NOUN	NNG+JKO	_	4	conj	_	_
+7	배울수	배우+ㄹ+수	NOUN	VV+ETM+NNB	_	8	nsubj	_	_
+8	있어요	있+어요	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_38_2_05
+# text = 오늘의 상황이 헷갈려는데 역사 이해 할수 있으면 더 잘 볼수 있어요.
+1	오늘의	오늘+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	상황이	상황+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	헷갈려는데	헷갈리+어+는데	VERB	VV+EC+EC	_	7	advcl	_	_
+4	역사	역사	NOUN	NNG	_	6	obj	_	_
+5	이해	이해	NOUN	NNG	_	6	obj	_	_
+6	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VX+EC	_	11	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	볼수	보+ㄹ+수	NOUN	VV+ETM+NNB	_	11	nsubj	_	_
+11	있어요	있+어요	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_38_2_06
+# text = 미래도 잘 생각할 수 있어요.
+1	미래도	미래+도	NOUN	NNG+JX	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_38_2_07
+# text = 2050년에 대해서 알고 싶으면 우리가 1950년도 이해해야 돼요.
+1	2050년에	2050+년+에	ADV	SN+NNB+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	3	advcl	_	_
+3	알고	알+고	VERB	VV+EC	_	7	advcl	_	_
+4	싶으면	싶	AUX	VX+EC	_	3	aux	_	_
+5	우리가	우리+가	PRON	NP+JKS	_	7	nsubj	_	_
+6	1950년도	1950+년+도	NOUN	SN+NNB+JX	_	7	obj	_	_
+7	이해해야	이해+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+8	돼요	되+어요	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_38_2_08
+# text = 그러면 역사가 진짜 중요하고 우리 배워야 돼요.
+1	그러면	그러면	ADV	MAJ	_	4	cc	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	진짜	진짜	ADV	MAG	_	4	advmod	_	_
+4	중요하고	중요+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+5	우리	우리	PRON	NP	_	6	nsubj	_	_
+6	배워야	배우+어야	VERB	VV+EC	_	4	conj	_	_
+7	돼요	되+어요	VERB	VX+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

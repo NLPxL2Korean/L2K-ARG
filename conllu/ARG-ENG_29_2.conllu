@@ -1,0 +1,186 @@
+# sent_id = ARG-ENG_29_2_01
+# text = 역사를 배우지 않으면 계속 반복대로 할 거라고 하는 유명한 말이 있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우지	배우+지	VERB	VV+EC	_	6	advcl	_	_
+3	않으면	않	AUX	VX+EC	_	2	aux	_	_
+4	계속	계속	ADV	MAG	_	6	advmod	_	_
+5	반복대로	반복+대로	NOUN	NNG+JX	_	6	obl	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	거라고	것+이+라고	ADJ	NNB+VCP+EC	_	8	ccomp	_	_
+8	하는	하+는	VERB	VV+ETM	_	10	acl	_	_
+9	유명한	유명+하+ㄴ	ADJ	XR+XSA+ETM	_	11	amod	_	_
+10	말이	말+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_29_2_02
+# text = 그 말은, 과거에 아주 나쁜 일이 생겼고, 다시 하지마라는 의미가 들어요.
+1	그	그	DET	MM	_	2	det	_	_
+2	말은	말+은	NOUN	NNG+JX	_	13	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	과거에	과거+에	ADV	NNG+JKB	_	8	obl	_	_
+5	아주	아주	ADV	MAG	_	6	advmod	_	_
+6	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	일이	일+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	생겼고	생기+었+고	VERB	VV+EP+EC	_	11	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	다시	다시	ADV	MAG	_	11	advmod	_	_
+11	하지마라는	하+지+말+아+라는	VERB	VV+EC+VX+EF+JKQ	_	12	acl	_	_
+12	의미가	의미+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	들어요	들+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_29_2_03
+# text = 특히 아주 큰 위기나 사건은 역사에 많았고, 그 사건에 대해서 공부하면 미래에 비슷한 상황이 생기면 몸출수 있는 것 같아요.
+1	특히	특히	ADV	MAG	_	7	advmod	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	위기나	위기+나	NOUN	NNG+JC	_	7	nsubj	_	_
+5	사건은	사건+은	NOUN	NNG+JX	_	4	conj	_	_
+6	역사에	역사+에	ADV	NNG+JKB	_	7	obl	_	_
+7	많았고	많+았+고	ADJ	VA+EP+EC	_	20	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	사건에	사건+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대해서	대하+아서	VERB	VV+EC	_	12	advcl	_	_
+12	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	16	advcl	_	_
+13	미래에	미래+에	ADV	NNG+JKB	_	14	obl	_	_
+14	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	15	acl	_	_
+15	상황이	상황+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	생기면	생기+면	VERB	VV+EC	_	17	advcl	_	_
+17	몸출수	몸추+ㄹ+수	NOUN	NV+ETM+NNB	Typo=Yes	18	nsubj	_	_
+18	있는	있+는	VERB	VX+ETM	_	19	acl	_	_
+19	것	것	NOUN	NNB	_	20	nsubj	_	_
+20	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_29_2_04
+# text = 게인적으로 그 말에 동의하는데, 그렇게 현실적인 희망이면 의심이 좀 있어요.
+1	게인적으로	게인+적+으로	ADV	NF+XSN+JKB	Typo=Yes	4	obl	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	말에	말+에	ADV	NNG+JKB	_	4	obl	_	_
+4	동의하는데	동의+하+는데	VERB	NNG+XSV+EC	_	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	그렇게	그렇+게	ADV	VA+EC	_	7	advmod	_	_
+7	현실적인	현실+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	희망이면	희망+이+면	ADJ	NNG+VCP+EC	_	11	advcl	_	_
+9	의심이	의심+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	좀	좀	ADV	MAG	_	11	advmod	_	_
+11	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_29_2_05
+# text = 역사를 공부 열심히 해도 결국에 뭐를 배우는지 궁금해요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+2	공부	공부	NOUN	NNG	_	4	obj	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	해도	하+아도	VERB	VV+EC	_	7	advcl	_	_
+5	결국에	결국+에	ADV	NNG+JKB	_	7	obl	_	_
+6	뭐를	뭐+를	PRON	NP+JKO	_	7	obj	_	_
+7	배우는지	배우+는지	VERB	VV+EC	_	8	ccomp	_	_
+8	궁금해요	궁금+하+아요	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_29_2_06
+# text = 사실로 위기를 몸추는 방법을 알 수 있어요?
+1	사실로	사실+로	ADV	NNG+JKB	_	3	obl	_	_
+2	위기를	위기+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	몸추는	몸추+는	VERB	NV+ETM	Typo=Yes	4	acl	_	_
+4	방법을	방법+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	알	알+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_29_2_07
+# text = 사람들은 그런 마음을 사실로 가지고 있어요?
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	마음을	마음+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	사실로	사실+로	ADV	NNG+JKB	_	5	obl	_	_
+5	가지고	가지+고	VERB	VV+EC	_	0	root	_	_
+6	있어요	있	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_29_2_08
+# text = 저도 잘 모르겠어요.
+1	저도	저+도	PRON	NP+JX	_	3	nsubj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	모르겠어요	모르+겠+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_29_2_09
+# text = 제 말은 조금 부정적인데, 부정적인 결과 아니예요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	말은	말+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	조금	조금	ADV	MAG	_	4	advmod	_	_
+4	부정적인데	부정+적+이+ㄴ데	ADJ	NNG+XSN+VCP+ETM	_	7	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	결과	결과	NOUN	NNG	_	8	nsubj	_	_
+8	아니예요	아니+예요	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_29_2_10
+# text = 의심이 좀 있기는 있는데, 제 말은 역사에 대해서 배우지마라고 아니예요.
+1	의심이	의심+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	좀	좀	ADV	MAG	_	3	advmod	_	_
+3	있기는	있+기+는	VERB	VV+ETN+JX	_	11	advcl	_	_
+4	있는데	있	AUX	VX+EC	_	3	aux	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	제	저+의	PRON	NP+JKG	_	7	nmod:poss	_	_
+7	말은	말+은	NOUN	NNG+JX	_	11	nsubj	_	_
+8	역사에	역사+에	ADV	NNG+JKB	_	9	obl	_	_
+9	대해서	대하+아서	VERB	VV+EC	_	10	advcl	_	_
+10	배우지마라고	배우+지+말+아+라고	VERB	VV+EC+VX+EF+JKQ	_	11	ccomp	_	_
+11	아니예요	아니+예요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_29_2_11
+# text = 제 생각에는 역사를 배우는 것은 매우 중요한데, 더 솔직하게 배워야 돼요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	11	obl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	7	nsubj	_	_
+6	매우	매우	ADV	MAG	_	7	advmod	_	_
+7	중요한데	중요+하+ㄴ데	ADJ	NNG+XSA+EC	_	11	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	솔직하게	솔직+하+게	ADV	XR+XSA+EC	_	11	advmod	_	_
+11	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+12	돼요	되+어요	VERB	VX+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_29_2_12
+# text = 그냥 역사를 알기보다는, 역사로 어떤 것을 배우는 목표로 공부하면 조금 더 효과적인 방법인 것 같아요.
+1	그냥	그냥	ADV	MAG	_	3	advmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	알기보다는	알+기+보다+는	VERB	VV+ETN+JKB+JX	_	10	obl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	역사로	역사+로	ADV	NNG+JKB	_	8	obl	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	목표로	목표+로	ADV	NNG+JKB	_	10	obl	_	_
+10	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+11	조금	조금	ADV	MAG	_	12	advmod	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	효과적인	효과+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	방법인	방법+이+ㄴ	ADJ	NNG+VCP+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_29_2_13
+# text = 그래서 역사 수업이나 강연들은 더 솔직하게 역사를 가르치면 좋겠어요.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	수업이나	수업+이나	NOUN	NNG+JC	_	8	obl	_	_
+4	강연들은	강연+들+은	NOUN	NNG+XSN+JX	_	3	conj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	솔직하게	솔직+하+게	ADV	XR+XSA+EC	_	8	advmod	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	가르치면	가르치+면	VERB	VV+EC	_	9	advcl	_	_
+9	좋겠어요	좋+겠+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

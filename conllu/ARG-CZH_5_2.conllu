@@ -1,0 +1,219 @@
+# sent_id = ARG-CZH_05_2_01
+# text = 역사는 우리한테 중요한것인가요?
+1	역사는	역사+는	NOUN	NNG+JX	_	3	nsubj	_	_
+2	우리한테	우리+한테	ADV	NNG+JKB	_	3	obl	_	_
+3	중요한것인가요	중요+하+ㄴ+것+이+ㄴ가요	VERB	NNG+XSA+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_05_2_02
+# text = 학교에서 우리 나라나 세계의 역사에 대해 일주일에 몇번 배우는 이유기 도대체 무엇인가요?
+1	학교에서	학교+에서	ADV	NNG+JKB	_	9	obl	_	_
+2	우리	우리	PRON	NP	_	3	nmod	_	_
+3	나라나	나라+나	NOUN	NNG+JC	_	5	nmod:poss	_	_
+4	세계의	세계+의	NOUN	NNG+JKG	_	3	conj	_	_
+5	역사에	역사+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대해	대하+아	VERB	VV+EC	_	9	advcl	_	_
+7	일주일에	일+주일+에	ADV	MM+NNB+JKB	_	9	obl	_	_
+8	몇번	몇+번	NOUN	MM+NNB	_	9	obj	_	_
+9	배우는	배우+는	VERB	VV+ETM	_	10	acl	_	_
+10	이유기	이유+기	NOUN	NNG+NA	Typo=Yes	12	nsubj	_	_
+11	도대체	도대체	ADV	MAG	_	12	advmod	_	_
+12	무엇인가요	무엇+이+ㄴ가요	VERB	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_05_2_03
+# text = 학교 졸업하고 나서 그 동안 배운 것들 기억에 오래 남아 있지 않을 것이 좀 사실이긴 하지 않습니까?
+1	학교	학교	NOUN	NNG	_	2	obj	_	_
+2	졸업하고	졸업+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+3	나서	나+아서	VERB	VX+EC	_	2	advcl	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	동안	동안	NOUN	NNG	_	6	obl	_	_
+6	배운	배우+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	것들	것+들	NOUN	NNB+XSN	_	10	nsubj	_	_
+8	기억에	기억+에	ADV	NNG+JKB	_	10	obl	_	_
+9	오래	오래	ADV	MAG	_	10	advmod	_	_
+10	남아	남+아	VERB	VV+EC	_	13	acl	_	_
+11	있지	있	AUX	VX+EC	_	10	aux	_	_
+12	않을	않	AUX	VX+ETM	_	10	aux	_	_
+13	것이	것+이	NOUN	NNB+JKS	_	15	nsubj	_	_
+14	좀	좀	ADV	MAG	_	15	advmod	_	_
+15	사실이긴	사실+이+기+ㄴ	ADJ	NNG+VCP+ETN+JX	_	0	root	_	_
+16	하지	하	AUX	VX+EC	_	15	aux	_	_
+17	않습니까	않	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+18	?	?	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_05_2_04
+# text = 물론 기억력이 뛰어난 분들은 대부분을 잘 기억나시겠지만 그 나머지는요?
+1	물론	물론	ADV	MAG	_	7	advmod	_	_
+2	기억력이	기억력+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	뛰어난	뛰어나+ㄴ	ADJ	VA+ETM	_	4	acl	_	_
+4	분들은	분+들+은	NOUN	NNB+XSN+JX	_	7	nsubj	_	_
+5	대부분을	대부분+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	기억나시겠지만	기억+나+시+겠+지만	VERB	NNG+XSV+EP+EP+EC	_	9	advcl	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	나머지는요	나머지+는+요	NOUN	NNG+JX+JX	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_05_2_05
+# text = 책을 읽어나 대학교에서 강의를 들을 때 자주 들을 수 있는 문장은 이 문장입니다.
+1	책을	책+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	읽어나	읽+어나	VERB	VV+NA	Typo=Yes	13	advcl	_	_
+3	대학교에서	대학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	강의를	강의+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	들을	듣+을	VERB	VV+ETM	_	2	conj	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	자주	자주	ADV	MAG	_	8	advmod	_	_
+8	들을	듣+을	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	문장은	문장+은	NOUN	NNG+JX	_	13	nsubj	_	_
+12	이	이	DET	MM	_	13	det	_	_
+13	문장입니다	문장+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_05_2_06
+# text = 역사를 잘 알아야 미래에서 같은 실수하기를 피할 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	알아야	알+아야	VERB	VV+EC	_	9	advcl	_	_
+4	미래에서	미래+에서	ADV	NNG+JKB	_	7	obl	_	_
+5	같은	같+은	ADJ	VA+ETM	_	6	amod	_	_
+6	실수하기를	실수+하+기+를	VERB	NNG+XSV+ETN+JKO	_	7	obj	_	_
+7	피할	피하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_05_2_07
+# text = 하지만 이 말은 과연 옳은 말인가요?
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	말은	말+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	과연	과연	ADV	MAG	_	5	advmod	_	_
+5	옳은	옳+은	ADJ	VA+ETM	_	6	amod	_	_
+6	말인가요	말+이+ㄴ가요	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_05_2_08
+# text = 제가 생각하기에는, 그리고 뉴수를 보면, 사람들과 그의 성격이 변하지 않고 환경만 변하는 것이다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	생각하기에는	생각+하+기+에+는	ADV	NNG+XSV+ETN+JKB+JX	_	6	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+5	뉴수를	뉴수+를	NOUN	NF+JKO	Typo=Yes	6	obj	_	_
+6	보면	보+면	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	11	nsubj	_	_
+9	그의	그+의	PRON	NP+JKG	_	10	nmod:poss	_	_
+10	성격이	성격+이	NOUN	NNG+JKS	_	8	conj	_	_
+11	변하지	변하+지	VERB	VV+EC	_	14	advcl	_	_
+12	않고	않	AUX	VX+EC	_	11	aux	_	_
+13	환경만	환경+만	NOUN	NNG+JX	_	14	nsubj	_	_
+14	변하는	변하+는	VERB	VV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_05_2_09
+# text = 세상에서 예전과 비슷하게 욕심이 많고 부자인 사람보다 가는하고 인생이 힘든 사람이 더 많아요.
+1	세상에서	세상+에서	ADV	NNG+JKB	_	13	obl	_	_
+2	예전과	예전+과	ADV	NNG+JKB	_	3	obl	_	_
+3	비슷하게	비슷+하+게	ADJ	XR+XSA+EC	_	5	advcl	_	_
+4	욕심이	욕심+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많고	많+고	ADJ	VA+EC	_	7	acl	_	_
+6	부자인	부자+이+ㄴ	ADJ	NNG+VCP+ETM	_	5	conj	_	_
+7	사람보다	사람+보다	ADV	NNG+JKB	_	13	obl	_	_
+8	가는하고	가는+하+고	ADJ	NF+XSA+EC	Typo=Yes	11	acl	_	_
+9	인생이	인생+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	힘든	힘들+ㄴ	ADJ	VA+ETM	_	11	acl	_	_
+11	사람이	사람+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	많아요	많+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_05_2_10
+# text = 다른 점 더 많습니다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	점	점	NOUN	NNG	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_05_2_11
+# text = 제가 역사를 배울 필요가 없다고 말하지는 않겠지만 설칙히 역사를 배우는 것 통해 세상이 좋은 방향으로만 바꾸는 것도 아닙니다.
+1	제가	제+가	PRON	NP+JKS	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	필요가	필요+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다고	없+다고	ADJ	VA+EC	_	6	ccomp	_	_
+6	말하지는	말+하+지+는	VERB	NNG+XSV+EC+JX	_	18	advcl	_	_
+7	않겠지만	않	AUX	VX+EP+EC	_	6	aux	_	_
+8	설칙히	설칙히	ADV	NA	Typo=Yes	18	advmod	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+11	것	것	NOUN	NNB	_	12	obj	_	_
+12	통해	통하+아	VERB	VV+EC	_	16	advcl	_	_
+13	세상이	세상+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+14	좋은	좋+은	ADJ	VA+ETM	_	15	amod	_	_
+15	방향으로만	방향+으로+만	ADV	NNG+JKB+JX	_	16	obl	_	_
+16	바꾸는	바꾸+는	VERB	VV+ETM	_	17	acl	_	_
+17	것도	것+도	NOUN	NNB+JX	_	18	nsubj	_	_
+18	아닙니다	아니+ㅂ니다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_05_2_12
+# text = 그런데 이 생각이 아직 바꿀 수도 있죠.
+1	그런데	그런데	ADV	MAJ	_	7	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	생각이	생각+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	아직	아직	ADV	MAG	_	5	advmod	_	_
+5	바꿀	바꾸+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있죠	있+죠	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_05_2_13
+# text = 제가 아직 나이 그리 많이 안 들어서 경험도 부족한다는 그 말이죠.
+1	제가	제+가	PRON	NP+JKS	_	7	dislocated	_	_
+2	아직	아직	ADV	MAG	_	7	advmod	_	_
+3	나이	나이	NOUN	NNG	_	7	nsubj	_	_
+4	그리	그리	ADV	MAG	_	5	advmod	_	_
+5	많이	많이	ADV	MAG	_	7	advmod	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	들어서	들+어서	VERB	VV+EC	_	9	advcl	_	_
+8	경험도	경험+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	부족한다는	부족+하+ㄴ다는	ADJ	NNG+XSA+ETM	_	11	acl	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	말이죠	말+이+죠	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_05_2_14
+# text = 아무뜬 이 주제는 참 어려운 주제라는 것을 인정할 수 밖에 없습니다.
+1	아무뜬	아무뜬	ADV	NA	Typo=Yes	11	advmod	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	주제는	주제+는	NOUN	NNG+JX	_	6	nsubj	_	_
+4	참	참	ADV	MAG	_	5	advmod	_	_
+5	어려운	어렵+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	주제라는	주제+이+라는	ADJ	NNG+VCP+ETM	_	7	acl	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	인정할	인정+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	11	obl	_	_
+10	밖에	밖에	ADP	JX	_	9	case	_	_
+11	없습니다	없+습니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_05_2_15
+# text = (게다가 에세이 쓰기보다 토론하기 위한 주제인 것 같습니다.
+1	(게다가	(+게다가	ADV	SS+MAG	_	8	advmod	_	_
+2	에세이	에세이	NOUN	NNG	_	3	obj	_	_
+3	쓰기보다	쓰+기+보다	VERB	VV+ETN+JKB	_	6	obl	_	_
+4	토론하기	토론+하+기	VERB	NNG+XSV+ETN	_	5	obj	_	_
+5	위한	위하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	주제인	주제+이+ㄴ	ADJ	NNG+VCP+ETM	_	7	acl	_	_
+7	것	것	NOUN	NNB	_	8	nsubj	_	_
+8	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_05_2_16
+# text = )
+1	)	)	PUNCT	SS	_	0	root	_	_

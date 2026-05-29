@@ -1,0 +1,119 @@
+# sent_id = ARG-ENG_35_3_01
+# text = 협동과 경쟁 중에서 협동 더 선호해요.
+1	협동과	협동+과	NOUN	NNG+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중에서	중+에서	ADV	NNB+JKB	_	2	case	_	_
+4	협동	협동	NOUN	NNG	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_35_3_02
+# text = 사람마다 아는게랑 간능성이랑 경험이 달라요.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	5	obl	_	_
+2	아는게랑	알+는+게+랑	NOUN	VV+ETM+NF+JC	Typo=Yes	5	nsubj	_	_
+3	간능성이랑	간능성+이랑	NOUN	NF+JC	Typo=Yes	2	conj	_	_
+4	경험이	경험+이	NOUN	NNG+JKS	_	2	conj	_	_
+5	달라요	다르+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_35_3_03
+# text = 제가 혹시 모든걸 다 하면 저의 실력이랑 저의 경험만 사용할수있어요.
+1	제가	제+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	혹시	혹시	ADV	MAG	_	5	advmod	_	_
+3	모든걸	모든+것+을	NOUN	MM+NNB+JKO	_	5	obj	_	_
+4	다	다	ADV	MAG	_	5	advmod	_	_
+5	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+6	저의	저+의	PRON	NP+JKG	_	7	nmod:poss	_	_
+7	실력이랑	실력+이랑	NOUN	NNG+JC	_	10	obj	_	_
+8	저의	저+의	PRON	NP+JKG	_	9	nmod:poss	_	_
+9	경험만	경험+만	NOUN	NNG+JX	_	7	conj	_	_
+10	사용할수있어요	사용+하+ㄹ+수+있+어요	VERB	NNG+XSV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_35_3_04
+# text = 아무리 다른 사람과 함께 일 하면 어려을수있어도 (괜찮은 팀 만들면) 결과 더 잘울수있다고 생각해요.
+1	아무리	아무리	ADV	MAG	_	7	advmod	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람과	사람+과	ADV	NNG+JKB	_	6	obl	_	_
+4	함께	함께	ADV	MAG	_	6	advmod	_	_
+5	일	일	NOUN	NNG	_	6	obj	_	_
+6	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+7	어려을수있어도	어려+을+수+있+어도	NOUN	NV+ETM+NNB+VX+EC	Typo=Yes	13	advcl	_	_
+8	(괜찮은	(+괜찮+은	NOUN	SS+VA+ETM	_	9	amod	_	_
+9	팀	팀	NOUN	NNG	_	10	obj	_	_
+10	만들면)	만들+면+)	VERB	VV+EC+SS	_	13	advcl	_	_
+11	결과	결과	NOUN	NNG	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	잘울수있다고	잘+울+수+있+다고	VERB	MAG+NA+NNB+VX+EC	Typo=Yes	14	ccomp	_	_
+14	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_35_3_05
+# text = 생간 잘 할수있는 사람에게 생각 잛은 순간 아니면 경험 없는 수간도 있을수있어요.
+1	생간	생간	NOUN	NF	Typo=Yes	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	할수있는	하+ㄹ+수+있+는	VERB	VV+ETM+NNB+VX+ETM	_	4	acl	_	_
+4	사람에게	사람+에게	ADV	NNG+JKB	_	12	obl	_	_
+5	생각	생각	NOUN	NNG	_	6	nsubj	_	_
+6	잛은	잛+은	VERB	NV+ETM	Typo=Yes	7	amod	_	_
+7	순간	순간	ADV	MAG	_	8	nsubj	_	_
+8	아니면	아니+면	ADJ	VCN+EC	_	12	advcl	_	_
+9	경험	경험	NOUN	NNG	_	10	nsubj	_	_
+10	없는	없+는	ADJ	VA+ETM	_	11	acl	_	_
+11	수간도	수간+도	NOUN	NF+JX	Typo=Yes	12	nsubj	_	_
+12	있을수있어요	있+을+수+있+어요	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_35_3_06
+# text = 달은 살암 모의면 약한 점 더 없을수있고 결과 더 강할수있어요 (다 혼자 하면보다).
+1	달은	달은	ADV	NA	Typo=Yes	3	advmod	_	_
+2	살암	살암	NOUN	NF	Typo=Yes	3	nsubj	_	_
+3	모의면	모의+면	VERB	NV+EC	Typo=Yes	10	advcl	_	_
+4	약한	약하+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	점	점	NOUN	NNB	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	없을수있고	없+을+수+있+고	VERB	VA+ETM+NNB+VX+EC	_	10	advcl	_	_
+8	결과	결과	NOUN	NNG	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	강할수있어요	강하+ㄹ+수+있+어요	VERB	VA+ETM+NNB+VX+EF	_	0	root	_	_
+11	(다	(+다	ADV	SS+MAG	_	13	advmod	_	_
+12	혼자	혼자	ADV	NNG	_	13	advmod	_	_
+13	하면보다)	하+면+보다+)	VERB	VV+EC+JKB+SS	_	10	parataxis	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_35_3_07
+# text = 경쟁 보면 좋은점도 많지만, 모든걸 경쟁으로 하면 힘들수있고 피곤할수 있어요.
+1	경쟁	경쟁	NOUN	NNG	_	2	obj	_	_
+2	보면	보+면	VERB	VV+EC	_	4	advcl	_	_
+3	좋은점도	좋+은+점+도	NOUN	VA+ETM+NNG+JX	_	4	nsubj	_	_
+4	많지만	많+지만	ADJ	VA+EC	_	9	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	모든걸	모든+것+을	NOUN	MM+NNB+JKO	_	8	obj	_	_
+7	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	8	obl	_	_
+8	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+9	힘들수있고	힘들+ㄹ+수+있+고	VERB	VA+ETM+NNB+VX+EC	_	0	root	_	_
+10	피곤할수	피곤+하+ㄹ+수	VERB	NNG+XSA+ETM+NNB	_	11	nsubj	_	_
+11	있어요	있	AUX	VX+EF	_	9	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_35_3_08
+# text = 개속 비교하니까.
+1	개속	개속	ADV	NA	Typo=Yes	2	advmod	_	_
+2	비교하니까	비교+하+니까	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_35_3_09
+# text = 비교하는걸 보다 다른 사람의 좋은 점 사용할수 있으면 살기가 더 좋아요.
+1	비교하는걸	비교+하+는+것+을	VERB	NNG+XSV+ETM+NNB+JKO	_	11	obl	_	_
+2	보다	보다	ADP	JKB	_	1	case	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	점	점	NOUN	NNB	_	7	obj	_	_
+7	사용할수	사용+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	8	nsubj	_	_
+8	있으면	있+으면	VERB	VX+EC	_	11	advcl	_	_
+9	살기가	살+기+가	NOUN	VA+ETN+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

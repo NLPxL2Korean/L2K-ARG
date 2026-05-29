@@ -1,0 +1,72 @@
+# sent_id = ARG-HENG_23_2_01
+# text = 전는 역사를 배워야 한다고 생각합니다.
+1	전는	저+ㄴ+는	NOUN	NP+JX+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_23_2_02
+# text = 역사를 배워야지 독같은 실수를 하지 안아요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야지	배우+어야지	VERB	VV+EC	_	5	advcl	_	_
+3	독같은	독같+은	ADJ	NV+ETM	_	4	amod	_	_
+4	실수를	실수+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	하지	하+지	VERB	VV+EC	_	0	root	_	_
+6	안아요	안+아요	VERB	NV+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_23_2_03
+# text = 사람이 여기까지 었덕애왔는지 아르면 다음은 머를 개발할지 알수있어요.
+1	사람이	사람+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	여기까지	여기+까지	ADV	NP+JX	_	3	obl	_	_
+3	었덕애왔는지	었덕애+오+았+는지	VERB	NA+VV+EP+EC	_	4	ccomp	_	_
+4	아르면	아르+면	VERB	NV+EC	_	8	advcl	_	_
+5	다음은	다음+은	NOUN	NNG+JX	_	8	obl	_	_
+6	머를	머+를	NOUN	NF+JKO	_	7	obj	_	_
+7	개발할지	개발+하+ㄹ지	VERB	NNG+XSV+EC	_	8	ccomp	_	_
+8	알수있어요	알+ㄹ+수+있+어요	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_23_2_04
+# text = 역사 없이는 우리가아는 살믄 없다고 생각해요.
+1	역사	역사	NOUN	NNG	_	2	nsubj	_	_
+2	없이는	없이+는	NOUN	MAG+JX	_	5	advcl	_	_
+3	우리가아는	우리+가+알+는	NOUN	NP+JKS+VV+ETM	_	4	acl	_	_
+4	살믄	살+믄	NOUN	NF+NA	_	5	nsubj	_	_
+5	없다고	없+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_23_2_05
+# text = 역사를 배우면 더 좋은 새상과 살미를 만들수있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	7	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	새상과	새상+과	NOUN	NF+JC	_	7	obj	_	_
+6	살미를	살미+를	NOUN	NF+JKO	_	5	conj	_	_
+7	만들수있어요	만들+ㄹ+수+있+어요	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_23_2_06
+# text = 역사를 안 배우면 우리 새상은 박일수가없음니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	안	안	ADV	MAG	_	3	advmod	_	_
+3	배우면	배우+면	VERB	VV+EC	_	6	advcl	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	새상은	새상+은	NOUN	NF+JX	_	6	nsubj	_	_
+6	박일수가없음니다	박이+ㄹ+수+가+없+음니다	VERB	NV+ETM+NNB+JKS+VX+NA	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_23_2_07
+# text = 다음으러 뭐를해야할지 몰으면 그냥 역사를 보시면 돼요ㅣ.
+1	다음으러	다음+으러	ADV	NNG+NA	_	2	obl	_	_
+2	뭐를해야할지	뭐+를+하+아야+하+ㄹ지	VERB	NP+JKO+VV+EC+VX+EC	_	3	ccomp	_	_
+3	몰으면	몰+으면	VERB	NV+EC	_	6	advcl	_	_
+4	그냥	그냥	ADV	MAG	_	6	advmod	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	보시면	보+시+면	VERB	VV+EP+EC	_	0	root	_	_
+7	돼요ㅣ	되+어요+ㅣ	VERB	VX+EF+NA	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	0	root	_	_

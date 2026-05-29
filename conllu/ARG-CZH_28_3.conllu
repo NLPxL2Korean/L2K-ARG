@@ -1,0 +1,194 @@
+# sent_id = ARG-CZH_28_3_01
+# text = 노력하는 것이 중요하니까 계속 새로운 것을 배워야 하는다고 생각해요.
+1	노력하는	노력+하+는	VERB	NNG+XSV+ETM	_	2	acl	_	_
+2	것이	것+이	NOUN	NNB+JKS	_	3	nsubj	_	_
+3	중요하니까	중요+하+니까	ADJ	NNG+XSA+EC	_	7	advcl	_	_
+4	계속	계속	ADV	MAG	_	7	advmod	_	_
+5	새로운	새롭+ㄴ	ADJ	VA+ETM	_	6	acl	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	9	ccomp	_	_
+8	하는다고	하	AUX	VX+EC	_	7	aux	_	_
+9	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_28_3_02
+# text = 새로운 것을 배우도록 다른 사람이 필요할 수도 있어요.
+1	새로운	새롭+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	배우도록	배우+도록	VERB	VV+EC	_	8	advcl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	필요할	필요+하+ㄹ	ADJ	NNG+XSA+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_28_3_03
+# text = 저는 혼자서 아무것을 배우면 보통 아주 잘 좋으게 돼지 않은데요.
+1	저는	저+는	PRON	NP+JX	_	9	nsubj	_	_
+2	혼자서	혼자+서	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	아무것을	아무+것+을	NOUN	MM+NNB+JKO	_	4	obj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+5	보통	보통	ADV	MAG	_	9	advmod	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	잘	잘	ADV	MAG	_	9	advmod	_	_
+8	좋으게	좋+으+게	ADV	VA+NA+EC	Typo=Yes	9	advmod	_	_
+9	돼지	되+어+지	VERB	VV+EC+EC	_	0	root	_	_
+10	않은데요	않	AUX	VX+EF+JX	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_28_3_04
+# text = 다른 사람들이 필요한 편이에요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	필요한	필요+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	acl	_	_
+4	편이에요	편+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_28_3_05
+# text = 제 생각에는 경쟁이 자주 좋아요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	자주	자주	ADV	MAG	_	5	advmod	_	_
+5	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_28_3_06
+# text = 사람들은 다름 사람과 같이 경쟁하면 자주 매우 시도하고 빠르게 아무것을 배울 수 있어요.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	11	nsubj	_	_
+2	다름	다르+ㅁ	ADJ	VA+ETN	_	3	nmod	_	_
+3	사람과	사람+과	ADV	NNG+JKB	_	5	obl	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	경쟁하면	경쟁+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+6	자주	자주	ADV	MAG	_	8	advmod	_	_
+7	매우	매우	ADV	MAG	_	8	advmod	_	_
+8	시도하고	시도+하+고	VERB	NNG+XSV+EC	_	13	advcl	_	_
+9	빠르게	빠르+게	ADV	VA+EC	_	11	advmod	_	_
+10	아무것을	아무+것+을	NOUN	MM+NNB+JKO	_	11	obj	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_28_3_07
+# text = 하지만 경쟁은 큰 단점이 있어요.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	5	dislocated	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	단점이	단점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_28_3_08
+# text = 우리 머리속에 나쁜 생각이 있을 수도 있는 단점이에요.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	머리속에	머리+속+에	ADV	NNG+NNG+JKB	_	5	obl	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	생각이	생각+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있을	있+을	VERB	VV+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	단점이에요	단점+이+에요	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_28_3_09
+# text = 다른 사람에 대해서 쉽게 나쁘게 생각할 수 있어서 조금 위험하고 좋지 않아요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람에	사람+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	6	advcl	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	나쁘게	나쁘+게	ADV	VA+EC	_	6	advmod	_	_
+6	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VX+EC	_	10	advcl	_	_
+9	조금	조금	ADV	MAG	_	10	advmod	_	_
+10	위험하고	위험+하+고	ADJ	XR+XSA+EC	_	0	root	_	_
+11	좋지	좋+지	ADJ	VA+EC	_	10	conj	_	_
+12	않아요	않	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_28_3_10
+# text = 반면에 협동에 대해서 말하면 같이 하는 것이라서 좋아요.
+1	반면에	반면+에	ADV	NNG+JKB	_	8	obl	_	_
+2	협동에	협동+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+4	말하면	말+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이라서	것+이+라서	ADJ	NNB+VCP+EC	_	8	advcl	_	_
+8	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_28_3_11
+# text = 다른 사람은 저에게 도와 줄 수 있고 저에게 많이 것을 가르칠 수 있어요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	저에게	저+에게	PRON	NP+JKB	_	4	obl	_	_
+4	도와	돕+아	VERB	VV+EC	_	6	acl	_	_
+5	줄	주+ㄹ	VERB	VX+ETM	_	4	advcl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있+고	VERB	VX+EC	_	0	root	_	_
+8	저에게	저+에게	PRON	NP+JKB	_	11	obl	_	_
+9	많이	많이	ADV	MAG	_	11	advmod	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	가르칠	가르치+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_28_3_12
+# text = 그것은 뿐만 아니라 같이 이야기를 할 수 있으니까 제일 해결이 생길 수 있어요.
+1	그것은	그것+은	PRON	NP+JX	_	3	nsubj	_	_
+2	뿐만	뿐+만	ADP	JX+JX	_	1	case	_	_
+3	아니라	아니+라	ADJ	VCN+EC	_	8	advcl	_	_
+4	같이	같이	ADV	MAG	_	6	advmod	_	_
+5	이야기를	이야기+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있으니까	있+으니까	VERB	VX+EC	_	13	advcl	_	_
+9	제일	제일	ADV	MAG	_	10	nmod	_	_
+10	해결이	해결+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	생길	생기+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_28_3_13
+# text = 또한 그렇게 다른 사람과 함께 친구가 됄 수 있어요.
+1	또한	또한	ADV	MAJ	_	9	cc	_	_
+2	그렇게	그렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람과	사람+과	ADV	NNG+JKB	_	7	obl	_	_
+5	함께	함께	ADV	MAG	_	7	advmod	_	_
+6	친구가	친구+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	됄	돼+ㄹ	VERB	NV+ETM	Typo=Yes	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_28_3_14
+# text = 그렇게 보니까 저는 경쟁보다 협동을 더 선호해요.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	보니까	보+니까	VERB	VV+EC	_	7	advcl	_	_
+3	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+4	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	7	obl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_28_3_15
+# text = 사회적인 사람이라서 다른 사람과 함께 이야기가 좋고 같이 일하는 것이도 좋아요.
+1	사회적인	사회+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	2	amod	_	_
+2	사람이라서	사람+이+라서	ADJ	NNG+VCP+EC	_	7	advcl	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람과	사람+과	ADV	NNG+JKB	_	7	obl	_	_
+5	함께	함께	ADV	MAG	_	7	advmod	_	_
+6	이야기가	이야기+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	좋고	좋+고	ADJ	VA+EC	_	0	root	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것이도	것+이+도	NOUN	NNB+JKS+JX	_	11	nsubj	_	_
+11	좋아요	좋+아요	ADJ	VA+EF	_	7	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	7	punct	_	_

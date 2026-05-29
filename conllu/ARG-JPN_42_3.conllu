@@ -1,0 +1,161 @@
+# sent_id = ARG-JPN_42_3_01
+# text =  나는 협동과 경쟁 중에서 협동이 더 중요한다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	8	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADP	NNB+JKB	_	3	case	_	_
+5	협동이	협동+이	NOUN	NF+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요한다고	중요+하+ㄴ다고	VERB	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_42_3_02
+# text =  그 이유로서 협동이 사람들에게 주는 좋은 연향을 생각해 보면, 한 조직 내에서 사람들이 경쟁보다 협동을 중요시 할 경우,그 조직 내 사람들 끼리 경쟁을 할 필요가 없어 사람이 다 안심감을 갖고 지낼 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유로서	이유+로서	ADV	NNG+JKB	_	8	obl	_	_
+3	협동이	협동+이	NOUN	NNP+JKS	_	5	nsubj	_	_
+4	사람들에게	사람+들+에게	NOUN	NNG+XSN+JKB	_	5	obl	_	_
+5	주는	주+는	VERB	VV+ETM	_	7	acl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	연향을	연향+을	NOUN	NF+JKO	_	8	obj	_	_
+8	생각해	생각+하+아	VERB	NNG+XSV+EC	_	34	advcl	_	_
+9	보면	보+면	VERB	VX+EC	_	8	aux	_	_
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	한	한	NUM	MM	_	12	det	_	_
+12	조직	조직	NOUN	NNG	_	17	obl	_	_
+13	내에서	내+에서	ADP	NNG+JKB	_	12	case	_	_
+14	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+15	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	17	obl	_	_
+16	협동을	협동+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	중요시	중요+시	ADV	NNG+XSN	_	19	acl	_	_
+18	할	하+ㄹ	VERB	XSV+ETM	_	17	goeswith	_	_
+19	경우,그	경우+,그	NOUN	NNG+SP+MM	_	27	obl	_	_
+20	조직	조직	NOUN	NNG	_	22	nmod	_	_
+21	내	내	PRON	NNG	_	20	case	_	_
+22	사람들	사람+들	NOUN	NNG+XSN	_	23	nsubj	_	_
+23	끼리	끼리	VERB	XSN	_	22	goeswith	_	_
+24	경쟁을	경쟁+을	NOUN	NNG+JKO	_	25	obj	_	_
+25	할	하+ㄹ	VERB	VV+ETM	_	26	acl	_	_
+26	필요가	필요+가	NOUN	NNG+JKS	_	27	nsubj	_	_
+27	없어	없+어	VERB	VA+EC	_	34	advcl	_	_
+28	사람이	사람+이	NOUN	NNG+JKS	_	31	nsubj	_	_
+29	다	다	ADV	MAG	_	32	advmod	_	_
+30	안심감을	안심+감+을	NOUN	NNG+XSN+JKO	_	31	obj	_	_
+31	갖고	갖+고	VERB	VV+EC	_	32	advcl	_	_
+32	지낼	지내+ㄹ	VERB	VV+ETM	_	33	acl	_	_
+33	수	수	NOUN	NNB	_	34	nsubj	_	_
+34	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+35	.	.	PUNCT	SF	_	34	punct	_	_
+
+# sent_id = ARG-JPN_42_3_03
+# text =  현재 현대 사회 상황으로 사람이 다른 사람과 교류를 해야 살 수 있는 세상에서, 경쟁만을 많이 하면 그나마 지쳐서 생활이 어렵게 됄 것이다.
+1	현재	현재	ADV	MAG	_	23	advmod	_	_
+2	현대	현대	NOUN	NNG	_	3	nmod	_	_
+3	사회	사회	NOUN	NNG	_	4	nmod	_	_
+4	상황으로	상황+으로	ADV	NNG+JKB	_	9	obl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+6	다른	다른	ADJ	MM	_	8	amod	_	_
+7	사람과	사람+과	NOUN	NNG+JC	_	9	obl	_	_
+8	교류를	교류+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	해야	하+아야	VERB	VV+EC	_	10	advcl	_	_
+10	살	살+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	세상에서	세상+에서	ADV	NNG+JKB	_	17	obl	_	_
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	경쟁만을	경쟁+만+을	NOUN	NNG+JX+JKO	_	17	obj	_	_
+16	많이	많이	ADV	MAG	_	17	advmod	_	_
+17	하면	하+면	VERB	VV+EC	_	19	advcl	_	_
+18	그나마	그나마	ADV	MAG	_	19	advmod	_	_
+19	지쳐서	지치+어서	VERB	VV+EC	_	23	advcl	_	_
+20	생활이	생활+이	NOUN	NNG+JKS	_	22	nsubj	_	_
+21	어렵게	어렵+게	ADV	VA+EC	_	22	advmod	_	_
+22	됄	돼+ㄹ	VERB	NV+ETM	_	23	acl	_	_
+23	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_42_3_04
+# text =  또, 한 조직에 소속해 일을 할 경우를 상정하면, 사람들 끼리 경쟁을 해도 의미가 없다고 할 수 있다.
+1	또	또	ADV	MAG	_	19	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	9	punct	_	_
+3	한	한	NUM	MM	_	4	det	_	_
+4	조직에	조직+에	ADV	NNG+JKB	_	5	obl	_	_
+5	소속해	소속+하+아	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	일을	일+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	경우를	경우+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	상정하면	상정+하+면	VERB	NNG+XSV+EC	_	19	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	사람들	사람+들	NOUN	NNG+XSN	_	14	nsubj	_	_
+12	끼리	끼리	VERB	XSN	_	11	goeswith	_	_
+13	경쟁을	경쟁+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	해도	하+아도	VERB	VV+EC	_	16	advcl	_	_
+15	의미가	의미+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	없다고	없+다고	VERB	VA+EC	_	17	ccomp	_	_
+17	할	하+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_42_3_05
+# text =  예를 들어,사람이 회사에 들어서 일을 할 때, 그 경쟁 상대반은 항상 다른 회사(조직)가 됀다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어,사람이	들+어+,+사람+이	NOUN	VV+EC+SP+NNG+JKS	_	4	nsubj	_	_
+3	회사에	회사+에	ADV	NNG+JKB	_	4	obl	_	_
+4	들어서	들+어서	VERB	VV+EC	_	6	advcl	_	_
+5	일을	일+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	15	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	그	그	DET	MM	_	11	det	_	_
+10	경쟁	경쟁	NOUN	NNG	_	11	nmod	_	_
+11	상대반은	상대+반+은	NOUN	NNG+NNG+JX	_	15	nsubj	_	_
+12	항상	항상	ADV	MAG	_	15	advmod	_	_
+13	다른	다른	ADJ	MM	_	15	amod	_	_
+14	회사(조직)가	회사+(+조직+)+가	NOUN	NNG+SS+NNG+SS+JKC	_	15	nsubj	_	_
+15	됀다	됀+다	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_42_3_06
+# text =  다른 회사와의 경쟁에 이기려고 사람이 업무를 하는 데에, 조직 내부에서 치열한 경쟁을 하면 그것만으로 지쳐버리고, 회사원이 좋은 일을 하기 위해 나쁜 연향을 주게 된다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	회사와의	회사+와+의	NOUN	NNG+JKB+JKG	_	3	nmod:poss	_	_
+3	경쟁에	경쟁+에	ADV	NNG+JKB	_	4	obl	_	_
+4	이기려고	이기+려고	VERB	VV+EC	_	14	advcl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	업무를	업무+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	데에	데+에	ADV	NNB+JKB	_	14	obl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	조직	조직	NOUN	NNG	_	11	nmod	_	_
+11	내부에서	내부+에서	ADV	NNG+JKB	_	14	obl	_	_
+12	치열한	치열+하+ㄴ	ADJ	NNG+XSA+ETM	_	13	amod	_	_
+13	경쟁을	경쟁+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	하면	하+면	VERB	VV+EC	_	25	advcl	_	_
+15	그것만으로	그것+만+으로	ADV	NP+JX+JKB	_	16	obl	_	_
+16	지쳐버리고	지치+어+버리+고	VERB	VV+EC+VX+EC	_	25	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	회사원이	회사원+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+19	좋은	좋+은	VERB	VA+ETM	_	20	amod	_	_
+20	일을	일+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	하기	하+기	NOUN	VV+ETN	_	22	obj	_	_
+22	위해	위하+아	VERB	VV+EC	_	25	advcl	_	_
+23	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	24	acl	_	_
+24	연향을	연향+을	NOUN	NF+JKO	_	25	obj	_	_
+25	주게	주+게	VERB	VV+EC	_	0	root	_	_
+26	된다	되+ㄴ다	VERB	VX+EF	_	25	advcl	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-JPN_42_3_07
+# text =  이러한 이유로 난 기본적으로 사람에게는 협동 이 중요한다고 생각한다.
+1	이러한	이러하+ㄴ	DET	VA+ETM	_	2	det	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	9	obl	_	_
+3	난	나+ㄴ	VERB	NP+JX	_	9	nsubj	_	_
+4	기본적으로	기본+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+5	사람에게는	사람+에게+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+6	협동	협동	NOUN	NNG	_	8	nsubj	_	_
+7	이	이	DET	JKS	_	6	case	_	_
+8	중요한다고	중요+하+ㄴ다고	VERB	NNG+XSA+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

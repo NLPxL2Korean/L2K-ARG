@@ -1,0 +1,85 @@
+# sent_id = ARG-CZH_29_3_01
+# text = 제 생각에는 경쟁보다 협동이 더 좋습니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_29_3_02
+# text = 이유가 간단합니다.
+1	이유가	이유+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	간단합니다	간단+하+ㅂ니다	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_29_3_03
+# text = 지는 것이 싫습니다.
+1	지는	지+는	VERB	VV+ETM	_	2	acl	_	_
+2	것이	것+이	NOUN	NNB+JKS	_	3	nsubj	_	_
+3	싫습니다	싫+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_29_3_04
+# text = 경쟁이 없으면 질 수 없잖습니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	없으면	없+으면	ADJ	VA+EC	_	5	advcl	_	_
+3	질	지+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	없잖습니다	없+잖+습니다	VERB	VX+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_29_3_05
+# text = 그리고 저는 이기든 말들 상관없습니다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	5	dislocated	_	_
+3	이기든	이기+든	VERB	VV+EC	_	5	ccomp	_	_
+4	말들	말+들	VERB	VV+NA	Typo=Yes	3	conj	_	_
+5	상관없습니다	상관+없+습니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_29_3_06
+# text = 그래서 저는 경쟁보다 협동을 더 좋아합니다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_29_3_07
+# text = 일반적으로도 협동이 더 낫습니다.
+1	일반적으로도	일반+적+으로+도	ADV	NNG+XSN+JKB+JX	_	4	obl	_	_
+2	협동이	협동+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	낫습니다	낫+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_29_3_08
+# text = 팀에서 일한다면 멤버가 부족한 부분을 다른 멤버가 채울 수 있습니다.
+1	팀에서	팀+에서	ADV	NNG+JKB	_	2	obl	_	_
+2	일한다면	일+하+ㄴ다면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+3	멤버가	멤버+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	acl	_	_
+5	부분을	부분+을	NOUN	NNG+JKO	_	8	obj	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	멤버가	멤버+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	채울	채우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_29_3_09
+# text = 그리고 경제학을 공부한 후에 협동은만이 살아남는 유일한 방법이라고 확실합니다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	경제학을	경제학+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	공부한	공부+하+ㄴ	VERB	NNG+XSV+ETM	_	9	obl	_	_
+4	후에	후+에	ADV	NNB+JKB	_	3	case	_	_
+5	협동은만이	협동+은+만+이	NOUN	NNG+JX+JX+JKS	_	8	nsubj	_	_
+6	살아남는	살+아+남+는	VERB	VV+EC+VX+ETM	_	8	acl	_	_
+7	유일한	유일+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	방법이라고	방법+이+라고	ADJ	NNG+VCP+EC	_	9	ccomp	_	_
+9	확실합니다	확실+하+ㅂ니다	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

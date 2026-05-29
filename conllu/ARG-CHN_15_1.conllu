@@ -1,0 +1,153 @@
+# sent_id = ARG-CHN_15_1_01
+# text = 제 생각에는 자연 보존더 중요한다고 생각한다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존더	보존+더	ADV	NNG+MAG	_	5	nsubj	_	_
+5	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_15_1_02
+# text = 첫 번째는 자연은 아른다운 풍경을 형성할 수 있다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	8	obl	_	_
+3	자연은	자연+은	NOUN	NNG+JX	_	8	dislocated	_	_
+4	아른다운	아른답+ㄴ	VERB	NV+ETM	Typo=Yes	5	amod	_	_
+5	풍경을	풍경+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	형성할	형성+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_15_1_03
+# text = 현재 각 나라에서 자연보호 지역은 점점 증가하 있고 자연공원으로 되고 있다.
+1	현재	현재	ADV	NNG	_	10	advmod	_	_
+2	각	각	DET	MM	_	3	amod	_	_
+3	나라에서	나라+에서	ADV	NNG+JKB	_	10	obl	_	_
+4	자연보호	자연+보호	NOUN	NNG+NNG	_	5	nmod	_	_
+5	지역은	지역+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	점점	점점	ADV	MAG	_	7	advmod	_	_
+7	증가하	증가+하	VERB	NNG+XSV	_	10	advcl	_	_
+8	있고	있	AUX	VX+EC	_	7	aux	_	_
+9	자연공원으로	자연+공원+으로	ADV	NNG+NNG+JKB	_	10	obl	_	_
+10	되고	되+고	VERB	VV+EC	_	0	root	_	_
+11	있다	있	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_15_1_04
+# text = 휴일마다 이런 자연 공원은 구경한 사람이 많다.
+1	휴일마다	휴일+마다	NOUN	NNG+JX	_	7	obl	_	_
+2	이런	이런	DET	MM	_	4	det	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	공원은	공원+은	NOUN	NNG+JX	_	5	obj	_	_
+5	구경한	구경+하+ㄴ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_15_1_05
+# text = 둘째, 지금 세계적으로 자연 파악은 심아서 다양한 기후 문제를 발생하고 있다.
+1	둘째	둘째	NUM	NR	_	11	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	11	punct	_	_
+3	지금	지금	ADV	MAG	_	11	advmod	_	_
+4	세계적으로	세계+적+으로	ADV	NNG+XSN+JKB	_	11	obl	_	_
+5	자연	자연	NOUN	NNG	_	6	nmod	_	_
+6	파악은	파악+은	NOUN	NF+JX	Typo=Yes	7	nsubj	_	_
+7	심아서	심+아서	VERB	NV+EC	Typo=Yes	11	advcl	_	_
+8	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+9	기후	기후	NOUN	NNG	_	10	nmod	_	_
+10	문제를	문제+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	발생하고	발생+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+12	있다	있	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_15_1_06
+# text = 예를 들면 뉴스에서 항상 나오는 남복극의 문제이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	7	advcl	_	_
+3	뉴스에서	뉴스+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	항상	항상	ADV	MAG	_	5	advmod	_	_
+5	나오는	나오+는	VERB	VV+ETM	_	6	acl	_	_
+6	남복극의	남복극+의	NOUN	NF+JKG	Typo=Yes	7	nmod:poss	_	_
+7	문제이다	문제+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_15_1_07
+# text = 인간은 자연파악하니까 남복극의 아이스는 점점 사라지고 있다.
+1	인간은	인간+은	NOUN	NNG+JX	_	2	nsubj	_	_
+2	자연파악하니까	자연+파악+하+니까	VERB	NNG+NNG+VV+EC	_	6	advcl	_	_
+3	남복극의	남복극+의	NOUN	NF+JKG	Typo=Yes	4	nmod:poss	_	_
+4	아이스는	아이스+는	NOUN	NF+JX	Typo=Yes	6	nsubj	_	_
+5	점점	점점	ADV	MAG	_	6	advmod	_	_
+6	사라지고	사라지+고	VERB	VV+EC	_	0	root	_	_
+7	있다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_15_1_08
+# text = 세째, 자연 파악때문에 원래 자연에서 살았던 동물들이 생존할 수 없다.
+1	세째	세째	NOUN	NA	Typo=Yes	11	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	파악때문에	파악+때문+에	ADV	NNG+NNB+JKB	_	11	obl	_	_
+5	원래	원래	ADV	NNG	_	7	advmod	_	_
+6	자연에서	자연+에서	ADV	NNG+JKB	_	7	obl	_	_
+7	살았던	살+았+던	VERB	VV+EP+ETM	_	8	acl	_	_
+8	동물들이	동물+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	생존할	생존+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_15_1_09
+# text = 이런 야생동물들이 익숙한 환경을 사라져서 다시 같은 기후, 환경을 찾으면 힘들어서 멸망 가능도 많이 있다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	야생동물들이	야생+동물+들+이	NOUN	NNG+NNG+XSN+JKS	_	3	nsubj	_	_
+3	익숙한	익숙+하+ㄴ	ADJ	XR+XSA+ETM	_	4	acl	_	_
+4	환경을	환경+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	사라져서	사라지+어서	VERB	VV+EC	_	11	advcl	_	_
+6	다시	다시	ADV	MAG	_	11	advmod	_	_
+7	같은	같+은	ADJ	VA+ETM	_	8	amod	_	_
+8	기후	기후	NOUN	NNG	_	10	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	환경을	환경+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	찾으면	찾+으면	VERB	VV+EC	_	12	advcl	_	_
+12	힘들어서	힘들+어서	ADJ	VA+EC	_	16	advcl	_	_
+13	멸망	멸망	NOUN	NNG	_	14	nmod	_	_
+14	가능도	가능+도	NOUN	NNG+JX	_	16	nsubj	_	_
+15	많이	많이	ADV	MAG	_	16	advmod	_	_
+16	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_15_1_10
+# text = 마지막은 인간 살고 있는 환경도 나빠지고 있다.
+1	마지막은	마지막+은	NOUN	NNG+JX	_	6	obl	_	_
+2	인간	인간	NOUN	NNG	_	3	nsubj	_	_
+3	살고	살+고	VERB	VV+EC	_	5	acl	_	_
+4	있는	있	AUX	VX+ETM	_	3	aux	_	_
+5	환경도	환경+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	나빠지고	나쁘+아지+고	VERB	VA+XSV+EC	_	0	root	_	_
+7	있다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_15_1_11
+# text = 예를 들어 미세먼지과 황사도 항상 나오고 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	6	advcl	_	_
+3	미세먼지과	미세+먼지+과	NOUN	NNG+NNG+JC	_	6	nsubj	_	_
+4	황사도	황사+도	NOUN	NNG+JX	_	3	conj	_	_
+5	항상	항상	ADV	MAG	_	6	advmod	_	_
+6	나오고	나오+고	VERB	VV+EC	_	0	root	_	_
+7	있다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_15_1_12
+# text = 위에 말해던 원인을 있어서 자연보존도 중요한다고 생각한다.
+1	위에	위+에	ADV	NNG+JKB	_	2	obl	_	_
+2	말해던	말+하+아+던	VERB	NNG+XSV+NA+ETM	Typo=Yes	3	acl	_	_
+3	원인을	원인+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	있어서	있+어서	VERB	VV+EC	_	6	advcl	_	_
+5	자연보존도	자연+보존+도	NOUN	NNG+NNG+JX	_	6	nsubj	_	_
+6	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

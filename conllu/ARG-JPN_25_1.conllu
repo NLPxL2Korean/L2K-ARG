@@ -1,0 +1,60 @@
+# sent_id = ARG-JPN_25_1_01
+# text =  조기언어교육의 장점은 언어를 배우기 쉽다는 점이다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우기	배우+기	NOUN	VV+ETN	_	5	nsubj	_	_
+5	쉽다는	쉽+다는	VERB	VA+ETM	_	6	acl	_	_
+6	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_25_1_03
+# text =  반면,아이들이 자유럽게 놀 시간이 없어진다는 단점도 있다.
+1	반면,아이들이	반면+,+아이+들+이	ADV	NNG+SP+NNG+XSN+JKB	_	3	obl	_	_
+2	자유럽게	자유+럽+게	ADV	NNG+NA+EC	_	3	advmod	_	_
+3	놀	놀+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	시간이	시간+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없어진다는	없+어지+ㄴ다는	VERB	VA+XSV+ETM	_	6	acl	_	_
+6	단점도	단점+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_25_1_04
+# text =  예를 들면 숙제를 하기 의해 친구와 놀 수 없는 경우가 있다고 생각한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	12	advcl	_	_
+3	숙제를	숙제+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	하기	하+기	NOUN	VV+ETN	_	5	obj	_	_
+5	의해	의하+아	VERB	NV+EC	_	11	advcl	_	_
+6	친구와	친구+와	ADV	NNG+JKB	_	7	obl	_	_
+7	놀	놀+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없는	없+는	VERB	VA+ETM	_	10	acl	_	_
+10	경우가	경우+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VV+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_25_1_02-1
+# text =  아이들은 어른 보다 기억력이 좋다
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	dislocated	_	_
+2	어른	어른	NOUN	NNG	_	5	obl	_	_
+3	보다	보다	ADV	JKB	_	2	case	_	_
+4	기억력이	기억력+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	좋다	좋+다	VERB	VA+EC	_	0	advcl	_	_
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_25_1_02-2
+# text =  어른이 뒤기 전에 외국어를 공부하면 더욱 언어를 기억할 수 있다는 것이다.
+1	어른이	어른+이	NOUN	SF+NNG+JKC	_	2	nsubj	_	_
+2	뒤기	뒤+기	NOUN	VV+ETN	_	5	obl	_	_
+3	전에	전+에	ADP	NNG+JKB	_	7	case	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	더욱	더욱	ADV	MAG	_	8	advmod	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	기억할	기억+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다는	있+다는	VERB	VX+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	16	punct	_	_

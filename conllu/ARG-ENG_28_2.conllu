@@ -1,0 +1,113 @@
+# sent_id = ARG-ENG_28_2_01
+# text = 역사를 배워야 돼요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	돼요	되+어요	VERB	VX+EF	_	2	advcl	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_28_2_02
+# text = 역사를 배워야 하는 가장 중요한 이유는 다시 똑같은 실수를 반복할 수 있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	6	acl	_	_
+3	하는	하	AUX	VX+ETM	_	2	aux	_	_
+4	가장	가장	ADV	MAG	_	5	advmod	_	_
+5	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	이유는	이유+는	NOUN	NNG+JX	_	12	dislocated	_	_
+7	다시	다시	ADV	MAG	_	10	advmod	_	_
+8	똑같은	똑같+은	ADJ	VA+ETM	_	9	amod	_	_
+9	실수를	실수+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	반복할	반복+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_28_2_03
+# text = 역사가 배우고 잘못을 이해할 수 있을 때, 그 똑같은 실수들 반복하지 않아요.
+1	역사가	역사+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	배우고	배우+고	VERB	VV+EC	_	4	advcl	_	_
+3	잘못을	잘못+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있을	있+을	VERB	VX+ETM	_	12	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	그	그	DET	MM	_	11	det	_	_
+10	똑같은	똑같+은	ADJ	VA+ETM	_	11	amod	_	_
+11	실수들	실수+들	NOUN	NNG+XSN	_	12	obj	_	_
+12	반복하지	반복+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+13	않아요	않	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_28_2_04
+# text = 세계의 역사 배워서 우리는 더 빨리 미래까지 갈 수 있어요.
+1	세계의	세계+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	역사	역사	NOUN	NNG	_	3	obj	_	_
+3	배워서	배우+어서	VERB	VV+EC	_	10	advcl	_	_
+4	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	빨리	빨리	ADV	MAG	_	8	advmod	_	_
+7	미래까지	미래+까지	NOUN	NNG+JX	_	8	obl	_	_
+8	갈	가+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_28_2_05
+# text = 우리의 잘못에서 잘 배우고 더 좋은 세상을 될 수 있기 위해서, 먼저 우리의 과거에 있는 실수 그리고 잘 했던 것을 대해 배워야 돼요.
+1	우리의	우리+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	잘못에서	잘못+에서	ADV	NF+JKB	Typo=Yes	4	obl	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	배우고	배우+고	VERB	VV+EC	_	11	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	세상을	세상+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	될	되+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있기	있+기	NOUN	VX+ETN	_	4	conj	_	_
+11	위해서	위하+아서	VERB	VV+EC	_	23	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	먼저	먼저	ADV	MAG	_	23	advmod	_	_
+14	우리의	우리+의	PRON	NP+JKG	_	15	nmod:poss	_	_
+15	과거에	과거+에	ADV	NNG+JKB	_	16	obl	_	_
+16	있는	있+는	VERB	VV+ETM	_	17	acl	_	_
+17	실수	실수	NOUN	NNG	_	22	obj	_	_
+18	그리고	그리고	ADV	MAJ	_	23	cc	_	_
+19	잘	잘	ADV	MAG	_	20	advmod	_	_
+20	했던	하+았+던	VERB	VV+EP+ETM	_	21	acl	_	_
+21	것을	것+을	NOUN	NNB+JKO	_	22	obj	_	_
+22	대해	대하+아	VERB	VV+EC	_	23	advcl	_	_
+23	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+24	돼요	되+어요	VERB	VX+EF	_	23	advcl	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-ENG_28_2_06
+# text = 아프로 가고 싶으면, 뒤로도 봐야 돼요.
+1	아프로	아프로	NOUN	NA	Typo=Yes	2	obl	_	_
+2	가고	가+고	VERB	VV+EC	_	6	advcl	_	_
+3	싶으면	싶	AUX	VX+EC	_	2	aux	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	뒤로도	뒤+로+도	ADV	NNG+JKB+JX	_	6	obl	_	_
+6	봐야	보+아야	VERB	VV+EC	_	0	root	_	_
+7	돼요	되+어요	VERB	VX+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_28_2_07
+# text = 그래서 역사를 배워야 돼요.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	돼요	되+어요	VERB	VX+EF	_	3	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_28_2_08
+# text = 역사를 배워서, 더 좋은 새상을 만들 수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워서	배우+어서	VERB	VV+EC	_	9	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	새상을	새상+을	NOUN	NF+JKO	Typo=Yes	7	obj	_	_
+7	만들	만들+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

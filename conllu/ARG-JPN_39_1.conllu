@@ -1,0 +1,142 @@
+# sent_id = ARG-JPN_39_1_01
+# text =  조기언어교육의 장점은 여러까지 있지만 크게 두까지가 있다고 생각한다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	4	dislocated	_	_
+3	여러까지	여러+까지	ADV	MM+NF	_	4	nsubj	_	_
+4	있지만	있+지만	VERB	VV+EC	_	7	advcl	_	_
+5	크게	크+게	ADV	VA+EC	_	7	advmod	_	_
+6	두까지가	두+까지+가	NOUN	MM+NF+JKS	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_39_1_02
+# text =  첫
+1	첫	첫	NUM	MM	_	0	root	_	_
+
+# sent_id = ARG-JPN_39_1_03
+# text =  번째는 어린 나이로 외국어 교육을 시작하면 어른이보다 빨리 습득할 수 있다라는 점이다.
+1	번째는	번째+는	NOUN	NNB+JX	_	12	obl	_	_
+2	어린	어리+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	나이로	나이+로	ADV	NNG+JKB	_	6	obl	_	_
+4	외국어	외국어	NOUN	NNG	_	5	nmod	_	_
+5	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+7	어른이보다	어른+이+보다	ADV	NNG+NA+JKB	_	9	obl	_	_
+8	빨리	빨리	ADV	MAG	_	9	advmod	_	_
+9	습득할	습득+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다라는	있+다+라는	VERB	VA+EC+ETM	_	12	acl	_	_
+12	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_39_1_04
+# text =  얘기는 모국어도 습득할 때 공부를 해서 배운 것이 아니라 자연스럽게 습득하기 때문에 외국어도 빨리 외울 수 있다.
+1	얘기는	얘기+는	NOUN	NNG+JX	_	3	obj	_	_
+2	모국어도	모국어+도	NOUN	NNG+JX	_	3	obl	_	_
+3	습득할	습득+하+ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	공부를	공부+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	해서	하+아서	VERB	VV+EC	_	7	advcl	_	_
+7	배운	배우+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKC	_	9	nsubj	_	_
+9	아니라	아니+라	VERB	VCN+EC	_	11	advcl	_	_
+10	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	11	advmod	_	_
+11	습득하기	습득+하+기	NOUN	NNG+XSA+ETN	_	17	obl	_	_
+12	때문에	때문+에	ADP	NNB+JKB	_	11	case	_	_
+13	외국어도	외국어+도	NOUN	NNG+JX	_	15	obj	_	_
+14	빨리	빨리	ADV	MAG	_	15	advmod	_	_
+15	외울	외우+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_39_1_05
+# text =  두
+1	두	두	NUM	MM	_	0	root	_	_
+
+# sent_id = ARG-JPN_39_1_06
+# text =  번째는 정확한 발음으로 외국어를 말할 수 있게 되는 점이다.
+1	번째는	번째+는	NOUN	NNB+JX	_	9	obl	_	_
+2	정확한	정확+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	발음으로	발음+으로	ADV	NNG+JKB	_	5	obl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있게	있+게	VERB	VX+EC	_	9	acl	_	_
+8	되는	되+는	VERB	VX+ETM	_	7	advcl	_	_
+9	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_39_1_07
+# text =  어른이가 되고 나서 외국어를 배우면 자신의 모국어 영향을 받아 정확한 발음을 할 수가 없지만 어린 시절에 배우면 듣고 그대로 이야기하기 때문에 정확한 발음을 할 수 있다.
+1	어른이가	어른+이+가	NOUN	NNG+JKS+NA	_	2	nsubj	_	_
+2	되고	되+고	VERB	VV+EC	_	5	advcl	_	_
+3	나서	나+아서	VERB	VX+EC	_	2	aux	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+6	자신의	자신+의	PRON	NNG+JKG	_	7	nmod:poss	_	_
+7	모국어	모국어	NOUN	NNG	_	8	nmod	_	_
+8	영향을	영향+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	받아	받+아	VERB	VV+EC	_	14	advcl	_	_
+10	정확한	정확+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	발음을	발음+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수가	수+가	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	없지만	없+지만	VERB	VA+EC	_	26	advcl	_	_
+15	어린	어리+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	시절에	시절+에	ADV	NNG+JKB	_	17	obl	_	_
+17	배우면	배우+면	VERB	VV+EC	_	24	obl	_	_
+18	듣고	듣+고	VERB	VV+EC	_	17	conj	_	_
+19	그대로	그대로	ADV	MAG	_	20	advmod	_	_
+20	이야기하기	이야기+하+기	NOUN	NNG+XSV+ETN	_	17	conj	_	_
+21	때문에	때문+에	ADP	NNB+JKB	_	18	case	_	_
+22	정확한	정확+하+ㄴ	ADJ	NNG+XSA+ETM	_	23	amod	_	_
+23	발음을	발음+을	NOUN	NNG+JKO	_	24	obj	_	_
+24	할	하+ㄹ	VERB	VV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-JPN_39_1_08
+# text =  조기언어 교육의 단점은 모국어 습득이 늦어지는 점이다.
+1	조기언어	조기+언어	NOUN	NNG+NNG	_	2	nmod	_	_
+2	교육의	교육+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	단점은	단점+은	NOUN	NNG+JX	_	7	nsubj	_	_
+4	모국어	모국어	NOUN	NNG	_	5	nmod	_	_
+5	습득이	습득+이	NOUN	NF+JKS	_	6	nsubj	_	_
+6	늦어지는	늦+어지+는	VERB	VA+XSV+ETM	_	7	acl	_	_
+7	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_39_1_09
+# text =  외국어 교육을 받은 나이에 따라 다르지만 아직 모국어도 완벽하지 않은 상태로 외국어를 배우면 2개국 언어에서 햇갈리게 된다.
+1	외국어	외국어	NOUN	NNG	_	2	nmod	_	_
+2	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+3	받은	받+은	VERB	VV+ETM	_	4	acl	_	_
+4	나이에	나이+에	ADV	NNG+JKB	_	5	obl	_	_
+5	따라	따르+아	VERB	VV+EC	_	6	advcl	_	_
+6	다르지만	다르+지만	VERB	VA+EC	_	13	advcl	_	_
+7	아직	아직	ADV	MAG	_	9	advmod	_	_
+8	모국어도	모국어+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	완벽하지	완벽+하+지	VERB	NNG+XSA+EC	_	11	acl	_	_
+10	않은	않+은	AUX	VX+ETM	_	9	aux	_	_
+11	상태로	상태+로	ADV	NNG+JKB	_	13	obl	_	_
+12	외국어를	외국어+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	배우면	배우+면	VERB	VV+EC	_	16	advcl	_	_
+14	2개국	2+개+국	NOUN	SN+NNB+XSN	_	15	nmod	_	_
+15	언어에서	언어+에서	ADV	NNG+JKB	_	16	obl	_	_
+16	햇갈리게	햇갈리+게	VERB	NV+EC	_	0	root	_	_
+17	된다	되+ㄴ다	VERB	VV+EF	_	16	advcl	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_39_1_10
+# text =  따라서 조기언어 교육은 장점도 있고 단점도 있다.
+1	따라서	따라서	ADV	MAJ	_	7	cc	_	_
+2	조기언어	조기+언어	NOUN	NNG+NNG	_	3	nmod	_	_
+3	교육은	교육+은	NOUN	NNG+JX	_	5	dislocated	_	_
+4	장점도	장점+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	있고	있+고	VERB	VV+EC	_	0	root	_	_
+6	단점도	단점+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VV+EF	_	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

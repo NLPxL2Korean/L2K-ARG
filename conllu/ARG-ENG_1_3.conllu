@@ -1,0 +1,230 @@
+# sent_id = ARG-ENG_01_3_01
+# text = 혼자서 하기 어려운 일은 같이 하면 더 쉬워진다는 말이 있다.
+1	혼자서	혼자+서	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	하기	하+기	VERB	VV+ETN	_	3	obl	_	_
+3	어려운	어렵+ㄴ	ADJ	VA+ETM	_	4	acl	_	_
+4	일은	일+은	NOUN	NNG+JX	_	6	obj	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	쉬워진다는	쉽+어지+ㄴ다는	VERB	VA+XSV+ETM	_	9	acl	_	_
+9	말이	말+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_01_3_01
+# text = 제가 경쟁보다 협동을 더 선호한다.
+1	제가	제+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_01_3_02
+# text = 이것은 바로 협동의 힘이다.
+1	이것은	이것+은	PRON	NP+JX	_	4	nsubj	_	_
+2	바로	바로	ADV	MAG	_	4	advmod	_	_
+3	협동의	협동+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	힘이다	힘+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_01_3_02
+# text = 다른 사람들이 다른 스킬이 있다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	dislocated	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	스킬이	스킬+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_01_3_03
+# text = 개개인마다 성격과 실력이 천차만별이기 때문에 각자 잘 하는 일이 다를 수밖에 없을 것이다.
+1	개개인마다	개개인+마다	NOUN	NNG+JX	_	13	obl	_	_
+2	성격과	성격+과	NOUN	NNG+JC	_	4	nsubj	_	_
+3	실력이	실력+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	천차만별이기	천차만별+이+기	ADJ	NNG+VCP+ETN	_	12	obl	_	_
+5	때문에	때문+에	ADV	NNB+JKB	_	4	case	_	_
+6	각자	각자	NOUN	NNG	_	8	nsubj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	일이	일+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	다를	다르+ㄹ	ADJ	VA+ETM	_	11	acl	_	_
+11	수밖에	수+밖에	NOUN	NNB+JX	_	12	obl	_	_
+12	없을	없+을	ADJ	VA+ETM	_	13	acl	_	_
+13	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_01_3_03
+# text = 팀으로 일하면 사람들이 개인적 스킬을 사용해서 여러분 잘 할 수 있다.
+1	팀으로	팀+으로	ADV	NNG+JKB	_	2	obl	_	_
+2	일하면	일+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+4	개인적	개인+적	ADJ	NNG+XSN	_	5	amod	_	_
+5	스킬을	스킬+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	사용해서	사용+하+아서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+7	여러분	여러분	NOUN	NP	_	9	nsubj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_01_3_04
+# text = 이 때 혼자 하다가 막히면 계속 진행 불가이지만 협력을 하면 서로 부족한 부분을 보완할 수 있어서 더 많은 일을 할 수 있는 법이다.
+1	이	이	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	4	obl	_	_
+3	혼자	혼자	ADV	NNG	_	4	advmod	_	_
+4	하다가	하+다가	VERB	VV+EC	_	5	advcl	_	_
+5	막히면	막히+면	VERB	VV+EC	_	8	advcl	_	_
+6	계속	계속	NOUN	NNG	_	7	nmod	_	_
+7	진행	진행	NOUN	NNG	_	8	nsubj	_	_
+8	불가이지만	불가+이+지만	ADJ	NNG+VCP+EC	_	10	advcl	_	_
+9	협력을	협력+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+11	서로	서로	ADV	MAG	_	12	advmod	_	_
+12	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	13	amod	_	_
+13	부분을	부분+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	보완할	보완+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있어서	있+어서	VERB	VX+EC	_	23	advcl	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	많은	많+은	ADJ	VA+ETM	_	19	amod	_	_
+19	일을	일+을	NOUN	NNG+JKO	_	20	obj	_	_
+20	할	하+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있는	있+는	VERB	VX+ETM	_	23	acl	_	_
+23	법이다	법+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_01_3_04
+# text = 그리고 협동은 사람들 정부를 나눈다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	5	nsubj	_	_
+3	사람들	사람+들	NOUN	NNG+XSN	_	4	nmod	_	_
+4	정부를	정부+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	나눈다	나누+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_01_3_05
+# text = 물론, 적당한 경쟁은 효율을 높일 수 있으나 개개인의 한계를 뛰어넘을 수 없는 단점이 있다.
+1	물론	물론	ADV	MAG	_	15	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	8	punct	_	_
+3	적당한	적당+하+ㄴ	ADJ	XR+XSA+ETM	_	4	amod	_	_
+4	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	효율을	효율+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	높일	높이+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있으나	있+으나	VERB	VX+EC	_	15	advcl	_	_
+9	개개인의	개개인+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	한계를	한계+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	뛰어넘을	뛰+어+넘+을	VERB	VV+EC+VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없는	없+는	VERB	VX+ETM	_	14	acl	_	_
+14	단점이	단점+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_01_3_05
+# text = 경쟁은 사람들이 피밀을 만히 지켜서 안좋다고 생각한다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	피밀을	피밀+을	NOUN	NF+JKO	_	5	obj	_	_
+4	만히	만히	ADV	NA	_	5	advmod	_	_
+5	지켜서	지키+어서	VERB	VV+EC	_	6	advcl	_	_
+6	안좋다고	안+좋+다고	VERB	MAG+VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_01_3_06
+# text = 반면에 협력을 하면 서로 맞추는 과정에서 마찰이 생길 수 있으나 개개인의 한계 범위를 넘을 수 있도록 움직일 수 있는 장점이 있다.
+1	반면에	반면+에	ADV	NNG+JKB	_	21	obl	_	_
+2	협력을	협력+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	21	advcl	_	_
+4	서로	서로	ADV	MAG	_	5	advmod	_	_
+5	맞추는	맞추+는	VERB	VV+ETM	_	6	acl	_	_
+6	과정에서	과정+에서	ADV	NNG+JKB	_	10	obl	_	_
+7	마찰이	마찰+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	생길	생기+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있으나	있+으나	VERB	VX+EC	_	21	advcl	_	_
+11	개개인의	개개인+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	한계	한계	NOUN	NNG	_	13	nmod	_	_
+13	범위를	범위+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	넘을	넘+을	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있도록	있+도록	ADV	VX+EC	_	17	advcl	_	_
+17	움직일	움직이+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있는	있+는	VERB	VX+ETM	_	20	acl	_	_
+20	장점이	장점+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_01_3_06
+# text = 나라들 경쟁말고 협동을 할 수 있으면 세상이 평화하진다.
+1	나라들	나라+들	NOUN	NNG+XSN	_	2	obl	_	_
+2	경쟁말고	경쟁+말+고	VERB	NNG+VV+EC	_	6	advcl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있으면	있+으면	VERB	VX+EC	_	8	advcl	_	_
+7	세상이	세상+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	평화하진다	평화+하+지+ㄴ다	VERB	NNG+XSA+NA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_01_3_07
+# text = 뿐만 아니라 서로 경쟁대상이라면 독단적으로 행동해야 하기 때문에 간과할 가능성이 있는 반면 서로 협력하면 머리를 모아서 각양각색의 생각, 아이디어, 피드백을 주고받을 수 있으므로 더 완성도가 높은 결과물을 만들어낼 수 없다고 생각한다.
+1	뿐만	뿐+만	NOUN	NNB+JX	_	2	nsubj	_	_
+2	아니라	아니+라	ADJ	VCN+EC	_	6	advcl	_	_
+3	서로	서로	ADV	MAG	_	4	advmod	_	_
+4	경쟁대상이라면	경쟁+대상+이+라면	ADJ	NNG+NNG+VCP+EC	_	6	advcl	_	_
+5	독단적으로	독단+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	행동해야	행동+하+아야	VERB	NNG+XSV+EC	_	11	obl	_	_
+7	하기	하	AUX	VX+ETN	_	6	aux	_	_
+8	때문에	때문+에	ADV	NNB+JKB	_	6	case	_	_
+9	간과할	간과+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	있는	있+는	VERB	VV+ETM	_	12	acl	_	_
+12	반면	반면	NOUN	NNG	_	14	obl	_	_
+13	서로	서로	ADV	MAG	_	14	advmod	_	_
+14	협력하면	협력+하+면	VERB	NNG+XSV+EC	_	25	advcl	_	_
+15	머리를	머리+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	모아서	모으+아서	VERB	VV+EC	_	25	advcl	_	_
+17	각양각색의	각양각색+의	NOUN	NNG+JKG	_	18	nmod:poss	_	_
+18	생각	생각	NOUN	NNG	_	23	obj	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	_
+20	아이디어	아이디어	NOUN	NNG	_	18	list	_	SpaceAfter=No
+21	,	,	PUNCT	SP	_	20	punct	_	_
+22	피드백을	피드백+을	NOUN	NNG+JKO	_	18	list	_	_
+23	주고받을	주+고+받+을	VERB	VV+EC+VX+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있으므로	있+으므로	VERB	VX+EC	_	32	advcl	_	_
+26	더	더	ADV	MAG	_	28	advmod	_	_
+27	완성도가	완성도+가	NOUN	NNG+JKS	_	28	nsubj	_	_
+28	높은	높+은	ADJ	VA+ETM	_	29	acl	_	_
+29	결과물을	결과물+을	NOUN	NNG+JKO	_	30	obj	_	_
+30	만들어낼	만들+어+내+ㄹ	VERB	VV+EC+VX+ETM	_	31	acl	_	_
+31	수	수	NOUN	NNB	_	32	nsubj	_	_
+32	없다고	없+다고	VERB	VX+EC	_	33	ccomp	_	_
+33	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+34	.	.	PUNCT	SF	_	33	punct	_	_
+
+# sent_id = ARG-ENG_01_3_08
+# text = 따라서 협동은 합친 힘으로 더 여럽고 많은 일을 해낼 수 있기 때문에 협동을 더 선호하다.
+1	따라서	따라서	ADV	MAJ	_	11	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	9	nsubj	_	_
+3	합친	합치+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	힘으로	힘+으로	ADV	NNG+JKB	_	9	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	여럽고	여럽+고	VERB	NV+EC	Typo=Yes	8	amod	_	_
+7	많은	많+은	ADJ	VA+ETM	_	6	conj	_	_
+8	일을	일+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	해낼	해내+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있기	있+기	NOUN	VX+ETN	_	15	obl	_	_
+12	때문에	때문+에	ADV	NNB+JKB	_	11	case	_	_
+13	협동을	협동+을	NOUN	NNG+JKO	_	15	obj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	선호하다	선호+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

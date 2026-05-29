@@ -1,0 +1,118 @@
+# sent_id = ARG-ENG_16_3_01
+# text = 어떤 상황에서 경쟁으로 자신을 응원하는 것이 앞선할 수 있어도 그런 응원이 삶이 짧다고 생각한다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	상황에서	상황+에서	ADV	NNG+JKB	_	9	obl	_	_
+3	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	5	obl	_	_
+4	자신을	자신+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	응원하는	응원+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	앞선할	앞선+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어도	있+어도	VERB	VX+EC	_	13	advcl	_	_
+10	그런	그런	DET	MM	_	11	det	_	_
+11	응원이	응원+이	NOUN	NNG+JKS	_	13	dislocated	_	_
+12	삶이	삶+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	짧다고	짧+다고	ADJ	VA+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_16_3_02
+# text = 왜냐하면 경쟁이 없어진다면 경쟁으로 인한 용기도 없어진다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	7	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없어진다면	없+어지+ㄴ다면	VERB	VA+XSV+EC	_	7	advcl	_	_
+4	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	5	obl	_	_
+5	인한	인하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	용기도	용기+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_16_3_03
+# text = 반면에, 협동으로 일하고 싶은 용기는 더 오랫동안 형성할 수 있다.
+1	반면에	반면+에	ADV	NNG+JKB	_	11	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	협동으로	협동+으로	ADV	NNG+JKB	_	11	obl	_	_
+4	일하고	일+하+고	VERB	NNG+XSV+EC	_	6	acl	_	_
+5	싶은	싶	AUX	VX+ETM	_	4	aux	_	_
+6	용기는	용기+는	NOUN	NNG+JX	_	9	obj	_	_
+7	더	더	ADV	MAG	_	9	advmod	_	_
+8	오랫동안	오랫동안	ADV	MAG	_	9	advmod	_	_
+9	형성할	형성+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_16_3_04
+# text = 예를 들어 카카오라는 대기업은 목표를 완성하기 위해 협동하는 분위기를 조성한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	10	advcl	_	_
+3	카카오라는	카카오+이+라는	ADJ	NNP+VCP+ETM	_	4	acl	_	_
+4	대기업은	대기업+은	NOUN	NNG+JX	_	10	nsubj	_	_
+5	목표를	목표+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	완성하기	완성+하+기	VERB	NNG+XSV+ETN	_	7	obj	_	_
+7	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+8	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	분위기를	분위기+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	조성한다	조성+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_16_3_05
+# text = 그 것 때문에 카카오는 지속적으로 커지고 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	것	것	NOUN	NNB	_	6	obl	_	_
+3	때문에	때문+에	ADV	NNB+JKB	_	2	case	_	_
+4	카카오는	카카오+는	NOUN	NNP+JX	_	6	nsubj	_	_
+5	지속적으로	지속+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	커지고	크+어지+고	VERB	VV+XSV+EC	_	0	root	_	_
+7	있다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_16_3_06
+# text = 이로 보아 개인적인 선호는 협동으로 일하는 상황이다.
+1	이로	이+로	PRON	NP+JKB	_	2	obl	_	_
+2	보아	보+아	VERB	VV+EC	_	7	advcl	_	_
+3	개인적인	개인+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	선호는	선호+는	NOUN	NNG+JX	_	7	dislocated	_	_
+5	협동으로	협동+으로	ADV	NNG+JKB	_	6	obl	_	_
+6	일하는	일+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	상황이다	상황+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_16_3_07
+# text = 주요 이유는 경쟁으로 일하다면 스트레스를 쌓이고 계속하고 싶은 마음이 줄이다.
+1	주요	주요	NOUN	NNG	_	2	nmod	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	6	dislocated	_	_
+3	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	일하다면	일+하+다면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+5	스트레스를	스트레스+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	쌓이고	쌓+이+고	VERB	VV+XSV+EC	_	0	root	_	_
+7	계속하고	계속+하+고	VERB	NNG+XSV+EC	_	9	acl	_	_
+8	싶은	싶	AUX	VX+ETM	_	7	aux	_	_
+9	마음이	마음+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	줄이다	줄+이+다	VERB	VV+XSV+EF	_	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_16_3_08
+# text = 그리고 정신에 위해 부정적인 영햐을 미친다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	정신에	정신+에	ADV	NNG+JKB	_	3	obl	_	_
+3	위해	위하+아	VERB	VV+EC	_	6	advcl	_	_
+4	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+5	영햐을	영햐+을	NOUN	NF+JKO	Typo=Yes	6	obj	_	_
+6	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_16_3_09
+# text = 그래서 전체적으로 더 좋은 효과와 용기에 위해 협동으로 일하는 방식을 선호한다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	전체적으로	전체+적+으로	ADV	NNG+XSN+JKB	_	11	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	효과와	효과+와	NOUN	NNG+JC	_	7	obl	_	_
+6	용기에	용기+에	ADV	NNG+JKB	_	5	conj	_	_
+7	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+8	협동으로	협동+으로	ADV	NNG+JKB	_	9	obl	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	방식을	방식+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

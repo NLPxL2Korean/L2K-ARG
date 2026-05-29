@@ -1,0 +1,176 @@
+# sent_id = ARG-JPN_10_2_01
+# text =  저는 우리가 역사를 배워야 한다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	한다고	하+ㄴ다고	AUX	VX+EC	_	4	aux	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_10_2_02
+# text =  그 이유를 두 개 들 수 있습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유를	이유+를	NOUN	NNG+JKO	_	5	obj	_	_
+3	두	두	NUM	MM	_	2	nummod	_	_
+4	개	개	NOUN	NNB	_	5	obj	_	_
+5	들	들+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_10_2_03
+# text =  첫 번째는 과거를 알아야 미래를 상상할 수 있기 때문입니다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	9	obl	_	_
+3	과거를	과거+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알아야	알+아야	VERB	VV+EC	_	6	advcl	_	_
+5	미래를	미래+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	상상할	상상+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있기	있+기	NOUN	VX+ETN	_	9	nmod	_	_
+9	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_10_2_04
+# text =  예를 들어 우리는 어렸을 때 우리가 언젠가 부모님 처럼 어른이 되는것을 상상하기 어려웠던 것이 아니겠습니까.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	15	advcl	_	_
+3	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+4	어렸을	어리+었+을	VERB	VA+EP+ETM	_	13	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	우리가	우리+가	PRON	NP+JKS	_	11	nsubj	_	_
+7	언젠가	언젠가	ADV	MAG	_	11	advmod	_	_
+8	부모님	부모+님	NOUN	NNG+XSN	_	11	obl	_	_
+9	처럼	처럼	ADV	JKB	_	8	case	_	_
+10	어른이	어른+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	되는것을	되+는+것+을	NOUN	VV+ETM+NNG+JKO	_	12	obj	_	_
+12	상상하기	상상+하+기	NOUN	NNG+XSV+ETN	_	13	csubj	_	_
+13	어려웠던	어렵+었+던	VERB	VA+EP+ETM	_	14	acl	_	_
+14	것이	것+이	NOUN	NNB+JKC	_	15	nsubj	_	_
+15	아니겠습니까	아니+겠+습니까	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_10_2_05
+# text =  그런데 부모님이 어렸을 때 사진을 봄으로써 어린이었던 부모님이 자라 어른이 된 것을 알 수 있습니다.
+1	그런데	그런데	ADV	MAJ	_	15	cc	_	_
+2	부모님이	부모+님+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	어렸을	어리+었+을	VERB	VA+EP+ETM	_	4	acl	_	_
+4	때	때	ADV	NNG	_	5	nmod	_	_
+5	사진을	사진+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	봄으로써	보+ㅁ+으로써	ADV	VV+ETN+JKB	_	15	obl	_	_
+7	어린이었던	어린이+이+었+던	VERB	NNG+VCP+EP+ETM	_	8	acl	_	_
+8	부모님이	부모+님+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+9	자라	자라+아	NOUN	VV+EC	_	11	advcl	_	_
+10	어른이	어른+이	NOUN	NNG+JKC	_	11	nsubj	_	_
+11	된	되+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+13	알	알+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_10_2_06
+# text =  이와 같이 우리는 과거를 암으로써 자기 미래모습을 상상할 수 있게 됩니다.
+1	이와	이+와	ADV	NP+JKB	_	2	obl	_	_
+2	같이	같이	ADV	MAG	_	10	advcl	_	_
+3	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+4	과거를	과거+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	암으로써	암+으로써	ADV	NA+JKB	_	8	obl	_	_
+6	자기	자기	PRON	NNG	_	7	nmod	_	_
+7	미래모습을	미래+모습+을	NOUN	NNG+NNG+JKO	_	8	obj	_	_
+8	상상할	상상+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있게	있+게	VERB	VX+EC	_	0	root	_	_
+11	됩니다	되+ㅂ니다	VERB	VX+EF	_	10	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_10_2_07
+# text =  두 번째는 역사문제를 풀기 위해 필요하기 때문입니다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	7	obl	_	_
+3	역사문제를	역사+문제+를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+4	풀기	풀+기	NOUN	VV+ETN	_	5	obj	_	_
+5	위해	위하+아	VERB	VV+EC	_	6	advcl	_	_
+6	필요하기	필요+하+기	NOUN	NNG+XSA+ETN	_	7	nmod	_	_
+7	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_10_2_08
+# text =  세상에는 나라마다 다양한 역사가 있고 문화나 언어도 다릅니다.
+1	세상에는	세상+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+2	나라마다	나라+마다	ADV	NNG+JX	_	8	obl	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	역사가	역사+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있고	있+고	VERB	VV+EC	_	0	root	_	_
+6	문화나	문화+나	NOUN	NNG+JC	_	8	nsubj	_	_
+7	언어도	언어+도	NOUN	NNG+JX	_	6	conj	_	_
+8	다릅니다	다르+ㅂ니다	ADJ	VA+EF	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_10_2_09
+# text =  이러한 차이는 흥미롭지만 어떨 때는 싸움을 일으키는 계기가 되기도 합니다.
+1	이러한	이러하+ㄴ	DET	VA+ETM	_	2	amod	_	_
+2	차이는	차이+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	흥미롭지만	흥미+롭+지만	VERB	NNG+XSA+EC	_	9	advcl	_	_
+4	어떨	어떻+ㄹ	VERB	VA+ETM	_	9	advcl	_	_
+5	때는	때+는	ADV	NNG+JX	_	4	mark	_	_
+6	싸움을	싸움+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	일으키는	일으키+는	VERB	VV+ETM	_	8	acl	_	_
+8	계기가	계기+가	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	되기도	되+기+도	NOUN	VV+ETN+JX	_	0	root	_	_
+10	합니다	하+ㅂ니다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_10_2_10
+# text =  예를 들어 일본과 한국은 역사를 인식하는데 있어 차이가 있기 때문에 엇갈리거나 오해할 때가 있습니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	14	advcl	_	_
+3	일본과	일본+과	NOUN	NNG+JC	_	6	nsubj	_	_
+4	한국은	한국+은	NOUN	NNP+JX	_	3	conj	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	인식하는데	인식+하+는+데	VERB	NNG+XSV+ETM+NNB	_	7	obl	_	_
+7	있어	있+어	AUX	VV+EC	_	9	advcl	_	_
+8	차이가	차이+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있기	있+기	NOUN	VV+ETN	_	14	obl	_	_
+10	때문에	때문+에	ADP	NNB+JKB	_	9	case	_	_
+11	엇갈리거나	엇갈리+거나	VERB	VV+EC	_	13	acl	_	_
+12	오해할	오해+하+ㄹ	VERB	VV+XSV+ETM	_	11	conj	_	_
+13	때가	때+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_10_2_11
+# text =  그럴 때 외교문제도 일어납니다.
+1	그럴	그리하+ㄹ	DET	VV+ETM	_	4	acl	_	_
+2	때	때	NOUN	NNG	_	1	mark	_	_
+3	외교문제도	외교+문제+도	NOUN	NNG+NNG+JX	_	4	nsubj	_	_
+4	일어납니다	일어나+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_10_2_12
+# text =  이와같은 문제를 해결하기 위해 역사란 객관적인 과거를 배울 필요가 있습니다.
+1	이와같은	이+와+같+은	ADJ	NP+JKB+VA+ETM	_	2	acl	_	_
+2	문제를	문제+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	해결하기	해결+하+기	NOUN	NNG+XSV+ETN	_	4	obj	_	_
+4	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+5	역사란	역사+이+라+ㄴ	NOUN	NNG+VCP+EC+JX	_	7	acl	_	_
+6	객관적인	객관+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	과거를	과거+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	필요가	필요+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_10_2_13
+# text =  위와 같은 두가지의 이유로 저는 역사를 배워야 한다고 생각합니다.
+1	위와	위+와	ADV	NNG+JKB	_	2	obl	_	_
+2	같은	같+은	VERB	VA+ETM	_	4	acl	_	_
+3	두가지의	두+가지+의	NOUN	MM+NNB+JKG	_	4	nmod:poss	_	_
+4	이유로	이유+로	ADV	NNG+JKB	_	9	obl	_	_
+5	저는	저+는	PRON	NP+JX	_	9	nsubj	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	9	ccomp	_	_
+8	한다고	하+ㄴ다고	AUX	VX+EC	_	7	aux	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

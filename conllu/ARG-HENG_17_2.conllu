@@ -1,0 +1,229 @@
+# sent_id = ARG-HENG_17_2_01
+# text = “역사를 잊은 민족이란 미래가 없다.
+1	“역사를	“+역사+를	NOUN	SS+NNG+JKO	_	2	obj	_	_
+2	잊은	잊+은	VERB	VV+ETM	_	3	acl	_	_
+3	민족이란	민족+이란	NOUN	NNG+JX	_	5	obl	_	_
+4	미래가	미래+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_17_2_02
+# text = ”
+1	”	”	NOUN	NNG	_	0	root	_	_
+
+# sent_id = ARG-HENG_17_2_03
+# text = 저는 이 말을 한 한국 역사를 소개해 주는 프로그램에서 본 적이 있습니다.
+1	저는	저+는	PRON	NP+JX	_	12	dislocated	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	말을	말+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	한	하+ㄴ	NUM	VV+ETM	_	9	acl	_	_
+5	한국	한국	NOUN	NNP	_	6	nmod	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	소개해	소개+하+아	VERB	NNG+XSV+EC	_	9	acl	_	_
+8	주는	주+는	VERB	VX+ETM	_	7	aux	_	_
+9	프로그램에서	프로그램+에서	ADV	NNG+JKB	_	10	obl	_	_
+10	본	보+ㄴ	VERB	VV+ETM	_	11	acl	_	_
+11	적이	적+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_17_2_04
+# text = 왜 그런지 곰곰하 생각했을 땐 전에 수강하였던 학교에서 배운 역사 선생님들과 역사시간들이 제일 먼저 떠올랐습니다.
+1	왜	왜	ADV	MAG	_	3	advmod	_	_
+2	그런지	그렇+ㄴ지	VERB	VA+EC	_	4	ccomp	_	_
+3	곰곰하	곰곰하	VERB	NA	_	4	advmod	_	_
+4	생각했을	생각+하+았+을	VERB	NNG+XSV+EP+ETM	_	15	advcl	_	_
+5	땐	때+ㄴ	NOUN	NNG+JX	_	4	mark	_	_
+6	전에	전+에	ADP	NNG+JKB	_	7	obl	_	_
+7	수강하였던	수강+하+았+던	VERB	NNG+XSV+EP+ETM	_	12	acl	_	_
+8	학교에서	학교+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	배운	배우+ㄴ	VERB	VV+ETM	_	10	acl	_	_
+10	역사	역사	NOUN	NNG	_	11	nmod	_	_
+11	선생님들과	선생+님+들+과	ADV	NNG+XSN+XSN+JC	_	15	nsubj	_	_
+12	역사시간들이	역사+시간+들+이	NOUN	NNG+NNG+XSN+JKS	_	15	conj	_	_
+13	제일	제일	ADV	MAG	_	14	advmod	_	_
+14	먼저	먼저	ADV	MAG	_	15	advmod	_	_
+15	떠올랐습니다	떠오르+았+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_17_2_05
+# text = 이 경험들은, 저를 더 이타적이고 더 깊게 생각할 수 있는 능력들을 길러주었습니다.
+1	이	이	DET	MM	_	2	det	_	_
+2	경험들은	경험+들+은	NOUN	NNG+XSN+JX	_	13	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	저를	저+를	PRON	NP+JKO	_	13	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	이타적이고	이타+적+이+고	VERB	NNG+XSN+VCP+EC	_	9	advmod	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	깊게	깊+게	ADV	VA+EC	_	6	conj	_	_
+9	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있는	있+는	VERB	VX+ETM	_	12	acl	_	_
+12	능력들을	능력+들+을	NOUN	NNG+XSN+JKO	_	13	obj	_	_
+13	길러주었습니다	기르+어+주+었+습니다	VERB	VV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_17_2_06
+# text = 예를 들면, 고등학교서 부면 콜럼버스가 사실 위대한 사람이 아닌, 그저 아메리칸 민족들을 살해하고 탐욕에 눈이 먼 사람인 걸 배웠어요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	21	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	고등학교서	고등학교+서	NOUN	NNG+JKB	_	5	obl	_	_
+5	부면	부+면	VERB	NV+EC	_	21	advcl	_	_
+6	콜럼버스가	콜럼버스+가	NOUN	NNP+JKS	_	19	nsubj	_	_
+7	사실	사실	ADV	MAG	_	10	advmod	_	_
+8	위대한	위대+하+ㄴ	ADJ	XR+XSA+ETM	_	9	amod	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	아닌	아니+ㄴ	VERB	VCN+ETM	_	19	advcl	_	_
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	그저	그저	ADV	MAG	_	19	advmod	_	_
+13	아메리칸	아메리칸	NOUN	NNP	_	14	nmod	_	_
+14	민족들을	민족+들+을	NOUN	NNG+XSN+JKO	_	15	obj	_	_
+15	살해하고	살해+하+고	VERB	NNG+XSV+EC	_	18	advcl	_	_
+16	탐욕에	탐욕+에	ADV	NNG+JKB	_	18	obl	_	_
+17	눈이	눈+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	먼	멀+ㄴ	VERB	VV+ETM	_	19	acl	_	_
+19	사람인	사람+이+ㄴ	VERB	NNG+VCP+ETM	_	20	acl	_	_
+20	걸	것+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	배웠어요	배우+었+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-HENG_17_2_07
+# text = 초등학교 땐 그를 추앙하는 시까지 썼는데 말이죠.
+1	초등학교	초등학교	NOUN	NNG	_	6	obl	_	_
+2	땐	때+ㄴ	ADP	JKB	_	1	case	_	_
+3	그를	그+를	PRON	NP+JKO	_	4	obj	_	_
+4	추앙하는	추앙+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	시까지	시+까지	ADV	NNB+JX	_	6	obj	_	_
+6	썼는데	쓰+었+는데	VERB	VV+EP+EC	_	7	advcl	_	_
+7	말이죠	말+이+죠	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_17_2_08
+# text = 저는 역사 과목을 제일 중요한 과목이라 생각이 들어요.
+1	저는	저+는	PRON	NP+JX	_	8	dislocated	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	과목을	과목+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	제일	제일	ADV	MAG	_	5	advmod	_	_
+5	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	acl	_	_
+6	과목이라	과목+이+라	VERB	NNG+VCP+EC	_	7	acl	_	_
+7	생각이	생각+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	들어요	들+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_17_2_09
+# text = 특히 다른 나라들을 배우는 게 더 큰 사람이 될 수 있게 도와주는 것 같아요.
+1	특히	특히	ADV	MAG	_	14	advmod	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	나라들을	나라+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	게	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	될	되+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있게	있+게	VERB	VX+EC	_	12	advcl	_	_
+12	도와주는	도와주+는	VERB	VV+ETM	_	13	acl	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_17_2_10
+# text = 대학교에선 일본의 역사를 배우는 강의를 들었어요.
+1	대학교에선	대학교+에서+ㄴ	ADV	NNG+JKB+JX	_	6	obl	_	_
+2	일본의	일본+의	NOUN	NNP+JKG	_	3	nmod:poss	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	강의를	강의+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	들었어요	듣+었+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_17_2_11
+# text = 전에는 일본을 굉장히 미워했어요 (한일 악감정 때문에) 하지만 이젠 더 큰그림을 볼 수 있는 것 같아요.
+1	전에는	전+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+2	일본을	일본+을	NOUN	NNP+JKO	_	4	obj	_	_
+3	굉장히	굉장히	ADV	MAG	_	4	advmod	_	_
+4	미워했어요	미워하+았+어요	VERB	VV+VX+EP	_	16	advcl	_	_
+5	(한일	(+한일	NOUN	SS+NNG	_	6	nmod	_	_
+6	악감정	악+감정	NOUN	XPN+NNG	_	4	obl	_	_
+7	때문에)	때문+에+)	ADP	NNB+JKB+SS	_	6	case	_	_
+8	하지만	하지만	VERB	MAJ	_	16	cc	_	_
+9	이젠	이제+ㄴ	ADV	MAG+JX	_	12	advmod	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	큰그림을	크+ㄴ+그림+을	NOUN	VA+ETM+NNG+JKO	_	12	obj	_	_
+12	볼	보+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_17_2_12
+# text = 일본의 모든 사람들이 나쁜 게 아니라 쥐고 있는 세력들이 교수들과 저널리스트를 입막음해서 제국주의의 유리한 것들만 허용했기 때문이죠.
+1	일본의	일본+의	NOUN	NNP+JKG	_	3	nmod:poss	_	_
+2	모든	모든	DET	MM	_	3	det	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	dislocated	_	_
+4	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	게	것+이	NOUN	NNB+JKC	_	6	nsubj	_	_
+6	아니라	아니+라	VERB	VCN+EC	_	17	advcl	_	_
+7	쥐고	쥐+고	VERB	VV+EC	_	9	acl	_	_
+8	있는	있+는	AUX	VX+ETM	_	7	aux	_	_
+9	세력들이	세력+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+10	교수들과	교수+들+과	ADV	NNG+XSN+JKB	_	12	obj	_	_
+11	저널리스트를	저널리스트+를	NOUN	NNG+JKO	_	10	conj	_	_
+12	입막음해서	입+막+음+하+아서	VERB	NNG+VV+ETN+VV+EC	_	16	advcl	_	_
+13	제국주의의	제국+주의+의	NOUN	NNG+NNG+JKG	_	15	nmod:poss	_	_
+14	유리한	유리+하+ㄴ	ADJ	NNG+XSA+ETM	_	15	amod	_	_
+15	것들만	것+들+만	NOUN	NNB+XSN+JX	_	16	obj	_	_
+16	허용했기	허용+하+았+기	NOUN	NNG+XSV+EP+ETN	_	17	nmod	_	_
+17	때문이죠	때문+이+죠	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_17_2_13
+# text = 히로시마 폭발때도 마냥 미국이 옳은 판단을 내린줄 알았는데 사실은 일본이 이미 백기를 들은 상태에서 폭탄들을 투척한거였어요.
+1	히로시마	히로시마	NOUN	NNP	_	2	nmod	_	_
+2	폭발때도	폭발+때+도	NOUN	NNG+NNG+JX	_	7	obl	_	_
+3	마냥	마냥	ADV	MAG	_	7	advmod	_	_
+4	미국이	미국+이	NOUN	NNP+JKS	_	7	nsubj	_	_
+5	옳은	옳+은	VERB	VA+ETM	_	6	amod	_	_
+6	판단을	판단+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	내린줄	내리+ㄴ+줄	VERB	VV+ETM+NNB	_	8	obj	_	_
+8	알았는데	알+았+는데	VERB	VV+EP+EC	_	16	advcl	_	_
+9	사실은	사실+은	NOUN	NNG+JX	_	16	obl	_	_
+10	일본이	일본+이	NOUN	NNP+JKS	_	16	nsubj	_	_
+11	이미	이미	ADV	MAG	_	16	advmod	_	_
+12	백기를	백기+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	들은	들+은	VERB	VV+ETM	_	14	acl	_	_
+14	상태에서	상태+에서	ADV	NNG+JKB	_	16	obl	_	_
+15	폭탄들을	폭탄+들+을	NOUN	NNG+XSN+JKO	_	16	obj	_	_
+16	투척한거였어요	투척+하+ㄴ+것+이+었+어요	VERB	NNG+XSV+ETM+NNB+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_17_2_14
+# text = 올바른 역사를 가르치는 것은 이런 포장된 진실들을 바로잡기 위해서에요.
+1	올바른	올바르+ㄴ	NOUN	VA+ETM	_	2	amod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	가르치는	가르치+는	VERB	VV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	9	nsubj	_	_
+5	이런	이런	DET	MM	_	7	det	_	_
+6	포장된	포장+되+ㄴ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	진실들을	진실+들+을	NOUN	NNG+XSN+JKO	_	8	obj	_	_
+8	바로잡기	바로+잡+기	NOUN	MAG+VV+ETN	_	9	obj	_	_
+9	위해서에요	위하+아서+에요	VERB	VV+EC+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_17_2_15
+# text = 그리고 많은 전쟁아픔들을 꺼내서 다시는 그런 무고한 희생들을 막을 수 있어요.
+1	그리고	그리고	ADV	MAJ	_	11	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	전쟁아픔들을	전쟁+아픔+들+을	NOUN	NNG+NNG+XSN+JKO	_	4	obj	_	_
+4	꺼내서	꺼내+어서	VERB	VV+EC	_	11	advcl	_	_
+5	다시는	다시+는	ADV	MAG+JX	_	9	advmod	_	_
+6	그런	그런	DET	MM	_	8	det	_	_
+7	무고한	무고+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	희생들을	희생+들+을	NOUN	NNG+XSN+JKO	_	9	obj	_	_
+9	막을	막+을	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

@@ -1,0 +1,119 @@
+# sent_id = ARG-CZH_11_3_01
+# text = 협동과 경쟁 중에 협동을 선호한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	5	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중에	중+에	ADV	NNB+JKB	_	2	case	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_11_3_02
+# text = 왜냐하면 경쟁이 강하면 사람들의 동기가 높아진데도 불구하고 실수를 더 쉽게 하기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	12	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	강하면	강하+면	ADJ	VA+EC	_	11	advcl	_	_
+4	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	동기가	동기+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	높아진데도	높+아지+ㄴ데+도	VERB	VA+XSV+EC+JX	_	7	advcl	_	_
+7	불구하고	불구+하+고	VERB	XR+XSV+EC	_	11	advcl	_	_
+8	실수를	실수+를	NOUN	NNG+JKO	_	11	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	쉽게	쉽+게	ADV	VA+EC	_	11	advmod	_	_
+11	하기	하+기	VERB	VV+ETN	_	12	nmod	_	_
+12	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_11_3_03
+# text = 학교에서 프로젝트를 할 때 특히 그룹 프로젝트를 하면 사람들 짜증나다는 말을 자주 한다.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	3	obl	_	_
+2	프로젝트를	프로젝트+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	13	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	특히	특히	ADV	MAG	_	8	advmod	_	_
+6	그룹	그것+이	NOUN	NNG	_	7	nmod	_	_
+7	프로젝트를	프로젝트+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	하면	하+면	VERB	VV+EC	_	13	advcl	_	_
+9	사람들	사람+들	NOUN	NNG+XSN	_	13	nsubj	_	_
+10	짜증나다는	짜증+나+다는	ADJ	NNG+XSA+ETM	_	11	acl	_	_
+11	말을	말+을	NOUN	NNG+JKO	_	13	obj	_	_
+12	자주	자주	ADV	MAG	_	13	advmod	_	_
+13	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_11_3_04
+# text = 그 이유는 자기 생각에 대해서 더 높게 생학하기 때문에 협동이 힘든다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	11	obl	_	_
+3	자기	자기	NOUN	NNG	_	4	nmod	_	_
+4	생각에	생각+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대해서	대하+아서	VERB	VV+EC	_	8	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	높게	높+게	ADV	VA+EC	_	8	advmod	_	_
+8	생학하기	생학+하+기	NOUN	NF+XSV+ETN	Typo=Yes	11	obl	_	_
+9	때문에	때문+에	ADV	NNB+JKB	_	8	case	_	_
+10	협동이	협동+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	힘든다	힘들+ㄴ다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_11_3_05
+# text = 하지만 그 프로젝트 주제는 이해가 안될 때 협동이 중요한다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	그	그	DET	MM	_	4	det	_	_
+3	프로젝트	프로젝트	NOUN	NNG	_	4	nmod	_	_
+4	주제는	주제+는	NOUN	NNG+JX	_	6	dislocated	_	_
+5	이해가	이해+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	안될	안되+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	협동이	협동+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_11_3_06
+# text = 그 때 혼자서 하는 것에 비해 같이 하는 것이 더 낫다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNB	_	8	obl	_	_
+3	혼자서	혼자+서	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것에	것+에	ADV	NNB+JKB	_	6	obl	_	_
+6	비해	비하+아	VERB	VV+EC	_	8	advcl	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	낫다	낫+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_11_3_07
+# text = 다른 사람은 나에게 도와 줄 수 있으니 편안한 마음으로 할 수 있다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	나에게	나+에게	PRON	NP+JKB	_	4	obl	_	_
+4	도와	돕+아	VERB	VV+EC	_	6	acl	_	_
+5	줄	주+ㄹ	VERB	VX+ETM	_	4	advcl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있으니	있+으니	VERB	VX+EC	_	12	advcl	_	_
+8	편안한	편안+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	마음으로	마음+으로	ADV	NNG+JKB	_	10	obl	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_11_3_08
+# text = 다 같이 있으면 모든 것을 이길 수 잇기 때문에 경쟁 보다 협동은 더 좋다고 생각한다.
+1	다	다	ADV	MAG	_	3	advmod	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+4	모든	모든	DET	MM	_	5	det	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	이길	이기+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	잇기	잇+기	NOUN	NA+ETN	Typo=Yes	15	obl	_	_
+9	때문에	때문+에	ADV	NNB+JKB	_	8	case	_	_
+10	경쟁	경쟁	NOUN	NNG	_	14	obl	_	_
+11	보다	보다	ADP	JKB	_	10	case	_	_
+12	협동은	협동+은	NOUN	NNG+JX	_	14	nsubj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	좋다고	좋+다고	ADJ	VA+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

@@ -1,0 +1,106 @@
+# sent_id = ARG-JPN_33_3_01
+# text =  저는 지금까지 경험상 합동을 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	지금까지	지금+까지	ADV	NNG+JX	_	3	nmod	_	_
+3	경험상	경험+상	ADV	NNG+XSN	_	6	obl	_	_
+4	합동을	합동+을	NOUN	NF+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_33_3_02
+# text =  제가 학생 때 운동회에 매년 참가하고 있었습니다.
+1	제가	제+가	PRON	NP+JKS	_	6	nsubj	_	_
+2	학생	학생	NOUN	NNG	_	6	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	운동회에	운동회+에	ADV	NNG+JKB	_	6	obl	_	_
+5	매년	매년	NOUN	MAG	_	6	advmod	_	_
+6	참가하고	참가+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+7	있었습니다	있+었+습니다	AUX	VX+EP+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_33_3_03
+# text =  그 때 협동해서 나오는 경기와 혼자서 나오는 경기가 있었습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	9	obl	_	_
+3	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	나오는	나오+는	VERB	VV+ETM	_	5	acl	_	_
+5	경기와	경기+와	NOUN	NNG+JC	_	9	nsubj	_	_
+6	혼자서	혼자+서	ADV	NNG+JKS	_	7	nsubj	_	_
+7	나오는	나오+는	VERB	VV+ETM	_	8	acl	_	_
+8	경기가	경기+가	NOUN	NNG+JKS	_	5	conj	_	_
+9	있었습니다	있+었+습니다	ADJ	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_33_3_04
+# text =  협동 경기는 사람들이랑 이길 위해 얘기하거나 같이 연습하거나 했었습니다.
+1	협동	협동	NOUN	NNG	_	2	nmod	_	_
+2	경기는	경기+는	NOUN	NNG+JX	_	6	obl	_	_
+3	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	6	obl	_	_
+4	이길	이기+ㄹ	VERB	VV+NA	_	5	obj	_	_
+5	위해	위하+아	VERB	VV+EC	_	6	advcl	_	_
+6	얘기하거나	얘기+하+거나	VERB	NNG+XSV+EC	_	0	root	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	연습하거나	연습+하+거나	VERB	NNG+XSV+EC	_	6	conj	_	_
+9	했었습니다	하+았+었+습니다	VERB	VV+EP+EF	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_33_3_05
+# text =  그리고,협동하니까,여러 의견을 들을 수 있고 재미있었습니다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	SpaceAfter=No
+2	,협동하니까	,+협동+하+니까	VERB	SP+NNG+XSV+EC	_	7	advcl	_	SpaceAfter=No
+3	,여러	,+여러	VERB	SP+MM	_	4	amod	_	_
+4	의견을	의견+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	들을	듣+을	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있+고	VERB	VX+EC	_	0	root	_	_
+8	재미있었습니다	재미+있+었+습니다	ADJ	NNG+VA+EP+EF	_	7	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_33_3_06
+# text =  그러나 혼자 경기는 자신이 해야 되는 것이라 조금 부담스럽고 찠을 때 아쉽다는 생각이 난 추억있습니다.
+1	그러나	그러나	ADV	MAJ	_	15	cc	_	_
+2	혼자	혼자	ADV	NNG	_	3	nmod	_	_
+3	경기는	경기+는	NOUN	NNG+JX	_	7	nsubj	_	_
+4	자신이	자신+이	PRON	NNG+JKS	_	5	nsubj	_	_
+5	해야	하+아야	VERB	VV+EC	_	7	acl	_	_
+6	되는	되+는	VERB	VX+ETM	_	5	advcl	_	_
+7	것이라	것+이+라	VERB	NNB+VCP+EC	_	9	nsubj	_	_
+8	조금	조금	ADV	MAG	_	9	advmod	_	_
+9	부담스럽고	부담+스럽+고	VERB	NNG+XSA+EC	_	15	advcl	_	_
+10	찠을	찠+을	NOUN	NA+ETM	_	12	advcl	_	_
+11	때	때	ADP	NNG	_	10	mark	_	_
+12	아쉽다는	아쉽+다는	VERB	VA+ETM	_	13	acl	_	_
+13	생각이	생각+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+14	난	나+ㄴ	VERB	NP+JX	_	15	nsubj	_	_
+15	추억있습니다	추억+있+습니다	VERB	NNG+VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_33_3_07
+# text =  그리고 경쟁은 상대방이 친구에도 친구한테도 "절대 이길거야"라고 생각해버리기 때문에 자신이 나쁜 사람이 된 것 같아서 싫습니다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	8	obl	_	_
+3	상대방이	상대+방+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+4	친구에도	친구+에+도	ADV	NNG+JKB+JX	_	8	obl	_	_
+5	친구한테도	친구+한테+도	ADV	NNG+JKB+JX	_	8	obl	_	_
+6	"절대	"+절대	NOUN	SS+MAG	_	7	advmod	_	_
+7	이길거야"라고	이기+ㄹ+것+이+야+"+라고	VERB	VV+ETM+NNB+VCP+EF+SS+JKQ	_	8	ccomp	_	_
+8	생각해버리기	생각+하+아+버리+기	NOUN	NNG+XSV+EC+VX+ETN	_	15	obl	_	_
+9	때문에	때문+에	ADP	NNB+JKB	_	8	case	_	_
+10	자신이	자신+이	PRON	NNG+JKS	_	13	nsubj	_	_
+11	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	12	amod	_	_
+12	사람이	사람+이	NOUN	NNG+JKC	_	13	nsubj	_	_
+13	된	되+ㄴ	VERB	VV+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같아서	같+아서	VERB	VA+EC	_	16	advcl	_	_
+16	싫습니다	싫+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_33_3_08
+# text =  그러니까 평화적인 협동이 더 선호합니다.
+1	그러니까	그러니까	ADV	MAJ	_	5	cc	_	_
+2	평화적인	평화+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	협동이	협동+이	NOUN	NF+JKS	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호합니다	선호+하+ㅂ니다	ADJ	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

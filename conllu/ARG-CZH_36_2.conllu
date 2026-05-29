@@ -1,0 +1,122 @@
+# sent_id = ARG-CZH_36_2_01
+# text = 다른 주제보다 덜 활용 할 수 있는 주제는 역사라고 생각하는 사람도 있다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	주제보다	주제+보다	ADV	NNG+JKB	_	9	obl	_	_
+3	덜	덜	ADV	MAG	_	4	advmod	_	_
+4	활용	활용+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	6	acl	_	_
+5	할	_	X	_	_	4	goeswith	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	주제는	주제+는	NOUN	NNG+JX	_	9	nsubj	_	_
+9	역사라고	역사+이+라고	ADJ	NNG+VCP+EC	_	10	ccomp	_	_
+10	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	사람도	사람+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_36_2_02
+# text = 수학, 운동, 공학 등 등 사람에게 직접 볼 수 있는 기회를 준다.
+1	수학	수학	NOUN	NNG	_	3	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	운동	운동	NOUN	NNG	_	5	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	공학	공학	NOUN	NNG	_	14	nsubj	_	_
+6	등	등	NOUN	NNB	_	5	case	_	_
+7	등	등	NOUN	NNB	_	5	case	_	_
+8	사람에게	사람+에게	ADV	NNG+JKB	_	14	obl	_	_
+9	직접	직접	ADV	MAG	_	10	advmod	_	_
+10	볼	보+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	기회를	기회+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	준다	주+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_36_2_03
+# text = 그래도 역사를 배움으로써 우리가 얻을 수 있는 것이 많다.
+1	그래도	그래도	ADV	MAJ	_	9	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배움으로써	배우+ㅁ+으로써	VERB	VV+ETN+JKB	_	9	obl	_	_
+4	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+5	얻을	얻+을	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_36_2_04
+# text = 다른 사람들의 실수를 하지 않기를 위해서 역사를 잘 살펴보기가 좋다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	실수를	실수+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	하지	하+지	VERB	VV+EC	_	6	obj	_	_
+5	않기를	않	AUX	VX+ETN+JKO	_	4	aux	_	_
+6	위해서	위하+아서	VERB	VV+EC	_	9	advcl	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	살펴보기가	살피+어+보+기+가	NOUN	VV+EC+VX+ETN+JKS	_	10	nsubj	_	_
+10	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_36_2_05
+# text = 예를들면 누군가가 그의 첫번째 투자를 하려면 다른 투자자들의 해 준 선택을 알아보면 큰 피해를 피할 수 있을지도 모른다.
+1	예를들면	예+를+들+면	VERB	NNG+JKO+VV+EC	_	18	advcl	_	_
+2	누군가가	누구+이+ㄴ가+가	PRON	NP+VCP+EF+JKS	_	6	nsubj	_	_
+3	그의	그+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+4	첫번째	첫+번째	NOUN	MM+NNB	_	5	nmod	_	_
+5	투자를	투자+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	하려면	하+려면	VERB	VV+EC	_	12	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	투자자들의	투자+자+들+의	NOUN	NNG+XSN+XSN+JKG	_	11	nmod:poss	_	_
+9	해	하+아	VERB	VV+EC	_	11	acl	_	_
+10	준	주+ㄴ	VERB	VX+ETM	_	9	advcl	_	_
+11	선택을	선택+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	알아보면	알+아+보+면	VERB	VV+EC+VX+EC	_	17	advcl	_	_
+13	큰	크+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	피해를	피해+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	피할	피하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있을지도	있+을지+도	VERB	VX+EC+JX	_	18	ccomp	_	_
+18	모른다	모르+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_36_2_06
+# text = 아니면 돈을 많이 벌 수 있는 기회를 알아보는 것도 쉬워지다.
+1	아니면	아니+면	ADJ	VCN+EC	_	10	advcl	_	_
+2	돈을	돈+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	벌	벌+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	기회를	기회+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	알아보는	알+아+보+는	VERB	VV+EC+VX+ETM	_	9	acl	_	_
+9	것도	것+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	쉬워지다	쉽+어지+다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_36_2_07
+# text = 누군가가 역사를 배우는 대신에 직접 가서 실수로 많은 것을 배울 수 있지만 그러면 시간이나 돈을 낭비할 수 있고 상처까지 받을 수도 있다.
+1	누군가가	누구+이+ㄴ가+가	PRON	NP+VCP+EF+JKS	_	16	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	6	advcl	_	_
+4	대신에	대신+에	ADV	NNG+JKB	_	3	mark	_	_
+5	직접	직접	ADV	MAG	_	6	advmod	_	_
+6	가서	가+아서	VERB	VV+EC	_	12	advcl	_	_
+7	실수로	실수+로	ADV	NNG+JKB	_	12	obl	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+10	배울	배우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있지만	있+지만	VERB	VX+EC	_	18	advcl	_	_
+13	그러면	그러면	ADV	MAJ	_	18	advmod	_	_
+14	시간이나	시간+이나	NOUN	NNG+JC	_	16	obj	_	_
+15	돈을	돈+을	NOUN	NNG+JKO	_	14	conj	_	_
+16	낭비할	낭비+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있고	있+고	VERB	VX+EC	_	0	root	_	_
+19	상처까지	상처+까지	NOUN	NNG+JX	_	20	obj	_	_
+20	받을	받+을	VERB	VV+ETM	_	21	acl	_	_
+21	수도	수+도	NOUN	NNB+JX	_	22	nsubj	_	_
+22	있다	있+다	ADJ	VX+EF	_	18	conj	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	18	punct	_	_

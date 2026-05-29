@@ -1,0 +1,126 @@
+# sent_id = ARG-ENG_35_2_01
+# text = 역사 배우기가 참 중용한다고 생각해요.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	배우기가	배우+기+가	NOUN	VA+ETN+JKS	_	4	nsubj	_	_
+3	참	참	ADV	MAG	_	4	advmod	_	_
+4	중용한다고	중용+하+ㄴ다고	ADJ	NF+XSA+EC	Typo=Yes	5	ccomp	_	_
+5	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_35_2_02
+# text = 엿날에 보면 사람들이 뭐 했는지, 뭐 생각했는지, 뭐 때문에 사웠는지, 어디서/어떻게 실패 했는지 더 잘 볼수있어요.
+1	엿날에	엿날+에	ADV	NF+JKB	Typo=Yes	2	obl	_	_
+2	보면	보+면	VERB	VV+EC	_	19	advcl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	뭐	뭐	PRON	NP	_	5	obj	_	_
+5	했는지	하+았+는지	VERB	VV+EP+EC	_	19	ccomp	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	뭐	뭐	PRON	NP	_	8	obj	_	_
+8	생각했는지	생각+하+았+는지	VERB	NNG+XSV+EP+EC	_	5	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	뭐	뭐	PRON	NP	_	12	obl	_	_
+11	때문에	때문+에	ADV	NNB+JKB	_	10	case	_	_
+12	사웠는지	사우+었+는지	VERB	NV+EP+EC	Typo=Yes	5	list	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	어디서/어떻게	어디+서+/+어떻+게	NOUN	NP+JKB+SP+VA+EC	_	16	advcl	_	_
+15	실패	실패	NOUN	NNG	_	16	obj	_	_
+16	했는지	하+았+는지	VERB	VV+EP+EC	_	5	list	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	잘	잘	ADV	MAG	_	19	advmod	_	_
+19	볼수있어요	보+ㄹ+수+있+어요	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_35_2_03
+# text = (아무리 역사 책이 완벽하지가 않아도) 그런거 배우면 앞으로 조금 더 잘 할수있어요.
+1	(아무리	(+아무리	ADV	SS+MAG	_	4	advmod	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	책이	책+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	완벽하지가	완벽+하+지+가	NOUN	NNG+XSA+EC+JKS	_	7	advcl	_	_
+5	않아도)	않	AUX	VX+EC+SS	_	4	aux	_	_
+6	그런거	그런+거	NOUN	MM+NNB	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	12	advcl	_	_
+8	앞으로	앞+으로	ADV	NNG+JKB	_	12	obl	_	_
+9	조금	조금	ADV	MAG	_	10	advmod	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	할수있어요	하+ㄹ+수+있+어요	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_35_2_04
+# text = 아무리 배우도 어떤 나라/사람 도같은 실수 해요.
+1	아무리	아무리	ADV	MAG	_	2	advmod	_	_
+2	배우도	배우+도	NOUN	VV+JX	_	7	advcl	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	나라/사람	나라+/+사람	NOUN	NNG+SP+NNG	_	7	nsubj	_	_
+5	도같은	도같+은	VERB	NV+ETM	Typo=Yes	6	amod	_	_
+6	실수	실수	NOUN	NNG	_	7	obj	_	_
+7	해요	하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_35_2_05
+# text = 근데 안 배우는걸 보다 역사 배우면 덜 할수가 있을 것같아요.
+1	근데	근데	ADV	MAJ	_	10	cc	_	_
+2	안	안	ADV	MAG	_	3	advmod	_	_
+3	배우는걸	배우+는+것+을	VERB	VV+ETM+NNB+JKO	_	6	obl	_	_
+4	보다	보다	ADP	JKB	_	3	case	_	_
+5	역사	역사	NOUN	NNG	_	6	obj	_	_
+6	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+7	덜	덜	ADV	MAG	_	8	advmod	_	_
+8	할수가	하+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	9	nsubj	_	_
+9	있을	있+을	VERB	VX+ETM	_	10	acl	_	_
+10	것같아요	것+같+아요	VERB	NNB+VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_35_2_06
+# text = 제 생각의는 “안는게 힘이다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각의는	생각+의+는	NOUN	NNG+JKG+JX	_	4	obl	_	_
+3	“안는게	“+안+는+것+이	NOUN	SS+VV+ETM+NNB+JKS	_	4	nsubj	_	_
+4	힘이다	힘+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_35_2_07
+# text = ”이 란는 펴현이가 맞아요.
+1	”이	”+이+란는	NOUN	SS+JKS+NA	Typo=Yes	3	acl	_	_
+2	란는	_	X	_	_	1	goeswith	_	_
+3	펴현이가	펴현이+가	NOUN	NF+JKS	Typo=Yes	4	nsubj	_	_
+4	맞아요	맞+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_35_2_08
+# text = 그리고 역사 배우면 나라 마다/ 인간의 문화 더 알 수가 있고 조금 더 잘 이해할수 있어요.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	역사	역사	NOUN	NNG	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	_
+4	나라	나라	NOUN	NNG	_	11	obl	_	_
+5	마다/	마다+/	VERB	JX+SP	_	4	case	_	_
+6	인간의	인간+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	문화	문화	NOUN	NNG	_	9	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	알	알+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수가	수+가	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	0	root	_	_
+12	조금	조금	ADV	MAG	_	13	advmod	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	잘	잘	ADV	MAG	_	15	advmod	_	_
+15	이해할수	이해+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	16	nsubj	_	_
+16	있어요	있	AUX	VX+EF	_	11	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_35_2_09
+# text = 역사 배우는 거는 재미있고 매우 소중하다고 생각해요.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	거는	거+는	NOUN	NNB+JX	_	4	nsubj	_	_
+4	재미있고	재미+있+고	ADJ	NNG+VA+EC	_	7	ccomp	_	_
+5	매우	매우	ADV	MAG	_	6	advmod	_	_
+6	소중하다고	소중+하+다고	ADJ	XR+XSA+EC	_	4	conj	_	_
+7	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_35_2_10
+# text = 역사 배워야 돼요.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	돼요	되+어요	VERB	VX+EF	_	2	advcl	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_

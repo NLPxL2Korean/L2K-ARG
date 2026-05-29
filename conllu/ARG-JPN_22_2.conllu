@@ -1,0 +1,82 @@
+# sent_id = ARG-JPN_22_2_01
+# text =  나는 역사를 배울 필요가 없다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	필요가	필요+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다고	없+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_22_2_02
+# text =  이유는 "역사적인 국제 문제가 현재도 이어가고 심각화 되어 있어서"다.
+1	이유는	이유+는	NOUN	NNG+JX	_	9	nsubj	_	_
+2	"역사적인	"+역사+적+이+ㄴ	ADJ	SS+NNG+XSN+VCP+ETM	_	4	amod	_	_
+3	국제	국제	NOUN	NNG	_	4	nmod	_	_
+4	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	현재도	현재+도	ADV	NNG+JX	_	6	obl	_	_
+6	이어가고	이어가+고	VERB	VV+EC	_	8	advcl	_	_
+7	심각화	심각+화	NOUN	NNG+XSN	_	8	nsubj	_	_
+8	되어	되+어	VERB	VV+EC	_	9	advcl	_	_
+9	있어서"다	있+어서+"+다	VERB	VX+EC+SS+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_22_2_03
+# text =  아무리 현재 국제관계가 개선 되어도 역사적인 사실에서 벗어나지를 못하고 상대에 대한 불만, 혐오감을 느끼는 사람은 있을 것이다.
+1	아무리	아무리	ADV	MAG	_	5	advmod	_	_
+2	현재	현재	ADV	NNG	_	3	nmod	_	_
+3	국제관계가	국제+관계+가	NOUN	NNG+NNG+JKS	_	5	dislocated	_	_
+4	개선	개선	NOUN	NNG	_	5	nsubj	_	_
+5	되어도	되+어도	VERB	VV+EC	_	18	advcl	_	_
+6	역사적인	역사+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	사실에서	사실+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	벗어나지를	벗어나+지+를	VERB	VV+EC+JKO	_	9	ccomp	_	_
+9	못하고	못하+고	VERB	VX+EC	_	15	advcl	_	_
+10	상대에	상대+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대한	대하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	불만	불만	NOUN	NNG	_	14	list	_	_
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	혐오감을	혐오+감+을	NOUN	NNG+XSN+JKO	_	15	obj	_	_
+15	느끼는	느끼+는	VERB	VV+ETM	_	16	acl	_	_
+16	사람은	사람+은	NOUN	NNG+JX	_	17	nsubj	_	_
+17	있을	있+을	VERB	VV+ETM	_	18	acl	_	_
+18	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_22_2_04
+# text =  그럼 오히려 그런 역사를 모르면 현재 일어나고 있는 국제간에 문제나 관계에 집중해서 서로가 좋은 방향으로 논의를 할수있는 기회를 가질 수 있다고 생각한다.
+1	그럼	그럼	ADV	MAG	_	22	advmod	_	_
+2	오히려	오히려	ADV	MAG	_	5	advmod	_	_
+3	그런	그런	DET	MM	_	4	det	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	모르면	모르+면	VERB	VV+EC	_	12	advcl	_	_
+6	현재	현재	ADV	MAG	_	7	advmod	_	_
+7	일어나고	일어나+고	VERB	VV+EC	_	10	acl	_	_
+8	있는	있+는	AUX	VX+ETM	_	7	aux	_	_
+9	국제간에	국제+간+에	ADV	NNG+NNB+JKB	_	12	obl	_	_
+10	문제나	문제+나	NOUN	NNG+JC	_	12	obl	_	_
+11	관계에	관계+에	ADV	NNG+JKB	_	10	conj	_	_
+12	집중해서	집중+하+아서	VERB	NNG+XSV+EC	_	21	advcl	_	_
+13	서로가	서로+가	NOUN	NNG+JKS	_	17	nsubj	_	_
+14	좋은	좋+은	VERB	VA+ETM	_	15	amod	_	_
+15	방향으로	방향+으로	ADV	NNG+JKB	_	17	obl	_	_
+16	논의를	논의+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	할수있는	하+ㄹ+수+있+는	VERB	VV+ETM+NNB+VX+ETM	_	18	acl	_	_
+18	기회를	기회+를	NOUN	NNG+JKO	_	19	obj	_	_
+19	가질	가지+ㄹ	VERB	VV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있다고	있+다고	VERB	VX+EC	_	22	ccomp	_	_
+22	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_22_2_05
+# text =  이상 이유로 나는 역사를 배울 필요가 없다고 생각한다.
+1	이상	이상	ADV	NNG	_	2	nmod	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	8	obl	_	_
+3	나는	나+는	VERB	NP+JX	_	8	nsubj	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	필요가	필요+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	없다고	없+다고	VERB	VA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

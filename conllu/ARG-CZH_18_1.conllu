@@ -1,0 +1,63 @@
+# sent_id = ARG-CZH_18_1_01
+# text = 조기언어교육은 필어한 것이다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	nsubj	_	_
+2	필어한	필어+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	3	amod	_	_
+3	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_18_1_02
+# text = 오늘은 언어 배우기 중영한다.
+1	오늘은	오늘+은	ADV	NNG+JX	_	4	advmod	_	_
+2	언어	언어	NOUN	NNG	_	3	obj	_	_
+3	배우기	배우+기	VERB	VV+ETN	_	4	nsubj	_	_
+4	중영한다	중영+하+ㄴ다	ADJ	NF+XSA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_18_1_03
+# text = (일이 위해, 여행하기 위해) 아이들은 다른 언어를 배우면 더 쉬우다.
+1	(일이	(+일+이	NOUN	SS+NNG+JKS	_	2	nsubj	_	_
+2	위해	위하+아	VERB	VV+EC	_	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	여행하기	여행+하+기	VERB	NNG+XSV+ETN	_	5	obj	_	_
+5	위해)	위하+아+)	VERB	VV+EC+SS	_	9	advcl	_	_
+6	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	쉬우다	쉬우+다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_18_1_04
+# text = 더 빠리 배울 수 있다.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	빠리	빠리	ADV	NA	Typo=Yes	3	advmod	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_18_1_05
+# text = 하지만 스트래스 많이 받다.
+1	하지만	하지만	ADV	MAJ	_	4	cc	_	_
+2	스트래스	스트래스	NOUN	NF	Typo=Yes	4	obj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	받다	받+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_18_1_06
+# text = 애를 드러 다른 아이들은 취미를 하면, 그 언어 배우는 아이가 시간이 없다.
+1	애를	애+를	NOUN	NF+JKO	Typo=Yes	2	obj	_	_
+2	드러	드+러	VERB	NV+EC	Typo=Yes	6	advcl	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+5	취미를	취미+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	하면	하+면	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	언어	언어	NOUN	NNG	_	10	obj	_	_
+10	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+11	아이가	아이+가	NOUN	NNG+JKS	_	13	dislocated	_	_
+12	시간이	시간+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

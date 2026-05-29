@@ -1,0 +1,208 @@
+# sent_id = ARG-HENG_06_2_01
+# text = 역사를 배워야 한다고 생각한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	ccomp	_	_
+3	한다고	하+ㄴ다고	AUX	VX+EC	_	2	aux	_	_
+4	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_06_2_01
+# text = 제 생각에는 역사는 꼭 배워야 하는 것입니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+3	역사는	역사+는	NOUN	NNG+JX	_	7	nsubj	_	_
+4	꼭	꼭	ADV	MAG	_	5	advmod	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	acl	_	_
+6	하는	하+는	AUX	VX+ETM	_	5	aux	_	_
+7	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_06_2_02
+# text = 역사를 배우면, 미래에는 더 발전을 할 수 있고, 과거에서 잘못된 사건들과 사고의 대한 배움과 반성이 중요하다고 생각한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	미래에는	미래+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	발전을	발전+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	18	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	과거에서	과거+에서	ADV	NNG+JKB	_	12	obl	_	_
+12	잘못된	잘못+되+ㄴ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	사건들과	사건+들+과	NOUN	NNG+XSN+JC	_	15	nmod:poss	_	_
+14	사고의	사고+의	NOUN	NNG+JKG	_	13	conj	_	_
+15	대한	대하+ㄴ	VERB	VV+ETM	_	16	acl	_	_
+16	배움과	배움+과	NOUN	NNG+JC	_	18	nsubj	_	_
+17	반성이	반성+이	NOUN	NNG+JKS	_	16	conj	_	_
+18	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_06_2_02
+# text = 역사는 사람들에 실수 와 선공에 되한 이야기고, 역사의 이야기가 없으면 똑같은 실수를 반복 하기 때문에 배워야 하는것같습니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	7	nsubj	_	_
+2	사람들에	사람+들+에	ADV	NNG+XSN+JKB	_	6	obl	_	_
+3	실수	실수	NOUN	NNG	_	6	obl	_	_
+4	와	와	VERB	JC	_	3	case	_	_
+5	선공에	선공+에	ADV	NF+JKB	_	3	conj	_	_
+6	되한	되하+ㄴ	VERB	NV+ETM	_	7	acl	_	_
+7	이야기고	이야기+이+고	VERB	NNG+VCP+EC	_	18	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	역사의	역사+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	이야기가	이야기+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	없으면	없+으면	VERB	VA+EC	_	15	advcl	_	_
+12	똑같은	똑같+은	ADJ	VA+ETM	_	13	amod	_	_
+13	실수를	실수+를	NOUN	NNG+JKO	_	15	obj	_	_
+14	반복	반+복	VERB	NNG+VV	_	15	obj	_	_
+15	하기	하+기	NOUN	VV+ETN	_	17	obl	_	_
+16	때문에	때문+에	ADP	NNB+JKB	_	15	case	_	_
+17	배워야	배우+어야	VERB	VV+EC	_	18	acl	_	_
+18	하는것같습니다	하+는+것+같+습니다	VERB	VX+ETM+NNB+VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_06_2_03
+# text = 또, 한 나라에 시민으로서 자기 나라에 대한 역사를 배우면서, 자기의 정체성과 나라에 대한 자부심이 생긴다고 생각한다.
+1	또	또	ADV	MAG	_	18	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	10	punct	_	_
+3	한	한	NUM	MM	_	4	det	_	_
+4	나라에	나라+에	ADV	NNG+JKB	_	10	obl	_	_
+5	시민으로서	시민+으로서	ADV	NF+JKB	_	10	obl	_	_
+6	자기	자기	PRON	NNG	_	7	nmod	_	_
+7	나라에	나라+에	ADV	NNG+JKB	_	8	obl	_	_
+8	대한	대하+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우면서	배우+면서	VERB	VV+EC	_	17	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	자기의	자기+의	PRON	NNG+JKG	_	13	nmod:poss	_	_
+13	정체성과	정체+성+과	ADV	NNG+XSN+JKB	_	17	nsubj	_	_
+14	나라에	나라+에	ADV	NNG+JKB	_	13	conj	_	_
+15	대한	대하+ㄴ	VERB	VV+ETM	_	16	acl	_	_
+16	자부심이	자부심+이	NOUN	NNG+JKS	_	13	conj	_	_
+17	생긴다고	생기+ㄴ다고	VERB	VV+EC	_	18	ccomp	_	_
+18	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_06_2_03
+# text = 그뿐만 아니라 역사는 어느나라 사람들에 문화가 될수도있고, 그 사람들의 정채도될수있어서, 어느날 역사를 않 배우게 되면 문화와 사람의 정채를 지운는것과다름은없다고 생각하고 있습니다.
+1	그뿐만	그+뿐+만	NOUN	MM+NNB+JX	_	2	nsubj	_	_
+2	아니라	아니+라	VERB	VCN+EC	_	7	advcl	_	_
+3	역사는	역사+는	NOUN	NNG+JX	_	7	dislocated	_	_
+4	어느나라	어느+나라	NOUN	MM+NNG	_	5	nmod	_	_
+5	사람들에	사람+들+에	ADV	NNG+XSN+JKB	_	7	obl	_	_
+6	문화가	문화+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	될수도있고	되+ㄹ+수+도+있+고	VERB	VV+ETM+NNB+JX+VX+EC	_	22	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	11	nmod:poss	_	_
+11	정채도될수있어서	정채+도+되+ㄹ+수+있+어서	NOUN	NF+JX+VV+ETM+NNB+VX+EC	_	7	conj	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	어느날	어느+날	ADV	MM+NNB	_	16	obl	_	_
+14	역사를	역사+를	NOUN	NNG+JKO	_	16	obj	_	_
+15	않	않	ADV	NA	_	16	advmod	_	_
+16	배우게	배우+게	VERB	VV+EC	_	21	advcl	_	_
+17	되면	되+면	VERB	VX+EC	_	16	advcl	_	_
+18	문화와	문화+와	NOUN	NNG+JC	_	21	obj	_	_
+19	사람의	사람+의	NOUN	NNG+JKG	_	18	conj	_	_
+20	정채를	정채+를	NOUN	NNG+JKO	_	21	obj	_	_
+21	지운는것과다름은없다고	지우+ㄴ+는+것+과+다르+ㅁ+없+다고	VERB	VV+ETM+ETM+NNB+JKB+VA+ETN+VA+EC	_	22	ccomp	_	_
+22	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+23	있습니다	있+습니다	AUX	VX+EF	_	22	aux	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-HENG_06_2_04
+# text = 법정에서도 과거에 있었던 판례들도 중요시 생각한다.
+1	법정에서도	법+정+에서+도	ADV	NNG+JKB+JX	_	6	obl	_	_
+2	과거에	과거+에	ADV	NNG+JKB	_	3	obl	_	_
+3	있었던	있+었+던	VERB	VV+EP+ETM	_	4	acl	_	_
+4	판례들도	판례+들+도	NOUN	NNG+XSN+JX	_	6	obj	_	_
+5	중요시	중요+시	ADV	NNG+XSN	_	6	advmod	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_06_2_04
+# text = 역사를 배우는 것은 뒤로 보는 게 않이라 앞을 조심 스럽게 다가간도고 생각합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	7	dislocated	_	_
+4	뒤로	뒤로	ADV	NNG+JKB	_	5	obl	_	_
+5	보는	보+는	VERB	VV+ETM	_	6	acl	_	_
+6	게	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	않이라	않이+라	VERB	NV+EC	_	11	advcl	_	_
+8	앞을	앞+을	NOUN	NNG+JKO	_	11	obj	_	_
+9	조심	조심	VERB	NNG	_	11	advmod	_	_
+10	스럽게	_	X	_	_	9	goeswith	_	_
+11	다가간도고	다가가+ㄴ도고	VERB	VV+NA	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_06_2_05
+# text = 그 뜻은 법에서도 역서에서 배울 수 있는 게 많다는 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	뜻은	뜻+은	NOUN	NNG+JX	_	10	nsubj	_	_
+3	법에서도	법+에서+도	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	역서에서	역서+에서	ADV	NNG+JKB	_	5	obl	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	게	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	많다는	많+다는	VERB	VA+ETM	_	10	acl	_	_
+10	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_06_2_05
+# text = 사람들은 몇년이 지나도 똑같아서, 자신에 관련된 역사가 아니라도, 역사를 배우면 자신에게도 배우게 된다는 점도있습니다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+2	몇년이	몇+년+이	NOUN	MM+NNB+JKS	_	3	nsubj	_	_
+3	지나도	지나+도	VERB	VV+EC	_	4	advcl	_	_
+4	똑같아서	똑같+아서	VERB	VA+EC	_	16	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	자신에	자신+에	ADV	NNG+JKB	_	7	obl	_	_
+7	관련된	관련+되+ㄴ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	역사가	역사+가	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	아니라도	아니+라도	VERB	VCN+EC	_	16	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	역사를	역사+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+13	자신에게도	자신+에게+도	ADV	NNG+JKB+JX	_	14	obl	_	_
+14	배우게	배우+게	VERB	VV+EC	_	16	acl	_	_
+15	된다는	되+ㄴ다는	VERB	VX+ETM	_	14	advcl	_	_
+16	점도있습니다	점+도+있+습니다	VERB	NNG+JX+VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_06_2_06
+# text = 역사를 배우면서 다른 문화와 나라에 대한 지식도 배울 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면서	배우+면서	VERB	VV+EC	_	10	advcl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	문화와	문화+와	NOUN	NNG+JC	_	6	obl	_	_
+5	나라에	나라+에	ADV	NNG+JKB	_	4	conj	_	_
+6	대한	대하+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	지식도	지식+도	NOUN	NNG+JX	_	8	obj	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_06_2_07
+# text = 다른 문화와 나라에 대한 지식을 쌓으면서, 나와 다른 환경과 문화에서 자란 사람들을 더 이해를 할 수 있다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	문화와	문화+와	NOUN	NNG+JC	_	4	obl	_	_
+3	나라에	나라+에	ADV	NNG+JKB	_	2	conj	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	지식을	지식+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	쌓으면서	쌓+으면서	VERB	VV+EC	_	18	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	나와	나+와	ADV	NP+JKB	_	9	obl	_	_
+9	다른	다르+ㄴ	ADJ	VA+ETM	_	10	acl	_	_
+10	환경과	환경+과	NOUN	NNG+JC	_	12	obl	_	_
+11	문화에서	문화+에서	ADV	NNG+JKB	_	10	conj	_	_
+12	자란	자라+ㄴ	VERB	VV+ETM	_	13	acl	_	_
+13	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	16	obj	_	_
+14	더	더	ADV	MAG	_	16	advmod	_	_
+15	이해를	이해+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	할	하+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

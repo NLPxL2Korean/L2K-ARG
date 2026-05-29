@@ -1,0 +1,93 @@
+# sent_id = ARG-CHN_16_1_01
+# text = 자연 개발은 더 중요하다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발은	개발+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_16_1_02
+# text = 왜냐하면 경제는 더 좋아지만 대부분의 사람에 대한 생활 수준이 더 높어지다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	경제는	경제+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋아지만	좋+아지+만	VERB	VA+XSV+NA	Typo=Yes	11	advcl	_	_
+5	대부분의	대부분+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	사람에	사람+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	생활	생활	NOUN	NNG	_	9	nmod	_	_
+9	수준이	수준+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	높어지다	높+어지+다	ADJ	VA+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_16_1_03
+# text = 이제 세계에서 아직 많은 사람의 생활은 관난한데 그들은 많은 공장이나 농업을 필요한다.
+1	이제	이제	ADV	MAG	_	7	advmod	_	_
+2	세계에서	세계+에서	ADV	NNG+JKB	_	7	obl	_	_
+3	아직	아직	ADV	MAG	_	7	advmod	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	사람의	사람+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	생활은	생활+은	NOUN	NNG+JX	_	7	nsubj	_	_
+7	관난한데	관난+하+ㄴ데	ADJ	NF+XSA+EC	Typo=Yes	12	advcl	_	_
+8	그들은	그+들+은	PRON	NP+XSN+JX	_	12	nsubj	_	_
+9	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+10	공장이나	공장+이나	NOUN	NNG+JC	_	12	obj	_	_
+11	농업을	농업+을	NOUN	NNG+JKO	_	10	conj	_	_
+12	필요한다	필요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_16_1_04
+# text = 자연 보호는 경제개발과 호상 작용의 관계가 있다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보호는	보호+는	NOUN	NNG+JX	_	7	dislocated	_	_
+3	경제개발과	경제+개발+과	ADV	NNG+NNG+JKB	_	7	obl	_	_
+4	호상	호상	NOUN	NF	Typo=Yes	5	nmod	_	_
+5	작용의	작용+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	관계가	관계+가	NOUN	NNG+JKS	_	3	conj	_	_
+7	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_16_1_05
+# text = 경제를 발잔하기 위해 자주 자연 개발을 필요한다.
+1	경제를	경제+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	발잔하기	발잔+하+기	NOUN	NF+XSV+ETN	Typo=Yes	3	obj	_	_
+3	위해	위하+아	VERB	VV+EC	_	7	advcl	_	_
+4	자주	자주	ADV	MAG	_	7	advmod	_	_
+5	자연	자연	NOUN	NNG	_	6	acl	_	_
+6	개발을	개발+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	필요한다	필요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_16_1_06
+# text = 어느 나라에서 환경 문제가도 있고 자연 보존 문제가도 있다.
+1	어느	어느	DET	MM	_	2	det	_	_
+2	나라에서	나라+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	환경	환경	NOUN	NNG	_	4	nmod	_	_
+4	문제가도	문제+가+도	NOUN	NNG+JKS+JX	_	5	nsubj	_	_
+5	있고	있+고	VERB	VV+EC	_	0	root	_	_
+6	자연	자연	NOUN	NNG	_	7	nmod	_	_
+7	보존	보존	NOUN	NNG	_	8	nmod	_	_
+8	문제가도	문제+가+도	NOUN	NNG+JKS+JX	_	9	nsubj	_	_
+9	있다	있+다	VERB	VV+EF	_	5	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_16_1_07
+# text = 그리데 국민의 생활 수준은 제일 중요한 문제가 있다.
+1	그리데	그리데	ADV	NA	Typo=Yes	8	cc	_	_
+2	국민의	국민+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	생활	생활	NOUN	NNG	_	4	nmod	_	_
+4	수준은	수준+은	NOUN	NNG+JX	_	8	obl	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	문제가	문제+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_16_1_08
+# text = 우선 경제를 발잔해야 한다.
+1	우선	우선	ADV	MAG	_	3	advmod	_	_
+2	경제를	경제+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	발잔해야	발잔+하+아야	VERB	NF+XSV+EC	Typo=Yes	0	root	_	_
+4	한다	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_

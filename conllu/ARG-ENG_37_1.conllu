@@ -1,0 +1,206 @@
+# sent_id = ARG-ENG_37_1_01
+# text = 새로운 언어를 어렸을때 부터 배우는 것이 여러가지 장점과 단점들이 있다.
+1	새로운	새롭+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+3	어렸을때	어리+었+을+때	VERB	VA+EP+ETM+NNG	_	5	advcl	_	_
+4	부터	부터	ADV	JX	_	3	case	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	10	dislocated	_	_
+7	여러가지	여러+가지	NOUN	MM+NNB	_	8	nmod	_	_
+8	장점과	장점+과	NOUN	NNG+JC	_	10	nsubj	_	_
+9	단점들이	단점+들+이	NOUN	NNG+XSN+JKS	_	8	conj	_	_
+10	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_37_1_02
+# text = 새로운 언어를 일찍 배우는 정점은, 그 새로운 언어를 더 빨리, 효율적이게 배울수 있다.
+1	새로운	새롭+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	정점은	정점+은	NOUN	NF+JX	_	15	obl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	그	그	DET	MM	_	9	det	_	_
+8	새로운	새롭+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	14	obj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	빨리	빨리	ADV	MAG	_	13	list	_	_
+12	,	,	PUNCT	SP	_	14	punct	_	_
+13	효율적이게	효율+적+이+게	ADV	NNG+XSN+VCP+EC	_	14	advmod	_	_
+14	배울수	배우+ㄹ+수	VERB	VV+ETM+NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_37_1_03
+# text = 신경과학 연구에 따라 애들들의 뇌들이 어른들의 뇌보다 윤동성이 더 많이 있고 가능성이 더 맣이 있다.
+1	신경과학	신경+과학	NOUN	NNG+NNG	_	2	nmod	_	_
+2	연구에	연구+에	ADV	NNG+JKB	_	3	obl	_	_
+3	따라	따르+아	VERB	VV+EC	_	11	advcl	_	_
+4	애들들의	애+들+들+의	NOUN	NNG+XSN+XSN+JKG	_	5	nmod:poss	_	_
+5	뇌들이	뇌+들+이	NOUN	NNG+XSN+JKS	_	11	dislocated	_	_
+6	어른들의	어른+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	뇌보다	뇌+보다	ADV	NNG+JKB	_	11	obl	_	_
+8	윤동성이	윤동+성+이	NOUN	NF+XSN+JKS	_	11	nsubj	_	_
+9	더	더	ADV	MAG	_	11	advmod	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	있고	있+고	VERB	VV+EC	_	0	root	_	_
+12	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	맣이	맣이	VERB	NA	_	15	advmod	_	_
+15	있다	있+다	AUX	VV+EF	_	11	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_37_1_04
+# text = 그래서 애들들은 새로운 언어를 더 빠르게 배울수가 있다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	애들들은	애+들+들+은	NOUN	NNG+XSN+XSN+JX	_	7	nsubj	_	_
+3	새로운	새롭+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	빠르게	빠르+게	ADV	VA+EC	_	7	advmod	_	_
+7	배울수가	배우+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	8	nsubj	_	_
+8	있다	있+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_37_1_05
+# text = 그리고 새로운 언어를 어렸을때 부터 배운다고 하면 애들들의 문화의 지식과 관점을 더 넓히수가 있다.
+1	그리고	그리고	ADV	MAJ	_	14	cc	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	어렸을때	어리+었+을+때	VERB	VA+EP+ETM+NNG	_	6	obl	_	_
+5	부터	부터	ADP	JX	_	4	case	_	_
+6	배운다고	배우+ㄴ다고	VERB	VV+EC	_	7	ccomp	_	_
+7	하면	하+면	AUX	VV+EC	_	14	advcl	_	_
+8	애들들의	애+들+들+의	NOUN	NNG+XSN+XSN+JKG	_	9	nmod:poss	_	_
+9	문화의	문화+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	지식과	지식+과	NOUN	NNG+JC	_	13	obj	_	_
+11	관점을	관점+을	NOUN	NNG+JKO	_	10	conj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	넓히수가	넓히+수+가	NOUN	VV+NNB+JKS	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_37_1_06
+# text = 그러한 면에서 애들들이 더 빨리 성숙해지고 성장을 할수있다.
+1	그러한	그러하+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	면에서	면+에서	ADV	NNB+JKB	_	6	obl	_	_
+3	애들들이	애+들+들+이	NOUN	NNG+XSN+XSN+JKS	_	6	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	빨리	빨리	ADV	MAG	_	6	advmod	_	_
+6	성숙해지고	성숙+하+아지+고	VERB	NNG+XSV+XSV+EC	_	0	root	_	_
+7	성장을	성장+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	할수있다	하+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_37_1_07
+# text = 계다가 다양한 사람들이랑 관계를 맺을수가 있고 다양한 문화들를 더 존중할수가 있다.
+1	계다가	계다가	NOUN	NA	_	6	advmod	_	_
+2	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	5	obl	_	_
+4	관계를	관계+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	맺을수가	맺+을+수+가	NOUN	VV+ETM+NNB+JKS	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	0	root	_	_
+7	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	문화들를	문화+들+를	NOUN	NNG+XSN+JKO	_	10	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	존중할수가	존중+하+ㄹ+수+가	NOUN	NNG+XSV+ETM+NNB+JKS	_	11	nsubj	_	_
+11	있다	있+다	AUX	VX+EF	_	6	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_37_1_08
+# text = 하지만 어렸을때 부터 새로운 언어를 배운것은 단점들도 있다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	어렸을때	어리+었+을+때	VERB	VA+EP+ETM+NNG	_	6	advcl	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배운것은	배우+ㄴ+것+은	NOUN	VV+ETM+NNB+JX	_	8	dislocated	_	_
+7	단점들도	단점+들+도	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_37_1_09
+# text = 첫째로, 새로운 언어를 너무 많이 집중을 한다고 하면, 모국어를 제대로 배울수가 없다.
+1	첫째로	첫째+로	ADV	NR+JKB	_	14	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	새로운	새롭+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	많이	많이	ADV	MAG	_	8	advmod	_	_
+7	집중을	집중+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	한다고	하+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	하면	하+면	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	모국어를	모국어+를	NOUN	NNG+JKO	_	13	nsubj	_	_
+12	제대로	제대로	ADV	MAG	_	13	advmod	_	_
+13	배울수가	배우+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	14	nsubj	_	_
+14	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_37_1_10
+# text = 애들은 성장하는 시절동안 모국어의 기초과 기본적인 개념들을 통달을 해야되는데, 새로운 외국 언어에 빠지고 집중이 분산되면, 애들이 모국어를 제대로 배우지 않는 경우가 있을수가 있다.
+1	애들은	애+들+은	NOUN	NNG+XSN+JX	_	2	nsubj	_	_
+2	성장하는	성장+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	시절동안	시절+동안	NOUN	NNG+NNG	_	9	obl	_	_
+4	모국어의	모국어+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	기초과	기초+과	NOUN	NNG+JC	_	9	obj	_	_
+6	기본적인	기본+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	개념들을	개념+들+을	NOUN	NNG+XSN+JKO	_	5	conj	_	_
+8	통달을	통달+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	해야되는데	하+아야+되+는데	VERB	VV+EC+VX+EC	_	16	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	새로운	새롭+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+12	외국	외국	NOUN	NNG	_	13	nmod	_	_
+13	언어에	언어+에	ADV	NNG+JKB	_	14	obl	_	_
+14	빠지고	빠지+고	VERB	VV+EC	_	16	advcl	_	_
+15	집중이	집중+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	분산되면	분산+되+면	VERB	NNG+XSV+EC	_	25	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	애들이	애+들+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+19	모국어를	모국어+를	NOUN	NNG+JKO	_	21	obj	_	_
+20	제대로	제대로	ADV	MAG	_	21	advmod	_	_
+21	배우지	배우+지	VERB	VV+EC	_	23	acl	_	_
+22	않는	않+는	AUX	VX+ETM	_	21	aux	_	_
+23	경우가	경우+가	NOUN	NNG+JKS	_	24	nsubj	_	_
+24	있을수가	있+을+수+가	NOUN	VV+ETM+NNB+JKS	_	25	nsubj	_	_
+25	있다	있+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-ENG_37_1_11
+# text = 그리고 애들이 새로운 외국 언어를 배우고 싶지 않는 경우에는 억지로 가르치면 안된다고 생각한다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	애들이	애+들+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+3	새로운	새롭+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	외국	외국	NOUN	NNG	_	5	nmod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우고	배우+고	VERB	VV+EC	_	9	acl	_	_
+7	싶지	싶+지	AUX	VX+EC	_	6	aux	_	_
+8	않는	않+는	AUX	VX+ETM	_	6	aux	_	_
+9	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+10	억지로	억지로	ADV	MAG	_	11	advmod	_	_
+11	가르치면	가르치+면	VERB	VV+EC	_	12	advcl	_	_
+12	안된다고	안+되+ㄴ다고	VERB	MAG+VV+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_37_1_12
+# text = 외국어를 치열하게 강요를 한다고 하면 오히려 애들들이 새로운 언어를 더 많이 배우고 싶지 않는 감정들이 생길 수가 있다.
+1	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+2	치열하게	치열+하+게	ADV	NNG+XSA+EC	_	4	advmod	_	_
+3	강요를	강요+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	한다고	하+ㄴ다고	VERB	VV+EC	_	5	ccomp	_	_
+5	하면	하+면	AUX	VV+EC	_	18	advcl	_	_
+6	오히려	오히려	ADV	MAG	_	12	advmod	_	_
+7	애들들이	애들+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+8	새로운	새롭+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+10	더	더	ADV	MAG	_	12	advmod	_	_
+11	많이	많이	ADV	MAG	_	12	advmod	_	_
+12	배우고	배우+고	VERB	VV+EC	_	15	acl	_	_
+13	싶지	싶+지	AUX	VX+EC	_	12	aux	_	_
+14	않는	않+는	AUX	VX+ETM	_	12	aux	_	_
+15	감정들이	감정+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+16	생길	생기+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수가	수+가	NOUN	NNB+JKS	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

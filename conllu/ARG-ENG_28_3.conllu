@@ -1,0 +1,152 @@
+# sent_id = ARG-ENG_28_3_01
+# text = 저는 개인적으로 협동을 선호해요.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_28_3_02
+# text = 더 많은 사람들은 한 것을 같이 만들고 있을 때 편하고 재미있어요.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+4	한	한	NUM	MM	_	5	nummod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	만들고	만들+고	VERB	VV+EC	_	10	advcl	_	_
+8	있을	있+을	VERB	VX+ETM	_	7	aux	_	_
+9	때	때	NOUN	NNG	_	10	obl	_	_
+10	편하고	편하+고	VERB	VA+EC	_	0	root	_	_
+11	재미있어요	재미+있+어요	ADJ	NNG+VA+EF	_	10	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_28_3_03
+# text = 그리고 사람들 많이 있으니까요.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	사람들	사람+들	NOUN	NNG+XSN	_	4	nsubj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	있으니까요	있+으니까요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_28_3_04
+# text = 더 좋은 아이디아를 나울 수도 있어요.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	아이디아를	아이디아+를	NOUN	NF+JKO	_	4	obj	_	_
+4	나울	나우+ㄹ	VERB	NV+ETM	_	5	acl	_	_
+5	수도	수+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_28_3_05
+# text = 저 위해서 경쟁을 너무 외로워요.
+1	저	저	PRON	NP	_	2	obj	_	_
+2	위해서	위하+아서	VERB	VV+EC	_	5	advcl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	외로워요	외롭+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_28_3_06
+# text = 그리고 스트레스도 많이 받아요.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	스트레스도	스트레스+도	NOUN	NNG+JX	_	4	obj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	받아요	받+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_28_3_07
+# text = 결과만 보고 있으니까요.
+1	결과만	결과+만	NOUN	NNG+JX	_	2	obj	_	_
+2	보고	보+고	VERB	VV+EC	_	0	root	_	_
+3	있으니까요	있+으니까요	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_28_3_08
+# text = 협동할때 저 사람들 속에 너무 편해요.
+1	협동할때	협동+하+ㄹ+때	VERB	NNG+XSV+ETM+NNG	_	6	advcl	_	_
+2	저	저	DET	NP	_	3	det	_	_
+3	사람들	사람+들	NOUN	NNG+XSN	_	6	obl	_	_
+4	속에	속+에	ADP	NNG+JKB	_	3	case	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	편해요	편하+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_28_3_09
+# text = 그리고 스트레스가 없을때 더 좋은 생각 할수 있어요.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	스트레스가	스트레스+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없을때	없+을+때	VERB	VA+ETM+NNG	_	8	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	VERB	VA+ETM	_	6	amod	_	_
+6	생각	생각	NOUN	NNG	_	7	obj	_	_
+7	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	8	nsubj	_	_
+8	있어요	있+어요	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_28_3_10
+# text = 그리고 협동할때 다른 사람에서 뭔가 배울 수 있는 기회를 받아요.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	_
+2	협동할때	협동+하+ㄹ+때	VERB	NNG+XSV+ETM+NNG	_	10	advcl	_	_
+3	다른	다른	ADJ	MM+ETM	_	4	amod	_	_
+4	사람에서	사람+에서	ADV	NNG+JKB	_	10	obl	_	_
+5	뭔가	뭐+이+ㄴ가	ADV	NP+VCP+EC	_	6	ccomp	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	기회를	기회+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	받아요	받+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_28_3_11
+# text = 다른 것을 배울 수 있을 때, 자기가 할 수 있는게도 많ㅇ아지고, 그리고 나중에 다른 사람들을 도와줄 수 있어요.
+1	다른	다른	ADJ	VA+ETM	_	2	amod	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있을	있+을	VERB	VX+ETM	_	20	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	5	punct	_	_
+8	자기가	자기+가	PRON	NNG+JKS	_	9	nsubj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있는게도	있+는+것+이+도	NOUN	VX+ETM+NNB+JKS+JX	_	12	nsubj	_	_
+12	많ㅇ아지고	많+ㅇ+아지+고	VERB	VA+NA+XSV+EC	_	20	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	그리고	그리고	ADV	MAJ	_	20	cc	_	_
+15	나중에	나중+에	ADV	NNG+JKB	_	18	obl	_	_
+16	다른	다른	ADJ	MM	_	17	amod	_	_
+17	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	18	obj	_	_
+18	도와줄	도와주+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_28_3_12
+# text = 마지막으로, 협동할때, 새로운 친구도 생일 수도 있어요.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	9	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	협동할때	협동+하+ㄹ+때	VERB	NNG+XSV+ETM	_	9	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	새로운	새롭+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	친구도	친구+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	생일	생이+ㄹ	NOUN	NV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_28_3_13
+# text = 작업할수록 친해질 수 있어요.
+1	작업할수록	작업+하+ㄹ수록	VERB	NNG+XSV+EC	_	2	advcl	_	_
+2	친해질	친해지+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_28_3_14
+# text = 그리고 일이 재미있게되요.
+1	그리고	그리고	ADV	MAJ	_	3	cc	_	_
+2	일이	일+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	재미있게되요	재미+있+게+되+요	ADJ	NNG+VA+EC+VX+NA	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_

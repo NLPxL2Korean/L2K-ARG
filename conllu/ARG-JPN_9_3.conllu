@@ -1,0 +1,104 @@
+# sent_id = ARG-JPN_09_3_01
+# text =  저는 협동과 경쟁 중 협동을 선호한다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중	중	ADP	NNB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_09_3_02
+# text =  이 둘은 다 어떤 목표를 정하고 그 목표를 위해 노력을 한 결과 생기는 행동이라고 볼 수 있지만 경쟁은 극단적인 의견을 바탕으로 위험한 결정을 내릴 가능성이 있어서 최종적으로 좋은 성과를 내려면 협동이 더 효육적이지 않을까 생각한다.
+1	이	이	DET	MM	_	14	det	_	_
+2	둘은	둘+은	PRON	NP+JX	_	14	nsubj	_	_
+3	다	다	ADV	MAG	_	6	advmod	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	목표를	목표+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	정하고	정하+고	VERB	VV+EC	_	11	advcl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	목표를	목표+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+10	노력을	노력+을	NOUN	NNG+JKO	_	14	nsubj	_	_
+11	한	한	NUM	하+ㄴ	_	12	VV+ETM	_	_
+12	결과	결과	NOUN	NNG	_	13	obl	_	_
+13	생기는	생기+는	VERB	VV+ETM	_	14	acl	_	_
+14	행동이라고	행동+이+라고	VERB	NNG+VCP+EC	_	15	ccomp	_	_
+15	볼	보+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있지만	있+지만	VERB	VX+EC	_	26	advcl	_	_
+18	경쟁은	경쟁+은	NOUN	NNG+JX	_	26	dislocated	_	_
+19	극단적인	극단+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+20	의견을	의견+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	바탕으로	바탕+으로	ADV	NNG+JKB	_	24	obl	_	_
+22	위험한	위험+하+ㄴ	ADJ	NNG+XSA+ETM	_	23	amod	_	_
+23	결정을	결정+을	NOUN	NNG+JKO	_	24	obj	_	_
+24	내릴	내리+ㄹ	VERB	VV+ETM	_	25	acl	_	_
+25	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	26	nsubj	_	_
+26	있어서	있+어서	VERB	VV+EC	_	33	advcl	_	_
+27	최종적으로	최종+적+으로	ADV	NNG+XSN+JKB	_	30	obl	_	_
+28	좋은	좋+은	ADJ	VA+ETM	_	29	amod	_	_
+29	성과를	성과+를	NOUN	NNG+JKO	_	30	obj	_	_
+30	내려면	내리+려면	VERB	VV+EC	_	33	advcl	_	_
+31	협동이	협동+이	NOUN	NNP+JKS	_	33	nsubj	_	_
+32	더	더	ADV	MAG	_	33	advmod	_	_
+33	효육적이지	효육+적+이+지	VERB	NNG+XSN+VCP+EC	_	35	ccomp	_	_
+34	않을까	않+을까	AUX	VX+EC	_	33	aux	_	_
+35	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+36	.	.	PUNCT	SF	_	35	punct	_	_
+
+# sent_id = ARG-JPN_09_3_03
+# text =  예를 들어 야구 동아리에서 대회를 출장하게 되었을 경우 멤버들이 각자 이기려고 경쟁만하다 같이 논의하고 연습하지 않았다면 좋은 성과를 내기는 어려울 것이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	21	advcl	_	_
+3	야구	야구	NOUN	NNG	_	4	nmod	_	_
+4	동아리에서	동아리+에서	ADV	NNG+JKB	_	6	obl	_	_
+5	대회를	대회+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	출장하게	출장+하+게	VERB	NNG+XSV+EC	_	14	advcl	_	_
+7	되었을	되+었+을	VERB	VX+EP+ETM	_	6	advcl	_	_
+8	경우	경우	ADV	NNG	_	6	mark	_	_
+9	멤버들이	멤버+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+10	각자	각자	ADV	MAG	_	11	advmod	_	_
+11	이기려고	이기+려고	VERB	VV+EC	_	12	advcl	_	_
+12	경쟁만하다	경쟁+만+하+다	ADV	NNG+JX+VV+EC	_	14	advcl	_	_
+13	같이	같이	ADV	MAG	_	14	advmod	_	_
+14	논의하고	논의+하고	VERB	NNG+XSV+EC	_	21	advcl	_	_
+15	연습하지	연습+하+지	VERB	NNG+XSV+EC	_	14	conj	_	_
+16	않았다면	않+았+다면	AUX	VX+EP+EC	_	15	aux	_	_
+17	좋은	좋+은	ADJ	VA+ETM	_	18	amod	_	_
+18	성과를	성과+를	NOUN	NNG+JKO	_	19	obj	_	_
+19	내기는	내+기+는	NOUN	VV+ETN+JX	_	20	nsubj	_	_
+20	어려울	어렵+ㄹ	VERB	VA+ETM	_	21	acl	_	_
+21	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-JPN_09_3_04
+# text =  개인 경기의 경우에도 주변 사람들한테 겸손한 태도로 배우고 피드백을 배우면서 협동해야 성장이 가능하다.
+1	개인	개인	NOUN	NNG	_	2	nmod	_	_
+2	경기의	경기+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	경우에도	경우+에+도	ADV	NNG+JKB+JX	_	13	obl	_	_
+4	주변	주변	NOUN	NNG	_	5	nmod	_	_
+5	사람들한테	사람+들+한테	ADV	NNG+XSN+JKB	_	8	obl	_	_
+6	겸손한	겸손+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	태도로	태도+로	ADV	NNG+JKB	_	8	obl	_	_
+8	배우고	배우+고	VERB	VV+EC	_	10	advcl	_	_
+9	피드백을	피드+백+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우면서	배우+면서	VERB	VV+EC	_	11	advcl	_	_
+11	협동해야	협동+하+아야	VERB	NNG+XSV+EC	_	13	advcl	_	_
+12	성장이	성장+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	가능하다	가능+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_09_3_05
+# text =  혼자하는 경쟁보다 사람들과 협동하면서 올라가는 것이 목표를 도달하려면 빠르다고 생각한다.
+1	혼자하는	혼자+하+는	VERB	NNG+VV+ETM	_	2	acl	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	9	obl	_	_
+3	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	4	obl	_	_
+4	협동하면서	협동+하+면서	VERB	NNG+XSV+EC	_	5	advcl	_	_
+5	올라가는	올라가+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+7	목표를	목표+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	도달하려면	도달+하+려면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+9	빠르다고	빠르+다고	VERB	VA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

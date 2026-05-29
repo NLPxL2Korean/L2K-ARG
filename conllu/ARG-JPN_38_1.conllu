@@ -1,0 +1,83 @@
+# sent_id = ARG-JPN_38_1_01
+# text =  제가 생각하는 조기언어교육의 장점은 언어를 어릴 때부터 공부하면 빨리 기옥 할 수 있는 것입니다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	장점은	장점+은	NOUN	NNG+JX	_	14	nsubj	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	어릴	어리+ㄹ	VERB	VA+ETM	_	8	advcl	_	_
+7	때부터	때+부터	ADV	NNG+JX	_	6	mark	_	_
+8	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+9	빨리	빨리	ADV	MAG	_	11	advmod	_	_
+10	기옥	기옥	NOUN	NF	_	11	obj	_	_
+11	할	하+ㄹ	X	_	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_38_1_02
+# text =  성장하면 언어 공부가 어렵게 된다고 생각합니다.
+1	성장하면	성장+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	공부가	공부+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	어렵게	어렵+게	ADV	VA+EC	_	5	advmod	_	_
+5	된다고	되+ㄴ다고	VERB	VV+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_38_1_03
+# text =  단점은 없습니다.
+1	단점은	단점+은	NOUN	NNG+JX	_	2	nsubj	_	_
+2	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-JPN_38_1_04
+# text =  자기 언어만 아니라 다른 외국 언어를 공부하는 것은 좋은 일이밖에 없다고 생각합니다.
+1	자기	자기	PRON	NP	_	2	nmod	_	_
+2	언어만	언어+만	NOUN	NNB+JX	_	3	nsubj	_	_
+3	아니라	아니+라	VERB	VCN+EC	_	7	advcl	_	_
+4	다른	다른	ADJ	MM	_	6	amod	_	_
+5	외국	외국	NOUN	NNG	_	6	nmod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것은	것+은	NOUN	NNB+JX	_	11	nsubj	_	_
+9	좋은	좋+은	VERB	VA+ETM	_	10	amod	_	_
+10	일이밖에	일+이+밖에	ADV	NNG+NA+JX	_	11	obl	_	_
+11	없다고	없+다고	VERB	VA+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_38_1_05
+# text =  실체로 저는 어릴 때부터 영어를 하고 있어서 영어를 잘 할수있는 편였습니다.
+1	실체로	실체+로	ADV	NF+JKB	_	11	obl	_	_
+2	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+3	어릴	어리+ㄹ	VERB	VA+ETM	_	6	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	영어를	영어+를	NOUN	NNP+JKO	_	6	obj	_	_
+6	하고	하+고	VERB	VV+EC	_	11	advcl	_	_
+7	있어서	있+어서	AUX	VX+EC	_	6	aux	_	_
+8	영어를	영어+를	NOUN	NNP+JKO	_	10	obj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	할수있는	하+ㄹ+수+있+는	VERB	VV+ETM+NNB+VX+ETM	_	11	acl	_	_
+11	편였습니다	편+이+었+습니다	ADJ	NNB+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_38_1_06
+# text =  그래서 영어 서험은 어렵지 않았습니다.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	영어	영어	NOUN	NNP	_	3	nmod	_	_
+3	서험은	서험+은	NOUN	NF+JX	_	4	nsubj	_	_
+4	어렵지	어렵+지	VERB	VA+EC	_	0	root	_	_
+5	않았습니다	않+았+습니다	AUX	VX+EP+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_38_1_07
+# text =  이상이 제가 생각하는 조기 언어교육의 장단점입니다.
+1	이상이	이상+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+3	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+4	조기	조기	NOUN	NNG	_	5	nmod	_	_
+5	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	6	nmod:poss	_	_
+6	장단점입니다	장단점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

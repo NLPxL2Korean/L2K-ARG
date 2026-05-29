@@ -1,0 +1,137 @@
+# sent_id = ARG-CHN_17_1_01
+# text = 인간과 자연의 관계는 서로 친구라고 해도 과언이 아니다.
+1	인간과	인간+과	NOUN	NNG+JC	_	3	nmod:poss	_	_
+2	자연의	자연+의	NOUN	NNG+JKG	_	1	conj	_	_
+3	관계는	관계+는	NOUN	NNG+JX	_	5	nsubj	_	_
+4	서로	서로	ADV	MAG	_	5	advmod	_	_
+5	친구라고	친구+이+라고	ADJ	NNG+VCP+EC	_	6	ccomp	_	_
+6	해도	하+아도	VERB	VV+EC	_	8	advcl	_	_
+7	과언이	과언+이	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_17_1_02
+# text = 그러면 인간과 자연의 관계를 친구의 관계를 비유해 보자.
+1	그러면	그러면	ADV	MAJ	_	8	cc	_	_
+2	인간과	인간+과	NOUN	NNG+JC	_	4	nmod:poss	_	_
+3	자연의	자연+의	NOUN	NNG+JKG	_	2	conj	_	_
+4	관계를	관계+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	친구의	친구+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	관계를	관계+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	비유해	비유+하+아	VERB	NNG+XSV+EC	_	0	root	_	_
+8	보자	보+자	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_17_1_03
+# text = 우리는 웬만한 인간관계를 유지하고자 하면 보호하는 동시에 적극적으로 개발해야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+2	웬만한	웬만+하+ㄴ	ADJ	XR+XSA+ETM	_	3	amod	_	_
+3	인간관계를	인간+관계+를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+4	유지하고자	유지+하+고자	VERB	NNG+XSV+EC	_	9	advcl	_	_
+5	하면	하	AUX	VX+EC	_	4	aux	_	_
+6	보호하는	보호+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	동시에	동시+에	ADV	NNG+JKB	_	9	obl	_	_
+8	적극적으로	적극+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+9	개발해야	개발+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+10	한다	하	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_17_1_04
+# text = 이와 마찬가지로 인간은 자연 보존과 자연 개발이 모두 중요하다고 생각한다.
+1	이와	이+와	PRON	NP+JKB	_	10	obl	_	_
+2	마찬가지로	마찬가지+로	ADV	NNG+JKB	_	10	obl	_	_
+3	인간은	인간+은	NOUN	NNG+JX	_	10	nsubj	_	_
+4	자연	자연	NOUN	NNG	_	6	nmod	_	_
+5	보존과	보존+과	NOUN	NNG+JC	_	9	nsubj	_	_
+6	자연	자연	NOUN	NNG	_	5	conj	_	_
+7	개발이	개발+이	NOUN	NNG+JKS	_	5	conj	_	_
+8	모두	모두	ADV	MAG	_	9	advmod	_	_
+9	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_17_1_05
+# text = 자연 보존이 중요하다고 여겨진 이유는 다음과 같다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존이	보존+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	4	ccomp	_	_
+4	여겨진	여기+어지+ㄴ	VERB	VV+XSV+ETM	_	5	acl	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	7	nsubj	_	_
+6	다음과	다음+과	ADV	NNG+JKB	_	7	obl	_	_
+7	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_17_1_06
+# text = 세상에서 사라지면 다시 돌라올 수 없는 동물이 수많다.
+1	세상에서	세상+에서	ADV	NNG+JKB	_	2	obl	_	_
+2	사라지면	사라지+면	VERB	VV+EC	_	8	advcl	_	_
+3	다시	다시	ADV	MAG	_	4	advmod	_	_
+4	돌라올	돌라오+ㄹ	VERB	NV+ETM	Typo=Yes	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	없는	없+는	VERB	VX+ETM	_	7	advcl	_	_
+7	동물이	동물+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	수많다	수많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_17_1_07
+# text = 이로써 자연의 균형을 맞추려면 동물을 보호해야 한다.
+1	이로써	이+로써	PRON	NP+JKB	_	6	obl	_	_
+2	자연의	자연+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	균형을	균형+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	맞추려면	맞추+려면	VERB	VV+EC	_	6	advcl	_	_
+5	동물을	동물+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	보호해야	보호+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+7	한다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_17_1_08
+# text = 자연 개발이 중요하다고 여겨진 이유는 다음과 같다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발이	개발+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	4	ccomp	_	_
+4	여겨진	여기+어지+ㄴ	VERB	VV+XSV+ETM	_	5	acl	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	7	nsubj	_	_
+6	다음과	다음+과	ADV	NNG+JKB	_	7	obl	_	_
+7	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_17_1_09
+# text = 지구에서 다양하고 수많은 자원이 존재한다.
+1	지구에서	지구+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	다양하고	다양+하+고	ADJ	XR+XSA+EC	_	4	amod	_	_
+3	수많은	수많+은	ADJ	VA+ETM	_	2	conj	_	_
+4	자원이	자원+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	존재한다	존재+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_17_1_10
+# text = 자원을 적당하고 절처히 개발하면 인간 사화 발전과 자연 보존도 할 수 있다.
+1	자원을	자원+을	NOUN	NNG+JKO	_	4	obj	_	_
+2	적당하고	적당+하+고	ADV	XR+XSA+EC	_	4	advmod	_	_
+3	절처히	절처히	ADV	NA	Typo=Yes	4	advmod	_	_
+4	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+5	인간	인간	NOUN	NNG	_	6	nmod	_	_
+6	사화	사화	NOUN	NF	Typo=Yes	7	nmod	_	_
+7	발전과	발전+과	NOUN	NNG+JC	_	10	obj	_	_
+8	자연	자연	NOUN	NNG	_	9	nmod	_	_
+9	보존도	보존+도	NOUN	NNG+JX	_	7	conj	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_17_1_11
+# text = 따라서 자연 보존과 자연 개발에 대해 어느 편에 심하게 치우치면 무리하다고 생각한다.
+1	따라서	따라서	ADV	MAJ	_	12	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존과	보존+과	NOUN	NNG+JC	_	6	obl	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	개발에	개발+에	ADV	NNG+JKB	_	3	conj	_	_
+6	대해	대하+아	VERB	VV+EC	_	10	advcl	_	_
+7	어느	어느	DET	MM	_	8	det	_	_
+8	편에	편+에	ADV	NNB+JKB	_	10	obl	_	_
+9	심하게	심하+게	ADV	VA+EC	_	10	advmod	_	_
+10	치우치면	치우치+면	VERB	VV+EC	_	11	advcl	_	_
+11	무리하다고	무리+하+다고	VERB	NNG+XSV+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

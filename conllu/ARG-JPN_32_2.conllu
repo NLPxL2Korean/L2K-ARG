@@ -1,0 +1,94 @@
+# sent_id = ARG-JPN_32_2_01
+# text =  저는 역사를 배워야 된다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	된다고	되+ㄴ다고	VERB	VX+EC	_	3	advcl	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_32_2_02
+# text =  왜냐면 지금 살고 있는 이 곳은 역사가 만들었고 그 역사의 영향으로 지금의 국간 관계가 있기 때문입니다.
+1	왜냐면	왜냐면	ADV	MAJ	_	16	cc	_	_
+2	지금	지금	ADV	MAG	_	3	advmod	_	_
+3	살고	살+고	VERB	VV+EC	_	6	acl	_	_
+4	있는	있+는	VERB	VX+ETM	_	3	aux	_	_
+5	이	이	DET	MM	_	6	det	_	_
+6	곳은	곳+은	NOUN	NNG+JX	_	8	obj	_	_
+7	역사가	역사+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	만들었고	만들+었+고	VERB	VV+EP+EC	_	15	advcl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	역사의	역사+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	영향으로	영향+으로	ADV	NNG+JKB	_	15	obl	_	_
+12	지금의	지금+의	NOUN	NNG+JKG	_	14	nmod:poss	_	_
+13	국간	국간	NOUN	NF	_	14	nmod	_	_
+14	관계가	관계+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있기	있+기	NOUN	VV+ETN	_	16	nmod	_	_
+16	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_32_2_03
+# text =  저는 대학에서 한국어를 공부하고 있기 때문에 한국의 역사도 배우고 일본 역사도 배우고 있습니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	대학에서	대학+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	한국어를	한국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	9	obl	_	_
+5	있기	있+기	AUX	VX+ETN	_	4	aux	_	_
+6	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+7	한국의	한국+의	NOUN	NNP+JKG	_	8	nmod:poss	_	_
+8	역사도	역사+도	NOUN	NNG+JX	_	9	obj	_	_
+9	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+10	일본	일본	NOUN	NNP	_	11	nmod	_	_
+11	역사도	역사+도	NOUN	NNG+JX	_	12	obj	_	_
+12	배우고	배우+고	VERB	VV+EC	_	9	conj	_	_
+13	있습니다	있+습니다	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_32_2_04
+# text =  한국어는 배울때도 그냥 단어나 문법을 공부하는 것보다 어떻게 한국어가 만들었는지를 배우면 더 재밌게 공부할 수 있고 더 이해를 하기 쉽습니다.
+1	한국어는	한국어+는	NOUN	NNG+JX	_	2	obj	_	_
+2	배울때도	배울+때+도	NOUN	VV+ETM+NNG+JX	_	10	advcl	_	_
+3	그냥	그냥	ADV	MAG	_	6	advmod	_	_
+4	단어나	단어+나	NOUN	NNG+JC	_	6	obj	_	_
+5	문법을	문법+을	NOUN	NNG+JKO	_	4	conj	_	_
+6	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것보다	것+보다	ADV	NNB+JKB	_	11	obl	_	_
+8	어떻게	어떻+게	ADV	VA+EC	_	10	advmod	_	_
+9	한국어가	한국어+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	만들었는지를	만들+었+는지+를	VERB	VV+EP+EC+JKO	_	11	ccomp	_	_
+11	배우면	배우+면	VERB	VV+EC	_	16	advcl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	재밌게	재밌+게	ADV	NNG+VA+EC	_	14	advmod	_	_
+14	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있고	있+고	VERB	VX+EC	_	0	root	_	_
+17	더	더	ADV	MAG	_	19	advmod	_	_
+18	이해를	이해+를	NOUN	NNG+JKO	_	19	obj	_	_
+19	하기	하+기	NOUN	VV+ETN	_	20	nsubj	_	_
+20	쉽습니다	쉽+습니다	ADJ	VA+EF	_	16	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_32_2_05
+# text =  그리고 지금부터의 미래를 만들기 위해 지금까지의 역사를 공부하고 어떻게 하면 더좋은 나라나 관계를 만들 수 있을 지 생각을 해야 된다고 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	21	cc	_	_
+2	지금부터의	지금+부터+의	NOUN	NNG+JX+JKG	_	3	nmod:poss	_	_
+3	미래를	미래+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	만들기	만들+기	NOUN	VV+ETN	_	5	obj	_	_
+5	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+6	지금까지의	지금+까지+의	NOUN	NNG+JX+JKG	_	7	nmod:poss	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	19	advcl	_	_
+9	어떻게	어떻+게	ADV	VA+EC	_	10	advmod	_	_
+10	하면	하+면	VERB	VV+EC	_	19	advcl	_	_
+11	더좋은	더+좋+은	ADJ	NNG+VA+ETM	_	13	amod	_	_
+12	나라나	나라+나	NOUN	NNG+JC	_	14	obj	_	_
+13	관계를	관계+를	NOUN	NNG+JKO	_	12	conj	_	_
+14	만들	만들+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있을	있+을	VERB	VX+EC	_	19	ccomp	_	_
+17	지	지	NOUN	EC	_	16	goeswith	_	_
+18	생각을	생각+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	해야	하+아야	VERB	VV+EC	_	21	ccomp	_	_
+20	된다고	되+ㄴ다고	VERB	VX+EC	_	19	advcl	_	_
+21	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_

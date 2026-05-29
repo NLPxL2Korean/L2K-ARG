@@ -1,0 +1,113 @@
+# sent_id = ARG-CZH_21_1_01
+# text = 조기언어교육의 좋은점이 많다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	좋은점이	좋+은+점+이	NOUN	VA+ETM+NNB+JKS	_	3	nsubj	_	_
+3	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_21_1_02
+# text = 예를 들어 아이들이 세러운 것을 쉽게 배울 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	9	advcl	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+4	세러운	세럽+ㄴ	VERB	NV+ETM	Typo=Yes	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_21_1_03
+# text = 그래서 이렇게 일찍 언어를 배우면 대학생보다 잘할수 있다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	이렇게	이렇+게	ADV	VA+EC	_	5	advmod	_	_
+3	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+6	대학생보다	대학생+보다	ADV	NNG+JKB	_	7	obl	_	_
+7	잘할수	잘하+ㄹ+수	VERB	VV+ETM+VX	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_21_1_04
+# text = 아이들에게 배우는 것이 개임저럼 있다.
+1	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	2	obl	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+4	개임저럼	개임+저럼	ADV	NF+JKB	Typo=Yes	5	obl	_	_
+5	있다	있+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_21_1_05
+# text = 모든 것을 알고 싶어한다.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	알고	알+고	VERB	VV+EC	_	0	root	_	_
+4	싶어한다	싶	AUX	VX+EC+VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_21_1_06
+# text = 아이들이한테 재미있으니까.
+1	아이들이한테	아이+들+이+한테	ADV	NNG+XSN+JKS+JKB	_	2	obl	_	_
+2	재미있으니까	재미+있+으니까	ADJ	NNG+VA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_21_1_07
+# text = 근데 재미없으면 아이들이 언어를 배우는 것을 싫이할 수도 있다.
+1	근데	근데	ADV	MAJ	_	9	cc	_	_
+2	재미없으면	재미+없+으면	ADJ	NNG+VA+EC	_	9	advcl	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+7	싫이할	싫이하+ㄹ	VERB	NV+ETM	Typo=Yes	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_21_1_08
+# text = 매일 그냥 공부하는 것이 좋지 않다.
+1	매일	매일	ADV	MAG	_	3	advmod	_	_
+2	그냥	그냥	ADV	MAG	_	3	advmod	_	_
+3	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+6	않다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_21_1_09
+# text = 그래서 언어 배우는 것은 즐겁게 만드면 아이들이 빨리 언어를 배울수 있고 나중에 학교에서 아무 문제 없이 그 언어로 말할 수 있다.
+1	그래서	그래서	ADV	MAJ	_	21	cc	_	_
+2	언어	언어	NOUN	NNG	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	6	obj	_	_
+5	즐겁게	즐겁+게	ADV	VA+EC	_	6	advmod	_	_
+6	만드면	만드+면	VERB	NV+EC	Typo=Yes	21	advcl	_	_
+7	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+8	빨리	빨리	ADV	MAG	_	10	advmod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배울수	배우+ㄹ+수	NOUN	VV+ETM+NNB	_	11	nsubj	_	_
+11	있고	있	AUX	VX+EC	_	21	advcl	_	_
+12	나중에	나중+에	ADV	NNG+JKB	_	19	obl	_	_
+13	학교에서	학교+에서	ADV	NNG+JKB	_	19	obl	_	_
+14	아무	아무	DET	MM	_	15	det	_	_
+15	문제	문제	NOUN	NNG	_	16	nsubj	_	_
+16	없이	없+이	ADJ	VA+EC	_	19	advcl	_	_
+17	그	그	DET	MM	_	18	det	_	_
+18	언어로	언어+로	ADV	NNG+JKB	_	19	obl	_	_
+19	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CZH_21_1_10
+# text = 그리고 다른 언어도 배우기 시작할 수 있다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	언어도	언어+도	NOUN	NNG+JX	_	4	obj	_	_
+4	배우기	배우+기	VERB	VV+ETN	_	5	obj	_	_
+5	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

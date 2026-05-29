@@ -1,0 +1,122 @@
+# sent_id = ARG-CZH_26_2_01
+# text = 역사가 정말 재미있고 중요한다.
+1	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	정말	정말	ADV	MAG	_	3	advmod	_	_
+3	재미있고	재미+있+고	ADJ	NNG+VA+EC	_	0	root	_	_
+4	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	3	conj	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_26_2_02
+# text = 역사를 아는 사람이 보통 다른 나라와 다른 나라의 사람을 이해한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	아는	알+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+4	보통	보통	ADV	MAG	_	10	advmod	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	나라와	나라+와	NOUN	NNG+JC	_	10	obj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	나라의	나라+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	사람을	사람+을	NOUN	NNG+JKO	_	6	conj	_	_
+10	이해한다	이해+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_26_2_03
+# text = 그리고 뭘 해야 하고 하면 안 되지 알다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	뭘	무엇+을	PRON	NP+JKO	_	3	obj	_	_
+3	해야	하+아야	VERB	VV+EC	_	7	advcl	_	_
+4	하고	하	AUX	VX+EC	_	3	aux	_	_
+5	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	되지	되+지	VERB	VV+EC	_	8	ccomp	_	_
+8	알다	알+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_26_2_04
+# text = 다른 나라에서 일하고 싶을 뿐만 아니라 다른 나라에서 살고 싶으면 역사를 알겠는 것을 중요한다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나라에서	나라+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	일하고	일+하+고	VERB	NNG+XSV+EC	_	5	acl	_	_
+4	싶을	싶	AUX	VX+ETM	_	3	aux	_	_
+5	뿐만	뿐+만	NOUN	NNB+JX	_	6	nsubj	_	_
+6	아니라	아니+라	ADJ	VCN+EC	_	9	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	나라에서	나라+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	살고	살+고	VERB	VV+EC	_	14	advcl	_	_
+10	싶으면	싶	AUX	VX+EC	_	9	aux	_	_
+11	역사를	역사+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	알겠는	알+겠+는	VERB	VV+EP+ETM	_	13	acl	_	_
+13	것을	것+을	NOUN	NNB+JKO	_	14	obj	_	_
+14	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_26_2_05
+# text = 이렇게 친구를 사귈 수 있고, 일을 수입게 찾고 다른 나라에서 편할 수 있다고 생각한다.
+1	이렇게	이렇+게	ADV	VA+EC	_	3	advmod	_	_
+2	친구를	친구+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	사귈	사귀+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있고	있	AUX	VX+EC	_	9	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	수입게	수입+게	ADV	NV+EC	Typo=Yes	9	advmod	_	_
+9	찾고	찾+고	VERB	VV+EC	_	14	advcl	_	_
+10	다른	다르+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	나라에서	나라+에서	ADV	NNG+JKB	_	12	obl	_	_
+12	편할	편하+ㄹ	ADJ	VA+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다고	있	AUX	VX+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_26_2_06
+# text = 역사 배우기도 취미로 찾알 수 있다.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	배우기도	배우+기+도	VERB	VV+ETN+JX	_	4	obj	_	_
+3	취미로	취미+로	ADV	NNG+JKB	_	4	obl	_	_
+4	찾알	찾+알	VERB	VV+NA	Typo=Yes	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_26_2_07
+# text = 왜 이런 관계가 나라와 있고 왜 이 나라 여기에 있지 알 수 있다.
+1	왜	왜	ADV	MAG	_	5	advmod	_	_
+2	이런	이런	DET	MM	_	3	det	_	_
+3	관계가	관계+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	나라와	나라+와	ADV	NNG+JKB	_	5	obl	_	_
+5	있고	있+고	VERB	VV+EC	_	11	ccomp	_	_
+6	왜	왜	ADV	MAG	_	10	advmod	_	_
+7	이	이	DET	MM	_	8	det	_	_
+8	나라	나라	NOUN	NNG	_	10	nsubj	_	_
+9	여기에	여기+에	PRON	NP+JKB	_	10	obl	_	_
+10	있지	있+지	VERB	VV+EC	_	5	conj	_	_
+11	알	알+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_26_2_08
+# text = 그리고 유련한와 중요한 사람도 알 수 있다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	유련한와	유련한+와	NOUN	NF+JC	Typo=Yes	5	obj	_	_
+3	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	사람도	사람+도	NOUN	NNG+JX	_	2	conj	_	_
+5	알	알+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_26_2_09
+# text = 많은 것을 다른 나라에 대해서 알면 나라에서 사는 사람은 행복하졌다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나라에	나라+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대해서	대하+아서	VERB	VV+EC	_	6	advcl	_	_
+6	알면	알+면	VERB	VV+EC	_	10	advcl	_	_
+7	나라에서	나라+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	사는	살+는	VERB	VV+ETM	_	9	acl	_	_
+9	사람은	사람+은	NOUN	NNG+JX	_	10	nsubj	_	_
+10	행복하졌다	행복+하+지+었+다	ADJ	NNG+XSA+NA+EP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

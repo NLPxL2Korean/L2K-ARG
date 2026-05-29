@@ -1,0 +1,152 @@
+# sent_id = ARG-JPN_14_2_01
+# text =  저는 코로나가 세계에서 터져 밖으로 자유롭게 나가지 못 하게 됐던 그때에 한국말을 우연히 배우기 시작했다.
+1	저는	저+는	PRON	NP+JX	_	15	nsubj	_	_
+2	코로나가	코로나+가	NOUN	NNP+JKS	_	4	nsubj	_	_
+3	세계에서	세계+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	터져	터지+어	VERB	VV+EC	_	7	advcl	_	_
+5	밖으로	밖+으로	ADV	NNG+JKB	_	7	obl	_	_
+6	자유롭게	자유+롭+게	ADV	NNG+XSA+EC	_	7	advmod	_	_
+7	나가지	나가+지	VERB	VV+EC	_	11	acl	_	_
+8	못	못	ADV	MAG	_	7	aux	_	_
+9	하게	하+게	VERB	VX+EC	_	8	goeswith	_	_
+10	됐던	되+었+던	VERB	VX+EP+ETM	_	7	aux	_	_
+11	그때에	그+때+에	ADV	NP+JKB	_	15	obl	_	_
+12	한국말을	한국+말+을	NOUN	NNP+NNG+JKO	_	14	obj	_	_
+13	우연히	우연히	ADV	MAG	_	14	advmod	_	_
+14	배우기	배우+기	NOUN	VV+ETN	_	15	obj	_	_
+15	시작했다	시작+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_14_2_02
+# text =  배운다고 해도 혼자서 책상 앞에서 책을 보고 연필을 쥐고 그런 식으로 공부한 것이 아니었다.
+1	배운다고	배우+ㄴ다고	VERB	VV+EC	_	2	ccomp	_	_
+2	해도	하+아도	VERB	VV+EC	_	14	advcl	_	_
+3	혼자서	혼자+서	ADV	NNG+JKS	_	7	nsubj	_	_
+4	책상	책상	NOUN	NNG	_	7	obl	_	_
+5	앞에서	앞+에서	ADP	NNG+JKB	_	4	case	_	_
+6	책을	책+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	보고	보+고	VERB	VV+EC	_	12	advcl	_	_
+8	연필을	연필+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	쥐고	쥐+고	VERB	VV+EC	_	7	conj	_	_
+10	그런	그런	DET	MM	_	11	det	_	_
+11	식으로	식+으로	ADV	NNG+JKB	_	12	obl	_	_
+12	공부한	공부+하+ㄴ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	것이	것+이	NOUN	NNB+JKC	_	14	nsubj	_	_
+14	아니었다	아니+었+다	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_14_2_03
+# text =  어떻게 했냐면 온라인에서 만난 한국 사람이랑 친구가 되서 매일 대화를 나눠서 한국말을 배웠다.
+1	어떻게	어떻+게	ADV	VA+EC	_	2	advmod	_	_
+2	했냐면	하+았+냐면	VERB	VV+EP+EC	_	13	advcl	_	_
+3	온라인에서	온라인+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	만난	만나+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+5	한국	한국	NOUN	NNP	_	6	nmod	_	_
+6	사람이랑	사람+이랑	ADV	NNG+JKB	_	8	obl	_	_
+7	친구가	친구+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	되서	되+서	VERB	VV+NA	_	11	advcl	_	_
+9	매일	매일	NOUN	MAG	_	11	advmod	_	_
+10	대화를	대화+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	나눠서	나누+어서	VERB	VV+EC	_	13	advcl	_	_
+12	한국말을	한국+말+을	NOUN	NNP+NNG+JKO	_	13	obj	_	_
+13	배웠다	배우+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_14_2_04
+# text =  근데 한국사람이랑 어떤 것에 대해 대화를 하는가.
+1	근데	근데	ADV	MAJ	_	7	cc	_	_
+2	한국사람이랑	한국+사람+이랑	ADV	NNP+NNG+JKB	_	7	obl	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	것에	것+에	ADV	NNB+JKB	_	5	obl	_	_
+5	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+6	대화를	대화+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	하는가	하+는가	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_14_2_05
+# text =  특히 일본인과 한국인이 친해지려면 역사나 정치적인 주제는 빼을 수 없었다.
+1	특히	특히	ADV	MAG	_	10	advmod	_	_
+2	일본인과	일본인+과	NOUN	NNG+JC	_	4	nsubj	_	_
+3	한국인이	한국인+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	친해지려면	친하+아지+려면	VERB	VA+XSV+EC	_	10	advcl	_	_
+5	역사나	역사+나	NOUN	NNG+JC	_	7	nmod	_	_
+6	정치적인	정치+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	conj	_	_
+7	주제는	주제+는	NOUN	NNG+JX	_	8	obj	_	_
+8	빼을	빼+을	VERB	NV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없었다	없+었+다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_14_2_06
+# text =  그런 한국과 일본 사이에 쌓인 문제들이 일본말로 "일한문제"라고 불리고 있고 여전히 일본에서도 관심이 높은 문제다.
+1	그런	그런	DET	MM	_	3	det	_	_
+2	한국과	한국+과	NOUN	NNP+JC	_	4	nmod	_	_
+3	일본	일본	NOUN	NNP	_	2	conj	_	_
+4	사이에	사이+에	ADP	NNG+JKB	_	5	obl	_	_
+5	쌓인	쌓+이+ㄴ	VERB	VV+XSV+ETM	_	6	acl	_	_
+6	문제들이	문제+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+7	일본말로	일본+말+로	ADV	NNG+NNG+JKB	_	9	obl	_	_
+8	"일한문제"라고	"+일+한+문제+"+이+라고	NOUN	SS+NNP+NNP+NNG+SS+VCP+JKQ	_	9	ccomp	_	_
+9	불리고	부르+리+고	VERB	VV+XSV+EC	_	15	advcl	_	_
+10	있고	있+고	AUX	VX+EC	_	9	aux	_	_
+11	여전히	여전히	ADV	MAG	_	14	advmod	_	_
+12	일본에서도	일본+에서+도	ADV	NNP+JKB+JX	_	14	obl	_	_
+13	관심이	관심+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	높은	높+은	VERB	VA+ETM	_	15	acl	_	_
+15	문제다	문제+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_14_2_07
+# text =  인테넷에서 뉴스기사 제목에 일불로 이 문제를 야기하는 키워드를 들어넣는 경우도 많다.
+1	인테넷에서	인테넷+에서	ADV	NF+JKB	_	11	obl	_	_
+2	뉴스기사	뉴스+기사	NOUN	NNG+NNG	_	3	nmod	_	_
+3	제목에	제목+에	ADV	NNG+JKB	_	9	obl	_	_
+4	일불로	일불로	ADV	NA	_	9	advmod	_	_
+5	이	이	DET	MM	_	6	det	_	_
+6	문제를	문제+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	야기하는	야기+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	키워드를	키워드+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	들어넣는	들+어+넣+는	VERB	VV+EC+VV+ETM	_	10	acl	_	_
+10	경우도	경우+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_14_2_08
+# text =  그런 뉴스에 달린 댓글이나 SNS를 보면 일본말로 이른바 "인터넷우익"이라고 하는 극우적인 사고로 차별을 하는 사람들이 보인다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	뉴스에	뉴스+에	ADV	NNG+JKB	_	6	obl	_	_
+3	달린	달리+ㄴ	ADJ	VV+ETM	_	4	acl	_	_
+4	댓글이나	댓글+이나	NOUN	NNG+JC	_	6	obj	_	_
+5	SNS를	SNS+를	PRON	SL+JKO	_	4	conj	_	_
+6	보면	보+면	VERB	VV+EC	_	16	advcl	_	_
+7	일본말로	일본+말+로	ADV	NNP+NNG+JKB	_	10	obl	_	_
+8	이른바	이른바	ADV	MAG	_	10	advmod	_	_
+9	"인터넷우익"이라고	"+인터넷+우익+"+이+라고	NOUN	SS+NNG+NNG+SS+VCP+JKQ	_	10	ccomp	_	_
+10	하는	하+는	VERB	VV+ETM	_	15	acl	_	_
+11	극우적인	극우+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	사고로	사고+로	ADV	NNG+JKB	_	14	obl	_	_
+13	차별을	차별+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	하는	하+는	VERB	VV+ETM	_	15	acl	_	_
+15	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+16	보인다	보+이+ㄴ다	VERB	VV+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_14_2_09
+# text =  그들은 지금까지 역사 연구자들이 모인 지식들을 부정 또는 모르고 유언을 퍼진다.
+1	그들은	그+들+은	PRON	NP+XSN+JX	_	11	nsubj	_	_
+2	지금까지	지금+까지	ADV	NNG+JX	_	5	obl	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	연구자들이	연구자+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	모인	모이+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	지식들을	지식+들+을	NOUN	NNG+XSN+JKO	_	7	obj	_	_
+7	부정	부정	NOUN	NNG	_	11	advcl	_	_
+8	또는	또는	ADV	MAG	_	9	cc	_	_
+9	모르고	모르+고	VERB	VV+EC	_	7	conj	_	_
+10	유언을	유언+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	퍼진다	퍼지+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_14_2_10
+# text =  진실인지를 상관없이
+1	진실인지를	진실+이+ㄴ지+를	NOUN	NNG+VCP+EC+JKO	_	2	obj	_	_
+2	상관없이	상관+없+이	ADJ	NNG+VA+EF	_	0	root	_	_

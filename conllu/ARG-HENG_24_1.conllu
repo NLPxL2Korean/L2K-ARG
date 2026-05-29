@@ -1,0 +1,133 @@
+# sent_id = ARG-HENG_24_1_01
+# text = 얼릴때 가장 빨리 쉽게 배울 수 있다고 합니다.
+1	얼릴때	얼리+ㄹ+때	NOUN	NV+ETM+NNG	_	5	advcl	_	_
+2	가장	가장	ADV	MAG	_	5	advmod	_	_
+3	빨리	빨리	ADV	MAG	_	5	advmod	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VX+EC	_	8	ccomp	_	_
+8	합니다	하+ㅂ니다	AUX	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_24_1_02
+# text = 조기언어교육의 장점은 얼릴때 언어를 배우면 쉽게 외울 수 있고 평생 쓸 수 있는 실력입니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	14	nsubj	_	_
+3	얼릴때	얼리+ㄹ+때	NOUN	NV+ETM+NNG	_	5	advcl	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	외울	외우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	14	advcl	_	_
+10	평생	평생	NOUN	NNG	_	11	obl	_	_
+11	쓸	쓰+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	실력입니다	실력+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_24_1_03
+# text = 저도 얼렸을 때부터 한국 학교를 다녀서 지금까지 한국어를 계속 이용할 수 있습니다.
+1	저도	저+도	PRON	NP+JX	_	6	nsubj	_	_
+2	얼렸을	얼리+었+을	VERB	NV+EP+ETM	_	6	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	한국	한국	NOUN	NNP	_	5	nmod	_	_
+5	학교를	학교+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	다녀서	다니+어서	VERB	VV+EC	_	12	advcl	_	_
+7	지금까지	지금+까지	ADV	NNG+JX	_	10	obl	_	_
+8	한국어를	한국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	계속	계속	ADV	MAG	_	10	advmod	_	_
+10	이용할	이용+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_24_1_04
+# text = 하지만, 조기 언어 교육의 단점은 언어를 안쓰면 실력이 크게 늘지 않습니다.
+1	하지만	하지만	ADV	MAJ	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	교육의	교육+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	단점은	단점+은	NOUN	NNG+JX	_	11	obl	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	안쓰면	안+쓰+면	VERB	MAG+VV+EC	_	11	advcl	_	_
+9	실력이	실력+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	크게	크+게	ADV	VA+EC	_	11	advmod	_	_
+11	늘지	늘+지	VERB	VV+EC	_	0	root	_	_
+12	않습니다	않+습니다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_24_1_05
+# text = 어린 나이의 조기언어교육은 강조 하면 언어에 대해 안 좋은 감정들도 생길 수 있습니다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이의	나이+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	obj	_	_
+4	강조	강조	NOUN	NNG	_	5	obj	_	_
+5	하면	하+면	VERB	VV+EC	_	13	advcl	_	_
+6	언어에	언어+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+8	안	안	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+10	감정들도	감정+들+도	NOUN	NNG+XSN+JX	_	11	nsubj	_	_
+11	생길	생기+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_24_1_06
+# text = 저도 매주 토요일 쉬는 것보다 일찍 아침부터 한국 학교를 다녀야 돼서 많이 억울하고 한 동안 싫었어요.
+1	저도	저+도	PRON	NP+JX	_	16	nsubj	_	_
+2	매주	매주	NOUN	NNG	_	3	nmod	_	_
+3	토요일	토요일	NOUN	NNG	_	4	obl	_	_
+4	쉬는	쉬+는	VERB	VV+ETM	_	5	acl	_	_
+5	것보다	것+보다	ADV	NNB+JKB	_	10	obl	_	_
+6	일찍	일찍	ADV	MAG	_	7	advmod	_	_
+7	아침부터	아침+부터	ADV	NNG+JX	_	10	obl	_	_
+8	한국	한국	NOUN	NNP	_	9	nmod	_	_
+9	학교를	학교+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	다녀야	다니+어야	VERB	VV+EC	_	16	advcl	_	_
+11	돼서	돼+서	VERB	NV+EC	_	10	advcl	_	_
+12	많이	많이	ADV	MAG	_	13	advmod	_	_
+13	억울하고	억울+하+고	VERB	NNG+XSA+EC	_	16	advcl	_	_
+14	한	한	NUM	MM	_	15	det	_	_
+15	동안	동안	ADP	NNG	_	16	obl	_	_
+16	싫었어요	싫+었+어요	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_24_1_07
+# text = 놀고 싶은데, 교실에 한국어만 배우고 있었어 되게 지루했어요.
+1	놀고	놀+고	VERB	VV+EC	_	9	advcl	_	_
+2	싶은데	싶	AUX	VX+EC	_	1	aux	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	교실에	교실+에	ADV	NNG+JKB	_	6	obl	_	_
+5	한국어만	한국어+만	ADV	NNG+JX	_	6	obj	_	_
+6	배우고	배우+고	VERB	VV+EC	_	9	advcl	_	_
+7	있었어	있+었+어	AUX	VX+EP+EC	_	6	aux	_	_
+8	되게	되게	ADV	MAG	_	9	advmod	_	_
+9	지루했어요	지루+하+았+어요	VERB	XR+XSA+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_24_1_08
+# text = 하지만 이제 와서 한국말을 할 수 있어서 되게 좋아요 부모님이랑 쉽게 대화도 할 수 있고 드라마도 즐겨 봅니다.
+1	하지만	하지만	ADV	MAJ	_	15	cc	_	_
+2	이제	이제	ADV	MAG	_	7	advmod	_	_
+3	와서	오+아서	VERB	VV+EC	_	7	advcl	_	_
+4	한국말을	한국+말+을	NOUN	NNP+NNG+JKO	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어서	있+어서	VERB	VX+EC	_	9	advcl	_	_
+8	되게	되게	ADV	MAG	_	9	advmod	_	_
+9	좋아요	좋+아요	VERB	VA+EC	_	15	advcl	_	_
+10	부모님이랑	부모+님+이랑	ADV	NNG+XSN+JKB	_	13	obl	_	_
+11	쉽게	쉽+게	ADV	VA+EC	_	13	advmod	_	_
+12	대화도	대화+도	NOUN	NNG+JX	_	13	obj	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있고	있+고	VERB	VX+EC	_	0	root	_	_
+16	드라마도	드라마+도	NOUN	NNG+JX	_	18	obj	_	_
+17	즐겨	즐기+어	VERB	VV+EC	_	18	advcl	_	_
+18	봅니다	보+ㅂ니다	VERB	VV+EF	_	15	conj	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

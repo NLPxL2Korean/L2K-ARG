@@ -1,0 +1,297 @@
+# sent_id = ARG-ENG_13_3_01
+# text = 미국의 경제에서 경쟁이 덕목 같다.
+1	미국의	미국+의	NOUN	NNP+JKG	_	2	nmod:poss	_	_
+2	경제에서	경제+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	덕목	덕목	NOUN	NNG	_	5	obl	_	_
+5	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_3_01
+# text = 협동과 경쟁 중 협동을 더 선호합니다.
+1	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중	중	ADP	NNB	_	2	case	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_3_02
+# text = 이 덕목에 신뢰하는 사람에 따르면 경쟁이 새로운 품질, 과정을 개발한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	덕목에	덕목+에	ADV	NNG+JKB	_	3	obl	_	_
+3	신뢰하는	신뢰+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	사람에	사람+에	ADV	NNG+JKB	_	5	obl	_	_
+5	따르면	따르+면	VERB	VV+EC	_	11	advcl	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+7	새로운	새롭+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	품질	품질	NOUN	NNG	_	10	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	과정을	과정+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	개발한다	개발+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_13_3_02
+# text = 첫제, 협동 잘 하면 인맥을 쌓이다.
+1	첫제	첫제	NOUN	NA	_	7	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	협동	협동	NOUN	NNG	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+6	인맥을	인맥+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	쌓이다	쌓+이+다	VERB	VV+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_3_03
+# text = 까끔식 그렇다.
+1	까끔식	까끔식	ADV	NA	Typo=Yes	2	advmod	_	_
+2	그렇다	그렇+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_13_3_03
+# text = 애를 들면 회사에서 일하고 있는 사람을 더 편하게 같이 일을 할 수 있습니다.
+1	애를	애+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	13	advcl	_	_
+3	회사에서	회사+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	일하고	일+하+고	VERB	NNG+XSV+EC	_	6	acl	_	_
+5	있는	있+는	AUX	VX+ETM	_	4	aux	_	_
+6	사람을	사람+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	편하게	편하+게	ADV	VA+EC	_	11	advcl	_	_
+9	같이	같이	ADV	MAG	_	11	advmod	_	_
+10	일을	일+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_13_3_04
+# text = 하지만 협동할 때 다들 이긴다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	다들	다+들	ADV	NP+XSN	_	5	nsubj	_	_
+5	이긴다	이기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_3_04
+# text = 둘제, 인간관계를 잘 생기다.
+1	둘제	둘제	NOUN	NA	_	5	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	5	punct	_	_
+3	인간관계를	인간+관계+를	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	생기다	생기+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_3_05
+# text = 하긴 경젱가 새로운 것을 만든지 자주 틀리다.
+1	하긴	하긴	ADV	MAG	_	7	advmod	_	_
+2	경젱가	경젱+가	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+3	새로운	새롭+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	5	obj	_	_
+5	만든지	만들+ㄴ지	VERB	VV+EC	_	7	nsubj	_	_
+6	자주	자주	ADV	MAG	_	7	advmod	_	_
+7	틀리다	틀리+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_3_05
+# text = 동료이랑 경쟁을 많으면 인간관계 생기는 어렵고 분편합니다.
+1	동료이랑	동료+이랑	NOUN	NNG+JKB	_	3	obl	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	많으면	많+으면	VERB	VA+EC	_	6	advcl	_	_
+4	인간관계	인간+관계	NOUN	NNG+NNG	_	6	nsubj	_	_
+5	생기는	생기+는	VERB	VV+ETM	_	6	acl	_	_
+6	어렵고	어렵+고	VERB	VA+EC	_	0	root	_	_
+7	분편합니다	분편+하+ㅂ니다	ADJ	NF+XSA+EF	_	6	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_3_06
+# text = 예를 들어서 <아멍 어스(우리 중에서> 앺 보세요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	7	advcl	_	_
+3	<아멍	<+아멍	NOUN	SS+NNP	_	7	obl	_	_
+4	어스(우리	어스+(+우리	NOUN	NNP+SS+NP	_	3	flat	_	_
+5	중에서>	중+에서+>	ADV	NNB+JKB+SS	_	3	case	_	_
+6	앺	앺	NOUN	NF	Typo=Yes	7	obj	_	_
+7	보세요	보+시+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_3_06
+# text = 개인적으로 협동을 더 선호입니다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	4	obl	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호입니다	선호+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_13_3_07
+# text = 인기가 있는 앺이 도래하자마자 비슷하고 수많은 앺이 나왔다.
+1	인기가	인기+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있는	있+는	VERB	VV+ETM	_	3	acl	_	_
+3	앺이	앺+이	NOUN	NF+JKS	Typo=Yes	4	nsubj	_	_
+4	도래하자마자	도래+하+자마자	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	비슷하고	비슷+하+고	ADJ	XR+XSA+EC	_	7	amod	_	_
+6	수많은	수많+은	ADJ	VA+ETM	_	5	conj	_	_
+7	앺이	앺+이	NOUN	NF+JKS	Typo=Yes	8	nsubj	_	_
+8	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_13_3_08
+# text = 경제가 새로운 것보다 이익 있는 것이 만든다.
+1	경제가	경제+가	NOUN	NNG+JKS	_	7	dislocated	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	acl	_	_
+3	것보다	것+보다	ADV	NNB+JKB	_	7	obl	_	_
+4	이익	이익	NOUN	NNG	_	5	nsubj	_	_
+5	있는	있+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_3_09
+# text = 하지만 다 같이 협동하면 우리의 아이디어의 좋은 점을 조합할 수 있다.
+1	하지만	하지만	ADV	MAJ	_	11	cc	_	_
+2	다	다	ADV	MAG	_	4	advmod	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+5	우리의	우리+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	아이디어의	아이디어+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	점을	점+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	조합할	조합+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_13_3_10
+# text = 예를 들어서, 다양한 사람 (특히 여자)의 일 덕분에 달에 갔다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	사람	사람	NOUN	NNG	_	11	nmod:poss	_	_
+6	(특히	(+특히	ADV	SS+MAG	_	7	advmod	_	_
+7	여자)의	여자+)+의	NOUN	NNG+SS+JKG	_	5	case	_	_
+8	일	일	NOUN	NNG	_	11	obl	_	_
+9	덕분에	덕분+에	ADV	NNG+JKB	_	8	case	_	_
+10	달에	달+에	ADV	NNG+JKB	_	11	obl	_	_
+11	갔다	가+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_13_3_11
+# text = 요즘 대부분 문제가 다들 영향을 끼친다.
+1	요즘	요즘	ADV	NNG	_	6	advmod	_	_
+2	대부분	대부분	NOUN	NNG	_	3	nmod	_	_
+3	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	다들	다+들	VERB	NP+XSN	_	6	obl	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	끼친다	끼치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_3_12
+# text = 그래서 같이 해결하겠다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	해결하겠다	해결+하+겠+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_13_3_13
+# text = 물론, 이익을 찾을 수 있으면 사람 빠르게 일해서 경제도 좋은 점이 있다.
+1	물론	물론	ADV	MAG	_	13	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	이익을	이익+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	찾을	찾+을	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있으면	있+으면	VERB	VX+EC	_	13	advcl	_	_
+7	사람	사람	NOUN	NNG	_	9	nsubj	_	_
+8	빠르게	빠르+게	ADV	VA+EC	_	9	advmod	_	_
+9	일해서	일+하+아서	VERB	NNG+XSV+EC	_	13	advcl	_	_
+10	경제도	경제+도	NOUN	NNG+JX	_	13	obl	_	_
+11	좋은	좋+은	ADJ	VA+ETM	_	12	amod	_	_
+12	점이	점+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_13_3_14
+# text = 하지만 박신 사건 보세요.
+1	하지만	하지만	ADV	MAJ	_	4	cc	_	_
+2	박신	박신	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	사건	사건	NOUN	NNG	_	4	obj	_	_
+4	보세요	보+시+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_13_3_15
+# text = 빠르게 개발했는데 나라 중에서 이제 미국과 부유한 나라만 주민에게 박신을 줄 수 있다.
+1	빠르게	빠르+게	ADV	VA+EC	_	2	advmod	_	_
+2	개발했는데	개발+하+았+는데	VERB	NNG+XSV+EP+EC	_	13	advcl	_	_
+3	나라	나라	NOUN	NNG	_	13	obl	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	이제	이제	ADV	MAG	_	13	advmod	_	_
+6	미국과	미국+과	NOUN	NNP+JC	_	11	nsubj	_	_
+7	부유한	부유+하+ㄴ	ADJ	XR+XSA+ETM	_	8	amod	_	_
+8	나라만	나라+만	NOUN	NF+JX	Typo=Yes	6	conj	_	_
+9	주민에게	주민+에게	ADV	NNG+JKB	_	11	obl	_	_
+10	박신을	박신+을	NOUN	NF+JKO	Typo=Yes	11	obj	_	_
+11	줄	주+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_13_3_16
+# text = 재물 법탓에 빈곤한 나라한테 도움을 줄 수 없다.
+1	재물	재물	NOUN	NNG	_	2	nmod	_	_
+2	법탓에	법+탓+에	ADV	NNG+NNG+JKB	_	8	obl	_	_
+3	빈곤한	빈곤+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	나라한테	나라+한테	ADV	NNG+JKB	_	6	obl	_	_
+5	도움을	도움+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	줄	주+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_13_3_17
+# text = 이런 세상을 좋아한다?
+1	이런	이런	DET	MM	_	2	det	_	_
+2	세상을	세상+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	좋아한다	좋아하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_13_3_18
+# text = 경쟁가 신나다.
+1	경쟁가	경쟁+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	신나다	신나+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_13_3_19
+# text = 하지만 개처럼 사람이 같이 일한다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	개처럼	개+처럼	ADV	NNG+JKB	_	5	obl	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	일한다	일+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_3_20
+# text = 한 사람만 세상의 문제를 다 해결 할 수 없지요.
+1	한	한	DET	MM	_	2	det	_	_
+2	사람만	사람+만	NOUN	NNG+JX	_	7	nsubj	_	_
+3	세상의	세상+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	문제를	문제+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	다	다	ADV	MAG	_	7	advmod	_	_
+6	해결	해결	NOUN	NNG	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없지요	없+지요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_13_3_21
+# text = 협략이 가장 갑편하다.
+1	협략이	협략+이	NOUN	NF+JKS	Typo=Yes	3	nsubj	_	_
+2	가장	가장	ADV	MAG	_	3	advmod	_	_
+3	갑편하다	갑편+하+다	ADJ	NA+XSA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_13_3_22
+# text = 협동하겠다.
+1	협동하겠다	협동+하+겠+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_

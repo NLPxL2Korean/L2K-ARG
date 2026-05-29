@@ -1,0 +1,101 @@
+# sent_id = ARG-ENG_31_2_01
+# text = 역사 공부는 그냥 외우기밖에 없다고 많이 들어요.
+1	역사	역사	NOUN	NNG	_	2	nmod	_	_
+2	공부는	공부+는	NOUN	NNG+JX	_	5	nsubj	_	_
+3	그냥	그냥	ADV	MAG	_	5	advmod	_	_
+4	외우기밖에	외우+기+밖에	VERB	VV+ETN+JX	_	5	obl	_	_
+5	없다고	없+다고	VERB	VX+EC	_	7	ccomp	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	들어요	듣+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_31_2_02
+# text = 학교에서 자주 가르치는 대도 보면 그것은 맞을 수도 있어요.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	3	obl	_	_
+2	자주	자주	ADV	MAG	_	3	advmod	_	_
+3	가르치는	가르치+는	VERB	VV+ETM	_	4	acl	_	_
+4	대도	대도	NOUN	NF	Typo=Yes	5	obj	_	_
+5	보면	보+면	VERB	VV+EC	_	9	advcl	_	_
+6	그것은	그것+은	PRON	NP+JX	_	7	nsubj	_	_
+7	맞을	맞+을	VERB	VV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_31_2_03
+# text = 근데 그거보다 외운 것들이 중에 어떤 관계 있는지, 요즘이랑 뭐 비슷ㅎ는지 그런 칠문은 중요한 것 같아요.
+1	근데	근데	ADV	MAJ	_	17	cc	_	_
+2	그거보다	그거+보다	PRON	NP+JKB	_	15	obl	_	_
+3	외운	외우+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	것들이	것+들+이	NOUN	NNB+XSN+JKS	_	8	obl	_	_
+5	중에	중+에	ADV	NNB+JKB	_	4	case	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	관계	관계	NOUN	NNG	_	8	nsubj	_	_
+8	있는지	있+는지	VERB	VV+EC	_	17	dislocated	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	요즘이랑	요즘+이랑	NOUN	NNG+JC	_	12	obl	_	_
+11	뭐	뭐	PRON	NP	_	12	obl	_	_
+12	비슷ㅎ는지	비슷+ㅎ+는지	VERB	XR+NA+EC	Typo=Yes	8	list	_	_
+13	그런	그런	DET	MM	_	14	det	_	_
+14	칠문은	칠문+은	NOUN	NF+JX	Typo=Yes	8	appos	_	_
+15	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	16	acl	_	_
+16	것	것	NOUN	NNB	_	17	nsubj	_	_
+17	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_31_2_04
+# text = 또는 역사 공부 안하면 정부이나 문화 관련되는 문제가 다시 나올 수 있어요.
+1	또는	또는	ADV	MAG	_	12	cc	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	공부	공부	NOUN	NNG	_	4	obj	_	_
+4	안하면	안+하+면	VERB	MAG+VV+EC	_	12	advcl	_	_
+5	정부이나	정부+이나	NOUN	NNG+JC	_	7	obl	_	_
+6	문화	문화	NOUN	NNG	_	5	conj	_	_
+7	관련되는	관련+되+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	문제가	문제+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	다시	다시	ADV	MAG	_	10	advmod	_	_
+10	나올	나오+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_31_2_05
+# text = 사회은 어떻게 된지 모르면, 나아질 수 없어요.
+1	사회은	사회+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	어떻게	어떻+게	ADV	VA+EC	_	3	advmod	_	_
+3	된지	되+ㄴ지	VERB	VV+EC	_	4	ccomp	_	_
+4	모르면	모르+면	VERB	VV+EC	_	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	나아질	낫+아지+ㄹ	VERB	VA+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없어요	없+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_31_2_06
+# text = 다른 점은 수학처럼 세상 이해할도록 하는 것이도 좋은 이유인 것 같아요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	점은	점+은	NOUN	NNB+JX	_	11	obl	_	_
+3	수학처럼	수학+처럼	ADV	NNG+JKB	_	5	obl	_	_
+4	세상	세상	NOUN	NNG	_	5	obj	_	_
+5	이해할도록	이해+하+ㄹ+도록	VERB	NNG+XSV+NA+EC	Typo=Yes	6	advcl	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이도	것+이+도	NOUN	NNB+JKS+JX	_	9	nsubj	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	이유인	이유+이+ㄴ	ADJ	NNG+VCP+ETM	_	10	acl	_	_
+10	것	것	NOUN	NNB	_	11	nsubj	_	_
+11	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_31_2_07
+# text = 수학에서 어떤 부분이 쓸모없지만 그것으로 새상 더 이해할 수 있어요.
+1	수학에서	수학+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	부분이	부분+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	쓸모없지만	쓸모+없+지만	ADJ	NNG+VA+EC	_	10	advcl	_	_
+5	그것으로	그것+으로	PRON	NP+JKB	_	8	obl	_	_
+6	새상	새상	NOUN	NA	Typo=Yes	8	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

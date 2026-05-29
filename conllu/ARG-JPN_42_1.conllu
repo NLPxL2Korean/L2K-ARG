@@ -1,0 +1,106 @@
+# sent_id = ARG-JPN_42_1_01
+# text =  조기 언어 교육에 대해 제 의견을 쓴다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육에	교육+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+5	제	저+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	의견을	의견+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	쓴다	쓰+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_42_1_02
+# text =  우선 조기 언어 교육으로 어린이에게 빠른 단계로 부터 외국어 교육을 할 경우 그 메리트는 어린이의 언어 세계를 넓어 시야를 넓기 위해 좋은 연향이 있다는 점이다.
+1	우선	우선	ADV	MAG	_	25	cc	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육으로	교육+으로	ADV	NNG+JKB	_	11	obl	_	_
+5	어린이에게	어린이+에게	ADV	NNG+JKB	_	11	obl	_	_
+6	빠른	빠르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	단계로	단계+로	ADV	NNG+JKB	_	11	obl	_	_
+8	부터	부터	ADP	JX	_	7	case	_	_
+9	외국어	외국어	NOUN	NNG	_	10	nmod	_	_
+10	교육을	교육+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	24	advcl	_	_
+12	경우	경우	ADV	NNG	_	11	mark	_	_
+13	그	그	DET	MM	_	14	det	_	_
+14	메리트는	메리트+는	NOUN	NNG+JX	_	20	nsubj	_	_
+15	어린이의	어린이+의	NOUN	NNG+JKG	_	17	nmod:poss	_	_
+16	언어	언어	NOUN	NNG	_	17	nmod	_	_
+17	세계를	세계+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	넓어	넓+어	VERB	VA+EC	_	20	advcl	_	_
+19	시야를	시야+를	NOUN	NNG+JKO	_	20	obj	_	_
+20	넓기	넓+기	NOUN	VA+ETN	_	21	obj	_	_
+21	위해	위하+아	VERB	VV+EC	_	24	advcl	_	_
+22	좋은	좋+은	ADJ	VA+ETM	_	23	amod	_	_
+23	연향이	연향+이	NOUN	NF+JKS	_	24	nsubj	_	_
+24	있다는	있+다는	VERB	VV+ETM	_	25	acl	_	_
+25	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-JPN_42_1_03
+# text =  보통 사람이 언어를 학습하면 할수록 얻을 수 있는 종보 양이 증가 하기 때문에,미래에 대해 선택을 해야 할 회수가 아직 많이 남은 어린이에게는 더 많은 연향을 준다고 할 수 있겠다.
+1	보통	보통	ADV	NNG	_	2	nmod	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	학습하면	학습+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
+5	할수록	하+ㄹ수록	VERB	VV+EC	_	12	advcl	_	_
+6	얻을	얻+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	10	acl	_	_
+9	종보	종보	NOUN	NF	_	10	nmod	_	_
+10	양이	양+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	증가	증가	NOUN	NNG	_	12	obj	_	_
+12	하기	하+기	NOUN	VV+ETN	_	27	obl	_	_
+13	때문에	때문+에	ADP	NNB+JKB	_	12	case	_	SpaceAfter=No
+14	,미래에	,+미래+에	ADV	SP+NNG+JKB	_	15	obl	_	_
+15	대해	대하+아	VERB	VV+EC	_	17	advcl	_	_
+16	선택을	선택+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	해야	하+아야	VERB	VV+EC	_	19	acl	_	_
+18	할	하	AUX	VX+ETM	_	17	aux	_	_
+19	회수가	회수+가	NOUN	NF+JKS	_	22	nsubj	_	_
+20	아직	아직	ADV	MAG	_	22	advmod	_	_
+21	많이	많이	ADV	MAG	_	22	advmod	_	_
+22	남은	남+은	VERB	VV+ETM	_	23	acl	_	_
+23	어린이에게는	어린이+에게+는	ADV	NNG+JKB+JX	_	27	obl	_	_
+24	더	더	ADV	MAG	_	25	advmod	_	_
+25	많은	많+은	ADJ	VA+ETM	_	26	amod	_	_
+26	연향을	연향+을	NOUN	NF+JKO	_	27	obj	_	_
+27	준다고	주+ㄴ다고	VERB	VV+EC	_	28	ccomp	_	_
+28	할	하+ㄹ	VERB	VV+ETM	_	29	acl	_	_
+29	수	수	NOUN	NNB	_	30	nsubj	_	_
+30	있겠다	있+겠+다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-JPN_42_1_04
+# text =  하지만 조기 외국어 교육에 단점이 없지는 않다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	교육에	교육+에	ADV	NNG+JKB	_	6	obl	_	_
+5	단점이	단점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없지는	없+지+는	VERB	VA+EC+JX	_	0	root	_	_
+7	않다	않+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_42_1_05
+# text =  어린이는 모국어를 충분히 하지 못하는 시절부터 다른 언어의 학습을 시작하면,두가지 언어를 같이 해야 하기 때문에 단점이 없지는 않다.
+1	어린이는	어린이+는	NOUN	NNG+JX	_	10	nsubj	_	_
+2	모국어를	모국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	충분히	충분히	ADV	MAG	_	4	advmod	_	_
+4	하지	하+지	VERB	VV+EC	_	6	acl	_	_
+5	못하는	못하+는	VERB	VX+ETM	_	4	aux	_	_
+6	시절부터	시절+부터	ADV	NNG+JX	_	10	obl	_	_
+7	다른	다른	ADJ	MM	_	8	amod	_	_
+8	언어의	언어+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	학습을	학습+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	시작하면,두가지	시작+하+면+,+두+가지	VERB	NNG+XSV+EC+SP+MM+NNB	_	13	advcl	_	_
+11	언어를	언어+를	NOUN	NNG+JKO	_	13	obj	_	_
+12	같이	같이	ADV	MAG	_	13	advmod	_	_
+13	해야	하+아야	VERB	VV+EC	_	17	obl	_	_
+14	하기	하+기	NOUN	VV+ETN	_	13	aux	_	_
+15	때문에	때문+에	ADP	NNB+JKB	_	13	case	_	_
+16	단점이	단점+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	없지는	없+지+는	VERB	VA+EC+JX	_	0	root	_	_
+18	않다	않+다	AUX	VX+EF	_	17	aux	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	17	punct	_	_

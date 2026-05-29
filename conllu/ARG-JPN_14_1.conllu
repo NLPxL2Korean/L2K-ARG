@@ -1,0 +1,123 @@
+# sent_id = ARG-JPN_14_1_01
+# text =  우리가 사는 세계에서 글러버리즘이 기세좋게 진행되고 있다.
+1	우리가	우리+가	PRON	NP+JKS	_	6	nsubj	_	_
+2	사는	살+는	VERB	VV+ETM	_	3	acl	_	_
+3	세계에서	세계+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	글러버리즘이	글러버리즘+이	NOUN	NF+JKS	_	6	nsubj	_	_
+5	기세좋게	기세+좋+게	ADV	NNG+VA+EC	_	6	advcl	_	_
+6	진행되고	진행+되+고	VERB	NNG+XSV+EC	_	0	root	_	_
+7	있다	있+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_14_1_02
+# text =  한국문화 중에 가장 대표하는 K-POP아이돌은 세계에서 가장 큰 음악 페스티벌 코첼라에서 빼을 수 없는 존재이고 미국에서 열리는 페스티벌에도 불구하고 그들의 스테이지는 관객들이 많이 찬다.
+1	한국문화	한국+문화	NOUN	NNP+NNG	_	4	obl	_	_
+2	중에	중+에	ADP	NNB+JKB	_	1	case	_	_
+3	가장	가장	ADV	MAG	_	4	advmod	_	_
+4	대표하는	대표+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	K-POP아이돌은	K+-+POP+아이돌+은	NOUN	SL+SW+SL+NNG+JX	_	15	nsubj	_	_
+6	세계에서	세계+에서	ADV	NNG+JKB	_	8	obl	_	_
+7	가장	가장	ADV	MAG	_	8	advmod	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	10	acl	_	_
+9	음악	음악	NOUN	NNG	_	10	nmod	_	_
+10	페스티벌	페스티벌	NOUN	NNG+NNG	_	11	appos	_	_
+11	코첼라에서	코첼라+에서	ADV	NNP+JKB	_	12	obl	_	_
+12	빼을	빼+을	VERB	NV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	없는	없+는	VERB	VX+ETM	_	15	acl	_	_
+15	존재이고	존재+이+고	VERB	NNG+VCP+EC	_	24	advcl	_	_
+16	미국에서	미국+에서	ADV	NNP+JKB	_	17	obl	_	_
+17	열리는	열리+는	VERB	VV+ETM	_	18	acl	_	_
+18	페스티벌에도	페스티벌+에+도	ADV	NNG+JKB+JX	_	19	obl	_	_
+19	불구하고	불구+하+고	VERB	NNG+XSV+EC	_	24	advcl	_	_
+20	그들의	그들+의	PRON	NP+JKG	_	21	nmod:poss	_	_
+21	스테이지는	스테이지+는	VERB	NNG+JX	_	24	obl	_	_
+22	관객들이	관객+들+이	NOUN	NNG+XSN+JKS	_	24	nsubj	_	_
+23	많이	많이	ADV	MAG	_	24	advmod	_	_
+24	찬다	차+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-JPN_14_1_03
+# text =  다른 국적을 가진 사람끼리 결혼하는 국제결혼도 매년 인구가 늘어나고 있다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	국적을	국적+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	가진	가지+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	사람끼리	사람+끼리	ADV	NNG+XSN	_	5	nsubj	_	_
+5	결혼하는	결혼+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	국제결혼도	국제+결혼+도	NOUN	NNG+NNG+JX	_	9	nsubj	_	_
+7	매년	매년	NOUN	MAG	_	9	advmod	_	_
+8	인구가	인구+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	늘어나고	늘어나+고	VERB	VV+EC	_	0	root	_	_
+10	있다	있+다	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_14_1_04
+# text =  2023년 한국개랩의 조사에 따르면 1980년에 비해서 국제결혼을 한 사람들이 7.5배로 늘어났다는 결과가 나왔다.
+1	2023년	2023+년	NOUN	SN+NNB	_	2	nmod	_	_
+2	한국개랩의	한국+개랩+의	NOUN	NNP+NF+JKG	_	3	nmod:poss	_	_
+3	조사에	조사+에	ADV	NNG+JKB	_	4	obl	_	_
+4	따르면	따르+면	VERB	VV+EC	_	13	advcl	_	_
+5	1980년에	1980+년+에	NOUN	SN+NNB+JKB	_	6	obl	_	_
+6	비해서	비하+아서	VERB	VV+EC	_	11	advcl	_	_
+7	국제결혼을	국제+결혼+을	NOUN	NNG+NNG+JKO	_	8	obj	_	_
+8	한	하+ㄴ	NUM	VV+ETM	_	9	acl	_	_
+9	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+10	7.5배로	7+.+5+배+로	ADV	SN+SF+SN+NNB+JKB	_	11	obl	_	_
+11	늘어났다는	늘+어+나+았+다는	VERB	VV+EC+VX+EP+ETM	_	12	acl	_	_
+12	결과가	결과+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_14_1_05
+# text =  이렇게 국적 상관없이 문화를 즐기거나 가족을 만들거나 하는 시대에 언어를 어떻게 습득할까 라는 문제가 큰 관심을 이끌고 있다.
+1	이렇게	이렇+게	ADV	VA+EC	_	8	advmod	_	_
+2	국적	국적	NOUN	NNG	_	3	nsubj	_	_
+3	상관없이	상관+없이	NOUN	NNG+MAG	_	5	advcl	_	_
+4	문화를	문화+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	즐기거나	즐기+거나	VERB	VV+EC	_	8	advcl	_	_
+6	가족을	가족+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	만들거나	만들+거나	VERB	VV+EC	_	5	conj	_	_
+8	하는	하+는	AUX	VV+ETM	_	9	acl	_	_
+9	시대에	시대+에	ADV	NNG+JKB	_	17	obl	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+11	어떻게	어떻+게	ADV	VA+EC	_	12	advmod	_	_
+12	습득할까	습득+하+ㄹ까	VERB	NNG+XSV+EC	_	14	acl	_	_
+13	라는	라는	VERB	JKQ	_	7	case	_	_
+14	문제가	문제+가	NOUN	NNG+JKS	_	17	nsubj	_	_
+15	큰	크+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	관심을	관심+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	이끌고	이끌+고	VERB	VV+EC	_	0	root	_	_
+18	있다	있+다	AUX	VX+EF	_	17	aux	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_14_1_06
+# text =  글러버리즘이 가속되는 지금 상황에서 모극어 하나만 습득하면 충분하다라는 것은 없어지고 외국어를 습득하고 전세계 어디서든 살수 있토록 준비를 하는 사람이 많아졌죠.
+1	글러버리즘이	글러버리즘+이	NOUN	NF+JKS	_	2	nsubj	_	_
+2	가속되는	가속+되+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+3	지금	지금	ADV	MAG	_	4	nmod	_	_
+4	상황에서	상황+에서	ADV	NNG+JKB	_	10	obl	_	_
+5	모극어	모극어	NOUN	NF	_	7	obj	_	_
+6	하나만	하나+만	VERB	NR+JX	_	5	flat	_	_
+7	습득하면	습득+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+8	충분하다라는	충분+하+다+라는	VERB	NNG+XSA+EC+JKQ	_	9	acl	_	_
+9	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+10	없어지고	없+어지+고	VERB	VA+XSV+EC	_	0	root	_	_
+11	외국어를	외국어+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	습득하고	습득+하+고	VERB	NNG+XSV+EC	_	15	advcl	_	_
+13	전세계	전+세계	NOUN	MM+NNG	_	14	nmod	_	_
+14	어디서든	어디+서+든	ADV	NP+JKB+JX	_	15	obl	_	_
+15	살수	살+ㄹ+수	VERB	VV+ETM+NNB	_	16	nsubj	_	_
+16	있토록	있+토록	VERB	VX+NA	_	18	advcl	_	_
+17	준비를	준비+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	하는	하+는	VERB	VV+ETM	_	19	acl	_	_
+19	사람이	사람+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	많아졌죠	많+아지+었+죠	VERB	VA+XSV+EP+EF	_	10	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_14_1_07
+# text =  아이가 있는경우, 외국어 습득에
+1	아이가	아이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있는경우	있+는+경우	VERB	VV+ETM+NNG	_	5	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	외국어	외국어	NOUN	NNG	_	5	nmod	_	_
+5	습득에	습득+에	ADV	NNG+JKB	_	0	root	_	_

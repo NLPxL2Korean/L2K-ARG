@@ -1,0 +1,121 @@
+# sent_id = ARG-JPN_10_1_01
+# text =  우선 조기언어교육의 장점부터 생각해봅니다.
+1	우선	우선	ADV	MAG	_	4	advmod	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점부터	장점+부터	ADV	NNG+JX	_	4	obj	_	_
+4	생각해봅니다	생각+하+아+보+ㅂ니다	VERB	NNG+XSV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_10_1_02
+# text =  조기언어교육은 인간 뇌의 특성을 고려할 때 큰 효과를 볼 수 있습니다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	11	dislocated	_	_
+2	인간	인간	NOUN	NNG	_	3	nmod	_	_
+3	뇌의	뇌+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	특성을	특성+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	고려할	고려+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	효과를	효과+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	볼	보+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_10_1_03
+# text =  인간은 10살 때까지에 언어학습을 시작하면 원어민 같이 말할 수 있게 된다고 합니다.
+1	인간은	인간+은	NOUN	NNG+JX	_	8	nsubj	_	_
+2	10살	10+살	NOUN	SN+NNB	_	5	obl	_	_
+3	때까지에	때+까지+에	ADV	NNG+JX+JKB	_	2	case	_	_
+4	언어학습을	언어+학습+을	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	원어민	원어민	NOUN	NNG	_	7	obl	_	_
+7	같이	같+이	ADV	VA+EC	_	8	advcl	_	_
+8	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있게	있+게	VERB	VX+EC	_	12	ccomp	_	_
+11	된다고	되+ㄴ다고	VERB	VX+EC	_	10	advcl	_	_
+12	합니다	하+ㅂ니다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_10_1_04
+# text =  반대로 10살을 넘으면 그러한 가능성이 없어질 것입니다.
+1	반대로	반대+로	ADV	NNG+JKB	_	3	obl	_	_
+2	10살을	10+살+을	NOUN	MM+NNB+JKO	_	3	obj	_	_
+3	넘으면	넘+으면	VERB	VV+EC	_	7	advcl	_	_
+4	그러한	그러하+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	없어질	없+어지+ㄹ	VERB	VA+XSV+ETM	_	7	acl	_	_
+7	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_10_1_05
+# text =  조기 언어교육의 영향은 되게 큰 것으로 보입니다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육의	언어교육+의	NOUN	NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	영향은	영향+은	NOUN	NNG+JX	_	5	nsubj	_	_
+4	되게	되게	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	것으로	것+으로	ADV	NNB+JKB	_	7	obl	_	_
+7	보입니다	보이+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_10_1_06
+# text =  그런데 조기언어교육을 아이에게 과하게 시키면 오히려 언어능력이 떨어지는 위험이 있습니다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	5	obj	_	_
+3	아이에게	아이+에게	ADV	NNG+JKB	_	5	obl	_	_
+4	과하게	과하+게	ADV	VA+EC	_	5	advmod	_	_
+5	시키면	시키+면	VERB	VV+EC	_	10	advcl	_	_
+6	오히려	오히려	ADV	MAG	_	10	advmod	_	_
+7	언어능력이	언어+능력+이	NOUN	NNG+NNG+JKS	_	8	nsubj	_	_
+8	떨어지는	떨어지+는	VERB	VV+ETM	_	9	acl	_	_
+9	위험이	위험+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_10_1_07
+# text =  어렸을때는 어떠한 언어도 익힐 수 있는 반면 배울 언어가 너무 많으면 아무 언어도 완벽하게 할 수 없게 될 가능성이 있습니다.
+1	어렸을때는	어리+었+을+때+는	VERB	VA+EP+ETM+NNG+JX	_	6	advcl	_	_
+2	어떠한	어떠하+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	언어도	언어+도	NOUN	NNG+JX	_	4	obj	_	_
+4	익힐	익힐	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	반면	반면	ADV	NNG+JKB	_	20	obl	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	언어가	언어+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	너무	너무	ADV	MAG	_	11	advmod	_	_
+11	많으면	많+으면	VERB	VA+EC	_	20	advcl	_	_
+12	아무	아무	DET	MM	_	13	det	_	_
+13	언어도	언어+도	NOUN	NNG+JX	_	15	obj	_	_
+14	완벽하게	완벽+하+게	ADV	NNG+XSA+EC	_	15	advmod	_	_
+15	할	하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	없게	없+게	VERB	VA+EC	_	19	acl	_	_
+18	될	되+ㄹ	VERB	VX+ETM	_	17	advcl	_	_
+19	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	20	nsubj	_	_
+20	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_10_1_08
+# text =  그래서 이것을 단점으로 볼 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	이것을	이것+을	PRON	NP+JKO	_	4	obj	_	_
+3	단점으로	단점+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	볼	보+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_10_1_09
+# text =  조기언어교육은 적당하게 시켜야 큰 효과를 얻을 수 있을 것입니다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	obj	_	_
+2	적당하게	적당+하+게	ADV	XR+XSA+EC	_	3	advmod	_	_
+3	시켜야	시키+어야	VERB	VV+EC	_	9	advcl	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	효과를	효과+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	얻을	얻+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있을	있+을	VERB	VX+ETM	_	9	acl	_	_
+9	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

@@ -1,0 +1,157 @@
+# sent_id = ARG-JPN_13_2_01
+# text =  이번에는 우리가 역사를 배워야 하는지 아니면 그러지 않아야 하는지에 대해서 써 보려고 합니다.
+1	이번에는	이번+에+는	ADV	NNG+JKB+JX	_	11	obl	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	10	obl	_	_
+5	하는지	하+는지	VERB	VX+EC	_	4	aux	_	_
+6	아니면	아니+면	VERB	VCN+EC	_	7	advcl	_	_
+7	그러지	그러+지	ADV	VV+EC	_	10	obl	_	_
+8	않아야	않+아야	AUX	VX+EC	_	7	aux	_	_
+9	하는지에	하+는지+에	ADV	VX+EC+JKB	_	7	aux	_	_
+10	대해서	대하+아서	VERB	VV+EC	_	11	advcl	_	_
+11	써	쓰+어	VERB	VV+EC	_	0	root	_	_
+12	보려고	보+려고	VERB	VX+EC	_	11	aux	_	_
+13	합니다	하+ㅂ니다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_13_2_02
+# text =  먼저 저는 우리가 역사를 배워야 한다고 생각합니다.
+1	먼저	먼저	ADV	MAG	_	7	advmod	_	_
+2	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	ccomp	_	_
+6	한다고	하+ㄴ다고	AUX	VX+EC	_	5	aux	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_13_2_03
+# text =  그
+1	그	그	NOUN	NNG	_	0	root	_	_
+
+# sent_id = ARG-JPN_13_2_04
+# text =  이유는 여러가지 있는데 첫번째는 그 나라의 발전이나 발달한 것을 알수 있다는 점입니다.
+1	이유는	이유+는	NOUN	NNG+JX	_	12	nsubj	_	_
+2	여러가지	여러+가지	NOUN	MM+NNB	_	3	nsubj	_	_
+3	있는데	있+는데	VERB	VV+EC	_	12	advcl	_	_
+4	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	12	obl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	나라의	나라+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	발전이나	발전+이나	NOUN	NNG+JC	_	9	acl	_	_
+8	발달한	발달+하+ㄴ	VERB	NNG+XSV+ETM	_	7	conj	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+10	알수	알+ㄹ+수	VERB	VV+ETM+NNB	_	11	nsubj	_	_
+11	있다는	있+다는	VERB	VX+ETM	_	12	acl	_	_
+12	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_13_2_05
+# text =  지금 우리가 편하게 살 수 있다는 것은 옛날에 여러가지 방법을 해서 지큼까지 발달한 것 같다고 생각 합니다.
+1	지금	지금	ADV	MAG	_	4	advmod	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+3	편하게	편하+게	ADV	VA+EC	_	4	advmod	_	_
+4	살	살+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다는	있+다는	VERB	VX+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	17	nsubj	_	_
+8	옛날에	옛날+에	ADV	NNG+JKB	_	11	obl	_	_
+9	여러가지	여러+가지	NOUN	MM+NNB	_	10	nmod	_	_
+10	방법을	방법+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	해서	하+아서	VERB	VV+EC	_	13	advcl	_	_
+12	지큼까지	지큼+까지	ADV	NF+JX	_	13	obl	_	_
+13	발달한	발달+하+ㄴ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같다고	같+다고	VERB	VA+EC	_	17	ccomp	_	_
+16	생각	생각	NOUN	NNG	_	17	obj	_	_
+17	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_13_2_06
+# text =  두번째는 어떤 사건이 있었을 때 그 사건을 어떻게 해결했는지 알 수 있다는 점입니다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	13	obl	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	사건이	사건+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있었을	있+었+을	VERB	VV+EP+ETM	_	9	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	사건을	사건+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	어떻게	어떻+게	ADV	VA+EC	_	9	advmod	_	_
+9	해결했는지	해결+하+았+는지	VERB	NNG+XSV+EP+EC	_	10	ccomp	_	_
+10	알	알+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다는	있+다는	VERB	VX+ETM	_	13	acl	_	_
+13	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_13_2_07
+# text =  예를 들면 주가가 매우 떨어졌을 때 이 나라는 어떻게 회사들은 해결을 했는지 알고 있었으면 나중에 다시 그런 사건이 일어났을 때 그 지식 조금만 있어도 큰 힘이 될 것 같다고 생각했습니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	30	advcl	_	_
+3	주가가	주가+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	매우	매우	ADV	MAG	_	5	advmod	_	_
+5	떨어졌을	떨어지+었+을	VERB	VV+EP+ETM	_	12	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	이	이	DET	MM	_	8	det	_	_
+8	나라는	나라+는	NOUN	NNG+JX	_	12	nsubj	_	_
+9	어떻게	어떻+게	ADV	VA+EC	_	12	advmod	_	_
+10	회사들은	회사+들+은	NOUN	NNG+XSN+JX	_	12	nsubj	_	_
+11	해결을	해결+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	했는지	하+았+는지	VERB	VV+EP+EC	_	13	ccomp	_	_
+13	알고	알+고	VERB	VV+EC	_	29	advcl	_	_
+14	있었으면	있+었+으면	VERB	VX+EP+EC	_	13	aux	_	_
+15	나중에	나중+에	ADV	NNG+JKB	_	19	obl	_	_
+16	다시	다시	ADV	MAG	_	19	advmod	_	_
+17	그런	그런	DET	MM	_	18	det	_	_
+18	사건이	사건+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	일어났을	일어나+았+을	VERB	VV+EP+ETM	_	27	advcl	_	_
+20	때	때	ADV	NNG	_	19	mark	_	_
+21	그	그	DET	MM	_	22	det	_	_
+22	지식	지식	NOUN	NNG	_	24	nsubj	_	_
+23	조금만	조금+만	ADV	NNG+JX	_	24	advmod	_	_
+24	있어도	있+어도	VERB	VV+EC	_	29	advcl	_	_
+25	큰	크+ㄴ	ADJ	VA+ETM	_	28	amod	_	_
+26	힘이	힘+이	NOUN	NNG+JKC	_	27	nsubj	_	_
+27	될	되+ㄹ	VERB	VV+ETM	_	28	acl	_	_
+28	것	것	NOUN	NNB	_	29	nsubj	_	_
+29	같다고	같+다고	VERB	VA+EC	_	30	ccomp	_	_
+30	생각했습니다	생각+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-JPN_13_2_08
+# text =  마지막으로 우리가 역사를 공부해야 되는 이유는 단 옛날에 그런 일들이 일어났다는 것을 알고 있을뿐 만 아니라 거리서 우리들이 성장하는 팁을 배우고 있다고 생각합니다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	23	obl	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	6	acl	_	_
+5	되는	되+는	VERB	VX+ETM	_	4	advcl	_	_
+6	이유는	이유+는	NOUN	NNG+JX	_	23	dislocated	_	_
+7	단	단	NOUN	NF	_	13	advmod	_	_
+8	옛날에	옛날+에	ADV	NNG+JKB	_	11	obl	_	_
+9	그런	그런	DET	MM	_	10	det	_	_
+10	일들이	일+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	일어났다는	일어나+았+다는	VERB	VV+EP+ETM	_	12	acl	_	_
+12	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+13	알고	알+고	VERB	VV+EC	_	14	acl	_	_
+14	있을뿐	있+을+뿐	VERB	VX+ETM+NNB	_	16	nsubj	_	_
+15	만	만	NOUN	JX	_	14	case	_	_
+16	아니라	아니+라	VERB	VCN+EC	_	21	advcl	_	_
+17	거리서	거리+서	VERB	NF+JKB	_	21	obl	_	_
+18	우리들이	우리+들+이	PRON	NP+XSN+JKS	_	19	nsubj	_	_
+19	성장하는	성장+하+는	VERB	NNG+XSV+ETM	_	20	acl	_	_
+20	팁을	팁+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	배우고	배우+고	VERB	VV+EC	_	23	ccomp	_	_
+22	있다고	있+다고	AUX	VX+EC	_	21	aux	_	_
+23	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_13_2_09
+# text =  그래서 저는 우리는 역사를 배워야 한다고 생각합니다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+3	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	ccomp	_	_
+6	한다고	하+ㄴ다고	AUX	VX+EC	_	5	aux	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

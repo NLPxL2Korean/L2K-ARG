@@ -1,0 +1,110 @@
+# sent_id = ARG-CZH_31_3_01
+# text = 좋은 경쟁이 있으면 우리는 다 일을 더잘 하고 싶어요.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+4	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+5	다	다	ADV	MAG	_	8	advmod	_	_
+6	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	더잘	더+잘	ADV	MAG+MAG	_	8	advmod	_	_
+8	하고	하+고	VERB	VV+EC	_	0	root	_	_
+9	싶어요	싶	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_31_3_02
+# text = 근데 나쁜 경쟁이 있으면 스트레스가 많고 우리는 잘 생각하지 않아요.
+1	근데	근데	ADV	MAJ	_	6	cc	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+5	스트레스가	스트레스+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많고	많+고	ADJ	VA+EC	_	0	root	_	_
+7	우리는	우리+는	PRON	NP+JX	_	9	nsubj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	생각하지	생각+하+지	VERB	NNG+XSV+EC	_	6	conj	_	_
+10	않아요	않	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_31_3_03
+# text = 잘 친구들과 함께 협동하면 다 쉽게 하고 빠르게 할 수 있어요.
+1	잘	잘	ADV	MAG	_	4	advmod	_	_
+2	친구들과	친구+들+과	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	함께	함께	ADV	MAG	_	4	advmod	_	_
+4	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+5	다	다	ADV	MAG	_	7	advmod	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	하고	하+고	VERB	VV+EC	_	10	acl	_	_
+8	빠르게	빠르+게	ADV	VA+EC	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	7	conj	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_31_3_04
+# text = 근데 나쁜 사람들과 함께 협동을 해야 하면 또 스트레스을 많이 받을 수 있어요.
+1	근데	근데	ADV	MAJ	_	13	cc	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	6	obl	_	_
+4	함께	함께	ADV	MAG	_	6	advmod	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	해야	하+아야	VERB	VV+EC	_	13	advcl	_	_
+7	하면	하	AUX	VX+EC	_	6	aux	_	_
+8	또	또	ADV	MAG	_	13	advmod	_	_
+9	스트레스을	스트레스+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	받을	받+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_31_3_05
+# text = 일을 할때 한 팀 안에 협동을 더 좋아해요.
+1	일을	일+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	할때	하+ㄹ+때	NOUN	VV+ETM+NNG	_	8	advcl	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	팀	팀	NOUN	NNG	_	8	obl	_	_
+5	안에	안+에	ADV	NNG+JKB	_	4	case	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋아해요	좋아하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_31_3_06
+# text = 친구 침 안에 경쟁한 것이 조금 있으면 나쁘지 않아요.
+1	친구	친구	NOUN	NNG	_	2	nmod	_	_
+2	침	침	NOUN	NNG	_	7	obl	_	_
+3	안에	안+에	ADV	NNG+JKB	_	2	case	_	_
+4	경쟁한	경쟁+하+ㄴ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	조금	조금	ADV	MAG	_	7	advmod	_	_
+7	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+8	나쁘지	나쁘+지	ADJ	VA+EC	_	0	root	_	_
+9	않아요	않	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_31_3_07
+# text = 저는 협동이 더 좋아해요.
+1	저는	저+는	PRON	NP+JX	_	4	dislocated	_	_
+2	협동이	협동+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋아해요	좋아하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_31_3_08
+# text = 저도 다른 사람들 도와 주고 싶어요.
+1	저도	저+도	PRON	NP+JX	_	4	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들	사람+들	NOUN	NNG+XSN	_	4	obj	_	_
+4	도와	돕+아	VERB	VV+EC	_	0	root	_	_
+5	주고	주+고	VERB	VX+EC	_	4	advcl	_	_
+6	싶어요	싶	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_31_3_09
+# text = 그것 때문에 협동을 더 좋아해요.
+1	그것	그것	DET	MM	_	5	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋아해요	좋아하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

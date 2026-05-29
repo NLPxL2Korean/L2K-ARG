@@ -1,0 +1,166 @@
+# sent_id = ARG-JPN_02_1_01
+# text =  장점은 어릴때 부터 외국어를 배우면 성인이 되서 공부를 시작하는 것 보다 빨리 언어를 배울 수 있습니다.
+1	장점은	장점+은	NOUN	NNG+JX	_	16	obl	_	_
+2	어릴때	어리+ㄹ+때	NOUN	VA+ETM+ETM	_	5	obl	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	16	advcl	_	_
+6	성인이	성인+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	되서	되+서	VERB	VV+NA	_	9	advcl	_	_
+8	공부를	공부+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	시작하는	시작+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것	것	NOUN	NNB	_	14	obl	_	_
+11	보다	보다	ADV	JKB	_	10	case	_	_
+12	빨리	빨리	ADV	MAG	_	14	advmod	_	_
+13	언어를	언어+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	배울	배우+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_02_1_02
+# text =  또 원어민 저럼 말을 할 수 있게 되어 유익합니다.
+1	또	또	ADV	MAJ	_	9	cc	_	_
+2	원어민	원어민	NOUN	NNG	_	5	obl	_	_
+3	저럼	저럼	ADV	NA	_	8	case	_	_
+4	말을	말+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있게	있+게	VERB	VX+EC	_	9	advcl	_	_
+8	되어	되+어	VERB	VX+EC	_	7	advcl	_	_
+9	유익합니다	유익+하+ㅂ니다	VERB	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_02_1_03
+# text =  늦게 공부를 시작하면 어렸을 때 보다 기억력이 떨어져 외국어를 배우는게 힘들다는 얘기를 많이 듣기도 합니다.
+1	늦게	늦+게	ADV	VA+EC	_	3	advmod	_	_
+2	공부를	공부+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+4	어렸을	어리+었+을	VERB	VA+EP+ETM	_	5	amod	_	_
+5	때	때	NOUN	NNG	_	8	obl	_	_
+6	보다	보다	ADV	JKB	_	4	case	_	_
+7	기억력이	기억력+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	떨어져	떨어지+어	VERB	VV+EC	_	11	advcl	_	_
+9	외국어를	외국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우는게	배우+는+것+이	VERB	VV+ETM+NNB+JKS	_	11	nsubj	_	_
+11	힘들다는	힘들+다는	VERB	VA+ETM	_	12	acl	_	_
+12	얘기를	얘기+를	NOUN	NNG+JKO	_	14	obj	_	_
+13	많이	많이	ADV	MAG	_	14	advmod	_	_
+14	듣기도	듣+기+도	NOUN	VV+ETN+JX	_	0	root	_	_
+15	합니다	하+ㅂ니다	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_02_1_04
+# text =  그래서 조기에 외국어 공부를 시작하는 것이 좋다고 말 할 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	조기에	조기+에	ADV	NNG+JKB	_	5	obl	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	공부를	공부+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	시작하는	시작+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	좋다고	좋+다고	VERB	VA+EC	_	9	ccomp	_	_
+8	말	말	NOUN	NNG	_	9	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_02_1_05
+# text =  반면 조기 언어교육의 단점은 모국어 표현을 완벽하게 못하게 되는 것이라고 생각합니다.
+1	반면	반면	ADV	NNG	_	11	obl	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	단점은	단점+은	NOUN	NNG+JX	_	10	nsubj	_	_
+5	모국어	모국어	NOUN	NNG	_	6	nmod	_	_
+6	표현을	표현+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	완벽하게	완벽+하+게	ADV	NNG+XSA+EC	_	8	advmod	_	_
+8	못하게	못하+게	VERB	VV+EC	_	10	acl	_	_
+9	되는	되+는	VERB	VX+ETM	_	8	advcl	_	_
+10	것이라고	것+이+라고	VERB	NNB+VCP+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_02_1_06
+# text =  예를 들어서 제 친구들중에 어렸을 때 부터 영어나 한국어를 교육 받아 유학도 갔다 온 사람들은 모국어 즉 일본어 표현이 이상할 때 가 많습니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	23	advcl	_	_
+3	제	저+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	친구들중에	친구+들+중+에	ADV	NNG+XSN+NNB+JKB	_	23	obl	_	_
+5	어렸을	어리+었+을	VERB	VA+EP+ETM	_	11	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	부터	부터	ADP	JX	_	5	case	_	_
+8	영어나	영어+나	NOUN	NNG+JC	_	11	obj	_	_
+9	한국어를	한국어+를	NOUN	NNG+JKO	_	8	conj	_	_
+10	교육	교육	NOUN	NNG	_	13	obj	_	_
+11	받아	받+아	VERB	VV+EC	_	13	advcl	_	_
+12	유학도	유학+도	NOUN	NNG+JX	_	13	obj	_	_
+13	갔다	가+았+다	VERB	VV+EP+EC	_	15	acl	_	_
+14	온	오+ㄴ	VERB	VX+ETM	_	13	aux	_	_
+15	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	23	dislocated	_	_
+16	모국어	모국어	NOUN	NNG	_	20	nsubj	_	_
+17	즉	즉	ADV	MAG	_	19	advmod	_	_
+18	일본어	일본어	NOUN	NNG	_	19	nmod	_	_
+19	표현이	표현+이	NOUN	NNG+JKS	_	16	appos	_	_
+20	이상할	이상+하+ㄹ	VERB	NNG+XSA+ETM	_	21	acl	_	_
+21	때	때	NOUN	NNG	_	23	nsubj	_	_
+22	가	가	VERB	JKS	_	21	case	_	_
+23	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_02_1_08
+# text =  일본어 원어민이지만 일본어를 잘 못하게 되는 경우가 많아 단점이라고 할 수 있습니다.
+1	일본어	일본어	NOUN	NNG	_	2	nmod	_	_
+2	원어민이지만	원어민+이+지만	VERB	NNG+VCP+EC	_	5	advcl	_	_
+3	일본어를	일본어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	못하게	못하+게	VERB	VV+EC	_	7	acl	_	_
+6	되는	되+는	VERB	VX+ETM	_	5	advcl	_	_
+7	경우가	경우+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	많아	많+아	VERB	VA+EC	_	12	advcl	_	_
+9	단점이라고	단점+이+라고	VERB	NNG+VCP+EC	_	10	ccomp	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_02_1_09
+# text =  모국어를 재대로 못하는 것이 사회생활을 시작하면 더 단점이 될 것입니다.
+1	모국어를	모국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	재대로	재대로	ADV	MAG	_	3	advmod	_	_
+3	못하는	못하+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+5	사회생활을	사회+생활+을	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+6	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+7	더	더	ADV	MAG	_	9	advmod	_	_
+8	단점이	단점+이	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	될	되+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_02_1_07-1
+# text =  일본어는 상대방을 놉히는 말 그리고 자신을 낮으는 표현을 많이 사용합니다
+1	일본어는	일본어+는	NOUN	NNG+JX	_	10	nsubj	_	_
+2	상대방을	상대방+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	놉히는	놉히+는	VERB	VV+ETM	_	4	acl	_	_
+4	말	말	NOUN	NNG	_	10	obj	_	_
+5	그리고	그리고	ADV	MAJ	_	8	advmod	_	_
+6	자신을	자신+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	낮으는	낮으+는	VERB	VV+ETM	_	8	acl	_	_
+8	표현을	표현+을	NOUN	NNG+JKO	_	4	conj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	사용합니다	사용+하+ㅂ니다	VERB	NNG+XSV+EC	_	0	root	_	_
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_02_1_07-2
+# text = 특히 그런 표현들을 할 때 잘못 쓸 때가 많다고 느낍니다.
+1	특히	특히	ADV	MAG	_	10	advmod	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	표현들을	표현+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	잘못	잘못	ADV	MAG	_	7	advmod	_	_
+7	쓸	쓰+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	때가	때+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	많다고	많+다고	VERB	VA+EC	_	10	ccomp	_	_
+10	느낍니다	느끼+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

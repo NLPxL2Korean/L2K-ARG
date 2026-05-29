@@ -1,0 +1,98 @@
+# sent_id = ARG-JPN_08_1_01
+# text =  조기언어교육에는 장점과 단점이 있는다.
+1	조기언어교육에는	조기+언어교육+에	ADV	NNG+NNG+NNG+JKB	_	4	obl	_	_
+2	장점과	장점+과	NOUN	NNG+JC	_	4	nsubj	_	_
+3	단점이	단점+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	있는다	있+는다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_08_1_02
+# text =  장점은 좋은 언어 사용사가 된는 것이다.
+1	장점은	장점+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	좋은	좋+은	VERB	VA+ETM	_	3	amod	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	사용사가	사용사+가	NOUN	NF+JKS	_	5	nsubj	_	_
+5	된는	되+ㄴ+는	VERB	VV+NA+ETM	_	6	acl	_	_
+6	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_08_1_03
+# text =  어릴 때 부터 공부 할 수 있기 때문에 빨리 언어를 기억할 수 있다.
+1	어릴	어리+ㄹ	VERB	VA+ETM	_	5	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	공부	공부	NOUN	NNG	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있기	있+기	NOUN	VX+ETN	_	13	obl	_	_
+8	때문에	때문+에	ADP	NNB+JKB	_	7	case	_	_
+9	빨리	빨리	ADV	MAG	_	11	advmod	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	기억할	기억+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_08_1_04
+# text =  외국어를 할 수 있으면 좋은 기희과 많이 생겼다.
+1	외국어를	외국어+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VX+EC	_	8	advcl	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	기희과	기희+과	ADV	NF+NA	_	8	nsubj	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	생겼다	생기+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_08_1_05
+# text =  하지만 의국어교육에는 돈이 먆이 골린다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	의국어교육에는	의국어+교육+에+는	ADV	NF+NNG+JKB+JX	_	5	obl	_	_
+3	돈이	돈+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	먆이	먆이	NOUN	NA	_	5	nsubj	_	_
+5	골린다	골리+ㄴ다	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_08_1_06
+# text =  언어는 매일 해야 하기 때문에 공부 할 위해 많은 교제가 빌려한다.
+1	언어는	언어+는	NOUN	NNG+JX	_	3	obj	_	_
+2	매일	매일	ADV	MAG	_	3	advmod	_	_
+3	해야	하+아야	VERB	VV+EC	_	11	obl	_	_
+4	하기	하+기	NOUN	VX+ETN	_	3	aux	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+6	공부	공부	NOUN	NNG	_	7	obj	_	_
+7	할	하+ㄹ	VV+ETM	_	_	8	acl	_	_
+8	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+9	많은	많+은	ADJ	VA+ETM	_	11	amod	_	_
+10	교제가	교제+가	NOUN	NF+JKS	_	11	nsubj	_	_
+11	빌려한다	빌려+하+ㄴ다	VERB	NV+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_08_1_07
+# text =  돈이 많이 있는 사람만 할 수 있으니까 돈이 있는 사람과 돈이 없는 사람에 자이가 발생한다.
+1	돈이	돈+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	많이	많이	ADV	MAG	_	3	advmod	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	사람만	사람+만	NOUN	NNG+JX	_	5	nsubj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있으니까	있+으니까	VERB	VX+EC	_	15	advcl	_	_
+8	돈이	돈+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있는	있+는	VERB	VV+ETM	_	13	acl	_	_
+10	사람과	사람+과	NOUN	NNG+JC	_	15	obl	_	_
+11	돈이	돈+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	없는	없+는	VERB	VA+ETM	_	13	acl	_	_
+13	사람에	사람+에	ADV	NNG+JKB	_	10	conj	_	_
+14	자이가	자이+가	NOUN	NF+JKS	_	15	nsubj	_	_
+15	발생한다	발생+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_08_1_08
+# text =  그래서 조기언어교육에게는 장점과 단점이 있다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	조기언어교육에게는	조기+언어+교육+에게	ADV	NNG+NNG+NNG+JKB	_	5	obl	_	_
+3	장점과	장점+과	NOUN	NNG+JC	_	5	nsubj	_	_
+4	단점이	단점+이	NOUN	NNG+JKS	_	3	conj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

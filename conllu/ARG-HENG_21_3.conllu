@@ -1,0 +1,155 @@
+# sent_id = ARG-HENG_21_3_01
+# text = 일단 협동과 경쟁에는 각각 장단점이 있는데, 협동은 같이 팀끼리 더욱 돈독해질 수 있고, 팀워크가 생기지만, 경쟁의식이 부족해져 나태해 질 수 있다.
+1	일단	일단	ADV	MAG	_	6	advmod	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+3	경쟁에는	경쟁+에+는	ADV	NNG+JKB+JX	_	2	conj	_	_
+4	각각	각각	NOUN	NNG	_	5	nmod	_	_
+5	장단점이	장단점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있는데	있+는데	VERB	VV+EC	_	24	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	협동은	협동+은	NOUN	NNP+JX	_	14	obl	_	_
+9	같이	같이	ADV	MAG	_	12	advmod	_	_
+10	팀끼리	팀+끼리	NOUN	NNG+XSN	_	12	nsubj	_	_
+11	더욱	더욱	ADV	MAG	_	12	advmod	_	_
+12	돈독해질	돈독+하+아지+ㄹ	VERB	XR+XSA+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있고	있+고	VERB	VX+EC	_	17	advcl	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	14	punct	_	_
+16	팀워크가	팀워크+가	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	생기지만	생기+지만	VERB	VV+EC	_	24	advcl	_	SpaceAfter=No
+18	,	,	PUNCT	SP	_	17	punct	_	_
+19	경쟁의식이	경쟁+의식+이	NOUN	NNG+NNG+JKS	_	20	nsubj	_	_
+20	부족해져	부족+하+아지+어	VERB	NNG+XSA+XSV+EC	_	24	advcl	_	_
+21	나태해	나태+하+아	VERB	NNG+XSA+EC	_	23	acl	_	_
+22	질	_	X	_	_	21	goeswith	_	_
+23	수	수	NOUN	NNB	_	24	nsubj	_	_
+24	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-HENG_21_3_02
+# text = 그리고, 경쟁은 경쟁자와의 경쟁의식이 생겨, '아, 내가 저 사람들 뛰어 넘어야지!'하는 생각을 가지고 자신의 일에 더욱 몰두할수있는 반면, 팀워크가 부족해져, 그룹에 소속되어있을 때 가치가 하락한다.
+1	그리고	그리고	ADV	MAJ	_	31	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	22	punct	_	_
+3	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	obl	_	_
+4	경쟁자와의	경쟁자+와+의	NOUN	NNG+JKB+JKG	_	5	nmod:poss	_	_
+5	경쟁의식이	경쟁+의식+이	NOUN	NNG+NNG+JKS	_	6	nsubj	_	_
+6	생겨	생기+어	VERB	VV+EC	_	21	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	'아	'+아	NOUN	SS+IC	_	14	parataxis	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	내가	내+가	PRON	NP+JKS	_	13	nsubj	_	_
+11	저	저	DET	NP	_	12	det	_	_
+12	사람들	사람+들	NOUN	NNG+XSN	_	13	obj	_	_
+13	뛰어	뛰+어	VERB	VV+EC	_	14	advcl	_	_
+14	넘어야지	넘+어야지	VERB	VV+EF	_	15	ccomp	_	_
+15	!'하는	!+'+하+는	VERB	SF+SS+VV+ETM	_	16	acl	_	_
+16	생각을	생각+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	가지고	가지+고	VERB	VV+EC	_	21	advcl	_	_
+18	자신의	자신+의	PRON	NNG+JKG	_	19	nmod:poss	_	_
+19	일에	일+에	ADV	NNG+JKB	_	21	obl	_	_
+20	더욱	더욱	ADV	MAG	_	21	advmod	_	_
+21	몰두할수있는	몰두+하+ㄹ+수+있+는	VERB	NNG+XSV+ETM+NNB+VX+ETM	_	25	advcl	_	_
+22	반면	반면	NOUN	NNG	_	21	mark	_	SpaceAfter=No
+23	,	,	PUNCT	SP	_	22	punct	_	_
+24	팀워크가	팀워크+가	NOUN	NNG+NNG	_	25	obj	_	_
+25	부족해져	부족+하+아지+어	VERB	NNG+XSV+EC	_	31	advcl	_	SpaceAfter=No
+26	,	,	PUNCT	SP	_	25	punct	_	_
+27	그룹에	그룹+에	ADV	NNG+JKB	_	28	obl	_	_
+28	소속되어있을	소속+되+어+있+을	VERB	NNG+XSV+EC+VX+ETM	_	31	advcl	_	_
+29	때	때	NOUN	NNG	_	28	mark	_	_
+30	가치가	가치+가	NOUN	NNG+JKS	_	31	nsubj	_	_
+31	하락한다	하락+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+32	.	.	PUNCT	SF	_	31	punct	_	_
+
+# sent_id = ARG-HENG_21_3_03
+# text = 두 다른 부분을 메꿀 수는 있어도, 그게 결코쉬운것은 아니다.
+1	두	두	NUM	MM	_	3	nummod	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	부분을	부분+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	메꿀	메꾸+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수는	수+는	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있어도	있+어도	VERB	VV+EC	_	10	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	그게	그것+이	PRON	NP+JKS	_	10	dislocated	_	_
+9	결코쉬운것은	결코+쉽+ㄴ+것+은	NOUN	MAG+VA+ETM+NNB+JX	_	10	nsubj	_	_
+10	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_21_3_04
+# text = 나는 협동과 경쟁 루 다 모두 학교에서 체험해볼수 있었는데, 나는 협동을 더욱 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	8	obj	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	루	루	NOUN	NA	_	8	advmod	_	_
+5	다	다	ADV	MAG	_	8	advmod	_	_
+6	모두	모두	ADV	MAG	_	8	advmod	_	_
+7	학교에서	학교+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	체험해볼수	체험+하+아+보+ㄹ+수	VERB	NNG+XSV+EC+VX+ETM+NNB	_	9	nsubj	_	_
+9	있었는데	있+었+는데	VERB	VX+EP+EC	_	15	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	나는	나+는	PRON	NP+JX	_	15	nsubj	_	_
+12	협동을	협동+을	NOUN	NNG+JKO	_	15	obj	_	_
+13	더욱	더욱	ADV	MAG	_	15	advmod	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_21_3_05
+# text = 일단 기본적으로 나오는 아이디어의 양의 차이가 난다.
+1	일단	일단	ADV	MAG	_	7	advmod	_	_
+2	기본적으로	기본+적+으로	ADV	NNG+XSN+JKB	_	7	obl	_	_
+3	나오는	나오+는	VERB	VV+ETM	_	4	acl	_	_
+4	아이디어의	아이디어+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+5	양의	양+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	차이가	차이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	난다	나+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_21_3_06
+# text = 질이 다를 순있어도, 수많은 아이디어 속에 진주같은 좋은 아이디어를 찾을 수 있을거라 생각한다.
+1	질이	질+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	다를	다르+ㄹ	VERB	VA+ETM	_	3	acl	_	_
+3	순있어도	수+ㄴ+있+어도	NOUN	NNB+JX+VX+EC	_	14	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	수많은	수많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	아이디어	아이디어	NOUN	NNG	_	11	obl	_	_
+7	속에	속+에	ADP	NNG+JKB	_	6	case	_	_
+8	진주같은	진주+같+은	ADJ	NNG+VA+ETM	_	10	acl	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+10	아이디어를	아이디어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	찾을	찾+을	VERB	VV+ETM	_	13	advcl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있을거라	있+을+거+이+라	VERB	VX+ETM+NNB+VCP+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_21_3_07
+# text = 또한 부족해져 버린 경쟁심은 또 다른 협동 그룹과의 경쟁을 통해 메꿀수있다.
+1	또한	또한	ADV	MAJ	_	11	cc	_	_
+2	부족해져	부족+하+아지+어	VERB	NNG+XSA+XSV+EC	_	3	acl	_	_
+3	버린	버리+ㄴ	VERB	VX+ETM	_	2	aux	_	_
+4	경쟁심은	경쟁심+은	NOUN	NNG+JX	_	11	obj	_	_
+5	또	또	ADV	MAG	_	6	advmod	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	협동	협동	NOUN	NNG	_	8	nmod	_	_
+8	그룹과의	그룹+과+의	NOUN	NNG+JKB+JKG	_	9	nmod:poss	_	_
+9	경쟁을	경쟁+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	통해	통하+아	VERB	VV+EC	_	11	advcl	_	_
+11	메꿀수있다	메꾸+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_21_3_08
+# text = 그게 쉬운 일은 아닐지라도 팀과함께 팀워크로 헤쳐 나갈수 있을거라 생각해 협동을 선택하였다.
+1	그게	그것+이	ADV	MAG	_	4	dislocated	_	_
+2	쉬운	쉽+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	일은	일+은	NOUN	NNG+JX	_	4	nsubj	_	_
+4	아닐지라도	아니+ㄹ지라도	VERB	VCN+EC	_	9	advcl	_	_
+5	팀과함께	팀+과+함께	NOUN	NNG+JKB+MAG	_	7	obl	_	_
+6	팀워크로	팀워크+로	ADV	VV+ETN+JKB	_	7	obl	_	_
+7	헤쳐	헤치+어	VERB	VV+EC	_	8	advcl	_	_
+8	나갈수	나가+ㄹ+수	NOUN	VV+ETM+NNB	_	9	nsubj	_	_
+9	있을거라	있+을+거+이+라	VERB	VX+ETM+NNB+VCP+EC	_	10	ccomp	_	_
+10	생각해	생각+하+아	VERB	NNG+XSV+EC	_	12	advcl	_	_
+11	협동을	협동+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	선택하였다	선택+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

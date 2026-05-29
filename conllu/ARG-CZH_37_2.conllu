@@ -1,0 +1,140 @@
+# sent_id = ARG-CZH_37_2_01
+# text = 유명한 말이 있습니다.
+1	유명한	유명+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+2	말이	말+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_37_2_02
+# text = ‘역사를 모르면 그 역사를 다시 살아봐야 한다.
+1	‘역사를	‘+역사+를	NOUN	SS+NNG+JKO	_	2	obj	_	_
+2	모르면	모르+면	VERB	VV+EC	_	6	advcl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	다시	다시	ADV	MAG	_	6	advmod	_	_
+6	살아봐야	살+아+보+아야	VERB	VV+EC+VX+EC	_	0	root	_	_
+7	한다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_37_2_03
+# text = ’
+1	’	'	PUNCT	SS	_	0	root	_	_
+
+# sent_id = ARG-CZH_37_2_04
+# text = 그 말의 듯은 뭐냐면 예를 들면 2차전쟁이 왜 일어난 지 모르면 비슷한 문제로 새로운 전쟁이 일어날 수 밖에 없습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	말의	말+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	듯은	듯+은	NOUN	NF+JX	Typo=Yes	4	nsubj	_	_
+4	뭐냐면	뭐+이+냐+면	ADJ	NNG+VCP+EF+EC	_	19	advcl	_	_
+5	예를	예+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	들면	들+면	VERB	VV+EC	_	11	advcl	_	_
+7	2차전쟁이	2+차+전쟁+이	NOUN	SN+NNB+NNG+JKS	_	9	nsubj	_	_
+8	왜	왜	ADV	MAG	_	9	advmod	_	_
+9	일어난	일어나+ㄴ+지	NOUN	VV+ETM+NNB	Typo=Yes	11	obj	_	_
+10	지	_	X	_	_	9	goeswith	_	_
+11	모르면	모르+면	VERB	VV+EC	_	19	advcl	_	_
+12	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	13	amod	_	_
+13	문제로	문제+로	ADV	NNG+JKB	_	19	obl	_	_
+14	새로운	새롭+ㄴ	ADJ	VA+ETM	_	15	amod	_	_
+15	전쟁이	전쟁+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	일어날	일어나+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	19	nsubj	_	_
+18	밖에	밖에	ADP	JX	_	17	case	_	_
+19	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CZH_37_2_05
+# text = 그래서 사람은 역사를 무조건 배워야 한다고 생각합니다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	무조건	무조건	ADV	MAG	_	5	advmod	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	ccomp	_	_
+6	한다고	하	AUX	VX+EC	_	5	aux	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_37_2_06
+# text = 역사는 계속 반복되고 있으니까.
+1	역사는	역사+는	NOUN	NNG+JX	_	3	nsubj	_	_
+2	계속	계속	ADV	MAG	_	3	advmod	_	_
+3	반복되고	반복+되+고	VERB	NNG+XSV+EC	_	0	root	_	_
+4	있으니까	있	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_37_2_07
+# text = 우리 나라에서는 요즘 2차전쟁 후에 나온 행사에 대해서 잘 배우지 않습니다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	나라에서는	나라+에서+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+3	요즘	요즘	ADV	MAG	_	10	advmod	_	_
+4	2차전쟁	2+차+전쟁	NOUN	SN+NNB+NNG	_	6	obl	_	_
+5	후에	후+에	ADV	NNB+JKB	_	4	case	_	_
+6	나온	나오+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	행사에	행사+에	ADV	NNG+JKB	_	8	obl	_	_
+8	대해서	대하+아서	VERB	VV+EC	_	10	advcl	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	배우지	배우+지	VERB	VV+EC	_	0	root	_	_
+11	않습니다	않	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_37_2_08
+# text = 선생님들은 가르치고 싶지 않은 것이 아니라 수업할 때는 남은 시간이 없어서 그렇습니다.
+1	선생님들은	선생+님+들+은	NOUN	NNG+XSN+XSN+JKS	_	2	nsubj	_	_
+2	가르치고	가르치+고	VERB	VV+EC	_	5	acl	_	_
+3	싶지	싶	AUX	VX+EC	_	2	aux	_	_
+4	않은	않	AUX	VX+ETM	_	2	aux	_	_
+5	것이	것+이	NOUN	NNB+JKC	_	6	nsubj	_	_
+6	아니라	아니+라	ADJ	VCN+EC	_	11	advcl	_	_
+7	수업할	수업+하+ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+8	때는	때+는	ADV	NNG+JX	_	7	mark	_	_
+9	남은	남+은	VERB	VV+ETM	_	10	acl	_	_
+10	시간이	시간+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	없어서	없+어서	ADJ	VA+EC	_	12	advcl	_	_
+12	그렇습니다	그렇+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_37_2_09
+# text = 역사를 옛날부터 다 제대로 가르치려고 하니까 시간이 빨리 가고 갑자기 학기가 끝납니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+2	옛날부터	옛날+부터	NOUN	NNG+JX	_	5	obl	_	_
+3	다	다	ADV	MAG	_	5	advmod	_	_
+4	제대로	제대로	ADV	MAG	_	5	advmod	_	_
+5	가르치려고	가르치+려고	VERB	VV+EC	_	9	advcl	_	_
+6	하니까	하	AUX	VX+EC	_	5	aux	_	_
+7	시간이	시간+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	빨리	빨리	ADV	MAG	_	9	advmod	_	_
+9	가고	가+고	VERB	VV+EC	_	12	advcl	_	_
+10	갑자기	갑자기	ADV	MAG	_	12	advmod	_	_
+11	학기가	학기+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	끝납니다	끝나+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_37_2_10
+# text = 그래서 많은 젊은 사람들 우리 최고의 역사를 잘 모릅니다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+3	젊은	젊+은	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들	사람+들	NOUN	NNG+XSN	_	9	nsubj	_	_
+5	우리	우리	PRON	NP	_	7	nmod	_	_
+6	최고의	최고+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	모릅니다	모르+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_37_2_11
+# text = 체코 교육 시스템이 바뿐지 너무 어래 됐고 이것은 그 문제의 큰 부분이라고 생각합니다.
+1	체코	체코	NOUN	NNP	_	2	nmod	_	_
+2	교육	교육	NOUN	NNG	_	3	nmod	_	_
+3	시스템이	시스템+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	바뿐지	바뿌+ㄴ+지	ADJ	NV+ETM+NNB	Typo=Yes	7	nsubj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	어래	어래	ADV	NA	Typo=Yes	7	advmod	_	_
+7	됐고	되+었+고	VERB	VV+EP+EC	_	12	advcl	_	_
+8	이것은	이것+은	PRON	NP+JX	_	12	nsubj	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	문제의	문제+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+11	큰	크+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	부분이라고	부분+이+라고	ADJ	NNG+VCP+EC	_	13	ccomp	_	_
+13	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

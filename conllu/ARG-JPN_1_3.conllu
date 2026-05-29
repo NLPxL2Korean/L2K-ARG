@@ -1,0 +1,77 @@
+# sent_id = ARG-JPN_01_3_01
+# text =  협동을 더 선호한다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_01_3_02
+# text =  협동은 개인이 혼자 할 수 없는 일을 가능하게 만든다.
+1	협동은	협동+은	NOUN	NNP+JX	_	9	nsubj	_	_
+2	개인이	개인+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	혼자	혼자	ADV	NNG	_	4	advmod	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	없는	없+는	VERB	VX+ETM	_	7	acl	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	가능하게	가능+하+게	ADV	NNG+XSA+EC	_	9	advcl	_	_
+9	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_01_3_03
+# text =  여러 사람이 힘을 합치면 불가능하다고 생각했던 일들이 이루워진다.
+1	여러	여러	DET	MM	_	2	det	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	힘을	힘+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	합치면	합치+면	VERB	VV+EC	_	8	advcl	_	_
+5	불가능하다고	불+가능+하+다고	VERB	XPN+NNG+XSA+EC	_	6	ccomp	_	_
+6	생각했던	생각+하+았+던	VERB	NNG+XSV+EP+ETM	_	7	acl	_	_
+7	일들이	일+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	이루워진다	이루우+어지+ㄴ다	VERB	NV+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_01_3_04
+# text =  또한 협동은 더 좋은 인간관계를 형성하기도 한다.
+1	또한	또한	ADV	MAJ	_	6	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	인간관계를	인간+관계+를	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+6	형성하기도	형성+하+기+도	VERB	NNG+XSV+ETM+JX	_	0	root	_	_
+7	한다	하+ㄴ다	VERB	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_01_3_05
+# text =  경쟁을 하면 싸우기 마련이기 때문이다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	4	advcl	_	_
+3	싸우기	싸우+기	NOUN	VV+ETN	_	4	nmod	_	_
+4	마련이기	마련+이+기	NOUN	NNG+VCP+ETN	_	5	nmod	_	_
+5	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_01_3_06
+# text =  따라서 우리가 함께 살아가는 사회에서는 협동이 더 큰 성과를 낸다.
+1	따라서	따라서	ADV	MAJ	_	10	cc	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	4	nsubj	_	_
+3	함께	함께	ADV	MAG	_	4	advmod	_	_
+4	살아가는	살아가+는	VERB	VV+ETM	_	5	acl	_	_
+5	사회에서는	사회+에서+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+6	협동이	협동+이	NOUN	NF+JKS	_	10	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	성과를	성과+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	낸다	내+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_01_3_07
+# text =  그러므로 협동을 중심으로 한 시회를 만들어가야 한다고 믿는다.
+1	그러므로	그러므로	ADV	MAJ	_	8	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	중심으로	중심+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	한	하+ㄴ	NUM	VV+ETM	_	5	acl	_	_
+5	시회를	시회+를	NOUN	NF+JKO	_	6	obj	_	_
+6	만들어가야	만들+어+가+아야	VERB	VV+EC+VX+EC	_	8	ccomp	_	_
+7	한다고	하+ㄴ다고	AUX	VX+EC	_	6	aux	_	_
+8	믿는다	믿+는다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

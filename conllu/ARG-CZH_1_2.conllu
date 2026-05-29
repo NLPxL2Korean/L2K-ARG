@@ -1,0 +1,117 @@
+# sent_id = ARG-CZH_01_2_01
+# text = 저는 중학교 때 부터 역사를 배웠다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	중학교	중학교	NOUN	NNG	_	6	obl	_	_
+3	때	때	ADP	NNG	_	2	mark	_	_
+4	부터	부터	ADP	JX	_	2	case	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배웠다	배우+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_01_2_02
+# text = 그때는 별로 안좋아하는 수업이였는데도 요즘 생각이 좀 바꿨다.
+1	그때는	그때+는	NOUN	NNG+JX	_	4	obl	_	_
+2	별로	별로	ADV	MAG	_	3	advmod	_	_
+3	안좋아하는	안+좋아하+는	VERB	MAG+VV+ETM	_	4	acl	_	_
+4	수업이였는데도	수업+이+였+는데+도	ADJ	NNG+VCP+EC+EC+JX	_	8	advcl	_	_
+5	요즘	요즘	ADV	MAG	_	8	advmod	_	_
+6	생각이	생각+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	좀	좀	ADV	MAG	_	8	advmod	_	_
+8	바꿨다	바꾸+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_01_2_03
+# text = 역사를 분명히 배워야 한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	분명히	분명히	ADV	MAG	_	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	한다	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_01_2_04
+# text = 보통 사람이 역사를 모를 수도 있지만 만약에 무엇을 변하고 싶을 때나 사회에 중요한 일을 하고 싶을 때 세계 역사를 알아야 한다고 생각한다.
+1	보통	보통	ADV	MAG	_	4	advmod	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	모를	모르+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수도	수+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있지만	있	AUX	VX+EC	_	20	advcl	_	_
+7	만약에	만약+에	ADV	NNG+JKB	_	9	obl	_	_
+8	무엇을	무엇+을	PRON	NP+JKO	_	9	obj	_	_
+9	변하고	변하+고	VERB	VV+EC	_	20	advcl	_	_
+10	싶을	싶	AUX	VX+ETM	_	9	aux	_	_
+11	때나	때+나	ADV	NNG+JC	_	9	mark	_	_
+12	사회에	사회+에	ADV	NNG+JKB	_	15	obl	_	_
+13	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	14	amod	_	_
+14	일을	일+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	하고	하+고	VERB	VV+EC	_	9	conj	_	_
+16	싶을	싶	AUX	VX+ETM	_	15	aux	_	_
+17	때	때	ADV	NNG	_	15	mark	_	_
+18	세계	세계	NOUN	NNG	_	19	nmod	_	_
+19	역사를	역사+를	NOUN	NNG+JKO	_	20	obj	_	_
+20	알아야	알+아야	VERB	VV+EC	_	22	ccomp	_	_
+21	한다고	하	AUX	VX+EC	_	20	aux	_	_
+22	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-CZH_01_2_05
+# text = 왜냐하면 역사를 잘 알게 되면 같은 실수를 할 가능성이 거의 없다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	알게	알+게	VERB	VV+EC	_	11	advcl	_	_
+5	되면	되+면	VERB	VX+EC	_	4	advcl	_	_
+6	같은	같+은	ADJ	VA+ETM	_	7	amod	_	_
+7	실수를	실수+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+10	거의	거의	ADV	MAG	_	11	advmod	_	_
+11	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_01_2_06
+# text = 그것은 제일 중요하다고 생각한다.
+1	그것은	그것+은	PRON	NP+JX	_	3	nsubj	_	_
+2	제일	제일	ADV	MAG	_	3	advmod	_	_
+3	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	4	ccomp	_	_
+4	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_01_2_07
+# text = 예를 들면 사람들은 다 이제 두번째 세계 경쟁 때 무슨 일이 난지 잘 알고 지금 대부분 문제들을 먼저 말로 해결하도록 노력한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	21	advcl	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	21	nsubj	_	_
+4	다	다	ADV	MAG	_	14	advmod	_	_
+5	이제	이제	ADV	MAG	_	14	advmod	_	_
+6	두번째	두+번째	NOUN	MM+NNB	_	8	nmod	_	_
+7	세계	세계	NOUN	NNG	_	8	nmod	_	_
+8	경쟁	경쟁	NOUN	NNG	_	12	obl	_	_
+9	때	때	NOUN	NNG	_	8	case	_	_
+10	무슨	무슨	DET	MM	_	11	det	_	_
+11	일이	일+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	난지	나+ㄴ지	VERB	VV+EC	_	14	ccomp	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	알고	알+고	VERB	VV+EC	_	21	advcl	_	_
+15	지금	지금	ADV	MAG	_	21	advmod	_	_
+16	대부분	대부분	NOUN	NNG	_	17	nmod	_	_
+17	문제들을	문제+들+을	NOUN	NNG+XSN+JKO	_	20	obj	_	_
+18	먼저	먼저	ADV	MAG	_	20	advmod	_	_
+19	말로	말+로	ADV	NNG+JKB	_	20	obl	_	_
+20	해결하도록	해결+하+도록	VERB	NNG+XSV+EC	_	21	acl	_	_
+21	노력한다	노력+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CZH_01_2_08
+# text = 그래서 역사를 모르면 같은 실수때문에 큰 일 날 수도 있다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	모르면	모르+면	VERB	VV+EC	_	10	advcl	_	_
+4	같은	같+은	ADJ	VA+ETM	_	5	amod	_	_
+5	실수때문에	실수+때문+에	ADV	NNG+NNB+JKB	_	10	obl	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	일	일	NOUN	NNG	_	8	nsubj	_	_
+8	날	나+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

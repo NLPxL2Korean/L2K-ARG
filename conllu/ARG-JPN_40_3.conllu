@@ -1,0 +1,172 @@
+# sent_id = ARG-JPN_40_3_01
+# text =  인생을 살면서,"협력이 중요하냐, 경쟁이 중요하냐"라는 질문은 많이 접하게 될것이다.
+1	인생을	인생+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	살면서	살+면서	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+3	,"협력이	,+"+협력+이	NOUN	SP+SS+NNG+JKS	_	4	nsubj	_	_
+4	중요하냐	중요+하+냐	VERB	NNG+XSA+EC	_	7	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	중요하냐"라는	중요+하+냐+"+라는	VERB	NNG+XSA+EC+SS+JKQ	_	8	acl	_	_
+8	질문은	질문+은	NOUN	NNG+JX	_	10	obj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	접하게	접하+게	VERB	VV+EC	_	0	root	_	_
+11	될것이다	되+ㄹ+것+이+다	VERB	VX+ETM+NNG+VCP+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_40_3_02
+# text =  개인적으로는 경쟁보다 협력을 중요시해야 한다는 생각이 든다.
+1	개인적으로는	개인+적+으로+는	ADV	NNG+XSN+JKB+JX	_	7	obl	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	협력을	협력+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	중요시해야	중요+시+하+아야	VERB	NNG+XSN+XSV+EC	_	6	acl	_	_
+5	한다는	하+ㄴ다는	AUX	VX+ETM	_	4	aux	_	_
+6	생각이	생각+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_40_3_03
+# text =  그 이유는 다믕과 같다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	다믕과	다믕+과	ADV	NF+JKB	_	4	obl	_	_
+4	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_40_3_04
+# text =  먼저,다른 사람과 나의 의견이 안 맞아 싸우기보다는 상대방의 의견도 듣고 서로를 이해해야 더 좋은 결과를 얻을 수 있다.
+1	먼저,다른	먼저+,+다른	ADJ	NNG+SP+MM	_	2	amod	_	_
+2	사람과	사람+과	NOUN	NNG+JC	_	4	nmod:poss	_	_
+3	나의	나+의	PRON	NP+JKG	_	2	conj	_	_
+4	의견이	의견+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	맞아	맞+아	VERB	VV+EC	_	7	advcl	_	_
+7	싸우기보다는	싸우+기+보다+는	ADV	NNG+ETN+JKB+JX	_	12	obl	_	_
+8	상대방의	상대방+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	의견도	의견+도	NOUN	NNG+JX	_	10	obj	_	_
+10	듣고	듣+고	VERB	VV+EC	_	12	advcl	_	_
+11	서로를	서로+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	이해해야	이해+하+아야	VERB	NNG+XSV+EC	_	18	advcl	_	_
+13	더	더	ADV	MAG	_	15	advmod	_	_
+14	좋은	좋+은	ADJ	VA+ETM	_	15	amod	_	_
+15	결과를	결과+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	얻을	얻+을	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_40_3_05
+# text =  자신의 의견도 중요하지만 상대방의 의견도 잘 듣고 상의하면 서로에게 혐오감을 느끼지 않아도 잘 해결할 수 있을 것이다.
+1	자신의	자신+의	PRON	NNG+JKG	_	2	nmod:poss	_	_
+2	의견도	의견+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	중요하지만	중요+하+지만	VERB	NNG+XSA+EC	_	17	advcl	_	_
+4	상대방의	상대+방+의	NOUN	NNG+JKG+JKG	_	5	nmod:poss	_	_
+5	의견도	의견+도	NOUN	NNG+JX	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	듣고	듣+고	VERB	VV+EC	_	8	advcl	_	_
+8	상의하면	상의+하+면	VERB	NNG+XSV+EC	_	17	advcl	_	_
+9	서로에게	서로+에게	NOUN	NNG+JKB	_	11	obl	_	_
+10	혐오감을	혐오+감+을	NOUN	NNG+XSN+JKO	_	11	obj	_	_
+11	느끼지	느끼+지	VERB	VV+EC	_	14	advcl	_	_
+12	않아도	않+아+도	AUX	VX+EC+JX	_	11	aux	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있을	있+을	VERB	VX+ETM	_	17	acl	_	_
+17	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_40_3_06
+# text =  다음으로 사회 생활에서는 다른 사람들과의 협력이 자주 요구된다.
+1	다음으로	다음+으로	ADV	NNG+JKB	_	8	obl	_	_
+2	사회	사회	NOUN	NNG	_	3	nmod	_	_
+3	생활에서는	생활+에서+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람들과의	사람+들+과+의	NOUN	NNG+XSN+JKB+JKG	_	6	nmod:poss	_	_
+6	협력이	협력+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	자주	자주	ADV	MAG	_	8	advmod	_	_
+8	요구된다	요구+되+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_40_3_07
+# text =  학교나 직장에서는 나의 가족과 같은 나를 잘 이해해주는 존재가 아닌 아예 모르는 사람들과 같이 살아야 한다.
+1	학교나	학교+나	NOUN	NNG+JC	_	15	obl	_	_
+2	직장에서는	직장+에서+는	ADV	NNG+JKB+JX	_	1	conj	_	_
+3	나의	나+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	가족과	가족+과	NOUN	NNG+JC	_	5	obl	_	_
+5	같은	같+은	VERB	VA+ETM	_	9	acl	_	_
+6	나를	나+를	PRON	NP+JKO	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	이해해주는	이해+하+아+주+는	VERB	NNG+XSV+EC+VX+ETM	_	9	acl	_	_
+9	존재가	존재+가	NOUN	NNG+JKC	_	10	nsubj	_	_
+10	아닌	아니+ㄴ	VERB	VCN+ETM	_	13	acl	_	_
+11	아예	아예	ADV	MAG	_	12	advmod	_	_
+12	모르는	모르+는	VERB	VV+ETM	_	13	acl	_	_
+13	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	15	obl	_	_
+14	같이	같이	ADV	MAG	_	15	advmod	_	_
+15	살아야	살+아야	VERB	VV+EC	_	0	root	_	_
+16	한다	하+ㄴ다	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_40_3_08
+# text =  그런 환경에서는 무엇보다 다른사람과 협력하고 어떤 일을 해내는 능력이 요구된다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	환경에서는	환경+에서+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+3	무엇보다	무엇+보다	ADV	NNG+JKB	_	10	obl	_	_
+4	다른사람과	다른+사람+과	ADV	MM+NNG+JKB	_	5	obl	_	_
+5	협력하고	협력+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	해내는	하+아+내+는	VERB	VV+EC+VX+ETM	_	9	acl	_	_
+9	능력이	능력+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	요구된다	요구+되+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_40_3_09
+# text =  또,다른 사람과 협력해 무엇을 달성한 경험이 내가 소속하는 공동체의 대한 소속감과 성취감을 느끼게 해준다.
+1	또,다른	또+,+다른	ADV	MAG+SP+MM	_	13	cc	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	3	obl	_	_
+3	협력해	협력+하+아	VERB	NNG+XSV+EC	_	5	advcl	_	_
+4	무엇을	무엇+을	NOUN	NP+JKO	_	5	obj	_	_
+5	달성한	달성+하+ㄴ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	경험이	경험+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+7	내가	내+가	PRON	NP+JKS	_	8	nsubj	_	_
+8	소속하는	소속+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	공동체의	공동체+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+10	대한	대하+ㄴ	VERB	VV+ETM	_	11	acl	_	_
+11	소속감과	소속감+과	NOUN	NNG+XSN+JC	_	13	obj	_	_
+12	성취감을	성취+감+을	NOUN	NNG+XSN+JKO	_	11	conj	_	_
+13	느끼게	느끼+게	VERB	VV+EC	_	0	root	_	_
+14	해준다	하+아+주+ㄴ다	VERB	VX+EC+VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_40_3_10
+# text =  이는 많은 것을 얻지 못한 싸움과는 반대되는 것이다.
+1	이는	이+는	PRON	NP+JX	_	8	nsubj	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	것을	것+을	NOUN	NNB+JKO	_	4	obj	_	_
+4	얻지	얻+지	VERB	VV+EC	_	6	acl	_	_
+5	못한	못하+ㄴ	VERB	VX+ETM	_	4	aux	_	_
+6	싸움과는	싸움+과+는	ADV	NNG+JKB	_	7	obl	_	_
+7	반대되는	반대+되+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_40_3_11
+# text =  때로는 경쟁이 필요할 때도 있겠지만, 살아가기 위해 협력은 매우 중요한 것이라고 할 수 있을 것이다.
+1	때로는	때로+는	ADJ	MAG+JX	_	5	advmod	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	필요할	필요+하+ㄹ	VERB	NNG+XSA+ETM	_	4	acl	_	_
+4	때도	때+도	ADV	NNG+JX	_	5	nsubj	_	_
+5	있겠지만	있+겠+지만	VERB	VV+EP+EC	_	16	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	16	punct	_	_
+7	살아가기	살아가+기	NOUN	VV+ETN	_	8	obj	_	_
+8	위해	위하+아	VERB	VV+EC	_	12	advcl	_	_
+9	협력은	협력+은	NOUN	NNG+JX	_	12	nsubj	_	_
+10	매우	매우	ADV	MAG	_	11	advmod	_	_
+11	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	12	acl	_	_
+12	것이라고	것+이+라고	VERB	NNB+VCP+EC	_	13	ccomp	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있을	있+을	VERB	VX+ETM	_	16	acl	_	_
+16	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

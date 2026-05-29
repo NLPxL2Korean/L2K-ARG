@@ -1,0 +1,250 @@
+# sent_id = ARG-HENG_09_1_01
+# text = 조기언어교유이 장단검 들다 있는 것 같습니다.
+1	조기언어교유이	조기+언어+교유+이	NOUN	NNG+NNG+NF+JKS	_	4	dislocated	_	_
+2	장단검	장단검	NOUN	NF	_	4	nsubj	_	_
+3	들다	들+다	VERB	NA+MAG	_	4	advmod	_	_
+4	있는	있+는	AUX	VV+ETM	_	5	acl	_	_
+5	것	것	NOUN	NNB	_	6	nsubj	_	_
+6	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_09_1_02
+# text = 제 경우에는 태어났을 때부터 4살이 됐을 때까지 집에서는 한국말만 듣고 부모님과 함께 한국만 만 사용했습니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	15	obl	_	_
+3	태어났을	태어나+았+을	VERB	VV+EP+ETM	_	15	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	4살이	4+살+이	NOUN	SN+NNB+JKS	_	6	nsubj	_	_
+6	됐을	되+었+을	VERB	VV+EP+ETM	_	15	advcl	_	_
+7	때까지	때+까지	ADV	NNG+JX	_	6	mark	_	_
+8	집에서는	집+에서+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+9	한국말만	한국+말+만	NOUN	NNP+NNG+JX	_	10	obj	_	_
+10	듣고	듣+고	VERB	VV+EC	_	15	advcl	_	_
+11	부모님과	부모+님+과	ADV	NNG+XSN+JKB	_	15	obl	_	_
+12	함께	함께	ADV	MAG	_	15	advmod	_	_
+13	한국만	한국+만	NOUN	NNP+NF	_	15	obj	_	_
+14	만	만	NOUN	JX	_	13	case	_	_
+15	사용했습니다	사용+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_09_1_03
+# text = 그리고 유치원에서는 물론 영어를 듣고 배웠습니다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	유치원에서는	유치원+에서+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	물론	물론	ADV	MAG	_	6	advmod	_	_
+4	영어를	영어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	듣고	듣+고	VERB	VV+EC	_	6	advcl	_	_
+6	배웠습니다	배우+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_09_1_04
+# text = 조기 언어 교육의 가장 큰 장점은 좋은 발음을 키우는 것이라고 생각합니다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육의	교육+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+4	가장	가장	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	장점은	장점+은	NOUN	NNG+JX	_	10	nsubj	_	_
+7	좋은	좋+은	VERB	VA+ETM	_	8	amod	_	_
+8	발음을	발음+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	키우는	키우+는	VERB	VV+ETM	_	10	acl	_	_
+10	것이라고	것+이+라고	VERB	NNB+VCP+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_09_1_05
+# text = 제가 봤을 때는 언어를 어렸을 떄 배우지 않으면 아무리 노력해봐도 바름이 틀린다고 생각합니다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	봤을	보+았+을	VERB	VV+EP+ETM	_	13	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	어렸을	어리+었+을	VERB	VA+EP+ETM	_	7	advcl	_	_
+6	떄	떄	ADV	NNG+JX	_	5	mark	_	_
+7	배우지	배우+지	VERB	VV+EC	_	12	advcl	_	_
+8	않으면	않+으면	AUX	VX+EC	_	7	aux	_	_
+9	아무리	아무리	ADV	MAG	_	10	advmod	_	_
+10	노력해봐도	노력+하+아+보+아도	VERB	NNG+XSV+EC+VX+EC	_	12	advcl	_	_
+11	바름이	바름+이	NOUN	NF+JKS	_	12	nsubj	_	_
+12	틀린다고	틀리+ㄴ다고	VERB	VV+EC	_	13	ccomp	_	_
+13	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_09_1_06
+# text = 제가 그래도 어렸을 때 한국말을 먼저 배워서 다른 교포와 비하면 발음이 꽤 좋다고 생각합니다 (대사를 외우면 더 자엽스러웁니다 )
+1	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+2	그래도	그래도	ADV	MAJ	_	7	cc	_	_
+3	어렸을	어리+었+을	VERB	VA+EP+ETM	_	7	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	한국말을	한국+말+을	NOUN	NNP+NNG+JKO	_	7	obj	_	_
+6	먼저	먼저	ADV	MAG	_	7	advmod	_	_
+7	배워서	배우+어서	VERB	VV+EC	_	13	advcl	_	_
+8	다른	다른	ADJ	MM	_	9	amod	_	_
+9	교포와	교포+와	ADV	NNG+JKB	_	10	obl	_	_
+10	비하면	비하+면	VERB	VV+EC	_	13	advcl	_	_
+11	발음이	발음+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+12	꽤	꽤	ADV	MAG	_	13	advmod	_	_
+13	좋다고	좋+다고	VERB	VA+EC	_	14	ccomp	_	_
+14	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EC	_	18	advcl	_	_
+15	(대사를	(+대사+를	NOUN	SS+NNG+JKO	_	16	obj	_	_
+16	외우면	외우+면	VERB	VV+EC	_	18	advcl	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	자엽스러웁니다	자엽+스럽+ㅂ니다	VERB	NF+XSA+ETM	_	0	root	_	SpaceAfter=No
+19	)	)	PUNCT	SS	_	18	punct	_	_
+
+# sent_id = ARG-HENG_09_1_07
+# text = 두번째 장점은 언어를 더 intu iti vely 생각하게 살 수 있다고 생각합니다.
+1	두번째	두+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	12	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+4	더	더	ADV	MAG	_	8	advmod	_	_
+5	intu	intu	VERB	SL	_	8	advmod	_	_
+6	iti	_	X	_	_	5	goeswith	_	_
+7	vely	_	X	_	_	6	goeswith	_	_
+8	생각하게	생각+하+게	ADV	NNG+XSV+EC	_	9	advcl	_	_
+9	살	살+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_09_1_08
+# text = 어렸을 때 배운 바탕으로 나중에 언어를 계속 배워오 concept 들이 더 쉽게 소화되는 것 같습니다.
+1	어렸을	어리+었+을	VERB	VA+EP+ETM	_	3	advcl	_	_
+2	때	때	NOUN	NNG	_	1	mark	_	_
+3	배운	배우+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	바탕으로	바탕+으로	ADV	NNG+JKB	_	8	obl	_	_
+5	나중에	나중+에	ADV	NNG+JKB	_	8	obl	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+7	계속	계속	ADV	MAG	_	8	advmod	_	_
+8	배워오	배우+어오	VERB	VV+NA	_	15	advcl	_	_
+9	concept	concept	NOUN	SL	_	13	nsubj	_	_
+10	들이	들+이	NOUN	XSN+JKS	_	9	case	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	쉽게	쉽+게	ADV	VA+EC	_	13	advmod	_	_
+13	소화되는	소화+되+는	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_09_1_09
+# text = 하지만 단점들도 있다고 생각합니다.
+1	하지만	하지만	ADV	MAJ	_	4	cc	_	_
+2	단점들도	단점+들+도	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+3	있다고	있+다고	VERB	VV+EC	_	4	ccomp	_	_
+4	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_09_1_10
+# text = 아이들은 집중은 잘 못해서 어른이 된 다음에 배우면 더 효율적일 수도 있는 것 같습니다.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+2	집중은	집중+은	NOUN	NNG+JX	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	못해서	못하+아서	VERB	VV+EC	_	14	advcl	_	_
+5	어른이	어른+이	NOUN	NNG+JKC	_	6	nsubj	_	_
+6	된	되+ㄴ	VERB	VV+ETM	_	8	advcl	_	_
+7	다음에	다음+에	ADV	NNG+JKB	_	6	mark	_	_
+8	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	효율적일	효율+적+이+ㄹ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_09_1_11
+# text = 그리고 제가 봤을 때는 자라면서 언어 몇가지 스면 모든 언어에 발전이 느릴 수 있다고 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+3	봤을	보+았+을	VERB	VV+EP+ETM	_	15	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	자라면서	자라+면서	VERB	VV+EC	_	8	advcl	_	_
+6	언어	언어	NOUN	NNG	_	7	nmod	_	_
+7	몇가지	몇+가지	NOUN	MM+NNB	_	8	obj	_	_
+8	스면	스+면	VERB	NV+EC	_	14	advcl	_	_
+9	모든	모든	DET	MM	_	10	det	_	_
+10	언어에	언어+에	ADV	NNG+JKB	_	12	obl	_	_
+11	발전이	발전+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	느릴	느리+ㄹ	VERB	VA+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다고	있+다고	VERB	VX+EC	_	15	ccomp	_	_
+15	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_09_1_12
+# text = 제 경우에는 다른 교포 친구들 보면, 집에서 한군말만 쓰는 분들이 영어를 사용할 때도 발음이 약간 이상하거나 백인들보다 영어 실력이 부족한다고 생각합니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	22	obl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	교포	교포	NOUN	NNG	_	5	nmod	_	_
+5	친구들	친구+들	NOUN	NNG+XSN	_	6	obj	_	_
+6	보면	보+면	VERB	VV+EC	_	22	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	집에서	집+에서	ADV	NNG+JKB	_	10	obl	_	_
+9	한군말만	한군+말+만	NOUN	NF+NNG+JX	_	10	obj	_	_
+10	쓰는	쓰+는	VERB	VV+ETM	_	11	acl	_	_
+11	분들이	분+들+이	NOUN	NNB+XSN+JKS	_	13	nsubj	_	_
+12	영어를	영어+를	NOUN	NNP+JKO	_	13	obj	_	_
+13	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	21	advcl	_	_
+14	때도	때+도	ADV	NNG+JX	_	13	mark	_	_
+15	발음이	발음+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+16	약간	약간	ADV	MAG	_	17	advmod	_	_
+17	이상하거나	이상+하+거나	VERB	NNG+XSA+EC	_	21	advcl	_	_
+18	백인들보다	백인+들+보다	ADV	NNG+XSN+JKB	_	21	obl	_	_
+19	영어	영어	NOUN	NNG	_	20	nmod	_	_
+20	실력이	실력+이	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	부족한다고	부족+하+ㄴ다고	VERB	NNG+XSA+EC	_	22	ccomp	_	_
+22	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-HENG_09_1_13
+# text = 모든 언어에 원어민만큼 잘하기가 어렵다고 생각합니다.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	언어에	언어+에	ADV	NNG+JKB	_	4	obl	_	_
+3	원어민만큼	원어민+만큼	ADV	NNG+JX	_	4	obl	_	_
+4	잘하기가	잘하+기+가	NOUN	VV+ETN+JKS	_	5	nsubj	_	_
+5	어렵다고	어렵+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_09_1_14
+# text = 저는 4살 때 집에서 주로 영어만 쓰게 된 것이 좋다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+2	4살	4+살	NOUN	SN+NNB	_	7	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	집에서	집+에서	ADV	NNG+JKB	_	7	obl	_	_
+5	주로	주로	ADV	MAG	_	7	advmod	_	_
+6	영어만	영어+만	NOUN	NNG+JX	_	7	obj	_	_
+7	쓰게	쓰+게	VERB	VV+EC	_	9	acl	_	_
+8	된	되+ㄴ	VERB	VX+ETM	_	7	advcl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	좋다고	좋+다고	VERB	VA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_09_1_15
+# text = 그래서 영어를 쓸 때는 발음이 없고 영어학이나 영어 글쓰기에 잘했습니다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	영어를	영어+를	NOUN	NNP+JKO	_	3	obj	_	_
+3	쓸	쓰+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	발음이	발음+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	없고	없+고	VERB	VA+EC	_	0	root	_	_
+7	영어학이나	영어학+이나	NOUN	NNG+JC	_	10	obl	_	_
+8	영어	영어	NOUN	NNG	_	9	nmod	_	_
+9	글쓰기에	글쓰기+에	ADV	NNG+JKB	_	7	conj	_	_
+10	잘했습니다	잘하+았+습니다	ADJ	VV+EP+EF	_	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_09_1_16
+# text = 하지만 한국말 실력이 점점 더 나빠진 것은 아쉽다고 생각합니다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	한국말	한국+말	NOUN	NNP+NNG	_	3	nmod	_	_
+3	실력이	실력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	점점	점점	ADV	MAG	_	6	advmod	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	나빠진	나쁘+아지+ㄴ	VERB	VA+XSV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	8	nsubj	_	_
+8	아쉽다고	아쉽+다고	VERB	VA+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

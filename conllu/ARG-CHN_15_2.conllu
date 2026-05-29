@@ -1,0 +1,137 @@
+# sent_id = ARG-CHN_15_2_01
+# text = 제 생각은 협동은 성공에 더 큰 영향을 미친다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각은	생각+은	NOUN	NNG+JX	_	8	dislocated	_	_
+3	협동은	협동+은	NOUN	NNG+JX	_	8	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_15_2_02
+# text = 협동은 자기만 있는 생각을 뿌만 아니라 다른 사람의 의견도 들 수 있다.
+1	협동은	협동+은	NOUN	NNG+JX	_	10	nsubj	_	_
+2	자기만	자기+만	PRON	NP+JX	_	3	nsubj	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	생각을	생각+을	NOUN	NNG+JKO	_	5	acl	_	_
+5	뿌만	뿌+만	NOUN	NA+JX	Typo=Yes	6	nsubj	_	_
+6	아니라	아니+라	ADJ	VCN+EC	_	12	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	사람의	사람+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	의견도	의견+도	NOUN	NNG+JX	_	10	obj	_	_
+10	들	들+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_15_2_03
+# text = 경쟁하면 자기의 생각만 있어서 어려운 점이 있으면 해결하기 어렵다.
+1	경쟁하면	경쟁+하+면	VERB	NNG+XSV+EC	_	4	advcl	_	_
+2	자기의	자기+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	생각만	생각+만	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있어서	있+어서	VERB	VV+EC	_	9	advcl	_	_
+5	어려운	어렵+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	점이	점+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+8	해결하기	해결+하+기	VERB	NNG+XSV+ETN	_	9	nsubj	_	_
+9	어렵다	어렵+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_15_2_04
+# text = 협동하면 여러 사람의 의견을 받을 수 있고 자신의 부족한 것도 수정할 수 있다.
+1	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+2	여러	여러	DET	MM	_	3	det	_	_
+3	사람의	사람+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	의견을	의견+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	받을	받+을	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있+고	VERB	VX+EC	_	0	root	_	_
+8	자신의	자신+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+9	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	것도	것+도	NOUN	NNB+JX	_	11	obj	_	_
+11	수정할	수정+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_15_2_05
+# text = 물론 협동할 때 다양한 의견이 많이 있으니까 분쟁도 발생한 경우이 있다.
+1	물론	물론	ADV	MAG	_	7	advmod	_	_
+2	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	7	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	의견이	의견+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	있으니까	있+으니까	VERB	VV+EC	_	11	advcl	_	_
+8	분쟁도	분쟁+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	발생한	발생+하+ㄴ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	경우이	경우+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_15_2_06
+# text = 다른 사람과 토론할 때 새로운 아이디어를 생길 수 있다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	3	obl	_	_
+3	토론할	토론+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	새로운	새롭+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	아이디어를	아이디어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	생길	생기+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_15_2_07
+# text = 뿐만 아니라 이 상태에서 자신의 부족점도 쉽게 발견할 수 있다.
+1	뿐만	뿐+만	NOUN	NNB+JX	_	2	nsubj	_	_
+2	아니라	아니+라	ADJ	VCN+EC	_	10	advcl	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	상태에서	상태+에서	ADV	NNG+JKB	_	8	obl	_	_
+5	자신의	자신+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	부족점도	부족+점+도	NOUN	NNG+NNB+JX	_	8	obj	_	_
+7	쉽게	쉽+게	ADV	VA+EC	_	8	advmod	_	_
+8	발견할	발견+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_15_2_08
+# text = 자신과 다른 사람을 같이 일을 하면 원벽한 아이디어를 나타나는 것을 중요하지만 도 중요한 것은 다른 사람과 관계를 좋아질 수 있다.
+1	자신과	자신+과	NOUN	NNG+JC	_	6	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람을	사람+을	NOUN	NNG+JKO	_	1	conj	_	_
+4	같이	같이	ADV	MAG	_	6	advmod	_	_
+5	일을	일+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	하면	하+면	VERB	VV+EC	_	20	advcl	_	_
+7	원벽한	원벽+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	8	amod	_	_
+8	아이디어를	아이디어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	나타나는	나타나+는	VERB	VV+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	20	advcl	_	_
+12	도	도	ADV	NA	Typo=Yes	20	advmod	_	_
+13	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	14	acl	_	_
+14	것은	것+은	NOUN	NNB+JX	_	20	dislocated	_	_
+15	다른	다르+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	사람과	사람+과	ADV	NNG+JKB	_	18	obl	_	_
+17	관계를	관계+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	좋아질	좋+아지+ㄹ	VERB	VA+XSV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_15_2_09
+# text = 경쟁은 인간 관계를 나빠질 수 있어서 협동은 더 중요한다고 생각한다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	인간	인간	NOUN	NNG	_	3	nmod	_	_
+3	관계를	관계+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	나빠질	나쁘+아지+ㄹ	VERB	VA+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있어서	있+어서	VERB	VX+EC	_	10	advcl	_	_
+7	협동은	협동+은	NOUN	NNG+JX	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	중요한다고	중요+하+ㄴ다고	ADJ	NNG+XSA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

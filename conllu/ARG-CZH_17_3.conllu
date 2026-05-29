@@ -1,0 +1,96 @@
+# sent_id = ARG-CZH_17_3_01
+# text = 내가 협동을 선호한다.
+1	내가	내+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_17_3_02
+# text = 왜냐하면 많은 사람이 같이 일하면 그리고 서로한테 도와주면 살기가 더 쉽고 편하고 행복하기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	14	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	일하면	일+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+6	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+7	서로한테	서로+한테	ADV	NNG+JKB	_	8	obl	_	_
+8	도와주면	도와주+면	VERB	VV+EC	_	11	advcl	_	_
+9	살기가	살+기+가	VERB	VV+ETN+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	쉽고	쉽+고	ADJ	VA+EC	_	14	nmod	_	_
+12	편하고	편하+고	ADJ	VA+EC	_	11	conj	_	_
+13	행복하기	행복+하+기	VERB	NNG+XSV+ETN	_	11	conj	_	_
+14	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_17_3_03
+# text = 내가 만 생긴 문제를 해결해야하면 많이 힘들고 쓰트레쓰 받는다.
+1	내가	내+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	만	만	ADV	NA	Typo=Yes	7	advmod	_	_
+3	생긴	생기+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	문제를	문제+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	해결해야하면	해결+하+아야+하+면	VERB	NNG+XSV+EC+VX+EC	_	7	advcl	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	힘들고	힘들+고	ADJ	VA+EC	_	0	root	_	_
+8	쓰트레쓰	쓰트레쓰	NOUN	NF	Typo=Yes	9	obj	_	_
+9	받는다	받+는다	VERB	VV+EF	_	7	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_17_3_04
+# text = 하지만 나가 아는 것과 다른 사람이 아는 것과 함치면 나올 결과가 더 좋을 것 같다고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	16	cc	_	_
+2	나가	나+가	PRON	NP+JKS	_	3	nsubj	_	_
+3	아는	알+는	VERB	VV+ETM	_	4	acl	_	_
+4	것과	것+과	NOUN	NNB+JC	_	9	obj	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	아는	알+는	VERB	VV+ETM	_	8	acl	_	_
+8	것과	것+과	NOUN	NNB+JC	_	4	conj	_	_
+9	함치면	함치+면	VERB	NV+EC	Typo=Yes	13	advcl	_	_
+10	나올	나오+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	결과가	결과+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	좋을	좋+을	ADJ	VA+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같다고	같+다고	ADJ	VA+EC	_	16	ccomp	_	_
+16	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_17_3_05
+# text = 다른 사람과 경쟁하는 것이 살짝 슬프고 외럽다고 본다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람과	사람+과	ADV	NNG+JKB	_	3	obl	_	_
+3	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+5	살짝	살짝	ADV	MAG	_	6	advmod	_	_
+6	슬프고	슬프+고	ADJ	VA+EC	_	8	ccomp	_	_
+7	외럽다고	외럽+다고	VERB	VV+EC	_	6	conj	_	_
+8	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_17_3_06
+# text = 경쟁할 때는 이기는 사람이 있어야 하고 치는 사람도 있어야 한다.
+1	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	이기는	이기+는	VERB	VV+ETM	_	4	acl	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있어야	있+어야	VERB	VV+EC	_	0	root	_	_
+6	하고	하	AUX	VX+EC	_	5	aux	_	_
+7	치는	치+는	VERB	NV+ETM	Typo=Yes	8	acl	_	_
+8	사람도	사람+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있어야	있+어야	ADJ	VA+EC	_	5	conj	_	_
+10	한다	하	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_17_3_07
+# text = 경쟁보다 협도하면 우리 다 이길 수 있는 느낌이 든다.
+1	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	2	obl	_	_
+2	협도하면	협도+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+3	우리	우리	PRON	NP	_	5	nsubj	_	_
+4	다	다	ADV	MAG	_	5	advmod	_	_
+5	이길	이기+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	느낌이	느낌+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

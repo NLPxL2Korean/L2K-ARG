@@ -1,0 +1,259 @@
+# sent_id = ARG-HENG_18_2_01
+# text = 역사를 배워야 합니까?
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	합니까	하+ㅂ니까	VERB	VX+EF	_	2	aux	_	SpaceAfter=No
+4	?	?	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-HENG_18_2_02
+# text = 왜 그래야 합니까?
+1	왜	왜	ADV	MAG	_	2	advmod	_	_
+2	그래야	그리하+여야	VERB	VV+EC	_	3	advcl	_	_
+3	합니까	하+ㅂ니까	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_18_2_03
+# text = 역사는 어떤 나라 혹은 민족에게 일어난 일들을 알려줍니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	8	nsubj	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	나라	나라	NOUN	NNG	_	6	obl	_	_
+4	혹은	혹은	ADP	MAG	_	5	advmod	_	_
+5	민족에게	민족+에게	NOUN	NNG+JKB	_	3	conj	_	_
+6	일어난	일어나+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	일들을	일+들+을	NOUN	NNG+XSN+JKO	_	8	obj	_	_
+8	알려줍니다	알리+어+주+ㅂ니다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_18_2_04
+# text = 사람들이 흔히 말하는 이야기가 역사를 알고 배워야 또 일어나지 않게 할 수 있다 입니다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	흔히	흔히	ADV	MAG	_	3	advmod	_	_
+3	말하는	말+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	이야기가	이야기+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	알고	알+고	VERB	VV+EC	_	7	advcl	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	13	advcl	_	_
+8	또	또	ADV	MAG	_	9	advmod	_	_
+9	일어나지	일어나+지	VERB	VV+EC	_	11	advcl	_	_
+10	않게	않+게	VERB	VX+EC	_	9	aux	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	14	advcl	_	_
+14	입니다	이+ㅂ니다	VERB	VCP+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_18_2_05
+# text = 역사를 배우면 그 나라와 사람들이 왜 어떤 가구관을 갖고 사는 지 알 수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	나라와	나라+와	NOUN	NNG+JC	_	9	nsubj	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	conj	_	_
+6	왜	왜	ADV	MAG	_	9	advmod	_	_
+7	어떤	어떤	DET	MM	_	8	det	_	_
+8	가구관을	가구관+을	NOUN	NF+JKO	_	9	obj	_	_
+9	갖고	갖+고	VERB	VV+EC	_	10	advcl	_	_
+10	사는	살+는	VERB	VV+ETM	_	12	ccomp	_	_
+11	지	_	X	_	_	10	goeswith	_	_
+12	알	알+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_18_2_06
+# text = 그 나라가 내가 현재 살고 있는 나라가 아니라 해로 역사를 배움을 통해서 이해하기가 더 쉬워집니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	나라가	나라+가	NOUN	NNG+JKS	_	8	dislocated	_	_
+3	내가	내+가	PRON	NP+JKS	_	5	nsubj	_	_
+4	현재	현재	ADV	MAG	_	5	advmod	_	_
+5	살고	살+고	VERB	VV+EC	_	7	acl	_	_
+6	있는	있+는	AUX	VX+ETM	_	5	aux	_	_
+7	나라가	나라+가	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	아니라	아니+라	VERB	VCN+EC	_	15	advcl	_	_
+9	해로	해로	ADV	NA	_	11	advmod	_	_
+10	역사를	역사+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	배움을	배우+ㅁ+을	NOUN	VV+ETN+JKO	_	12	obj	_	_
+12	통해서	통하+아서	VERB	VV+EC	_	15	advcl	_	_
+13	이해하기가	이해+하+기+가	NOUN	NNG+XSV+ETN+JKS	_	15	nsubj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	쉬워집니다	쉽+어지+ㅂ니다	ADJ	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_18_2_07
+# text = 2차세게 대전때 유대인을 학살의 이유였던 독일 낮지들이 있었습니다.
+1	2차세게	2+차+세게	NOUN	SN+NNB+NF	_	2	nmod	_	_
+2	대전때	대전+때	NOUN	NNG+NNG	_	8	obl	_	_
+3	유대인을	유대인+을	VERB	NNG+JKO	_	4	obj	_	_
+4	학살의	학살+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	이유였던	이유+이+었+던	VERB	NNG+VCP+EP+ETM	_	7	acl	_	_
+6	독일	독일	NOUN	NNP	_	7	nmod	_	_
+7	낮지들이	낮지+들+이	NOUN	NF+XSN+JKS	_	8	nsubj	_	_
+8	있었습니다	있+었+습니다	ADJ	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_18_2_08
+# text = 똑같은 일이 일어나지 않게끔 독일에서는 그 역사를 배웁니다.
+1	똑같은	똑같+은	ADJ	VA+ETM	_	2	amod	_	_
+2	일이	일+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	일어나지	일어나+지	VERB	VV+EC	_	8	advcl	_	_
+4	않게끔	않+게끔	AUX	VX+EC	_	3	aux	_	_
+5	독일에서는	독일+에서+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배웁니다	배우+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_18_2_09
+# text = 옛날에 있었던 일을 잊지 않아야 똑같은 일이 벌어지지 않으니까요.
+1	옛날에	옛날+에	ADV	NNG+JKB	_	2	obl	_	_
+2	있었던	있+었+던	VERB	VV+EP+ETM	_	3	acl	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	잊지	잊+지	VERB	VV+EC	_	8	advcl	_	_
+5	않아야	않+아야	AUX	VX+EC	_	4	aux	_	_
+6	똑같은	똑같+은	ADJ	VA+ETM	_	7	amod	_	_
+7	일이	일+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	벌어지지	벌어지+지	VERB	VV+EC	_	0	root	_	_
+9	않으니까요	않+으니까요	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_18_2_10
+# text = 또 역사를 배우게 되면 나라와 사람들에 대한 이해심이 깊어 집니다.
+1	또	또	ADV	MAJ	_	9	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우게	배우+게	VERB	VV+EC	_	9	advcl	_	_
+4	되면	되+면	VERB	VX+EC	_	3	advcl	_	_
+5	나라와	나라+와	NOUN	NNG+JC	_	7	obl	_	_
+6	사람들에	사람+들+에	ADV	NNG+XSN+JKB	_	5	conj	_	_
+7	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	이해심이	이해+심+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	깊어	깊+어	VERB	VA+XSV	_	0	root	_	_
+10	집니다	_	X	_	_	9	goeswith	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_18_2_11
+# text = 한국은 옛날에 굉장히 가난한 나라였습니다.
+1	한국은	한국+은	NOUN	NNP+JX	_	5	nsubj	_	_
+2	옛날에	옛날+에	ADV	NNG+JKB	_	4	obl	_	_
+3	굉장히	굉장히	ADV	MAG	_	4	advmod	_	_
+4	가난한	가난+하+ㄴ	VERB	NNG+XSA+ETM	_	5	acl	_	_
+5	나라였습니다	나라+이+었+습니다	VERB	NNG+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_18_2_12
+# text = 현재는 너무나 부유해서 젊은 세대들은 전혀 그런 옛 모습을 상상하지 못할 겁니다.
+1	현재는	현재+는	NOUN	NNG+JX	_	3	obl	_	_
+2	너무나	너무나	ADV	MAG	_	3	advmod	_	_
+3	부유해서	부유+하+아서	VERB	NNG+XSA+EC	_	10	advcl	_	_
+4	젊은	젊+은	ADJ	VA+ETM	_	5	amod	_	_
+5	세대들은	세대+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+6	전혀	전혀	ADV	MAG	_	10	advmod	_	_
+7	그런	그런	DET	MM	_	9	det	_	_
+8	옛	옛	ADJ	MM	_	9	amod	_	_
+9	모습을	모습+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	상상하지	상상+하+지	VERB	NNG+XSV+EC	_	12	acl	_	_
+11	못할	못하+ㄹ	AUX	VX+ETM	_	10	aux	_	_
+12	겁니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_18_2_13
+# text = 그러한 심든 시절이 있어 지금의 한국이 있습니다.
+1	그러한	그러하+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+2	심든	심드+ㄴ	NOUN	NV+ETM	_	3	amod	_	_
+3	시절이	시절+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있어	있+어	VERB	VV+EC	_	7	advcl	_	_
+5	지금의	지금+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	한국이	한국+이	NOUN	NNP+JKS	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_18_2_14
+# text = 연세드신 한국 어르신들은 잘 먹고 열심히 사는 것에 대해 말씀하십니다.
+1	연세드신	연세+드시+ㄴ	NOUN	NNG+VV+ETM	_	3	acl	_	_
+2	한국	한국	NOUN	NNP	_	3	nmod	_	_
+3	어르신들은	어르신+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	먹고	먹+고	VERB	VV+EC	_	7	advcl	_	_
+6	열심히	열심히	ADV	MAG	_	7	advmod	_	_
+7	사는	살+는	VERB	VV+ETM	_	8	acl	_	_
+8	것에	것+에	ADV	NNB+JKB	_	9	obl	_	_
+9	대해	대하+아	VERB	VV+EC	_	10	advcl	_	_
+10	말씀하십니다	말씀+하+시+ㅂ니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_18_2_15
+# text = 힘든 시절을 살아오셨기 때문에 배불리 먹는 것과 열심히 살아야 하는 것에 대한 굳건한 생각이 있으십니다.
+1	힘든	힘들+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	시절을	시절+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	살아오셨기	살+아+오+시+었+기	VERB	VV+EC+VX+EP+EP+ETM	_	15	obl	_	_
+4	때문에	때문+에	ADP	NNB+JKB	_	3	case	_	_
+5	배불리	배불리	VERB	MAG	_	6	advmod	_	_
+6	먹는	먹+는	VERB	VV+ETM	_	7	acl	_	_
+7	것과	것+과	ADV	NNB+JC	_	12	obl	_	_
+8	열심히	열심히	ADV	MAG	_	9	advmod	_	_
+9	살아야	살+아야	VERB	VV+EC	_	11	acl	_	_
+10	하는	하+는	AUX	VX+ETM	_	9	aux	_	_
+11	것에	것+에	ADV	NNB+JKB	_	12	conj	_	_
+12	대한	대하+ㄴ	VERB	VV+ETM	_	14	acl	_	_
+13	굳건한	굳건+하+ㄴ	ADJ	XR+XSA+ETM	_	14	amod	_	_
+14	생각이	생각+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있으십니다	있+으시+ㅂ니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_18_2_16
+# text = 마지막으로 역사를 배워야 통찰력이 생깁니다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	5	obl	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	advcl	_	_
+4	통찰력이	통찰+력+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	생깁니다	생기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_18_2_17
+# text = 나만 중요하게 생각하는 것이 아니라 남을 배려하게 됩니다.
+1	나만	나+만	ADV	NP+JX	_	3	obj	_	_
+2	중요하게	중요+하+게	ADV	NNG+XSA+EC	_	3	advmod	_	_
+3	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKC	_	5	nsubj	_	_
+5	아니라	아니+라	VERB	VCN+EC	_	7	advcl	_	_
+6	남을	남+을	VERB	NNG+JKO	_	7	obj	_	_
+7	배려하게	배려+하+게	VERB	NNG+XSV+EC	_	0	root	_	_
+8	됩니다	되+ㅂ니다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_18_2_18
+# text = 세게사를 배우게 되면 비슷하게 흐르는 사건들이 있습니다.
+1	세게사를	세게+사+를	NOUN	NF+XSN+JKO	_	2	obj	_	_
+2	배우게	배우+게	VERB	VV+EC	_	7	advcl	_	_
+3	되면	되+면	VERB	VX+EC	_	2	advcl	_	_
+4	비슷하게	비슷+하+게	ADV	XR+XSA+EC	_	5	advmod	_	_
+5	흐르는	흐르+는	VERB	VA+ETM	_	6	acl	_	_
+6	사건들이	사건+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_18_2_19
+# text = 전쟁은 꼭 큰 일 때문에 아니라 사소한 일 때문에 일어나기도 합니다.
+1	전쟁은	전쟁+은	NOUN	NNG+JX	_	10	nsubj	_	_
+2	꼭	꼭	ADV	MAG	_	3	advmod	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	일	일	NOUN	NNG	_	6	obl	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+6	아니라	아니+라	VERB	VCN+EC	_	7	advcl	_	_
+7	사소한	사소+하+ㄴ	ADJ	XR+XSA+ETM	_	8	acl	_	_
+8	일	일	NOUN	NNG	_	10	obl	_	_
+9	때문에	때문+에	ADP	NNB+JKB	_	8	case	_	_
+10	일어나기도	일어나+기+도	NOUN	VV+ETN+JX	_	0	root	_	_
+11	합니다	하+ㅂ니다	VERB	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_18_2_20
+# text = 사람의 어리석음을 보면서 사람들 더 깊게 보게 됩니다.
+1	사람의	사람+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	어리석음을	어리석+음+을	NOUN	VA+ETN+JKO	_	3	obj	_	_
+3	보면서	보+면서	VERB	VV+EC	_	7	advcl	_	_
+4	사람들	사람+들	NOUN	NNG+XSN	_	7	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	깊게	깊+게	ADV	VA+EC	_	7	advmod	_	_
+7	보게	보+게	VERB	VV+EC	_	0	root	_	_
+8	됩니다	되+ㅂ니다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_

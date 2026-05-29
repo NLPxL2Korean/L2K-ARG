@@ -1,0 +1,128 @@
+# sent_id = ARG-ENG_34_3_01
+# text = 저는 협동과 경쟁 중에서 협돈이 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	7	dislocated	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	7	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	협돈이	협돈+이	NOUN	NF+JKS	Typo=Yes	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_34_3_02
+# text = 경쟁도 중요하다고 생각하지만 경쟁 때문에 이기적인 마음을 생길 수도 있습니다.
+1	경쟁도	경쟁+도	NOUN	NNG+JX	_	2	nsubj	_	_
+2	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	3	ccomp	_	_
+3	생각하지만	생각+하+지만	VERB	NNG+XSV+EC	_	10	advcl	_	_
+4	경쟁	경쟁	NOUN	NNG	_	8	obl	_	_
+5	때문에	때문+에	ADV	NNB+JKB	_	4	case	_	_
+6	이기적인	이기+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	마음을	마음+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	생길	생기+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_34_3_03
+# text = 협동으로 사람들이 함께 일 할 수 있으며 평등한 미래를 만들 수 있습니다.
+1	협동으로	협동+으로	ADV	NNG+JKB	_	7	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	함께	함께	ADV	MAG	_	5	advmod	_	_
+4	일	일	NOUN	NNG	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있으며	있+으며	VERB	VX+EC	_	0	root	_	_
+8	평등한	평등+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	미래를	미래+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	만들	만들+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_34_3_04
+# text = 경쟁이 덕분에 많은 기술가 발달됐고 회사도 생겼습니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	obl	_	_
+2	덕분에	덕분+에	ADV	NNG+JKB	_	1	case	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	기술가	기술+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	발달됐고	발달+되+었+고	VERB	NNG+XSV+EP+EC	_	0	root	_	_
+6	회사도	회사+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	생겼습니다	생기+었+습니다	VERB	VV+EP+EF	_	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_34_3_05
+# text = 하지만 이 경쟁 때문에 어느 사람이 부자가 되어서 많은 사람이 아무리 열심히 일해도 돈이 부족합니다.
+1	하지만	하지만	ADV	MAJ	_	15	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	경쟁	경쟁	NOUN	NNG	_	8	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	어느	어느	DET	MM	_	6	det	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	8	dislocated	_	_
+7	부자가	부자+가	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	되어서	되+어서	VERB	VV+EC	_	13	advcl	_	_
+9	많은	많+은	ADJ	VA+ETM	_	10	amod	_	_
+10	사람이	사람+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+11	아무리	아무리	ADV	MAG	_	13	advmod	_	_
+12	열심히	열심히	ADV	MAG	_	13	advmod	_	_
+13	일해도	일+하+아도	VERB	NNG+XSV+EC	_	15	advcl	_	_
+14	돈이	돈+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	부족합니다	부족+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_34_3_06
+# text = 이러는 비평등 때문에 협동이 더 중요하다고 생각합니다.
+1	이러는	이러+는	VERB	VV+ETM	_	2	acl	_	_
+2	비평등	비+평등	NOUN	XPN+NNB	_	6	obl	_	_
+3	때문에	때문+에	ADV	NNB+JKB	_	2	case	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_34_3_07
+# text = 협동으로 사람들이 모여서 가장 좋은 방법을 만들기 위해 다들의 생각을 들을 수 있습니다.
+1	협동으로	협동+으로	ADV	NNG+JKB	_	3	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	모여서	모이+어서	VERB	VV+EC	_	13	advcl	_	_
+4	가장	가장	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	방법을	방법+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	만들기	만들+기	VERB	VV+ETN	_	8	obj	_	_
+8	위해	위하+아	VERB	VV+EC	_	13	advcl	_	_
+9	다들의	다+들+의	NOUN	NNG+XSN+JKG	_	10	nmod:poss	_	_
+10	생각을	생각+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	들을	듣+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_34_3_08
+# text = 이렇게 가장 평등한 방법을 찾을 수 있습니다.
+1	이렇게	이렇+게	ADV	VA+EC	_	5	advmod	_	_
+2	가장	가장	ADV	MAG	_	3	advmod	_	_
+3	평등한	평등+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	방법을	방법+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	찾을	찾+을	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_34_3_09
+# text = 저는 개인적으로 갈등이 싫습니다.
+1	저는	저+는	PRON	NP+JX	_	4	dislocated	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	갈등이	갈등+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	싫습니다	싫+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_34_3_10
+# text = 경쟁은 스트레스가 되니까 편하게 협동을 더 선호합니다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	3	dislocated	_	_
+2	스트레스가	스트레스+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	되니까	되+니까	VERB	VV+EC	_	7	advcl	_	_
+4	편하게	편하+게	ADV	VA+EC	_	7	advmod	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

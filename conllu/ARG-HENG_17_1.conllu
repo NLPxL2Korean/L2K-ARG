@@ -1,0 +1,166 @@
+# sent_id = ARG-HENG_17_1_01
+# text = 한국에선 조기교육이 항상 인기가 많습니다.
+1	한국에선	한국+에서+ㄴ	ADV	NNP+JKB+JX	_	5	obl	_	_
+2	조기교육이	조기+교육+이	NOUN	NNG+NNG+JKS	_	5	dislocated	_	_
+3	항상	항상	ADV	MAG	_	5	advmod	_	_
+4	인기가	인기+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_17_1_02
+# text = 저는 분명 장단점이 존재한다고 굳게 믿고있습니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	분명	분명	ADV	MAG	_	4	advmod	_	_
+3	장단점이	장단점+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	존재한다고	존재+하+ㄴ다고	VERB	NNG+XSV+EC	_	6	ccomp	_	_
+5	굳게	굳+게	VERB	VA+EC	_	6	advmod	_	_
+6	믿고있습니다	믿+고+있+습니다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_17_1_03
+# text = 특히, 언어적인 면에선 장점들이 두각을 많이 나타내는 것 같습니다.
+1	특히	특히	ADV	MAG	_	10	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	10	punct	_	_
+3	언어적인	언어+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	면에선	면+에서+ㄴ	ADV	NNG+JKB+JX	_	8	obl	_	_
+5	장점들이	장점+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+6	두각을	두+각+을	NOUN	NNG+NNB	_	8	obj	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	나타내는	나타내+는	VERB	VV+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_17_1_04
+# text = 언어를 배우면, 사람들은 자연스레 그 언어의 나라 역사와 문화를 더 깊게 이해할 수 있습니다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	13	nsubj	_	_
+5	자연스레	자연스레	ADV	MAG	_	13	advmod	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	언어의	언어+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	나라	나라	NOUN	NNG	_	9	nmod	_	_
+9	역사와	역사+와	NOUN	NNG+JC	_	13	obj	_	_
+10	문화를	문화+를	NOUN	NNG+JKO	_	9	conj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	깊게	깊+게	ADV	VA+EC	_	13	advmod	_	_
+13	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_17_1_05
+# text = 어렸을적 저는 중국어와 한국어를 배웠고, 그나라들을 방문했을 때 더 재밌고 유익했습니다.
+1	어렸을적	어리+었+을+적	VERB	VA+EP+ETM+NNB	_	5	advcl	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	중국어와	중국어+와	NOUN	NNG+JC	_	5	obj	_	_
+4	한국어를	한국어+를	NOUN	NNG+JKO	_	3	conj	_	_
+5	배웠고	배우+었+고	VERB	VV+EP+EC	_	11	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	그나라들을	그+나라+들+을	NOUN	MM+NNG+XSN+JKO	_	8	obj	_	_
+8	방문했을	방문+하+았+을	VERB	NNG+XSV+EP+ETM	_	11	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	재밌고	재미+있+고	VERB	NNG+VA+EC	_	0	root	_	_
+12	유익했습니다	유익+하+았+습니다	ADJ	NNG+XSA+EP+EF	_	11	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_17_1_06
+# text = 조선왕실과 특히 일제강점기 시대 때 한글을 쓰는 게 굉장히 중요하다 느꼈습니다.
+1	조선왕실과	조선+왕실+과	ADV	NNP+NNG+JC	_	7	obl	_	_
+2	특히	특히	ADV	MAG	_	4	advmod	_	_
+3	일제강점기	일제강점기	NOUN	NNG	_	4	nmod	_	_
+4	시대	시대	NOUN	NNG	_	1	conj	_	_
+5	때	때	ADP	NNG	_	4	case	_	_
+6	한글을	한+글+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	쓰는	쓰+는	VERB	VV+ETM	_	8	acl	_	_
+8	게	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+9	굉장히	굉장히	ADV	MAG	_	10	advmod	_	_
+10	중요하다	중요+하+다	VERB	NNG+XSA+EC	_	11	ccomp	_	_
+11	느꼈습니다	느끼+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_17_1_07
+# text = 나중에 어린이들이 성인이 되었을 때, 미리 배웠던 언어들을 이용하여 취업에도 도움이 될 수 있고, 그런 목적을 달성하기 위해 저는 미리 하는 조기 교육이 인기가 많은 것 같습니다.
+1	나중에	나중+에	ADV	NNG+JKB	_	4	obl	_	_
+2	어린이들이	어린이+들+이	NOUN	NNG+XSN+JKS	_	4	dislocated	_	_
+3	성인이	성인+이	NOUN	NNG+JKC	_	4	nsubj	_	_
+4	되었을	되+었+을	VERB	VV+EP+ETM	_	15	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	미리	미리	ADV	MAG	_	8	advmod	_	_
+8	배웠던	배우+었+던	VERB	VV+EP+ETM	_	9	acl	_	_
+9	언어들을	언어+들+을	NOUN	NNG+XSN+JKO	_	10	obj	_	_
+10	이용하여	이용+하+아	VERB	NNG+XSV+EC	_	15	advcl	_	_
+11	취업에도	취업+에+도	ADV	NNG+JKB+JX	_	13	obl	_	_
+12	도움이	도움+이	NOUN	NNG+JKC	_	13	nsubj	_	_
+13	될	되+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있고	있+고	VERB	VX+EC	_	29	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	SP	_	15	punct	_	_
+17	그런	그런	DET	MM	_	18	det	_	_
+18	목적을	목적+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	달성하기	달성+하+기	NOUN	NNG+XSV+ETN	_	20	obj	_	_
+20	위해	위하+아	VERB	VV+EC	_	29	advcl	_	_
+21	저는	저+는	PRON	NP+JX	_	29	dislocated	_	_
+22	미리	미리	ADV	MAG	_	23	advmod	_	_
+23	하는	하+는	VERB	VV+ETM	_	25	acl	_	_
+24	조기	조기	NOUN	NNG	_	25	nmod	_	_
+25	교육이	교육+이	NOUN	NNG+JKS	_	27	dislocated	_	_
+26	인기가	인기+가	NOUN	NNG+JKS	_	27	nsubj	_	_
+27	많은	많+은	VERB	VA+ETM	_	28	acl	_	_
+28	것	것	NOUN	NNB	_	29	nsubj	_	_
+29	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+30	.	.	PUNCT	SF	_	29	punct	_	_
+
+# sent_id = ARG-HENG_17_1_08
+# text = 하지만, 분명 안좋은 점도 있겠죠.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	분명	분+명	ADV	MAG	_	4	advmod	_	_
+4	안좋은	안+좋+은	VERB	MAG+VA+ETM	_	5	amod	_	_
+5	점도	점+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있겠죠	있+겠+죠	ADJ	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_17_1_09
+# text = 어린 초등학생들이 뛰놀지 못하고 학원들만 다니는 현실이 슬플때도 있어요.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	초등학생들이	초등학생+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	뛰놀지	뛰+놀+지	VERB	VV+VV+EC	_	6	advcl	_	_
+4	못하고	못하+고	VERB	VX+EC	_	3	advcl	_	_
+5	학원들만	학원+들+만	NOUN	NNG+XSN+JX	_	6	obj	_	_
+6	다니는	다니+는	VERB	VV+ETM	_	7	acl	_	_
+7	현실이	현실+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	슬플때도	슬프+ㄹ+때+도	NOUN	VA+ETM+NNG+JX	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_17_1_10
+# text = 적당한 조기교육은 찬성하지만, 아이들을 몰아붙이는 교육은 맞지않다 생각들어요.
+1	적당한	적당+하+ㄴ	ADJ	XR+XSA+ETM	_	2	amod	_	_
+2	조기교육은	조기+교육+은	NOUN	NNG+NNG+JX	_	3	obj	_	_
+3	찬성하지만	찬성+하+지만	VERB	NNG+XSV+EC	_	9	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	아이들을	아이+들+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+6	몰아붙이는	몰+아+붙+이+는	VERB	VV+EC+VV+XSV+ETM	_	7	acl	_	_
+7	교육은	교육+은	NOUN	NNG+JX	_	8	nsubj	_	_
+8	맞지않다	맞+지+않+다	VERB	VV+EC+VX+EC	_	9	acl	_	_
+9	생각들어요	생각+들+어요	VERB	NNG+VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_17_1_11
+# text = 뭐든 과하면 안좋은 것 같아요.
+1	뭐든	뭐+이+든	ADV	NP+VCP+JX	_	2	nsubj	_	_
+2	과하면	과하+면	VERB	VA+EC	_	3	advcl	_	_
+3	안좋은	안+좋+은	VERB	MAG+VA+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_17_1_12
+# text = 과유불금이라는 말처럼.
+1	과유불금이라는	과유불금+이+라는	VERB	NF+VCP+ETM	_	2	acl	_	_
+2	말처럼	말+처럼	ADV	NNG+JKB	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_

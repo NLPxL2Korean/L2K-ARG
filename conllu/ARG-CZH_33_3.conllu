@@ -1,0 +1,106 @@
+# sent_id = ARG-CZH_33_3_01
+# text = 제 생각으로 경쟁을 좀더 좋을 것 같다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각으로	생각+으로	ADV	NNG+JKB	_	7	obl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	좀더	좀+더	ADV	MAG+MAG	_	5	advmod	_	_
+5	좋을	좋+을	ADJ	VA+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_33_3_02
+# text = 왜냐하면 사람들이 경쟁을 하면 다른 사람들보다 더 잘 하고 싶어 계속 새로운 것이 발명한다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	14	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람들보다	사람+들+보다	ADV	NNG+XSN+JKB	_	9	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	하고	하+고	VERB	VV+EC	_	14	advcl	_	_
+10	싶어	싶	AUX	VX+EC	_	9	aux	_	_
+11	계속	계속	ADV	MAG	_	14	advmod	_	_
+12	새로운	새롭+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	것이	것+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	발명한다	발명+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_33_3_03
+# text = 예를 들면 2차 세계 대전은 "큰 경쟁"이였다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	7	advcl	_	_
+3	2차	2+차	NOUN	SN+NNB	_	4	nmod	_	_
+4	세계	세계	NOUN	NNG	_	5	nmod	_	_
+5	대전은	대전+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	"큰	"+크+ㄴ	NOUN	SS+VA+ETM	_	7	amod	_	_
+7	경쟁"이였다	경쟁+"+이+였+다	VERB	NNG+SS+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_33_3_04
+# text = 독일 사람들이 다른 나라 보다 더 잘 하고 싶기때문에 많은 새로운 것이 발명했다.
+1	독일	독일	NOUN	NNP	_	8	nmod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	나라	나라	NOUN	NNG	_	8	obl	_	_
+5	보다	보다	ADP	JKB	_	4	case	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	하고	하+고	VERB	VV+EC	_	13	advcl	_	_
+9	싶기때문에	싶	AUX	VX+ETN+NNB+JKB	_	8	aux	_	_
+10	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+11	새로운	새롭+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	것이	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	발명했다	발명+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_33_3_05
+# text = 예를 들면 볼펜, 비행기, 스토킹 발명하였다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	8	advcl	_	_
+3	볼펜	볼펜	NOUN	NNG	_	8	obj	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	비행기	비행기	NOUN	NNG	_	3	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	스토킹	스토킹	NOUN	NNG	_	3	list	_	_
+8	발명하였다	발명+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_33_3_06
+# text = 하지만 협동은 있을때 사람들이 같이 일하니까 새로운 것이 필요가 없다.
+1	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있을때	있+을+때	NOUN	VV+ETM+NNG	_	6	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	일하니까	일+하+니까	VERB	NNG+XSV+EC	_	10	advcl	_	_
+7	새로운	새롭+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	10	dislocated	_	_
+9	필요가	필요+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_33_3_07
+# text = 그리고 협동을 같이 하는 파트너는 배신을 할 수 있기때문에 아주 위험하다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	파트너는	파트너+는	NOUN	NNG+JX	_	7	nsubj	_	_
+6	배신을	배신+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있기때문에	있+기+때문+에	ADV	VX+ETN+NNB+JKB	_	11	obl	_	_
+10	아주	아주	ADV	MAG	_	9	advmod	_	_
+11	위험하다	위험+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_33_3_08
+# text = 그래서 경쟁을 더 좋다고 생각하다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋다고	좋+다고	ADJ	VA+EC	_	5	ccomp	_	_
+5	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

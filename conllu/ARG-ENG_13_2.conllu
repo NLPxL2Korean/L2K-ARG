@@ -1,0 +1,284 @@
+# sent_id = ARG-ENG_13_2_01
+# text = 많은 사람들이 역사 강의 밉는다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	강의	강의	NOUN	NNG	_	5	obj	_	_
+5	밉는다	밉+는다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_2_01
+# text = 어렸을 때 우리 선생님 이 말을 했습니다.
+1	어렸을	어리+었+을	VERB	VA+EP+ETM	_	7	advcl	_	_
+2	때	때	NOUN	NNG	_	1	mark	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	선생님	선생+님	NOUN	NNG+XSN	_	7	nsubj	_	_
+5	이	이	DET	MM	_	6	det	_	_
+6	말을	말+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	했습니다	하+았+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_2_02
+# text = 무시할 교수님이 있으면 고생이 많다.
+1	무시할	무시+하+ㄹ	VERB	NNG+XSV+ETM	_	2	acl	_	_
+2	교수님이	교수+님+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	5	advcl	_	_
+4	고생이	고생+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_2_02
+# text = 역사 없는 나라는 기억 없는 사람들 또같습니다.
+1	역사	역사	NOUN	NNG	_	2	nsubj	_	_
+2	없는	없+는	VERB	VA+ETM	_	3	acl	_	_
+3	나라는	나라+는	NOUN	NNG+JX	_	7	nsubj	_	_
+4	기억	기억	NOUN	NNG	_	5	nsubj	_	_
+5	없는	없+는	VERB	VA+ETM	_	6	acl	_	_
+6	사람들	사람+들	NOUN	NNG+XSN	_	7	obl	_	_
+7	또같습니다	또같+습니다	ADJ	NV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_2_03
+# text = 하지만 이익이 많아서 상상할 수 없다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	이익이	이익+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	많아서	많+아서	ADJ	VA+EC	_	6	advcl	_	_
+4	상상할	상상+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_2_03
+# text = 선생님 말씀 의미는 역사가 중요한 과목입니다.
+1	선생님	선생+님	NOUN	NNG+XSN	_	2	nmod	_	_
+2	말씀	말씀	NOUN	NNG	_	3	nmod	_	_
+3	의미는	의미+는	NOUN	NNG+JX	_	6	nsubj	_	_
+4	역사가	역사+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	6	acl	_	_
+6	과목입니다	과목+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_2_04
+# text = 과거를 따라하지 않고 미래에게 준비할수록 역사를 배워야 한다.
+1	과거를	과거+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	따라하지	따라하+지	VERB	VV+EC	_	5	advcl	_	_
+3	않고	않	AUX	VX+EC	_	2	aux	_	_
+4	미래에게	미래+에게	ADV	NNG+JKB	_	5	obl	_	_
+5	준비할수록	준비+하+ㄹ수록	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_2_04
+# text = 왜냐하면 과거에는 현제 컨디션이 만들었습니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	5	cc	_	_
+2	과거에는	과거+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	현제	현제	NOUN	NF	_	4	nmod	_	_
+4	컨디션이	컨디션+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	만들었습니다	만들+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_2_05
+# text = 과거의 사람과 오늘의 사람 큰 차이가 없다.
+1	과거의	과거+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	사람과	사람+과	NOUN	NNG+JC	_	7	dislocated	_	_
+3	오늘의	오늘+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	사람	사람	NOUN	NNG	_	2	conj	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	차이가	차이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_2_05
+# text = 애매두면, 요즘 한국과 일본 독도 대해서 아직도 싸웁니다.
+1	애매두면	애매두+면	VERB	NV+EC	_	9	advcl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	요즘	요즘	ADV	NNG	_	9	advmod	_	_
+4	한국과	한국+과	ADV	NNP+JKB	_	9	nsubj	_	_
+5	일본	일본	NOUN	NNP	_	4	conj	_	_
+6	독도	독도	NOUN	NNG	_	7	obl	_	_
+7	대해서	대하+아서	VERB	VV+EC	_	9	advcl	_	_
+8	아직도	아직+도	ADV	MAG+JX	_	9	advmod	_	_
+9	싸웁니다	싸우+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_13_2_06
+# text = 과거의 사람보다 오늘의 사람이 더 똑똑하지 않다.
+1	과거의	과거+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	사람보다	사람+보다	ADV	NNG+JKB	_	6	obl	_	_
+3	오늘의	오늘+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	똑똑하지	똑똑+하+지	ADJ	XR+XSA+EC	_	0	root	_	_
+7	않다	않	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_2_06
+# text = 요즘은 위국인들을 독도 잘 모르고 왜 중요한 땅인데도 모르겠습니다.
+1	요즘은	요즘+은	ADV	NNG+JX	_	5	advmod	_	_
+2	위국인들을	위국인+들+을	NOUN	NF+XSN+JKO	_	9	nsubj	_	_
+3	독도	독도	NOUN	NNG	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	모르고	모르+고	VERB	VV+EC	_	9	advcl	_	_
+6	왜	왜	ADV	MAG	_	7	advmod	_	_
+7	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	땅인데도	땅+이+ㄴ데+도	VERB	NNG+VCP+EC+JX	_	9	advcl	_	_
+9	모르겠습니다	모르+겠+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_13_2_07
+# text = 그래서 과거의 실수한테서 배우면 미래의 실수를 참을 수 있다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	과거의	과거+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	실수한테서	실수+한테서	ADV	NNG+JKB	_	4	obl	_	_
+4	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+5	미래의	미래+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	실수를	실수+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	참을	참+을	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_13_2_07
+# text = 역사를 잘 배우고 이해합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	배우고	배우+고	VERB	VV+EC	_	4	advcl	_	_
+4	이해합니다	이해+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_13_2_08
+# text = 또한, 다 사람 중에서 관계가 있잖다.
+1	또한	또한	ADV	MAG	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	다	다	ADV	MAG	_	7	advmod	_	_
+4	사람	사람	NOUN	NNG	_	7	obl	_	_
+5	중에서	중+에서	ADV	NNB+JKB	_	4	case	_	_
+6	관계가	관계+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있잖다	있+잖다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_2_09
+# text = 우리 자기대해도 배울 수 있다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	자기대해도	자기+대하+아도	VERB	NNG+VV+EC	_	3	advcl	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_2_10
+# text = 또한, 우리의 과거를 배울 때, 오늘을 비슷한 문제를 어떻게 푼지 상상할 수 있다.
+1	또한	또한	ADV	MAG	_	15	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	우리의	우리+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	과거를	과거+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	15	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	오늘을	오늘+을	NOUN	NNG+JKO	_	12	obj	_	_
+9	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	10	amod	_	_
+10	문제를	문제+를	NOUN	NNG+JKO	_	12	obj	_	_
+11	어떻게	어떻+게	ADV	VA+EC	_	12	advmod	_	_
+12	푼지	풀+ㄴ지	VERB	VV+EC	_	13	ccomp	_	_
+13	상상할	상상+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_13_2_11
+# text = 예를 들어서, 요즘에 조상의 농사 기술을 아직 사용하는 사람한테서 현재 기술을 어떻게 만든지 배울 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	17	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	요즘에	요즘+에	ADV	NNG+JKB	_	15	obl	_	_
+5	조상의	조상+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+6	농사	농사	NOUN	NNG	_	7	nmod	_	_
+7	기술을	기술+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	아직	아직	ADV	MAG	_	9	advmod	_	_
+9	사용하는	사용+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	사람한테서	사람+한테서	ADV	NNG+JKB	_	15	obl	_	_
+11	현재	현재	ADV	MAG	_	12	nmod	_	_
+12	기술을	기술+을	NOUN	NNG+JKO	_	14	obj	_	_
+13	어떻게	어떻+게	ADV	VA+EC	_	14	advmod	_	_
+14	만든지	만들+ㄴ지	VERB	VV+EC	_	15	ccomp	_	_
+15	배울	배우+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_13_2_12
+# text = 사하라 사막과 가깝게 사는 사람이 특별한 나무를 심을 때 사망을 참고 채의 건강도 도움을 주다.
+1	사하라	사하라	NOUN	NNP	_	4	obl	_	_
+2	사막과	사막+과	ADV	NNG+JKB	_	1	flat	_	_
+3	가깝게	가깝+게	ADV	VA+EC	_	4	advmod	_	_
+4	사는	살+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	특별한	특별+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	나무를	나무+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	심을	심+을	VERB	VV+ETM	_	15	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	사망을	사망+을	NOUN	NF+JKO	Typo=Yes	11	obj	_	_
+11	참고	참+고	VERB	NV+EC	Typo=Yes	15	advcl	_	_
+12	채의	채+의	NOUN	NF+JKG	Typo=Yes	13	nmod:poss	_	_
+13	건강도	건강+도	NOUN	NNG+JX	_	15	obl	_	_
+14	도움을	도움+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	주다	주+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_13_2_13
+# text = 우리가 이 과정을 다시 사용하면 사망이 되는 과정을 참을 수 있다.
+1	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	과정을	과정+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	다시	다시	ADV	MAG	_	5	advmod	_	_
+5	사용하면	사용+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	사망이	사망+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	되는	되+는	VERB	VV+ETM	_	8	acl	_	_
+8	과정을	과정+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	참을	참+을	VERB	NV+ETM	Typo=Yes	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_13_2_14
+# text = 역사 배우기의 형평이 좋지 않으면 부담수럽다.
+1	역사	역사	NOUN	NNG	_	2	nmod	_	_
+2	배우기의	배우+기+의	NOUN	NNG+ETN+JKG	_	3	nmod:poss	_	_
+3	형평이	형평+이	NOUN	NF+JKS	Typo=Yes	4	nsubj	_	_
+4	좋지	좋+지	ADJ	VA+EC	_	6	advcl	_	_
+5	않으면	않	AUX	VX+EC	_	4	aux	_	_
+6	부담수럽다	부담+수럽+다	VERB	NNG+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_2_15
+# text = 하지만 재미있을 수 있다.
+1	하지만	하지만	ADV	MAJ	_	4	cc	_	_
+2	재미있을	재미+있+을	ADJ	NNG+VA+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_13_2_16
+# text = 현대와 과거의 비슷한 점이 많고 신기한다.
+1	현대와	현대+와	NOUN	NNG+JC	_	4	nmod:poss	_	_
+2	과거의	과거+의	NOUN	NNG+JKG	_	1	conj	_	_
+3	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	4	amod	_	_
+4	점이	점+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	많고	많+고	ADJ	VA+EC	_	0	root	_	_
+6	신기한다	신기+하+ㄴ다	ADJ	NNG+XSA+EF	_	5	conj	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_2_17
+# text = 안 배우는 궁지에게 들으면 이미 생긴 실수에 떨어질 것이다.
+1	안	안	ADV	MAG	_	2	advmod	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	궁지에게	궁지+에게	ADV	NF+JKB	Typo=Yes	4	obl	_	_
+4	들으면	듣+으면	VERB	VV+EC	_	8	advcl	_	_
+5	이미	이미	ADV	MAG	_	6	advmod	_	_
+6	생긴	생기+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	실수에	실수+에	ADV	NNG+JKB	_	8	obl	_	_
+8	떨어질	떨어지+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

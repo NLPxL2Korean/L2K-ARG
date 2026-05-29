@@ -1,0 +1,202 @@
+# sent_id = ARG-HENG_09_3_01
+# text = 협동과 경쟁이 둘다 필요하다고 생각합니다.
+1	협동과	협동+과	NOUN	NF+JC	_	3	nsubj	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	1	conj	_	_
+3	둘다	둘+다	VERB	NR+MAG	_	4	advmod	_	_
+4	필요하다고	필요+하+다고	VERB	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_09_3_02
+# text = 정체에나 foreign policy에서는 협동이 없었으면 전쟁들이 끊임 없이 벌어지기가 마련이고 협동이 없으면 정체나 정부에서 되는 일이 없을 것 같습니다.
+1	정체에나	정체+에+나	NOUN	NF+JKB+JC	_	5	obl	_	_
+2	foreign	foreign	NOUN	SL	_	3	nmod	_	_
+3	policy에서는	policy+에서+는	ADV	SL+JKB+JX	_	1	conj	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없었으면	없+었+으면	VERB	VA+EP+EC	_	10	advcl	_	_
+6	전쟁들이	전쟁+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+7	끊임	끊이+ㅁ	VERB	VV+ETN	_	8	nsubj	_	_
+8	없이	없이	VERB	MAG	_	9	advcl	_	_
+9	벌어지기가	벌어지+기+가	NOUN	VV+ETN+JKS	_	10	nsubj	_	_
+10	마련이고	마련+이+고	VERB	NNB+VCP+EC	_	19	advcl	_	_
+11	협동이	협동+이	NOUN	NF+JKS	_	12	nsubj	_	_
+12	없으면	없+으면	VERB	VA+EC	_	19	advcl	_	_
+13	정체나	정체+나	NOUN	NF+JC	_	17	obl	_	_
+14	정부에서	정부+에서	ADV	NNG+JKB	_	13	conj	_	_
+15	되는	되+는	VERB	VV+ETM	_	16	acl	_	_
+16	일이	일+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	없을	없+을	VERB	VA+ETM	_	18	acl	_	_
+18	것	것	NOUN	NNB	_	19	nsubj	_	_
+19	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_09_3_03
+# text = (미국에서는요.
+1	(미국에서는요	(+미국+에서+는+요	VERB	SS+NNP+JKB+JX+JX	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-HENG_09_3_04
+# text =.
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-HENG_09_3_05
+# text = gov e rmant에서는 모르지만) 그냥 mo rally 생각했을 때도 모두가 협동했으면 평아고운 새상이 되지 않을까 싶습니다.
+1	gov	gov	NOUN	SL	_	4	obl	_	_
+2	e	_	X	_	_	1	goeswith	_	_
+3	rmant에서는	_	X	_	_	2	goeswith	_	_
+4	모르지만)	모르+지만+)	VERB	VV+EC+SS	_	14	advcl	_	_
+5	그냥	그냥	ADV	MAG	_	8	advmod	_	_
+6	mo	mo	NOUN	SL	_	8	advmod	_	_
+7	rally	_	X	_	_	6	goeswith	_	_
+8	생각했을	생각+하+았+을	VERB	NNG+XSV+EP+ETM	_	14	advcl	_	_
+9	때도	때+도	ADV	NNG+JX	_	8	mark	_	_
+10	모두가	모두+가	PRON	NNG+JKS	_	11	nsubj	_	_
+11	협동했으면	협동+하+았+으면	VERB	NNG+XSV+EP+EC	_	14	advcl	_	_
+12	평아고운	평아고우+ㄴ	VERB	NA+ETM	_	13	acl	_	_
+13	새상이	새상+이	NOUN	NF+JKS	_	14	nsubj	_	_
+14	되지	되+지	VERB	VV+EC	_	0	root	_	_
+15	않을까	않+을까	AUX	VX+EC	_	14	aux	_	_
+16	싶습니다	싶+습니다	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_09_3_06
+# text = 하지만 많은 경우에는 협동이 가능하지 않다고 생각합니다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	협동이	협동+이	NOUN	NF+JKS	_	5	nsubj	_	_
+5	가능하지	가능+하+지	VERB	NNG+XSA+EC	_	7	ccomp	_	_
+6	않다고	않+다고	AUX	VX+EC	_	5	aux	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_09_3_07
+# text = 그리고 제 생각에는 협동이 "compromise"라는 단어의 의미와 비슷하게 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+5	"compromise"라는	"+compromise+"+이+라는	NOUN	SS+SL+SS+VCP+ETM	_	6	acl	_	_
+6	단어의	단어+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	의미와	의미+와	ADV	NNG+JKB	_	8	obl	_	_
+8	비슷하게	비슷+하+게	VERB	XR+XSA+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_09_3_08
+# text = 협동이나 compromise는 뭘 양보 해야 하는 의미가 있다고 생각합니다.
+1	협동이나	협동+이나	NOUN	NNG+JC	_	8	dislocated	_	_
+2	compromise는	compromise+는	NOUN	SL+JX	_	1	conj	_	_
+3	뭘	무엇+을	ADV	NP+JKB	_	5	obl	_	_
+4	양보	양보	NOUN	NNG	_	5	obj	_	_
+5	해야	하+아야	VERB	VV+EC	_	7	acl	_	_
+6	하는	하+는	AUX	VX+ETM	_	5	aux	_	_
+7	의미가	의미+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다고	있+다고	VERB	VV+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_09_3_09
+# text = 그리고 양보는 지는 것입니다.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	양보는	양보+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	지는	지+는	VERB	VV+ETM	_	4	acl	_	_
+4	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_09_3_10
+# text = 오늘의 자기 생각만 하는 사회에서 양보하고 싶어한 사람이 드물다고 생각합니다.
+1	오늘의	오늘+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	자기	자기	PRON	NNG	_	3	nmod	_	_
+3	생각만	생각+만	NOUN	NNG+JX	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	사회에서	사회+에서	ADV	NNG+JKB	_	9	obl	_	_
+6	양보하고	양보+하+고	VERB	NNG+XSV+EC	_	8	acl	_	_
+7	싶어한	싶+어+하+ㄴ	AUX	VX+EC+VX+ETM	_	6	aux	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	드물다고	드물+다고	VERB	VA+EC	_	10	ccomp	_	_
+10	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_09_3_11
+# text = 지고 싶은 사람은 어다 있습니까?
+1	지고	지+고	VERB	VV+EC	_	3	acl	_	_
+2	싶은	싶+은	AUX	VX+ETM	_	1	aux	_	_
+3	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+4	어다	어다	ADV	NF	_	5	obl	_	_
+5	있습니까	있+습니까	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_09_3_12
+# text = 그래서 이미 경쟁적인 사회에서는 승부육(?)이 없으면 안되다고 생각합니다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	이미	이미	ADV	MAG	_	3	advmod	_	_
+3	경쟁적인	경쟁+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	사회에서는	사회+에서+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+5	승부육(?)이	승부육+(+?+)+이	NOUN	NF+SS+SF+SS	_	6	nsubj	_	_
+6	없으면	없+으면	VERB	VA+EC	_	7	advcl	_	_
+7	안되다고	안+되+다고	VERB	MAG+VV+NA	_	8	ccomp	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_09_3_13
+# text = 저는 그래도 기독교인으로서 다른 사람들과 비교하면서 하는 것이 싫지만 자신과 함께 경쟁이라고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	13	nsubj	_	_
+2	그래도	그래도	ADV	MAJ	_	13	cc	_	_
+3	기독교인으로서	기독교+인+으로	ADV	NNG+XSN+JKB	_	13	obl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	비교하면서	비교+하+면서	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	싫지만	싫+지만	VERB	VA+EC	_	13	advcl	_	_
+10	자신과	자신+과	ADV	NNG+JKB	_	13	obl	_	_
+11	함께	함께	ADV	MAG	_	13	advmod	_	_
+12	경쟁이라고	경쟁+이+라고	VERB	NNG+VCP+EC	_	13	ccomp	_	_
+13	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_09_3_14
+# text = 그래서 발전을 할 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	발전을	발전+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_09_3_15
+# text = 경제에서도 경쟁이 있으면 발달이 더 빠르다고 생각합니다.
+1	경제에서도	경제+에서+도	ADV	NNG+JKB+JX	_	3	obl	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+4	발달이	발달+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	빠르다고	빠르+다고	VERB	VA+EC	_	7	ccomp	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_09_3_16
+# text = 근데 이 질문이 되게 open -ended이라서 대답하기가 어렵습니다.
+1	근데	근데	ADV	MAJ	_	8	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	질문이	질문+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	되게	되게	ADV	MAG	_	6	advmod	_	_
+5	open	open	NOUN	SL	_	6	nmod	_	_
+6	-ended이라서	-+ended+이+라서	NOUN	SS+SL+VCP+EC	_	8	advcl	_	_
+7	대답하기가	대답+하+기+가	NOUN	NNG+XSV+ETN+JKS	_	8	nsubj	_	_
+8	어렵습니다	어렵+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_09_3_17
+# text = 시간과 상황마다 협동과 경쟁 둘 다 필요한 것 같습니다.
+1	시간과	시간+과	NOUN	NNG+JC	_	7	obl	_	_
+2	상황마다	상황+마다	ADV	NNG+JX	_	1	conj	_	_
+3	협동과	협동+과	NOUN	NNG+JC	_	7	nsubj	_	_
+4	경쟁	경쟁	NOUN	NNG	_	3	conj	_	_
+5	둘	둘	NOUN	NR	_	6	nummod	_	_
+6	다	다	ADV	NNG	_	3	appos	_	_
+7	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	9	acl	_	_
+8	것	것	NOUN	NNB	_	9	nsubj	_	_
+9	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

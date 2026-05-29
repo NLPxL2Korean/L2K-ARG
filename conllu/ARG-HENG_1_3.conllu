@@ -1,0 +1,120 @@
+# sent_id = ARG-HENG_01_3_01
+# text = 둘중에 선택하셔야되면, 협종을 선호합니다.
+1	둘중에	둘+중+에	ADV	NR+NNB+JKB	_	2	obl	_	_
+2	선택하셔야되면	선택+하+시+어야+되+면	VERB	NNG+XSV+EP+EC+VX+EC	_	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	협종을	협종+을	NOUN	NF+JKO	_	5	obj	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_01_3_02
+# text = 인류는, 어디가든지, 생물, 심리적으로 사회적동물입니다.
+1	인류는	인류+는	NOUN	NNG+JX	_	8	nsubj	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	어디가든지	어디+가+든지	VERB	NP+VV+EC	_	8	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	생물	생물	NOUN	NNG	_	8	list	_	_
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	심리적으로	심리+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+8	사회적동물입니다	사회+적+동물+이+ㅂ니다	VERB	NNG+XSN+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_01_3_03
+# text = 우리 DNA프로그레밍이 협종은 큰 영향입니다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	DNA프로그레밍이	DNA+프로그레밍+이	NOUN	SL+NF+JKS	_	5	obl	_	_
+3	협종은	협종+은	NOUN	NF+JX	_	5	nsubj	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향입니다	영향+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_01_3_04
+# text = 협종을통해서 약육강식 "survi val of the fittest"른 말해도, 인류는 본능적으로 협동은 원하는 동물입니다.
+1	협종을통해서	협종+을+통하+아서	VERB	NF+JKO+VV+EC	_	8	advcl	_	_
+2	약육강식	약육강식	NOUN	NNG+NNG	_	8	obj	_	_
+3	"survi	"+survi	NOUN	SS+SL	_	2	appos	_	_
+4	val	val	NOUN	SL	_	3	flat	_	_
+5	of	of	NOUN	SL	_	3	flat	_	_
+6	the	the	NOUN	SL	_	3	flat	_	_
+7	fittest"른	fittest+"+른	NOUN	SL+SS+NA	_	3	flat	_	_
+8	말해도	말+하+아도	VERB	NNG+XSV+EC	_	14	advcl	_	_
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	인류는	인류+는	NOUN	NNG+JX	_	14	nsubj	_	_
+11	본능적으로	본능+적+으로	ADV	NNG+XSN+JKB	_	13	obl	_	_
+12	협동은	협동+은	NOUN	NNG+JX	_	13	obj	_	_
+13	원하는	원하+는	VERB	VV+ETM	_	14	acl	_	_
+14	동물입니다	동물+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_01_3_05
+# text = 개인에 생존이 아니라, 단체, 가정의 새존이 중요합니다.
+1	개인에	개인+에	ADV	NNG+JKB	_	3	obl	_	_
+2	생존이	생존+이	NOUN	NNG+JKC	_	3	nsubj	_	_
+3	아니라	아니+라	VERB	VCN+EC	_	9	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	단체	단체	NOUN	NNG	_	7	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	가정의	가정+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	새존이	새존+이	NOUN	NF+JKS	_	9	nsubj	_	_
+9	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_01_3_06
+# text = 그래도, 이런 비이네리는 매우 부족합니다.
+1	그래도	그래도	ADV	MAJ	_	6	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	이런	이런	DET	MM	_	4	det	_	_
+4	비이네리는	비이네리+는	NOUN	NF+JX	_	6	nsubj	_	_
+5	매우	매우	ADV	MAG	_	6	advmod	_	_
+6	부족합니다	부족+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_01_3_07
+# text = 특히, 사회 다윈니즘 (Soc ial Darwin ism)은 따지면, 민주주의 시인 대신에, 국가를 보존하고, 강조하는 사상입니다.
+1	특히	특히	ADV	MAG	_	19	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	사회	사회	NOUN	NNG	_	4	nmod	_	_
+4	다윈니즘	다윈니즘	NOUN	NF	_	9	obj	_	_
+5	(Soc	(+Soc	NOUN	NNG+JKG+ETN	_	4	appos	_	_
+6	ial	_	X	_	_	5	goeswith	_	_
+7	Darwin	_	X	_	_	6	goeswith	_	_
+8	ism)은	_	X	_	_	7	goeswith	_	_
+9	따지면	따지+면	VERB	VV+EC	_	19	advcl	_	_
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	민주주의	민주+주의	NOUN	NNG+JKG	_	12	nmod	_	_
+12	시인	시인	NOUN	NNG	_	16	obl	_	_
+13	대신에	대신+에	ADP	NNG+JKB	_	12	case	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	국가를	국가+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	보존하고	보존+하+고	VERB	NNG+XSV+EC	_	18	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	강조하는	강조+하+는	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	사상입니다	사상+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_01_3_08
+# text = 세계청치면에서는, 국가경젱이 심해서 사회 Darwin ism말로는 국가 밑에서, 국기 일리트에 지도로 따라야 한다는 사실입니다.
+1	세계청치면에서는	세계+청치+면+에서+는	ADV	NNG+NF+NNG+JKB+JX	_	16	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	국가경젱이	국가+경젱+이	NOUN	NNG+NF+JKS	_	4	nsubj	_	_
+4	심해서	심하+아서	VERB	VA+EC	_	14	advcl	_	_
+5	사회	사회	NOUN	NNG	_	6	nmod	_	_
+6	Darwin	Darwin	NOUN	SL	_	7	nmod	_	_
+7	ism말로는	ism+말+로+는	ADP	SL+NNG+JKB+JX	_	16	obl	_	_
+8	국가	국가	NOUN	NNG	_	14	obl	_	_
+9	밑에서	밑+에서	ADP	NNG+JKB	_	8	case	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	8	punct	_	_
+11	국기	국기	NOUN	NF	_	12	nmod	_	_
+12	일리트에	일리트+에	ADV	NF+JKB	_	14	obl	_	_
+13	지도로	지도+로	VERB	NNG+JKB	_	14	obl	_	_
+14	따라야	따르+아야	VERB	VV+EC	_	16	acl	_	_
+15	한다는	하+ㄴ다는	AUX	VX+ETM	_	14	aux	_	_
+16	사실입니다	사실+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_01_3_09
+# text = 협동인가요, 경쟁인가요?
+1	협동인가요	협동+이+ㄴ가요	VERB	NNG+VCP+EF	_	3	parataxis	_	_
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	경쟁인가요	경쟁+이+ㄴ가요	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+4	?	?	PUNCT	SF	_	3	punct	_	_

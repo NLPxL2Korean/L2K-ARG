@@ -1,0 +1,106 @@
+# sent_id = ARG-CHN_4_2_01
+# text = 사람들은 지열한 경쟁에서 살아남야 된다고 생각한다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+2	지열한	지열+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	3	amod	_	_
+3	경쟁에서	경쟁+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	살아남야	살아남+야	VERB	VV+NA	Typo=Yes	6	ccomp	_	_
+5	된다고	되+ㄴ다고	VERB	VX+EC	_	4	advcl	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_4_2_02
+# text = 그래서 계속 자기개발 등 자신 실력을 키우는 방법이 찾고 있다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	계속	계속	ADV	MAG	_	9	advmod	_	_
+3	자기개발	자기+개발	NOUN	NNG+NNG	_	8	nmod	_	_
+4	등	등	NOUN	NNB	_	3	case	_	_
+5	자신	자신	NOUN	NNG	_	6	nmod	_	_
+6	실력을	실력+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	키우는	크+우+는	VERB	VA+XSV+ETM	_	8	acl	_	_
+8	방법이	방법+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	찾고	찾+고	VERB	VV+EC	_	0	root	_	_
+10	있다	있	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_4_2_03
+# text = 그럼 협동과 경쟁 중에서 무엇이 성공에 더 큰 영향을 미치는지 살펴보도록 한다.
+1	그럼	그럼	ADV	MAG	_	12	advmod	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	10	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	무엇이	무엇+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+6	성공에	성공+에	ADV	NNG+JKB	_	10	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	영향을	영향+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	미치는지	미치+는지	VERB	VV+EC	_	11	ccomp	_	_
+11	살펴보도록	살피+어+보+도록	VERB	VV+EC+VX+EC	_	12	advcl	_	_
+12	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_4_2_04
+# text = 개인 생각이는 협동은 경쟁보다 성공에 더 큰 영향을 미치는것이다.
+1	개인	개인	NOUN	NNG	_	2	nmod	_	_
+2	생각이는	생각+이+는	NOUN	NNG+NA+JX	Typo=Yes	9	obl	_	_
+3	협동은	협동+은	NOUN	NNP+JX	_	9	nsubj	_	_
+4	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	9	obl	_	_
+5	성공에	성공+에	ADV	NNG+JKB	_	9	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+8	영향을	영향+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	미치는것이다	미치+는+것+이+다	VERB	VV+ETM+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_4_2_05
+# text = 왜냐하면 후자 경쟁하는거보다 다른 사람들과 협동하고 경쟁하는거 더 쉽게 성공하다고 생각한다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	후자	후자	NOUN	NNG	_	3	nmod	_	_
+3	경쟁하는거보다	경쟁+하+는+거+보다	ADV	NNG+XSV+ETM+NNB+JKB	_	10	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	협동하고	협동+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	경쟁하는거	경쟁+하+는+거	NOUN	NNG+XSV+ETM+NNB	_	10	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	쉽게	쉽+게	ADV	VA+EC	_	10	advmod	_	_
+10	성공하다고	성공+하+다고	VERB	NNG+XSV+NA	Typo=Yes	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_4_2_06
+# text = 타인과 협동하는중에 자신의 부족한 점을 발견하는 기회가 많고 타인의 장점을 자신의 장점으로 바꾸고 타인의 단점을 경고로 기억하고 같은 단점은 가지게 되지 않도록 조심해야한다.
+1	타인과	타인+과	ADV	NNG+JKB	_	2	obl	_	_
+2	협동하는중에	협동+하+는+중+에	ADV	NNG+XSV+ETM+NNB+JKB	_	23	obl	_	_
+3	자신의	자신+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+4	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	점을	점+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	발견하는	발견+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	기회가	기회+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	많고	많+고	ADJ	VA+EC	_	13	advcl	_	_
+9	타인의	타인+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	장점을	장점+을	NOUN	NNG+JKO	_	13	obj	_	_
+11	자신의	자신+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	장점으로	장점+으로	ADV	NNG+JKB	_	13	obl	_	_
+13	바꾸고	바꾸+고	VERB	VV+EC	_	17	advcl	_	_
+14	타인의	타인+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+15	단점을	단점+을	NOUN	NNG+JKO	_	17	obj	_	_
+16	경고로	경고+로	ADV	NNG+JKB	_	17	obl	_	_
+17	기억하고	기억+하+고	VERB	NNG+XSV+EC	_	23	advcl	_	_
+18	같은	같+은	ADJ	VA+ETM	_	19	amod	_	_
+19	단점은	단점+은	NOUN	NNG+JX	_	20	obj	_	_
+20	가지게	가지+게	VERB	VV+EC	_	23	advcl	_	_
+21	되지	되+지	VERB	VX+EC	_	20	advcl	_	_
+22	않도록	않	AUX	VX+EC	_	20	aux	_	_
+23	조심해야한다	조심+하+아야+하+ㄴ다	VERB	NNG+XSV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CHN_4_2_07
+# text = 그래서 협동은 어히려 경쟁보다 자신에 경쟁력을 키우는 방법이다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	8	nsubj	_	_
+3	어히려	어히려	ADV	NA	Typo=Yes	8	advmod	_	_
+4	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	7	obl	_	_
+5	자신에	자신+에	ADV	NNG+JKB	_	7	obl	_	_
+6	경쟁력을	경쟁력+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	키우는	키우+는	VERB	VV+ETM	_	8	acl	_	_
+8	방법이다	방법+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

@@ -1,0 +1,94 @@
+# sent_id = ARG-CHN_3_1_01
+# text = 내 생각에 자연 보존은 더 중요한다.
+1	내	나+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에	생각+에	ADV	NNG+JKB	_	6	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존은	보존+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_3_1_02
+# text = 왜냐하면 자연은 인간이 있기 전에 있는 것이기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	8	cc	_	_
+2	자연은	자연+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	인간이	인간+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있기	있+기	VERB	VV+ETN	_	6	obl	_	_
+5	전에	전+에	ADV	NNG+JKB	_	4	case	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이기	것+이+기	NOUN	NNB+VCP+ETN	_	8	nmod	_	_
+8	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_3_1_03
+# text = 처음에 지구있었을 때 부터 자연이 있고 지금까지 계속 존재한다.
+1	처음에	처음+에	ADV	NNG+JKB	_	2	obl	_	_
+2	지구있었을	지구+있+었+을	VERB	NNG+VA+EP+ETM	_	6	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	부터	부터	ADP	JX	_	2	case	_	_
+5	자연이	자연+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있고	있+고	ADJ	VA+EC	_	9	advcl	_	_
+7	지금까지	지금+까지	NOUN	NNG+JX	_	9	obl	_	_
+8	계속	계속	ADV	MAG	_	9	advmod	_	_
+9	존재한다	존재+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_3_1_04
+# text = 자연은 지구가 우리 인간에게 주는 소중한 선물이라고 생각한다.
+1	자연은	자연+은	NOUN	NNG+JX	_	7	nsubj	_	_
+2	지구가	지구+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	인간에게	인간+에게	ADV	NNG+JKB	_	5	obl	_	_
+5	주는	주+는	VERB	VV+ETM	_	6	acl	_	_
+6	소중한	소중+하+ㄴ	ADJ	XR+XSA+ETM	_	7	amod	_	_
+7	선물이라고	선물+이+라고	ADJ	NNG+VCP+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_3_1_05
+# text = 아무리 무리한 자연 개발하면 생태환경에게 상처도 줄 수 있고 우리 인간이게 불익 영향도 미칠 수 있을 것이다.
+1	아무리	아무리	ADV	MAG	_	4	advmod	_	_
+2	무리한	무리+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+3	자연	자연	NOUN	NNG	_	4	obj	_	_
+4	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+5	생태환경에게	생태+환경+에게	ADV	NNG+NNG+JKB	_	7	obl	_	_
+6	상처도	상처+도	NOUN	NNG+JX	_	7	obj	_	_
+7	줄	주+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	17	advcl	_	_
+10	우리	우리	PRON	NP	_	11	nmod	_	_
+11	인간이게	인간+이게	NOUN	NNG+NA	Typo=Yes	12	nmod	_	_
+12	불익	불익	NOUN	NF	Typo=Yes	13	nmod	_	_
+13	영향도	영향+도	NOUN	NNG+JX	_	14	obj	_	_
+14	미칠	미치+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있을	있+을	VERB	VX+ETM	_	17	acl	_	_
+17	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_3_1_06
+# text = 인간은 아무것도 불구하고 마음대로 개발하면 우리 인간의 생활환경 박해될 것이라고 생각한다.
+1	인간은	인간+은	NOUN	NNG+JX	_	5	nsubj	_	_
+2	아무것도	아무+것+도	NOUN	MM+NNB+JX	_	3	obj	_	_
+3	불구하고	불구하+고	VERB	VV+EC	_	5	advcl	_	_
+4	마음대로	마음+대로	NOUN	NNG+JX	_	5	obl	_	_
+5	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	우리	우리	PRON	NP	_	7	nmod	_	_
+7	인간의	인간+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	생활환경	생활+환경	NOUN	NNG+NNG	_	9	nsubj	_	_
+9	박해될	박해+되+ㄹ	VERB	VV+XSV+ETM	_	10	acl	_	_
+10	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_3_1_07
+# text = 따라서 나는 자연 보존은 것이 더 중요하다고 생각한다.
+1	따라서	따라서	ADV	MAJ	_	8	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존은	보존+은	NOUN	NNG+JX	_	7	nsubj	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	4	appos	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

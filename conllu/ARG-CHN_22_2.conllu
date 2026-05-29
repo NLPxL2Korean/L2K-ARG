@@ -1,0 +1,103 @@
+# sent_id = ARG-CHN_22_2_01
+# text = 경쟁이 성공에 더 큰 영향을 미친다고 생각합니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미친다고	미치+ㄴ다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_22_2_03
+# text = 그리고 성공은 사람들을 다 경쟁한 후에 온 결과이다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	성공은	성공+은	NOUN	NNG+JX	_	8	nsubj	_	_
+3	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	5	obj	_	_
+4	다	다	ADV	MAG	_	5	advmod	_	_
+5	경쟁한	경쟁+하+ㄴ	VERB	NNG+XSV+ETM	_	7	obl	_	_
+6	후에	후+에	ADV	NNB+JKB	_	5	case	_	_
+7	온	오+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	결과이다	결과+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_22_2_04
+# text = 시험데 일등 한사람 밖에 없다.
+1	시험데	시험+데	NOUN	NNG+NF	Typo=Yes	5	obl	_	_
+2	일등	일+등	NOUN	MM+NNB	_	5	dislocated	_	_
+3	한사람	한+사람	NOUN	MM+NNG	_	5	nsubj	_	_
+4	밖에	밖에	ADP	JX	_	3	case	_	_
+5	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_22_2_05
+# text = 그레서 성공은 한 사람이 있다.
+1	그레서	그레서	ADV	NA	Typo=Yes	5	cc	_	_
+2	성공은	성공+은	NOUN	NNG+JX	_	5	dislocated	_	_
+3	한	한	DET	MM	_	4	amod	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_22_2_06
+# text = 그데 협동은 우리 같이 하는 일이, 사람이 안 공부도 됬다.
+1	그데	그데	ADV	NA	Typo=Yes	11	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	11	obl	_	_
+3	우리	우리	PRON	NP	_	5	nsubj	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	일이	일+이	NOUN	NNG+JKS	_	11	dislocated	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	6	list	_	_
+9	안	안	ADV	MAG	_	11	advmod	_	_
+10	공부도	공부+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	됬다	되+ㅆ+다	VERB	VV+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_22_2_07
+# text = 덤 같이 할데 한구면 안 했는 일도 많아 이렇게 할데 우리 성공 할수 없다.
+1	덤	덤	ADV	NF	Typo=Yes	3	advmod	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	할데	하+ㄹ+데	VERB	VV+ETM+NF	Typo=Yes	4	advcl	_	_
+4	한구면	하+ㄴ구면	VERB	VV+NA	Typo=Yes	8	advcl	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	했는	하+았+는	VERB	VV+EP+EC	_	7	acl	_	_
+7	일도	일+도	NOUN	NNG+JX	_	8	nsubj	_	_
+8	많아	많+아	ADJ	VA+EF	_	10	ccomp	_	_
+9	이렇게	이렇+게	ADV	VA+EC	_	10	advmod	_	_
+10	할데	하+ㄹ+데	VERB	VV+ETM+NF	Typo=Yes	13	advcl	_	_
+11	우리	우리	PRON	NP	_	12	nmod	_	_
+12	성공	성공	NOUN	NNG	_	13	obj	_	_
+13	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	14	nsubj	_	_
+14	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_22_2_08
+# text = 그레서 경갱이 성공에 더 큰 영향을 미친다.
+1	그레서	그레서	ADV	NA	Typo=Yes	7	cc	_	_
+2	경갱이	경갱+이	NOUN	NF+JKS	Typo=Yes	7	nsubj	_	_
+3	성공에	성공+에	ADV	NNG+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_22_2_02-1
+# text = 경쟁할 데 사람이 다 이기고 싶다
+1	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+2	데	데	ADV	NNG	_	1	mark	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	다	다	ADV	MAG	_	5	advmod	_	_
+5	이기고	이기+고	VERB	VV+EC	_	0	root	_	_
+6	싶다	싶	AUX	VX+EC	_	5	aux	_	_
+
+# sent_id = ARG-CHN_22_2_02-2
+# text = 이렇게 할데 우리 더 열심히 공부하다.
+1	이렇게	이렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	할데	하+ㄹ+데	NOUN	VV+ETM+NNG	_	6	advcl	_	_
+3	우리	우리	PRON	NP	_	6	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	열심히	열심히	ADV	MAG	_	6	advmod	_	_
+6	공부하다	공부+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

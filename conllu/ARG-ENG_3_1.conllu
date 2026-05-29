@@ -1,0 +1,269 @@
+# sent_id = ARG-ENG_03_1_01
+# text = 조기언어 교육이 아주 복잡한 것입니다.
+1	조기언어	조기+언어	NOUN	NNG+NNG	_	2	nmod	_	_
+2	교육이	교육+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	복잡한	복잡+하+ㄴ	ADJ	XR+XSA+ETM	_	5	acl	_	_
+5	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_03_1_01
+# text = 언어를 통해서 세계를 알 수 있다는 말이 있다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	통해서	통하+아서	VERB	VV+EC	_	4	advcl	_	_
+3	세계를	세계+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알	알+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다는	있+다는	VERB	VX+ETM	_	7	acl	_	_
+7	말이	말+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_03_1_02
+# text = 장점도 있고 단점도 있습니다.
+1	장점도	장점+도	NOUN	NNG+JX	_	2	nsubj	_	_
+2	있고	있+고	VERB	VV+EC	_	0	root	_	_
+3	단점도	단점+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있습니다	있+습니다	VERB	VV+EF	_	2	conj	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_03_1_02
+# text = 한국은 외국어, 특히 영어 교육을 무척 중요하게 여겨진다.
+1	한국은	한국+은	NOUN	NNP+JX	_	9	obl	_	_
+2	외국어	외국어	NOUN	NNG	_	5	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	특히	특히	ADV	MAG	_	9	advmod	_	_
+5	영어	영어	NOUN	NNP	_	6	nmod	_	_
+6	교육을	교육+을	NOUN	NNG+JKO	_	9	obj	_	_
+7	무척	무척	ADV	MAG	_	8	advmod	_	_
+8	중요하게	중요+하+게	ADV	NNG+XSA+EC	_	9	advmod	_	_
+9	여겨진다	여기+어지+ㄴ다	VERB	VV+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_03_1_03
+# text = 먼저 장점 알아봅시다.
+1	먼저	먼저	ADV	MAG	_	3	advmod	_	_
+2	장점	장점	NOUN	NNG	_	3	obj	_	_
+3	알아봅시다	알+아+보+ㅂ시다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_03_1_03
+# text = 어린 나이부터 외국어를 습득하고 해외에서 일하거나 외국회사를 다니는 것이 성공의 상징이 되었으므로 조기언어교육이 흔히 볼 수 있다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이부터	나이+부터	ADV	NNG+JX	_	4	obl	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	습득하고	습득+하+고	VERB	NNG+XSV+EC	_	6	advcl	_	_
+5	해외에서	해외+에서	ADV	NNG+JKB	_	6	obl	_	_
+6	일하거나	일+하+거나	VERB	NNG+XSV+EC	_	9	acl	_	_
+7	외국회사를	외국+회사+를	NOUN	NNG+NNG+JKO	_	8	obj	_	_
+8	다니는	다니+는	VERB	VV+ETM	_	6	conj	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	12	dislocated	_	_
+10	성공의	성공+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	상징이	상징+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	되었으므로	되+었+으므로	VERB	VV+EP+EC	_	17	advcl	_	_
+13	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	15	nsubj	_	_
+14	흔히	흔히	ADV	MAG	_	15	advmod	_	_
+15	볼	보+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_03_1_04
+# text = 일단 게임으로 하면 아이가 언어를 재미있게 배울 수 있습니다.
+1	일단	일단	ADV	MAG	_	9	advmod	_	_
+2	게임으로	게임+으로	ADV	NNG+JKB	_	3	obl	_	_
+3	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+4	아이가	아이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	재미있게	재미+있+게	ADV	NNG+VA+EC	_	7	advmod	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_03_1_04
+# text = 조기언어교육은 장단점을 살펴보겠다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	nsubj	_	_
+2	장단점을	장단점+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	살펴보겠다	살피+어+보+겠+다	VERB	VV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_03_1_05
+# text = 카드 게임이나 노래 게임 신나게 하면 아이가 언어를 좋아하게 됩니다.
+1	카드	카드	NOUN	NNG	_	2	nmod	_	_
+2	게임이나	게임+이나	NOUN	NNG+JC	_	6	obj	_	_
+3	노래	노래	NOUN	NNG	_	4	nmod	_	_
+4	게임	게임	NOUN	NNG	_	2	conj	_	_
+5	신나게	신나+게	ADV	VA+EC	_	6	advmod	_	_
+6	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+7	아이가	아이+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	좋아하게	좋아하+게	VERB	VV+EC	_	0	root	_	_
+10	됩니다	되+ㅂ니다	VERB	VX+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_03_1_05
+# text = 우선 조기교육으로 인해서 혜택이나 좋은 결과를 얻을 수 있다.
+1	우선	우선	ADV	MAG	_	9	advmod	_	_
+2	조기교육으로	조기+교육+으로	ADV	NNG+NNG+JKB	_	3	obl	_	_
+3	인해서	인하+아서	VERB	VV+EC	_	9	advcl	_	_
+4	혜택이나	혜택+이나	NOUN	NNG+JC	_	7	obj	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	결과를	결과+를	NOUN	NNG+JKO	_	4	conj	_	_
+7	얻을	얻+을	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_03_1_06
+# text = 또한 아주 어린 아이가 성인보다 덜 부끄럽습니다.
+1	또한	또한	ADV	MAJ	_	7	cc	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	어린	어리+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	아이가	아이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	성인보다	성인+보다	ADV	NNG+JKB	_	7	obl	_	_
+6	덜	덜	ADV	MAG	_	7	advmod	_	_
+7	부끄럽습니다	부끄럽+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_03_1_06
+# text = 예를 들면, 수능 영어에 높은 점수를 받게 될 수도 있고 별 어려움 없이 유학을 다닐 수도 있고 나중에 취직 준비를 하면서 쉽게 언어 자격증을 딸 수도 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	수능	수능	NOUN	NNG	_	5	nmod	_	_
+5	영어에	영어+에	ADV	NNG+JKB	_	8	obl	_	_
+6	높은	높+은	ADJ	VA+ETM	_	7	amod	_	_
+7	점수를	점수+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	받게	받+게	VERB	VV+EC	_	10	acl	_	_
+9	될	되+ㄹ	VERB	VX+ETM	_	8	advcl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	0	root	_	_
+12	별	별	NOUN	MM	_	13	amod	_	_
+13	어려움	어렵+ㅁ	NOUN	VA+ETN	_	14	nsubj	_	_
+14	없이	없이	VERB	MAG	_	18	advcl	_	_
+15	유학을	유학+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	다닐	다니+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수도	수+도	NOUN	NNB+JX	_	18	nsubj	_	_
+18	있고	있+고	VERB	VX+EC	_	11	conj	_	_
+19	나중에	나중+에	ADV	NNG+JKB	_	22	obl	_	_
+20	취직	취직	NOUN	NNG	_	21	nmod	_	_
+21	준비를	준비+를	NOUN	NNG+JKO	_	22	obj	_	_
+22	하면서	하+면서	VERB	VV+EC	_	28	advcl	_	_
+23	쉽게	쉽+게	ADV	VA+EC	_	26	advmod	_	_
+24	언어	언어	NOUN	NNG	_	25	nmod	_	_
+25	자격증을	자격증+을	NOUN	NNG+JKO	_	26	obj	_	_
+26	딸	따+ㄹ	NOUN	VV+ETM	_	27	acl	_	_
+27	수도	수+도	NOUN	NNB+JX	_	28	nsubj	_	_
+28	있다	있+다	ADJ	VX+EF	_	11	conj	_	SpaceAfter=No
+29	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_03_1_07
+# text = 그렇지만 단점도 있습니다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	3	cc	_	_
+2	단점도	단점+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_03_1_07
+# text = 조기언어교육을 받은 사람들이 받지 못 했던 사람보다 외국어를 더 유창하게 구성할 수 있다는 가능성이 높아서 이점이 많다.
+1	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	2	obj	_	_
+2	받은	받+은	VERB	VV+ETM	_	3	acl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+4	받지	받+지	VERB	VV+EC	_	7	acl	_	_
+5	못	못	ADV	MAG	_	4	aux	_	_
+6	했던	하+았+던	VERB	VX+EP+ETM	_	5	goeswith	_	_
+7	사람보다	사람+보다	ADV	NNG+JKB	_	11	obl	_	_
+8	외국어를	외국어+를	NOUN	NNG+JKO	_	11	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	유창하게	유창+하+게	ADV	XR+XSA+EC	_	11	advmod	_	_
+11	구성할	구성+하+ㄹ	VERB	NF+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다는	있+다는	VERB	VX+ETM	_	14	acl	_	_
+14	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	15	nsubj	_	_
+15	높아서	높+아서	VERB	VA+EC	_	17	advcl	_	_
+16	이점이	이점+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_03_1_08
+# text = 예를 들면 안 좋은 가르치는 법으로 하면 아주 크고 나쁜 효과 만듭니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	12	advcl	_	_
+3	안	안	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+5	가르치는	가르치+는	VERB	VV+ETM	_	6	acl	_	_
+6	법으로	법+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	하면	하+면	VERB	VV+EC	_	12	advcl	_	_
+8	아주	아주	ADV	MAG	_	9	advmod	_	_
+9	크고	크+고	ADJ	VA+EC	_	11	amod	_	_
+10	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	9	conj	_	_
+11	효과	효과	NOUN	NNG	_	12	obj	_	_
+12	만듭니다	만들+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_03_1_08
+# text = 하지만 다른 한편으로는 어린 나이부터 어떤 아이가 모국어를 완전히 습득하기 전에 조기교육을 시키면 혼란과 헷갈림을 겪게 될 수도 있다는 것이 문제가 될 수도 있다.
+1	하지만	하지만	ADV	MAJ	_	24	cc	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	한편으로는	한편+으로+는	ADV	NNG+JKB+JX	_	24	obl	_	_
+4	어린	어리+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	나이부터	나이+부터	ADV	NNG+JX	_	13	obl	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	아이가	아이+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+8	모국어를	모국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	완전히	완전히	ADV	MAG	_	10	advmod	_	_
+10	습득하기	습득+하+기	NOUN	NNG+XSV+ETN	_	13	obl	_	_
+11	전에	전+에	ADP	NNG+JKB	_	10	case	_	_
+12	조기교육을	조기+교육+을	NOUN	NNG+NNG+JKO	_	13	obj	_	_
+13	시키면	시키+면	VERB	VV+EC	_	16	advcl	_	_
+14	혼란과	혼란+과	NOUN	NNG+JC	_	16	obj	_	_
+15	헷갈림을	헷갈리+ㅁ+을	NOUN	VV+ETN+JKO	_	14	conj	_	_
+16	겪게	겪+게	VERB	VV+EC	_	18	acl	_	_
+17	될	되+ㄹ	VERB	VX+ETM	_	16	advcl	_	_
+18	수도	수+도	NOUN	NNB+JX	_	19	nsubj	_	_
+19	있다는	있+다는	VERB	VX+ETM	_	20	acl	_	_
+20	것이	것+이	NOUN	NNB+JKS	_	22	dislocated	_	_
+21	문제가	문제+가	NOUN	NNG+JKC	_	22	nsubj	_	_
+22	될	되+ㄹ	VERB	VV+ETM	_	23	acl	_	_
+23	수도	수+도	NOUN	NNB+JX	_	24	nsubj	_	_
+24	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-ENG_03_1_09
+# text = 외우기만 하면 배울 수 없고 재미없습니다.
+1	외우기만	외우+기+만	VERB	VV+ETN+JX	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	5	advcl	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	없고	없+고	ADJ	VA+EC	_	0	root	_	_
+6	재미없습니다	재미+없+습니다	ADJ	NNG+VA+EF	_	5	conj	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_03_1_09
+# text = 게다가 조기언어교육을 아이한테 시키면 밖에서 노는 시간 뺏겨서 사회성이 부족할 수도 있다.
+1	게다가	게다가	ADV	MAG	_	4	advmod	_	_
+2	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	4	obj	_	_
+3	아이한테	아이+한테	ADV	NNG+JKB	_	4	obl	_	_
+4	시키면	시키+면	VERB	VV+EC	_	12	advcl	_	_
+5	밖에서	밖+에서	ADV	NNG+JKB	_	6	obl	_	_
+6	노는	노+는	VERB	VV+ETM	_	7	acl	_	_
+7	시간	시간	NOUN	NNB	_	8	obj	_	_
+8	뺏겨서	뺏+기+어서	VERB	VV+XSV+EC	_	12	advcl	_	_
+9	사회성이	사회+성+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+10	부족할	부족+하+ㄹ	VERB	NNG+XSA+ETM	_	11	acl	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_03_1_10
+# text = 마지막으로 아이가 언어를 관심 없으면 시간과 돈 낭비입니다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	8	obl	_	_
+2	아이가	아이+가	NOUN	NNG+JKS	_	5	dislocated	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	관심	관심	NOUN	NNG	_	5	nsubj	_	_
+5	없으면	없+으면	ADJ	VA+EC	_	8	advcl	_	_
+6	시간과	시간+과	NOUN	NNG+JC	_	8	nmod	_	_
+7	돈	돈	NOUN	NNG	_	6	conj	_	_
+8	낭비입니다	낭비+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

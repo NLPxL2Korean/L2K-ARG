@@ -1,0 +1,68 @@
+# sent_id = ARG-CHN_6_1_01
+# text = 자연 보존과 자연 개발 중에 자연 보존 더 중요하다고 생각한다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존과	보존+과	NOUN	NNG+JC	_	9	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발	개발	NOUN	NNG	_	2	conj	_	_
+5	중에	중+에	ADV	NNB+JKB	_	4	case	_	_
+6	자연	자연	NOUN	NNG	_	7	nmod	_	_
+7	보존	보존	NOUN	NNG	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_6_1_02
+# text = 왜녀하면 개발은 월래 있는 지연에 대해 이용해서 새로움 만든 것다고 생각한다.
+1	왜녀하면	왜녀하면	ADV	NA	Typo=Yes	11	cc	_	_
+2	개발은	개발+은	NOUN	NNG+JX	_	10	nsubj	_	_
+3	월래	월래	ADV	NA	Typo=Yes	4	advmod	_	_
+4	있는	있+는	VERB	VV+ETM	_	5	acl	_	_
+5	지연에	지연+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+7	이용해서	이용+하+아서	VERB	NNG+XSV+EC	_	9	advcl	_	_
+8	새로움	새롭+ㅁ	ADJ	VA+ETN	_	9	obj	_	_
+9	만든	만들+ㄴ	VERB	VV+ETM	_	10	acl	_	_
+10	것다고	것+다고	ADJ	NNB+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_6_1_03
+# text = 자연 개발보다는 자연 보존 더 중요해요.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발보다는	개발+보다+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존	보존	NOUN	NNG	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_6_1_04
+# text = 자연이 계속 사용이나 난비하면 자연 부족, 자연 사라지는 일도 발생할 수 있다고 생각해요.
+1	자연이	자연+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	계속	계속	ADV	MAG	_	4	advmod	_	_
+3	사용이나	사용+이나	NOUN	NNG+JC	_	13	advcl	_	_
+4	난비하면	난비+하+면	VERB	NF+VV+EC	Typo=Yes	3	conj	_	_
+5	자연	자연	NOUN	NNG	_	6	nmod	_	_
+6	부족	부족	NOUN	NNG	_	10	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	자연	자연	NOUN	NNG	_	9	nsubj	_	_
+9	사라지는	사라지+는	VERB	VV+ETM	_	10	acl	_	_
+10	일도	일+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	발생할	발생+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_6_1_05
+# text = 자연이 없으면 개발할 수도 없고 이용할 수도 없다.
+1	자연이	자연+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	없으면	없+으면	ADJ	VA+EC	_	5	advcl	_	_
+3	개발할	개발+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수도	수+도	NOUN	NNB+JX	_	5	nsubj	_	_
+5	없고	없+고	ADJ	VA+EC	_	0	root	_	_
+6	이용할	이용+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	없다	없+다	ADJ	VX+EF	_	5	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	5	punct	_	_

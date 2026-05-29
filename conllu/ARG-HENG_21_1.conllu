@@ -1,0 +1,206 @@
+# sent_id = ARG-HENG_21_1_01
+# text = 일단 조기 언어교육이라 함은 영유아 때 미리 배우고 익힌다는 것을 의미하는 것 같다.
+1	일단	일단	ADV	MAG	_	13	advmod	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	언어교육이라	언어+교육+이라	VERB	NNG+NNG+JKQ	_	4	ccomp	_	_
+4	함은	하+ㅁ+은	NOUN	VV+ETN+JX	_	11	nsubj	_	_
+5	영유아	영유아	NOUN	NNG	_	8	obl	_	_
+6	때	때	ADP	NNG	_	5	case	_	_
+7	미리	미리	ADV	MAG	_	8	advmod	_	_
+8	배우고	배우+고	VERB	VV+EC	_	9	advcl	_	_
+9	익힌다는	익히+ㄴ다는	VERB	VV+EP	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	의미하는	의미+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	것	것	NOUN	NNB	_	13	nsubj	_	_
+13	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_21_1_02
+# text = 이러한 조기 언어 교육에는 단점보다는 장점이 더 많은 것 같다.
+1	이러한	이러하+ㄴ	DET	VA+ETM	_	4	amod	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육에는	교육+에+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+5	단점보다는	단점+보다+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+6	장점이	장점+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많은	많+은	VERB	VA+ETM	_	10	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_21_1_03
+# text = 일단 장점으로는 첫번째, 또래보다 더 많은 단어나 문법들을 배울 수 있다.
+1	일단	일단	ADV	MAG	_	12	advmod	_	_
+2	장점으로는	장점+으로+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+3	첫번째	첫+번째	NOUN	MM+NNB	_	12	obl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	또래보다	또래+보다	ADV	NNG+JKB	_	10	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	많은	많+은	ADJ	VA+ETM	_	8	amod	_	_
+8	단어나	단어+나	NOUN	NNG+JC	_	10	obj	_	_
+9	문법들을	문법+들+을	NOUN	NNG+XSN+JKO	_	8	conj	_	_
+10	배울	배우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_21_1_04
+# text = 예를 들어, 자신의 또래 애들은 아버지가 밥을 드셨다 같은 기초적인 문장을 구사할 수 있는 반면, 조기 언어교육을 받은 아이는 아버지는 고기와 채소를 먹었다 같은 조금더 구체적인 언어를 구사할 수 있게 된다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	32	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	자신의	자신+의	PRON	NNG+JKG	_	5	nmod:poss	_	_
+5	또래	또래	NOUN	NNG	_	6	nmod	_	_
+6	애들은	애+들+은	VERB	NNG+XSN+JX	_	13	nsubj	_	_
+7	아버지가	아버지+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	밥을	밥+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	드셨다	드시+었+다	VERB	VV+EP+ETM	_	10	advcl	_	_
+10	같은	같+은	VERB	VA+ETM	_	12	acl	_	_
+11	기초적인	기초+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	문장을	문장+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	구사할	구사+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있는	있+는	VERB	VX+ETM	_	16	acl	_	_
+16	반면	반면	NOUN	NNG	_	32	obl	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	조기	조기	NOUN	NNG	_	19	nmod	_	_
+19	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	20	obj	_	_
+20	받은	받+은	VERB	VV+ETM	_	21	acl	_	_
+21	아이는	아이+는	NOUN	NNG+JX	_	30	nsubj	_	_
+22	아버지는	아버지+는	NOUN	NNG+JX	_	25	nsubj	_	_
+23	고기와	고기+와	NOUN	NNG+JC	_	25	obj	_	_
+24	채소를	채소+를	NOUN	NNG+JKO	_	23	conj	_	_
+25	먹었다	먹+었+다	VERB	VV+EP+EC	_	26	advcl	_	_
+26	같은	같+은	VERB	VA+ETM	_	29	acl	_	_
+27	조금더	조금+더	ADV	NNG+MAG	_	28	advmod	_	_
+28	구체적인	구체+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	29	amod	_	_
+29	언어를	언어+를	NOUN	NNG+JKO	_	30	obj	_	_
+30	구사할	구사+하+ㄹ	VERB	NNG+XSV+ETM	_	31	acl	_	_
+31	수	수	NOUN	NNB	_	32	nsubj	_	_
+32	있게	있+게	VERB	VX+EC	_	0	root	_	_
+33	된다	되+ㄴ다	VERB	VX+EF	_	32	advcl	_	SpaceAfter=No
+34	.	.	PUNCT	SF	_	32	punct	_	_
+
+# sent_id = ARG-HENG_21_1_05
+# text = 두번째, 다양한 언어를 더 많이 배울 수 있다.
+1	두번째	두+번째	NOUN	MM+NNB	_	9	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_21_1_06
+# text = 기본적으로 방콕에서는 국어를 먼저 배우고 영어를 배운다.
+1	기본적으로	기본+적+으로	ADV	NNG+XSN+JKB	_	7	obl	_	_
+2	방콕에서는	방콕+에서+는	ADV	NNP+JKB+JX	_	7	obl	_	_
+3	국어를	국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	먼저	먼저	ADV	MAG	_	5	advmod	_	_
+5	배우고	배우+고	VERB	VV+EC	_	7	advcl	_	_
+6	영어를	영어+를	NOUN	NNP+JKO	_	7	obj	_	_
+7	배운다	배우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_21_1_07
+# text = 이러한 것처럼 일단 어느 한쪽을 정확히 구사할 수 있어야 다른 언어도 배우기 수월해진다.
+1	이러한	이러하+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	것처럼	것+처럼	ADV	NNB+JKB	_	9	obl	_	_
+3	일단	일단	ADV	MAG	_	9	advmod	_	_
+4	어느	어느	DET	MM	_	5	det	_	_
+5	한쪽을	한+쪽+을	NOUN	MM+NNG+JKO	_	7	obj	_	_
+6	정확히	정확히	ADV	MAG	_	7	advmod	_	_
+7	구사할	구사+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어야	있+어야	VERB	VX+EC	_	13	advcl	_	_
+10	다른	다른	ADJ	MM	_	11	amod	_	_
+11	언어도	언어+도	NOUN	NNG+JX	_	12	obj	_	_
+12	배우기	배우+기	NOUN	VV+ETN	_	13	nsubj	_	_
+13	수월해진다	수월+하+아지+ㄴ다	VERB	XR+XSA+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_21_1_08
+# text = 좋은 장점만 있는 것 같은 조기 언어 교육에도 단점은 존재한다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	장점만	장점+만	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	같은	같+은	VERB	VA+ETM	_	8	acl	_	_
+6	조기	조기	NOUN	NNG	_	7	nmod	_	_
+7	언어	언어	NOUN	NNG	_	8	nmod	_	_
+8	교육에도	교육+에+도	ADV	NNG+JKB+JX	_	10	obl	_	_
+9	단점은	단점+은	NOUN	NNG+JX	_	10	nsubj	_	_
+10	존재한다	존재+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_21_1_09
+# text = 바로 다른 언어를 쉽게 배우지 못한 다는 것이다.
+1	바로	바로	ADV	MAG	_	8	advmod	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	배우지	배우+지	VERB	VV+EC	_	8	acl	_	_
+6	못한	못하+ㄴ	AUX	VX+EC	_	5	aux	_	_
+7	다는	_	X	_	_	6	goeswith	_	_
+8	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_21_1_10
+# text = 두전째 장점과 정확히 반대되는 단점이긴 하지만, 누구에게는 더 쉬울 수 있고 또 누구는 더 어려울 수도 있어 둘다 적었다.
+1	두전째	두+전째	NOUN	MM+NF	_	2	nmod	_	_
+2	장점과	장점+과	NOUN	NNG+JC	_	4	obl	_	_
+3	정확히	정확히	ADV	MAG	_	4	advmod	_	_
+4	반대되는	반대+되+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	단점이긴	단점+이+기+ㄴ	NOUN	NNG+VCP+ETN+JX	_	20	advcl	_	_
+6	하지만	하+지만	AUX	VX+EC	_	5	aux	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	누구에게는	누구+에게+는	ADV	NP+JKB+JX	_	10	obl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	쉬울	쉽+ㄹ	VERB	VA+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있고	있+고	VERB	VX+EC	_	18	advcl	_	_
+13	또	또	ADV	MAG	_	16	advmod	_	_
+14	누구는	누구+는	NOUN	NP+JX	_	16	nsubj	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	어려울	어렵+ㄹ	VERB	VA+ETM	_	17	acl	_	_
+17	수도	수+도	NOUN	NNB+JX	_	18	nsubj	_	_
+18	있어	있+어	VERB	VX+EC	_	20	advcl	_	_
+19	둘다	둘+다	VERB	NR+NNG	_	20	obj	_	_
+20	적었다	적+었+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-HENG_21_1_11
+# text = 기본적으로 처움 우리가 말을 아예 할 줄 모르는 상태에서 배우는 것과는 난이도가 다른 것 같다.
+1	기본적으로	기본+적+으로	ADV	NNG+XSN+JKB	_	15	obl	_	_
+2	처움	처움	ADV	NA	_	10	advmod	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	말을	말+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	아예	아예	ADV	MAG	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	줄	줄	NOUN	NNB	_	8	obj	_	_
+8	모르는	모르+는	VERB	VV+ETM	_	9	acl	_	_
+9	상태에서	상태+에서	ADV	NNG+JKB	_	10	obl	_	_
+10	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+11	것과는	것+과+는	ADV	NNB+JKB+JX	_	13	obl	_	_
+12	난이도가	난이도+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	다른	다르+ㄴ	ADJ	VA+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_21_1_12
+# text = 먼저 배웠던 언어가 자꾸 생각나는 상황이 발생할 수 있다,
+1	먼저	먼저	ADV	MAG	_	2	advmod	_	_
+2	배웠던	배우+었+던	VERB	VV+EP+ETM	_	3	acl	_	_
+3	언어가	언어+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	자꾸	자꾸	ADV	MAG	_	7	advmod	_	_
+5	생각나는	생각+나+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	상황이	상황+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	발생할	발생+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_

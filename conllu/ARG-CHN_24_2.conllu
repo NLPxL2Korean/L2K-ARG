@@ -1,0 +1,182 @@
+# sent_id = ARG-CHN_24_2_01
+# text = 저는 협동과 경쟁 중에서 임내심과 능력이 성공에 더 큰 영향을 미친다고 생각한다.
+1	저는	저+는	PRON	NP+JX	_	12	nsubj	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	11	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	임내심과	임내+심+과	NOUN	NF+XSN+JC	Typo=Yes	11	nsubj	_	_
+6	능력이	능력+이	NOUN	NNG+JKS	_	5	conj	_	_
+7	성공에	성공+에	ADV	NNG+JKB	_	11	obl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	큰	크+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	영향을	영향+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	미친다고	미치+ㄴ다고	VERB	VV+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_24_2_02
+# text = 왜냐하면 한 사람이 일을 완벽하게 하면 우선, 능력이 제일 중요하다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	한	한	NUM	MM	_	3	nummod	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	일을	일+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	완벽하게	완벽+하+게	ADV	NNG+XSA+EC	_	6	advmod	_	_
+6	하면	하+면	VERB	VV+EC	_	11	advcl	_	_
+7	우선	우선	ADV	MAG	_	11	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	11	punct	_	_
+9	능력이	능력+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	제일	제일	ADV	MAG	_	11	advmod	_	_
+11	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_24_2_03
+# text = 능력이 있으면 일을 할 수 있다.
+1	능력이	능력+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_24_2_04
+# text = 반면에 능력이 없으면 일을 할 수 없다.
+1	반면에	반면+에	ADV	NNG+JKB	_	7	obl	_	_
+2	능력이	능력+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없으면	없+으면	ADJ	VA+EC	_	7	advcl	_	_
+4	일을	일+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_24_2_05
+# text = 능력이 클 수록 협동과 경쟁 중에서 성공하는 가능성도 크다.
+1	능력이	능력+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	클	크+ㄹ+수록	ADJ	VA+ETM+EC	Typo=Yes	9	advcl	_	_
+3	수록	_	X	_	_	2	goeswith	_	_
+4	협동과	협동+과	NOUN	NNG+JC	_	7	obl	_	_
+5	경쟁	경쟁	NOUN	NNG	_	4	conj	_	_
+6	중에서	중+에서	ADV	NNB+JKB	_	5	case	_	_
+7	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	가능성도	가능성+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	크다	크+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_24_2_06
+# text = 또한 임내심도 필요하다.
+1	또한	또한	ADV	MAJ	_	3	cc	_	_
+2	임내심도	임내+심+도	NOUN	NF+XSN+JX	Typo=Yes	3	nsubj	_	_
+3	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_24_2_07
+# text = 협동과 경쟁할 때 시간이 매우 길 것 같다.
+1	협동과	협동+과	NOUN	NNP+JC	_	8	advcl	_	_
+2	경쟁할	경쟁+하+ㄹ	VERB	NNG+VV+ETM	_	1	conj	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	시간이	시간+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	매우	매우	ADV	MAG	_	6	advmod	_	_
+6	길	길+ㄹ	ADJ	VA+ETM	_	7	acl	_	_
+7	것	것	NOUN	NNB	_	8	nsubj	_	_
+8	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_24_2_08
+# text = 이 때에는 누구나 먼저 포기, 누구나 실패한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	때에는	때+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+3	누구나	누구+나	PRON	NP+JX	_	5	nsubj	_	_
+4	먼저	먼저	ADV	MAG	_	5	advmod	_	_
+5	포기	포기	NOUN	NNG	_	8	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	8	punct	_	_
+7	누구나	누구+나	PRON	NP+JX	_	8	nsubj	_	_
+8	실패한다	실패+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_24_2_09
+# text = 그래서 임내심이 있으면 포기하는 것을 싫고 꼭 끝까지 일을 한다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	임내심이	임내+심+이	NOUN	NF+XSN+JKS	Typo=Yes	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+4	포기하는	포기+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	싫고	싫+고	ADJ	VA+EC	_	10	advcl	_	_
+7	꼭	꼭	ADV	MAG	_	10	advmod	_	_
+8	끝까지	끝+까지	NOUN	NNG+JX	_	10	obl	_	_
+9	일을	일+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_24_2_10
+# text = 따라서 성공하는 가능성은 매우 크다.
+1	따라서	따라서	ADV	MAJ	_	5	cc	_	_
+2	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	가능성은	가능+성+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+4	매우	매우	ADV	MAG	_	5	advmod	_	_
+5	크다	크+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_24_2_11
+# text = 그리고 협동과 경쟁 중에서 다른 사람의 도움도 성공에 더 큰 영향을 미친다고 생각한다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	12	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람의	사람+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	도움도	도움+도	NOUN	NNG+JX	_	12	nsubj	_	_
+8	성공에	성공+에	ADV	NNG+JKB	_	12	obl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	큰	크+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	영향을	영향+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	미친다고	미치+ㄴ다고	VERB	VV+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_24_2_12
+# text = 어떤 때 자기의 힘이 부족하기 때문에 일을 할 수 없다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	5	obl	_	_
+3	자기의	자기+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	힘이	힘+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	부족하기	부족+하+기	ADJ	NNG+XSA+ETN	_	10	obl	_	_
+6	때문에	때문+에	ADV	NNB+JKB	_	5	case	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_24_2_13
+# text = 이 때는 타인의 도움을 해주면 성공의 가능성 크다
+1	이	이	DET	MM	_	2	det	_	_
+2	때는	때+는	NOUN	NNG+JX	_	5	obl	_	_
+3	타인의	타인+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	도움을	도움+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	해주면	하+아+주+면	VERB	VV+EC+VX+EC	_	8	advcl	_	_
+6	성공의	성공+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	가능성	가능+성	NOUN	NNG+XSN	_	8	nsubj	_	_
+8	크다	크+다	ADJ	VA+EF	_	0	root	_	_
+
+# sent_id = ARG-CHN_24_2_13-1
+# text = 그래서 저는 협동과 경쟁 중에서 임내심, 능력, 그리고 타인의 도움이 성공에 더 큰 영향을 미친다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	18	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	18	nsubj	_	_
+3	협동과	협동+과	NOUN	NNG+JC	_	17	obl	_	_
+4	경쟁	경쟁	NOUN	NNG	_	3	conj	_	_
+5	중에서	중+에서	ADV	NNB+JKB	_	4	case	_	_
+6	임내심	임내+심	NOUN	NNG+XSN	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	능력	능력	NOUN	NNG	_	12	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+11	타인의	타인+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	도움이	도움+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+13	성공에	성공+에	ADV	NNG+JKB	_	17	obl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	큰	크+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	영향을	영향+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	미친다고	미치+ㄴ다고	VERB	VV+EC	_	18	ccomp	_	_
+18	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

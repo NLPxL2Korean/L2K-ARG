@@ -1,0 +1,127 @@
+# sent_id = ARG-CZH_04_1_01
+# text = 제 생각에는 조기 언어교육의 장점은 단점보다 많다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	장점은	장점+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	단점보다	단점+보다	ADV	NNG+JKB	_	7	obl	_	_
+7	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_04_1_02
+# text = 예를 들어 이이의 부머님들의 언어가 다르면 어머니와 아버지 둘 다 자기의 언어로 아이에게 말하면 그 아이가 자연스럽게 배울 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	20	advcl	_	_
+3	이이의	이이+의	NOUN	NF+JKG	Typo=Yes	4	nmod:poss	_	_
+4	부머님들의	부머+님+들+의	NOUN	NF+XSN+XSN+JKG	Typo=Yes	5	nmod:poss	_	_
+5	언어가	언어+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	다르면	다르+면	ADJ	VA+EC	_	20	advcl	_	_
+7	어머니와	어머니+와	NOUN	NNG+JC	_	14	nsubj	_	_
+8	아버지	아버지	NOUN	NNG	_	7	conj	_	_
+9	둘	둘	ADV	NR	_	14	advmod	_	_
+10	다	다	ADV	MAG	_	9	flat	_	_
+11	자기의	자기+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	언어로	언어+로	ADV	NNG+JKB	_	14	obl	_	_
+13	아이에게	아이+에게	ADV	NNG+JKB	_	14	obl	_	_
+14	말하면	말+하+면	VERB	NNG+XSV+EC	_	20	advcl	_	_
+15	그	그	DET	MM	_	16	det	_	_
+16	아이가	아이+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+17	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	18	advmod	_	_
+18	배울	배우+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CZH_04_1_03
+# text = 유치원부터 외국어를 배우는 아이도 많다.
+1	유치원부터	유치원+부터	NOUN	NNG+JX	_	3	obl	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	아이도	아이+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_04_1_04
+# text = 유치원에서도 자연스럽게 가르칠 수 있다면 아이의 미래에 좋을 것 같다.
+1	유치원에서도	유치원+에서+도	ADV	NNG+JKB+JX	_	3	obl	_	_
+2	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	3	advmod	_	_
+3	가르칠	가르치+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다면	있+다면	VERB	VX+EC	_	10	advcl	_	_
+6	아이의	아이+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	미래에	미래+에	ADV	NNG+JKB	_	8	obl	_	_
+8	좋을	좋+을	ADJ	VA+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_04_1_05
+# text = 하지만 너무 많이 하면 안된다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	너무	너무	ADV	MAG	_	4	advmod	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	하면	하+면	VERB	VV+EC	_	5	advcl	_	_
+5	안된다	안+되+ㄴ다	VERB	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_04_1_06
+# text = 아이가 작으면 아직 새로운 정보가 너무 많이 받아야 하면 안 된다고 생각한다.
+1	아이가	아이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	작으면	작+으면	ADJ	VA+EC	_	11	advcl	_	_
+3	아직	아직	ADV	MAG	_	8	advmod	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	정보가	정보+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	너무	너무	ADV	MAG	_	7	advmod	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	받아야	받+아야	VERB	VV+EC	_	11	advcl	_	_
+9	하면	하	AUX	VX+EC	_	8	aux	_	_
+10	안	안	ADV	MAG	_	11	advmod	_	_
+11	된다고	되+ㄴ다고	VERB	VV+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_04_1_07
+# text = 외국어를 어렸을 때부터 배워야 하면 적당히만 해야 한다.
+1	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	4	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	7	advcl	_	_
+5	하면	하	AUX	VX+EC	_	4	aux	_	_
+6	적당히만	적당히+만	ADV	MAG+JX	_	7	advmod	_	_
+7	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_04_1_08
+# text = 또 언어 하나만 배워야 한다.
+1	또	또	ADV	MAJ	_	4	cc	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	하나만	하나+만	NUM	NR+JX	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_04_1_09
+# text = 아이때부터 언어를 배우면 나중에 큰 도움이 될 거라고 생각한다.
+1	아이때부터	아이+때+부터	NOUN	NNG+NNG+JX	_	3	obl	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	7	advcl	_	_
+4	나중에	나중+에	ADV	NNG+JKB	_	7	obl	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	도움이	도움+이	NOUN	NNG+JKC	_	7	nsubj	_	_
+7	될	되+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	거라고	것+이+라고	ADJ	NNB+VCP+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_04_1_10
+# text = 그렇지만 배우는 방법을 가르춰지는 사람은 잘해야 한다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	6	cc	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	방법을	방법+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	가르춰지는	가르추+어지+는	VERB	NV+XSV+ETM	Typo=Yes	5	acl	_	_
+5	사람은	사람+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	잘해야	잘하+아야	VERB	VV+EC	_	0	root	_	_
+7	한다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

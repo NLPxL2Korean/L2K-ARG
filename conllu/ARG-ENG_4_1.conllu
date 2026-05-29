@@ -1,0 +1,279 @@
+# sent_id = ARG-ENG_04_1_01
+# text = 지난 10여년에 조기언어교육에 대한 연구가 많이 발달했다.
+1	지난	지나+ㄴ	VERB	VV+ETM	_	2	acl	_	_
+2	10여년에	10+여+년+에	ADV	SN+XSN+NNB+JKB	_	7	obl	_	_
+3	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	4	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	연구가	연구+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	발달했다	발달+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_04_1_01
+# text = 조기언어교육은 좋은 점ㅇ 많이 있다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	dislocated	_	_
+2	좋은	좋+은	VERB	VA+ETM	_	3	amod	_	_
+3	점ㅇ	점+ㅇ	NOUN	NNB+NA	_	5	nsubj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_04_1_02
+# text = 언어학자들이 조기언어교육의 장단점에 대해 관심이 늘 있었고 교육분야 작업하는 교사에게 연구결과를 배푸한다.
+1	언어학자들이	언어+학자+들+이	NOUN	NNG+NNG+XSN+JKS	_	7	dislocated	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장단점에	장단점+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+5	관심이	관심+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	늘	늘	ADV	MAG	_	7	advmod	_	_
+7	있었고	있	VERB	VV+EP+EC	_	0	root	_	_
+8	교육분야	교육+분야	NOUN	NNG+NNG	_	9	obl	_	_
+9	작업하는	작업+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	교사에게	교사+에게	ADV	NNG+JKB	_	12	obl	_	_
+11	연구결과를	연구+결과+를	NOUN	NNG+NNG+JKO	_	12	obj	_	_
+12	배푸한다	배푸+하+ㄴ다	VERB	NF+XSV+EF	Typo=Yes	7	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_04_1_02
+# text = 첫번째는 아이들이 젊은 마음 있어서 배우는 게 조금 더 쉬우다.
+1	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	10	obl	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	dislocated	_	_
+3	젊은	젊+은	ADJ	VA+ETM	_	4	amod	_	_
+4	마음	마음	NOUN	NNG	_	5	nsubj	_	_
+5	있어서	있+어서	VERB	VV+EC	_	10	advcl	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	게	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+8	조금	조금	ADV	MAG	_	10	advmod	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	쉬우다	쉬우+다	ADJ	NV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_04_1_03
+# text = 쉽게 요약한다면 조기언어교육의 장점을 2가지로 나눌 수 있다.
+1	쉽게	쉽+게	ADV	VA+EC	_	2	advmod	_	_
+2	요약한다면	요약+하+ㄴ다면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	장점을	장점+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	2가지로	2+가지+로	ADV	SN+NNB+JKB	_	6	obl	_	_
+6	나눌	나+눌	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_04_1_03
+# text = 두번재는 아이들은 아주 궁금해서 생각 많이 있고 이거는 수업 안에 제일 좋다.
+1	두번재는	두+번재+는	NOUN	SN+NF+JX	_	12	obl	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	궁금해서	궁금+하+아서	VERB	XR+XSA+EC	_	7	advcl	_	_
+5	생각	생각	NOUN	NNG	_	7	nsubj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	있고	있+고	VERB	VV+EC	_	12	advcl	_	_
+8	이거는	이거+는	VERB	NP+JX	_	12	nsubj	_	_
+9	수업	수업	NOUN	NNG	_	12	obl	_	_
+10	안에	안+에	ADP	NNG+JKB	_	9	case	_	_
+11	제일	제일	ADV	MAG	_	12	advmod	_	_
+12	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_04_1_04
+# text = 첫째, 어렸을 때부터 언어 2개를 같이 배우면 (lingual) 뇌의 발달은 언어 1개만 배우는 아이보다 훨씬 더 활발한다.
+1	첫째	첫째	NUM	NR	_	18	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	8	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	2개를	2+개+를	NOUN	SN+NNB+JKO	_	8	obj	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	배우면	배우+면	VERB	VV+EC	_	18	advcl	_	_
+9	(lingual)	(+lingual+)	NOUN	SS+SL+SS	_	10	nmod	_	_
+10	뇌의	뇌+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	발달은	발달+은	NOUN	NNG+JX	_	18	nsubj	_	_
+12	언어	언어	NOUN	NNG	_	13	nmod	_	_
+13	1개만	1+개+만	NOUN	SN+NNB+JX	_	14	obj	_	_
+14	배우는	배우+는	VERB	VV+ETM	_	15	acl	_	_
+15	아이보다	아이+보다	ADV	NNG+JKB	_	18	obl	_	_
+16	훨씬	훨씬	ADV	MAG	_	18	advmod	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	활발한다	활발+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_04_1_04
+# text = 세번째는 아이들이 문화하고 언어를 배우면, 나중에 세계 관점을 있수도 된다.
+1	세번째는	세+번+째+는	NOUN	MM+NNB+JX	_	11	obl	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	문화하고	문화+하+고	VERB	NNG+JC	_	5	obj	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	3	conj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	나중에	나중+에	ADV	NNG+JKB	_	10	obl	_	_
+8	세계	세계	NOUN	NNG	_	9	nmod	_	_
+9	관점을	관점+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	있수도	있+수+도	VERB	VV+NNB+JX	_	11	nsubj	_	_
+11	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_04_1_05
+# text = 또 언어 2개 (이상) 같은 시기에 배우면 세계화된 그로벌 시민이 될 수 있는 마음이 생긴다.
+1	또	또	ADV	MAJ	_	15	cc	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	2개	2+개	NOUN	SN+NNB	_	7	obj	_	_
+4	(이상)	(+이상+)	ADV	SS+NNG+SS	_	7	advmod	_	_
+5	같은	같+은	ADJ	VA+ETM	_	6	amod	_	_
+6	시기에	시기+에	ADV	NNG+JKB	_	7	obl	_	_
+7	배우면	배우+면	VERB	VV+EC	_	15	advcl	_	_
+8	세계화된	세계+화+되+ㄴ	VERB	NNG+XSN+XSV+ETM	_	10	acl	_	_
+9	그로벌	그로벌	NOUN	NF	Typo=Yes	10	nmod	_	_
+10	시민이	시민+이	NOUN	NNG+JKC	_	11	nsubj	_	_
+11	될	되+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	마음이	마음+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	생긴다	생기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_04_1_05
+# text = 나쁜 점도 있다.
+1	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	점도	점+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_04_1_06
+# text = 다른 편으로는 어떤 학자들이 조기언어교육 (bi l in gual education) 의 단점을 더 넓게 알려주고 싶다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+2	편으로는	편+으로+는	ADV	NNB+JKB+JX	_	15	obl	_	_
+3	어떤	어떤	DET	MM	_	2	det	_	_
+4	학자들이	학자+들+이	NOUN	NNG+XSN+JKS	_	15	nsubj	_	_
+5	조기언어교육	조기+언어+교육	NOUN	NNG+NNG+NNG	_	12	nmod	_	_
+6	(bi	(+bi+l+in+gual	NOUN	SS+SL+SL+SL+SL	Typo=Yes	10	amod	_	_
+7	l	_	X	_	_	6	goeswith	_	_
+8	in	_	X	_	_	6	goeswith	_	_
+9	gual	_	X	_	_	6	goeswith	_	_
+10	education)	educatiion+)	NOUN	SL+SS	_	5	appos	_	_
+11	의	의	ADP	JKG	_	5	case	_	_
+12	단점을	단점+을	NOUN	NNG+JKO	_	15	obj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	넓게	넓+게	ADV	VA+EC	_	15	advmod	_	_
+15	알려주고	알리+어+주+고	VERB	VV+EC+VX+EC	_	0	root	_	_
+16	싶다	싶	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_04_1_06
+# text = 아이들은 젊아서 너무 오래동안 교실에 못 있다.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	2	nsubj	_	_
+2	젊아서	젊+아서	VERB	VA+NA	_	7	advcl	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	오래동안	오래+동안	ADV	MAG+NNG	_	7	obl	_	_
+5	교실에	교실+에	ADV	NNG+JKB	_	7	obl	_	_
+6	못	못	ADV	MAG	_	7	advmod	_	_
+7	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_04_1_07
+# text = 학교 안에 bi l in gual program을 과학적으로 만들지 않으면 아이들에게 혜택보다 언어나 심리 장애를 줄 수 있다는 연구도 있다.
+1	학교	학교	NOUN	NNG	_	9	obl	_	_
+2	안에	안+에	ADV	NNG+JKB	_	1	case	_	_
+3	bi	bi+l+in+gual	NOUN	SL+SL+SL+SL	Typo=Yes	7	amod	_	_
+4	l	_	X	_	_	3	goeswith	_	_
+5	in	_	X	_	_	3	goeswith	_	_
+6	gual	_	X	_	_	3	goeswith	_	_
+7	program을	program+을	NOUN	SL+JKO	_	9	obj	_	_
+8	과학적으로	과학+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+9	만들지	만들+지	VERB	VV+EC	_	16	advcl	_	_
+10	않으면	않	AUX	VX+EC	_	9	aux	_	_
+11	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	16	obl	_	_
+12	혜택보다	혜택+보다	ADV	NNG+JKB	_	16	obl	_	_
+13	언어나	언어+나	NOUN	NNG+JC	_	15	nmod	_	_
+14	심리	심리	NOUN	NNG	_	13	conj	_	_
+15	장애를	장애+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	줄	주+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다는	있+다는	VERB	VX+ETM	_	19	acl	_	_
+19	연구도	연구+도	NOUN	NNG+JX	_	20	nsubj	_	_
+20	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_04_1_07
+# text = 역사하고 문법하고 수학하고 언어도 너무 많은 과목일 수 있다.
+1	역사하고	역사+하고	VERB	NNG+JC	_	7	nsubj	_	_
+2	문법하고	문법+하고	VERB	NNG+JC	_	1	conj	_	_
+3	수학하고	수학+하고	VERB	NNG+XSV+EC	_	1	conj	_	_
+4	언어도	언어+도	NOUN	NNG+JX	_	1	conj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	많은	많+은	VERB	VA+ETM	_	7	acl	_	_
+7	과목일	과목일	NOUN	NNG	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_04_1_08
+# text = 생각과 계홱 없는 언어프로그램은 bi l in gual 프로그램 없는 것보다 꼭 좋지 않는다.
+1	생각과	생각+과	NOUN	NNG+JC	_	3	nsubj	_	_
+2	계홱	계홱	NOUN	NF	Typo=Yes	1	conj	_	_
+3	없는	없+는	ADJ	VA+ETM	_	4	acl	_	_
+4	언어프로그램은	언어+프로그램+은	NOUN	NNG+NNG+JX	_	13	nsubj	_	_
+5	bi	bi+l+in+gual	NOUN	SL+SL+SL+SL	Typo=Yes	9	amod	_	_
+6	l	_	X	_	_	5	goeswith	_	_
+7	in	_	X	_	_	5	goeswith	_	_
+8	gual	_	X	_	_	5	goeswith	_	_
+9	프로그램	프로그램	NOUN	NNG	_	10	nsubj	_	_
+10	없는	없+는	ADJ	VA+ETM	_	11	acl	_	_
+11	것보다	것+보다	ADV	NNB+JKB	_	13	obl	_	_
+12	꼭	꼭	ADV	MAG	_	13	advmod	_	_
+13	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+14	않는다	않	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_04_1_08
+# text = 그러고 보니 조금만 언어교육하면 좋아진다.
+1	그러고	그러+고	ADV	VV+EC	_	5	advcl	_	_
+2	보니	보+니	VERB	VX+EC	_	1	aux	_	_
+3	조금만	조금+만	ADV	MAG+JX	_	4	advmod	_	_
+4	언어교육하면	언어+교육+하+면	VERB	NNG+NNG+VV+EC	_	5	advcl	_	_
+5	좋아진다	좋+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_04_1_09
+# text = 그리고 아이들이 첫번째 언어하고 교실에서 배우는 언어 중에 조금 헷갈리질수도 있다.
+1	그리고	그리고	ADV	MAJ	_	11	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+3	첫번째	첫+번째	NOUN	MM+NNB	_	4	nmod	_	_
+4	언어하고	언어+하고	VERB	NNG+JKB	_	10	obl	_	_
+5	교실에서	교실+에서	ADV	NNG+JKB	_	6	obl	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	언어	언어	NOUN	NNG	_	4	conj	_	_
+8	중에	중+에	ADP	NNB+JKB	_	7	case	_	_
+9	조금	조금	ADV	MAG	_	11	advmod	_	_
+10	헷갈리질수도	헷갈리+지+ㄹ+수+도	NOUN	VV+NA+ETM+NNB+JX	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_04_1_10
+# text = 이 두만 나쁜 점을 풀릴 수 있으면 조기 언어교육을 꼭 해야 된다.
+1	이	이	DET	MM	_	4	det	_	_
+2	두만	두+만	NOUN	MM+JX	_	4	nummod	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	점을	점+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	풀릴	풀리+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VX+EC	_	11	advcl	_	_
+8	조기	조기	NOUN	NNG	_	9	nmod	_	_
+9	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	11	obj	_	_
+10	꼭	꼭	ADV	MAG	_	11	advmod	_	_
+11	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+12	된다	되+ㄴ다	VERB	VX+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_04_1_11
+# text = 왜냐하면 미래에서 그 아이들이 똑똑하고 다양한 사람들을 돼야 된다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	8	cc	_	_
+2	미래에서	미래+에서	ADV	NF+JKB	_	8	obl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+5	똑똑하고	똑똑+하+고	VERB	XR+XSA+EC	_	7	amod	_	_
+6	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	conj	_	_
+7	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	8	obj	_	_
+8	돼야	되+어야	VERB	VV+EC	_	0	root	_	_
+9	된다	되+ㄴ다	VERB	VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_

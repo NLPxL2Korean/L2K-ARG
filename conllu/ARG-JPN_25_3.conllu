@@ -1,0 +1,45 @@
+# sent_id = ARG-JPN_25_3_02
+# text =  또한 한상 협동하고 있으면 자신에 문제가 있을 때 도와주는 사람이 있을 것이다.
+1	또한	또한	ADV	MAJ	_	12	cc	_	_
+2	한상	한상	NOUN	NA	_	3	advmod	_	_
+3	협동하고	협동+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+4	있으면	있+으면	AUX	VX+EC	_	3	aux	_	_
+5	자신에	자신+에	ADV	NNG+JKB	_	7	obl	_	_
+6	문제가	문제+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있을	있+을	VERB	VV+ETM	_	12	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	도와주는	도와주+는	VERB	VV+ETM	_	10	acl	_	_
+10	사람이	사람+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있을	있+을	VERB	VV+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_25_3_01-1
+# text =  저는 경쟁 보다 더 협동을 선호한다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	6	obl	_	_
+3	보다	보다	ADV	JKB	_	2	case	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EC	_	0	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_25_3_01-2
+# text =  우ㅐ냐하면 주변 사람들과 서로 도와주고 같이 일하면 각자에 단점을 없어지고 장점을 살 수 있기 때 문이다.
+1	우ㅐ냐하면	우ㅐ냐하면	VERB	MAJ	_	15	cc	_	_
+2	주변	주변	NOUN	NNG	_	3	nmod	_	_
+3	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+4	서로	서로	ADV	MAG	_	5	advmod	_	_
+5	도와주고	도와주+고	VERB	VV+EC	_	7	advcl	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	일하면	일+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	각자에	각자+에	ADV	NF+JKB	_	10	obl	_	_
+9	단점을	단점+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	없어지고	없+어지+고	VERB	VA+XSV+EC	_	15	nmod	_	_
+11	장점을	장점+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	살	살+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있기	있+기	NOUN	VX+ETN	_	10	conj	_	_
+15	때	때	NOUN	NNG	_	0	root	_	_
+16	문이다	문+이+다	VERB	NNG+VCP+EF	_	15	goeswith	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

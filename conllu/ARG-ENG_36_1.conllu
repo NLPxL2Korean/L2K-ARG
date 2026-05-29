@@ -1,0 +1,169 @@
+# sent_id = ARG-ENG_36_1_01
+# text = 제 생각에는 조기언어교육이 진짜 중요하다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	5	nsubj	_	_
+4	진짜	진짜	ADV	MAG	_	5	advmod	_	_
+5	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_36_1_02
+# text = 애들은 다양한 언어를 들면 보통 나이가 늘면서 더 쉽게 새로운 언어와 생각을 배울 수 있다.
+1	애들은	애+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+2	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	들면	들+면	VERB	NV+EC	Typo=Yes	15	advcl	_	_
+5	보통	보통	ADV	MAG	_	7	advmod	_	_
+6	나이가	나이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	늘면서	늘+면서	VERB	VV+EC	_	15	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	쉽게	쉽+게	ADV	VA+EC	_	13	advmod	_	_
+10	새로운	새롭+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	언어와	언어+와	NOUN	NNG+JC	_	13	obj	_	_
+12	생각을	생각+을	NOUN	NNG+JKO	_	11	conj	_	_
+13	배울	배우+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_36_1_03
+# text = 강한 뇌를 만들고 싶다면 애들에게 언어를 잘 가르쳐야 한다.
+1	강한	강하+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	뇌를	뇌+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	만들고	만들+고	VERB	VV+EC	_	8	advcl	_	_
+4	싶다면	싶	AUX	VX+EC	_	3	aux	_	_
+5	애들에게	애+들+에게	ADV	NNG+XSN+JKB	_	8	obl	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	가르쳐야	가르치+어야	VERB	VV+EC	_	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_36_1_04
+# text = 그런데 가끔 애들은 새로운 언어를 많이 배울 때, 다양한 단어나 문법을 트리게 쓰는 것이 가능성이 있다.
+1	그런데	그런데	ADV	MAJ	_	17	cc	_	_
+2	가끔	가끔	ADV	MAG	_	17	advmod	_	_
+3	애들은	애+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	17	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	7	punct	_	_
+10	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	단어나	단어+나	NOUN	NNG+JC	_	14	obj	_	_
+12	문법을	문법+을	NOUN	NNG+JKO	_	11	conj	_	_
+13	트리게	트리+게	ADV	NV+EC	Typo=Yes	14	advmod	_	_
+14	쓰는	쓰+는	VERB	VV+ETM	_	15	acl	_	_
+15	것이	것+이	NOUN	NNB+JKS	_	17	dislocated	_	_
+16	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+17	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_36_1_05
+# text = 예를 들면 제 친구는 네더랜드에서 태어나고 미국에서 같아 샀을 때 영어 어렵게 배워야 했다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	13	advcl	_	_
+3	제	저+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	친구는	친구+는	NOUN	NNG+JX	_	13	nsubj	_	_
+5	네더랜드에서	네더랜드+에서	ADV	NF+JKB	Typo=Yes	6	obl	_	_
+6	태어나고	태어나+고	VERB	VV+EC	_	8	advcl	_	_
+7	미국에서	미국+에서	ADV	NNP+JKB	_	9	obl	_	_
+8	같아	같아	ADV	NA	Typo=Yes	9	advmod	_	_
+9	샀을	사+았+을	VERB	VV+EP+ETM	_	13	advcl	_	_
+10	때	때	ADV	NNG	_	9	mark	_	_
+11	영어	영어	NOUN	NNP	_	13	obj	_	_
+12	어렵게	어렵+게	ADV	VA+EC	_	13	advmod	_	_
+13	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+14	했다	하	AUX	VX+EP+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_36_1_06
+# text = 그래서 가끔 영어로 대화할 때 가끔 네더랜드어의 문법을 쓰고 네더랜드어를 하고 싶어할 때 집의 생활 단어 밖에 못 말한다.
+1	그래서	그래서	ADV	MAJ	_	19	cc	_	_
+2	가끔	가끔	ADV	MAG	_	4	advmod	_	_
+3	영어로	영어+로	ADV	NNG+JKB	_	4	obl	_	_
+4	대화할	대화+하+ㄹ	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	가끔	가끔	ADV	MAG	_	9	advmod	_	_
+7	네더랜드어의	네더랜드어+의	NOUN	NF+JKG	Typo=Yes	8	nsubj	_	_
+8	문법을	문법+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	쓰고	쓰+고	VERB	VV+EC	_	19	advcl	_	_
+10	네더랜드어를	네더랜드+어+를	NOUN	NF+XSN+JKO	Typo=Yes	11	obj	_	_
+11	하고	하+고	VERB	VV+EC	_	9	conj	_	_
+12	싶어할	싶	AUX	VX+EC+VX+ETM	_	11	aux	_	_
+13	때	때	ADV	NNG	_	9	mark	_	_
+14	집의	집+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+15	생활	생활	NOUN	NNG	_	16	nmod	_	_
+16	단어	단어	NOUN	NNG	_	19	obl	_	_
+17	밖에	밖에	ADP	JX	_	16	case	_	_
+18	못	못	ADV	MAG	_	19	advmod	_	_
+19	말한다	말하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_36_1_07
+# text = 그래서 저희는 조기언어교육에 생각할 때, 사회적인 것도 생각하도록 한다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	저희는	저희+는	PRON	NP+JX	_	4	nsubj	_	_
+3	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	4	obl	_	_
+4	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	10	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	사회적인	사회+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	것도	것+도	NOUN	NNB+JX	_	9	obj	_	_
+9	생각하도록	생각+하+도록	VERB	NNG+XSV+EC	_	10	advcl	_	_
+10	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_1_08
+# text = 조기 언어교육은 현실에 건강한 뇌가 되는데도 사람의 대화하는 능력도 중요하다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	10	obl	_	_
+3	현실에	현실+에	ADV	NNG+JKB	_	6	obl	_	_
+4	건강한	건강+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	뇌가	뇌+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	되는데도	되+는데+도	VERB	VV+EC+JX	_	10	advcl	_	_
+7	사람의	사람+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+8	대화하는	대화+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	능력도	능력+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_1_09
+# text = 언어와 문화 자연스럽게 같이 배워서 조기 언어교육하는 선생님과 부모님들도 둘 다를 가르쳐야 한다.
+1	언어와	언어+와	ADV	NNG+JKB	_	5	obj	_	_
+2	문화	문화	NOUN	NNG	_	1	conj	_	_
+3	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	5	advmod	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	배워서	배우+어서	VERB	VV+EC	_	12	advcl	_	_
+6	조기	조기	NOUN	NNG	_	7	nmod	_	_
+7	언어교육하는	언어+교육+하+는	VERB	NNG+NNG+VV+ETM	_	8	acl	_	_
+8	선생님과	선생+님+과	NOUN	NNG+XSN+JC	_	12	nsubj	_	_
+9	부모님들도	부모+님+들+도	NOUN	NNG+XSN+XSN+JX	_	8	conj	_	_
+10	둘	둘	NUM	NR	_	11	nummod	_	_
+11	다를	다+를	NOUN	NNG+ETM	_	8	appos	_	_
+12	가르쳐야	가르치+어야	VERB	VV+EC	_	0	root	_	_
+13	한다	하	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_36_1_10
+# text = 그렇지 않다면 애들의 나이가 늘면서 자신에 대한 느낌을 잃을 것이다.
+1	그렇지	그렇+지	ADJ	VA+EC	_	10	advcl	_	_
+2	않다면	않	AUX	VX+EC	_	1	aux	_	_
+3	애들의	애+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	나이가	나이+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	늘면서	늘+면서	VERB	VV+EC	_	9	advcl	_	_
+6	자신에	자신+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	느낌을	느낌+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	잃을	잃+을	VERB	VV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_36_1_11
+# text = 그때 애들은 슬프질 것이다.
+1	그때	그때	NOUN	NNG	_	4	obl	_	_
+2	애들은	애+들+은	NOUN	NP+XSN+JX	_	3	nsubj	_	_
+3	슬프질	슬프+지+ㄹ	VERB	VA+NA+ETM	Typo=Yes	4	acl	_	_
+4	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

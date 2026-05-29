@@ -1,0 +1,280 @@
+# sent_id = ARG-CHN_2_2_01
+# text = 개인적으로 보면 자기랑 경쟁하는 것과 남에 일하면서 잘 협동하는 것을 성공에 대해 영향을 미친다고 생각한다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	2	obl	_	_
+2	보면	보+면	VERB	VV+EC	_	15	advcl	_	_
+3	자기랑	자기+랑	ADV	NNG+JKB	_	4	obl	_	_
+4	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것과	것+과	ADV	NNB+JKB	_	14	obj	_	_
+6	남에	남+에	ADV	NNG+JKB	_	7	obl	_	_
+7	일하면서	일+하+면서	VERB	NNG+XSV+EC	_	9	advcl	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	5	conj	_	_
+11	성공에	성공+에	ADV	NNG+JKB	_	12	obl	_	_
+12	대해	대하+아	VERB	VV+EC	_	14	advcl	_	_
+13	영향을	영향+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	미친다고	미치+ㄴ다고	VERB	VV+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_2_2_02
+# text = 꼭 하나가 골라야 될냐면 제가 경쟁이다고 생각한다.
+1	꼭	꼭	ADV	MAG	_	3	advmod	_	_
+2	하나가	하나+가	NOUN	NR+JKS	_	3	nsubj	_	_
+3	골라야	고르+아야	VERB	VV+EC	_	4	advcl	_	_
+4	될냐면	되+ㄹ냐면	VERB	VX+NA	Typo=Yes	6	advcl	_	_
+5	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+6	경쟁이다고	경쟁+이+다고	ADJ	NNG+VCP+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_2_2_03
+# text = 이유를 설명하겠다.
+1	이유를	이유+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	설명하겠다	설명+하+겠+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CHN_2_2_04
+# text = 두번째 이유가 있다고 볼 수 있다.
+1	두번째	두+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	이유가	이유+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있다고	있+다고	VERB	VV+EC	_	4	ccomp	_	_
+4	볼	보+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_2_2_05
+# text = 첫번째는 경쟁가 있어야 사람들이 긍정적인 향상력이 있다.
+1	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	7	obl	_	_
+2	경쟁가	경쟁+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있어야	있+어야	VERB	VV+EC	_	7	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	dislocated	_	_
+5	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	6	amod	_	_
+6	향상력이	향상+력+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_2_2_06
+# text = 개인적인 경험을 보면, 제가 혼자 있을 때 공부가 그렇게 열심히 하는 편이 아닌 것 같다.
+1	개인적인	개인+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	2	amod	_	_
+2	경험을	경험+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	보면	보+면	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+6	혼자	혼자	ADV	NNG	_	7	advmod	_	_
+7	있을	있+을	VERB	VV+ETM	_	16	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	공부가	공부+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+10	그렇게	그렇+게	ADV	VA+EC	_	12	advmod	_	_
+11	열심히	열심히	ADV	MAG	_	12	advmod	_	_
+12	하는	하+는	VERB	VV+ETM	_	13	acl	_	_
+13	편이	편+이	NOUN	NNB+JKC	_	14	nsubj	_	_
+14	아닌	아니+ㄴ	ADJ	VCN+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_2_2_07
+# text = 하지만 친구랑 도서관에 가서 같이 공부한다면 효율성이도 많이 늘어나고 외우는 내용도 증가한 것 같다.
+1	하지만	하지만	ADV	MAJ	_	14	cc	_	_
+2	친구랑	친구+랑	ADV	NNG+JKB	_	4	obl	_	_
+3	도서관에	도서관+에	ADV	NNG+JKB	_	4	obl	_	_
+4	가서	가+아서	VERB	VV+EC	_	6	advcl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	공부한다면	공부+하+ㄴ다면	VERB	NNG+XSV+EC	_	14	advcl	_	_
+7	효율성이도	효율+성+이+도	NOUN	NNG+XSN+JKS+JX	_	9	nsubj	_	_
+8	많이	많이	ADV	MAG	_	9	advmod	_	_
+9	늘어나고	늘+어+나+고	VERB	VV+EC+VX+EC	_	12	advcl	_	_
+10	외우는	외우+는	VERB	VV+ETM	_	11	acl	_	_
+11	내용도	내용+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	증가한	증가+하+ㄴ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_2_2_08
+# text = 제가 보니까 왜 그러냐면 친구이랑 경쟁력이 있어서 그런 것 같다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	보니까	보+니까	VERB	VV+EC	_	4	advcl	_	_
+3	왜	왜	ADV	MAG	_	4	advmod	_	_
+4	그러냐면	그렇+으냐+하+면	VERB	VA+EC+VV+EC	_	10	advcl	_	_
+5	친구이랑	친구+이랑	ADV	NNG+JKB	_	7	obl	_	_
+6	경쟁력이	경쟁+력+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	있어서	있+어서	ADJ	VA+EC	_	10	advcl	_	_
+8	그런	그렇+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_2_2_09
+# text = 어늘 때 제가 성적이 잘 안 나와서 자기 반성을 하고 밤에 열심히 했고 꼭 시험을 통과하려고 했는데, 이번에 보면 자기랑 경쟁하는 것죠.
+1	어늘	어늘	NOUN	NA	Typo=Yes	2	amod	_	_
+2	때	때	NOUN	NNB	_	23	obl	_	_
+3	제가	제+가	PRON	NP+JKS	_	7	dislocated	_	_
+4	성적이	성적+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	잘	잘	ADV	MAG	_	7	advmod	_	_
+6	안	안	ADV	MAG	_	7	advmod	_	_
+7	나와서	나오+아서	VERB	VV+EC	_	10	advcl	_	_
+8	자기	자기	NOUN	NNG	_	9	nmod	_	_
+9	반성을	반성+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	하고	하+고	VERB	VV+EC	_	13	advcl	_	_
+11	밤에	밤+에	ADV	NNG+JKB	_	13	obl	_	_
+12	열심히	열심히	ADV	MAG	_	13	advmod	_	_
+13	했고	하+았+고	VERB	VV+EP+EC	_	16	advcl	_	_
+14	꼭	꼭	ADV	MAG	_	16	advmod	_	_
+15	시험을	시험+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	통과하려고	통과+하+려고	VERB	NNG+XSV+EC	_	20	advcl	_	_
+17	했는데	하	AUX	VX+EP+EC	_	16	aux	_	SpaceAfter=No
+18	,	,	PUNCT	SP	_	17	punct	_	_
+19	이번에	이번+에	ADV	NNG+JKB	_	20	obl	_	_
+20	보면	보+면	VERB	VV+EC	_	23	advcl	_	_
+21	자기랑	자기+랑	ADV	NNG+JKB	_	22	obl	_	_
+22	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	23	acl	_	_
+23	것죠	것+죠	ADJ	NNB+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CHN_2_2_10
+# text = 경쟁하면서 긍정적인 영향을 생기고 사람들이 향상시키는 동력이도 개발했다.
+1	경쟁하면서	경쟁+하+면서	VERB	NNG+XSV+EC	_	4	advcl	_	_
+2	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	영향을	영향+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	생기고	생기+고	VERB	VV+EC	_	0	root	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	향상시키는	향상+시키+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	동력이도	동력+이+도	NOUN	NNG+JKS+JX	_	8	obj	_	_
+8	개발했다	개발+하+았+다	VERB	NNG+XSV+EP+EF	_	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_2_2_11
+# text = 두번째 이유는, 경쟁가 계속 만나할 것이고 제대로 대응해야 한다.
+1	두번째	두+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	9	nsubj	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	경쟁가	경쟁+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	계속	계속	ADV	MAG	_	6	advmod	_	_
+6	만나할	만나+하+ㄹ	ADJ	VV+NA+ETM	Typo=Yes	7	acl	_	_
+7	것이고	것+이+고	ADJ	NNB+VCP+EC	_	0	root	_	_
+8	제대로	제대로	ADV	MAG	_	9	advmod	_	_
+9	대응해야	대응+하+아야	VERB	NNG+XSV+EC	_	7	conj	_	_
+10	한다	하	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_2_2_12
+# text = 어릴 때 저희 동창친구가 반장이고 항상 우리 반 일등을 받았는데 어느 날가 이등 받았다.
+1	어릴	어리+ㄹ	ADJ	VA+ETM	_	5	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	저희	저희	PRON	NP	_	4	nmod	_	_
+4	동창친구가	동창+친구+가	NOUN	NNG+NNG+JKS	_	5	nsubj	_	_
+5	반장이고	반장+이+고	ADJ	NNG+VCP+EC	_	14	advcl	_	_
+6	항상	항상	ADV	MAG	_	10	advmod	_	_
+7	우리	우리	PRON	NP	_	8	nmod	_	_
+8	반	반	NOUN	NNG	_	9	nmod	_	_
+9	일등을	일+등+을	NOUN	MM+NNB+JKO	_	10	obj	_	_
+10	받았는데	받+았+는데	VERB	VV+EP+EC	_	5	conj	_	_
+11	어느	어느	DET	MM	_	12	det	_	_
+12	날가	날+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+13	이등	이+등	NOUN	MM+NNB	_	14	obj	_	_
+14	받았다	받+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_2_2_13
+# text = 그 때가 이 친구를 많이 속상하고 열심히 해는데 어떤 문제가 인지 모르겠어요.
+1	그	그	DET	MM	_	2	det	_	_
+2	때가	때+가	NOUN	NNB+JKS	_	6	nsubj	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	친구를	친구+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	속상하고	속상+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+7	열심히	열심히	ADV	MAG	_	8	advmod	_	_
+8	해는데	하+아+는데	VERB	VV+NA+EC	Typo=Yes	12	advcl	_	_
+9	어떤	어떤	DET	MM	_	10	det	_	_
+10	문제가	문제+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	인지	이+ㄴ지	ADJ	VCP+EC	_	10	amod	_	_
+12	모르겠어요	모르+겠+어요	VERB	VV+EP+EF	_	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_2_2_14
+# text = 근데 이번에 일등 받는 친구가 그에 한테 말했다.
+1	근데	근데	ADV	MAJ	_	8	cc	_	_
+2	이번에	이번+에	ADV	NNG+JKB	_	4	obl	_	_
+3	일등	일+등	NOUN	MM+NNB	_	4	obj	_	_
+4	받는	받+는	VERB	VV+ETM	_	5	acl	_	_
+5	친구가	친구+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	그에	그+에	ADV	MM+NF	Typo=Yes	8	obl	_	_
+7	한테	한테	ADP	JKB	_	6	case	_	_
+8	말했다	말+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_2_2_15
+# text = "너 열심히 해지만 주변 사람의 도움이 무시해서 이번에 못 하는 것죠.
+1	"너	"+너	NOUN	SS+NP	_	3	nsubj	_	_
+2	열심히	열심히	ADV	MAG	_	3	advmod	_	_
+3	해지만	하+아+지만	VERB	VV+NA+EC	Typo=Yes	7	advcl	_	_
+4	주변	주변	NOUN	NNG	_	5	nmod	_	_
+5	사람의	사람+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	도움이	도움+이	NOUN	NNG+JKC	_	7	nsubj	_	_
+7	무시해서	무시+하+아서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+8	이번에	이번+에	ADV	NNG+JKB	_	10	obl	_	_
+9	못	못	ADV	MAG	_	11	advmod	_	_
+10	하는	하+는	VERB	VV+ETM	_	11	acl	_	_
+11	것죠	것+죠	ADJ	NNB+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_2_2_16
+# text = " 반장가 반사하고 자기 만냐게 주변 사람들 도와주면 아마 자기의 문제도 발견될 수 있고 문제가 없어지지 않을가?
+1	"	"	PUNCT	SS	_	2	punct	_	_
+2	반장가	반장+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	반사하고	반사+하+고	VERB	NF+XSV+EC	Typo=Yes	8	advcl	_	_
+4	자기	자기	PRON	NP	_	5	nsubj	_	_
+5	만냐게	만냐+게	VERB	NV+EC	Typo=Yes	8	advcl	_	_
+6	주변	주변	NOUN	NNG	_	7	nmod	_	_
+7	사람들	사람+들	NOUN	NNG+XSN	_	8	obj	_	_
+8	도와주면	돕+아+주+면	VERB	VV+EC+VX+EC	_	14	advcl	_	_
+9	아마	아마	ADV	MAG	_	14	advmod	_	_
+10	자기의	자기+의	PRON	NP+JKG	_	11	nmod:poss	_	_
+11	문제도	문제+도	NOUN	NNG+JX	_	12	obj	_	_
+12	발견될	발견+되+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있고	있+고	VERB	VX+EC	_	0	root	_	_
+15	문제가	문제+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	없어지지	없+어지+지	VERB	VA+XSV+EC	_	14	conj	_	_
+17	않을가	않	AUX	VX+NA	Typo=Yes	16	aux	_	SpaceAfter=No
+18	?	?	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_2_2_17
+# text = 그래서 나중에 보면 반장이 협동려깅 증가 하고 경쟁하는 마음이 조금 놓고 계속 일등을 받았다.
+1	그래서	그래서	ADV	MAJ	_	14	cc	_	_
+2	나중에	나중+에	ADV	NNG+JKB	_	3	obl	_	_
+3	보면	보+면	VERB	VV+EC	_	14	advcl	_	_
+4	반장이	반장+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+5	협동려깅	협동려+깅	NOUN	NF+NA	Typo=Yes	6	nsubj	_	_
+6	증가	증가+하+고	VERB	NNG+VV+EC	Typo=Yes	11	advcl	_	_
+7	하고	_	X	_	_	6	goeswith	_	_
+8	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	마음이	마음+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	조금	조금	ADV	MAG	_	11	advmod	_	_
+11	놓고	놓+고	VERB	VV+EC	_	14	advcl	_	_
+12	계속	계속	ADV	MAG	_	14	advmod	_	_
+13	일등을	일+등+을	NOUN	MM+NNB+JKO	_	14	obj	_	_
+14	받았다	받+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_2_2_18
+# text = 그래서, 이렇게 보면, 경쟁력이 제대로 보면 긍정적이 동력이고 좋게 사용해서야 좋은 결과가 나왔다.
+1	그래서	그래서	ADV	MAJ	_	15	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	이렇게	이렇+게	ADV	VA+EC	_	4	advmod	_	_
+4	보면	보+면	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	경쟁력이	경쟁력+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	제대로	제대로	ADV	MAG	_	8	advmod	_	_
+8	보면	보+면	VERB	VV+EC	_	15	advcl	_	_
+9	긍정적이	긍정+적+이	ADJ	NNG+XSN+VCP	_	10	amod	_	_
+10	동력이고	동력+이+고	ADJ	NNG+VCP+EC	_	15	advcl	_	_
+11	좋게	좋+게	ADV	VA+EC	_	12	advmod	_	_
+12	사용해서야	사용+하+아서+어야	VERB	NNG+XSV+EC+EP	_	15	advcl	_	_
+13	좋은	좋+은	ADJ	VA+ETM	_	14	amod	_	_
+14	결과가	결과+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

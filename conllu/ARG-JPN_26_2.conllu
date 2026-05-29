@@ -1,0 +1,214 @@
+# sent_id = ARG-JPN_26_2_01
+# text =  역사는 배워야 한다고 생각하다.
+1	역사는	역사+는	NOUN	NNG+JX	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	ccomp	_	_
+3	한다고	하+ㄴ다고	AUX	VX+EC	_	2	aux	_	_
+4	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_26_2_02
+# text =  이유는 3개있다.
+1	이유는	이유+는	NOUN	NNG+JX	_	2	nsubj	_	_
+2	3개있다	3+개+있+다	VERB	SN+NNB+VV+EP	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-JPN_26_2_03
+# text =  하나는.
+1	하나는	하나+는	NUM	NR+JX	_	2	punct	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-JPN_26_2_04
+# text =  역사를 배워야 다른 나라과 사이좋게 지낼수 있을 가능성이 높기때문이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	9	advcl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	나라과	나라+과	ADV	NNG+JKB	_	6	obl	_	_
+5	사이좋게	사이+좋+게	ADV	NNG+VA+EC	_	6	advmod	_	_
+6	지낼수	지내+ㄹ+수	VERB	VV+ETM+NNB	_	7	nsubj	_	_
+7	있을	있+을	VERB	VX+ETM	_	8	acl	_	_
+8	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	높기때문이다	높+기+때문+이+다	VERB	VA+ETN+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_2_05
+# text =  자기 나라가 어떡해 성장했던지 그 중에 어떤 사건이 생겼지를 모르면 다른 나라를 종준하기는 커녕 자기 나라를 이해할수 없다.
+1	자기	자기	PRON	NP	_	2	nmod	_	_
+2	나라가	나라+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	어떡해	어떡하+아	VERB	VV+EC	_	4	advcl	_	_
+4	성장했던지	성장+하+았+던지	VERB	NNG+XSV+EP+ETM	_	10	ccomp	_	_
+5	그	그	PRON	MM	_	9	obl	_	_
+6	중에	중+에	ADP	NNB+JKB	_	5	case	_	_
+7	어떤	어떤	DET	MM	_	8	det	_	_
+8	사건이	사건+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	생겼지를	생기+었+지+를	VERB	VV+EP+EC+JKO	_	10	ccomp	_	_
+10	모르면	모르+면	VERB	VV+EC	_	18	advcl	_	_
+11	다른	다른	ADJ	MM	_	12	amod	_	_
+12	나라를	나라+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	종준하기는	종준+하+기+는	NOUN	NF+XSV+ETN+JX	_	18	advcl	_	_
+14	커녕	커녕	ADV	JX	_	13	goeswith	_	_
+15	자기	자기	PRON	NNG	_	16	nmod	_	_
+16	나라를	나라+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	이해할수	이해+하+ㄹ+수	VERB	NNG+XSV+ETM+NNB	_	18	nsubj	_	_
+18	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_26_2_06
+# text =  역사를 배워야 다른 나라랑 광계를 맞을 수 있고, 좋은 관계를 만들 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	14	advcl	_	_
+3	다른	다른	ADJ	MM	_	5	amod	_	_
+4	나라랑	나라+랑	NOUN	NNG+JKB	_	6	obl	_	_
+5	광계를	광계+를	NOUN	NF+JKO	_	6	conj	_	_
+6	맞을	맞+을	VERB	NV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있+고	VERB	VX+EC	_	14	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	11	amod	_	_
+11	관계를	관계+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	만들	만들+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_26_2_07
+# text =  둘은, 역사를 배워야 일상 생활이 더 재미있기 때문이다.
+1	둘은	둘+은	ADV	NR+JX	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	8	advcl	_	_
+5	일상	일상	NOUN	NNG	_	6	nmod	_	_
+6	생활이	생활+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	재미있기	재미+있+기	NOUN	NNG+VA+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_2_08
+# text =  마을에 있는 건물나 역사적인 디자인를 보고 어떤 역사가 있는지를 알면, 그 건물을 볼 때마다 자랑스릅게 되고 그 건물을 소준하게 지키고 싶다라고 생각이 나다.
+1	마을에	마을+에	ADV	NNG+JKB	_	2	obl	_	_
+2	있는	있+는	VERB	VV+ETM	_	5	acl	_	_
+3	건물나	건물+나	NOUN	NNG+JC	_	6	obj	_	_
+4	역사적인	역사+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+5	디자인를	디자인+를	NOUN	NNG+JKO	_	3	conj	_	_
+6	보고	보+고	VERB	VV+EC	_	10	advcl	_	_
+7	어떤	어떤	DET	MM	_	8	det	_	_
+8	역사가	역사+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있는지를	있+는지+를	VERB	VV+EC+JKO	_	10	ccomp	_	_
+10	알면	알+면	VERB	VV+EC	_	24	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	그	그	DET	MM	_	13	det	_	_
+13	건물을	건물+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	볼	보+ㄹ	VERB	VV+ETM	_	17	advcl	_	_
+15	때마다	때+마다	ADV	NNG+JX	_	14	mark	_	_
+16	자랑스릅게	자랑+스릅+게	NOUN	NNG+NA+EC	_	24	advcl	_	_
+17	되고	되+고	VERB	VX+EC	_	16	advcl	_	_
+18	그	그	DET	MM	_	19	det	_	_
+19	건물을	건물+을	NOUN	NNG+JKO	_	21	obj	_	_
+20	소준하게	소준+하+게	VERB	NNG+XSV+EC	_	21	advcl	_	_
+21	지키고	지키+고	VERB	VV+EC	_	24	ccomp	_	_
+22	싶다라고	싶+다+라고	AUX	VX+EC+JKQ	_	21	aux	_	_
+23	생각이	생각+이	NOUN	NNG+JKS	_	24	nsubj	_	_
+24	나다	나+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-JPN_26_2_09
+# text =  역사를 알아야 지금 남아 있는 역사적이것들을 지킬수있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알아야	알+아야	VERB	VV+EC	_	7	advcl	_	_
+3	지금	지금	ADV	MAG	_	4	advmod	_	_
+4	남아	남+아	VERB	VV+EC	_	6	acl	_	_
+5	있는	있+는	AUX	VX+ETM	_	4	aux	_	_
+6	역사적이것들을	역사+적+이+것+들+을	NOUN	NNG+XSN+NA+NNB+XSN+JKO	_	7	obj	_	_
+7	지킬수있다	지키+ㄹ+수+있+다	VERB	VV+ETM+NNB_VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_26_2_10
+# text =  셋은,역사를 배우면 더 깊이 생각 할 수 있기 때문이다.
+1	셋은,역사를	셋+은+,+역사+를	NOUN	NR+JX+SP+NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	깊이	깊이	ADV	MAG	_	4	advmod	_	_
+5	생각	생각	NOUN	NNG	_	5	obj	_	_
+6	할	할	X	VV+ETM	_	8	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있기	있+기	NOUN	VX+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_2_11
+# text =  옛날에 있었던 사건, 사고, 전쟁등을 공부해서.
+1	옛날에	옛날+에	ADV	NNG+JKB	_	2	obl	_	_
+2	있었던	있+었+던	VERB	VV+EP+ETM	_	3	acl	_	_
+3	사건	사건	NOUN	NNG	_	7	list	_	_
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	사고	사고	NOUN	NNG	_	7	list	_	_
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	전쟁등을	전쟁+등+을	NOUN	NNG+NNG+JKO	_	8	obj	_	_
+8	공부해서	공부+하+아서	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_26_2_12
+# text =  어떻게 했었더라면 그 사건들이 생기지 않았을까.
+1	어떻게	어떻+게	ADV	VA+EC	_	2	advmod	_	_
+2	했었더라면	하+았었+더라면	VERB	VV+EP+EC	_	5	advcl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	사건들이	사건+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	생기지	생기+지	VERB	VV+EC	_	0	root	_	_
+6	않았을까	않+았+을+까	AUX	VX+EP+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_26_2_13
+# text =  이 사건부터 무엇을 배울수 있을까을 생각할 수있다.
+1	이	이	DET	MM	_	2	det	_	_
+2	사건부터	사건+부터	ADV	NNG+JX	_	4	obl	_	_
+3	무엇을	무엇+을	NOUN	NP+JKO	_	4	obj	_	_
+4	배울수	배우+ㄹ+수	VERB	VV+ETM+NNB	_	5	nsubj	_	_
+5	있을까을	있+을까+을	VERB	VX+EC+EF	_	6	ccomp	_	_
+6	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수있다	수+있+다	VERB	VV+VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_26_2_14
+# text =  더 다시 그런 슬픈 것이 생기지 않도록 생각 할 수 있다 역사를 배워야.
+1	더	더	ADV	MAG	_	6	advmod	_	_
+2	다시	다시	ADV	MAG	_	6	advmod	_	_
+3	그런	그런	DET	MM	_	5	det	_	_
+4	슬픈	슬프+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	생기지	생기+지	VERB	VV+EC	_	11	advcl	_	_
+7	않도록	않+도록	AUX	VX+EC	_	6	aux	_	_
+8	생각	생각	NOUN	NNG	_	9	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	VERB	VX+EC	_	0	root	_	_
+12	역사를	역사+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	배워야	배우+어야	VERB	VV+EC	_	11	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_26_2_15
+# text =  다른 나라과 좋은 관계를 만들 수있고,역사적이 건물은,소중하게 생각할수있고, 역사부터 많은것을 배울 수 있어서.
+1	다른	다른	ADJ	MM+ETM	_	2	amod	_	_
+2	나라과	나라+과	NOUN	NNG+JC	_	5	obl	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	관계를	관계+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	만들	만들+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수있고	수+있+고	VERB	NNB+VX+EC	_	5	advcl	_	SpaceAfter=No
+7	,역사적이	,+역사+적+이	NOUN	SP+NNG+XSN+NA	_	8	nmod	_	_
+8	건물은	건물+은	NOUN	NNG+JX	_	10	obj	_	SpaceAfter=No
+9	,소중하게	,소중+하+게	NOUN	NNG+XSA+EC	_	10	advmod	_	SpaceAfter=No
+10	생각할수있고	생각+하+ㄹ+수+있+고	VERB	NNG+XSV+ETM+NNB+VX+EC	_	16	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	역사부터	역사+부터	ADV	NNG+JX	_	14	obl	_	_
+13	많은것을	많+은+것+을	ADV	VA+ETM+NNB+JKO	_	14	obj	_	_
+14	배울	배우+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있어서	있+어서	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_26_2_16
+# text =  역사를 배워야 한다고 생각하다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	ccomp	_	_
+3	한다고	하+ㄴ다고	AUX	VX+EC	_	2	aux	_	_
+4	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

@@ -1,0 +1,145 @@
+# sent_id = ARG-CZH_07_1_01
+# text = 조기언어교육의 장단점에 대해 살펴 보자.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장단점에	장단점+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해	대하+아	VERB	VV+EC	_	4	advcl	_	_
+4	살펴	살피+어	VERB	VV+EC	_	0	root	_	_
+5	보자	보+자	VERB	VX+EF	_	4	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_07_1_02
+# text = 우선, 우리가 어렸을 때 우리 뇌를 제일 빠르게 개발하기 때문에 조기 언어교육를 필요하다고 생각해요.
+1	우선	우선	ADV	MAG	_	15	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	15	punct	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	10	nsubj	_	_
+4	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	10	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	우리	우리	PRON	NP	_	7	nmod	_	_
+7	뇌를	뇌+를	NOUN	NNG+JKO	_	10	obj	_	_
+8	제일	제일	ADV	MAG	_	9	advmod	_	_
+9	빠르게	빠르+게	ADV	VA+EC	_	10	advmod	_	_
+10	개발하기	개발+하+기	VERB	NNG+XSV+ETN	_	14	obl	_	_
+11	때문에	때문+에	ADV	NNB+JKB	_	10	case	_	_
+12	조기	조기	NOUN	NNG	_	13	nmod	_	_
+13	언어교육를	언어+교육+를	NOUN	NNG+NNG+JKO	_	14	obj	_	_
+14	필요하다고	필요+하+다고	ADJ	NNG+XSA+EC	_	15	ccomp	_	_
+15	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_07_1_03
+# text = 어린이는 어른보다 외국어를 쉽게 배울 수 있기 때문이다.
+1	어린이는	어린이+는	NOUN	NNG+JX	_	5	nsubj	_	_
+2	어른보다	어른+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있기	있+기	NOUN	VX+ETN	_	8	nmod	_	_
+8	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_07_1_04
+# text = 물론, 외국어 책을 공부부다 게임을 하면서 공부하는 것이 더 좋을 것 같다.
+1	물론	물론	ADV	MAG	_	13	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	3	punct	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	책을	책+을	NOUN	NNG+JKO	_	8	obj	_	_
+5	공부부다	공부+부다	NOUN	NNG+NA	Typo=Yes	7	obl	_	_
+6	게임을	게임+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하면서	하+면서	VERB	VV+EC	_	8	advcl	_	_
+8	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	좋을	좋+을	ADJ	VA+ETM	_	12	acl	_	_
+12	것	것	NOUN	NNB	_	13	nsubj	_	_
+13	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_07_1_05
+# text = 외국인 부모님이 있는 아이들이 여러 가지 외국어 쉽게 할 수 있다.
+1	외국인	외국인	NOUN	NNG	_	2	nmod	_	_
+2	부모님이	부모+님+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+5	여러	여러	DET	MM	_	6	det	_	_
+6	가지	가지	NOUN	NNB	_	7	nmod	_	_
+7	외국어	외국어	NOUN	NNG	_	9	obj	_	_
+8	쉽게	쉽+게	ADV	VA+EC	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_07_1_06
+# text = 우리 어렸을 때부터 외국어 공부를 시작하면 빨리와 쉽게 배울 수 있어서 장점이다.
+1	우리	우리	PRON	NP	_	6	nsubj	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	6	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	외국어	외국어	NOUN	NNG	_	5	nmod	_	_
+5	공부를	공부+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+7	빨리와	빨리+와	ADV	MAG+JC	_	9	advmod	_	_
+8	쉽게	쉽+게	ADJ	VA+EC	_	7	conj	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어서	있+어서	VERB	VX+EC	_	12	advcl	_	_
+12	장점이다	장점+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_07_1_07
+# text = 반대로, 외국어 공부는 어린이와 같이 자연스럽게 해야 할 것이다.
+1	반대로	반대+로	ADV	NNG+JKB	_	10	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	공부는	공부+는	NOUN	NNG+JX	_	10	nsubj	_	_
+5	어린이와	어린이+와	ADV	NNG+JKB	_	8	obl	_	_
+6	같이	같이	ADV	MAG	_	8	advmod	_	_
+7	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	8	advmod	_	_
+8	해야	하+아야	VERB	VV+EC	_	10	acl	_	_
+9	할	하	AUX	VX+ETM	_	8	aux	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_07_1_08
+# text = 자연스럽게 하지 않으면 어린이 외국어 싫어하게 될 수도 있다.
+1	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	2	advmod	_	_
+2	하지	하+지	VERB	VV+EC	_	9	advcl	_	_
+3	않으면	않	AUX	VX+EC	_	2	aux	_	_
+4	어린이	어린이	NOUN	NNG	_	6	nsubj	_	_
+5	외국어	외국어	NOUN	NNG	_	6	obj	_	_
+6	싫어하게	싫어하+게	VERB	VV+EC	_	8	acl	_	_
+7	될	되+ㄹ	VERB	VX+ETM	_	6	advcl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_07_1_09
+# text = 그리고 외국어 공부 뿐만 아니라 모국어 공부도 필요한다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	외국어	외국어	NOUN	NNG	_	3	nmod	_	_
+3	공부	공부	NOUN	NNG	_	5	nsubj	_	_
+4	뿐만	뿐+만	ADP	JX+JX	_	3	case	_	_
+5	아니라	아니+라	ADJ	VCN+EC	_	8	advcl	_	_
+6	모국어	모국어	NOUN	NNG	_	7	nmod	_	_
+7	공부도	공부+도	NOUN	NNG+JX	_	8	obj	_	_
+8	필요한다	필요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_07_1_10
+# text = 조기언어교육은 단점보다 장점이 많아요.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	4	dislocated	_	_
+2	단점보다	단점+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	많아요	많+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_07_1_11
+# text = 그렇지만 아이들이 의견과 관심을 제일 중요하다고 생각한다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	7	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+3	의견과	의견+과	NOUN	NNG+JC	_	7	obj	_	_
+4	관심을	관심+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

@@ -1,0 +1,127 @@
+# sent_id = ARG-CHN_17_2_01
+# text = 성공은 실패의 어머니라는 진리가 있다.
+1	성공은	성공+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	실패의	실패+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	어머니라는	어머니+이+라는	ADJ	NNG+VCP+ETM	_	4	acl	_	_
+4	진리가	진리+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_17_2_02
+# text = 사람과 사람은 경쟁하는 과정에서 이긴 편과 진 편이 무조건 존재한다.
+1	사람과	사람+과	NOUN	NNG+JC	_	3	nsubj	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	1	conj	_	_
+3	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	과정에서	과정+에서	ADV	NNG+JKB	_	10	obl	_	_
+5	이긴	이기+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	편과	편+과	NOUN	NNG+JC	_	10	nsubj	_	_
+7	진	지+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	편이	편+이	NOUN	NNB+JKS	_	6	conj	_	_
+9	무조건	무조건	ADV	MAG	_	10	advmod	_	_
+10	존재한다	존재+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_17_2_03
+# text = 진 편은 어느 정도 실패하였다고 할 수 있겠죠?
+1	진	지+ㄴ	VERB	VV+ETM	_	2	acl	_	_
+2	편은	편+은	NOUN	NNB+JX	_	5	nsubj	_	_
+3	어느	어느	DET	MM	_	4	det	_	_
+4	정도	정도	NOUN	NNG	_	5	obl	_	_
+5	실패하였다고	실패+하+았+다고	VERB	NNG+XSV+EP+EC	_	6	ccomp	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있겠죠	있+겠+죠	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_17_2_04
+# text = ㄱ러면 진 사람은 실패를 외부로 느낀다.
+1	ㄱ러면	ㄱ러면	ADV	NA	Typo=Yes	6	cc	_	_
+2	진	지+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	사람은	사람+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	실패를	실패+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	외부로	외부+로	ADV	NNG+JKB	_	6	obl	_	_
+6	느낀다	느끼+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_17_2_05
+# text = 하지만 실패를 통해서 자신의 단점과 부족함은 무엇인지를 명확하게 깨닫게 해 줄 수 있으며 경쟁하는 과정에서 상대편의 장점을 배울 수 있기 때문에 경험을 쌓을 수 있다.
+1	하지만	하지만	ADV	MAJ	_	25	cc	_	_
+2	실패를	실패+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	통해서	통하+아서	VERB	VV+EC	_	13	advcl	_	_
+4	자신의	자신+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	단점과	단점+과	NOUN	NNG+JC	_	7	nsubj	_	_
+6	부족함은	부족+하+ㅁ+은	NOUN	NNG+XSA+ETN+JX	_	5	conj	_	_
+7	무엇인지를	무엇+이+ㄴ지+를	NOUN	NP+VCP+EC+JKO	_	9	ccomp	_	_
+8	명확하게	명확+하+게	ADV	NNG+XSA+EC	_	9	advmod	_	_
+9	깨닫게	깨닫+게	VERB	VV+EC	_	12	advcl	_	_
+10	해	하	AUX	VX+EC	_	9	acl	_	_
+11	줄	주+ㄹ	VERB	VX+ETM	_	9	advcl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있으며	있	AUX	VX+EC	_	25	obl	_	_
+14	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	과정에서	과정+에서	ADV	NNG+JKB	_	18	obl	_	_
+16	상대편의	상대+편+의	NOUN	NNG+NNG+JKG	_	17	nmod:poss	_	_
+17	장점을	장점+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	배울	배우+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있기	있+기	NOUN	VX+ETN	_	13	conj	_	_
+21	때문에	때문+에	ADV	NNB+JKB	_	20	case	_	_
+22	경험을	경험+을	NOUN	NNG+JKO	_	23	obj	_	_
+23	쌓을	쌓+을	VERB	VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-CHN_17_2_06
+# text = 그리고 인간은 경쟁이 있으면 사대방을 이기는 욕망이 있으면 어느 때보다 열심히 한다.
+1	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+2	인간은	인간+은	NOUN	NNG+JX	_	12	nsubj	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있으면	있+으면	ADJ	VA+EC	_	12	advcl	_	_
+5	사대방을	사대방+을	NOUN	NF+JKO	Typo=Yes	6	obj	_	_
+6	이기는	이기+는	VERB	VV+ETM	_	7	acl	_	_
+7	욕망이	욕망+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있으면	있+으면	VERB	VV+EC	_	12	advcl	_	_
+9	어느	어느	DET	MM	_	10	det	_	_
+10	때보다	때+보다	ADV	NNG+JKB	_	12	obl	_	_
+11	열심히	열심히	ADV	MAG	_	12	advmod	_	_
+12	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_17_2_07
+# text = 중국에서 관란에 살아가고 편안함에 죽다는 진리는 논넌에서 존재한다.
+1	중국에서	중국+에서	ADV	NNP+JKB	_	8	obl	_	_
+2	관란에	관란+에	ADV	NF+JKB	Typo=Yes	3	obl	_	_
+3	살아가고	살아가+고	VERB	VV+EC	_	5	advcl	_	_
+4	편안함에	편안+하+ㅁ+에	ADV	NNG+XSA+ETN+JKB	_	5	obl	_	_
+5	죽다는	죽+다는	VERB	VV+ETM	_	6	acl	_	_
+6	진리는	진리+는	NOUN	NNG+JX	_	8	nsubj	_	_
+7	논넌에서	논넌+에서	ADV	NF+JKB	Typo=Yes	8	obl	_	_
+8	존재한다	존재+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_17_2_08
+# text = 경쟁은 그 만큼 곤란이라고 할 수 있겠죠?
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	그	그	DET	MM	_	4	obl	_	_
+3	만큼	만큼	NOUN	NNB	_	2	case	_	_
+4	곤란이라고	곤란+이+라고	ADJ	NNG+VCP+EC	_	5	ccomp	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있겠죠	있+겠+죠	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_17_2_09
+# text = 따라서 협동과 경쟁 중에서 경쟁은 성공에 더 큰 영형을 미친다고 생각한다.
+1	따라서	따라서	ADV	MAJ	_	11	cc	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	10	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	경쟁은	경쟁+은	NOUN	NNG+JX	_	10	nsubj	_	_
+6	성공에	성공+에	ADV	NNG+JKB	_	10	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	영형을	영형+을	NOUN	NF+JKO	Typo=Yes	10	obj	_	_
+10	미친다고	미치+ㄴ다고	VERB	VV+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

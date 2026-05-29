@@ -1,0 +1,82 @@
+# sent_id = ARG-ENG_21_2_01
+# text = 현재 역사 책에 쓰여있는 글은 과거의 가장 중요하고 우리가 아는 현재에게 깊은 영향을 주는 사건들이 모여 있다.
+1	현재	현재	ADV	MAG	_	4	advmod	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	책에	책+에	ADV	NNG+JKB	_	4	obl	_	_
+4	쓰여있는	쓰이+어+있+는	VERB	VV+EC+VX+ETM	_	5	acl	_	_
+5	글은	글+은	NOUN	NNG+JX	_	16	dislocated	_	_
+6	과거의	과거+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+7	가장	가장	ADV	MAG	_	8	advmod	_	_
+8	중요하고	중요+하+고	ADJ	NNG+XSA+EC	_	15	acl	_	_
+9	우리가	우리+가	PRON	NP+JKS	_	10	nsubj	_	_
+10	아는	알+는	VERB	VV+ETM	_	15	acl	_	_
+11	현재에게	현재+에게	ADV	NNG+JKB	_	14	obl	_	_
+12	깊은	깊+은	ADJ	VA+ETM	_	13	amod	_	_
+13	영향을	영향+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	주는	주+는	VERB	VV+ETM	_	8	conj	_	_
+15	사건들이	사건+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+16	모여	모이+어	VERB	VV+EC	_	0	root	_	_
+17	있다	있	AUX	VX+EF	_	16	aux	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_21_2_02
+# text = 그래서 역사를 배운다고 하면 인간의 심리 그리고 행동을 배우는 것이다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배운다고	배우+ㄴ다고	VERB	VV+EC	_	10	advcl	_	_
+4	하면	하	AUX	VX+EC	_	3	aux	_	_
+5	인간의	인간+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	심리	심리	NOUN	NNG	_	9	obj	_	_
+7	그리고	그리고	ADV	MAJ	_	10	cc	_	_
+8	행동을	행동+을	NOUN	NNG+JKO	_	6	conj	_	_
+9	배우는	배우+는	VERB	VV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_21_2_03
+# text = 그러므로 역사를 잘 배워야 앞으로 어떤 행동을 해야 할지, 그리고 어떤 행동을 피해야 할지가 알 수 있다.
+1	그러므로	그러므로	ADV	MAJ	_	18	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	18	advcl	_	_
+5	앞으로	앞+으로	ADV	NNG+JKB	_	8	obl	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	행동을	행동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	해야	하+아야	VERB	VV+EC	_	16	ccomp	_	_
+9	할지	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	그리고	그리고	ADV	MAJ	_	14	cc	_	_
+12	어떤	어떤	DET	MM	_	13	det	_	_
+13	행동을	행동+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	피해야	피하+아야	VERB	VV+EC	_	16	obj	_	_
+15	할지가	하	AUX	VX+EF+JKS	_	14	aux	_	_
+16	알	알+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_21_2_04
+# text = 현재 세계를 살펴보면 다양한 나라, 인류, 언어 등이 있지만, 역사를 배우면 인간은 모두 하나의 장소에서 왔다 알 수가 있다.
+1	현재	현재	NOUN	NNG	_	2	nmod	_	_
+2	세계를	세계+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	살펴보면	살피+어+보+면	VERB	VV+EC+VX+EC	_	11	advcl	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	나라	나라	NOUN	NNG	_	11	nsubj	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	인류	인류	NOUN	NNG	_	5	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	언어	언어	NOUN	NNG	_	5	list	_	_
+10	등이	등+이	NOUN	NNB+JKS	_	7	case	_	_
+11	있지만	있+지만	VERB	VV+EC	_	22	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	역사를	역사+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	배우면	배우+면	VERB	VV+EC	_	22	advcl	_	_
+15	인간은	인간+은	NOUN	NNG+JX	_	19	nsubj	_	_
+16	모두	모두	ADV	MAG	_	19	advmod	_	_
+17	하나의	하나+의	NOUN	NR+JKG	_	18	nmod:poss	_	_
+18	장소에서	장소+에서	ADV	NNG+JKB	_	19	obl	_	_
+19	왔다	오+았+다	VERB	VV+EP+EF	_	20	ccomp	_	_
+20	알	알+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수가	수+가	NOUN	NNB+JKS	_	22	nsubj	_	_
+22	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_

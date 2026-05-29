@@ -1,0 +1,144 @@
+# sent_id = ARG-JPN_41_3_01
+# text =  나는 협동을 더 선호하는 편이다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	편이다	편+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_41_3_02
+# text =  그 이유는 협동을 하면 아이디어가 많아지고 혼자서는 떠오르지도 않았던 것을 할 수 있다고 생각하기 때문이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	15	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하면	하+면	VERB	VV+EC	_	13	advcl	_	_
+5	아이디어가	아이디어+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많아지고	많+아지+고	VERB	VA+XSV+EC	_	13	advcl	_	_
+7	혼자서는	혼자+서+는	VERB	NNG+JKS+JX	_	8	nsubj	_	_
+8	떠오르지도	떠오르+지+도	VERB	VV+EC+JX	_	10	acl	_	_
+9	않았던	않+았+던	AUX	VX+EP+ETM	_	8	aux	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	15	nmod	_	_
+15	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_41_3_03
+# text =  유학했을 때 그룹활동이 많았다.
+1	유학했을	유학+하+았+을	VERB	NNG+XSV+EP+ETM	_	4	advcl	_	_
+2	때	때	NOUN	NNG	_	1	mark	_	_
+3	그룹활동이	그룹+활동+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+4	많았다	많+았+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_41_3_04
+# text =  어떤 수업에서는 그룹발표를 했다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	수업에서는	수업+에서+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	그룹발표를	그룹+발표+를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+4	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_41_3_05
+# text =  한 명씩 아이디어나 생각이 있어서 그것들을 정리하는건 결코 쉽지는 않았지만 마지막으로는 하나의 작품이 되어서 좋은 발표가 되었다고 생각한다.
+1	한	한	NUM	MM	_	2	det	_	_
+2	명씩	명+씩	NOUN	NNB+XSN	_	3	nmod	_	_
+3	아이디어나	아이디어+나	NOUN	NNG+JC	_	5	nsubj	_	_
+4	생각이	생각+이	NOUN	NNG+JKS	_	3	conj	_	_
+5	있어서	있+어서	VERB	VV+EC	_	9	advcl	_	_
+6	그것들을	그것+들+을	NOUN	NNG+XSN+JKO	_	7	obj	_	_
+7	정리하는건	정리+하+는+것+은	VERB	NNG+XSV+ETM+NNB+JX	_	8	nsubj	_	_
+8	결코	결코	NOUN	MAG	_	9	advmod	_	_
+9	쉽지는	쉽+지+는	VERB	NNG+EC+JX	_	14	advcl	_	_
+10	않았지만	않+았+지만	AUX	VX+EP+EC	_	9	aux	_	_
+11	마지막으로는	마지막+으로+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+12	하나의	하나+의	NOUN	NR+JKG	_	13	nmod:poss	_	_
+13	작품이	작품+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	되어서	되+어서	VERB	VV+EC	_	17	advcl	_	_
+15	좋은	좋+은	ADJ	VA+ETM	_	16	amod	_	_
+16	발표가	발표+가	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	되었다고	되+었+다고	VERB	VV+EP+EC	_	18	ccomp	_	_
+18	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_41_3_06
+# text =  또 협동을 해서 부담을 줄일 수도 있다.
+1	또	또	ADV	MAJ	_	7	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	해서	하+아서	VERB	VV+EC	_	7	advcl	_	_
+4	부담을	부담+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	줄일	줄이+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_41_3_07
+# text =  예를 들어 1000개 만들어야 하는 게 있다고 친다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	8	advcl	_	_
+3	1000개	1000+개	NOUN	SN+NNB	_	4	obj	_	_
+4	만들어야	만들+어야	VERB	VV+EC	_	6	acl	_	_
+5	하는	하+는	AUX	VX+ETM	_	4	aux	_	_
+6	게	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VV+EC	_	8	ccomp	_	_
+8	친다	치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_41_3_08
+# text =  한 명으로 하는 건 힘들지만 10명으로 하면 한 명은 100개 만들면 된다.
+1	한	한	NUM	MM	_	2	det	_	_
+2	명으로	명+으로	ADV	NNG+JKB	_	5	obl	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	건	것+은	NOUN	NNB+JX	_	5	nsubj	_	_
+5	힘들지만	힘들+지만	VERB	VA+EC	_	11	advcl	_	_
+6	10명으로	10+명+으로	ADV	SN+NNB+JKB	_	7	obl	_	_
+7	하면	하+면	VERB	VV+EC	_	11	advcl	_	_
+8	한	한	NUM	MM	_	9	nummod	_	_
+9	명은	명+은	NOUN	NNB+JX	_	11	nsubj	_	_
+10	100개	100+개	NOUN	SN+NNB	_	11	obj	_	_
+11	만들면	만들+면	VERB	VV+EC	_	0	root	_	_
+12	된다	되+ㄴ다	VERB	VX+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_41_3_09
+# text =  부담뿐만 아니라 시간도 줄일 수 있다.
+1	부담뿐만	부담+뿐+만	NOUN	NNG+JX+JX	_	2	nsubj	_	_
+2	아니라	아니+라	VERB	VCN+EC	_	6	advcl	_	_
+3	시간도	시간+도	NOUN	NNG+JX	_	4	obj	_	_
+4	줄일	줄이+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_41_3_10
+# text =  게다가 협동을 함으로써 사람들이 서로 웃어줄 수 있다는 이미지가 있다.
+1	게다가	게다가	ADV	MAG	_	3	advmod	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	함으로써	하+ㅁ+으로써	ADV	VV+ETN+JKB	_	10	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	서로	서로	ADV	MAG	_	6	advmod	_	_
+6	웃어줄	웃어주+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다는	있+다는	VERB	VX+ETM	_	9	acl	_	_
+9	이미지가	이미지+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_41_3_11
+# text =  협동이라는 단어를 들었을 때 어렵울 때도 있지만 전체적으로 긍정적인 이미지가 더 크다.
+1	협동이라는	협동+이+라는	VERB	NNP+VCP+ETM	_	2	acl	_	_
+2	단어를	단어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	들었을	듣+었+을	VERB	VV+EP+ETM	_	7	advcl	_	_
+4	때	때	ADV	NNG	_	3	goeswith	_	_
+5	어렵울	어렵+울	VERB	VA+NA	_	6	acl	_	_
+6	때도	때+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있지만	있+지만	VERB	VV+EC	_	12	advcl	_	_
+8	전체적으로	전체+적+으로	ADV	NNG+XSN+JKB	_	12	obl	_	_
+9	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	10	amod	_	_
+10	이미지가	이미지+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	크다	크+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

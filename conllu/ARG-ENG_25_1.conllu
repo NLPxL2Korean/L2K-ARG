@@ -1,0 +1,96 @@
+# sent_id = ARG-ENG_25_1_01
+# text = 조기언어교육은 어떤 부분이 좋고 어떤 부분이 좋지 않는다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	4	dislocated	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	부분이	부분+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	좋고	좋+고	ADJ	VA+EC	_	0	root	_	_
+5	어떤	어떤	DET	MM	_	6	det	_	_
+6	부분이	부분+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	좋지	좋+지	ADJ	VA+EC	_	4	conj	_	_
+8	않는다	않	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_25_1_02
+# text = 언어교육이 일찍 시작되면 아이들의 언어 실력이 아주 빨리 늘 것이다.
+1	언어교육이	언어+교육+이	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	시작되면	시작+되+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+4	아이들의	아이+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	실력이	실력+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+7	아주	아주	ADV	MAG	_	8	advmod	_	_
+8	빨리	빨리	ADV	VA	_	9	advmod	_	_
+9	늘	늘+ㄹ	ADJ	VA+ETM	_	10	acl	_	_
+10	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_25_1_03
+# text = 어린이 될 전에 아이들의 뇌는 언어 배우기 정말 쉽니다.
+1	어린이	어린이	NOUN	NNG	_	2	nsubj	_	_
+2	될	되+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+3	전에	전+에	ADV	NNG+JKB	_	2	mark	_	_
+4	아이들의	아이+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	뇌는	뇌+는	NOUN	NNG+JX	_	9	dislocated	_	_
+6	언어	언어	NOUN	NNG	_	7	obj	_	_
+7	배우기	배우+기	VERB	VV+ETN	_	9	nsubj	_	_
+8	정말	정말	ADV	MAG	_	9	advmod	_	_
+9	쉽니다	쉬+ㅂ니다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_25_1_04
+# text = 어린이면 언어 배우기 더 어렵고 발음이 부족한다.
+1	어린이면	어린이+이+면	ADJ	NNG+VCP+EC	_	5	advcl	_	_
+2	언어	언어	NOUN	NNG	_	3	obj	_	_
+3	배우기	배우+기	VERB	VV+ETN	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	어렵고	어렵+고	ADJ	VA+EC	_	0	root	_	_
+6	발음이	발음+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	부족한다	부족+하+ㄴ다	VERB	NNG+XSV+EF	_	5	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_25_1_05
+# text = 하지만 언어교육이 너무 심각하면 아이들은 언어배우기를 싫어질수 있다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	언어교육이	언어+교육+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	심각하면	심각+하+면	ADJ	XR+XSA+EC	_	8	advcl	_	_
+5	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+6	언어배우기를	언어+배우+기+를	NOUN	NNG+VV+ETN+JKO	_	7	obj	_	_
+7	싫어질수	싫+어지+ㄹ+수	VERB	VA+XSV+ETM+NNB	_	8	nsubj	_	_
+8	있다	있+다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_25_1_06
+# text = 그려면 앞으로 언어를 안 배울 것이다.
+1	그려면	그려면	ADV	NA	Typo=Yes	6	cc	_	_
+2	앞으로	앞+으로	ADV	NNG+JKB	_	5	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	안	안	ADV	MAG	_	5	advmod	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_25_1_07
+# text = 그래서 언어교육이 일찍 시작되면 선생님들이 재미있게 가르쳐야 된다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	언어교육이	언어+교육+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	시작되면	시작+되+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+5	선생님들이	선생+님+들+이	NOUN	NNG+XSN+XSN+JKS	_	7	nsubj	_	_
+6	재미있게	재미+있+게	ADV	NNG+VA+EC	_	7	advmod	_	_
+7	가르쳐야	가르치+어야	VERB	VV+EC	_	0	root	_	_
+8	된다	되+ㄴ다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_25_1_08
+# text = 언어 배우기 재미있게 하면 아이들은 언어 공부가 무섭지 않겠다.
+1	언어	언어	NOUN	NNG	_	2	obj	_	_
+2	배우기	배우+기	VERB	VV+ETN	_	4	obj	_	_
+3	재미있게	재미+있+게	ADV	NNG+VA+EC	_	4	advmod	_	_
+4	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+5	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	8	dislocated	_	_
+6	언어	언어	NOUN	NNG	_	7	nmod	_	_
+7	공부가	공부+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	무섭지	무섭+지	ADJ	VA+EC	_	0	root	_	_
+9	않겠다	않	AUX	VX+EP+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_

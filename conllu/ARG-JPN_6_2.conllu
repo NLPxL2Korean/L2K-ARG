@@ -1,0 +1,192 @@
+# sent_id = ARG-JPN_06_2_01
+# text =  나는 사람은 역사를 배워야 한다고 본다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	한다고	하+ㄴ다고	AUX	VX+EC	_	4	aux	_	_
+6	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_06_2_02
+# text =  그 이유는 2개 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	dislocated	_	_
+3	2개	2+개	NOUN	SN+NNB	_	4	nsubj	_	_
+4	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_06_2_03
+# text =  첫째는 역사를 배우면 사람마다 다른 가치관을 알고 있기 때문이다.
+1	첫째는	첫째+는	NOUN	NR+JX	_	9	obl	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	7	advcl	_	_
+4	사람마다	사람+마다	ADV	NNG+JX	_	7	obl	_	_
+5	다른	다른	ADJ	MM	_	6	amod	_	_
+6	가치관을	가치관+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	알고	알+고	VERB	VV+EC	_	9	nmod	_	_
+8	있기	있+기	AUX	VX+ETN	_	7	aux	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_2_04
+# text =  역사는 엣날 사람들의 경험이나 사건이 많이 있다.
+1	역사는	역사+는	NOUN	NNG+JX	_	7	dislocated	_	_
+2	엣날	엣날	NOUN	NNG	_	3	nmod	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	경험이나	경험+이나	NOUN	NNG+JC	_	7	nsubj	_	_
+5	사건이	사건+이	NOUN	NNG+JKS	_	4	conj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_06_2_05
+# text =  그런 것을 배우면 사람들이 왜 이런 것을 했던지 아니면 해야 했던지를 알 수 있다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+5	왜	왜	ADV	MAG	_	10	advmod	_	_
+6	이런	이런	DET	MM	_	7	det	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+8	했던지	하+았+던지	VERB	VV+EP+ETM	_	9	cccomp	_	_
+9	아니면	아니+면	VERB	VCN+EC	_	14	advcl	_	_
+10	해야	하+아야	VERB	VV+EC	_	12	ccomp	_	_
+11	했던지를	하+았+던지+를	VERB	VX+EP+EC+JKO	_	10	aux	_	_
+12	알	알+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_06_2_06
+# text =  그런 시점을 있는 사실을 알 고 있으면 우리 현실 사회에서도 문제가 있을 때나 사건이 있을 때 다른 시각으로 생각할 수 있다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	시점을	시점+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	사실을	사실+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	알	알+ㄹ	VERB	VV+ETM	_	21	advcl	_	_
+6	고	고	NOUN	EC	_	5	goeswith	_	_
+7	있으면	있+으면	VERB	VX+EC	_	5	aux	_	_
+8	우리	우리	PRON	NP	_	9	nmod	_	_
+9	현실	현실+성+이	NOUN	NNG	_	10	nmod	_	_
+10	사회에서도	사회+에서+도	ADV	NNG+JKB+JX	_	21	obl	_	_
+11	문제가	문제+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	있을	있+을	VERB	VV+ETM	_	19	advcl	_	_
+13	때나	때+나	ADV	NNG+JC	_	12	mark	_	_
+14	사건이	사건+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+15	있을	있+을	VERB	VV+ETM	_	12	conj	_	_
+16	때	때	ADV	NNG	_	15	mark	_	_
+17	다른	다른	ADJ	MM	_	18	amod	_	_
+18	시각으로	시각+으로	ADV	NNG+JKB	_	19	obl	_	_
+19	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-JPN_06_2_07
+# text =  사람마다 다른 생각이 있다는 것을 알기 위해서도 역사는 중요하다.
+1	사람마다	사람+마다	ADV	NNG+JX	_	4	obl	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	생각이	생각+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있다는	있+다는	VERB	VV+ETM	_	5	acl	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	알기	알+기	NOUN	VV+ETN	_	7	obj	_	_
+7	위해서도	위하+아서+도	VERB	VV+EC+JX	_	9	advcl	_	_
+8	역사는	역사+는	NOUN	NNG+JX	_	9	nsubj	_	_
+9	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_06_2_08
+# text =  들째는 역사를 배우면 다른 국가의 있는 사람들과 의사소통을 할 수 있는 것이다.
+1	들째는	들째+는	NOUN	NF+JX	_	12	obl	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	12	advcl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	국가의	국가+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	9	obl	_	_
+8	의사소통을	의사+소통+을	NOUN	NNG+NNG+JKO	_	9	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있는	있+는	VERB	VX+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_06_2_09
+# text =  역사를 배우면 사람들의 다른 생각을 알 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	생각을	생각+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	알	알+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_06_2_10
+# text =  그것은 역사를 배우면 다른 나라에 있는 사람들과 통할 수도 있다는 것이다.
+1	그것은	그것+은	PRON	NP+JX	_	11	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	나라에	나라+에	ADV	NNG+JKB	_	6	obl	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	8	obl	_	_
+8	통할	통하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다는	있+다는	VERB	VX+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_06_2_11
+# text =  예를 들면 일본과 한국이 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	5	advcl	_	_
+3	일본과	일본+과	NOUN	NNP+JC	_	5	nsubj	_	_
+4	한국이	한국+이	NOUN	NNP+JKS	_	3	conj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_06_2_12
+# text =  일본과 한국은 오랫 동안 문제가 있고 아직도 해결할 수 없다.
+1	일본과	일본+과	NOUN	NNP+JC	_	6	dislocated	_	_
+2	한국은	한국+은	NOUN	NNP+JX	_	1	conj	_	_
+3	오랫	오랫	ADV	NNG	_	6	advmod	_	_
+4	동안	동안	ADP	NNG	_	3	goeswith	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	0	root	_	_
+7	아직도	아직+도	ADV	MAG+JX	_	10	advmod	_	_
+8	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	6	conj	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VX+EF	_	6	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_06_2_13
+# text =  그것는 역사를 잘 모르는 사람이 많기 떄문이라고 생각한다.
+1	그것는	그것+는	NOUN	NP+NA	_	7	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	모르는	모르+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많기	많+기	NOUN	VA+ETN	_	7	nmod	_	_
+7	떄문이라고	떄문+이+라고	VERB	NNG+VCP+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_06_2_14
+# text =  한국 분들이 뭐를 원하는지, 그리고 일본에 뭐가 부족하고 있는지를 더 이해해야 한다.
+1	한국	한국	NOUN	NNP	_	4	nsubj	_	_
+2	분들이	분+들+이	NOUN	XSN+XSN+JKS	_	1	flat	_	_
+3	뭐를	뭐+를	NOUN	NP+JKO	_	4	obj	_	_
+4	원하는지	원하+는지	VERB	VV+EC	_	12	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+7	일본에	일본+에	ADV	NNP+JKB	_	9	obl	_	_
+8	뭐가	뭐+가	PRON	NP+JKS	_	9	nsubj	_	_
+9	부족하고	부족+하+고	VERB	NNG+XSA+EC	_	12	ccomp	_	_
+10	있는지를	있+는지+를	AUX	VX+EC+JKO	_	9	aux	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	이해해야	이해+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+13	한다	하+ㄴ다	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_

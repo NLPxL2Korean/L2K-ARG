@@ -1,0 +1,179 @@
+# sent_id = ARG-CZH_05_3_01
+# text = 협동과 경쟁.
+1	협동과	협동+과	NOUN	NNG+JC	_	0	root	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-CZH_05_3_02
+# text = 이 단어 둘 다 요즘 많이 만날 수 있는 단어들입니다.
+1	이	이	DET	MM	_	2	det	_	_
+2	단어	단어	NOUN	NNG	_	10	nsubj	_	_
+3	둘	둘	NUM	NR	_	2	flat	_	_
+4	다	다	ADV	MAG	_	7	advmod	_	_
+5	요즘	요즘	ADV	NNG	_	7	advmod	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	만날	만나+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있는	있+는	VERB	VX+ETM	_	10	acl	_	_
+10	단어들입니다	단어+들+이+ㅂ니다	ADJ	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_05_3_03
+# text = 학교생활 할때도 취직할때도 남자/여자 친구를 찾고 싶을 때도.
+1	학교생활	학교+생활	NOUN	NNG+NNG	_	2	obj	_	_
+2	할때도	하+ㄹ+때+도	NOUN	VV+ETM+NNB+JX	_	0	root	_	_
+3	취직할때도	취직+하+ㄹ+때+도	VERB	NNG+XSV+ETM+NNB+JX	_	2	conj	_	_
+4	남자/여자	남자+/+여자	NOUN	NNG+SP+NNG	_	5	nmod	_	_
+5	친구를	친구+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	찾고	찾+고	VERB	VV+EC	_	8	acl	_	_
+7	싶을	싶	AUX	VX+ETM	_	6	aux	_	_
+8	때도	때+도	NOUN	NNB+JX	_	2	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_05_3_04
+# text = 그래서 개인적으로 선호하는 것이 무엇일까요?
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	무엇일까요	무엇+이+ㄹ까요	VERB	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_05_3_05
+# text = 제 답은 협동입니다!
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	답은	답+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	협동입니다	협동+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+4	!	!	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_05_3_06
+# text = 제가 경쟁 때문에 스트레스밖에 안 받는 사람이라서 경쟁은 제한테 좋은 영향을 주지는 않습니다!
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	6	obl	_	_
+3	때문에	때문+에	ADV	NNB+JKB	_	2	case	_	_
+4	스트레스밖에	스트레스+밖에	NOUN	NNG+JX	_	6	obj	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	받는	받+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람이라서	사람+이+라서	ADJ	NNG+VCP+EC	_	12	advcl	_	_
+8	경쟁은	경쟁+은	NOUN	NNG+JX	_	12	nsubj	_	_
+9	제한테	제+한테	PRON	NP+JKB	_	12	obl	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	11	amod	_	_
+11	영향을	영향+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	주지는	주+지+는	VERB	VV+EC+JX	_	0	root	_	_
+13	않습니다	않	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	!	!	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_05_3_07
+# text = '갱쟁이 있어야 사람들의 능력이 더 늘어난다 '라는 말이 있잖아요.
+1	'갱쟁이	'+갱쟁+이	NOUN	SS+NF+JKS	Typo=Yes	2	nsubj	_	_
+2	있어야	있+어야	VERB	VV+EC	_	6	advcl	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	능력이	능력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	늘어난다	늘어나+ㄴ다	VERB	VV+EC	_	8	acl	_	_
+7	'라는	'+라는	ADP	SS+JKQ	_	6	case	_	_
+8	말이	말+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있잖아요	있+잖아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_05_3_08
+# text = 저의 경우는 다릅니다.
+1	저의	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	경우는	경우+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	다릅니다	다르+ㅂ니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_05_3_09
+# text = 경쟁이 심하면 생각 제대로 못하는 사람입니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	심하면	심하+면	ADJ	VA+EC	_	6	advcl	_	_
+3	생각	생각	NOUN	NNG	_	5	obj	_	_
+4	제대로	제대로	ADV	MAG	_	5	advmod	_	_
+5	못하는	못하+는	VERB	VV+ETM	_	6	acl	_	_
+6	사람입니다	사람+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_05_3_10
+# text = 그리고 원수로 말고 탄 사람들과 친하게 지내고 싶다는 마음을 가지고 있는 사람입니다.
+1	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+2	원수로	원수+로	ADV	NNG+JKB	_	3	obl	_	_
+3	말고	말+고	VERB	VV+EC	_	7	advcl	_	_
+4	탄	타+ㄴ	VERB	NV+ETM	Typo=Yes	5	acl	_	_
+5	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	7	obl	_	_
+6	친하게	친하+게	ADV	VA+EC	_	7	advmod	_	_
+7	지내고	지내+고	VERB	VV+EC	_	9	acl	_	_
+8	싶다는	싶	AUX	VX+ETM	_	7	aux	_	_
+9	마음을	마음+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	가지고	가지+고	VERB	VV+EC	_	12	acl	_	_
+11	있는	있	AUX	VX+ETM	_	10	aux	_	_
+12	사람입니다	사람+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_05_3_11
+# text = 같이 일하고 같이 새로운 아이디어를 생각하고 같이 계획을 세우고 현실로 바꾸는 것은 경쟁보다 더 좋은 느낌이 안 나옵니까?
+1	같이	같이	ADV	MAG	_	2	advmod	_	_
+2	일하고	일+하+고	VERB	NNG+XSV+EC	_	6	advcl	_	_
+3	같이	같이	ADV	MAG	_	6	advmod	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	아이디어를	아이디어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	9	advcl	_	_
+7	같이	같이	ADV	MAG	_	9	advmod	_	_
+8	계획을	계획+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	세우고	세우+고	VERB	VV+EC	_	11	advcl	_	_
+10	현실로	현실+로	ADV	NNG+JKB	_	11	obl	_	_
+11	바꾸는	바꾸+는	VERB	VV+ETM	_	12	acl	_	_
+12	것은	것+은	NOUN	NNB+JX	_	18	dislocated	_	_
+13	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	15	obl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	좋은	좋+은	ADJ	VA+ETM	_	16	acl	_	_
+16	느낌이	느낌+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+17	안	안	ADV	MAG	_	18	advmod	_	_
+18	나옵니까	나오+ㅂ니까	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+19	?	?	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_05_3_12
+# text = 실은 가끔 다 누구와 같이 하는 것이 귀찮아질 수 있다는 것이 알고 있습니다.
+1	실은	실은	ADV	MAG	_	12	advmod	_	_
+2	가끔	가끔	ADV	MAG	_	8	advmod	_	_
+3	다	다	ADV	MAG	_	6	advmod	_	_
+4	누구와	누구+와	PRON	NP+JKB	_	6	obl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	귀찮아질	귀찮+아지+ㄹ	VERB	VA+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다는	있+다는	VERB	VX+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	알고	알+고	VERB	VV+EC	_	0	root	_	_
+13	있습니다	있	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_05_3_13
+# text = 그래서 그때에는 여기 저기 그냥 혼자서 뭔가를 열심히 해내고 다시 협동할 마음 준비하면 되죠 뭐.
+1	그래서	그래서	ADV	MAJ	_	13	cc	_	_
+2	그때에는	그+때+에+는	ADV	MM+NNB+JKB+JX	_	9	obl	_	_
+3	여기	여기	PRON	NP	_	9	obl	_	_
+4	저기	저기	PRON	NP	_	9	obl	_	_
+5	그냥	그냥	ADV	MAG	_	9	advmod	_	_
+6	혼자서	혼자서	ADV	MAG	_	9	nsubj	_	_
+7	뭔가를	뭐+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	9	obj	_	_
+8	열심히	열심히	ADV	MAG	_	9	advmod	_	_
+9	해내고	하+아+내+고	VERB	VV+EC+VX+EC	_	13	advcl	_	_
+10	다시	다시	ADV	MAG	_	13	advmod	_	_
+11	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	마음	마음	NOUN	NNG	_	13	obj	_	_
+13	준비하면	준비+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+14	되죠	되+죠	VERB	VX+EC	_	13	advcl	_	_
+15	뭐	뭐	PRON	NP	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_05_3_14
+# text = 하긴 누구와 협동을 해야 하는지에도 달려있긴 합니다만.
+1	하긴	하긴	ADV	MAJ	_	6	advmod	_	_
+2	누구와	누구+와	PRON	NP+JKB	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	해야	하+아야	VERB	VV+EC	_	6	obl	_	_
+5	하는지에도	하	AUX	VX+EC+JKB+JX	_	4	aux	_	_
+6	달려있긴	달리+어+있+기+ㄴ	VERB	VV+EC+VX+ETN+JX	_	0	root	_	_
+7	합니다만	하	AUX	VX+EF+JX	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_

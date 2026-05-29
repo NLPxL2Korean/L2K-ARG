@@ -1,0 +1,164 @@
+# sent_id = ARG-HENG_04_3_01
+# text = 저는 협도를 결쟁보다 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협도를	협도+를	NOUN	NF+JKO	_	4	obj	_	_
+3	결쟁보다	결쟁+보다	ADV	NF+JKB	_	4	obl	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_04_3_02
+# text = 재성격도 그러치만, 저는 결쟁하는 자채가 불편하고 부담스러워요.
+1	재성격도	재+성격+도	NOUN	NF+NNG+JX	_	2	nsubj	_	_
+2	그러치만	그러치+만	VERB	NV+EC	_	7	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	저는	저+는	PRON	NP+JX	_	7	dislocated	_	_
+5	결쟁하는	결쟁+하+는	VERB	NF+XSV+ETM	_	6	acl	_	_
+6	자채가	자채+가	NOUN	NF+JKS	_	7	nsubj	_	_
+7	불편하고	불편+하+고	VERB	NNG+XSA+EC	_	0	root	_	_
+8	부담스러워요	부담+스럽+어요	VERB	NNG+XSA+EF	_	7	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_04_3_03
+# text = 자기인생을 사는 동안 무조건 다른 사람을 이겨야 돼고 더 잘해야 돼는 생각을 가지고 하루하루 지내는 거는 너무 슬플것 같아요.
+1	자기인생을	자기+인생+을	NOUN	NNG+NNG+JKO	_	2	obj	_	_
+2	사는	살+는	VERB	VV+ETM	_	15	advcl	_	_
+3	동안	동안	ADV	NNG	_	2	mark	_	_
+4	무조건	무조건	ADV	MAG	_	7	advmod	_	_
+5	다른	다른	ADJ	MM	_	6	amod	_	_
+6	사람을	사람+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	이겨야	이기+어야	VERB	VV+EC	_	12	acl	_	_
+8	돼고	돼+고	AUX	NA+EC	_	7	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	잘해야	잘하+아야	VERB	VV+EC	_	7	conj	_	_
+11	돼는	돼+고	VERB	NA+ETM	_	10	advcl	_	_
+12	생각을	생각+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	가지고	가지+고	VERB	VV+EC	_	15	advcl	_	_
+14	하루하루	하루+하루	NOUN	NNG+NNG	_	15	obj	_	_
+15	지내는	지내+는	VERB	VV+ETM	_	16	acl	_	_
+16	거는	거+는	NOUN	NNB+JX	_	18	nsubj	_	_
+17	너무	너무	ADV	MAG	_	18	advmod	_	_
+18	슬플것	슬프+ㄹ+것	NOUN	VA+ETM+NNB	_	19	nsubj	_	_
+19	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_04_3_04
+# text = 주변애있는 친구들과, 가족이랑, 만나는 사람들과 협도하면서 team처럼 같이 생각하고 해내고 지내면 인생이 훨신더 즐겁고 좋을것 같아요.
+1	주변애있는	주변+애+있+는	ADV	NNG+NA+VV+ETM	_	2	acl	_	_
+2	친구들과	친구+들+과	ADV	NNG+XSN+JKB	_	7	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	가족이랑	가족+이랑	ADV	NNG+JKB	_	7	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	만나는	만나+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	8	obl	_	_
+8	협도하면서	협도+하+면서	VERB	NF+XSV+EC	_	11	advcl	_	_
+9	team처럼	team+처럼	ADV	SL+JKB	_	11	obl	_	_
+10	같이	같이	ADV	MAG	_	11	advmod	_	_
+11	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+12	해내고	해내+고	VERB	VV+EC	_	13	advcl	_	_
+13	지내면	지내+면	VERB	VV+EC	_	17	advcl	_	_
+14	인생이	인생+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+15	훨신더	훨신+더	ADV	NA+MAG	_	16	advmod	_	_
+16	즐겁고	즐겁+고	VERB	VA+EC	_	17	advcl	_	_
+17	좋을것	좋+을+것	VERB	VA+ETM+NNB	_	18	nsubj	_	_
+18	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_04_3_05
+# text = 아직도 직장을 찾으면서 생각을 많이 했는데요.
+1	아직도	아직+도	ADV	MAG+JX	_	3	advmod	_	_
+2	직장을	직장+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	찾으면서	찾+으면서	VERB	VV+EC	_	6	advcl	_	_
+4	생각을	생각+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	했는데요	하+았+는데요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_04_3_06
+# text =.
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-HENG_04_3_07
+# text = 어디를 일할곳을 고르고 결정할때는 거기서 일하는 사람들과 먼저 저랑 잘 맞아야해요.
+1	어디를	어디+를	NOUN	NP+JKO	_	3	obj	_	_
+2	일할곳을	일+하+ㄹ+곳+을	NOUN	NNG+XSV+ETM+NNG+JKO	_	3	obj	_	_
+3	고르고	고르+고	VERB	VV+EC	_	4	advcl	_	_
+4	결정할때는	결정+하+ㄹ+때+는	VERB	NNG+XSV+ETM+NNG+JX	_	11	advcl	_	_
+5	거기서	거기+서	ADV	NP+JKB	_	6	obl	_	_
+6	일하는	일+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	11	obl	_	_
+8	먼저	먼저	ADV	MAG	_	11	advmod	_	_
+9	저랑	저+랑	ADV	NP+JKB	_	11	obl	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	맞아야해요	맞+아야+하+아요	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_04_3_08
+# text = 사람들이 못돼고 결쟁이 심한 곳이면, 저는 아무리 다른 장점이 많아도 그곳을 않고를 꺼예요.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	2	nsubj	_	_
+2	못돼고	못돼+고	VERB	NV+EC	_	4	advcl	_	_
+3	결쟁이	결쟁+이	NOUN	NF+JKS	_	4	nsubj	_	_
+4	심한	심하+ㄴ	ADJ	VA+ETM	_	5	acl	_	_
+5	곳이면	곳+이+면	VERB	NNG+VCP+EC	_	14	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	저는	저+는	PRON	NP+JX	_	13	nsubj	_	_
+8	아무리	아무리	ADV	MAG	_	11	advmod	_	_
+9	다른	다른	ADJ	MM	_	10	amod	_	_
+10	장점이	장점+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	많아도	많+아도	VERB	VA+EC	_	13	advcl	_	_
+12	그곳을	그+곳+을	NOUN	MM+NNG+JKO	_	13	obj	_	_
+13	않고를	않+고르+ㄹ	VERB	NA+VV+ETM	_	14	acl	_	_
+14	꺼예요	꺼+이+에요	VERB	NF+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_04_3_09
+# text = 하지만 반대로 직원들이랑 같이 일하는 사람들이 착하고 같이 일하는 모습이 좋으면, 아무리 다른 것들이 (예를 들면 입애서 멀거나 아니면 돈을 많이 못버는데 중간쯤이다) 이래도 저는 이곳을 더 원할것 같아요.
+1	하지만	하지만	ADV	MAJ	_	30	cc	_	_
+2	반대로	반대+로	ADV	NNG+JKB	_	11	obl	_	_
+3	직원들이랑	직원+들+이랑	ADV	NNG+XSN+JC	_	7	nsubj	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	일하는	일+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	conj	_	_
+7	착하고	착하+고	VERB	VA+EC	_	11	advcl	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	모습이	모습+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	좋으면	좋+으면	VERB	VA+EC	_	30	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	아무리	아무리	ADV	MAG	_	25	advmod	_	_
+14	다른	다른	ADJ	VA+ETM	_	15	amod	_	_
+15	것들이	것+들+이	NOUN	NNB+XSN+JKS	_	25	nsubj	_	_
+16	(예를	(+예+를	NOUN	SS+NNG+JKO	_	17	obj	_	_
+17	들면	들+면	VERB	VV+EC	_	24	advcl	_	_
+18	입애서	입+애서	VERB	NF+NA	_	19	obl	_	_
+19	멀거나	멀+거나	VERB	VA+EC	_	20	advcl	_	_
+20	아니면	아니+면	VERB	VCN+EC	_	24	advcl	_	_
+21	돈을	돈+을	NOUN	NNG+JKO	_	23	obj	_	_
+22	많이	많이	ADV	MAG	_	23	advmod	_	_
+23	못버는데	못+벌+는데	VERB	MAG+VV+EC	_	34	advcl	_	_
+24	중간쯤이다)	중간+쯤+이+다+)	ADV	NNG+XSN+VCP+EF+SS	_	25	parataxis	_	_
+25	이래도	이러하+여도	NOUN	VA+EC	_	30	advcl	_	_
+26	저는	저+는	PRON	NP+JX	_	29	nsubj	_	_
+27	이곳을	이+곳+을	NOUN	MM+NNG+JKO	_	29	obj	_	_
+28	더	더	ADV	MAG	_	39	advmod	_	_
+29	원할것	원하+ㄹ+것	ADV	VV+ETM+NNB	_	30	nsubj	_	_
+30	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-HENG_04_3_10
+# text = 그리고 요즘에는 협도를 많이 선호하는 사람들이 더 많아져서 저절로 결쟁하는 것을 더 싫어하고 불편해진것 같아요.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	요즘에는	요즘+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+3	협도를	협도+를	NOUN	NF+JKO	_	5	obj	_	_
+4	많이	많이	ADV	MAG	_	5	advmod	_	_
+5	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많아져서	많+아지+어서	VERB	VA+XSV+EC	_	15	advcl	_	_
+9	저절로	저절로	ADV	MAG	_	13	advmod	_	_
+10	결쟁하는	결쟁+하+는	VERB	NF+XSV+ETM	_	11	acl	_	_
+11	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+12	더	더	ADV	MAG	_	15	advmod	_	_
+13	싫어하고	싫어하+고	VERB	VV+EC	_	14	advcl	_	_
+14	불편해진것	불편+하+아지+ㄴ+것	NOUN	NNG+XSA+XSV+ETM+NNB	_	15	nsubj	_	_
+15	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

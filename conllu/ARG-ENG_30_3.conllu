@@ -1,0 +1,153 @@
+# sent_id = ARG-ENG_30_3_01
+# text = 협동이 더 선호합니다.
+1	협동이	협동+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_30_3_02
+# text = 경쟁으로 일을 빨리 할수가 없읍니다.
+1	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	4	obl	_	_
+2	일을	일+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	빨리	빨리	ADV	MAG	_	4	advmod	_	_
+4	할수가	하+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	5	nsubj	_	_
+5	없읍니다	없+읍니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_30_3_03
+# text = 회사에서 사람들이 다 경쟁을 선택하면, 일을 다 같이 잘 할수 없는 상황이 됄 수가 있읍니다.
+1	회사에서	회사+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	다	다	ADV	MAG	_	5	advmod	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선택하면	선택+하+면	VERB	NNG+XSV+EC	_	16	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	11	obj	_	_
+8	다	다	ADV	MAG	_	9	advmod	_	_
+9	같이	같이	ADV	MAG	_	11	advmod	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	12	nsubj	_	_
+12	없는	없+는	VERB	VX+ETM	_	13	acl	_	_
+13	상황이	상황+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	됄	돼+ㄹ	VERB	NV+ETM	Typo=Yes	15	acl	_	_
+15	수가	수+가	NOUN	NNB+JKS	_	16	nsubj	_	_
+16	있읍니다	있+읍니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_30_3_04
+# text = 다들이 자기에 개인기를 보여줄려고 노력하면, 회사에서 있는 일을 빨리 할 수가 없읍니다.
+1	다들이	다+들+이	PRON	NP+XSN+JKS	_	4	nsubj	_	_
+2	자기에	자기+에	PRON	NP+JKB	_	4	obl	_	_
+3	개인기를	개인기+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	보여줄려고	보이+어+주+ㄹ려고	VERB	VV+EC+VX+EC	_	5	advcl	_	_
+5	노력하면	노력+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	회사에서	회사+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	있는	있+는	VERB	VV+ETM	_	9	acl	_	_
+9	일을	일+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	빨리	빨리	ADV	MAG	_	11	advmod	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수가	수+가	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	없읍니다	없+읍니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_30_3_05
+# text = 그런데 협동을 선택하면, 다 같이 일하면서 회사 일이 더 빨리 할 수 있읍니다.
+1	그런데	그런데	ADV	MAJ	_	14	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선택하면	선택+하+면	VERB	NNG+XSV+EC	_	14	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	다	다	ADV	MAG	_	6	advmod	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	일하면서	일+하+면서	VERB	NNG+XSV+EC	_	14	advcl	_	_
+8	회사	회사	NOUN	NNG	_	9	nmod	_	_
+9	일이	일+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	빨리	빨리	ADV	MAG	_	12	advmod	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_30_3_06
+# text = 그래서, 저는 계석 싸우는것보다 같이 일하는 것이 활신 더 선호합니다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	저는	저+는	PRON	NP+JX	_	11	dislocated	_	_
+4	계석	계석	ADV	NA	Typo=Yes	5	advmod	_	_
+5	싸우는것보다	싸우+는+것+보다	ADV	VV+ETM+NNB+JKB	_	11	obl	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	일하는	일+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+9	활신	활신	ADV	NA	Typo=Yes	10	advmod	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_30_3_07
+# text = 물런, 경정이 꼭 있어야 돼는 상황들도 있을수도 있지만, 많은 상황에 경졍이가 답장이 아닙니다.
+1	물런	물런	ADV	NA	Typo=Yes	15	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	9	punct	_	_
+3	경정이	경정+이	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+4	꼭	꼭	ADV	MAG	_	5	advmod	_	_
+5	있어야	있+어야	VERB	VV+EC	_	7	acl	_	_
+6	돼는	돼+는	VERB	NA+EC	Typo=Yes	5	advcl	_	_
+7	상황들도	상황+들+도	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+8	있을수도	있+을+수+도	NOUN	VV+ETM+NNB+JX	_	9	nsubj	_	_
+9	있지만	있+지만	VERB	VX+EC	_	15	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+12	상황에	상황+에	ADV	NNG+JKB	_	15	obl	_	_
+13	경졍이가	경졍이+가	NOUN	NF+JKS	Typo=Yes	15	dislocated	_	_
+14	답장이	답장+이	NOUN	NF+JKS	Typo=Yes	15	nsubj	_	_
+15	아닙니다	아니+ㅂ니다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_30_3_08
+# text = 음악 방성에 가장 좋아하는 가수를 위해서 토표를 하면 돼는데, 음악 방성에 어떤 벤드가 카메라 시간을 위해서 싸우면 안됍니다.
+1	음악	음악	NOUN	NNG	_	2	nmod	_	_
+2	방성에	방성+에	ADV	NF+JKB	Typo=Yes	8	obl	_	_
+3	가장	가장	ADV	MAG	_	4	advmod	_	_
+4	좋아하는	좋아하+는	VERB	VV+ETM	_	5	acl	_	_
+5	가수를	가수+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	위해서	위하+아서	VERB	VV+EC	_	8	advcl	_	_
+7	토표를	토표+를	NOUN	NF+JKO	Typo=Yes	8	obj	_	_
+8	하면	하+면	VERB	VV+EC	_	19	advcl	_	_
+9	돼는데	돼+는데	VERB	VX+EC	_	8	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	음악	음악	NOUN	NNG	_	12	nmod	_	_
+12	방성에	방성+에	ADV	NNG+JKB	_	18	obl	_	_
+13	어떤	어떤	DET	MM	_	14	det	_	_
+14	벤드가	벤드+가	NOUN	NF+JKS	Typo=Yes	18	nsubj	_	_
+15	카메라	카메라	NOUN	NNG	_	16	nmod	_	_
+16	시간을	시간+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	위해서	위하+아서	VERB	VV+EC	_	18	advcl	_	_
+18	싸우면	싸우+면	VERB	VV+EC	_	19	advcl	_	_
+19	안됍니다	안+돼+ㅂ니다	VERB	MAG+NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_30_3_09
+# text = 그래서, 제 생각에는, 같은 팀이면, 협동이 활씬 더 중여하지만, 어떤 상황들에 경정도 가능하는데 저는 싸움이 싫어서 협동을 선호합니다.
+1	그래서	그래서	ADV	MAJ	_	22	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	제	저+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	22	obl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	같은	같+은	ADJ	VA+ETM	_	7	amod	_	_
+7	팀이면	팀+이+면	ADJ	NNG+VCP+EC	_	12	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	협동이	협동+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+10	활씬	활씬	ADV	NA	Typo=Yes	11	advmod	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	중여하지만	중여+하+지만	ADJ	NF+XSA+EC	Typo=Yes	17	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	어떤	어떤	DET	MM	_	15	det	_	_
+15	상황들에	상황+들+에	ADV	NNG+XSN+JKB	_	17	obl	_	_
+16	경정도	경정+도	NOUN	NF+JX	Typo=Yes	17	nsubj	_	_
+17	가능하는데	가능+하+는데	ADJ	NNG+XSA+EC	_	22	advcl	_	_
+18	저는	저+는	PRON	NP+JX	_	22	nsubj	_	_
+19	싸움이	싸움+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	싫어서	싫+어서	ADJ	VA+EC	_	22	advcl	_	_
+21	협동을	협동+을	NOUN	NNG+JKO	_	22	obj	_	_
+22	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_

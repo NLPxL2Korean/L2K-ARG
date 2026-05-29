@@ -1,0 +1,95 @@
+# sent_id = ARG-ENG_38_3_01
+# text = 협동과 경쟁이 진짜 다르고 중요해요.
+1	협동과	협동+과	NOUN	NNG+JC	_	4	nsubj	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	1	conj	_	_
+3	진짜	진짜	ADV	MAG	_	4	advmod	_	_
+4	다르고	다르+고	ADJ	VA+EC	_	0	root	_	_
+5	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	4	conj	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_38_3_02
+# text = 둘다 필요하는데 저는 협동을 선호해요.
+1	둘다	둘+다	ADV	NR+NNG	_	2	obj	_	_
+2	필요하는데	필요+하+는데	ADJ	NNG+XSA+EC	_	5	advcl	_	_
+3	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호해요	선호+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_38_3_03
+# text = 요즘 경쟁이 곳곳마다 볼 수 있어요.
+1	요즘	요즘	ADV	NNG	_	4	advmod	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	곳곳마다	곳곳+마다	NOUN	NNG+JX	_	4	obl	_	_
+4	볼	보+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_38_3_04
+# text = 사회가 경쟁 너무 많아요.
+1	사회가	사회+가	NOUN	NNG+JKS	_	4	dislocated	_	_
+2	경쟁	경쟁	NOUN	NNG	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	많아요	많+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_3_05
+# text = 모든 사람이 돈을 잡고싶어요.
+1	모든	모든	DET	MM	_	2	det	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	돈을	돈+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	잡고싶어요	잡+고+싶+어요	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_3_06
+# text = 다른 사람의 돈을 넘고 싶어요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람의	사람+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	돈을	돈+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	넘고	넘+고	VERB	VV+EC	_	0	root	_	_
+5	싶어요	싶	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_3_07
+# text = 이 종류의 생각 대문에 많은 사람들이 슬프고 화나요.
+1	이	이	DET	MM	_	2	det	_	_
+2	종류의	종류+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	생각	생각	NOUN	NNG	_	7	obl	_	_
+4	대문에	대문+에	ADV	NF+JKB	Typo=Yes	3	case	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	슬프고	슬프+고	ADJ	VA+EC	_	0	root	_	_
+8	화나요	화나+아요	VERB	VV+EF	_	7	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_38_3_08
+# text = 그러면 협동으로 생각하면 우리 사회들이 더 좋을수도 있어요.
+1	그러면	그러면	ADV	MAJ	_	3	cc	_	_
+2	협동으로	협동+으로	ADV	NNG+JKB	_	3	obl	_	_
+3	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	사회들이	사회+들+이	NOUN	NNG+XSN+XSN	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋을수도	좋+을+수+도	NOUN	VA+ETM+NNB+JKS	_	8	nsubj	_	_
+8	있어요	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_38_3_09
+# text = 다른 사람들 도와해야 돼요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들	사람+들	NOUN	NNG+XSN	_	3	nsubj	_	_
+3	도와해야	돕+아+하+아야	VERB	VV+EC+VX+EC	_	0	root	_	_
+4	돼요	되+어요	VERB	VX+EF	_	3	advcl	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_38_3_10
+# text = 그러면 같이 일하면 모든 것이 훨신 종아할거에요.
+1	그러면	그러면	ADV	MAJ	_	7	cc	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	일하면	일+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	모든	모든	DET	MM	_	5	det	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	훨신	훨신	ADV	NA	Typo=Yes	7	advmod	_	_
+7	종아할거에요	종아하+ㄹ+거+에요	VERB	VV+ETM+NNB+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

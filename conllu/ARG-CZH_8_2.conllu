@@ -1,0 +1,152 @@
+# sent_id = ARG-CZH_08_2_01
+# text = 나는 역사를 배워야 하는 주제에 대한 나의 생각을 쓰도록 하겠다.
+1	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	acl	_	_
+4	하는	하	AUX	VX+ETM	_	3	aux	_	_
+5	주제에	주제+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+7	나의	나+의	PRON	NP+JKG	_	8	nmod:poss	_	_
+8	생각을	생각+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	쓰도록	쓰+도록	VERB	VV+EC	_	10	advcl	_	_
+10	하겠다	하+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_08_2_02
+# text = 나는 역사 공부에 대해 천성하는 입장이다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	공부에	공부+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+5	천성하는	천성+하+는	VERB	NF+XSV+ETM	Typo=Yes	6	acl	_	_
+6	입장이다	입장+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_08_2_03
+# text = 왜냐하면 역사 덕분에 아주 재밌는 하고 중요하는 건의 알게 될 수 잇다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	12	cc	_	_
+2	역사	역사	NOUN	NNG	_	6	obl	_	_
+3	덕분에	덕분+에	ADV	NNG+JKB	_	2	case	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	재밌는	재미+있+는	ADJ	NNG+VA+ETM	_	6	acl	_	_
+6	하고	하+고	VERB	VV+EC	_	12	advcl	_	_
+7	중요하는	중요+하+는	ADJ	NNG+XSA+ETM	_	8	acl	_	_
+8	건의	건의	NOUN	NF	Typo=Yes	9	obj	_	_
+9	알게	알+게	VERB	VV+EC	_	11	acl	_	_
+10	될	되+ㄹ	VERB	VX+ETM	_	9	advcl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	잇다	잇+다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_08_2_04
+# text = 과거에 전쟁이 많이 있어서 우리는 배울 수 있다.
+1	과거에	과거+에	ADV	NNG+JKB	_	4	obl	_	_
+2	전쟁이	전쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	있어서	있+어서	VERB	VV+EC	_	8	advcl	_	_
+5	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_08_2_05
+# text = 전쟁 때문에 사람들은 죽고 발명품을 많이 했어요.
+1	전쟁	전쟁	NOUN	NNG	_	4	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+4	죽고	죽+고	VERB	VV+EC	_	0	root	_	_
+5	발명품을	발명품+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	했어요	하+았+어요	VERB	VV+EP+EF	_	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_08_2_06
+# text = 하지만 우리는 이 발명품을 왜 했는지 알아야 한다고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	발명품을	발명품+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	왜	왜	ADV	MAG	_	6	advmod	_	_
+6	했는지	하+았+는지	VERB	VV+EP+EC	_	7	ccomp	_	_
+7	알아야	알+아야	VERB	VV+EC	_	9	ccomp	_	_
+8	한다고	하	AUX	VX+EC	_	7	aux	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_08_2_07
+# text = 사람들도 실수 했으니까 그 실수를 다시 어떻게 여방하는지 배울수있다.
+1	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+2	실수	실수	NOUN	NNG	_	3	obj	_	_
+3	했으니까	하+았+으니까	VERB	VV+EP+EC	_	9	advcl	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	실수를	실수+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	다시	다시	ADV	MAG	_	8	advmod	_	_
+7	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+8	여방하는지	여방+하+는지	VERB	NF+XSV+EC	Typo=Yes	9	ccomp	_	_
+9	배울수있다	배우+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_08_2_08
+# text = 요즘은 물리학과 화학은 아주 중요한 학과 있다는 의견에도 일리가 있다.
+1	요즘은	요즘+은	ADV	NNG+JX	_	7	advmod	_	_
+2	물리학과	물리학+과	NOUN	NNG+JC	_	7	nsubj	_	_
+3	화학은	화학+은	NOUN	NNG+JX	_	2	conj	_	_
+4	아주	아주	ADV	MAG	_	7	advmod	_	_
+5	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	학과	학과	NOUN	NNG	_	7	obl	_	_
+7	있다는	있+다는	VERB	VV+ETM	_	8	acl	_	_
+8	의견에도	의견+에+도	ADV	NNG+JKB+JX	_	10	obl	_	_
+9	일리가	일리+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_08_2_09
+# text = 하지만 아이들은 역사도 잘 알아야 하다고 생간한다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+3	역사도	역사+도	NOUN	NNG+JX	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	알아야	알+아야	VERB	VV+EC	_	7	ccomp	_	_
+6	하다고	하	AUX	VX+EC	_	5	aux	_	_
+7	생간한다	생간+하+ㄴ다	VERB	NF+XSV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_08_2_10
+# text = 그러므로 역사 독분에 문화와 국민들은 이해할수있아.
+1	그러므로	그러므로	ADV	MAJ	_	6	cc	_	_
+2	역사	역사	NOUN	NNG	_	6	obl	_	_
+3	독분에	독분+에	ADV	NF+JKB	Typo=Yes	2	case	_	_
+4	문화와	문화+와	ADV	NNG+JKB	_	6	obl	_	_
+5	국민들은	국민+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+6	이해할수있아	이해+하+ㄹ+수+있+아	VERB	NNG+XSV+ETM+NNB+VX+NA	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_08_2_11
+# text = 그리고 아프로 나갈 수 잇으면 그런 큰 실수를 하지 않고 싶으면 과거를 아라야 한다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	아프로	아프로	NOUN	NA	Typo=Yes	3	obl	_	_
+3	나갈	나가+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	잇으면	잇+으면	VERB	NA+EC	Typo=Yes	9	advcl	_	_
+6	그런	그런	DET	MM	_	8	det	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	실수를	실수+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	하지	하+지	VERB	VV+EC	_	13	advcl	_	_
+10	않고	않	AUX	VX+EC	_	9	aux	_	_
+11	싶으면	싶	AUX	VX+EC	_	9	aux	_	_
+12	과거를	과거+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	아라야	아+라야	VERB	NV+NA	Typo=Yes	0	root	_	_
+14	한다	하	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_08_2_12
+# text = 그래서 나는 역사 배우기에 대해 찬성하는 입장이다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+3	역사	역사	NOUN	NNG	_	4	nmod	_	_
+4	배우기에	배우+기+에	VERB	VV+ETN+JKB	_	5	obl	_	_
+5	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+6	찬성하는	찬성+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	입장이다	입장+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

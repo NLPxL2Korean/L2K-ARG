@@ -1,0 +1,179 @@
+# sent_id = ARG-CHN_19_1_01
+# text = 자연은 우리 사는 지구에서 가장 중요한 이룹이므로 우리의 보호가 필요하다.
+1	자연은	자연+은	NOUN	NNG+JX	_	7	nsubj	_	_
+2	우리	우리	PRON	NP	_	3	nsubj	_	_
+3	사는	살+는	VERB	VV+ETM	_	4	acl	_	_
+4	지구에서	지구+에서	ADV	NNG+JKB	_	6	obl	_	_
+5	가장	가장	ADV	MAG	_	6	advmod	_	_
+6	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	acl	_	_
+7	이룹이므로	이룹+이+므로	ADJ	NF+VCP+EC	Typo=Yes	10	advcl	_	_
+8	우리의	우리+의	PRON	NP+JKG	_	9	nmod:poss	_	_
+9	보호가	보호+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_19_1_02
+# text = 그렇지만 자연 환경으 보호는 인류 자연에 들어가서 하는 것이다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	9	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	환경으	환경+으	NOUN	NNG+NA	Typo=Yes	4	nmod	_	_
+4	보호는	보호+는	NOUN	NNG+JX	_	8	obj	_	_
+5	인류	인류	NOUN	NNG	_	7	nsubj	_	_
+6	자연에	자연+에	ADV	NNG+JKB	_	7	obl	_	_
+7	들어가서	들어가+아서	VERB	VV+EC	_	8	advcl	_	_
+8	하는	하	AUX	VX+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_19_1_03
+# text = 물론 자연 생물들은 인류없이 자기 생존할 수 있지만 인류가 어떤 방법으로 그 물종 소멸 위기 생기지 않게 해 줄 수 있다.
+1	물론	물론	ADV	MAG	_	8	advmod	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	생물들은	생물+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+4	인류없이	인류+없이	ADV	NNG+MAG	_	6	advcl	_	_
+5	자기	자기	PRON	NP	_	6	nmod	_	_
+6	생존할	생존+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있지만	있+지만	VERB	VX+EC	_	21	advcl	_	_
+9	인류가	인류+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+10	어떤	어떤	DET	MM	_	11	det	_	_
+11	방법으로	방법+으로	ADV	NNG+JKB	_	18	obl	_	_
+12	그	그	DET	MM	_	13	det	_	_
+13	물종	물종	NOUN	NF	Typo=Yes	14	nmod	_	_
+14	소멸	소멸	NOUN	NNG	_	15	nmod	_	_
+15	위기	위기	NOUN	NNG	_	16	nsubj	_	_
+16	생기지	생기+지	VERB	VV+EC	_	18	advcl	_	_
+17	않게	않	AUX	VX+EC	_	16	aux	_	_
+18	해	하	AUX	VX+EC	_	20	acl	_	_
+19	줄	주+ㄹ	VERB	VX+ETM	_	18	advcl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_19_1_04
+# text = 그래서 저는 자연 개발이 더 중요하다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발이	개발+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_19_1_05
+# text = 자연 개발은 우리 인류 더 조심스러게 어떤 물종이 어떻게 성장하는지 어떤 환경에서 더 잘 잘할 수 있는지 파악하고 그 물종들에게 소망하지 않고 잘 생장할 수 있는 환경을 만들어 줄 수 있다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발은	개발+은	NOUN	NNG+JX	_	28	nsubj	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	인류	인류	NOUN	NNG	_	18	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	조심스러게	조심+스러+게	ADV	NNG+NA+EC	Typo=Yes	18	advmod	_	_
+7	어떤	어떤	DET	MM	_	8	det	_	_
+8	물종이	물종+이	NOUN	NF+JKS	Typo=Yes	10	nsubj	_	_
+9	어떻게	어떻+게	ADV	VA+EC	_	10	advmod	_	_
+10	성장하는지	성장+하+는지	VERB	NNG+XSV+EC	_	18	ccomp	_	_
+11	어떤	어떤	DET	MM	_	12	det	_	_
+12	환경에서	환경+에서	ADV	NNG+JKB	_	15	obl	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	잘	잘	ADV	MAG	_	15	advmod	_	_
+15	잘할	잘하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있는지	있	AUX	VX+EC	_	10	conj	_	_
+18	파악하고	파악+하+고	VERB	NNG+XSV+EC	_	31	advcl	_	_
+19	그	그	DET	MM	_	20	det	_	_
+20	물종들에게	물종+들+에게	ADV	NF+XSN+JKB	Typo=Yes	28	obl	_	_
+21	소망하지	소망+하+지	VERB	NF+XSV+EC	Typo=Yes	24	advcl	_	_
+22	않고	않	AUX	VX+EC	_	21	aux	_	_
+23	잘	잘	ADV	MAG	_	28	advmod	_	_
+24	생장할	생장+하+ㄹ	VERB	NNG+XSV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있는	있+는	VERB	VX+ETM	_	27	acl	_	_
+27	환경을	환경+을	NOUN	NNG+JKO	_	28	obj	_	_
+28	만들어	만들+어	VERB	VV+EC	_	30	acl	_	_
+29	줄	주+ㄹ	VERB	VX+ETM	_	28	advcl	_	_
+30	수	수	NOUN	NNB	_	31	nsubj	_	_
+31	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+32	.	.	PUNCT	SF	_	31	punct	_	_
+
+# sent_id = ARG-CHN_19_1_06
+# text = 그러므로 지구상 많은 물종들이 소망하지 않고 우리 인류 계속 볼 수 있고 계속 연구할 수 있다.
+1	그러므로	그러므로	ADV	MAJ	_	16	cc	_	_
+2	지구상	지구+상	NOUN	NNG+XSN	_	5	obl	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	물종들이	물종+들+이	NOUN	NF+XSN+JKS	Typo=Yes	5	nsubj	_	_
+5	소망하지	소망+하+지	VERB	NNG+XSV+EC	_	12	advcl	_	_
+6	않고	않	AUX	VX+EC	_	5	aux	_	_
+7	우리	우리	PRON	NP	_	8	nmod	_	_
+8	인류	인류	NOUN	NNG	_	10	nsubj	_	_
+9	계속	계속	ADV	MAG	_	10	advmod	_	_
+10	볼	보+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있고	있	AUX	VX+EC	_	16	advcl	_	_
+13	계속	계속	ADV	MAG	_	14	advmod	_	_
+14	연구할	연구+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_19_1_07
+# text = 또 자연 개발을 하면 사람들이 자연에 들어가서 자연이 어떻게 되는 지 물종들이 어떻게 생장할 수 있는지 배울 수 있고 앞으로 자연과 어떻게 같이 지구에서 살 수 있는지도 알게 될 것이다.
+1	또	또	ADV	MAJ	_	30	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발을	개발+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하면	하+면	VERB	VV+EC	_	30	advcl	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+6	자연에	자연+에	ADV	NNG+JKB	_	7	obl	_	_
+7	들어가서	들어가+아서	VERB	VV+EC	_	17	advcl	_	_
+8	자연이	자연+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	어떻게	어떻+게	ADV	VA+EC	_	10	advmod	_	_
+10	되는	되+는+지	VERB	VV+ETM+EC	Typo=Yes	17	ccomp	_	_
+11	지	_	X	_	_	10	goeswith	_	_
+12	물종들이	물종+들+이	NOUN	NF+XSN+JKS	Typo=Yes	14	nsubj	_	_
+13	어떻게	어떻+게	ADV	VA+EC	_	14	advmod	_	_
+14	생장할	생장+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는지	있	AUX	VX+EC	_	10	conj	_	_
+17	배울	배우+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있고	있	AUX	VX+EC	_	30	advcl	_	_
+20	앞으로	앞+으로	ADV	NNG+JKB	_	25	obl	_	_
+21	자연과	자연+과	ADV	NNG+JKB	_	25	obl	_	_
+22	어떻게	어떻+게	ADV	VA+EC	_	25	advmod	_	_
+23	같이	같이	ADV	MAG	_	25	advmod	_	_
+24	지구에서	지구+에서	ADV	NNG+JKB	_	25	obl	_	_
+25	살	살+ㄹ	VERB	VV+ETM	_	26	acl	_	_
+26	수	수	NOUN	NNB	_	27	nsubj	_	_
+27	있는지도	있+는지+도	VERB	VX+EC+JX	_	28	ccomp	_	_
+28	알게	알+게	VERB	VV+EC	_	30	acl	_	_
+29	될	되+ㄹ	VERB	VX+ETM	_	28	advcl	_	_
+30	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-CHN_19_1_08
+# text = 그래서 자연은 개발하면서 보호해야 한다.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	자연은	자연+은	NOUN	NNG+JX	_	3	obj	_	_
+3	개발하면서	개발+하+면서	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	보호해야	보호+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_19_1_09
+# text = 그렇게 하면 자연도 인류도 지구에서 더 어울릴 수 있고 앞으로도 같이 살 수 있을 것이다.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	하면	하+면	VERB	VV+EC	_	15	advcl	_	_
+3	자연도	자연+도	NOUN	NNG+JX	_	7	nsubj	_	_
+4	인류도	인류+도	NOUN	NNG+JX	_	3	conj	_	_
+5	지구에서	지구+에서	ADV	NNG+JKB	_	7	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	어울릴	어울리+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있	AUX	VX+EC	_	15	advcl	_	_
+10	앞으로도	앞+으로+도	ADV	NNG+JKB+JX	_	12	obl	_	_
+11	같이	같이	ADV	MAG	_	12	advmod	_	_
+12	살	살+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있을	있	AUX	VX+ETM	_	15	acl	_	_
+15	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

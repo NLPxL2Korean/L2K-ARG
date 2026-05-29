@@ -1,0 +1,163 @@
+# sent_id = ARG-ENG_16_1_01
+# text = 첫 번 주제는 조기언어 교육의 장단점이다.
+1	첫	첫	NUM	MM	_	3	nummod	_	_
+2	번	번	NOUN	NNB	_	1	case	_	_
+3	주제는	주제+는	NOUN	NNG+JX	_	6	nsubj	_	_
+4	조기언어	조기+언어	NOUN	NNG+NNG	_	5	nmod	_	_
+5	교육의	교육+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	장단점이다	장단점+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_16_1_02
+# text = 전반적으로 조기언어교육이 단점보다 더 많은 장점이 있다고 생각한다.
+1	전반적으로	전반+적+으로	ADV	NNG+XSN+JKB	_	7	obl	_	_
+2	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	7	dislocated	_	_
+3	단점보다	단점+보다	ADV	NNG+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	장점이	장점+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_16_1_03
+# text = 예를 들면, 아이들이 언어과정이 아직도 젊은 것 때문에 받아들을 수있는 정보가 훨씬 많다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+5	언어과정이	언어+과정+이	NOUN	NNG+NNG+NNG	_	7	nsubj	_	_
+6	아직도	아직+도	ADV	MAG+JX	_	7	advmod	_	_
+7	젊은	젊+은	ADJ	VA+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	14	obl	_	_
+9	때문에	때문+에	ADV	NNB+JKB	_	8	case	_	_
+10	받아들을	받아들+을	VERB	VV+EP	_	11	acl	_	_
+11	수있는	수+있+는	ADJ	NNB+VX+ETM	_	12	acl	_	_
+12	정보가	정보+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+13	훨씬	훨씬	ADV	MAG	_	14	advmod	_	_
+14	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_16_1_04
+# text = 또는, 외국어 언어교육의 경우에는 아이들이 외국어를 쉽게 배울 수 있고 배운 언어는 오랫동안 아이의 뇌를 붙일 수 있다.
+1	또는	또는	ADV	MAG	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	19	obl	_	_
+6	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+7	외국어를	외국어+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	쉽게	쉽+게	ADV	VA+EC	_	9	advmod	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	0	root	_	_
+12	배운	배우+ㄴ	VERB	VV+ETM	_	13	acl	_	_
+13	언어는	언어+는	NOUN	NNG+JX	_	17	obj	_	_
+14	오랫동안	오랫동안	NOUN	NNG	_	17	obl	_	_
+15	아이의	아이+의	NOUN	NNG+JKG	_	16	nmod:poss	_	_
+16	뇌를	뇌+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	붙일	붙이+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	11	conj	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_16_1_05
+# text = 반면에 아이들이 모국어를 배우면서 외국어도 배우는 것은 아이의 모국어를 배우는 과정에 부정적인 영향을 미친다.
+1	반면에	반면+에	ADV	NNG+JKB	_	14	obl	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	모국어를	모국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우면서	배우+면서	VERB	VV+EC	_	6	advcl	_	_
+5	외국어도	외국어+도	NOUN	NNG+JX	_	6	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	14	nsubj	_	_
+8	아이의	아이+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+9	모국어를	모국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+11	과정에	과정+에	ADV	NNG+JKB	_	14	obl	_	_
+12	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	13	amod	_	_
+13	영향을	영향+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_16_1_06
+# text = 예를 들면, 한 아이는 한국어와 영어를 배우면서 각 언어의 단어를 햇갈 수 있고 모국어의 수준도 낮을 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	한	한	NUM	MM	_	5	nummod	_	_
+5	아이는	아이+는	NOUN	NNG+JX	_	19	dislocated	_	_
+6	한국어와	한국어+와	NOUN	NNG+JC	_	8	obj	_	_
+7	영어를	영어+를	NOUN	NNP+JKO	_	6	conj	_	_
+8	배우면서	배우+면서	VERB	VV+EC	_	14	advcl	_	_
+9	각	각	DET	MM	_	10	amod	_	_
+10	언어의	언어+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	단어를	단어+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	햇갈	햇가+ㄹ	VERB	NV+ETM	Typo=Yes	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있고	있+고	VERB	VX+EC	_	0	root	_	_
+15	모국어의	모국어+의	NOUN	NNG+JKG	_	16	nmod:poss	_	_
+16	수준도	수준+도	NOUN	NNG+JX	_	17	nsubj	_	_
+17	낮을	낮+을	ADJ	VA+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	14	conj	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_16_1_07
+# text = 그런데, 아이들이 외국어를 지속적으로 공부한다면 나중에 좋은 효과를 밝힌다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	지속적으로	지속+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	공부한다면	공부+하+ㄴ다면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+7	나중에	나중+에	ADV	NNG+JKB	_	10	obl	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	효과를	효과+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	밝힌다	밝히+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_16_1_08
+# text = 어렸을 때 외국어를 공부하는 사람들은 다른 사람들 비해 더 똑똑하고 자신의 생각을 더 쉽게 정리할 수 있는 연구가 나왔다.
+1	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	4	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	15	nsubj	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	사람들	사람+들	NOUN	NNG+XSN	_	8	obl	_	_
+8	비해	비하+아	VERB	VV+EC	_	15	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	똑똑하고	똑똑+하+고	ADJ	XR+XSA+EC	_	15	advcl	_	_
+11	자신의	자신+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	생각을	생각+을	NOUN	NNG+JKO	_	15	obj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	쉽게	쉽+게	ADV	VA+EC	_	15	advmod	_	_
+15	정리할	정리+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있는	있+는	VERB	VX+ETM	_	18	acl	_	_
+18	연구가	연구+가	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	나왔다	나오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_16_1_09
+# text = 그래서 어렸을 때 단점에 대신 힘든점이 있어도 그 아이의 미래에 많은 긍정적인 영향을 받아서 조기언어 교육이 좋은 교육과정이라고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	19	cc	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	7	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	단점에	단점+에	ADV	NNG+JKB	_	5	nmod	_	_
+5	대신	대신	NOUN	NNG	_	7	obl	_	_
+6	힘든점이	힘들+ㄴ+점+이	NOUN	VA+ETM+NNB+JKS	_	7	nsubj	_	_
+7	있어도	있+어도	VERB	VV+EC	_	19	advcl	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	아이의	아이+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	미래에	미래+에	ADV	NNG+JKB	_	14	obl	_	_
+11	많은	많+은	ADJ	VA+ETM	_	13	amod	_	_
+12	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	13	amod	_	_
+13	영향을	영향+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	받아서	받+아서	VERB	VV+EC	_	18	advcl	_	_
+15	조기언어	조기+언어	NOUN	NNG+NNG	_	16	nmod	_	_
+16	교육이	교육+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	좋은	좋+은	ADJ	VA+ETM	_	18	amod	_	_
+18	교육과정이라고	교육+과정+이+라고	ADJ	NNG+NNG+VCP+EC	_	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

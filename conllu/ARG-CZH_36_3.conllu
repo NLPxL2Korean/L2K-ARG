@@ -1,0 +1,132 @@
+# sent_id = ARG-CZH_36_3_01
+# text = 협동과 경쟁은 둘이 좋은 편이 있다고 생각한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	6	dislocated	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	1	conj	_	_
+3	둘이	둘+이	NOUN	NNG+JKS	_	1	flat	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	편이	편+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	있다고	있+다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_36_3_02
+# text = 누군가 성공하려면 협동이 중요하고 경쟁은 사람을 더 열심히 일하게 한다.
+1	누군가	누구+이+ㄴ가	PRON	NP+VCP+EF	_	2	nsubj	_	_
+2	성공하려면	성공+하+려면	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	협동이	협동+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	중요하고	중요+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+5	경쟁은	경쟁+은	NOUN	NNG+JX	_	9	nsubj	_	_
+6	사람을	사람+을	NOUN	NNG+JKO	_	9	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	열심히	열심히	ADV	MAG	_	9	advmod	_	_
+9	일하게	일+하+게	VERB	NNG+XSV+EC	_	4	conj	_	_
+10	한다	하	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_36_3_03
+# text = 사람하고 대학생으로써 저는 협동 자주 활용하는데 그래야 저에게 해야 할 일이 쉬워지다.
+1	사람하고	사람+하고	NOUN	NNG+JC	_	6	obl	_	_
+2	대학생으로써	대학생+으로+써	ADV	NNG+XSN+JKB	_	1	conj	_	_
+3	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+4	협동	협동	NOUN	NNG	_	6	obj	_	_
+5	자주	자주	ADV	MAG	_	6	advmod	_	_
+6	활용하는데	활용+하+는데	VERB	NNG+XSV+EC	_	12	advcl	_	_
+7	그래야	그래야	ADV	MAJ	_	12	advmod	_	_
+8	저에게	저+에게	PRON	NP+JKB	_	12	obl	_	_
+9	해야	하+아야	VERB	VV+EC	_	11	acl	_	_
+10	할	하	AUX	VX+ETM	_	9	aux	_	_
+11	일이	일+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	쉬워지다	쉽+어지+다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_36_3_04
+# text = 어떤 것을 잘 아는 사람이나 친구만 알면 전에 불가능한 일은 갑자기 할 수 있는 일이 된다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	아는	알+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람이나	사람+이나	NOUN	NNG+JC	_	7	obj	_	_
+6	친구만	친구+만	NOUN	NNG+JX	_	5	conj	_	_
+7	알면	알+면	VERB	VV+EC	_	16	advcl	_	_
+8	전에	전+에	ADV	NNG+JKB	_	9	obl	_	_
+9	불가능한	불+가능+하+ㄴ	ADJ	XPN+NNG+XSA+ETM	_	10	acl	_	_
+10	일은	일+은	NOUN	NNG+JX	_	16	dislocated	_	_
+11	갑자기	갑자기	ADV	MAG	_	16	advmod	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	일이	일+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_36_3_05
+# text = 사람들이 서로를 도와 주면 여러분이 성공한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	서로를	서로+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	도와	돕+아	VERB	VV+EC	_	6	advcl	_	_
+4	주면	주+면	VERB	VX+EC	_	3	advcl	_	_
+5	여러분이	여러분+이	PRON	NP+JKS	_	6	nsubj	_	_
+6	성공한다	성공+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_36_3_06
+# text = 그래나 투자자로써 경쟁이 더 중요하다고 생각한다.
+1	그래나	그래나	ADV	NA	Typo=Yes	6	cc	_	_
+2	투자자로써	투자+자+로써	ADV	NNG+XSN+JKB	_	6	obl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_36_3_07
+# text = 왜냐하면 경쟁이 회사를 좋아지게 만들다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	5	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	회사를	회사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	좋아지게	좋+아지+게	VERB	VA+XSV+EC	_	5	advcl	_	_
+5	만들다	만들+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_36_3_08
+# text = 경쟁이 심각하면 회사들이 살아야 대단한 제품을 제작 할 수 밖에 없다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	심각하면	심각+하+면	ADJ	NNG+XSA+EC	_	11	advcl	_	_
+3	회사들이	회사+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	살아야	살+아야	VERB	VV+EC	_	7	advcl	_	_
+5	대단한	대단+하+ㄴ	ADJ	XR+XSA+ETM	_	6	amod	_	_
+6	제품을	제품+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	제작	제작+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	9	acl	_	_
+8	할	_	X	_	_	7	goeswith	_	_
+9	수	수	NOUN	NNB	_	11	obl	_	_
+10	밖에	밖+에	NOUN	NNB+JX	_	9	case	_	_
+11	없다	없+다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_36_3_09
+# text = 약한 선수들 실패하는데 그들 대신에 돈을 잘 이용하는 산업이 태오날 수 있다.
+1	약한	약하+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	선수들	선수+들	NOUN	NNG+XSN	_	3	nsubj	_	_
+3	실패하는데	실패+하+는데	VERB	NNG+XSV+EC	_	12	advcl	_	_
+4	그들	그+들	PRON	NP+XSN	_	10	obl	_	_
+5	대신에	대신+에	ADV	NNG+JKB	_	4	case	_	_
+6	돈을	돈+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	이용하는	이용+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	산업이	산업+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	태오날	태오나+ㄹ	VERB	NV+ETM	Typo=Yes	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_36_3_10
+# text = 그래서 투자라면 경쟁을 중요하게 보는 것이 당연한 일이다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	투자라면	투자+라면	NOUN	NNG+JX	_	5	obl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	중요하게	중요+하+게	ADV	NNG+XSA+EC	_	5	advmod	_	_
+5	보는	보+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	당연한	당연+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	일이다	일+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

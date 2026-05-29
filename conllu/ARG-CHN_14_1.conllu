@@ -1,0 +1,148 @@
+# sent_id = ARG-CHN_14_1_01
+# text = 시간이 가룻록 날싸가 점차 더워지고 있다.
+1	시간이	시간+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	가룻록	가+룻록	VERB	VV+NA	Typo=Yes	5	advcl	_	_
+3	날싸가	날싸+가	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+4	점차	점차	ADV	MAG	_	5	advmod	_	_
+5	더워지고	덥+어지+고	VERB	VA+XSV+EC	_	0	root	_	_
+6	있다	있	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_14_1_02
+# text = '벌써 여름철이 되구나'라는 생각이 들었다.
+1	'벌써	'+벌써	ADV	SS+MAG	_	3	advmod	_	_
+2	여름철이	여름+철+이	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+3	되구나'라는	되+구나+'+라는	VERB	VV+EF+SS+JKQ	_	4	acl	_	_
+4	생각이	생각+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	들었다	들+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_14_1_03
+# text = 그러나 여름철은 예전보다 일찍 오는 것 같다.
+1	그러나	그러나	ADV	MAJ	_	7	cc	_	_
+2	여름철은	여름+철+은	NOUN	NNG+NNG+JX	_	5	nsubj	_	_
+3	예전보다	예전+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	오는	오+는	VERB	VV+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_14_1_04
+# text = 그 것은 바로 지구온난화 때문이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	것은	것+은	NOUN	NNB+JX	_	5	nsubj	_	_
+3	바로	바로	ADV	MAG	_	5	advmod	_	_
+4	지구온난화	지구+온난+화	NOUN	NNG+NNG+XSN	_	5	nmod	_	_
+5	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_14_1_05
+# text = 인간들이 삶의 편의성을 위하여 계속 주변의 땅을 개발한 바람에 가색가양 재해들이 일으켰다.
+1	인간들이	인간+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+2	삶의	삶+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	편의성을	편의+성+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	위하여	위하+아	VERB	VV+EC	_	8	advcl	_	_
+5	계속	계속	ADV	MAG	_	8	advmod	_	_
+6	주변의	주변+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	땅을	땅+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	개발한	개발+하+ㄴ	VERB	NNG+XSV+ETM	_	12	advcl	_	_
+9	바람에	바람+에	ADV	NNB+JKB	_	8	mark	_	_
+10	가색가양	가색가양	NOUN	NF	Typo=Yes	11	nmod	_	_
+11	재해들이	재해+들+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+12	일으켰다	일으키+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_14_1_06
+# text = 과연 이런 환경은 우리가 바라는 것일까?
+1	과연	과연	ADV	MAG	_	6	advmod	_	_
+2	이런	이런	DET	MM	_	3	det	_	_
+3	환경은	환경+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+5	바라는	바라+는	VERB	VV+ETM	_	6	acl	_	_
+6	것일까	것+이+ㄹ까	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_14_1_07
+# text = 옛날에 지진이 없었던 지역이 지진이 나며 침수가 없었던 지역에 푹우나 태풍이 오면 홍수 때문에 해를 입혔다.
+1	옛날에	옛날+에	ADV	NNG+JKB	_	3	obl	_	_
+2	지진이	지진+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없었던	없+었+던	ADJ	VA+EP+ETM	_	4	acl	_	_
+4	지역이	지역+이	NOUN	NNG+JKS	_	6	dislocated	_	_
+5	지진이	지진+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	나며	나+며	VERB	VV+EC	_	0	root	_	_
+7	침수가	침수+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	없었던	없+었+던	ADJ	VA+EP+ETM	_	9	acl	_	_
+9	지역에	지역+에	ADV	NNG+JKB	_	12	obl	_	_
+10	푹우나	푹우+나	NOUN	NNG+JC	_	12	nsubj	_	_
+11	태풍이	태풍+이	NOUN	NNG+JKS	_	10	conj	_	_
+12	오면	오+면	VERB	VV+EC	_	16	advcl	_	_
+13	홍수	홍수	NOUN	NNG	_	16	obl	_	_
+14	때문에	때문+에	ADV	NNB+JKB	_	13	case	_	_
+15	해를	해+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	입혔다	입+히+었+다	VERB	VV+XSV+EP+EF	_	6	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_14_1_08
+# text = 이런 형상은 지구가 인간들한테 경고하는 것이다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	형상은	형상+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	지구가	지구+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	인간들한테	인간+들+한테	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	경고하는	경고+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_14_1_09
+# text = 이제 나도 자연 보존에 노력을 기우어야 한다.
+1	이제	이제	ADV	MAG	_	6	advmod	_	_
+2	나도	나+도	PRON	NP+JX	_	6	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존에	보존+에	ADV	NNG+JKB	_	6	obl	_	_
+5	노력을	노력+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	기우어야	기우+어야	VERB	NV+EC	Typo=Yes	0	root	_	_
+7	한다	하	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_14_1_10
+# text = 아니면 지금 이 순간에 우리가 살고 있는 곳이 언제 살아지질도 모르다.
+1	아니면	아니+면	ADJ	VCN+EC	_	11	advcl	_	_
+2	지금	지금	ADV	MAG	_	6	advmod	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	순간에	순간+에	ADV	NNG+JKB	_	6	obl	_	_
+5	우리가	우리+가	PRON	NP+JKS	_	6	nsubj	_	_
+6	살고	살+고	VERB	VV+EC	_	8	acl	_	_
+7	있는	있	AUX	VX+ETM	_	6	aux	_	_
+8	곳이	곳+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	언제	언제	ADV	MAG	_	11	advmod	_	_
+10	살아지질도	살+아지+질+도	NOUN	VV+EC+NA+JX	Typo=Yes	11	ccomp	_	_
+11	모르다	모르+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_14_1_11
+# text = 아무리 편의한 생활이라도 땅과 깨끗한 물이 없으면 살지 못한다.
+1	아무리	아무리	ADV	MAG	_	2	advmod	_	_
+2	편의한	편의하+ㄴ	VERB	NV+ETM	Typo=Yes	3	amod	_	_
+3	생활이라도	생활+이+라도	ADJ	NNG+VCP+EC	_	7	advcl	_	_
+4	땅과	땅+과	NOUN	NNG+JC	_	7	nsubj	_	_
+5	깨끗한	깨끗+하+ㄴ	ADJ	XR+XSA+ETM	_	6	amod	_	_
+6	물이	물+이	NOUN	NNG+JKS	_	4	conj	_	_
+7	없으면	없+으면	ADJ	VA+EC	_	8	advcl	_	_
+8	살지	살+지	VERB	VV+EC	_	0	root	_	_
+9	못한다	못하+ㄴ다	VERB	VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_14_1_12
+# text = 작은 힘이라도 우리가 지구와 같이 살아갈 수 있는 방법을 찾아야 한다.
+1	작은	작+은	ADJ	VA+ETM	_	2	amod	_	_
+2	힘이라도	힘+이+라도	ADJ	NNG+VCP+EC	_	10	advcl	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	지구와	지구+와	ADV	NNG+JKB	_	6	obl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	살아갈	살+아+가+ㄹ	VERB	VV+EC+VX+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	방법을	방법+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	찾아야	찾+아야	VERB	VV+EC	_	0	root	_	_
+11	한다	하	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_

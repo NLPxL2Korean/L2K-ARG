@@ -1,0 +1,225 @@
+# sent_id = ARG-CHN_25_2_01
+# text = 지금의 시대는 협동과 경쟁의 시대라고 볼수 있습니다.
+1	지금의	지금+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	시대는	시대+는	NOUN	NNG+JX	_	5	nsubj	_	_
+3	협동과	협동+과	NOUN	NNG+JC	_	5	nmod:poss	_	_
+4	경쟁의	경쟁+의	NOUN	NNG+JKG	_	3	conj	_	_
+5	시대라고	시대+이+라고	ADJ	NNG+VCP+EC	_	6	ccomp	_	_
+6	볼수	보+ㄹ+수	NOUN	VV+ETM+NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_25_2_02
+# text = 우리는 협동을 하여 하나의 일을 완성하고 또한 경쟁중에서 더 좋은 자신을 실현하고 있습니다.
+1	우리는	우리+는	PRON	NP+JX	_	12	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하여	하+아	VERB	VV+EC	_	6	advcl	_	_
+4	하나의	하나+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	일을	일+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	완성하고	완성+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+7	또한	또한	ADV	MAG	_	12	cc	_	_
+8	경쟁중에서	경쟁+중+에서	ADV	NNG+NNB+JKB	_	12	obl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	12	acl	_	_
+11	자신을	자신+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	실현하고	실현+하+고	VERB	NNG+XSV+EC	_	6	conj	_	_
+13	있습니다	있	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_25_2_03
+# text = 그럼 협동과 경쟁은 무엇이 성공에 더 큰 영향을 미친 걸까요?
+1	그럼	그럼	ADV	MAG	_	10	advmod	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	10	obl	_	_
+3	경쟁은	경쟁+은	NOUN	NNG+JX	_	2	conj	_	_
+4	무엇이	무엇+이	PRON	NP+JKS	_	10	nsubj	_	_
+5	성공에	성공+에	ADV	NNG+JKB	_	9	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	영향을	영향+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	미친	미치+ㄴ	ADJ	VA+ETM	_	10	acl	_	_
+10	걸까요	것+이+ㄹ까요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_25_2_04
+# text = 저는 경쟁이라고 봅니다.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	경쟁이라고	경쟁+이+라고	ADJ	NNG+VCP+EC	_	3	ccomp	_	_
+3	봅니다	보+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CHN_25_2_05
+# text = 이 사회에서의 모든 사람들의 특징은 다르고 생각도 다른것입니다.
+1	이	이	DET	MM	_	2	det	_	_
+2	사회에서의	사회+에서+의	NOUN	NNG+JKB+JKG	_	4	nmod:poss	_	_
+3	모든	모든	DET	MM	_	4	det	_	_
+4	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	특징은	특징+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	다르고	다르+고	ADJ	VA+EC	_	0	root	_	_
+7	생각도	생각+도	NOUN	NNG+JX	_	8	obj	_	_
+8	다른것입니다	다르+ㄴ+것+이+ㅂ니다	ADJ	VA+ETM+NNG+VCP+EF	_	6	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_25_2_06
+# text = 각기 특생을 지니다고 볼수 있습니다.
+1	각기	각기	ADV	MAG	_	3	advmod	_	_
+2	특생을	특생+을	NOUN	NF+JKO	Typo=Yes	3	obj	_	_
+3	지니다고	지니+다고	VERB	VV+EC	_	4	ccomp	_	_
+4	볼수	보+ㄹ+수	NOUN	VV+ETM+NNB	_	5	nsubj	_	_
+5	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_25_2_07
+# text = 그리하여 사람에 따라 하는 일의 방식도 다르고 그의 결과도 다릅니다.
+1	그리하여	그리하+여	VERB	VV+EC	_	7	advcl	_	_
+2	사람에	사람+에	ADV	NNG+JKB	_	3	obl	_	_
+3	따라	따르+아	VERB	VV+EC	_	7	advcl	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	일의	일+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	방식도	방식+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	다르고	다르+고	ADJ	VA+EC	_	0	root	_	_
+8	그의	그+의	PRON	NP+JKG	_	9	nmod:poss	_	_
+9	결과도	결과+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	다릅니다	다르+ㅂ니다	ADJ	VA+EF	_	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_25_2_08
+# text = 다원성이 있기에 계기성도 있기 마련입니다.
+1	다원성이	다원+성+이	NOUN	NNG+XSN+JKS	_	2	nsubj	_	_
+2	있기에	있+기+에	VERB	VV+ETN+JKB	_	4	obl	_	_
+3	계기성도	계기+성+도	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+4	있기	있+기	ADJ	VA+ETN	_	5	nmod	_	_
+5	마련입니다	마련+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_25_2_09
+# text = 사람들은 서로 경쟁하에서 자신의 강한 점과 부족한 점을 알게 됩니다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+2	서로	서로	ADV	MAG	_	3	advmod	_	_
+3	경쟁하에서	경쟁+하+에서	ADV	NNG+NNG+JKB	_	9	obl	_	_
+4	자신의	자신+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+5	강한	강하+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	점과	점+과	NOUN	NNB+JC	_	9	obj	_	_
+7	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	점을	점+을	NOUN	NNG+JKO	_	6	conj	_	_
+9	알게	알+게	VERB	VV+EC	_	0	root	_	_
+10	됩니다	되+ㅂ니다	VERB	VX+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_25_2_10
+# text = 살다보면 혼자 완성할수 있는 일이 있고 동료들과 같이 완성해야 하는 일도 있습니다.
+1	살다보면	살+다+보+면	VERB	VV+EC+VX+EC	_	6	advcl	_	_
+2	혼자	혼자	NOUN	NNG	_	3	nsubj	_	_
+3	완성할수	완성+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	4	nsubj	_	_
+4	있는	있	AUX	VX+ETM	_	5	acl	_	_
+5	일이	일+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	0	root	_	_
+7	동료들과	동료+들+과	ADV	NNG+XSN+JKB	_	9	obl	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	완성해야	완성+하+아야	VERB	NNG+XSV+EC	_	11	acl	_	_
+10	하는	하	AUX	VX+ETM	_	9	aux	_	_
+11	일도	일+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	있습니다	있+습니다	VERB	VV+EF	_	6	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_25_2_11
+# text = 단체에서 서로 돕고 함께 진보하는 것이 중요하지만 서로의 경쟁도 중요합니다.
+1	단체에서	단체+에서	ADV	NNG+JKB	_	3	obl	_	_
+2	서로	서로	ADV	MAG	_	3	advmod	_	_
+3	돕고	돕+고	VERB	VV+EC	_	7	advcl	_	_
+4	함께	함께	ADV	MAG	_	3	advmod	_	_
+5	진보하는	진보+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	10	advcl	_	_
+8	서로의	서로+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	경쟁도	경쟁+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_25_2_12
+# text = 대원 한명이 열심히 하면 다른 사람도 그를 따라서 열심히하는 경우가 많습니다.
+1	대원	대원	NOUN	NNG	_	2	nmod	_	_
+2	한명이	한+명+이	NOUN	MM+NNB+JKS	_	4	nsubj	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람도	사람+도	NOUN	NNG+JX	_	8	nsubj	_	_
+7	그를	그+를	PRON	NP+JKO	_	8	obj	_	_
+8	따라서	따르+아서	VERB	VV+EC	_	11	advcl	_	_
+9	열심히하는	열심히+하+는	VERB	MAG+VV+ETM	_	10	acl	_	_
+10	경우가	경우+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_25_2_13
+# text = 단체중에서도 말없는 경쟁을 하는것입니다.
+1	단체중에서도	단체+중+에서+도	ADV	NNG+NNB+JKB+JX	_	4	obl	_	_
+2	말없는	말+없+는	ADJ	NNG+VA+ETM	_	3	acl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하는것입니다	하+는+것+이+ㅂ니다	ADJ	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_25_2_14
+# text = 서로의 경쟁을 통하여 부족을 밀어내고 그것에 대하여 분석하고 고쳐나가는것입니다.
+1	서로의	서로+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	통하여	통하+아	VERB	VV+EC	_	5	advcl	_	_
+4	부족을	부족+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	밀어내고	밀어내+고	VERB	VV+EC	_	8	advcl	_	_
+6	그것에	그것+에	PRON	NP+JKB	_	7	obl	_	_
+7	대하여	대하+아	VERB	VV+EC	_	8	advcl	_	_
+8	분석하고	분석+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+9	고쳐나가는것입니다	고치+어+나가+는+것+이+ㅂ니다	VERB	VV+EC+VX+ETM+NNB+VCP+EF	_	8	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_25_2_15
+# text = 또한 경쟁을 통하여 열정을 나아내고 자아실현을 하는것입니다.
+1	또한	또한	ADV	MAJ	_	7	cc	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	통하여	통하+아	VERB	VV+EC	_	7	advcl	_	_
+4	열정을	열정+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	나아내고	나+아+내+고	VERB	VV+EC+VX+EC	_	7	advcl	_	_
+6	자아실현을	자아+실현+을	NOUN	NNG+NNG+JKO	_	7	obj	_	_
+7	하는것입니다	하+는+것+이+ㅂ니다	ADJ	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_25_2_16
+# text = 성공의 정의라는게 어려개의 대비하에 최고로 우수한것이 성공했다고 볼수 있습니다.
+1	성공의	성공+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	정의라는게	정의+이+라+는+것+이	VERB	NNG+VCP+JKQ+ETM+NNB+JKS	_	9	dislocated	_	_
+3	어려개의	어려+개+의	NOUN	NA+NNB+JKG	Typo=Yes	4	nmod:poss	_	_
+4	대비하에	대비+하+에	ADV	NNG+NNB+JKB	_	6	obl	_	_
+5	최고로	최고+로	ADV	NNG+JKB	_	6	obl	_	_
+6	우수한것이	우수+하+ㄴ+것+이	ADV	NNG+XSV+ETM+NNB+JKS	_	7	nsubj	_	_
+7	성공했다고	성공+하+았+다고	VERB	NNG+XSV+EP+EC	_	8	ccomp	_	_
+8	볼수	보+ㄹ+수	NOUN	VV+ETM+NNB	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_25_2_17
+# text = 그럼 성공자체가 경쟁이 아니겠습니까?
+1	그럼	그럼	ADV	MAG	_	4	advmod	_	_
+2	성공자체가	성공+자체+가	NOUN	NNG+NNG+JKS	_	4	dislocated	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKC	_	4	nsubj	_	_
+4	아니겠습니까	아니+겠+습니까	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_25_2_18
+# text = 협동속에서 경쟁하고 경쟁속에서 성장하는것입니다.
+1	협동속에서	협동+속+에서	ADV	NNG+NNG+JKB	_	2	obl	_	_
+2	경쟁하고	경쟁+하+고	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	경쟁속에서	경쟁+속+에서	ADV	NNG+NNG+JKB	_	4	obl	_	_
+4	성장하는것입니다	성장+하+는+것+이+ㅂ니다	VERB	NNG+XSV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_25_2_19
+# text = 그리하여 저는 경쟁이 성공에 저 큰 영향을 미친다고 봅니다.
+1	그리하여	그리하여	ADV	MAJ	_	9	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	8	dislocated	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	저	저	DET	MM	_	7	det	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미친다고	미치+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	봅니다	보+ㅂ니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

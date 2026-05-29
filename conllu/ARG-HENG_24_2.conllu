@@ -1,0 +1,94 @@
+# sent_id = ARG-HENG_24_2_01
+# text = 역사를 배워야 한다고 생각합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	ccomp	_	_
+3	한다고	하+ㄴ다고	AUX	VX+EC	_	2	aux	_	_
+4	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_24_2_02
+# text = 과거의 실수들 때문에 현제의 성장이 생깁니다.
+1	과거의	과거+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	실수들	실수+들	NOUN	NNG+XSN	_	6	obl	_	_
+3	때문에	때문+에	ADP	NNB+JKB	_	2	case	_	_
+4	현제의	현제+의	NOUN	NF+JKG	_	5	nmod:poss	_	_
+5	성장이	성장+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	생깁니다	생기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_24_2_03
+# text = 역사는 모든 것에 관련있습니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+2	모든	모든	DET	MM	_	3	det	_	_
+3	것에	것+에	ADV	NNB+JKB	_	4	obl	_	_
+4	관련있습니다	관련+있+습니다	ADJ	NNG+VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_24_2_04
+# text = 다른 문화들에 대해서 배울 수 있고 우리의 문화를 더 잘 이해할 수 있습니다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	문화들에	문화+들+에	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+4	배울	배우+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	0	root	_	_
+7	우리의	우리+의	PRON	NP+JKG	_	8	nmod:poss	_	_
+8	문화를	문화+를	NOUN	NNG+JKO	_	11	obj	_	_
+9	더	더	ADV	MAG	_	11	advmod	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VX+EF	_	6	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_24_2_05
+# text = 자기의 identity를 알아볼 수 있습니다.
+1	자기의	자기+의	PRON	NNG+JKG	_	2	nmod:poss	_	_
+2	identity를	identity+를	NOUN	SL+JKO	_	3	obj	_	_
+3	알아볼	알+아+보+ㄹ	VERB	VV+EC+VX+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_24_2_06
+# text = 삶을 사는 동안 과거에 돌려보고 좋은 경험 혹은 안 좋은 경험에 대해 반성을 하고 성장을 합니다.
+1	삶을	삶+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	사는	살+는	VERB	VV+ETM	_	16	advcl	_	_
+3	동안	동안	ADV	NNG	_	2	mark	_	_
+4	과거에	과거+에	ADV	NNG+JKB	_	5	obl	_	_
+5	돌려보고	돌리+어+보+고	VERB	VV+EC+VX+EC	_	14	advcl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	경험	경험	NOUN	NNG	_	12	obl	_	_
+8	혹은	혹은	ADP	MAG	_	12	advmod	_	_
+9	안	안	ADV	MAG	_	10	advmod	_	_
+10	좋은	좋+은	ADJ	VA+ETM	_	11	amod	_	_
+11	경험에	경험+에	ADV	NNG+JKB	_	7	conj	_	_
+12	대해	대하+아	VERB	VV+EC	_	14	advcl	_	_
+13	반성을	반성+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	하고	하+고	VERB	VV+EC	_	16	advcl	_	_
+15	성장을	성장+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_24_2_07
+# text = 마찬가지로 역사의 실수랑 성공을 배우면 좋습니다.
+1	마찬가지로	마찬가지+로	ADV	NNG+JKB	_	6	obl	_	_
+2	역사의	역사+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	실수랑	실수+랑	NOUN	NNG+JC	_	5	obj	_	_
+4	성공을	성공+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	배우면	배우+면	VERB	VV+EC	_	6	advcl	_	_
+6	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_24_2_08
+# text = 과학자들도 과거에 발견했던 것을 배우고 더 좋은 발전들 생깁니다.
+1	과학자들도	과학자+들+도	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+2	과거에	과거+에	ADV	NNG+JKB	_	3	obl	_	_
+3	발견했던	발견+하+았+던	VERB	NNG+XSV+EP+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	5	obj	_	_
+5	배우고	배우+고	VERB	VV+EC	_	9	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋은	좋+은	VERB	VA+ETM	_	8	amod	_	_
+8	발전들	발전+들	NOUN	NNG+XSN	_	9	nsubj	_	_
+9	생깁니다	생기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

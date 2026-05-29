@@ -1,0 +1,122 @@
+# sent_id = ARG-CHN_4_1_01
+# text = 지구 온란화 등등 지구 환경 문제는 지금 이 시대 각 나라 사람들이 공통적으로 고민해야하는 문제이다.
+1	지구	지구	NOUN	NNG	_	2	nmod	_	_
+2	온란화	온란+화	NOUN	NF+XSN	Typo=Yes	6	nmod	_	_
+3	등등	등등	NOUN	NNB	_	2	case	_	_
+4	지구	지구	NOUN	NNG	_	5	nmod	_	_
+5	환경	환경	NOUN	NNG	_	6	nmod	_	_
+6	문제는	문제+는	NOUN	NNG+JX	_	15	nsubj	_	_
+7	지금	지금	ADV	MAG	_	14	advmod	_	_
+8	이	이	DET	MM	_	9	det	_	_
+9	시대	시대	NOUN	NNG	_	11	nmod	_	_
+10	각	각	DET	MM	_	11	amod	_	_
+11	나라	나라	NOUN	NNG	_	12	nmod	_	_
+12	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+13	공통적으로	공통+적+으로	ADV	NNG+XSN+JKB	_	14	obl	_	_
+14	고민해야하는	고민+하+아야+하+는	VERB	NNG+XSV+EC+VX+ETM	_	15	acl	_	_
+15	문제이다	문제+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_4_1_02
+# text = 세계는 글로벌화하게 되고 경제성장도 지속적으로 상승하고 기업들은 공장을 많이 설립하기 때문에 이런 환경문제는 더 심하게 된다.
+1	세계는	세계+는	NOUN	NNG+JX	_	3	nsubj	_	_
+2	글로벌화하게	글로벌+화+하+게	ADV	NNG+XSN+XSA+EC	_	3	advmod	_	_
+3	되고	되+고	VERB	VV+EC	_	16	obl	_	_
+4	경제성장도	경제+성장+도	NOUN	NNG+NNG+JX	_	6	nsubj	_	_
+5	지속적으로	지속+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	상승하고	상승+하+고	VERB	NNG+XSV+EC	_	3	conj	_	_
+7	기업들은	기업+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+8	공장을	공장+을	NOUN	NNG+JKO	_	10	obj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	설립하기	설립+하+기	VERB	NNG+XSV+ETN	_	3	conj	_	_
+11	때문에	때문+에	ADV	NNB+JKB	_	10	case	_	_
+12	이런	이런	DET	MM	_	13	det	_	_
+13	환경문제는	환경+문제+는	NOUN	NNG+NNG+JX	_	16	nsubj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	심하게	심하+게	ADV	VA+EC	_	16	advmod	_	_
+16	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_4_1_03
+# text = 나라 정부도 자연 보존과 자연 개발 등 환경 보호 방법을 세우기 시작된다.
+1	나라	나라	NOUN	NNG	_	2	nmod	_	_
+2	정부도	정부+도	NOUN	NNG+JX	_	12	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존과	보존+과	NOUN	NNG+JC	_	10	nmod	_	_
+5	자연	자연	NOUN	NNG	_	6	nmod	_	_
+6	개발	개발	NOUN	NNG	_	4	conj	_	_
+7	등	등	NOUN	NNB	_	6	case	_	_
+8	환경	환경	NOUN	NNG	_	9	nmod	_	_
+9	보호	보호	NOUN	NNG	_	10	nmod	_	_
+10	방법을	방법+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	세우기	세우+기	VERB	VV+ETN	_	12	obj	_	_
+12	시작된다	시작+되+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_4_1_04
+# text = 과연 자연 보존과 자연 개발은 정말 환경오염 개선에 도움이 있나요?
+1	과연	과연	ADV	MAG	_	10	advmod	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존과	보존+과	NOUN	NNG+JC	_	10	dislocated	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	개발은	개발+은	NOUN	NNG+JX	_	3	conj	_	_
+6	정말	정말	ADV	MAG	_	10	advmod	_	_
+7	환경오염	환경+오염	NOUN	NNG+NNG	_	8	nmod	_	_
+8	개선에	개선+에	ADV	NNG+JKB	_	10	obl	_	_
+9	도움이	도움+이	NOUN	NNG+JKC	_	10	nsubj	_	_
+10	있나요	있+나요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_4_1_05
+# text = 개인적으로 자연보존은 더 중요하다고 생각한다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+2	자연보존은	자연+보존+은	NOUN	NNG+NNG+JX	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_4_1_06
+# text = 아직 오염이나 파손시키지 않는 부터 보존하고 다른 방법을 찾으면서 손해된 자연자원은 다시 개발하는게 좋다고 생각한다.
+1	아직	아직	ADV	MAG	_	3	advmod	_	_
+2	오염이나	오염+이나	NOUN	NNG+JC	_	6	obj	_	_
+3	파손시키지	파손+시키+지	VERB	NNG+VV+EC	_	2	conj	_	_
+4	않는	않	AUX	VX+ETM	_	3	aux	_	_
+5	부터	부터	ADP	JX	_	2	case	_	_
+6	보존하고	보존+하+고	VERB	NNG+XSV+EC	_	9	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	방법을	방법+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	찾으면서	찾+으면서	VERB	VV+EC	_	13	advcl	_	_
+10	손해된	손해+되+ㄴ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	자연자원은	자연+자원+은	NOUN	NNG+NNG+JX	_	13	obj	_	_
+12	다시	다시	ADV	MAG	_	13	advmod	_	_
+13	개발하는게	개발+하+는+것+이	VERB	NNG+XSV+ETM+NNB+JKS	_	14	nsubj	_	_
+14	좋다고	좋+다고	ADJ	VA+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_4_1_07
+# text = 또한 원래 보유있는 자연자원의 보존은 개발보다 비용도 많이 든지않다고 생각한다.
+1	또한	또한	ADV	MAJ	_	10	cc	_	_
+2	원래	원래	ADV	NNG	_	3	advmod	_	_
+3	보유있는	보유+있+는	VERB	NNG+VX+ETM	_	4	acl	_	_
+4	자연자원의	자연+자원+의	NOUN	NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	보존은	보존+은	NOUN	NNG+JX	_	9	dislocated	_	_
+6	개발보다	개발+보다	ADV	NNG+JKB	_	9	obl	_	_
+7	비용도	비용+도	NOUN	NNG+JX	_	9	nsubj	_	_
+8	많이	많이	ADV	MAG	_	9	advmod	_	_
+9	든지않다고	든+지+않+다고	VERB	NV+EC+VX+EC	Typo=Yes	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_4_1_08
+# text = 하지만 제일 중용하것은 사람들이 자기가 자연보호 의자가 있어야한다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	제일	제일	ADV	MAG	_	3	advmod	_	_
+3	중용하것은	중용+하+것+은	NOUN	NF+XSA+NNB+JX	Typo=Yes	8	obl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	dislocated	_	_
+5	자기가	자기+가	PRON	NP+JKS	_	4	flat	_	_
+6	자연보호	자연+보호	NOUN	NNG+NNG	_	7	nmod	_	_
+7	의자가	의자+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있어야한다	있+어야+하+ㄴ다	VERB	VV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

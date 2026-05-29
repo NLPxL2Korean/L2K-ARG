@@ -1,0 +1,141 @@
+# sent_id = ARG-JPN_07_1_01
+# text =  최근에 글로벌화 가 되어 외국어의 중요성이 높아졌다.
+1	최근에	최근+에	ADV	NNG+JKB	_	7	obl	_	_
+2	글로벌화	글로벌+화	NOUN	NNG+XSN	_	4	nsubj	_	_
+3	가	가	VERB	JKS	_	2	case	_	_
+4	되어	되+어	VERB	VX+EC	_	7	advcl	_	_
+5	외국어의	외국어+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	중요성이	중요+성+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	높아졌다	높+아지+었+다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_07_1_02
+# text =  그에 따라 조기 언어 교육이 사람들의 관심을 끌어 있다.
+1	그에	그+에	ADV	NP+JKB	_	2	obl	_	_
+2	따라	따르+아	VERB	VV+EC	_	8	advcl	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	교육이	교육+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	사람들의	사람+들+의	ADJ	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	관심을	관심+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	끌어	끌+어	VERB	VV+EC	_	0	root	_	_
+9	있다	있+다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_07_1_03
+# text =  어린 시기에 시작하는 외국어 교육은 장점이 있는 반면 단점도 있다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	시기에	시기+에	ADV	NNG+JKB	_	3	obl	_	_
+3	시작하는	시작+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	외국어	외국어	NOUN	NNG	_	5	nmod	_	_
+5	교육은	교육+은	NOUN	NNG+JX	_	10	dislocated	_	_
+6	장점이	장점+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있는	있+는	VERB	VV+ETM	_	8	acl	_	_
+8	반면	반면	ADV	NNG	_	10	obl	_	_
+9	단점도	단점+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_07_1_04
+# text =  조기언어교육의 장점은 어학 능력 성장이 빠른 점이다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	SN+SN+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	어학	어학	NOUN	NNG	_	4	nmod	_	_
+4	능력	능력	NOUN	NNG	_	5	nmod	_	_
+5	성장이	성장+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	빠른	빠르+ㄴ	VERB	VA+ETM	_	7	acl	_	_
+7	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_07_1_05
+# text =  어렸을 때는 지식을 구수하는 속도가 빠르다.
+1	어렸을	어리+었+을	VERB	VA+EP+ETM	_	6	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	지식을	지식+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	구수하는	구수+하+는	VERB	NF+XSV+ETM	_	5	acl	_	_
+5	속도가	속도+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	빠르다	빠르+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_07_1_06
+# text =  날마다 새로운 것들을 배워서 성장한다.
+1	날마다	날+마다	ADV	NNG+JX	_	5	obl	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	배워서	배우+어서	VERB	VV+EC	_	5	advcl	_	_
+5	성장한다	성장+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_07_1_07
+# text =  그리고 모국어의 어휘와 문법지식도 아직 많지 않기 때문에 제일 언어의 영향을 많이는 받지 않다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	모국어의	모국어+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	어휘와	어휘+와	NOUN	NNG+JC	_	6	nsubj	_	_
+4	문법지식도	문법+지식+도	NOUN	NNG+NNG+JX	_	3	conj	_	_
+5	아직	아직	ADV	MAG	_	6	advmod	_	_
+6	많지	많+지	VERB	VA+EC	_	13	obl	_	_
+7	않기	않+기	AUX	VX+ETN	_	6	aux	_	_
+8	때문에	때문+에	ADP	NNB+JKB	_	6	case	_	_
+9	제일	제+일	ADV	XPN+NR	_	10	nmod	_	_
+10	언어의	언어+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	영향을	영향+을	NOUN	NNG+JKO	_	13	obj	_	_
+12	많이는	많이+는	NOUN	MAG+JX	_	13	advmod	_	_
+13	받지	받+지	VERB	VV+EC	_	0	root	_	_
+14	않다	않+다니	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_07_1_08
+# text =  조기언어 교육의 단점은 제일 언어인 모국어 능숙에 치는 영향이다.
+1	조기언어	조기+언어	NOUN	NNG+NNG	_	2	nmod	_	_
+2	교육의	교육+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	단점은	단점+은	NOUN	NNG+JX	_	9	nsubj	_	_
+4	제일	제+일	ADV	XPN+NR	_	5	nmod	_	_
+5	언어인	언어+이+ㄴ	VERB	NNG+VCP+ETM	_	6	acl	_	_
+6	모국어	모국어	NOUN	NNG	_	7	nmod	_	_
+7	능숙에	능숙+에	ADV	NF+JKB	_	8	obl	_	_
+8	치는	치+는	VERB	NV+ETM	_	9	acl	_	_
+9	영향이다	영향+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_07_1_09
+# text =  모국어의 지식과 운영능력이 충분하지 않은 어린 시기에 외국어 교육을 시키면 언어두개가 헷갈리고 둘 다 원어민 수준으로 대득하지 못 할 수도 있다.
+1	모국어의	모국어+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	지식과	지식+과	NOUN	NNG+JC	_	4	nsubj	_	_
+3	운영능력이	운영+능력+이	NOUN	NNG+NNG+JKS	_	2	conj	_	_
+4	충분하지	충분+하+지	VERB	NNG+XSA+EC	_	7	acl	_	_
+5	않은	않+은	AUX	VX+ETM	_	4	aux	_	_
+6	어린	어리+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	시기에	시기+에	ADV	NNG+JKB	_	10	obl	_	_
+8	외국어	외국어	NOUN	NNG	_	9	nmod	_	_
+9	교육을	교육+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	시키면	시키+면	VERB	VV+EC	_	12	advcl	_	_
+11	언어두개가	언어+두+개+가	NOUN	NNG+MM+NNB+JKS	_	12	nsubj	_	_
+12	헷갈리고	헷갈리+고	VERB	VV+EC	_	21	advcl	_	_
+13	둘	둘	NOUN	MM	_	14	nummod	_	_
+14	다	다	ADV	NNG	_	17	obj	_	_
+15	원어민	원어민	NOUN	NNG	_	16	nmod	_	_
+16	수준으로	수준+으로	ADV	NNG+JKB	_	17	obl	_	_
+17	대득하지	대득+하+지	VERB	NF+XSV+EC	_	20	acl	_	_
+18	못	못	ADV	MAG	_	17	aux	_	_
+19	할	하+ㄹ	VERB	VX+ETM	_	18	goeswith	_	_
+20	수도	수+도	NOUN	NNB+JX	_	21	nsubj	_	_
+21	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-JPN_07_1_10
+# text =  이와 같은 장단점이 있기 때문에 그 양면을 충분히 이해해서 책임을 가지고 조기언어교육을 해야 한다.
+1	이와	이+와	ADV	NP+JKB	_	2	obl	_	_
+2	같은	같+은	VERB	VA+ETM	_	3	acl	_	_
+3	장단점이	장단점+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있기	있+기	NOUN	VV+ETN	_	13	obl	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	양면을	양면+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	충분히	충분히	ADV	MAG	_	9	advmod	_	_
+9	이해해서	이해+하+아서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+10	책임을	책임+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	가지고	가지+고	VERB	VV+EC	_	13	advcl	_	_
+12	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	13	obj	_	_
+13	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+14	한다	하+ㄴ다	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_

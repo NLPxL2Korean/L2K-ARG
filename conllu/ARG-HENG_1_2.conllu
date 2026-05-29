@@ -1,0 +1,103 @@
+# sent_id = ARG-HENG_01_2_01
+# text = 미국 역사 교수님, E.H.Carr의 유명한 책 한 권 “역사는 무엇인가”를 통해서 역사를 배워야한다는 의식을 기웠습니다.
+1	미국	미국	NOUN	NNP	_	2	nmod	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	교수님	교수+님	NOUN	NNG+XSN	_	8	nmod:poss	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	E.H	E+.+H	ADV	SL+SF+SL	_	3	appos	_	_
+6	.Carr의	.+Carr+의	NOUN	SF+SL+JKG	_	5	flat	_	_
+7	유명한	유명+하+ㄴ	VERB	NNG+XSA+ETM	_	8	amod	_	_
+8	책	책	NOUN	NNG	_	10	nmod	_	_
+9	한	한	NUM	MM	_	10	nummod	_	_
+10	권	권	NOUN	NNB	_	13	obj	_	_
+11	“역사는	“+역사+는	NOUN	SS+NNG+JX	_	10	appos	_	_
+12	무엇인가”를	무엇+이+ㄴ가+”+를	NOUN	NP+VCP+EC+SS+JKO	_	11	flat	_	_
+13	통해서	통하+아서	VERB	VV+EC	_	17	advcl	_	_
+14	역사를	역사+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	배워야한다는	배우+어야+하+ㄴ다는	VERB	VV+EC+VX+ETM	_	16	acl	_	_
+16	의식을	의식+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	기웠습니다	기우+었+습니다	VERB	NV+EP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_01_2_02
+# text = 하지만, 역사의 의미도 몇까지 있습니다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사의	역사+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	의미도	의미+도	NOUN	NNG+JX	_	6	nsubj	_	_
+5	몇까지	몇+까지	ADV	NR+JX	_	6	obl	_	_
+6	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_01_2_03
+# text = 대학교전 교육시스템에서 배우는 역사, 대중문화 (영화, 미드)의 역사와, 전문적으로 배우는 역사, 3가지를 분류하고 보시면, 대종적 역사(popu lar hi story)는 사회통일성(soc ial un ity)을 키우는 방식입니다.
+1	대학교전	대학교+전	NOUN	NNG+NNG	_	2	nmod	_	_
+2	교육시스템에서	교육+시스템+에서	ADV	NNG+NNG+JKB	_	3	obl	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	역사	역사	NOUN	NNG	_	14	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	대중문화	대중+문화	NOUN	NNG+NNG	_	7	nmod	_	_
+7	(영화	(+영화	NOUN	SS+NNG	_	9	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	미드)의	미드+)+의	NOUN	NNG+SS+JKG	_	10	nmod:poss	_	_
+10	역사와	역사+와	NOUN	NNG+JC	_	14	list	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	전문적으로	전문+적+으로	ADV	NNG+XSN+JKB	_	13	obl	_	_
+13	배우는	배우+는	VERB	VV+ETM	_	14	acl	_	_
+14	역사	역사	NOUN	NNG	_	17	obl	_	SpaceAfter=No
+15	,	,	PUNCT	SP	_	14	punct	_	_
+16	3가지를	3+가지+를	NOUN	SN+NNB+JKO	_	17	obj	_	_
+17	분류하고	분류+하+고	VERB	NNG+XSV+EC	_	30	advcl	_	_
+18	보시면	보+시+면	VERB	VX+EP+EC	_	17	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	_
+20	대종적	대종+적	NOUN	NF+XSN	_	21	nmod	_	_
+21	역사(popu	역사+(+popu	NOUN	NNG+SS+SL	_	29	nsubj	_	_
+22	lar	_	X	_	_	21	goeswith	_	_
+23	hi	_	X	_	_	22	goeswith	_	_
+24	story)는		_	X	_	_	23	goeswith	_	_
+25	사회통일성(soc	사회+통일+성+(+soc	NOUN	NNG+NNG+XSN+SS+SL	_	29	obj	_	_
+26	ial	_	X	_	_	25	goeswith	_	_
+27	un	_	X	_	_	26	goeswith	_	_
+28	ity)을	_	X	_	_	27	goeswith	_	_
+29	키우는	크+우+는	VERB	VV+ETM	_	30	acl	_	_
+30	방식입니다	방식+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-HENG_01_2_04
+# text = 시간과 공간을 통일화하고, 역사통해서 같은 사회, 커뮤니티로 만드는 법입니다.
+1	시간과	시간+과	NOUN	NNG+JC	_	3	obj	_	_
+2	공간을	공간+을	NOUN	NNG+JKO	_	1	conj	_	_
+3	통일화하고	통일+화+하+고	VERB	NNG+XSN+XSV+EC	_	11	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	역사통해서	역사+통하+아서	VERB	NNG+VV+EC	_	10	advcl	_	_
+6	같은	같+은	VERB	VA+ETM	_	7	amod	_	_
+7	사회	사회	NOUN	NNG	_	9	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	3	punct	_	_
+9	커뮤니티로	커뮤니티+로	ADV	NNG+JKB	_	10	obl	_	_
+10	만드는	만들+는	VERB	VV+ETM	_	11	acl	_	_
+11	법입니다	법+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_01_2_05
+# text = 역사는 무엇보다도, 사실입니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+2	무엇보다도	무엇+보다+도	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	사실입니다	사실+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_01_2_06
+# text = 민족역사든지, 시민사든지, 다른 다양한 스토리를 배우시면, 이 세상도 넓어졌습니다.
+1	민족역사든지	민족+역사+든지	NOUN	NNG+NNG+JX	_	3	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	시민사든지	시민+사+든지	NOUN	NNG+XSN+JX	_	7	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	다른	다른	ADJ	MM	_	7	amod	_	_
+6	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	스토리를	스토리+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우시면	배우+시+면	VERB	VV+EP+EC	_	12	advcl	_	_
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	이	이	DET	MM	_	11	det	_	_
+11	세상도	세상+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	넓어졌습니다	넓+어지+었+습니다	VERB	VA+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

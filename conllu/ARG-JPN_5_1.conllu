@@ -1,0 +1,99 @@
+# sent_id = ARG-JPN_05_1_01
+# text =  조기언어교육의 장점은 어릴 적부터 모국어 외에 다른 언어도 습득할 수 있어 아이가 취직할 때 큰 도움이 될 수 있다는 점이다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	20	nsubj	_	_
+3	어릴	어리+ㄹ	VERB	VA+ETM	_	11	advcl	_	_
+4	적부터	적+부터	ADV	NF+JX	_	3	mark	_	_
+5	모국어	모국어	NOUN	NNG	_	9	obl	_	_
+6	외에	외+에	ADP	NNB+JKB	_	5	case	_	_
+7	다른	다른	ADJ	MM	_	8	amod	_	_
+8	언어도	언어+도	NOUN	NNG+JX	_	9	obj	_	_
+9	습득할	습득+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어	있+어	VERB	VX+EC	_	19	advcl	_	_
+12	아이가	아이+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	취직할	취직+하+ㄹ	VERB	NNG+XSV+ETM	_	19	advcl	_	_
+14	때	때	ADV	NNG	_	13	mark	_	_
+15	큰	크+ㄴ	ADJ	VA+ETM	_	20	amod	_	_
+16	도움이	도움+이	NOUN	NNG+JKC	_	17	nsubj	_	_
+17	될	되+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다는	있+다는	VERB	VX+ETM	_	20	acl	_	_
+20	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_05_1_02
+# text =  취직 때는 영어를 비롯한 외국어 능력이 있으면 유리하기 때문이다.
+1	취직	취직	NOUN	NNG	_	8	obl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	영어를	영어+를	NOUN	NNP+JKO	_	4	obj	_	_
+4	비롯한	비롯+하+ㄴ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	외국어	외국어	NOUN	NNG	_	6	nmod	_	_
+6	능력이	능력+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+8	유리하기	유리+하+기	NOUN	NNG+XSV+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_05_1_03
+# text =  한편, 조기 언어교육을 지나치게 시키면 모국어 능력조차 키우지 못할 가능성도 있다.
+1	한편	한편	ADV	MAG	_	12	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+5	지나치게	지나치+게	ADV	VV+EC	_	6	advmod	_	_
+6	시키면	시키+면	VERB	VV+EC	_	12	advcl	_	_
+7	모국어	모국어	NOUN	NNG	_	8	nmod	_	_
+8	능력조차	능력+조차	NOUN	NNG+JX	_	9	obj	_	_
+9	키우지	키우+지	VERB	VV+EC	_	11	acl	_	_
+10	못할	못하+ㄹ	VERB	VX+ETM	_	9	aux	_	_
+11	가능성도	가능성+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_05_1_04
+# text =  아이는 부모와의 소통으로 모국어를 외우는데 어린 시절부터 영어로 소통하거나 외국어 습득을 시키면 영어 등 외국어 능력은 뛰어나지만 모국어를 못해 학교에서 소외감을 느끼는 등 아이의 성장을 방해할 수 있다.
+1	아이는	아이+는	NOUN	NNG+JX	_	5	nsubj	_	_
+2	부모와의	부모+와+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	소통으로	소통+으로	ADV	NNG+JKB	_	5	obl	_	_
+4	모국어를	모국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	외우는데	외우+는데	VERB	VV+EC	_	28	advcl	_	_
+6	어린	어리+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	시절부터	시절+부터	ADV	NNG+JX	_	9	obl	_	_
+8	영어로	영어+로	ADV	NNG+JKB	_	9	obl	_	_
+9	소통하거나	소통+하+거나	VERB	NNG+XSV+EC	_	28	advcl	_	_
+10	외국어	외국어	NOUN	NNG	_	11	nmod	_	_
+11	습득을	습득+을	NOUN	VV+JKO	_	12	obj	_	_
+12	시키면	시키+면	VERB	VV+EC	_	9	conj	_	_
+13	영어	영어	NOUN	NNG	_	15	nmod	_	_
+14	등	등	NOUN	NNB	_	13	case	_	_
+15	외국어	외국어	NOUN	NNG	_	16	nmod	_	_
+16	능력은	능력+은	NOUN	NNG+JX	_	17	nsubj	_	_
+17	뛰어나지만	뛰어나+지만	VERB	VA+EC	_	28	advcl	_	_
+18	모국어를	모국어+를	NOUN	NNG+JKO	_	19	obj	_	_
+19	못해	못하+아	VERB	VV+EC	_	22	advcl	_	_
+20	학교에서	학교+에서	ADV	NNG+JKB	_	22	obl	_	_
+21	소외감을	소외감+을	NOUN	NNG+XSN+JKO	_	22	obj	_	_
+22	느끼는	느끼+는	VERB	VV+ETM	_	28	acl	_	_
+23	등	등	NOUN	NNB	_	22	case	_	_
+24	아이의	아이+의	NOUN	NNG+JKG	_	25	nmod:poss	_	_
+25	성장을	성장+을	NOUN	NNG+JKO	_	26	obj	_	_
+26	방해할	방해+하+ㄹ	VERB	NNG+XSV+ETM	_	27	acl	_	_
+27	수	수	NOUN	NNB	_	28	nsubj	_	_
+28	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+29	.	.	PUNCT	SF	_	28	punct	_	_
+
+# sent_id = ARG-JPN_05_1_05
+# text =  먼저 모국어를 습득한 뒤에 외국어를 가르치는 순서로 진행하면 아이에게도 좋을 것이다.
+1	먼저	먼저	ADV	MAG	_	11	advmod	_	_
+2	모국어를	모국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	습득한	습득+하+ㄴ	VERB	NNG+XSV+ETM	_	8	advcl	_	_
+4	뒤에	뒤+에	ADV	NNG+JKB	_	3	mark	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	가르치는	가르치+는	VERB	VV+ETM	_	7	acl	_	_
+7	순서로	순서+로	ADV	NNG+JKB	_	8	obl	_	_
+8	진행하면	진행+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+9	아이에게도	아이+에게+도	ADV	NNG+JKB+JX	_	10	obl	_	_
+10	좋을	좋+을	VERB	VA+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

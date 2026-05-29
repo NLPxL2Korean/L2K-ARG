@@ -1,0 +1,133 @@
+# sent_id = ARG-CZH_04_3_01
+# text = 설직히 말하면 협동과 경쟁 중에 더 선호하는 것을 잘 고를 수 없다고 생각한다.
+1	설직히	설직히	ADV	NA	Typo=Yes	13	advmod	_	_
+2	말하면	말+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+3	협동과	협동+과	NOUN	NF+JC	Typo=Yes	7	obl	_	_
+4	경쟁	경쟁	NOUN	NNG	_	3	conj	_	_
+5	중에	중+에	ADV	NNB+JKB	_	4	case	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	고를	고르+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	없다고	없+다고	VERB	VX+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_04_3_02
+# text = 가끔 협동은 더 중요하고 가끔 경쟁이 더 중요하다고 생각한다.
+1	가끔	가끔	ADV	MAG	_	4	advmod	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하고	중요+하+고	ADJ	NNG+XSA+EC	_	9	ccomp	_	_
+5	가끔	가끔	ADV	MAG	_	8	advmod	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	4	conj	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_04_3_03
+# text = 대부분 경우에서는 협동은 더 좋지 않을 까 싶은데 경쟁도 있다면 도움이 될 수도 있다.
+1	대부분	대부분	NOUN	NNG	_	2	nmod	_	_
+2	경우에서는	경우+에서+는	ADV	NNP+JKB+JX	_	8	obl	_	_
+3	협동은	협동+은	NOUN	NNG+JX	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋지	좋+지	ADJ	VA+EC	_	8	ccomp	_	_
+6	않을	않	AUX	VX+NA+EF	Typo=Yes	5	aux	_	_
+7	까	_	X	_	_	6	goeswith	_	_
+8	싶은데	싶+은데	VERB	VX+EC	_	14	advcl	_	_
+9	경쟁도	경쟁+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	있다면	있+다면	VERB	VV+EC	_	14	advcl	_	_
+11	도움이	도움+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	될	되+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수도	수+도	NOUN	NNB+JX	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_04_3_04
+# text = 개인적으로 살면서 다른 사람과 비교하면 안 된다고 생각한다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+2	살면서	살+면서	VERB	VV+EC	_	5	advcl	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람과	사람+과	ADV	NNG+JKB	_	5	obl	_	_
+5	비교하면	비교+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	안	안	ADV	MAG	_	5	advmod	_	_
+7	된다고	되+ㄴ다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_04_3_05
+# text = 제가 다른 사람보다 더 나쁘지 않고 더 좋지 않다.
+1	제가	제+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람보다	사람+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	나쁘지	나쁘+지	ADJ	VA+EC	_	0	root	_	_
+6	않고	않	AUX	VX+EC	_	5	aux	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋지	좋+지	ADJ	VA+EC	_	5	conj	_	_
+9	않다	않	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_04_3_06
+# text = 다른 사람을 보고 경쟁이라고 생각하지 않다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람을	사람+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	보고	보+고	VERB	VV+EC	_	5	advcl	_	_
+4	경쟁이라고	경쟁+이+라고	ADJ	NNG+VCP+EC	_	5	ccomp	_	_
+5	생각하지	생각+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+6	않다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_04_3_07
+# text = 하지만 학교에서나 회사에서 경쟁이 있다면 제가 다른 사람보다 더 열심히 해서 좋은 결과가 나면 기분이 좋다.
+1	하지만	하지만	ADV	MAJ	_	16	cc	_	_
+2	학교에서나	학교+에서+나	ADV	NNG+JKB+JC	_	5	obl	_	_
+3	회사에서	회사+에서	ADV	NNG+JKB	_	2	conj	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다면	있+다면	VERB	VV+EC	_	16	advcl	_	_
+6	제가	제+가	PRON	NP+JKS	_	11	nsubj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	사람보다	사람+보다	ADV	NNG+JKB	_	11	obl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	열심히	열심히	ADV	MAG	_	11	advmod	_	_
+11	해서	하+아서	VERB	VV+EC	_	14	advcl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	결과가	결과+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	나면	나+면	VERB	VV+EC	_	16	advcl	_	_
+15	기분이	기분+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_04_3_08
+# text = 그 반면에 좋은 사람과 같이 협동을 하면 경쟁만 보는 게 보다 더 더 잘 될 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	반면에	반면+에	ADV	NNG+JKB	_	17	obl	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	사람과	사람+과	ADV	NNG+JKB	_	7	obl	_	_
+5	같이	같이	ADV	MAG	_	7	advmod	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하면	하+면	VERB	VV+EC	_	15	advcl	_	_
+8	경쟁만	경쟁+만	NOUN	NNG+JX	_	9	obj	_	_
+9	보는	보+는	VERB	VV+ETM	_	10	acl	_	_
+10	게	것+이	NOUN	NNB+JKS	_	15	obl	_	_
+11	보다	보다	ADP	JKB	_	10	case	_	_
+12	더	더	ADV	MAG	_	15	advmod	_	_
+13	더	더	ADV	MAG	_	15	advmod	_	_
+14	잘	잘	ADV	MAG	_	15	advmod	_	_
+15	될	되+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_04_3_09
+# text = 그래서 둘 다 좋을 수 있다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	둘	둘	NUM	NR	_	3	nummod	_	_
+3	다	다	ADV	MAG	_	4	nsubj	_	_
+4	좋을	좋+을	ADJ	VA+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

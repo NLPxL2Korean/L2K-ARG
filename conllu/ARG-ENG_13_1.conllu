@@ -1,0 +1,278 @@
+# sent_id = ARG-ENG_13_1_01
+# text = 요즘에는 조기언어교육은 인기가 많다.
+1	요즘에는	요즘+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+2	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	4	dislocated	_	_
+3	인기가	인기+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_13_1_01
+# text = 한국에서 조기언어교육은 넘무 중요한 갓습니다.
+1	한국에서	한국+에서	ADV	NNP+JKB	_	5	obl	_	_
+2	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	nsubj	_	_
+3	넘무	넘무	ADV	NA	_	4	advmod	_	_
+4	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	5	amod	_	_
+5	갓습니다	갓+습니다	VERB	NF+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_02
+# text = 직장에서 언어 능력이 있으면 돈을 더 벌 수 있고 더 쉽게 취작할 수 있다.
+1	직장에서	직장+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	능력이	능력+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	9	advcl	_	_
+5	돈을	돈+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	벌	벌+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	0	root	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	쉽게	쉽+게	ADV	VA+EC	_	12	advmod	_	_
+12	취작할	취작+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_13_1_02
+# text = 초등학교 3학년부터 학생들을 영어를 공부를 해야 합니다.
+1	초등학교	초등학교	NOUN	NNG	_	2	nmod	_	_
+2	3학년부터	3+학년+부터	ADV	SN+NNB+JX	_	6	obl	_	_
+3	학생들을	학생+들+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+4	영어를	영어+를	NOUN	NNP+JKO	_	6	obj	_	_
+5	공부를	공부+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+7	합니다	하+ㅂ니다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_1_03
+# text = 하지만 어린에게 조기언어교육이 스트레스를 줄 수 있다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	어린에게	어린+에게	ADV	NF+JKB	Typo=Yes	5	obl	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	5	nsubj	_	_
+4	스트레스를	스트레스+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	줄	주+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_1_03
+# text = 첫제, 장점 대해 말합니다.
+1	첫제	첫제	NOUN	MM+NNB	_	5	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	장점	장점	NOUN	NNG	_	4	obl	_	_
+4	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+5	말합니다	말+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_04
+# text = 할까 말까 다양한 점이 있다.
+1	할까	하+ㄹ까	VERB	VV+EC	_	2	advcl	_	_
+2	말까	말+ㄹ까	VERB	VV+EC	_	5	advcl	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	점이	점+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_04
+# text = 공립 초등학교에서 영어 원어민 있스면 다른 나라의 문화 대해서 좀 배우 술 있습니다.
+1	공립	공립	NOUN	NNG	_	2	nmod	_	_
+2	초등학교에서	초등학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	영어	영어	NOUN	NNP	_	4	nmod	_	_
+4	원어민	원어민	NOUN	NNG	_	5	nsubj	_	_
+5	있스면	있+스면	VERB	VV+NA	_	13	advcl	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	나라의	나라+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	문화	문화	NOUN	NNG	_	9	obl	_	_
+9	대해서	대하+아서	VERB	VV+EC	_	13	advcl	_	_
+10	좀	좀	ADV	MAG	_	13	advmod	_	_
+11	배우	배우	NOUN	VV	_	12	acl	_	_
+12	술	술	NOUN	NF	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_13_1_05
+# text = 분명이 직장에서 다양한 적성이 있으면 더 성공하잖다.
+1	분명이	분명이	ADV	NA	Typo=Yes	5	advmod	_	_
+2	직장에서	직장+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	적성이	적성+이	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+5	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	성공하잖다	성공+하+잖다	VERB	NNG+XSV+NA	Typo=Yes	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_1_05
+# text = 위국인 원어민이 만날때 채미있는 경험을 됩니다.
+1	위국인	위국인	NOUN	NF	_	2	nmod	_	_
+2	원어민이	원어민+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	만날때	만나+ㄹ+때	NOUN	VV+ETM+NNG	_	6	advcl	_	_
+4	채미있는	채미+있+는	VERB	NF+VA+ETM	_	5	amod	_	_
+5	경험을	경험+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	됩니다	되+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_13_1_06
+# text = 또한 언어 교육을 일찍 시작할 때 더 효과적이다.
+1	또한	또한	ADV	MAJ	_	8	cc	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육을	교육+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	8	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	효과적이다	효과+적+이+다	ADJ	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_13_1_06
+# text = 둘제, 단점을 대해 말합니다.
+1	둘제	둘제	NOUN	NA	_	5	obl	_	_
+2	,	,	PUNCT	SP	_	5	punct	_	_
+3	단점을	단점+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+5	말합니다	말+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_07
+# text = 그리고 연구에 따르면 마음도 이익을 받 수 있다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	연구에	연구+에	ADV	NNG+JKB	_	3	obl	_	_
+3	따르면	따르+면	VERB	VV+EC	_	8	advcl	_	_
+4	마음도	마음+도	NOUN	NNG+JX	_	6	nsubj	_	_
+5	이익을	이익+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	받	받	VERB	VV	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_13_1_07
+# text = 어렸을 때 영어 배우는데 한국에서 살면, 아이가 생활에 필요한 여어를 자주 못 씁니다.
+1	어렸을	어리+었+을	VERB	VA+EP+ETM	_	4	advcl	_	_
+2	때	때	NOUN	NNG	_	1	mark	_	_
+3	영어	영어	NOUN	NNP	_	4	obj	_	_
+4	배우는데	배우+는+데	VERB	VV+EC	_	6	advcl	_	_
+5	한국에서	한국+에서	ADV	NNP+JKB	_	6	obl	_	_
+6	살면	살+면	VERB	VV+EC	_	14	advcl	_	_
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	아이가	아이+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	생활에	생활+에	ADV	NNG+JKB	_	10	obl	_	_
+10	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	11	acl	_	_
+11	여어를	여어+를	NOUN	NF+JKO	_	14	obj	_	_
+12	자주	자주	ADV	MAG	_	14	advmod	_	_
+13	못	못	ADV	MAG	_	14	advmod	_	_
+14	씁니다	쓰+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_13_1_08
+# text = 하지만 물론 나쁜 점도 있다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	물론	물론	ADV	MAG	_	5	advmod	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	점도	점+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_08
+# text = 중, 고등학교에 갈 때만 필요한 것 있습니다.
+1	중	중	ADV	NNG	_	3	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	고등학교에	고등학교+에	ADV	NNG+JKB	_	4	obl	_	_
+4	갈	가+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+5	때만	때+만	ADV	NNG+JX	_	4	mark	_	_
+6	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	7	acl	_	_
+7	것	것	NOUN	NNB	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_13_1_09
+# text = 예를 들자면 어린이 학원에서 시간을 다 보내면 전형적인 경험을 할 수 있어야지.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들자면	들+자면	VERB	VV+EC	_	12	advcl	_	_
+3	어린이	어린이	NOUN	NNG	_	7	nsubj	_	_
+4	학원에서	학원+에서	ADV	NNG+JKB	_	7	obl	_	_
+5	시간을	시간+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	다	다	ADV	MAG	_	7	advmod	_	_
+7	보내면	보내+면	VERB	VV+EC	_	12	advcl	_	_
+8	전형적인	전형+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	amod	_	_
+9	경험을	경험+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어야지	있+어야지	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_13_1_09
+# text = 아이가 영어를 공부할 때 힘든 경혐 있으면, 아마 아프로 못 배우고 싶습니다.
+1	아이가	아이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	영어를	영어+를	NOUN	NNP+JKO	_	3	obj	_	_
+3	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	7	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	힘든	힘들+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	경혐	경혐	NOUN	NF	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	아마	아마	ADV	MAG	_	12	advmod	_	_
+10	아프로	아프로	NOUN	NA	_	12	obl	_	_
+11	못	못	ADV	MAG	_	12	advmod	_	_
+12	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+13	싶습니다	싶+습니다	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_13_1_10
+# text = 드디에 비싸고요.
+1	드디에	드디에	ADV	NA	Typo=Yes	2	advmod	_	_
+2	비싸고요	비싸+고요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_13_1_11
+# text = 어린이 스트레스도 받을 수 있다.
+1	어린이	어린이	NOUN	NNG	_	3	nsubj	_	_
+2	스트레스도	스트레스+도	NOUN	NNG+JX	_	3	obj	_	_
+3	받을	받+을	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_12
+# text = 조기언어교육은 인기가 있는 이유가 많다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	dislocated	_	_
+2	인기가	인기+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	이유가	이유+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_13
+# text = 하지만, 빈틈없는 과정 아니다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	빈틈없는	빈틈+없+는	ADJ	NNG+VA+ETM	_	4	amod	_	_
+4	과정	과정	NOUN	NNG	_	5	nsubj	_	_
+5	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_13_1_14
+# text = 선택이 여건 어렵지 않다.
+1	선택이	선택+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	여건	여건	ADV	NA	Typo=Yes	3	advmod	_	_
+3	어렵지	어렵+지	ADJ	VA+EC	_	0	root	_	_
+4	않다	않	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_13_1_15
+# text = 그리고, 기대가 높을 때 다들 고생한다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	기대가	기대+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	높을	높+을	ADJ	VA+ETM	_	6	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	다들	다+들	ADV	NP+XSN	_	7	nsubj	_	_
+7	고생한다	고생+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_13_1_16
+# text = 선택하기 전에 곡 연구들 하겠다.
+1	선택하기	선택+하+기	VERB	NNG+XSV+ETN	_	5	obl	_	_
+2	전에	전+에	ADV	NNG+JKB	_	1	case	_	_
+3	곡	곡	NOUN	NA	Typo=Yes	4	nmod	_	_
+4	연구들	연구+들	NOUN	NNG+XSN	_	5	obj	_	_
+5	하겠다	하+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

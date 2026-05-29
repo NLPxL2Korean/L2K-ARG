@@ -1,0 +1,121 @@
+# sent_id = ARG-HENG_11_2_01
+# text = 많은 젊은 사람들은 자기 나라의 역사를 이해하지 않으려고 한다.
+1	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+2	젊은	젊+은	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+4	자기	자기	PRON	NNG	_	5	nmod	_	_
+5	나라의	나라+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	이해하지	이해+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+8	않으려고	않+으려고	AUX	VX+EC	_	7	aux	_	_
+9	한다	하+ㄴ다	VERB	VX+EF	_	7	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_11_2_02
+# text = 그 이유는 자신들과 상관이 없다고 생각하기 때문이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	7	nsubj	_	_
+3	자신들과	자신+들+과	NOUN	NNG+XSN+JKB	_	5	obl	_	_
+4	상관이	상관+이	NOUN	NNG+JKS	_	3	conj	_	_
+5	없다고	없+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	7	nmod	_	_
+7	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_11_2_03
+# text = 하지만, 그렇게 생각하기는 섣부르다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	그렇게	그렇+게	ADV	VA+EC	_	4	advmod	_	_
+4	생각하기는	생각+하+기+는	VERB	NNG+XSV+ETN+JX	_	5	nsubj	_	_
+5	섣부르다	섣부르+다	VERB	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_11_2_04
+# text = 학생들이 학교에서 역사를 배우는 이유는 무엇일까?
+1	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	6	nsubj	_	_
+6	무엇일까	무엇+이+ㄹ까	ADJ	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_11_2_05
+# text = 자기 나라의 유래를 배우고 어떻게 진화 되어 왔는지 때문일 수도 있지만, 가장 큰 이유는 역사에 일어난 일은 돌고 돌기 때문이다.
+1	자기	자기	PRON	NNG	_	2	nmod	_	_
+2	나라의	나라+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	유래를	유래+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우고	배우+고	VERB	VV+EC	_	11	advcl	_	_
+5	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+6	진화	진화	NOUN	NNG	_	7	nsubj	_	_
+7	되어	되+어	VERB	VV+EC	_	10	acl	_	_
+8	왔는지	오+았+는지	VERB	VX+EP+EC	_	9	advcl	_	_
+9	때문일	때문+이+ㄹ	VERB	NNB+VCP+ETM	_	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있지만	있+지만	VERB	VX+EC	_	20	advcl	_	_
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	가장	가장	ADV	MAG	_	14	advmod	_	_
+14	큰	크+ㄴ	ADJ	VA+ETM	_	15	amod	_	_
+15	이유는	이유+는	NOUN	NNG+JX	_	21	nsubj	_	_
+16	역사에	역사+에	ADV	NNG+JKB	_	17	obl	_	_
+17	일어난	일어나+ㄴ	VERB	VV+ETM	_	18	acl	_	_
+18	일은	일+은	NOUN	NNG+JX	_	19	nsubj	_	_
+19	돌고	돌+고	VERB	VV+EC	_	20	advcl	_	_
+20	돌기	돌+기	NOUN	VV+ETN	_	21	nmod	_	_
+21	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-HENG_11_2_06
+# text = 패션만 보아도 그렇다.
+1	패션만	패션+만	NOUN	NNG+JX	_	2	obj	_	_
+2	보아도	보+아도	VERB	VV+EC	_	3	advcl	_	_
+3	그렇다	그렇+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-HENG_11_2_07
+# text = 요즘 유행하는 통크고 긴 옷을 입는 것이 80년, 90년대의 유행했던 스타일이다.
+1	요즘	요즘	ADV	NNG	_	2	advmod	_	_
+2	유행하는	유행+하+는	ADJ	NNG+XSV+ETM	_	3	acl	_	_
+3	통크고	통+크+고	VERB	NNG+VA+EC	_	5	acl	_	_
+4	긴	길+ㄴ	ADJ	VA+ETM	_	3	conj	_	_
+5	옷을	옷+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	입는	입+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+8	80년	80+년	NOUN	SN+NNB	_	10	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	90년대의	90+년대+의	NOUN	SN+NNB+JKG	_	12	nmod:poss	_	_
+11	유행했던	유행+하+았+던	VERB	NNG+XSV+EP+ETM	_	12	acl	_	_
+12	스타일이다	스타일+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_11_2_08
+# text = 패션 유행이 돌고 돌듯, 역사도 돌고 돈다.
+1	패션	패션	NOUN	NNG	_	2	nmod	_	_
+2	유행이	유행+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	돌고	돌+고	VERB	VV+EC	_	4	advcl	_	_
+4	돌듯	돌+듯	VERB	VV+EC	_	8	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	역사도	역사+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	돌고	돌+고	VERB	VV+EC	_	8	advcl	_	_
+8	돈다	돌+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_11_2_09
+# text = 그리고 역사를 배우는 것이 선조들이 실수한 것을 알아채서 같은 실수를 하지 않게 도움이 될 것이다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	15	nsubj	_	_
+5	선조들이	선조+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	실수한	실수+하+ㄴ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	알아채서	알아채+어서	VERB	VV+EC	_	11	advcl	_	_
+9	같은	같+은	VERB	VA+ETM	_	10	acl	_	_
+10	실수를	실수+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	하지	하+지	VERB	VV+EC	_	14	advcl	_	_
+12	않게	않+게	AUX	VX+EC	_	11	aux	_	_
+13	도움이	도움+이	NOUN	NNG+JKC	_	14	nsubj	_	_
+14	될	되+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

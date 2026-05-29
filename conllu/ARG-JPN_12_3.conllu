@@ -1,0 +1,118 @@
+# sent_id = ARG-JPN_12_3_01
+# text =  나는 협동과 경쟁 중 협동을 선호하는 편이다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중	중	ADP	NNB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	편이다	편+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_12_3_02
+# text =  먼저 협동을 주변 사람들이나 같은 팀원끼리 서로 힘을 내서 협력하는 것이다.
+1	먼저	먼저	ADV	MAG	_	11	advmod	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	11	obj	_	_
+3	주변	주변	NOUN	NNG	_	4	nmod	_	_
+4	사람들이나	사람+들+이나	NOUN	NNG+XSN+JC	_	9	obl	_	_
+5	같은	같+은	VERB	VA+ETM	_	6	amod	_	_
+6	팀원끼리	팀원+끼리	ADV	NNG+NNG	_	4	conj	_	_
+7	서로	서로	ADV	MAG	_	9	advmod	_	_
+8	힘을	힘+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	내서	내+어서	VERB	VV+EC	_	10	advcl	_	_
+10	협력하는	협력+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_12_3_03
+# text =  경쟁은 주변 사람들이나 상대방과 서로 이기기 위에 힘을 내는 것이다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	10	nsubj	_	_
+2	주변	주변	NOUN	NNG	_	3	nmod	_	_
+3	사람들이나	사람+들+이나	NOUN	NNG+XSN+JC	_	9	obl	_	_
+4	상대방과	상대+방+과	ADV	NNG+JKB+JKB	_	3	conj	_	_
+5	서로	서로	ADV	MAG	_	6	advmod	_	_
+6	이기기	이기+기	NOUN	VV+ETN	_	7	obj	_	_
+7	위에	위에	ADV	NA	_	10	advcl	_	_
+8	힘을	힘+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	내는	내+는	VERB	VV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_12_3_04
+# text =  예로 회사에서 일할 때를 들면, 맨날 경쟁 의식을 가지고 있으면 스트레스를 받기 쉽고 편하게 일을 못 하게 될 것이다.
+1	예로	예+로	ADV	NNG+JKB	_	5	obl	_	_
+2	회사에서	회사+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	일할	일+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	때를	때+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	들면	들+면	VERB	VV+EC	_	20	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	맨날	맨+날	ADV	MAG	_	10	advmod	_	_
+8	경쟁	경쟁	NOUN	NNG	_	9	nmod	_	_
+9	의식을	의식+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	가지고	가지+고	VERB	VV+EC	_	20	advcl	_	_
+11	있으면	있+으면	AUX	VX+EC	_	10	aux	_	_
+12	스트레스를	스트레스+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	받기	받+기	NOUN	VV+ETN	_	14	csubj	_	_
+14	쉽고	쉽+고	VERB	VA+EC	_	20	advcl	_	_
+15	편하게	편하+게	ADV	VA+EC	_	18	advmod	_	_
+16	일을	일+을	NOUN	NNG+JKO	_	18	obj	_	_
+17	못	못	ADV	MAG	_	18	advmod	_	_
+18	하게	하+게	VERB	VV+EC	_	20	acl	_	_
+19	될	되+ㄹ	VERB	VX+ETM	_	18	advcl	_	_
+20	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_12_3_05
+# text =  하지만 사람들과 협동하면서 서로를 위로도 하면서 일을 할 수 있다.
+1	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+2	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	협동하면서	협동+하+면서	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	서로를	서로+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	위로도	위로+도	ADV	NNG+JX	_	6	obj	_	_
+6	하면서	하+면서	VERB	VV+EC	_	10	advcl	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_12_3_06
+# text =  또한 협동하는 것으로 서로의 신뢰감과 친밀감도 높일 수 있다.
+1	또한	또한	ADV	MAJ	_	9	cc	_	_
+2	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	것으로	것+으로	ADV	NNB+JKB	_	9	obl	_	_
+4	서로의	서로+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	신뢰감과	신뢰+감+과	NOUN	NNG+XSN+JC	_	7	obj	_	_
+6	친밀감도	친밀+감+도	NOUN	NNG+XSN+JX	_	5	conj	_	_
+7	높일	높+이+ㄹ	VERB	VA+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_12_3_07
+# text =  그래서 일하는 데 어려운 엄무도 쉽게 달성하게 될 것이다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	일하는	일+하+는	VERB	NNG+XSV+ETM	_	9	advcl	_	_
+3	데	데	ADV	NNB	_	2	mark	_	_
+4	어려운	어렵+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	엄무도	엄무+도	NOUN	NF+JX	_	8	obj	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	달성하게	달성+하+게	ADV	NNG+XSA+EC	_	8	advmod	_	_
+8	될	되+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_12_3_08
+# text =  협동하는 것은 사람들에게 좋은 영향을 미치기 때문에 나는 경쟁보다 협동을 선호한다.
+1	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	2	acl	_	_
+2	것은	것+은	NOUN	NNB+JX	_	6	nsubj	_	_
+3	사람들에게	사람+들+에게	NOUN	NNG+XSN+JKB	_	6	obl	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미치기	미치+기	NOUN	VV+ETN	_	11	obl	_	_
+7	때문에	때문+에	ADP	NNB+JKB	_	6	case	_	_
+8	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+9	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	11	obl	_	_
+10	협동을	협동+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

@@ -1,0 +1,107 @@
+# sent_id = ARG-JPN_33_1_01
+# text =  조기언어교육의 장점은 어렸을 때부터 외국어를 공부하면 외우기 쉽다고 생각한다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	9	obl	_	_
+3	어렸을	어리+었+을	VERB	VA+EP+ETM	_	6	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+7	외우기	외우+기	NOUN	VV+ETN	_	8	nsubj	_	_
+8	쉽다고	쉽+다고	VERB	VA+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_33_1_02
+# text =  왜하면 아이들은 듣기 능력이 높아서 어른보다 외우는 것이 빠르기 때문이다.
+1	왜하면	왜하면	ADV	NA	_	10	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	dislocated	_	_
+3	듣기	듣+기	NOUN	VV+ETN	_	4	nmod	_	_
+4	능력이	능력+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	높아서	높+아서	VERB	VA+EC	_	9	advcl	_	_
+6	어른보다	어른+보다	ADV	NNG+JKB	_	7	obl	_	_
+7	외우는	외우+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	빠르기	빠르+기	NOUN	VA+ETN	_	10	nmod	_	_
+10	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_33_1_03
+# text =  그리고 어렸을 때 보국어 의외 언어를 공부하며 장례 언어에 관련된 일에 취직할 수 있을지도 모르겠다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	어렸을	어리+었+을	VERB	VA+EP+ETM	_	7	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	보국어	보국어	NOUN	NF	_	5	nmod	_	_
+5	의외	의외	NOUN	NA	_	6	nmod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	공부하며	공부+하+며	VERB	NNG+XSV+EC	_	14	advcl	_	_
+8	장례	장례	NOUN	NF	_	12	obl	_	_
+9	언어에	언어+에	ADV	NNG+JKB	_	10	obl	_	_
+10	관련된	관련+되+ㄴ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	일에	일+에	ADV	NNG+JKB	_	12	obl	_	_
+12	취직할	취직+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있을지도	있+을지+도	VERB	VX+EC+JX	_	15	ccomp	_	_
+15	모르겠다	모르+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_33_1_04
+# text =  반대로 단점도 있기는 한다.
+1	반대로	반대+로	ADV	NNG+JKB	_	3	obl	_	_
+2	단점도	단점+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있기는	있+기+는	NOUN	VV+ETN+JX	_	0	root	_	_
+4	한다	하+ㄴ다	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_33_1_05
+# text =  예를 들면 조기에 외국어를 공부하면 보국어를 잊을 가능선이 있을 것이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	10	advcl	_	_
+3	조기에	조기+에	ADV	NNG+JKB	_	5	obl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	보국어를	보국어+를	NOUN	NF+JKO	_	7	obj	_	_
+7	잊을	잊+을	VERB	VV+ETM	_	8	acl	_	_
+8	가능선이	가능선+이	NOUN	NF+JKS	_	9	nsubj	_	_
+9	있을	있+을	VERB	VV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_33_1_06
+# text =  또한,외국어와 보국어가 섞어서 공란할지도 모르겠다.
+1	또한,외국어와	또한+,+외국어+와	NOUN	MAJ+SP+NNG+JC	_	3	nsubj	_	_
+2	보국어가	보국어+가	NOUN	NNG+JKS	_	1	conj	_	_
+3	섞어서	섞+어서	VERB	VV+EC	_	4	advcl	_	_
+4	공란할지도	공란+하+ㄹ지+도	VERB	NF+XSA+EC+JX	_	5	ccomp	_	_
+5	모르겠다	모르+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_33_1_07
+# text =  그리고,조기에 공부하고 있기 때문에 주변 사람들과 실력 차이를 느끼고 자신감이 나타나서 공부 안해도 된다고 생각해서 공부 안해질 수도 있다.
+1	그리고	그리고	ADV	MAJ	_	20	cc	_	SpaceAfter=No
+2	,조기에	,조기+에	ADV	SP+NNG+JKB	_	3	obl	_	_
+3	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	20	obl	_	_
+4	있기	있+기	NOUN	VX+ETN	_	3	aux	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	3	case	_	_
+6	주변	주변	NOUN	NNG	_	7	nmod	_	_
+7	사람들과	사람+들+과	NOUN	NNG+XSN+JC	_	10	obl	_	_
+8	실력	실력	NOUN	NNG	_	9	nmod	_	_
+9	차이를	차이+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	느끼고	느끼+고	VERB	VV+EC	_	12	advcl	_	_
+11	자신감이	자신감+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	나타나서	나타나+아서	VERB	VV+EC	_	16	advcl	_	_
+13	공부	공부	NOUN	NNG	_	14	obj	_	_
+14	안해도	안+하+아도	VERB	MAG+VV+EC	_	16	ccomp	_	_
+15	된다고	되+ㄴ다고	VERB	VX+EC	_	14	advcl	_	_
+16	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	20	advcl	_	_
+17	공부	공부	NOUN	NNG	_	18	obj	_	_
+18	안해질	안+하+아지+ㄹ	VERB	MAG+VV+XSV+ETM	_	19	acl	_	_
+19	수도	수+도	NOUN	NNB+JX	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_33_1_08
+# text =  그러면 실력이 떨어지겠다.
+1	그러면	그러면	ADV	MAJ	_	3	cc	_	_
+2	실력이	실력+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	떨어지겠다	떨어지+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_

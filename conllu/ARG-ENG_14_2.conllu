@@ -1,0 +1,232 @@
+# sent_id = ARG-ENG_14_2_01
+# text = 역사를 배워야 돼요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	돼요	되+어요	VERB	VX+EF	_	2	advcl	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_14_2_01
+# text = 역사를 배우는 것이 개인적으로 책임을 져야하는 의무라고 본다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+4	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+5	책임을	책임+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	져야하는	지+어야+하+는	VERB	VV+EC+VX+ETM	_	7	acl	_	_
+7	의무라고	의무+이+라고	VERB	NNG+VCP+EC	_	8	ccomp	_	_
+8	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_14_2_02
+# text = 역사가 사람한테 가르쳐요.
+1	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	사람한테	사람+한테	ADV	NNG+JKB	_	3	obl	_	_
+3	가르쳐요	가르치+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_14_2_02
+# text = 역사란 한 사람에 대한 이야기가 아닌 한 민족 혹은 한 지역의 사회에 대한 이야기이기 때문에 역사 교육은 정치와 문화등에 어머하게 얽매이고있는 문제다.
+1	역사란	역사+란	NOUN	NNG+JX	_	3	nmod:poss	_	_
+2	한	한	NUM	MM	_	3	det	_	_
+3	사람에	사람+에	ADV	NNG+JKB	_	6	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	이야기가	이야기+가	NOUN	NNG+JKC	_	6	nsubj	_	_
+6	아닌	아니+ㄴ	VERB	VCN+ETM	_	14	acl	_	_
+7	한	한	NUM	MM	_	8	det	_	_
+8	민족	민족	NOUN	NNG	_	13	obl	_	_
+9	혹은	혹은	ADP	MAG	_	13	advmod	_	_
+10	한	한	NUM	MM	_	11	det	_	_
+11	지역의	지역+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	사회에	사회+에	ADV	NNG+JKB	_	13	obl	_	_
+13	대한	대하+ㄴ	VERB	VV+ETM	_	14	acl	_	_
+14	이야기이기	이야기+이+기	NOUN	NNG+VCP+ETN	_	22	obl	_	_
+15	때문에	때문+에	ADP	NNB+JKB	_	14	case	_	_
+16	역사	역사	NOUN	NNG	_	17	nmod	_	_
+17	교육은	교육+은	NOUN	NNG+JX	_	22	nsubj	_	_
+18	정치와	정치+와	NOUN	NNG+JC	_	21	obl	_	_
+19	문화등에	문화+등+에	ADV	NNG+NNB+JKB	_	18	conj	_	_
+20	어머하게	어머+하+게	ADV	XR+XSA+EC	_	21	advmod	_	_
+21	얽매이고있는	얽매이+고+있+는	VERB	VV+EC+VX+ETM	_	22	acl	_	_
+22	문제다	문제+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-ENG_14_2_03
+# text = 그리고 사람들이 마스테크를 못해요.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	마스테크를	마스테크+를	NOUN	NF+JKO	Typo=Yes	4	obj	_	_
+4	못해요	못하+아+요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_14_2_03
+# text = 그러므로 대학교나 연구실에서 발견된 새로운 사실이 나타나면 주변 사회가 이해하고 났는 자기 민족과 어울리지 않다면 그 사실이 교과서에 반영되지 않을 때가 많다.
+1	그러므로	그러므로	ADV	MAJ	_	22	cc	_	_
+2	대학교나	대학교+나	NOUN	NNG+JC	_	4	obl	_	_
+3	연구실에서	연구실+에서	ADV	NNG+JKB	_	2	conj	_	_
+4	발견된	발견+되+ㄴ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+5	새로운	새롭+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사실이	사실+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	나타나면	나타나+면	VERB	VV+EC	_	14	advcl	_	_
+8	주변	주변	NOUN	NNG	_	9	nmod	_	_
+9	사회가	사회+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	13	acl	_	_
+11	났는	나+았+는	VERB	NV+EP+ETM	_	10	aux	_	_
+12	자기	자기	PRON	NNG	_	13	nmod	_	_
+13	민족과	민족+과	ADV	NNG+JKB	_	14	obl	_	_
+14	어울리지	어울리+지	VERB	VV+EC	_	22	advcl	_	_
+15	않다면	않+다면	AUX	VX+EC	_	14	aux	_	_
+16	그	그	DET	MM	_	17	det	_	_
+17	사실이	사실+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+18	교과서에	교과서+에	ADV	NNG+JKB	_	19	obl	_	_
+19	반영되지	반영+되+지	VERB	NNG+XSV+EC	_	21	acl	_	_
+20	않을	않+을	AUX	VX+ETM	_	19	aux	_	_
+21	때가	때+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+22	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-ENG_14_2_04
+# text = 그리고 사람들이 정치를 왜 필요한지 알겄어요.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	정치를	정치+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	왜	왜	ADV	MAG	_	5	advmod	_	_
+5	필요한지	필요+하+ㄴ지	ADJ	NNG+XSA+EC	_	6	advcl	_	_
+6	알겄어요	알+겄+어요	VERB	VV+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_14_2_04
+# text = 즉, 역사에 대해서 불편한 사실이나 사람들이 거부하고 싶다는 것이 생기면 이 사실은 공교육으로 가르칠 가능성이 매우 낮다.
+1	즉	즉	ADV	MAG	_	18	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	11	punct	_	_
+3	역사에	역사+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해서	대하+아서	VERB	VV+EC	_	11	advcl	_	_
+5	불편한	불편+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	사실이나	사실+이나	NOUN	NNG+JC	_	11	nsubj	_	_
+7	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	거부하고	거부+하+고	VERB	NNG+XSV+EC	_	10	acl	_	_
+9	싶다는	싶+다는	AUX	VX+ETM	_	8	aux	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	11	conj	_	_
+11	생기면	생기+면	VERB	VV+EC	_	18	advcl	_	_
+12	이	이	DET	MM	_	13	det	_	_
+13	사실은	사실+은	NOUN	NNG+JX	_	15	obj	_	_
+14	공교육으로	공+교육+으로	ADV	XPN+NNG+JKB	_	15	obl	_	_
+15	가르칠	가르치+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	18	nsubj	_	_
+17	매우	매우	ADV	MAG	_	18	advmod	_	_
+18	낮다	낮+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_14_2_05
+# text = 역사가 우리 나라에게 결정을 하기 도울 거예요.
+1	역사가	역사+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	우리	우리	PRON	NP	_	3	nmod	_	_
+3	나라에게	나라+에게	ADV	NNG+JKB	_	6	obl	_	_
+4	결정을	결정+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하기	하+기	VERB	VV+ETN	_	6	obj	_	_
+6	도울	돕+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	거예요	것+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_14_2_05
+# text = 그러므로 역사를 교육으로만 배우는 것이 함정이라고 보다.
+1	그러므로	그러므로	ADV	MAJ	_	7	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	교육으로만	교육+으로+만	ADV	NNG+JKB+JX	_	4	obl	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	함정이라고	함정+이+라고	VERB	NNG+VCP+EC	_	7	ccomp	_	_
+7	보다	보+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_14_2_06
+# text = 그리고 역사가 너무 재미있어요.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	재미있어요	재미+있+어요	ADJ	NNG+VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_14_2_06
+# text = 사람들이 현 사회를 이해하기 위해서 역사를 배워야 하는데 불편한 사실까지 배워야 정확한 역사 이해가 형성될 수 있다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	현	현	NOUN	MM	_	3	amod	_	_
+3	사회를	사회+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	이해하기	이해+하+기	NOUN	NNG+XSV+ETN	_	5	obj	_	_
+5	위해서	위하+아서	VERB	VV+EC	_	7	advcl	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	17	advcl	_	_
+8	하는데	하+는데	VERB	VX+EC	_	7	aux	_	_
+9	불편한	불편+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	사실까지	사실+까지	ADV	NNG	_	11	obl	_	_
+11	배워야	배우+어야	VERB	VV+EC	_	15	advcl	_	_
+12	정확한	정확+하+ㄴ	ADJ	NNG+XSA+ETM	_	14	amod	_	_
+13	역사	역사	NOUN	NNG	_	14	nmod	_	_
+14	이해가	이해+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	형성될	형성+되+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_14_2_07
+# text = 학생들이 역시를 배우고 싶어야 돼요.
+1	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	역시를	역시+를	NOUN	NF+JKO	Typo=Yes	3	obj	_	_
+3	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+4	싶어야	싶	AUX	VX+EC	_	3	aux	_	_
+5	돼요	되+어요	VERB	VX+EF	_	3	advcl	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_14_2_07
+# text = 이러한 점을 탐색하고 싶고 이해하고 싶다는 의식 즉 역사 교육은 개인적으로 책임을 져야 한다는 생각이 필수라고 할 수 있다.
+1	이러한	이러하+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	점을	점+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	탐색하고	탐색+하고	VERB	NNG+XSV+EC	_	7	acl	_	_
+4	싶고	싶+고	AUX	VX+EC	_	3	aux	_	_
+5	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	3	conj	_	_
+6	싶다는	싶+다는	AUX	VX+EC	_	5	aux	_	_
+7	의식	의식	NOUN	NNG	_	16	nsubj	_	_
+8	즉	즉	VERB	MAG	_	19	advmod	_	_
+9	역사	역사	NOUN	NNG	_	10	nmod	_	_
+10	교육은	교육+은	NOUN	NNG+JX	_	16	obl	_	_
+11	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	13	obl	_	_
+12	책임을	책임+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	져야	지+어야	VERB	VV+EC	_	15	acl	_	_
+14	한다는	하+ㄴ다는	AUX	VX+ETM	_	13	aux	_	_
+15	생각이	생각+이	NOUN	NNG+JKS	_	7	appos	_	_
+16	필수라고	필수+이+라고	VERB	NNG+VCP+EC	_	17	ccomp	_	_
+17	할	하+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_14_2_08
+# text = 역사가 사람에게 우리나라문화를 이야기해요.
+1	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+2	사람에게	사람+에게	ADV	NNG+JKB	_	4	obl	_	_
+3	우리나라문화를	우리나라+문화+를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+4	이야기해요	이야기+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_14_2_08
+# text = 주변 사회로부터 성립된 역사 이야기와 자기한테 편해서 믿고 있는 역사적 이데올로기 등을 거부하고 전방적인 역사이해는 자기만 실시할 수 있는 것이다.
+1	주변	주변	NOUN	NNG	_	2	nmod	_	_
+2	사회로부터	사회+로+부터	ADV	NNG+JX	_	3	obl	_	_
+3	성립된	성립+되+ㄴ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+4	역사	역사	NOUN	NNG	_	5	nmod	_	_
+5	이야기와	이야기+와	NOUN	NNG+JC	_	13	obj	_	_
+6	자기한테	자기+한테	ADV	NNG+JKB	_	7	obl	_	_
+7	편해서	편하+아서	VERB	VA+EC	_	8	advcl	_	_
+8	믿고	믿+고	VERB	VV+EC	_	11	acl	_	_
+9	있는	있+는	AUX	VX+ETM	_	8	aux	_	_
+10	역사적	역사+적	NOUN	NNG+XSN	_	11	nmod	_	_
+11	이데올로기	이데올로기	NOUN	NNG	_	5	conj	_	_
+12	등을	등+을	NOUN	NNB+JKO	_	11	case	_	_
+13	거부하고	거부+하+고	VERB	NNG+XSV+EC	_	17	advcl	_	_
+14	전방적인	전방+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	15	amod	_	_
+15	역사이해는	역사+이해+는	VERB	NNG+NNG+JX	_	17	obj	_	_
+16	자기만	자기+만	PRON	NP+JX	_	17	nsubj	_	_
+17	실시할	실시+하+ㄹ	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있는	있+는	VERB	VX+ETM	_	20	acl	_	_
+20	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_

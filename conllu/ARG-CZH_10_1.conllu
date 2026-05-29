@@ -1,0 +1,88 @@
+# sent_id = ARG-CZH_10_1_01
+# text = 대한민국에서 교육이 일반적으로 큰 일이라서 요쯤에는 뉴스나 TV에서 조기언어 교육에 대해서 자주 이야기를 한다.
+1	대한민국에서	대한민국+에서	ADV	NNP+JKB	_	5	obl	_	_
+2	교육이	교육+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	일반적으로	일반+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	일이라서	일+이+라서	ADJ	NNG+VCP+EC	_	14	advcl	_	_
+6	요쯤에는	요쯤+에+는	ADV	NF+JKB+JX	Typo=Yes	14	obl	_	_
+7	뉴스나	뉴스+나	NOUN	NNG+JC	_	14	obl	_	_
+8	TV에서	TV+에서	ADV	SL+JKB	_	7	conj	_	_
+9	조기언어	조기+언어	NOUN	NNG+NNG	_	10	nmod	_	_
+10	교육에	교육+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대해서	대하+아서	VERB	VV+EC	_	14	advcl	_	_
+12	자주	자주	ADV	MAG	_	14	advmod	_	_
+13	이야기를	이야기+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_10_1_02
+# text = 조기언어 교육은 사회에 촣거나 나쁜가?
+1	조기언어	조기+언어	NOUN	NNG+NNG	_	2	nmod	_	_
+2	교육은	교육+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	사회에	사회+에	ADV	NNG+JKB	_	4	obl	_	_
+4	촣거나	촣+거나	VERB	NV+EC	Typo=Yes	0	root	_	_
+5	나쁜가	나쁘+ㄴ+가	ADJ	VA+NA+EF	Typo=Yes	4	conj	_	SpaceAfter=No
+6	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_10_1_03
+# text = 첫째, 장점은 뇌가 쉽게 바꿀 수 있으니까 단어를 배우고 새로운 문법을 이해하기가 더 자연스럽다.
+1	첫째	첫째	ADV	NR	_	15	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	장점은	장점+은	NOUN	NNG+JX	_	15	obl	_	_
+4	뇌가	뇌+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	바꿀	바꾸+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있으니까	있	AUX	VX+EC	_	10	advcl	_	_
+9	단어를	단어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우고	배우+고	VERB	VV+EC	_	15	nsubj	_	_
+11	새로운	새롭+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	문법을	문법+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	이해하기가	이해+하+기+가	NOUN	NNG+XSV+ETM+JKS	_	10	conj	_	_
+14	더	더	ADV	MAG	_	13	advmod	_	_
+15	자연스럽다	자연+스럽+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_10_1_04
+# text = 둘째, 단점은 언어를 일찔 배우면 동의가 없을 수 도 있다.
+1	둘째	둘째	ADV	NR	_	11	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	11	punct	_	_
+3	단점은	단점+은	NOUN	NNG+JX	_	11	obl	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	일찔	일찔	ADV	NA	Typo=Yes	6	advmod	_	_
+6	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	_
+7	동의가	동의+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	없을	없+을	ADJ	VA+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	11	nsubj	_	_
+10	도	도	ADP	JX	_	9	case	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_10_1_05
+# text = 부모님이나 선생님을 위해서 열심히 공부하는 한생들이 많다.
+1	부모님이나	부모+님+이나	NOUN	NNG+XSN+JC	_	3	obj	_	_
+2	선생님을	선생+님+을	NOUN	NNG+XSN+JKO	_	1	conj	_	_
+3	위해서	위하+아서	VERB	VV+EC	_	5	advcl	_	_
+4	열심히	열심히	ADV	MAG	_	5	advmod	_	_
+5	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	한생들이	한생+들+이	NOUN	NF+XSN+JKS	Typo=Yes	7	nsubj	_	_
+7	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_10_1_06
+# text = 개인적으로 조기언어 교육에 때해서 촣다고 생간한다.
+1	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+2	조기언어	조기+언어	NOUN	NNG+NNG	_	3	nmod	_	_
+3	교육에	교육+에	ADV	NNG+JKB	_	4	obl	_	_
+4	때해서	때하+아서	VERB	NV+EC	Typo=Yes	5	advcl	_	_
+5	촣다고	촣+다고	VERB	NV+EC	Typo=Yes	6	ccomp	_	_
+6	생간한다	생간+하+ㄴ다	VERB	NF+XSV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_10_1_07
+# text = 아프로도 대화가 중요하다.
+1	아프로도	아프로+도	NOUN	NA+JX	Typo=Yes	3	obl	_	_
+2	대화가	대화+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_

@@ -1,0 +1,136 @@
+# sent_id = ARG-CHN_32_2_01
+# text = 협동과 경쟁은 모두 성공에 영향을 미치지만 그중에서도 협동이 더 큰 영향을 미친다고 생각한다.
+1	협동과	협동+과	NOUN	NNG+JC	_	6	nsubj	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	1	conj	_	_
+3	모두	모두	ADV	MAG	_	6	advmod	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+5	영향을	영향+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	미치지만	미치+지만	VERB	VV+EC	_	12	advcl	_	_
+7	그중에서도	그+중+에서+도	ADV	MM+NNB+JKB+JX	_	12	obl	_	_
+8	협동이	협동+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	큰	크+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	영향을	영향+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	미친다고	미치+ㄴ다고	VERB	VV+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_32_2_02
+# text = 비록 경쟁속에서 남보다 더 훌륭하고 뛰여나기 위해서 많은 노력을 하고 이러한 노력이 성공에 많은 영향을 미칠 수 있겠지만 경쟁인것만큼 성공 뿐만 아니라 실패도 따를 수 있는 법이다.
+1	비록	비록	ADV	MAJ	_	18	cc	_	_
+2	경쟁속에서	경쟁+속+에서	ADV	NNG+NNG+JKB	_	10	obl	_	_
+3	남보다	남+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	훌륭하고	훌륭+하+고	ADJ	XR+XSA+EC	_	7	obj	_	_
+6	뛰여나기	뛰여나+기	VERB	VV+ETN	_	5	conj	_	_
+7	위해서	위하+아서	VERB	VV+EC	_	10	advcl	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	노력을	노력+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	하고	하+고	VERB	VV+EC	_	18	advcl	_	_
+11	이러한	이러하+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	노력이	노력+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+13	성공에	성공+에	ADV	NNG+JKB	_	16	obl	_	_
+14	많은	많+은	ADJ	VA+ETM	_	15	amod	_	_
+15	영향을	영향+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	미칠	미치+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있겠지만	있+겠+지만	VERB	VX+EP+EC	_	27	advcl	_	_
+19	경쟁인것만큼	경쟁+이+ㄴ+것+만큼	ADJ	NNG+VCP+ETM+NNB+JKB	_	24	obl	_	_
+20	성공	성공	NOUN	NNG	_	22	nsubj	_	_
+21	뿐만	뿐+만	ADP	JX+JX	_	20	case	_	_
+22	아니라	아니+라	ADJ	VCN+EC	_	24	advcl	_	_
+23	실패도	실패+도	NOUN	NNG+JX	_	24	nsubj	_	_
+24	따를	따르+ㄹ	VERB	VV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있는	있+는	VERB	VX+ETM	_	27	acl	_	_
+27	법이다	법+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	27	punct	_	_
+
+# sent_id = ARG-CHN_32_2_03
+# text = 그렇다고 협동해서 꼭 성공할거라는 말은 아니다.
+1	그렇다고	그렇다고	ADV	MAG	_	6	cc	_	_
+2	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	꼭	꼭	ADV	MAG	_	4	advmod	_	_
+4	성공할거라는	성공+하+ㄹ+것+이+라는	VERB	NNG+XSV+ETM+NNB+VCP+ETM	_	5	acl	_	_
+5	말은	말+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_32_2_04
+# text = 협동을 통해 여러 사람의 지혜를 한 자리에 모을 수 있으며 이는 1+1>2인 효과를 불러올 것이다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	통해	통하+아	VERB	VV+EC	_	8	advcl	_	_
+3	여러	여러	DET	MM	_	4	det	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	지혜를	지혜+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	한	한	NUM	MM	_	7	nummod	_	_
+7	자리에	자리+에	ADV	NNG+JKB	_	8	obl	_	_
+8	모을	모으+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있으며	있+으며	VERB	VX+EC	_	15	advcl	_	_
+11	이는	이+는	PRON	NP+JX	_	14	nsubj	_	_
+12	1+1>2인	1+++1+>+2+이+ㄴ	ADJ	SN+SW+SN+SW+SN+VCP+ETM	_	13	obl	_	_
+13	효과를	효과+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	불러올	불러오+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_32_2_05
+# text = 협동 속에서 다른 사람의 장점을 배울 수 있을 뿐만 아니라 자신의 단점을 돌이켜 볼 수 있는 기회가 될 것이다.
+1	협동	협동	NOUN	NNG	_	6	obl	_	_
+2	속에서	속+에서	ADV	NNG+JKB	_	1	case	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	장점을	장점+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있을	있+을	VERB	VX+ETM	_	9	acl	_	_
+9	뿐만	뿐+만	NOUN	NNB+JX	_	10	nsubj	_	_
+10	아니라	아니+라	ADJ	VCN+EC	_	16	advcl	_	_
+11	자신의	자신+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	단점을	단점+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	돌이켜	돌이키+어	VERB	VV+EC	_	15	acl	_	_
+14	볼	보+ㄹ	VERB	VX+ETM	_	13	advcl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는	있+는	VERB	VX+ETM	_	17	acl	_	_
+17	기회가	기회+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	될	되+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CHN_32_2_06
+# text = 때문에 혼자서 고군분투 하는 것보다 협동을 통해 성공할 수 있는 확율을 더욱 높힐 수 있다.
+1	때문에	때문+에	ADV	NNB+JKB	_	15	obl	_	_
+2	혼자서	혼자+서	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	고군분투	고군분투	NOUN	NNG	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것보다	것+보다	ADV	NNB+JKB	_	15	obl	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	통해	통하+아	VERB	VV+EC	_	8	advcl	_	_
+8	성공할	성공+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	확율을	확율+을	NOUN	NF+JKO	Typo=Yes	13	obj	_	_
+12	더욱	더욱	ADV	MAG	_	13	advmod	_	_
+13	높힐	높+히+ㄹ	VERB	VA+NA+ETM	Typo=Yes	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_32_2_07
+# text = 때문에 성공에 있어서 양성 경쟁도 필요하겠지만 협동이야 말로 성공에 더 큰 영향을 미칠 것이다.
+1	때문에	때문+에	ADV	NNB+JKB	_	14	obl	_	_
+2	성공에	성공+에	ADV	NNG+JKB	_	3	obl	_	_
+3	있어서	있+어서	VERB	VV+EC	_	6	advcl	_	_
+4	양성	양성	NOUN	NNG	_	5	nmod	_	_
+5	경쟁도	경쟁+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	필요하겠지만	필요+하+겠+지만	ADJ	NNG+XSA+EP+EC	_	14	advcl	_	_
+7	협동이야	협동+이야	NOUN	NNG+JX	_	13	nsubj	_	_
+8	말로	말로	ADP	JX	_	7	flat	_	_
+9	성공에	성공+에	ADV	NNG+JKB	_	13	obl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	큰	크+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	영향을	영향+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	미칠	미치+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

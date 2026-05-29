@@ -1,0 +1,118 @@
+# sent_id = ARG-JPN_24_2_01
+# text =  나는 역사를 배워야 한다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_24_2_02
+# text =  외냐하면 역사를 알게 되면 자신이 태어나기 전에 어떤 일이 일어났는지, 어떤문제가생겼는지를 이해 할 수 있기 때문이다.
+1	외냐하면	외냐하면	ADV	NA	_	17	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	알게	알+게	VERB	VV+EC	_	16	advcl	_	_
+4	되면	되+면	VERB	VX+EC	_	3	advcl	_	_
+5	자신이	자신+이	PRON	NNG+JKS	_	6	nsubj	_	_
+6	태어나기	태어나+기	NOUN	VV+ETN	_	10	obl	_	_
+7	전에	전+에	ADP	NNG+JKB	_	6	case	_	_
+8	어떤	어떤	DET	MM	_	9	det	_	_
+9	일이	일+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	일어났는지	일어나+았+는지	VERB	VV+EP+EC	_	12	list	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	어떤문제가생겼는지를	어떤+문제+가+생기+었+는지+를	NOUN	MM+NNG+JKS+VV+EP+EC+JKO	_	13	ccomp	_	_
+13	이해	이해	NOUN	NNG	_	15	acl	_	_
+14	할	하+ㄹ	X	VV+ETM	_	13	goeswith	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있기	있+기	NOUN	VX+ETN	_	17	nmod	_	_
+17	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_24_2_03
+# text =  이런 일을 아는 것으로 아직 일본과 다른 나라에서 해결하지 못한 문제나, 예날에 어떤문제가 생겼기 때문에 그 나라와 관계성이 좋지 않다 등 다양한 부분에 시야를 넓을 수 있다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	일을	일+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	아는	알+는	VERB	VV+ETM	_	4	acl	_	_
+4	것으로	것+으로	ADV	NNB+JKB	_	28	obl	_	_
+5	아직	아직	ADV	MAG	_	9	advmod	_	_
+6	일본과	일본+과	NOUN	NNP+JC	_	9	obl	_	_
+7	다른	다른	ADJ	MM	_	8	amod	_	_
+8	나라에서	나라+에서	ADV	NNG+JKB	_	6	conj	_	_
+9	해결하지	해결+하+지	VERB	NNG+XSV+EC	_	11	acl	_	_
+10	못한	못하+ㄴ	AUX	VX+ETM	_	9	aux	_	_
+11	문제나	문제+나	NOUN	NNG+JC	_	14	list	_	_
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	예날에	예날+에	ADV	NF+JKB	_	15	obl	_	_
+14	어떤문제가	어떤+문제+가	NOUN	MM+NNG+JKS	_	15	nsubj	_	_
+15	생겼기	생기+었+기	NOUN	VV+EP+ETN	_	20	obl	_	_
+16	때문에	때문+에	ADP	NNB+JKB	_	15	case	_	_
+17	그	그	DET	MM	_	18	det	_	_
+18	나라와	나라+와	NOUN	NNG+JKB	_	20	obl	_	_
+19	관계성이	관계+성+이	NOUN	NNG+XSN+JKS	_	20	nsubj	_	_
+20	좋지	좋+지	VERB	VA+EC	_	28	advcl	_	_
+21	않다	않+다	AUX	VX+EC	_	20	aux	_	_
+22	등	등	NOUN	NNB	_	20	case	_	_
+23	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	24	amod	_	_
+24	부분에	부분+에	ADV	NNB+JKB	_	26	obl	_	_
+25	시야를	시야+를	NOUN	NNG+JKO	_	26	obj	_	_
+26	넓을	넓+을	VERB	VV+ETM	_	27	acl	_	_
+27	수	수	NOUN	NNB	_	28	nsubj	_	_
+28	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+29	.	.	PUNCT	SF	_	28	punct	_	_
+
+# sent_id = ARG-JPN_24_2_04
+# text =  현대는 일본 속뿐만 아니라 다양한 나라와 관계를 가지면서 경제나 정치가 움직이고 있다.
+1	현대는	현대+는	NOUN	NNG+JX	_	11	dislocated	_	_
+2	일본	일본	NOUN	NNP	_	3	nmod	_	_
+3	속뿐만	속+뿐+만	NOUN	NNB+NNB+JX	_	4	nsubj	_	_
+4	아니라	아니+라	VERB	VCN+EC	_	11	advcl	_	_
+5	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	나라와	나라+와	NOUN	NNG+JC	_	8	obl	_	_
+7	관계를	관계+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	가지면서	가지+면서	VERB	VV+EC	_	11	advcl	_	_
+9	경제나	경제+나	NOUN	NNG+JC	_	11	nsubj	_	_
+10	정치가	정치+가	NOUN	NNG+JKS	_	9	conj	_	_
+11	움직이고	움직이+고	VERB	VV+EC	_	0	root	_	_
+12	있다	있+다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_24_2_05
+# text =  그런 모습을 보면 역사를 배우는 것은 매우 중요한 점이고 필요한 지식이라고 생각한다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	모습을	모습+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	보면	보+면	VERB	VV+EC	_	12	advcl	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	것은	것+은	NOUN	NNB+JX	_	9	nsubj	_	_
+7	매우	매우	ADV	MAG	_	8	advmod	_	_
+8	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	점이고	점+이+고	VERB	NNG+VCP+EC	_	12	ccomp	_	_
+10	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	11	amod	_	_
+11	지식이라고	지식+이+라고	VERB	NNG+VCP+EC	_	9	conj	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_24_2_06
+# text =  요즘에는 인터넷의 발달에 따라 쉽게 다양한 것을 배울 수 있기 때문에 전자 기기를 유효적으로 이용하면서 역사를 배우는 것도 좋은 방법이라고 생각한다.
+1	요즘에는	요즘+에+는	ADV	NNG+JKB+JX	_	21	obl	_	_
+2	인터넷의	인터넷+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	발달에	발달+에	ADV	NNG+JKB	_	4	obl	_	_
+4	따라	따르+아	VERB	VV+EC	_	8	advcl	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	8	advmod	_	_
+6	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있기	있+기	NOUN	VX+ETN	_	21	obl	_	_
+11	때문에	때문+에	ADP	NNB+JKB	_	10	case	_	_
+12	전자	전자	NOUN	NNG	_	13	nmod	_	_
+13	기기를	기기+를	NOUN	VV+JKO	_	15	obj	_	_
+14	유효적으로	유효+적+으로	ADV	NNG+XSN+JKB	_	15	obl	_	_
+15	이용하면서	이용+하+면서	VERB	NNG+XSV+EC	_	17	advcl	_	_
+16	역사를	역사+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	배우는	배우+는	VERB	VV+ETM	_	18	acl	_	_
+18	것도	것+도	NOUN	NNB+JX	_	20	nsubj	_	_
+19	좋은	좋+은	VERB	VA+ETM	_	20	amod	_	_
+20	방법이라고	방법+이+라고	VERB	NNG+VCP+EC	_	21	ccomp	_	_
+21	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_

@@ -1,0 +1,183 @@
+# sent_id = ARG-CZH_28_1_01
+# text = 교육이 우리 생활에서 아주 중요하다고 생각해요.
+1	교육이	교육+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+2	우리	우리	PRON	NP	_	3	nmod	_	_
+3	생활에서	생활+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_28_1_02
+# text = 교육 없이 모르는 것이 너무 많아서 직업을 구하는 것이나 사는 게 어려운 편이에요.
+1	교육	교육	NOUN	NNG	_	2	nsubj	_	_
+2	없이	없+이	ADJ	VCN+EC	_	6	advcl	_	_
+3	모르는	모르+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+5	너무	너무	ADV	MAG	_	6	advmod	_	_
+6	많아서	많+아서	ADJ	VA+EC	_	13	advcl	_	_
+7	직업을	직업+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	구하는	구하+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이나	것+이나	NOUN	NNB+JC	_	13	nsubj	_	_
+10	사는	살+는	VERB	VV+ETM	_	11	acl	_	_
+11	게	것+이	NOUN	NNB+JKS	_	9	conj	_	_
+12	어려운	어렵+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	편이에요	편+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_28_1_03
+# text = 요즘에 언어가 매우 중요해 보여요.
+1	요즘에	요즘+에	ADV	NNG+JKB	_	5	obl	_	_
+2	언어가	언어+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	매우	매우	ADV	MAG	_	4	advmod	_	_
+4	중요해	중요+하+아	ADV	NNG+XSA+EC	_	5	advmod	_	_
+5	보여요	보이+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_28_1_04
+# text = 언어를 할 수 있는 사람들은 보통 좋은 직업을 구할 수 있어요.
+1	언어를	언어+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있는	있+는	VERB	VX+ETM	_	5	acl	_	_
+5	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+6	보통	보통	ADV	MAG	_	9	advmod	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	직업을	직업+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	구할	구하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_28_1_05
+# text = 조기교육이 제 생각에는 좋아요.
+1	조기교육이	조기+교육+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+4	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_28_1_06
+# text = 아이들이 보통 뭐든지 잘 기억 할 수 있으니까 언어를 어렸을 때부터 공부하면 자주 원어님처럼 잘 말할 수 있게 됄 수 있어요.
+1	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+2	보통	보통	ADV	MAG	_	6	advmod	_	_
+3	뭐든지	뭐+든지	VERB	NP+EC	_	6	obj	_	_
+4	잘	잘	ADV	MAG	_	6	advmod	_	_
+5	기억	기억	NOUN	NNG	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있으니까	있+으니까	VERB	VX+EC	_	21	advcl	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+10	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	12	advcl	_	_
+11	때부터	때+부터	ADV	NNG+JX	_	10	mark	_	_
+12	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	21	advcl	_	_
+13	자주	자주	ADV	MAG	_	16	advmod	_	_
+14	원어님처럼	원어님+처럼	ADV	NF+JKB	Typo=Yes	16	obl	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	19	nsubj	_	_
+18	있게	있+게	VERB	VX+EC	_	20	acl	_	_
+19	됄	돼+ㄹ	VERB	NA+ETM	Typo=Yes	18	advcl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CZH_28_1_07
+# text = 그것은 제일 장점이라고 생각해요.
+1	그것은	그것+은	PRON	NP+JX	_	4	nsubj	_	_
+2	제일	제일	ADV	MAG	_	3	advmod	_	_
+3	장점이라고	장점+이+라고	ADJ	NNG+VCP+EC	_	4	ccomp	_	_
+4	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_28_1_08
+# text = 반면에 아이들이 보통 공부하고 싶지 않아서 문제가 생길 수도 있어요.
+1	반면에	반면+에	ADV	NNG+JKB	_	10	obl	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	보통	보통	ADV	MAG	_	4	advmod	_	_
+4	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	싶지	싶	AUX	VX+EC	_	4	aux	_	_
+6	않아서	않	AUX	VX+EC	_	4	aux	_	_
+7	문제가	문제+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	생길	생기+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_28_1_09
+# text = 아이들이 보통 그냥 놀고 싶고 마음대로 하고 싶어요.
+1	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+2	보통	보통	ADV	MAG	_	7	advmod	_	_
+3	그냥	그냥	ADV	MAG	_	4	advmod	_	_
+4	놀고	놀+고	VERB	VV+EC	_	7	advcl	_	_
+5	싶고	싶	AUX	VX+EC	_	4	aux	_	_
+6	마음대로	마음+대로	ADV	NNG+JX	_	7	advmod	_	_
+7	하고	하+고	VERB	VV+EC	_	0	root	_	_
+8	싶어요	싶	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_28_1_10
+# text = 그래서 조기언어교육이 힘들 수도 있어요.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	3	nsubj	_	_
+3	힘들	힘들+ㄹ	ADJ	VA+ETM	_	4	acl	_	_
+4	수도	수+도	NOUN	NNB+JX	_	5	nsubj	_	_
+5	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_28_1_11
+# text = 다른 단점은 진짜로 잘 가르치는 선생님이 필요해요.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	7	obl	_	_
+3	진짜로	진짜+로	ADV	NNG+JKB	_	4	advmod	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	가르치는	가르치+는	VERB	VV+ETM	_	6	acl	_	_
+6	선생님이	선생+님+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	필요해요	필요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_28_1_12
+# text = 아이들을 가르치는 것이 힘들어서 선생님의 태도가 매우 중요해요.
+1	아이들을	아이+들+을	NOUN	NNG+XSN+JKO	_	2	obj	_	_
+2	가르치는	가르치+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+4	힘들어서	힘들+어서	ADJ	VA+EC	_	8	advcl	_	_
+5	선생님의	선생+님+의	NOUN	NNG+XSN+JKG	_	6	nmod:poss	_	_
+6	태도가	태도+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	매우	매우	ADV	MAG	_	8	advmod	_	_
+8	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_28_1_13
+# text = 결국에는 조기언어교육이 좋다고 생각해요.
+1	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	3	obl	_	_
+2	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	3	nsubj	_	_
+3	좋다고	좋+다고	ADJ	VA+EC	_	4	ccomp	_	_
+4	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_28_1_14
+# text = 저는 어렸을 때부터 한국어를 배우다면 지금 원어님처럼 잘 말할 수도 있을 거예요.
+1	저는	저+는	PRON	NP+JX	_	9	nsubj	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	5	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	한국어를	한국어+를	NOUN	NNP+JKO	_	5	obj	_	_
+5	배우다면	배우+다면	VERB	VV+EC	_	12	advcl	_	_
+6	지금	지금	ADV	MAG	_	9	advmod	_	_
+7	원어님처럼	원어님+처럼	ADV	NF+JKB	Typo=Yes	9	obl	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있을	있+을	VERB	VX+ETM	_	12	acl	_	_
+12	거예요	것+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_28_1_15
+# text = 그래서 저는 조기언어교육을 하는 것을 권해요.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+3	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	권해요	권하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

@@ -1,0 +1,170 @@
+# sent_id = ARG-CZH_08_1_01
+# text = 나는 조기언어교육의 장단점에 대한 나의 생각을 쓰도록 하겠다.
+1	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장단점에	장단점+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+5	나의	나+의	PRON	NP+JKG	_	6	nmod:poss	_	_
+6	생각을	생각+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	쓰도록	쓰+도록	VERB	VV+EC	_	8	advcl	_	_
+8	하겠다	하+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_08_1_02
+# text = 지금은 사람은 보통 2언어로 말할 수 있다.
+1	지금은	지금+은	ADV	NNG+JX	_	7	advmod	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	보통	보통	ADV	MAG	_	5	advmod	_	_
+4	2언어로	2+언어+로	ADV	SN+NNG+JKB	_	5	obl	_	_
+5	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_08_1_03
+# text = 특히 유럽에서는 언어 공부가 매우 중요하다.
+1	특히	특히	ADV	MAG	_	6	advmod	_	_
+2	유럽에서는	유럽+에서+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	공부가	공부+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	매우	매우	ADV	MAG	_	6	advmod	_	_
+6	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_08_1_04
+# text = 체코학생들은 유지원부터 언어를 공부할 수 있는데 하지만 큰 도시에서만 이런 유지워들이 있다.
+1	체코학생들은	체코+학생+들+은	NOUN	NNP+NNG+XSN+JX	_	6	dislocated	_	_
+2	유지원부터	유지원+부터	NOUN	NF+JX	Typo=Yes	4	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는데	있+는데	VERB	VX+EC	_	12	advcl	_	_
+7	하지만	하지만	ADV	MAJ	_	12	cc	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	도시에서만	도시+에서+만	ADV	NNG+JKB+JX	_	12	obl	_	_
+10	이런	이런	DET	MM	_	11	det	_	_
+11	유지워들이	유지워+들+이	NOUN	NF+XSN+JKS	Typo=Yes	12	nsubj	_	_
+12	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_08_1_05
+# text = 시골에서 아이들은 이런 기회가 없다.
+1	시골에서	시골+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	dislocated	_	_
+3	이런	이런	DET	MM	_	4	amod	_	_
+4	기회가	기회+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_08_1_06
+# text = 요즘은 체코와 영어 말고 다른 언어들도 중요하다고 생각한다.
+1	요즘은	요즘+은	ADV	NNG+JX	_	7	advmod	_	_
+2	체코와	체코+와	NOUN	NNP+JC	_	4	nsubj	_	_
+3	영어	영어	NOUN	NNG	_	2	conj	_	_
+4	말고	말+고	VERB	VV+EC	_	7	advcl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	언어들도	언어+들+도	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+7	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_08_1_07
+# text = 독일어아니면 러시아어 아이 때부터 공부하면 미래에 좋은 학교와 회사에 다닐 수 있다.
+1	독일어아니면	독일어+아니+면	ADJ	NNG+VA+EC	_	5	advcl	_	_
+2	러시아어	러시아+어	NOUN	NNG	_	5	obj	_	_
+3	아이	아이	NOUN	NNG	_	5	obl	_	_
+4	때부터	때+부터	ADV	NNB+JX	_	3	mark	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	_
+6	미래에	미래+에	ADV	NNG+JKB	_	10	obl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	학교와	학교+와	NOUN	NNG+JC	_	10	obl	_	_
+9	회사에	회사+에	ADV	NNG+JKB	_	8	conj	_	_
+10	다닐	다니+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_08_1_08
+# text = 아이들은 스트레스를 많이 반다는 의견에도 일리가 있다.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+2	스트레스를	스트레스+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	반다는	반+다는	VERB	NV+ETM	Typo=Yes	5	acl	_	_
+5	의견에도	의견+에+도	ADV	NNG+JKB+JX	_	7	obl	_	_
+6	일리가	일리+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_08_1_09
+# text = 그래서 아이들은 유치원부터 언어를 공부하면 이렇게 많이 놀은 시간이 없다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+3	유치원부터	유치원+부터	NOUN	NNG+JX	_	5	obl	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	이렇게	이렇+게	ADV	VA+EC	_	7	advmod	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	놀은	놀+은	VERB	VV+ETM	_	9	acl	_	_
+9	시간이	시간+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_08_1_10
+# text = 하지만 부모님들은 당신의 아이가 어린부터 언어를 공부하고 싶으면 그냥 마음으로 할 수 있다고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	14	cc	_	_
+2	부모님들은	부모+님+들+은	NOUN	NNG+XSN+XSN+JX	_	14	nsubj	_	_
+3	당신의	당신+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	아이가	아이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	어린부터	어리+ㄴ+부터	ADV	VA+ETM+JX	_	7	obl	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	13	advcl	_	_
+8	싶으면	싶	AUX	VX+EC	_	7	aux	_	_
+9	그냥	그냥	ADV	MAG	_	11	advmod	_	_
+10	마음으로	마음+으로	ADV	NNG+JKB	_	11	obl	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_08_1_11
+# text = 그러므로 나는 조기언어교육은 좋은 생각은 있다고 생각한다.
+1	그러므로	그러므로	ADV	MAJ	_	7	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+3	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	6	obl	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	생각은	생각+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있다고	있+다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_08_1_12
+# text = 요즘은 두개 언어를 할 줄 아는 사람이 많아서 미래는 3개아니면 4개 언어를 다 말할 수 있다고 생각한다.
+1	요즘은	요즘+은	ADV	NNG+JX	_	8	advmod	_	_
+2	두개	두+개	NOUN	MM+NNB	_	3	nmod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	줄	줄	NOUN	NNB	_	6	obj	_	_
+6	아는	알+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	많아서	많+아서	ADJ	VA+EC	_	16	advcl	_	_
+9	미래는	미래+는	NOUN	NNG+JX	_	16	obl	_	_
+10	3개아니면	3+개+아니+면	ADJ	SN+NNB+VA+EC	_	14	advcl	_	_
+11	4개	4+개	NOUN	SN+NNB	_	12	nmod	_	_
+12	언어를	언어+를	NOUN	NNG+JKO	_	14	obj	_	_
+13	다	다	ADV	MAG	_	14	advmod	_	_
+14	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다고	있+다고	VERB	VX+EC	_	17	ccomp	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_08_1_13
+# text = 우리는 다 열심히 언어를 공부해야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+2	다	다	ADV	MAG	_	5	advmod	_	_
+3	열심히	열심히	ADV	MAG	_	5	advmod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+6	한다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_

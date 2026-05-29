@@ -1,0 +1,73 @@
+# sent_id = ARG-JPN_08_2_01
+# text =  우리는 역사를 배워야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	3	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	한다	하+ㄴ다	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_08_2_02
+# text =  우ㅐ냐하면 의국인과 같이 살아야 하기 때문이다.
+1	우ㅐ냐하면	우ㅐ냐하면	ADV	NA	_	6	cc	_	_
+2	의국인과	의국인+과	ADV	NF+JKB	_	4	obl	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	살아야	살+아야	VERB	VV+EC	_	6	nmod	_	_
+5	하기	하+기	AUX	VX+ETN	_	4	aux	_	_
+6	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_08_2_03
+# text =  우선 역사를 배우지 않아면 국제문제를 이해할 수 없다.
+1	우선	우선	ADV	MAG	_	8	advmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우지	배우+지	VERB	VV+EC	_	8	advcl	_	_
+4	않아면	않+으면	AUX	VX+EC	_	3	aux	_	_
+5	국제문제를	국제+문제+를	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+6	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_08_2_04
+# text =  의국인과 이야기 할 때 깊은 대화를 할 수 없다.
+1	의국인과	의국인+과	ADV	NF+JKB	_	3	obl	_	_
+2	이야기	이야기	NOUN	NNG	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	깊은	깊+은	ADJ	VA+ETM	_	6	amod	_	_
+6	대화를	대화+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_08_2_05
+# text =  그리고 역사를 배우지 않아면 여행을 즐곱지 않다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우지	배우+지	VERB	VV+EC	_	6	advcl	_	_
+4	않아면	않+아면	AUX	VX+NA	_	3	aux	_	_
+5	여행을	여행+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	즐곱지	즐곱+지	VERB	NV+EC	_	0	root	_	_
+7	않다	않+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_08_2_06
+# text =  역사 알았으면 역사적 건물이나 옷을 보고 감동할수있는다.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	알았으면	알+았+으면	VERB	VV+EP+EC	_	7	advcl	_	_
+3	역사적	역사+적	NOUN	NNG+XSN	_	4	nmod	_	_
+4	건물이나	건물+이나	NOUN	NNG+JC	_	6	obj	_	_
+5	옷을	옷+을	NOUN	NNG+JKO	_	4	conj	_	_
+6	보고	보+고	VERB	VV+EC	_	7	advcl	_	_
+7	감동할수있는다	감동+하+ㄹ+수+있+는다	VERB	NNG+XSV+ETM+NNB+VX+NA	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_08_2_07
+# text =  그래서 역사를 배워야 한다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

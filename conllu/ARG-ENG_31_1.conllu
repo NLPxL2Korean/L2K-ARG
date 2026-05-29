@@ -1,0 +1,109 @@
+# sent_id = ARG-ENG_31_1_01
+# text = 제가 유트브에서 길고리에서 한국인들이랑 하는 인터뷰 자주 보는 편이에요.
+1	제가	제+가	PRON	NP+JKS	_	9	nsubj	_	_
+2	유트브에서	유트브+에서	ADV	NF+JKB	Typo=Yes	8	obl	_	_
+3	길고리에서	길고리+에서	ADV	NF+JKB	Typo=Yes	5	obl	_	_
+4	한국인들이랑	한국인+들+이랑	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	인터뷰	인터+뷰	NOUN	NNG	_	8	obj	_	_
+7	자주	자주	ADV	MAG	_	8	advmod	_	_
+8	보는	보+는	VERB	VV+ETM	_	9	acl	_	_
+9	편이에요	편+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_31_1_02
+# text = 그 영상 중에 한국 교육, 특히 조기 교육이 정말 자주 나오는 주제예요.
+1	그	그	DET	MM	_	2	det	_	_
+2	영상	영상	NOUN	NNG	_	13	obl	_	_
+3	중에	중+에	ADV	NNB+JKB	_	2	case	_	_
+4	한국	한국	NOUN	NNP	_	5	nmod	_	_
+5	교육	교육	NOUN	NNG	_	9	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	특히	특히	ADV	MAG	_	13	advmod	_	_
+8	조기	조기	NOUN	NNG	_	9	nmod	_	_
+9	교육이	교육+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+10	정말	정말	ADV	MAG	_	12	advmod	_	_
+11	자주	자주	ADV	MAG	_	12	advmod	_	_
+12	나오는	나오+는	VERB	VV+ETM	_	13	acl	_	_
+13	주제예요	주제+이+에요	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_31_1_03
+# text = 한국인들이 조기언어교육에 대한 생각이 정말 다양해요.
+1	한국인들이	한국인+들+이	NOUN	NNG+XSN+JKS	_	6	dislocated	_	_
+2	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	3	obl	_	_
+3	대한	대하+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	생각이	생각+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	정말	정말	ADV	MAG	_	6	advmod	_	_
+6	다양해요	다양+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_31_1_04
+# text = 아이들은 다른 아이처럼 언어 공부 정말 일찍 시작하지 않으면, 기우면서 다른 사람 점수 받는 정도까지 못 올라갈 고민이 있어요.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	아이처럼	아이+처럼	ADV	NNG+JKB	_	8	obl	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	공부	공부	NOUN	NNG	_	8	obj	_	_
+6	정말	정말	ADV	MAG	_	7	advmod	_	_
+7	일찍	일찍	ADV	MAG	_	8	advmod	_	_
+8	시작하지	시작+하+지	VERB	NNG+XSV+EC	_	20	advcl	_	_
+9	않으면	않	AUX	VX+EC	_	8	aux	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	8	punct	_	_
+11	기우면서	기우+면서	VERB	NV+EC	Typo=Yes	20	advcl	_	_
+12	다른	다르+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	사람	사람	NOUN	NNG	_	15	nsubj	_	_
+14	점수	점수	NOUN	NNG	_	15	obj	_	_
+15	받는	받+는	VERB	VV+ETM	_	16	acl	_	_
+16	정도까지	정도+까지	NOUN	NNG+JX	_	18	obl	_	_
+17	못	못	ADV	MAG	_	18	advmod	_	_
+18	올라갈	올라가+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	고민이	고민+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-ENG_31_1_05
+# text = 그렇지만 어릴 때는 언어 배우기 정말 중요한 시간이예요.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	8	cc	_	_
+2	어릴	어리+ㄹ	ADJ	VA+ETM	_	8	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	언어	언어	NOUN	NNG	_	5	obj	_	_
+5	배우기	배우+기	VERB	VV+ETN	_	8	nsubj	_	_
+6	정말	정말	ADV	MAG	_	7	advmod	_	_
+7	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	시간이예요	시간+이+이+에요	VERB	NNG+VCP+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_31_1_06
+# text = 제 생각으로는 학생들이 진짜로 그 언어를 배우는 관심이 없으면 시간이 좀 아까워요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각으로는	생각+으로+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+3	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	9	dislocated	_	_
+4	진짜로	진짜로	ADV	MAG	_	9	advmod	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우는	배우+는	VERB	VV+ETM	_	8	acl	_	_
+8	관심이	관심+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	없으면	없+으면	ADJ	VA+EC	_	12	advcl	_	_
+10	시간이	시간+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	좀	좀	ADV	MAG	_	12	advmod	_	_
+12	아까워요	아깝+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_31_1_07
+# text = 어릴때나 학교에서 배우는 언어 못 잊어버린 사람 정말 많아서 특별한 이유 없으면 심한 조기 언어교육이
+1	어릴때나	어리+ㄹ+때+나	NOUN	VA+ETM+NNG+JC	_	3	advcl	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	언어	언어	NOUN	NNG	_	6	obj	_	_
+5	못	못	ADV	MAG	_	6	advmod	_	_
+6	잊어버린	잊어버리+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	사람	사람	NOUN	NNG	_	9	nsubj	_	_
+8	정말	정말	ADV	MAG	_	12	advmod	_	_
+9	많아서	많+아서	ADJ	VA+EC	_	12	advcl	_	_
+10	특별한	특별+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	이유	이유	NOUN	NNG	_	12	nsubj	_	_
+12	없으면	없+으면	ADJ	VA+EC	_	15	advcl	_	_
+13	심한	심하+ㄴ	ADJ	VA+ETM	_	15	amod	_	_
+14	조기	조기	NOUN	NNG	_	15	nmod	_	_
+15	언어교육이	언어+교육+이	NOUN	NNG+NNG+JKS	_	0	root	_	_

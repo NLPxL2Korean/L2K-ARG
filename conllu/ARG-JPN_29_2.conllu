@@ -1,0 +1,79 @@
+# sent_id = ARG-JPN_29_2_01
+# text =  역사를 배워야 하라고 생각한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	ccomp	_	_
+3	하라고	하+라고	VERB	VX+EC	_	2	aux	_	_
+4	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_29_2_02
+# text =  역사를 배우는 것이 중요한 이유는 두 개 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	8	advcl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	acl	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	8	dislocated	_	_
+6	두	두	NUM	MM	_	7	nummod	_	_
+7	개	개	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_29_2_03
+# text =  먼저 역사를 배우면 그 나라나 세상에 해서 더 알 수 있다.
+1	먼저	먼저	ADV	MAG	_	11	advmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	나라나	나라+나	NOUN	NNG+JC	_	7	obl	_	_
+6	세상에	세상+에	ADV	NNG+JKB	_	5	conj	_	_
+7	해서	하+아서	VERB	NV+EC	_	11	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	알	알+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_29_2_04
+# text =  나는 고등학생 때 역사를 배우기 위해 히로시마와 나가사기에 가고 경의를 받았다.
+1	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+2	고등학생	고등학생	NOUN	NNG	_	11	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우기	배우+기	NOUN	VV+ETN	_	6	obj	_	_
+6	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+7	히로시마와	히로시마+와	NOUN	NNP+JC	_	9	obl	_	_
+8	나가사기에	나가사기+에	ADV	NNP+JKB	_	7	conj	_	_
+9	가고	가+고	VERB	VV+EC	_	11	advcl	_	_
+10	경의를	경의+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	받았다	받+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_29_2_05
+# text =  그 때까지 역사를 잘 이해 못 하지만 역사가 중요한 것을 느꼈다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때까지	때+까지	ADV	NNG+JX	_	7	obl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+4	잘	잘	ADV	MAG	_	7	advmod	_	_
+5	이해	이해	NOUN	NNG	_	7	obj	_	_
+6	못	못	ADV	MAG	_	7	advmod	_	_
+7	하지만	하+지만	VERB	VV+EC	_	11	advcl	_	_
+8	역사가	역사+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	느꼈다	느끼+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_29_2_06
+# text =  또한 역사를 배우면 다시 같은 실수를 하지 않도록 노력할 수도 있다.
+1	또한	또한	ADV	MAJ	_	11	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	11	advcl	_	_
+4	다시	다시	ADV	MAG	_	7	advmod	_	_
+5	같은	같+은	VERB	VA+ETM	_	6	amod	_	_
+6	실수를	실수+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	하지	하+지	VERB	VV+EC	_	11	advcl	_	_
+8	않도록	않+도록	AUX	VX+EC	_	7	aux	_	_
+9	노력할	노력+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

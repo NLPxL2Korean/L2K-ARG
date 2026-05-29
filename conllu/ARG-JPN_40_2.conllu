@@ -1,0 +1,196 @@
+# sent_id = ARG-JPN_40_2_01
+# text =  이 질문에 대한 개인적인 생각은 '역사는 배워야 한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	질문에	질문+에	ADV	NNG+JKB	_	7	obl	_	_
+3	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+4	개인적인	개인+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	5	amod	_	_
+5	생각은	생각+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	'역사는	'+역사+는	NOUN	SS+NNG+JX	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	한다	하+ㄴ다	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_40_2_02
+# text =  '이다.
+1	'이다	'+이+다	VERB	SS+VCP+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-JPN_40_2_03
+# text =  그 이유는 크게 세 가지가 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	6	dislocated	_	_
+3	크게	크+게	ADV	VA+EC	_	6	advmod	_	_
+4	세	세	NUM	MM	_	5	nummod	_	_
+5	가지가	가지+가	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_40_2_04
+# text =  첫 째, 우리가 태어나기 전에 일어난 여러 것을 파악할 필요가 있다.
+1	첫	첫	NUM	MM	_	12	obl	_	_
+2	째	째	NOUN	XSN	_	1	goeswith	_	_
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+5	태어나기	태어나+기	NOUN	VV+ETN	_	7	obl	_	_
+6	전에	전+에	ADP	NNG+JKB	_	5	case	_	_
+7	일어난	일어나+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+8	여러	여러	DET	MM	_	9	det	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+10	파악할	파악+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	필요가	필요+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_40_2_05
+# text =  인간이 만들어지기 전부터 현재까지 어떠한 일들이 발생해 왔는지 살펴봄으로 써,지금 살고 있는 것 자체에 감사함을 느껴 매일을 열심히 살아갈 수 있을 것이다.
+1	인간이	인간+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	만들어지기	만들+어지+기	VERB	VV+XSV+ETN	_	7	obl	_	_
+3	전부터	전+부터	ADV	NNG+JX	_	2	case	_	_
+4	현재까지	현재+까지	ADV	NNG+JX	_	7	obl	_	_
+5	어떠한	어떠하+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	일들이	일+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	발생해	발생+하+아	VERB	NNG+XSV+EC	_	9	ccomp	_	_
+8	왔는지	오+았+는지	VERB	VX+EP+EC	_	7	aux	_	_
+9	살펴봄으로	살피+어+보+ㅁ+으로	ADV	VV+EC+VX+ETN+JKB	_	10	obl	_	_
+10	써,지금	써+,+지금	VERB	NA+SP+NNG	_	11	advmod	_	_
+11	살고	살+고	VERB	VV+EC	_	13	acl	_	_
+12	있는	있+는	AUX	VX+ETM	_	11	aux	_	_
+13	것	것	NOUN	NNB	_	14	nmod	_	_
+14	자체에	자체+에	ADV	NNG+JKB	_	16	obl	_	_
+15	감사함을	감사+하+ㅁ+을	NOUN	NNG+XSV+ETN+JKO	_	16	obj	_	_
+16	느껴	느끼+어	VERB	VV+EC	_	22	advcl	_	_
+17	매일을	매일+을	NOUN	NNG+JKO	_	19	obj	_	_
+18	열심히	열심히	ADV	MAG	_	19	advmod	_	_
+19	살아갈	살+아+가+ㄹ	VERB	VV+EC+VX+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있을	있+을	VERB	VX+ETM	_	22	acl	_	_
+22	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_40_2_06
+# text =  둘 째,다른 나라, 다른 문화를 존중할 수 있다.
+1	둘	둘	NOUN	NNG	_	9	obl	_	_
+2	째,다른	째+,+다른	VERB	XSN+SP+MM	_	1	goeswith	_	_
+3	나라	나라	NOUN	NNG	_	6	nmod	_	_
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	다른	다른	ADJ	MM	_	6	amod	_	_
+6	문화를	문화+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	존중할	존중+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_40_2_07
+# text =  과거에 다른 나라와 자신의 나라가 어떠한 교류를 해 왔는지, 또 교류를 하면서 어떠한 갈등이 있었는지,왜 그렇게 되었는지를 살펴봄으로 써,다문화에 대한 이해를 높일 수 있다.
+1	과거에	과거+에	ADV	NNG+JKB	_	8	obl	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	나라와	나라+와	NOUN	NNG+JC	_	8	obl	_	_
+4	자신의	자신+의	PRON	NNG+JKG	_	5	nmod:poss	_	_
+5	나라가	나라+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	어떠한	어떠하+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	교류를	교류+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	해	하+아	VERB	VV+EC	_	16	advcl	_	_
+9	왔는지	오+았+는지	VERB	VX+EP+EC	_	8	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	또	또	ADV	MAG	_	16	advmod	_	_
+12	교류를	교류+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	하면서	하+면서	VERB	VV+EC	_	16	advcl	_	_
+14	어떠한	어떠하+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+15	갈등이	갈등+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	있었는지	있+었+는지	VERB	VV+EP+EC	_	19	advcl	_	SpaceAfter=No
+17	,왜	,+왜	ADV	SP+MAG	_	18	advmod	_	_
+18	그렇게	그렇+게	ADV	VA+EC	_	19	advmod	_	_
+19	되었는지를	되+었+는지+를	VERB	VV+EP+EC+JKO	_	20	ccomp	_	_
+20	살펴봄으로	살피+어+보+ㅁ+으로	ADV	VV+EC+VX+ETN+JKB	_	26	advcl	_	_
+21	써,다문화에	써+,+다+문화+에	ADV	NA+SP+XPN+NNG+JKB	_	22	obl	_	_
+22	대한	대하+ㄴ	VERB	VV+ETM	_	23	acl	_	_
+23	이해를	이해+를	NOUN	NNG+JKO	_	24	obj	_	_
+24	높일	높이+ㄹ	VERB	VV+ETM	_	25	acl	_	_
+25	수	수	NOUN	NNB	_	26	nsubj	_	_
+26	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-JPN_40_2_08
+# text =  단지 어떤 교류나 충돌이 있었던 사실만 배우는 것이 아니라,충돌의 이유도 살펴보고,다문화를 알고 서로 존중하는 것이 중요하다.
+1	단지	단지	ADV	MAG	_	9	advmod	_	_
+2	어떤	어떤	DET	MM	_	4	det	_	_
+3	교류나	교류+나	NOUN	NNG+JC	_	5	nsubj	_	_
+4	충돌이	충돌+이	NOUN	NNG+JKS	_	3	conj	_	_
+5	있었던	있+었+던	VERB	VV+EP+ETM	_	6	acl	_	_
+6	사실만	사실+만	NOUN	NNG+JX	_	7	obj	_	_
+7	배우는	배우+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+9	아니라,충돌의	아니+라+,+충돌+의	NOUN	VCN+EC+SP+NNG+JKG	_	11	advcl	_	_
+10	이유도	이유+도	NOUN	NNG+JX	_	11	obj	_	_
+11	살펴보고	살피+어+보+고	VERB	VV+EC+VX+EC	_	13	advcl	_	SpaceAfter=No
+12	,다문화를	,+다+문화+를	NOUN	SP+XPN+NNG+JKO	_	13	obj	_	_
+13	알고	알+고	VERB	VV+EC	_	17	advcl	_	_
+14	서로	서로	ADV	MAG	_	17	advmod	_	_
+15	존중하는	존중+하+는	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	것이	것+이	NOUN	NNB+JKS	_	17	nsubj	_	_
+17	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_40_2_09
+# text =  셋 째,역사를 배움으로써 앞으로의 사회를 더 좋은 것으로 만든다.
+1	셋	셋	NOUN	NR	_	9	obl	_	_
+2	째,역사를	째+,+역사+를	NOUN	XSN+SP+NNG+JKO	_	3	obj	_	_
+3	배움으로써	배우+ㅁ+으로써	ADV	VV+ETN+JKB	_	9	obl	_	_
+4	앞으로의	앞+으로+의	NOUN	NNG+JKB+JKG	_	5	nmod:poss	_	_
+5	사회를	사회+를	NOUN	NNG+JKO	_	9	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋은	좋+은	VERB	VA+ETM	_	8	amod	_	_
+8	것으로	것+으로	ADV	NNB+JKB	_	9	obl	_	_
+9	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_40_2_10
+# text =  현대까지 일어난 여러 것에 대한 정보를 얻어,그 지식을 바탕으로 미래에 우리가 어떤 행동을 해야 모든 사람들이 행복하고 건강하게 살 수 있는지를 생각할 수 있을 것이다.
+1	현대까지	현대+까지	ADV	NNG+JX	_	2	obl	_	_
+2	일어난	일어나+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+3	여러	여러	DET	MM	_	4	det	_	_
+4	것에	것+에	ADV	NNB+JKB	_	7	obl	_	_
+5	대한	대하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	정보를	정보+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	얻어,그	얻+어+,+그	VERB	VV+EC+SP+MM	_	22	advcl	_	_
+8	지식을	지식+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	바탕으로	바탕+으로	ADV	NNG+JKB	_	22	obl	_	_
+10	미래에	미래+에	ADV	NNG+JKB	_	14	obl	_	_
+11	우리가	우리+가	PRON	NP+JKS	_	14	nsubj	_	_
+12	어떤	어떤	DET	MM	_	13	det	_	_
+13	행동을	행동+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	해야	하+아야	VERB	VV+EC	_	19	advcl	_	_
+15	모든	모든	DET	MM	_	16	det	_	_
+16	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	19	nsubj	_	_
+17	행복하고	행복+하+고	VERB	NNG+XSA+EC	_	19	advmod	_	_
+18	건강하게	건강+하+게	ADV	NNG+XSA+EC	_	17	conj	_	_
+19	살	살+ㄹ	VERB	VV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	24	nsubj	_	_
+21	있는지를	있+는지+를	VERB	VX+EC+JKO	_	22	ccomp	_	_
+22	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	23	acl	_	_
+23	수	수	NOUN	NNB	_	24	nsubj	_	_
+24	있을	있+을	VERB	VX+ETM	_	25	acl	_	_
+25	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-JPN_40_2_11
+# text =  이상의 세 가지를 정리하면 우리가 지금의 삶에 감사하고,다문화를 존중하고,더 나은 미래를 형성하기 위해 우리는 역사를 배워야 한다.
+1	이상의	이상+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	세	세	NUM	MM	_	3	nummod	_	_
+3	가지를	가지+를	NOUN	NNB+JKO	_	4	obj	_	_
+4	정리하면	정리+하+면	VERB	NNG+XSV+EC	_	17	advcl	_	_
+5	우리가	우리+가	PRON	NP+JKS	_	8	nsubj	_	_
+6	지금의	지금+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	삶에	삶+에	ADV	NNG+JKB	_	8	obl	_	_
+8	감사하고	감사+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	SpaceAfter=No
+9	,다문화를	,다+문화+를	NOUN	XPN+NNG+JKO	_	10	obj	_	_
+10	존중하고,더	존중+하+고+,+더	VERB	NNG+XSV+EC+SP+MAG	_	13	advcl	_	_
+11	나은	낫+은	ADJ	VA+ETM	_	12	amod	_	_
+12	미래를	미래+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	형성하기	형성+하+기	NOUN	NNG+XSV+ETN	_	14	obj	_	_
+14	위해	위하+아	VERB	VV+EC	_	17	advcl	_	_
+15	우리는	우리+는	PRON	NP+JX	_	17	nsubj	_	_
+16	역사를	역사+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+18	한다	하+ㄴ다	AUX	VX+EF	_	17	aux	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	17	punct	_	_

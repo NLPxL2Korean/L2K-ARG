@@ -1,0 +1,186 @@
+# sent_id = ARG-ENG_40_1_01
+# text = 아이들을 키우기에는 참 어려운 일이 많은 것 같다.
+1	아이들을	아이+들+을	NOUN	NNG+XSN+JKO	_	2	obj	_	_
+2	키우기에는	키우+기+에+는	ADV	VV+ETN+JKB+JX	_	6	obl	_	_
+3	참	참	ADV	MAG	_	6	advmod	_	_
+4	어려운	어렵+ㄴ	VERB	VA+ETM	_	5	amod	_	_
+5	일이	일+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많은	많+은	VERB	VA+ETM	_	7	acl	_	_
+7	것	것	NOUN	NNB	_	8	nsubj	_	_
+8	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_40_1_02
+# text = 언제 수업을 시작하면 좋을까?
+1	언제	언제	ADV	MAG	_	3	advmod	_	_
+2	수업을	수업+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	좋을까	좋+을까	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_40_1_03
+# text = 좋은 가르치는 방법이 무엇일까 말이다.
+1	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+2	가르치는	가르치+는	VERB	VV+ETM	_	3	acl	_	_
+3	방법이	방법+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	무엇일까	무엇+이+ㄹ까	VERB	NP+VCP+EC	_	5	advcl	_	_
+5	말이다	말+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_40_1_04
+# text = 특히 언어를 가르치기엔 다른 생각이 많다.
+1	특히	특히	ADV	MAG	_	6	advmod	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	가르치기엔	가르치+기+에+ㄴ	NOUN	VV+ETN+JKB+JX	_	6	obl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	생각이	생각+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_40_1_05
+# text = 조기 언어교육을 하면 좋은 점이 있고 나쁜 점도 있다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	6	advcl	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	점이	점+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	0	root	_	_
+7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	점도	점+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VV+EF	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_40_1_06
+# text = 좋은 점은 아이들이 더 일찍 발을 서서 빨리 발전할 수 있다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	점은	점+은	NOUN	NNB+JX	_	11	dislocated	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+4	더	더	ADV	MAG	_	7	advmod	_	_
+5	일찍	일찍	ADV	MAG	_	7	advmod	_	_
+6	발을	발+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	서서	서+어서	VERB	VV+EC	_	11	advcl	_	_
+8	빨리	빨리	ADV	MAG	_	9	advmod	_	_
+9	발전할	발전+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_40_1_07
+# text = 다른 나라와 경쟁하기에는 이러기가 얼마나 중요한지 강요하기 좀 어렵다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	나라와	나라+와	NOUN	NNG+JKB	_	3	obl	_	_
+3	경쟁하기에는	경쟁+하+기+에+는	ADV	NNG+XSV+ETN+JKB+JX	_	2	obl	_	_
+4	이러기가	이러+기+가	NOUN	VV+ETN+JKS	_	6	nsubj	_	_
+5	얼마나	얼마나	ADV	MAG	_	6	advmod	_	_
+6	중요한지	중요+하+ㄴ지	VERB	NNG+XSA+EC	_	7	ccomp	_	_
+7	강요하기	강요+하+기	NOUN	NNG+XSV+ETN	_	9	nsubj	_	_
+8	좀	좀	ADV	MAG	_	9	advmod	_	_
+9	어렵다	어렵+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_40_1_08
+# text = 반면에 아이들이 더 일찍 언어를 배우는 건 부담이 더 일찍 받다는 것이다.
+1	반면에	반면+에	ADV	NNG+JKB	_	12	obl	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	더	더	ADV	MAG	_	6	advmod	_	_
+4	일찍	일찍	ADV	MAG	_	6	advmod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	건	거+ㄴ	NOUN	NNB+JX	_	12	nsubj	_	_
+8	부담이	부담+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+9	더	더	ADV	MAG	_	11	advmod	_	_
+10	일찍	일찍	ADV	MAG	_	11	advmod	_	_
+11	받다는	받+다는	VERB	VV+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_40_1_09
+# text = 한국 사회가 벌써 아주 경쟁인데 아이가 아이처럼 좀 더 오래 동안 행동하면 좋지 않을까 말이다.
+1	한국	한국	NOUN	NNP	_	2	nmod	_	_
+2	사회가	사회+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	벌써	벌써	ADV	MAG	_	5	advmod	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	경쟁인데	경쟁+이+ㄴ데	VERB	NNG+VCP+EC	_	13	advcl	_	_
+6	아이가	아이+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+7	아이처럼	아이+처럼	ADV	NNG+JKB	_	12	obl	_	_
+8	좀	좀	ADV	MAG	_	10	advmod	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	오래	오래	ADV	MAG	_	12	advmod	_	_
+11	동안	동안	ADP	NNG	_	10	obl	_	_
+12	행동하면	행동+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+13	좋지	좋+지	VERB	VA+EC	_	15	advcl	_	_
+14	않을까	않+을까	AUX	VX+EC	_	13	aux	_	_
+15	말이다	말+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_40_1_10
+# text = 아무래도 스트레스를 받는 게 건강에 좋지 않으니 무슨 소용이 있겠냐고 물어보는 건 무리 아닌 것 같다.
+1	아무래도	아무래도	ADV	MAG	_	6	advmod	_	_
+2	스트레스를	스트레스+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	받는	받+는	VERB	VV+ETM	_	4	acl	_	_
+4	게	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+5	건강에	건강+에	ADV	NNG+JKB	_	6	obl	_	_
+6	좋지	좋+지	VERB	VA+EC	_	16	advcl	_	_
+7	않으니	않+으니	AUX	VX+EC	_	6	aux	_	_
+8	무슨	무슨	DET	MM	_	9	det	_	_
+9	소용이	소용+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있겠냐고	있+겠+냐고	VERB	VV+EP+EC	_	11	ccomp	_	_
+11	물어보는	물+어+보+는	VERB	VV+EC+VX+ETM	_	12	acl	_	_
+12	건	거+ㄴ	NOUN	NNB+JX	_	14	dislocated	_	_
+13	무리	무리	NOUN	NNG	_	14	nsubj	_	_
+14	아닌	아니+ㄴ	VERB	VCN+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_40_1_11
+# text = 좀 더 발전되고 성공된 사회에 살기 위해 어디까지 하면 좋겠냐, 좋을 걸 얻기 위해 희생을 얼마나 하는지 좋냐, 즐거운 시절을 지키는 건 중요하지 않냐, 그런 질문을 물어보면 좀 더 협리적으로 생각할 수 있을까 싶다.
+1	좀	좀	ADV	MAG	_	3	advmod	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	발전되고	발전+되+고	VERB	NNG+XSV+EC	_	5	acl	_	_
+4	성공된	성공+되+ㄴ	VERB	NNG+XSV+ETM	_	3	conj	_	_
+5	사회에	사회+에	ADV	NNG+JKB	_	6	obl	_	_
+6	살기	살+기	NOUN	VV+ETN	_	7	obj	_	_
+7	위해	위하+아	VERB	VV+EC	_	9	advcl	_	_
+8	어디까지	어디+까지	ADV	NNG+JX	_	9	obl	_	_
+9	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+10	좋겠냐	좋+겠+냐	VERB	VA+EP+EC	_	30	ccomp	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	좋을	좋+을	VERB	VA+ETM	_	13	acl	_	_
+13	걸	것+을	NOUN	NNB+JKO	_	14	obj	_	_
+14	얻기	얻+기	NOUN	VV+ETN	_	15	obj	_	_
+15	위해	위하+아	VERB	VV+EC	_	18	advcl	_	_
+16	희생을	희생+을	NOUN	NNG+JKO	_	18	obj	_	_
+17	얼마나	얼마나	ADV	MAG	_	18	advmod	_	_
+18	하는지	하+는지	VERB	VV+EC	_	19	csubj	_	_
+19	좋냐	좋+냐	VERB	VA+EC	_	30	ccomp	_	SpaceAfter=No
+20	,	,	PUNCT	SP	_	19	punct	_	_
+21	즐거운	즐겁+ㄴ	ADJ	VA+ETM	_	22	amod	_	_
+22	시절을	시절+을	NOUN	NNG+JKO	_	23	obj	_	_
+23	지키는	지키+는	VERB	VV+ETM	_	24	acl	_	_
+24	건	거+ㄴ	NOUN	NNB+JX	_	25	nsubj	_	_
+25	중요하지	중요+하+지	VERB	NNG+XSA+EC	_	30	ccomp	_	_
+26	않냐	않+냐	AUX	VX+EC	_	25	aux	_	_
+27	,	,	PUNCT	SP	_	25	punct	_	_
+28	그런	그런	DET	MM	_	29	det	_	_
+29	질문을	질문+을	NOUN	NNG+JKO	_	30	obj	_	_
+30	물어보면	물+어+보+면	VERB	VV+EC+VX+EC	_	37	advcl	_	_
+31	좀	좀	ADV	MAG	_	34	advmod	_	_
+32	더	더	ADV	MAG	_	34	advmod	_	_
+33	협리적으로	협리+적+으로	ADV	NF+XSN+JKB	_	34	obl	_	_
+34	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	35	acl	_	_
+35	수	수	NOUN	NNB	_	36	nsubj	_	_
+36	있을까	있+을까	VERB	VX+EC	_	37	ccomp	_	_
+37	싶다	싶+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+38	.	.	PUNCT	SF	_	37	punct	_	_
+
+# sent_id = ARG-ENG_40_1_12
+# text = 우리 아이를 키우기보다 중요한 건 어디 있겠다?
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	아이를	아이+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	키우기보다	키우+기+보다	ADV	VV+ETN+JKB	_	4	obl	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	acl	_	_
+5	건	거+ㄴ	NOUN	NNB+JX	_	7	nsubj	_	_
+6	어디	어디	ADV	MAG	_	7	advmod	_	_
+7	있겠다	있+겠+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_

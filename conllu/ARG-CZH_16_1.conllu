@@ -1,0 +1,52 @@
+# sent_id = ARG-CZH_16_1_01
+# text = 당신이 어렸을때 쉽게 외국어를 배워요.
+1	당신이	당신+이	PRON	NP+JKS	_	2	nsubj	_	_
+2	어렸을때	어리+었+을+때	ADJ	VA+EP+ETM+NNG	_	5	obl	_	_
+3	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워요	배우+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_16_1_02
+# text = 너는 더 유창하고 언어로 생각할 수 있어요.
+1	너는	너+는	PRON	NP+JX	_	3	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	유창하고	유창+하+고	ADJ	NNG+XSA+EC	_	6	acl	_	_
+4	언어로	언어+로	ADV	NNG+JKB	_	5	obl	_	_
+5	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	3	conj	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_16_1_03
+# text = 너는 단어와 발음을 잘 배울 수 있어요.
+1	너는	너+는	PRON	NP+JX	_	5	nsubj	_	_
+2	단어와	단어+와	NOUN	NNG+JC	_	5	obj	_	_
+3	발음을	발음+을	NOUN	NNG+JKO	_	2	conj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_16_1_04
+# text = 얼길 때부터 공부할때 너의 마음은 더 빠를 것이예요.
+1	얼길	얼기+ㄹ	VERB	NV+ETM	Typo=Yes	3	advcl	_	_
+2	때부터	때+부터	ADV	NNB+JX	_	3	mark	_	_
+3	공부할때	공부+하+ㄹ+때	NOUN	NNG+XSV+ETM+NNB	_	8	advcl	_	_
+4	너의	너+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	마음은	마음+은	NOUN	NNG+JX	_	8	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	빠를	빠르+ㄹ	ADJ	VA+ETM	_	8	acl	_	_
+8	것이예요	것+이+이+에요	ADJ	NNB+NA+VCP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_16_1_05
+# text = 외국어를 일찍 배울때 단점이 없다고 생각해요.
+1	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	배울때	배우+ㄹ+때	NOUN	VV+ETM+NNG	_	5	advcl	_	_
+4	단점이	단점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다고	없+다고	ADJ	VA+EC	_	6	ccomp	_	_
+6	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

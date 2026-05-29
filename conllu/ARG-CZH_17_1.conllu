@@ -1,0 +1,95 @@
+# sent_id = ARG-CZH_17_1_01
+# text = 조기언어교육의 장점에 대해 먼저 써보겠다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점에	장점+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해	대하+아	VERB	VV+EC	_	5	advcl	_	_
+4	먼저	먼저	ADV	MAG	_	5	advmod	_	_
+5	써보겠다	쓰+어+보+겠+다	VERB	VV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_17_1_02
+# text = 내 생각에는 아이들이 어릴 때 언어 배우기가 쉽고 부담이 없다.
+1	내	나+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	어릴	어리+ㄹ	ADJ	VA+ETM	_	8	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	언어	언어	NOUN	NNG	_	7	nmod	_	_
+7	배우기가	배우+기+가	VERB	VV+ETN+JKS	_	8	nsubj	_	_
+8	쉽고	쉽+고	ADJ	VA+EC	_	0	root	_	_
+9	부담이	부담+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	없다	없+다	ADJ	VA+EF	_	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_17_1_03
+# text = 외국 언어 매일 들면 당황하지도 않고 대화를 편하게 할 수 있다.
+1	외국	외국	NOUN	NNG	_	2	nmod	_	_
+2	언어	언어	NOUN	NNG	_	4	obj	_	_
+3	매일	매일	ADV	MAG	_	4	advmod	_	_
+4	들면	들+면	VERB	VV+EC	_	5	advcl	_	_
+5	당황하지도	당황+하+지도	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	않고	않	AUX	VX+EC	_	5	aux	_	_
+7	대화를	대화+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	편하게	편하+게	ADV	VA+EC	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_17_1_04
+# text = 어릴 때는 언어를 배우기가 제일 쉽다고 생각한다.
+1	어릴	어리+ㄹ	ADJ	VA+ETM	_	7	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우기가	배우+기+가	VERB	VV+ETN+JKS	_	6	nsubj	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	쉽다고	쉽+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_17_1_05
+# text = 아이들 다 클 때 외국 언어를 잘 하기가 도움이 많이 될 것 같다.
+1	아이들	아이+들	NOUN	NNG+XSN	_	3	nsubj	_	_
+2	다	다	ADV	MAG	_	3	advmod	_	_
+3	클	크+ㄹ	ADJ	VA+ETM	_	11	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	외국	외국	NOUN	NNG	_	6	nmod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	하기가	하+기+가	VERB	VV+ETN+JX	_	11	dislocated	_	_
+9	도움이	도움+이	NOUN	NNG+JKC	_	11	nsubj	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	될	되+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	것	것	NOUN	NNB	_	13	nsubj	_	_
+13	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_17_1_06
+# text = 언어를 아ㅇ들한테 딱딱하게 가르치면 아이들이 언어를 배우기가 재미없다고 생각할 수 도 있고 머리가 복잡해질 수도 있다고 생각한다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+2	아ㅇ들한테	아ㅇ+들+한테	ADV	NF+XSN+JKB	Typo=Yes	4	obl	_	_
+3	딱딱하게	딱딱+하+게	ADV	XR+XSA+EC	_	4	advmod	_	_
+4	가르치면	가르치+면	VERB	VV+EC	_	17	advcl	_	_
+5	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우기가	배우+기+가	VERB	VV+ETN+JX	_	8	nsubj	_	_
+8	재미없다고	재미+없+다고	ADJ	NNG+VA+EC	_	9	ccomp	_	_
+9	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	12	nsubj	_	_
+11	도	도	ADP	JX	_	10	case	_	_
+12	있고	있+고	VERB	VX+EC	_	17	ccomp	_	_
+13	머리가	머리+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	복잡해질	복잡+하+아지+ㄹ	VERB	XR+XSA+XSV+ETM	_	15	acl	_	_
+15	수도	수+도	NOUN	NNB+JX	_	16	nsubj	_	_
+16	있다고	있+다고	VERB	VX+EC	_	12	conj	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_17_1_07
+# text = 그 것이 조기언어교육의 단점이라고 생각한다.
+1	그	그	DET	MM	_	2	det	_	_
+2	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	단점이라고	단점+이+라고	ADJ	NNG+VCP+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

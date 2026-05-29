@@ -1,0 +1,151 @@
+# sent_id = ARG-CZH_25_3_01
+# text = 협동과 경쟁이란 단어를 보면 처음 생각나는 것은 대학교 시절이다.
+1	협동과	협동+과	NOUN	NNG+JC	_	3	acl	_	_
+2	경쟁이란	경쟁+이+란	ADJ	NF+VCP+ETM	Typo=Yes	1	conj	_	_
+3	단어를	단어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	보면	보+면	VERB	VV+EC	_	9	advcl	_	_
+5	처음	처음	NOUN	NNG	_	6	obl	_	_
+6	생각나는	생각+나+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	9	nsubj	_	_
+8	대학교	대학교	NOUN	NNG	_	9	nmod	_	_
+9	시절이다	시절+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_25_3_02
+# text = 체코 대학교에서 절대평가가 사용되므로 학생들은 대부분 서로를 도와주는데 한국에서는 상대평가를 사용하여 분위기가 많은 면에서 다르다.
+1	체코	체코	NOUN	NNP	_	2	nmod	_	_
+2	대학교에서	대학교+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	절대평가가	절대+평가+가	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+4	사용되므로	사용+되+므로	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	학생들은	학생+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+6	대부분	대부분	ADV	MAG	_	8	advmod	_	_
+7	서로를	서로+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	도와주는데	도와주+는데	VERB	VV+EC	_	15	advcl	_	_
+9	한국에서는	한국+에서+는	ADV	NNP+JKB+JX	_	11	obl	_	_
+10	상대평가를	상대+평가+를	NOUN	NNG+NNG+JKO	_	11	obj	_	_
+11	사용하여	사용+하+아	VERB	NNG+XSV+EC	_	15	advcl	_	_
+12	분위기가	분위기+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+13	많은	많+은	ADJ	VA+ETM	_	14	acl	_	_
+14	면에서	면+에서	ADV	NNB+JKB	_	15	obl	_	_
+15	다르다	다르+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_25_3_03
+# text = 따라서 두 나라 대학교 평가 시스템을 비교하면 체코는 협동 분위기인 반면, 한국은 경쟁 분위기라 할 수 있다.
+1	따라서	따라서	ADV	MAJ	_	18	cc	_	_
+2	두	두	NUM	MM	_	3	nummod	_	_
+3	나라	나라	NOUN	NNG	_	4	nmod	_	_
+4	대학교	대학교	NOUN	NNG	_	6	nmod	_	_
+5	평가	평가	NOUN	NNG	_	6	nmod	_	_
+6	시스템을	시스템+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	비교하면	비교+하+면	VERB	NNG+XSV+EC	_	18	advcl	_	_
+8	체코는	체코+는	NOUN	NNP+JX	_	10	nsubj	_	_
+9	협동	협동	NOUN	NNG	_	10	nmod	_	_
+10	분위기인	분위기+이+ㄴ	ADJ	NNG+VCP+ETM	_	11	acl	_	_
+11	반면	반면	NOUN	NNG	_	15	list	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	한국은	한국+은	NOUN	NNP+JX	_	15	nsubj	_	_
+14	경쟁	경쟁	NOUN	NNG	_	15	nmod	_	_
+15	분위기라	분위기+이+라	ADJ	NNG+VCP+EC	_	16	ccomp	_	_
+16	할	하+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_25_3_04
+# text = 학생들은 서로를 경쟁할 때 더 강한 사람이 경쟁을 이길 거라고 생각한다.
+1	학생들은	학생+들+은	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+2	서로를	서로+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	강한	강하+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	경쟁을	경쟁+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	이길	이기+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	거라고	것+이+라고	ADJ	NNB+VCP+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_25_3_05
+# text = 물론 이것은 꼭 틀린 말은 아니다.
+1	물론	물론	ADV	MAG	_	6	advmod	_	_
+2	이것은	이것+은	PRON	NP+JX	_	6	dislocated	_	_
+3	꼭	꼭	ADV	MAG	_	4	advmod	_	_
+4	틀린	틀리+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	말은	말+은	NOUN	NNG+JX	_	6	nsubj	_	_
+6	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_25_3_06
+# text = 또한 경쟁은 사람을 여러 면에서 성장하게 만들기도 한다.
+1	또한	또한	ADV	MAJ	_	7	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	사람을	사람+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	여러	여러	DET	MM	_	5	det	_	_
+5	면에서	면+에서	ADV	NNB+JKB	_	6	obl	_	_
+6	성장하게	성장+하+게	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	만들기도	만들+기+도	VERB	VV+ETN+JX	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_25_3_07
+# text = 그러나 나는 협동을 하는 데에 더 큰 힘이 있고 더 강한 사람들이 할 수 있다고 여긴다.
+1	그러나	그러나	ADV	MAJ	_	16	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	16	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	9	advcl	_	_
+5	데에	데+에	ADV	NNB+JKB	_	4	mark	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	힘이	힘+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있고	있+고	VERB	VV+EC	_	16	ccomp	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	강한	강하+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다고	있+다고	VERB	VX+EC	_	9	conj	_	_
+16	여긴다	여기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_25_3_08
+# text = 왜냐하면 자신이 잘 하는 것으로 남을 도와줄 뿐만 아니라 남 앞에서 자신의 약한 면도 보여줘야 하기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	17	cc	_	_
+2	자신이	자신+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것으로	것+으로	ADV	NNB+JKB	_	7	obl	_	_
+6	남을	남+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	도와줄	도와주+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	뿐만	뿐+만	NOUN	NNB+JX	_	9	nsubj	_	_
+9	아니라	아니+라	ADJ	VCN+EC	_	15	advcl	_	_
+10	남	남	NOUN	NNG	_	15	obl	_	_
+11	앞에서	앞+에서	ADV	NNG+JKB	_	10	case	_	_
+12	자신의	자신+의	NOUN	NNG+JKG	_	14	nmod:poss	_	_
+13	약한	약하+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	면도	면+도	NOUN	NNG+JX	_	15	obj	_	_
+15	보여줘야	보이+어+주+어야	VERB	VV+EC+VX+EC	_	17	nmod	_	_
+16	하기	하	AUX	VX+ETN	_	15	aux	_	_
+17	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_25_3_09
+# text = 따라서 경쟁은 어떤 경우에 더 유리할 수 있겠으나 나는 서로에게 힘이 돼 주는 협동을 언제나 선호하겠다.
+1	따라서	따라서	ADV	MAJ	_	16	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	경우에	경우+에	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	유리할	유리+하+ㄹ	ADJ	NNG+XSA+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있겠으나	있+겠+으나	VERB	VX+EP+EC	_	16	advcl	_	_
+9	나는	나+는	PRON	NP+JX	_	16	nsubj	_	_
+10	서로에게	서로+에게	ADV	NNG+JKB	_	12	obl	_	_
+11	힘이	힘+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	돼	되+어	VERB	VV+EC	_	14	acl	_	_
+13	주는	주+는	VERB	VX+ETM	_	12	advcl	_	_
+14	협동을	협동+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	언제나	언제나	ADV	MAG	_	16	advmod	_	_
+16	선호하겠다	선호+하+겠+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

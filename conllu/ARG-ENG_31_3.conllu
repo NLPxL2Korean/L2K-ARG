@@ -1,0 +1,86 @@
+# sent_id = ARG-ENG_31_3_01
+# text = 제가 경쟁 더 좋아요.
+1	제가	제+가	PRON	NP+JKS	_	4	dislocated	_	_
+2	경쟁	경쟁	NOUN	NNG	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_31_3_02
+# text = 물론 협동 없이 어떤 문제 풀 수 없지만 경쟁으로 다양한 방법이 나오고 요즘 인기가 있는 방법이 부족한 마음 있어서 항상 개발하는 사람 있어요.
+1	물론	물론	ADV	MAG	_	8	advmod	_	_
+2	협동	협동	NOUN	NNG	_	3	nsubj	_	_
+3	없이	없이	ADV	MAG	_	8	advcl	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	문제	문제	NOUN	NNG	_	6	obj	_	_
+6	풀	풀+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없지만	없+지만	ADJ	VA+EC	_	23	advcl	_	_
+9	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	12	obl	_	_
+10	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	방법이	방법+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	나오고	나오+고	VERB	VV+EC	_	23	advcl	_	_
+13	요즘	요즘	ADV	NNG	_	15	advmod	_	_
+14	인기가	인기+가	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있는	있+는	VERB	VV+ETM	_	16	acl	_	_
+16	방법이	방법+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	18	acl	_	_
+18	마음	마음	NOUN	NNG	_	19	nsubj	_	_
+19	있어서	있+어서	VERB	VV+EC	_	12	conj	_	_
+20	항상	항상	ADV	MAG	_	23	advmod	_	_
+21	개발하는	개발+하+는	VERB	NNG+XSV+ETM	_	22	acl	_	_
+22	사람	사람	NOUN	NNG	_	23	nsubj	_	_
+23	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_31_3_03
+# text = 제가 다른 사람과 진짜로 협동할 기회 별로 없으니까 경쟁은 경험이 더 많아요.
+1	제가	제+가	PRON	NP+JKS	_	8	dislocated	_	_
+2	다른	다르+ㄴ	VERB	VV+ETM	_	3	amod	_	_
+3	사람과	사람+과	NOUN	NNG+JC	_	5	obl	_	_
+4	진짜로	진짜로	ADV	MAG	_	5	advmod	_	_
+5	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	기회	기회	NOUN	NNG	_	8	nsubj	_	_
+7	별로	별로	ADV	MAG	_	8	advmod	_	_
+8	없으니까	없+으니까	ADJ	VA+EC	_	12	advcl	_	_
+9	경쟁은	경쟁+은	NOUN	NNG+JX	_	12	obl	_	_
+10	경험이	경험+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	많아요	많+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_31_3_04
+# text = 어떨 땐 경쟁으로 사람들이 다른 사람한테 개발 막힐수있어서 어떤 종도로 협동과 경쟁 섞으면 제일 좋은 방법인 것 같아요.
+1	어떨	어떻+ㄹ	ADJ	VA+ETM	_	2	amod	_	_
+2	땐	때+ㄴ	NOUN	NNG+JX	_	8	obl	_	_
+3	경쟁으로	경쟁+으로	ADV	NNG+JKB	_	8	obl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	사람한테	사람+한테	ADV	NNG+JKB	_	8	obl	_	_
+7	개발	개발	NOUN	NNG	_	8	obj	_	_
+8	막힐수있어서	막히+ㄹ+수+있+어서	VERB	VV+ETM+NNB+VX+EC	_	18	advcl	_	_
+9	어떤	어떤	DET	MM	_	10	det	_	_
+10	종도로	종도+로	ADV	NF+JKB	Typo=Yes	13	obl	_	_
+11	협동과	협동+과	NOUN	NF+JC	Typo=Yes	13	obj	_	_
+12	경쟁	경쟁	NOUN	NNG	_	11	conj	_	_
+13	섞으면	섞+으면	ADJ	VA+EC	_	16	advcl	_	_
+14	제일	제일	ADV	MAG	_	15	advmod	_	_
+15	좋은	좋+은	ADJ	VA+ETM	_	16	amod	_	_
+16	방법인	방법+이+ㄴ	ADJ	NNG+VCP+ETM	_	17	acl	_	_
+17	것	것	NOUN	NNB	_	18	nsubj	_	_
+18	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_31_3_05
+# text = 예를 들면 축구에서 팀 안에 협동을 비료하지만 다른 팀과 경쟁있어요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	10	advcl	_	_
+3	축구에서	축구+에서	ADV	NNG+JKB	_	7	obl	_	_
+4	팀	팀	NOUN	NNG	_	7	obl	_	_
+5	안에	안+에	ADV	NNG+JKB	_	4	case	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	비료하지만	비료+하+지만	ADJ	NF+XSA+EC	Typo=Yes	10	advcl	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	팀과	팀+과	ADV	NNG+JKB	_	10	obl	_	_
+10	경쟁있어요	경쟁+있+어요	VERB	NNG+VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

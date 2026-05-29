@@ -1,0 +1,245 @@
+# sent_id = ARG-CHN_23_2_01
+# text = 성공을 취득하기 위해 사람들이 항상 협동이나 경쟁한다.
+1	성공을	성공+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	취득하기	취득+하+기	VERB	NNG+XSV+ETN	_	3	obj	_	_
+3	위해	위하+아	VERB	VV+EC	_	6	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	항상	항상	ADV	MAG	_	7	advmod	_	_
+6	협동이나	협동+이나	NOUN	NNG+JC	_	0	root	_	_
+7	경쟁한다	경쟁+하+ㄴ다	VERB	NNG+XSV+EF	_	6	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_23_2_02
+# text = 이 두 요소를 다 사람들의 힘을 증가 할 수 있다.
+1	이	이	DET	MM	_	3	det	_	_
+2	두	두	NUM	MM	_	3	nummod	_	_
+3	요소를	요소+를	NOUN	NNG+JKO	_	7	obj	_	_
+4	다	다	ADV	MAG	_	7	advmod	_	_
+5	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	6	nmod:poss	_	_
+6	힘을	힘+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	증가	증가+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	9	acl	_	_
+8	할	_	X	_	_	7	goeswith	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_23_2_03
+# text = 협동은 더 많은 사람들의 힘을 모일 수 있고 경쟁은 사람들의 의식을 자극하기 때문에 더 큰 힘을 생길 수 있다.
+1	협동은	협동+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	5	nmod:poss	_	_
+5	힘을	힘+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	모일	모이+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있	AUX	VX+EC	_	19	advcl	_	_
+9	경쟁은	경쟁+은	NOUN	NNG+JX	_	12	nsubj	_	_
+10	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	11	nmod:poss	_	_
+11	의식을	의식+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	자극하기	자극+하+기	VERB	NNG+XSV+ETN	_	19	obl	_	_
+13	때문에	때문+에	ADV	NNB+JKB	_	12	case	_	_
+14	더	더	ADV	MAG	_	17	advmod	_	_
+15	큰	크+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+16	힘을	힘+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	생길	생기+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CHN_23_2_04
+# text = 하지만 내가 협동이 성공에 더 큰 영향을 미친다고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	내가	내+가	PRON	NP+JKS	_	9	nsubj	_	_
+3	협동이	협동+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	더	더	ADV	MAG	_	8	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미친다고	미치+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_23_2_05
+# text = 그 이유는 이래와 같다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	이래와	이래+와	NOUN	NF+JC	Typo=Yes	4	obl	_	_
+4	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_23_2_06
+# text = 먼저, 한 사람보다 많은 사람의 힘이 더 큰다.
+1	먼저	먼저	ADV	MAG	_	9	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	9	punct	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	사람보다	사람+보다	ADV	NNG+JKB	_	9	obl	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	사람의	사람+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	힘이	힘+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	큰다	크+ㄴ다	ADJ	VA+NV	Typo=Yes	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_23_2_07
+# text = 어든 가 난 한 일이 어떻게 해결할 수 있는지 많은 사람 생각하면 더 쉬게 해결 할 수 있다.
+1	어든	어든	ADV	NA	Typo=Yes	18	advmod	_	_
+2	가	가+난+하+ㄴ	ADJ	NA+NA+XSA+ETM	Typo=Yes	5	amod	_	_
+3	난	_	X	_	_	2	goeswith	_	_
+4	한	_	X	_	_	2	goeswith	_	_
+5	일이	일+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+7	해결할	해결+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있는지	있+는지	VERB	VX+EC	_	12	ccomp	_	_
+10	많은	많+은	ADJ	VA+ETM	_	17	amod	_	_
+11	사람	사람	NOUN	NNG	_	12	nsubj	_	_
+12	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	18	advcl	_	_
+13	더	더	ADV	MAG	_	18	advmod	_	_
+14	쉬게	쉬+게	ADV	NV+EC	Typo=Yes	15	advmod	_	_
+15	해결	해결+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	17	acl	_	_
+16	할	_	X	_	_	15	goeswith	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_23_2_08
+# text = 그다음, 어던 상황에서 경쟁이 보다 현동하면 성공의 기회가 더 많다.
+1	그다음	그+다음	NOUN	MM+NNG	_	7	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	어던	어던	DET	NA	Typo=Yes	4	det	_	_
+4	상황에서	상황+에서	ADV	NNG+JKB	_	7	obl	_	_
+5	경쟁이	경쟁+이	NOUN	NNG+JKS	_	11	obl	_	_
+6	보다	보다	ADP	JKB	_	5	case	_	_
+7	현동하면	현동+하+면	VERB	NF+XSV+EC	Typo=Yes	11	advcl	_	_
+8	성공의	성공+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	기회가	기회+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_23_2_09
+# text = 예를 들어, 중국을 비록한 많은 나라는 오림 피키라는 세게 운동회를 하고 싶다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	중국을	중국+을	NOUN	NNP+JKO	_	5	obj	_	_
+5	비록한	비록+하+ㄴ	VERB	NA+XSV+ETM	Typo=Yes	7	acl	_	_
+6	많은	많+은	ADJ	VA+ETM	_	7	amod	_	_
+7	나라는	나라+는	NOUN	NNG+JX	_	12	nsubj	_	_
+8	오림	오림	NOUN	NF	Typo=Yes	11	acl	_	_
+9	피키라는	피키+이+라는	ADJ	NF+VCP+ETM	Typo=Yes	8	flat	_	_
+10	세게	세게	NOUN	NF	Typo=Yes	11	nmod	_	_
+11	운동회를	운동회+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	하고	하+고	VERB	VV+EC	_	0	root	_	_
+13	싶다	싶	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_23_2_10
+# text = 동시에 나라사의 경쟁이 있을 뿐만 아니라 중국의 각 도시도 경쟁이 존재한다.
+1	동시에	동시+에	ADV	NNG+JKB	_	11	obl	_	_
+2	나라사의	나라+사+의	NOUN	NNG+NF+JKG	Typo=Yes	3	nmod:poss	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있을	있+을	VERB	VV+ETM	_	5	acl	_	_
+5	뿐만	뿐+만	NOUN	NNB+JX	_	6	nsubj	_	_
+6	아니라	아니+라	ADJ	VCN+EC	_	11	advcl	_	_
+7	중국의	중국+의	NOUN	NNP+JKG	_	8	nmod:poss	_	_
+8	각	각	NOUN	NNG	_	9	nmod	_	_
+9	도시도	도시+도	NOUN	NNG+JX	_	11	dislocated	_	_
+10	경쟁이	경쟁+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	존재한다	존재+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_23_2_11
+# text = 배이경과 하오배라는 도시 다 좋은 운동 공간 있기 때문에 다 세게 운동장소가 되고 싶다.
+1	배이경과	배이경+과	NOUN	NF+JC	Typo=Yes	3	acl	_	_
+2	하오배라는	하오배+이+라는	ADJ	NF+VCP+ETM	Typo=Yes	1	conj	_	_
+3	도시	도시	NOUN	NNG	_	8	obl	_	_
+4	다	다	ADV	MAG	_	8	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+6	운동	운동	NOUN	NNG	_	7	nmod	_	_
+7	공간	공간	NOUN	NNG	_	8	nsubj	_	_
+8	있기	있+기	VERB	VV+ETN	_	13	obl	_	_
+9	때문에	때문+에	ADV	NNB+JKB	_	8	case	_	_
+10	다	다	ADV	MAG	_	13	advmod	_	_
+11	세게	세게	NOUN	NF	Typo=Yes	12	nmod	_	_
+12	운동장소가	운동+장소+가	NOUN	NNG+NNG+JKS	_	13	nsubj	_	_
+13	되고	되+고	VERB	VV+EC	_	0	root	_	_
+14	싶다	싶	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_23_2_12
+# text = 하지만 배이징이나 하이배라는 두 도시는 미국의 비해 힘이 작다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	배이징이나	배이징+이나	NOUN	NF+JC	Typo=Yes	5	acl	_	_
+3	하이배라는	하이배+이+라는	ADJ	NF+VCP+ETM	Typo=Yes	2	conj	_	_
+4	두	두	NUM	MM	_	5	nummod	_	_
+5	도시는	도시+는	NOUN	NNG+JX	_	9	dislocated	_	_
+6	미국의	미국+의	NOUN	NNP+JKG	_	7	nmod	_	_
+7	비해	비하+아	VERB	VV+EC	_	9	advcl	_	_
+8	힘이	힘+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	작다	작+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_23_2_13
+# text = 그래서 배이경과 하이배 협동한다.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	배이경과	배이경+과	NOUN	NF+JC	Typo=Yes	4	nsubj	_	_
+3	하이배	하이배	NOUN	NF	Typo=Yes	2	conj	_	_
+4	협동한다	협동+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_23_2_14
+# text = 두 도시 협동하면 더 큰 운동장소가 있고 다른 자원도 증가한다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	도시	도시	NOUN	NNG	_	3	nsubj	_	_
+3	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	운동장소가	운동+장소+가	NOUN	NNG+NNG+JKS	_	7	nsubj	_	_
+7	있고	있+고	VERB	VV+EC	_	0	root	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	자원도	자원+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	증가한다	증가+하+ㄴ다	VERB	NNG+XSV+EF	_	7	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_23_2_15
+# text = 그래서 나중의 중국은 세게운도회의 개진권을 얻고 잘 했는다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	나중의	나중+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	중국은	중국+은	NOUN	NNP+JX	_	8	nsubj	_	_
+4	세게운도회의	세게+운도회+의	NOUN	NF+NF+JKG	Typo=Yes	5	nmod:poss	_	_
+5	개진권을	개진+권+을	NOUN	NF+XSN+JKO	Typo=Yes	6	obj	_	_
+6	얻고	얻+고	VERB	VV+EC	_	8	advcl	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	했는다	하+았+는다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_23_2_16
+# text = 마지막으로, 경쟁이보면 협동하면 사람들이 자기의 성장 더 많다고 생각한다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	10	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	경쟁이보면	경쟁+이+보+면	VERB	NNG+JKS+VV+EC	_	10	advcl	_	_
+4	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+6	자기의	자기+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	성장	성장	NOUN	NNG	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	많다고	많+다고	ADJ	VA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_23_2_17
+# text = 사람과 사람 사이에 교류능력, 침인심 등 다 제고 할 수 있다.
+1	사람과	사람+과	NOUN	NNG+JC	_	3	nmod	_	_
+2	사람	사람	NOUN	NNG	_	1	conj	_	_
+3	사이에	사이+에	ADV	NNG+JKB	_	9	obl	_	_
+4	교류능력	교류+능력	NOUN	NNG+NNG	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	침인심	침인+심	NOUN	NF+XSN	Typo=Yes	9	obj	_	_
+7	등	등	NOUN	NNB	_	6	case	_	_
+8	다	다	ADV	MAG	_	9	advmod	_	_
+9	제고	제고+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	11	acl	_	_
+10	할	_	X	_	_	9	goeswith	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

@@ -1,0 +1,167 @@
+# sent_id = ARG-ENG_24_2_01
+# text = 역사는 학교에서 배워야 생각합니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	3	obj	_	_
+2	학교에서	학교+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	4	ccomp	_	_
+4	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_24_2_02
+# text = 아이들은 태어날 때 뭐를 맞는거나 틀리는지 모릅니다.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	2	nsubj	_	_
+2	태어날	태어나+ㄹ	VERB	VV+ETM	_	7	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	뭐를	뭐+를	PRON	NP+JKO	_	5	obj	_	_
+5	맞는거나	맞+는+거+나	VERB	VV+ETM+NNB+JC	_	7	ccomp	_	_
+6	틀리는지	틀리+는지	VERB	VV+EC	_	5	conj	_	_
+7	모릅니다	모르+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_24_2_03
+# text = 그래서 역사를 배우면서 사는 방법도 배울 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면서	배우+면서	VERB	VV+EC	_	8	advcl	_	_
+4	사는	살+는	VERB	VV+ETM	_	5	acl	_	_
+5	방법도	방법+도	NOUN	NNG+JX	_	6	obj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_24_2_04
+# text = 전치거나 경재거나 다른 사람들이 문제는 어떻게 이기는지 아니면 실패했는지 배울 수 있습니다.
+1	전치거나	전치+거나	NOUN	NF+JC	Typo=Yes	10	obl	_	_
+2	경재거나	경재+거나	NOUN	NF+JC	Typo=Yes	1	conj	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	문제는	문제+는	NOUN	NNG+JX	_	7	obj	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+7	이기는지	이기+는지	VERB	VV+EC	_	10	ccomp	_	_
+8	아니면	아니+면	ADJ	VCN+EC	_	9	advcl	_	_
+9	실패했는지	실패+하+았+는지	VERB	NNG+XSV+EP+EC	_	10	ccomp	_	_
+10	배울	배우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_24_2_05
+# text = 많은 사람의 생각은 역사는 과거라서 공부하면도 시간낭비입니다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람의	사람+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	생각은	생각+은	NOUN	NNG+JX	_	7	obl	_	_
+4	역사는	역사+는	NOUN	NNG+JX	_	5	nsubj	_	_
+5	과거라서	과거+이+라서	ADJ	NNG+VCP+EC	_	6	advcl	_	_
+6	공부하면도	공부+하+면+도	VERB	NNG+XSV+EC+JX	_	7	advcl	_	_
+7	시간낭비입니다	시간+낭비+이+ㅂ니다	ADJ	NNG+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_24_2_06
+# text = 하지만 역사도 미래에 예측할 수도 있습니다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	역사도	역사+도	NOUN	NNG+JX	_	4	obj	_	_
+3	미래에	미래+에	ADV	NNG+JKB	_	4	obl	_	_
+4	예측할	예측+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수도	수+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_24_2_07
+# text = 인간성은 똑같은 문제가 생기면 똑같은 방법으로 해결하는 것 같습니다.
+1	인간성은	인간+성+은	NOUN	NNG+XSN+JX	_	4	dislocated	_	_
+2	똑같은	똑같+은	ADJ	VA+ETM	_	3	amod	_	_
+3	문제가	문제+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	생기면	생기+면	VERB	VV+EC	_	7	advcl	_	_
+5	똑같은	똑같+은	ADJ	VA+ETM	_	6	amod	_	_
+6	방법으로	방법+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	해결하는	해결+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	9	nsubj	_	_
+9	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_24_2_08
+# text = 인간의 좋은 편 고르거나 나쁜 편 고르냐 역사 안에 먼저 공부 하고 모델로가 있어서 혹시나 더 좋은 선택해도 됩니다.
+1	인간의	인간+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	편	편	NOUN	NNB	_	4	obj	_	_
+4	고르거나	고르+거나	VERB	VV+EC	_	12	ccomp	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	편	편	NOUN	NNB	_	7	obj	_	_
+7	고르냐	고르+냐	VERB	VV+EC	_	4	conj	_	_
+8	역사	역사	NOUN	NNG	_	12	obl	_	_
+9	안에	안+에	ADV	NNG+JKB	_	8	case	_	_
+10	먼저	먼저	ADV	MAG	_	12	advmod	_	_
+11	공부	공부	NOUN	NNG	_	12	obj	_	_
+12	하고	하+고	VERB	VV+EC	_	14	advcl	_	_
+13	모델로가	모델로+가	NOUN	NF+JKS	Typo=Yes	14	nsubj	_	_
+14	있어서	있+어서	VERB	VV+EC	_	18	advcl	_	_
+15	혹시나	혹시나	ADV	MAG	_	18	advmod	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	좋은	좋+은	ADJ	VA+ETM	_	18	amod	_	_
+18	선택해도	선택+하+아도	VERB	NNG+XSV+EC	_	0	root	_	_
+19	됩니다	되+ㅂ니다	VERB	VX+EF	_	18	advcl	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_24_2_09
+# text = 역사 또 공부해야 하는 이유는 재미있습니다.
+1	역사	역사	NOUN	NNG	_	3	obj	_	_
+2	또	또	ADV	MAG	_	3	advmod	_	_
+3	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	5	acl	_	_
+4	하는	하	AUX	VX+ETM	_	3	aux	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	6	nsubj	_	_
+6	재미있습니다	재미+있+습니다	ADJ	NNG+VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_24_2_10
+# text = 다른 나라에 똑같은 시간 어떤게 비씃하거나 다르는지 몰 수 있는 게 너무 재미있는 것 같습니다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나라에	나라+에	ADV	NNG+JKB	_	6	obl	_	_
+3	똑같은	똑같+은	ADJ	VA+ETM	_	4	amod	_	_
+4	시간	시간	NOUN	NNB	_	6	obl	_	_
+5	어떤게	어떤+것+이	NOUN	MM+NNB+JKS	_	6	nsubj	_	_
+6	비씃하거나	비씃+하+거나	VERB	NA+XSA+EC	Typo=Yes	8	ccomp	_	_
+7	다르는지	다르+는지	ADJ	VA+EC	_	6	conj	_	_
+8	몰	모+ㄹ	VERB	NV+ETM	Typo=Yes	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	게	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+12	너무	너무	ADV	MAG	_	13	advmod	_	_
+13	재미있는	재미+있+는	ADJ	NNG+VA+ETM	_	14	amod	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_24_2_11
+# text = 아니면 똑같은 사건에 다른 사람의 기억 어떻게 다르는지 비규하면도 재미있는것 같습니다.
+1	아니면	아니+면	ADJ	VCN+EC	_	11	advcl	_	_
+2	똑같은	똑같+은	ADJ	VA+ETM	_	3	amod	_	_
+3	사건에	사건+에	ADV	NNG+JKB	_	8	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	사람의	사람+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	기억	기억	NOUN	NNG	_	8	nsubj	_	_
+7	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+8	다르는지	다르+는지	VERB	VV+EC	_	9	ccomp	_	_
+9	비규하면도	비규+하+면+도	VERB	NF+XSV+EC+JX	Typo=Yes	10	advcl	_	_
+10	재미있는것	재미+있+는+것	VERB	NNG+VA+ETM+NNB	_	11	nsubj	_	_
+11	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_24_2_12
+# text = 역사의 유면한 말은 이기는 사람의 역사는 상이다.
+1	역사의	역사+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+2	유면한	유면+하+ㄴ	ADJ	NA+XSA+ETM	Typo=Yes	3	amod	_	_
+3	말은	말+은	NOUN	NNG+JX	_	7	dislocated	_	_
+4	이기는	이기+는	VERB	VV+ETM	_	5	acl	_	_
+5	사람의	사람+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	역사는	역사+는	NOUN	NNG+JX	_	7	nsubj	_	_
+7	상이다	상+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_24_2_13
+# text = 역사의 승리자는 역사는 쓰는 뜻입니다.
+1	역사의	역사+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	승리자는	승리자+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	역사는	역사+는	NOUN	NNG+JX	_	4	obj	_	_
+4	쓰는	쓰+는	VERB	VV+ETM	_	5	acl	_	_
+5	뜻입니다	뜻+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

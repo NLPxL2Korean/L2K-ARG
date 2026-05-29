@@ -1,0 +1,81 @@
+# sent_id = ARG-JPN_29_3_01
+# text =  나는 경쟁보다 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_29_3_02
+# text =  협동을 할때는 사람들하고 힘을 모아서 2면이 있으면 2배, 5명 있으면 5배가 되다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	할때는	하+ㄹ+때+는	VERB	VV+ETM+NNB+JX	_	13	advcl	_	_
+3	사람들하고	사람+들+하고	VERB	NNG+XSN+JKB	_	5	obl	_	_
+4	힘을	힘+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	모아서	모+아서	VERB	VV+EC	_	13	advcl	_	_
+6	2면이	2+면+이	NOUN	SN+NF+JKS	_	7	nsubj	_	_
+7	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+8	2배	2+배	NOUN	SN+NNB	_	12	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	5명	5+명	NOUN	SN+NNB	_	8	nsubj	_	_
+11	있으면	있+으면	VERB	VV+EC	_	13	advcl	_	_
+12	5배가	5+배+가	NOUN	SN+NNB+JKS	_	13	nsubj	_	_
+13	되다	되+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_29_3_03
+# text =  그래서 힘든 일이 있을 때도 같이 하면 할 수 있다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	힘든	힘들+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	일이	일+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있을	있+을	VERB	VV+ETM	_	7	advcl	_	_
+5	때도	때+도	ADV	NNG+JX	_	4	mark	_	_
+6	같이	같이	ADV	MAG	_	7	advmod	_	_
+7	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_29_3_05
+# text =  이외 같이 협동을 좋은 점이 많고 선호한다.
+1	이외	이+외	ADV	MM+NNB	_	6	obl	_	_
+2	같이	같이	ADV	MAG	_	6	advmod	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	좋은	좋+은	VERB	VA+ETM	_	5	amod	_	_
+5	점이	점+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	많고	많+고	VERB	VA+EC	_	0	root	_	_
+7	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	6	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_29_3_04-1
+# text =  경쟁한 경우 그것을 할 수가 없다.
+1	경쟁한	경쟁+하+ㄴ	ADJ	NNG+XSV+ETM	_	2	acl	_	_
+2	경우	경우	ADV	NNG	_	6	advmod	_	_
+3	그것을	그것+을	PRON	NP+JKO	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수가	수+가	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	없다	없+다	VERB	VA+EC	_	0	root	_	_
+7	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_29_3_04-2
+# text =  .나는 시험공부를 할 때 혼자서 공부를 하기보다 친구하고 하는 것을 좋아하고 다행이도 시험결과도 더 좋은 거 같다.
+1	.나는	.+나+는	NOUN	SF+NP+JX	_	11	nsubj	_	_
+2	시험공부를	시험+공부+를	NOUN	NNG+NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	11	advcl	_	_
+4	때	때	ADV	NNG	_	9	mark	_	_
+5	혼자서	혼자+서	ADV	NNG+JKS	_	7	advmod	_	_
+6	공부를	공부+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	하기보다	하+기+보다	ADV	VV+ETN+JKB	_	11	obl	_	_
+8	친구하고	친구+하고	VERB	NNG+JKB	_	9	obl	_	_
+9	하는	하+는	VERB	VV+ETM	_	10	acl	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+11	좋아하고	좋아하+고	VERB	VV+EC	_	17	advcl	_	_
+12	다행이도	다행이+도	NOUN	MAG+JX	_	17	advmod	_	_
+13	시험결과도	시험+결과+도	NOUN	NNG+NNG+JX	_	15	obj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	좋은	좋+은	VERB	VA+ETM	_	16	acl	_	_
+16	거	거	NOUN	NNB	_	23	nsubj	_	_
+17	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	23	punct	_	_

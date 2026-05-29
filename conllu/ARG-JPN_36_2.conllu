@@ -1,0 +1,115 @@
+# sent_id = ARG-JPN_36_2_01
+# text =  나는 역사는 배워야 한다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_36_2_02
+# text =  이유는 어떤 나라에도 역사가 있고 그런 역사가 있어서 지금의 그 나라가 있다고 생각하기 때문이다.
+1	이유는	이유+는	NOUN	NNG+JX	_	14	nsubj	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	나라에도	나라+에+도	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	역사가	역사+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있고	있+고	VERB	VV+EC	_	12	advcl	_	_
+6	그런	그런	DET	MM	_	7	det	_	_
+7	역사가	역사+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VV+EC	_	12	advcl	_	_
+9	지금의	지금+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	나라가	나라+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	있다고	있+다고	VERB	VV+EC	_	13	ccomp	_	_
+13	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	14	nmod	_	_
+14	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_36_2_03
+# text =  역사는 배우는 것은 어렵지만 그만큼 중요한 것이다.
+1	역사는	역사+는	NOUN	NNG+JX	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	4	nsubj	_	_
+4	어렵지만	어렵+지만	VERB	VA+EC	_	7	advcl	_	_
+5	그만큼	그+만큼	ADV	NP+ETM	_	6	obl	_	_
+6	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	7	acl	_	_
+7	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_36_2_04
+# text =  예를 들어서 일본이 어떻게 성장해 왔는지 그 과정에서 어떤 나라와 교류나 문제가 있었는지 알면 일본과 한국이나 일본과 미국 등의 관계성을 알 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	23	advcl	_	_
+3	일본이	일본+이	NOUN	NNP+JKS	_	5	nsubj	_	_
+4	어떻게	어떻+게	ADV	VA+EC	_	5	advmod	_	_
+5	성장해	성장+하+아	VERB	NNG+XSV+EC	_	14	ccomp	_	_
+6	왔는지	오+았+는지	VERB	VX+EP+EC	_	5	aux	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	과정에서	과정+에서	ADV	NNG+JKB	_	13	obl	_	_
+9	어떤	어떤	DET	MM	_	10	det	_	_
+10	나라와	나라+와	NOUN	NNG+JKB	_	13	obl	_	_
+11	교류나	교류+나	NOUN	NNG+JC	_	13	nsubj	_	_
+12	문제가	문제+가	NOUN	NNG+JKS	_	11	conj	_	_
+13	있었는지	있+었+는지	VERB	VV+EP+EC	_	6	conj	_	_
+14	알면	알+면	VERB	VV+EC	_	23	advcl	_	_
+15	일본과	일본+과	NOUN	NNG+JC	_	20	nmod:poss	_	_
+16	한국이나	한국+이나	NOUN	NNG+JC	_	15	conj	_	_
+17	일본과	일본+과	NOUN	NNP+JC	_	15	conj	_	_
+18	미국	미국	NOUN	NNP	_	17	conj	_	_
+19	등의	등+의	NOUN	NNB+JKG	_	15	case	_	_
+20	관계성을	관계+성+을	NOUN	NNG+XSN+JKO	_	21	obj	_	_
+21	알	알+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_36_2_05
+# text =  그리고 그런 역사를 배우면 지금의 일본의 국제적인 문제를 더 깊게 이해하고 생각할 수 있을 것이다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	15	advcl	_	_
+5	지금의	지금+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+6	일본의	일본+의	NOUN	NNP+JKG	_	8	nmod:poss	_	_
+7	국제적인	국제+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	문제를	문제+를	NOUN	NNG+JKO	_	11	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	깊게	깊+게	ADV	VA+EC	_	11	advmod	_	_
+11	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	13	acl	_	_
+12	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	11	conj	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있을	있+을	VERB	VX+ETM	_	15	acl	_	_
+15	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_36_2_06
+# text =  나는 역사 수업의 성적이 안 좋았고 지식도 많이 없어서 조금 더 공부를 했어야 했다고 후회를 하고 있다.
+1	나는	나+는	PRON	NP+JX	_	16	nsubj	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	수업의	수업+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	성적이	성적+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	좋았고	좋+았+고	VERB	VA+EP+EC	_	16	advcl	_	_
+7	지식도	지식+도	NOUN	NNG+JX	_	9	nsubj	_	_
+8	많이	많이	ADV	MAG	_	9	advmod	_	_
+9	없어서	없+어서	VERB	VA+EC	_	6	conj	_	_
+10	조금	조금	ADV	MAG	_	13	advmod	_	_
+11	더	더	ADV	MAG	_	13	advmod	_	_
+12	공부를	공부+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	했어야	하+았+어야	VERB	VV+EP+EC	_	16	ccomp	_	_
+14	했다고	하+았+다고	VERB	VX+EP+EC	_	13	aux	_	_
+15	후회를	후회+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	하고	하+고	VERB	VV+EC	_	0	root	_	_
+17	있다	있+다	AUX	VX+EF	_	16	aux	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_36_2_07
+# text =  이런 이유로 나는 역사를 배워야 한다고 생각한다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	7	obl	_	_
+3	나는	나+는	VERB	NP+JX	_	7	nsubj	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	ccomp	_	_
+6	한다고	하+ㄴ다고	AUX	VX+EC	_	5	aux	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

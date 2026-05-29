@@ -1,0 +1,135 @@
+# sent_id = ARG-CZH_20_1_01
+# text = 어린이 어른들보다 더 빠게 배울 수 있다는 사실이 과학적으로 확인한 것이다.
+1	어린이	어린이	NOUN	NNG	_	5	nsubj	_	_
+2	어른들보다	어른+들+보다	ADV	NNG+XSN+JKB	_	5	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	빠게	빠+게	ADV	NV+EC	Typo=Yes	5	advmod	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다는	있+다는	VERB	VX+ETM	_	8	acl	_	_
+8	사실이	사실+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	과학적으로	과학+적+으로	ADV	NNG+XSN+JKB	_	10	obl	_	_
+10	확인한	확인+하+ㄴ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_20_1_02
+# text = 나이가 많을수록 특히 언어교육의 효과가 작아진다.
+1	나이가	나이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	많을수록	많+을수록	ADJ	VA+EC	_	6	advcl	_	_
+3	특히	특히	ADV	MAG	_	6	advmod	_	_
+4	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	효과가	효과+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	작아진다	작+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_20_1_03
+# text = 어린 나이에 배운 것을 오랫동안 기억할 수 있어서 여러 가지 언어도 초등학교 때부터 배워도 좋을 수 있다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이에	나이+에	ADV	NNG+JKB	_	3	obl	_	_
+3	배운	배우+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+5	오랫동안	오랫동안	ADV	MAG	_	6	advmod	_	_
+6	기억할	기억+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VX+EC	_	17	advcl	_	_
+9	여러	여러	DET	MM	_	10	det	_	_
+10	가지	가지	NOUN	NNB	_	11	nmod	_	_
+11	언어도	언어+도	NOUN	NNG+JX	_	14	obj	_	_
+12	초등학교	초등학교	NOUN	NNG	_	14	obl	_	_
+13	때부터	때+부터	NOUN	NNG+JX	_	12	case	_	_
+14	배워도	배우+어+도	VERB	VV+EC+JX	_	15	advcl	_	_
+15	좋을	좋+을	ADJ	VA+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_20_1_04
+# text = 반면에는 자기 나라의 언어를 아직 잘 안 배운 아이들은 외국어고 매우면서 문제가 생길 수 있다.
+1	반면에는	반면+에+는	ADV	NNG+JKB+JX	_	15	obl	_	_
+2	자기	자기	NOUN	NNG	_	3	nmod	_	_
+3	나라의	나라+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+5	아직	아직	ADV	MAG	_	7	advmod	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	배운	배우+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+10	외국어고	외국어+고	NOUN	NNG+NA	Typo=Yes	11	obj	_	_
+11	매우면서	매우+면서	VERB	NV+EC	Typo=Yes	15	advcl	_	_
+12	문제가	문제+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	생길	생기+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_20_1_05
+# text = 자기 언어와 외국어 언어의 문법과 어휘를 핵가릴 수 있다.
+1	자기	자기	NOUN	NNG	_	2	nmod	_	_
+2	언어와	언어+와	NOUN	NNG+JC	_	5	nmod:poss	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	언어의	언어+의	NOUN	NNG+JKG	_	2	conj	_	_
+5	문법과	문법+과	NOUN	NNG+JC	_	7	obj	_	_
+6	어휘를	어휘+를	NOUN	NNG+JKO	_	5	conj	_	_
+7	핵가릴	핵가리+ㄹ	VERB	NV+ETM	Typo=Yes	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_20_1_06
+# text = 그 때 부모님과 자기 나라의 언어로 이야기하면서 실수로 그 때 배우는 언어의 어휘도 모르게 사용하는 경우도 날 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	7	obl	_	_
+3	부모님과	부모+님+과	ADV	NNG+XSN+JKB	_	7	obl	_	_
+4	자기	자기	NOUN	NNG	_	5	nmod	_	_
+5	나라의	나라+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	언어로	언어+로	ADV	NNG+JKB	_	7	obl	_	_
+7	이야기하면서	이야기+하+면서	VERB	NNG+XSV+EC	_	19	advcl	_	_
+8	실수로	실수로	ADV	NNG+JKB	_	15	obl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	때	때	NOUN	NNG	_	11	obl	_	_
+11	배우는	배우+는	VERB	VV+ETM	_	12	acl	_	_
+12	언어의	언어+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	어휘도	어휘+도	NOUN	NNG+JX	_	15	obj	_	_
+14	모르게	모르+게	ADV	VV+EC	_	15	advmod	_	_
+15	사용하는	사용+하+는	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	경우도	경우+도	NOUN	NNG+JX	_	17	nsubj	_	_
+17	날	나+ㄹ	VERB	NV+ETM	Typo=Yes	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CZH_20_1_07
+# text = 아이마다 성격이 달라서 어린 나이에 조기 언어교육을 시작하는 것이 크게 도움이 뒬 수도 있으나 문제도 만들 수 있다.
+1	아이마다	아이+마다	NOUN	NNG+JX	_	3	obl	_	_
+2	성격이	성격+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	달라서	다르+아서	ADJ	VA+EC	_	14	advcl	_	_
+4	어린	어리+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	나이에	나이+에	ADV	NNG+JKB	_	8	obl	_	_
+6	조기	조기	NOUN	NNG	_	7	nmod	_	_
+7	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	8	obj	_	_
+8	시작하는	시작+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	14	dislocated	_	_
+10	크게	크+게	ADV	VA+EC	_	12	advmod	_	_
+11	도움이	도움+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	뒬	뒬+ㄹ	VERB	NV+ETM	Typo=Yes	13	acl	_	_
+13	수도	수+도	NOUN	NNB+JX	_	14	nsubj	_	_
+14	있으나	있+으나	VERB	VX+EC	_	0	root	_	_
+15	문제도	문제+도	NOUN	NNG+JX	_	16	obj	_	_
+16	만들	만들+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	14	conj	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_20_1_08
+# text = 그래서 아이에 적성에 맞은 교육 방식을 찾는 것이 중요하다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	아이에	아이+에	ADV	NNG+JKB	_	4	obl	_	_
+3	적성에	적성+에	ADV	NNG+JKB	_	4	obl	_	_
+4	맞은	맞+은	VERB	VV+ETM	_	5	acl	_	_
+5	교육	교육	NOUN	NNG	_	6	nmod	_	_
+6	방식을	방식+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	찾는	찾+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

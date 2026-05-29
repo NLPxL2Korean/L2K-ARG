@@ -1,0 +1,104 @@
+# sent_id = ARG-JPN_36_3_01
+# text =  나는 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_36_3_02
+# text =  이유는 나에게는 경쟁심이 없기 때문이다.
+1	이유는	이유+는	NOUN	NNG+JX	_	5	nsubj	_	_
+2	나에게는	나+에게+는	ADV	NP+JKB+JX	_	4	obl	_	_
+3	경쟁심이	경쟁심+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없기	없+기	NOUN	VA+ETN	_	5	nmod	_	_
+5	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_36_3_03
+# text =  나는 살면서 무언가의 점수나 성적으로 누군가를 이기고 싶다고 느껴 본 적이 거의 없는 것 같다.
+1	나는	나+는	PRON	NP+JX	_	15	dislocated	_	_
+2	살면서	살+면서	VERB	VV+EC	_	15	advcl	_	_
+3	무언가의	무엇+이+ㄴ가+의	NOUN	NP+VCP+EC+JKG	_	5	nmod:poss	_	_
+4	점수나	점수+나	NOUN	NNG+JC	_	7	obl	_	_
+5	성적으로	성+적+으로	ADV	NNG+JKB	_	4	conj	_	_
+6	누군가를	누구+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	7	obj	_	_
+7	이기고	이기+고	VERB	VV+EC	_	9	ccomp	_	_
+8	싶다고	싶+다고	AUX	VX+EC	_	7	aux	_	_
+9	느껴	느끼+어	VERB	VV+EC	_	11	acl	_	_
+10	본	보+ㄴ	VERB	VX+ETM	_	9	aux	_	_
+11	적이	적+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+12	거의	거의	ADV	MAG	_	13	advmod	_	_
+13	없는	없+는	VERB	VA+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	15	nsubj	_	_
+15	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_36_3_04
+# text =  협동을 하면 나에게는 없는 것을 상대에게 받을 수도 있고 반대로 상대에게 없는 것을 내가 공유해줄 수도 있다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	9	advcl	_	_
+3	나에게는	나+에게+는	ADV	NP+JKB+JX	_	4	obl	_	_
+4	없는	없+는	VERB	VA+ETM	_	5	acl	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+6	상대에게	상대+에게	NOUN	NNG+JKB	_	7	obl	_	_
+7	받을	받+을	VERB	VV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	0	root	_	_
+10	반대로	반대+로	ADV	NNG+JKB	_	17	obl	_	_
+11	상대에게	상대+에게	NOUN	NNG+JKB	_	12	obl	_	_
+12	없는	없+는	VERB	VA+ETM	_	13	acl	_	_
+13	것을	것+을	NOUN	NNB+JKO	_	15	obj	_	_
+14	내가	내+가	PRON	NP+JKS	_	15	nsubj	_	_
+15	공유해줄	공유+하+아+주+ㄹ	VERB	NNG+XSV+EC+VX+ETM	_	16	acl	_	_
+16	수도	수+도	NOUN	NNB+JX	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	9	conj	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_36_3_05
+# text =  서로에게 좋은 관계가 될 수 있다.
+1	서로에게	서로+에게	NOUN	NNG+JKB	_	2	obl	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	acl	_	_
+3	관계가	관계+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	될	되+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_36_3_06
+# text =  경쟁도 서로가 경쟁심이 많으면 서로에게 좋은 영향을 주지만 한 명만 이라도 다른 마음이었다면 경쟁을 의식하는 사람은 조금 힘들어질 것 같다.
+1	경쟁도	경쟁+도	NOUN	NNG+JX	_	20	obl	_	_
+2	서로가	서로+가	ADV	NNG+JKS	_	4	dislocated	_	_
+3	경쟁심이	경쟁심+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	많으면	많+으면	VERB	VA+EC	_	8	advcl	_	_
+5	서로에게	서로+에게	NOUN	NNG+JKB	_	8	obl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	주지만	주+지만	VERB	VV+EC	_	20	advcl	_	_
+9	한	한	NUM	MM	_	10	nummod	_	_
+10	명만	명+만	NOUN	NNB+JX	_	13	nsubj	_	_
+11	이라도	이라도	VERB	JX	_	10	case	_	_
+12	다른	다른	ADJ	MM	_	13	amod	_	_
+13	마음이었다면	마음+이+었+다면	VERB	NNG+VCP+EP+EC	_	20	advcl	_	_
+14	경쟁을	경쟁+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	의식하는	의식+하+는	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	사람은	사람+은	NOUN	NNG+JX	_	18	nsubj	_	_
+17	조금	조금	ADV	MAG	_	18	advmod	_	_
+18	힘들어질	힘들+어지+ㄹ	VERB	VA+XSV+ETM	_	19	acl	_	_
+19	것	것	NOUN	NNB	_	20	nsubj	_	_
+20	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_36_3_07
+# text =  그래서 나는 경쟁도 나쁜 것은 아니지만 더 평화로운 협동을 선호한다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+3	경쟁도	경쟁+도	NOUN	NNG+JX	_	6	dislocated	_	_
+4	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	5	amod	_	_
+5	것은	것+은	NOUN	NNB+JX	_	6	nsubj	_	_
+6	아니지만	아니+지만	VERB	VCN+EC	_	10	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	평화로운	평화+롭+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	협동을	협동+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,142 @@
+# sent_id = ARG-JPN_02_3_01
+# text =  저는 협동과 경쟁 중 협동을 더 선호 합니다.
+1	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	8	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중	중	ADP	NNB	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+6	더	더	ADV	MAG	_	8	advmod	_	_
+7	선호	선호	NOUN	NNG	_	8	obj	_	_
+8	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_02_3_02
+# text =  그 이유는 개 있습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	dislocated	_	_
+3	개	개	NOUN	NNB	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_02_3_03
+# text =  먼저 협동은 경쟁보다 스트레스를 덜 받는다고 생각하기 때문입니다.
+1	먼저	먼저	ADV	MAG	_	7	advmod	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	6	nsubj	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	스트레스를	스트레스+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	덜	덜	ADV	MAG	_	6	advmod	_	_
+6	받는다고	받+는다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	8	nmod	_	_
+8	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_02_3_04
+# text =  경쟁을 하면 항상 경쟁자를 이겨야 한다는 생각을 하게 되어 상대방보다 자신이 잘못할때 자신에게 낙담해 스트레스를 받습니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	8	advcl	_	_
+3	항상	항상	ADV	MAG	_	5	advmod	_	_
+4	경쟁자를	경쟁자+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	이겨야	이기+어야	VERB	VV+EC	_	7	acl	_	_
+6	한다는	하+ㄴ다는	AUX	VX+ETM	_	5	aux	_	_
+7	생각을	생각+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	하게	하+게	VERB	VV+EC	_	16	advcl	_	_
+9	되어	되+어	VERB	VX+EC	_	5	advcl	_	_
+10	상대방보다	상대+방+보다	ADV	NNG+NNG+JKB	_	12	obl	_	_
+11	자신이	자신+이	PRON	NNG+JKS	_	12	nsubj	_	_
+12	잘못할때	잘못+하+ㄹ+때	VERB	NNG+XSV+ETM+NNG	_	14	advcl	_	_
+13	자신에게	자신+에게	ADV	NNG+JKB	_	14	obl	_	_
+14	낙담해	낙담+하+아	VERB	NNG+XSV+EC	_	16	advcl	_	_
+15	스트레스를	스트레스+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	받습니다	받+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_02_3_05
+# text =  그리고 항상 이겨야한다는 생각을 하게 만드는 상항 자제가 스트레스이기도 합니다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	항상	항상	ADV	MAG	_	3	advmod	_	_
+3	이겨야한다는	이기+어야+하+ㄴ다는	VERB	VV+EC+VX+ETM	_	4	acl	_	_
+4	생각을	생각+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하게	하+게	VERB	VV+EC	_	6	advcl	_	_
+6	만드는	만들+는	VERB	VV+ETM	_	7	acl	_	_
+7	상항	상항	NOUN	NF	_	8	nmod	_	_
+8	자제가	자제+가	NOUN	NF+JKS	_	9	nsubj	_	_
+9	스트레스이기도	스트레스+이+기+도	NOUN	NNG+VCP+ETN+JX	_	0	root	_	_
+10	합니다	하+ㅂ니다	VERB	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_02_3_06
+# text =  저는 협동 할때 받을 스트레스 보다 경쟁 할 때 받는 스트레스가 크다고 느끼기때문에 협동을 선호 합니다.
+1	저는	저+는	PRON	NP+JX	_	15	nsubj	_	_
+2	협동	협동	NOUN	NNG	_	3	obj	_	_
+3	할때	하+ㄹ+때	VERB	VV+ETM+NNG	_	4	advcl	_	_
+4	받을	받+을	VERB	VV+ETM	_	5	acl	_	_
+5	스트레스	스트레스	NOUN	NNG	_	12	obl	_	_
+6	보다	보다	ADV	JKB	_	5	case	_	_
+7	경쟁	경쟁	NOUN	NNG	_	8	obj	_	_
+8	할	하+ㄹ+때	X	VV+ETM+NNG	_	10	advcl	_	_
+9	때	때	NOUN	NNG	_	8	mark	_	_
+10	받는	받+는	VERB	VV+ETM	_	11	acl	_	_
+11	스트레스가	스트레스+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	크다고	크+다고	VERB	VA+EC	_	13	ccomp	_	_
+13	느끼기때문에	느끼+기+때문+에	ADV	VV+ETM+NNB+JKB	_	15	obl	_	_
+14	협동을	협동+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	선호	선호	NOUN	NNG	_	16	obj	_	_
+16	합니다	하+ㅂ니다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_02_3_07
+# text =  두번째는 협동을 하면 다른 사람하고 좋은 관계를 만들 수 있습니다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	10	obl	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	10	advcl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람하고	사람+하고	VERB	NNG+JKB	_	8	obl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	관계를	관계+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	만들	만들+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_02_3_08
+# text =  서로 도와주고 쟁겨주고 더 무엇을 해줄수 있는지 생각하게되어 경쟁하는것보다더아름다운 모습이라고 생각합니다.
+1	서로	서로	ADV	MAG	_	2	advmod	_	_
+2	도와주고	도와주+고	VERB	VV+EC	_	8	ccomp	_	_
+3	쟁겨주고	쟁기+어+주+고	VERB	NV+EC+VX+EC	_	2	conj	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	무엇을	무엇+을	NOUN	NP+JKO	_	6	obj	_	_
+6	해줄수	하+아+주+ㄹ+수	VERB	VV+EC+VX+ETM+NNB	_	2	conj	_	_
+7	있는지	있+는지	AUX	VX+EC	_	6	aux	_	_
+8	생각하게되어	생각+하+게+되+어	VERB	NNG+XSV+EC+VX+EC	_	12	advcl	_	_
+9	경쟁하는것	경쟁+하+는+것	NOUN	NNG+XSV+ETN+NNB	_	11	nsubj	_	_
+10	보다더아름다운	보다+더+아름답+ㄴ	VERB	JKB+MAG+VA+ETM	_	11	amod	_	_
+11	모습이라고	모습+이+라고	VERB	NNG+VCP+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_02_3_09
+# text =  경쟁하면 어쩔 수 없이 자신에게 유익하는 것만 생각하게 되기 때문에 다른사람하고 좋은 관계를 만드는것이 쉽지가 않습니다.
+1	경쟁하면	경쟁+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+2	어쩔	어쩌+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	없이	없이	VERB	MAG	_	8	advcl	_	_
+5	자신에게	자신+에게	ADV	NNG+JKB	_	6	obl	_	_
+6	유익하는	유익+하+는	VERB	NNG+XSA+ETM	_	7	acl	_	_
+7	것만	것+만	NOUN	NNB+JX	_	8	obj	_	_
+8	생각하게	생각+하+게	ADV	NNG+XSV+EC	_	16	obl	_	_
+9	되기	되+기	NOUN	VX+ETN	_	8	advcl	_	_
+10	때문에	때문+에	ADP	NNB+JKB	_	8	case	_	_
+11	다른사람하고	다른+사람+하고	VERB	MM+NNG+JKB	_	14	obl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	관계를	관계+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	만드는것이	만들+는+것+이	NOUN	VV+ETM+NNB+JKS	_	15	nsubj	_	_
+15	쉽지가	쉽+지+가	NOUN	NNG+EC+JKS	_	16	nsubj	_	_
+16	않습니다	않+습니다	ADJ	VX+EF	_	11	conj	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_02_3_10
+# text =  그래서 협동을 선호합니다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_

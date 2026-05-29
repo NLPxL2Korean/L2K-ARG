@@ -1,0 +1,221 @@
+# sent_id = ARG-ENG_10_3_01
+# text = 저는 협동을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_10_3_01
+# text = 협독과 경쟁 중 나는 협동을 선호한다.
+1	협독과	협독+과	NOUN	NF+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중	중	ADP	NNB	_	2	case	_	_
+4	나는	나+는	VERB	NP+JX	_	6	nsubj	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_10_3_02
+# text = 이유 3가지 있습니다.
+1	이유	이유	NOUN	NNG	_	3	dislocated	_	_
+2	3가지	3+가지	NOUN	SN+NNB	_	3	nsubj	_	_
+3	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_10_3_02
+# text = 사람들이 똑같은 목표를 위해 같이 일하면 그 목표를 더 빠르게 이룰 수 있다고 생각한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+2	똑같은	똑같+은	ADJ	VA+ETM	_	3	amod	_	_
+3	목표를	목표+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	위해	위하+아	VERB	VV+EC	_	6	advcl	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	일하면	일+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	목표를	목표+를	NOUN	NNG+JKO	_	11	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	빠르게	빠르+게	ADV	VA+EC	_	11	advmod	_	_
+11	이룰	이루+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_10_3_03
+# text = 첫 번째 이유는 필요함입니다.
+1	첫	첫+번째	NUM	MM+NNB	Typo=Yes	3	nummod	_	_
+2	번째	_	X	_	_	1	goeswith	_	_
+3	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+4	필요함입니다	필요+하+ㅁ+이+ㅂ니다	VERB	NNG+XSA+ETN+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_10_3_03
+# text = 협동을 통해서 시간 덜 낭비하고 좋은 아이더 더 많이 생긴다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	통해서	통하+아서	VERB	VV+EC	_	5	advcl	_	_
+3	시간	시간	NOUN	NNG	_	5	obj	_	_
+4	덜	덜	ADV	MAG	_	5	advmod	_	_
+5	낭비하고	낭비+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	아이더	아이더	ADV	NF	_	10	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	생긴다	생기+ㄴ다	VERB	VV+EF	_	5	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_10_3_04
+# text = 경쟁보다 협동이 필요할때가 많습니다.
+1	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	3	obl	_	_
+2	협동이	협동+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	필요할때가	필요+하+ㄹ+때+가	NOUN	NNG+XSA+ETM+NNG+JKS	_	4	nsubj	_	_
+4	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_10_3_04
+# text = 그르므러
+1	그르므러	그르므러	ADV	NA	_	0	root	_	_
+
+# sent_id = ARG-ENG_10_3_05
+# text = 학생들은 한 반에서 같이 공부 할때 단체로 협동 많이 합니다.
+1	학생들은	학생+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+2	한	한	DET	MM	_	3	det	_	_
+3	반에서	반+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	같이	같이	ADV	MAG	_	6	advmod	_	_
+5	공부	공부	NOUN	NNG	_	6	obj	_	_
+6	할때	하+ㄹ+때	NOUN	VV+ETM+NNG	_	10	advcl	_	_
+7	단체로	단체+로	ADV	NNG+JKB	_	10	obl	_	_
+8	협동	협동	NOUN	NNG	_	10	obj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_10_3_06
+# text = 직장인들도 따로 일하는데 같은 목표나 같은 프로젝트를 해요.
+1	직장인들도	직장인+들+도	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+2	따로	따로	ADV	MAG	_	3	advmod	_	_
+3	일하는데	일+하+는데	VERB	NNG+XSV+EC	_	8	advcl	_	_
+4	같은	같+은	ADJ	VA+ETM	_	5	amod	_	_
+5	목표나	목표+나	NOUN	NNG+JC	_	8	obj	_	_
+6	같은	같+은	ADJ	VA+ETM	_	7	amod	_	_
+7	프로젝트를	프로젝트+를	NOUN	NNG+JKO	_	5	conj	_	_
+8	해요	하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_10_3_07
+# text = 다른 사람보다 잘해야하는 생각을 필요 없습니다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람보다	사람+보다	ADV	NNG+JKB	_	3	obl	_	_
+3	잘해야하는	잘하+아야+하+는	VERB	VV+EC+VX+ETM	_	4	acl	_	_
+4	생각을	생각+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	필요	필요	NOUN	NNG	_	6	nsubj	_	_
+6	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_10_3_08
+# text = 두번째 이유는 교화입니다.
+1	두번째	두+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	교화입니다	교화+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_10_3_09
+# text = 혼자서 뭐할때 모르를 거 있을겁니다.
+1	혼자서	혼자+서	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	뭐할때	뭐+하+ㄹ+때	NOUN	NP+VV+ETM+NNG	_	5	advcl	_	_
+3	모르를	모르+를	VERB	VV+NA	Typo=Yes	4	acl	_	_
+4	거	거	NOUN	NNB	_	5	nsubj	_	_
+5	있을겁니다	있+을+것+이+ㅂ니다	ADJ	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_10_3_10
+# text = 협동으로 진행하면 사람들의 잘 할 수있는 것들은 다양합니다.
+1	협동으로	협동+으로	ADV	NNG+JKB	_	2	obl	_	_
+2	진행하면	진행+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수있는	수+있+는	ADJ	NNB+VX+ETM	_	7	acl	_	_
+7	것들은	것+들+은	NOUN	NNB+XSN+JX	_	8	nsubj	_	_
+8	다양합니다	다양+하+ㅂ니다	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_10_3_11
+# text = 내가 잘 못 하는 것들 있는데 다른 사람은 잘 할수 있습니다.
+1	내가	내+가	PRON	NP+JKS	_	4	nsubj	_	_
+2	잘	잘	ADV	MAG	_	4	advmod	_	_
+3	못	못	ADV	MAG	_	4	advmod	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것들	것+들	NOUN	NNB+XSN	_	6	nsubj	_	_
+6	있는데	있+는데	VERB	VV+EC	_	11	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	사람은	사람+은	NOUN	NNG+JX	_	10	nsubj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_10_3_12
+# text = 그리고 다른사람보다 내가 잘 하는 것들 있습니다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	다른사람보다	다르+ㄴ+사람+보다	ADV	VA+ETM+NNG+JKB	_	7	obl	_	_
+3	내가	내+가	PRON	NP+JKS	_	5	nsubj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	하는	하+는	VERB	VV+ETM	_	6	acl	_	_
+6	것들	것+들	NOUN	NNB+XSN	_	7	nsubj	_	_
+7	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_10_3_13
+# text = 우리 같이 일하면 더 완벽한것 만들수 있습니다.
+1	우리	우리	PRON	NP	_	3	nsubj	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	일하면	일+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	완벽한것	완벽+하+ㄴ+것	ADV	NNG+XSA+ETM+NNB	_	6	obj	_	_
+6	만들수	만들+ㄹ+수	NOUN	VV+ETM+NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_10_3_14
+# text = 같이 하면서 못 했던것들도 연습하거나 배울수 있습니다.
+1	같이	같이	ADV	MAG	_	2	advmod	_	_
+2	하면서	하+면서	VERB	VV+EC	_	5	advcl	_	_
+3	못	못	ADV	MAG	_	4	advmod	_	_
+4	했던것들도	하+았+던+것+들+도	VERB	VV+EP+ETM+NNB+XSN+JX	_	5	obj	_	_
+5	연습하거나	연습+하+거나	VERB	NNG+XSV+EC	_	7	nsubj	_	_
+6	배울수	배우+ㄹ+수	NOUN	VV+ETM+NNB	_	5	conj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_10_3_15
+# text = 마지막 이유는 행복입니다.
+1	마지막	마지막	NOUN	NNG	_	2	nmod	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	행복입니다	행복+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_10_3_16
+# text = 경쟁때문에 비교를 항상 합니다.
+1	경쟁때문에	경쟁+때문+에	ADV	NNG+NNB+JKB	_	4	obl	_	_
+2	비교를	비교+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	항상	항상	ADV	MAG	_	4	advmod	_	_
+4	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_10_3_17
+# text = 뭐 할수 있는지도 뭐 있는지 또 어떻게 생긴지 계속 비교 하면 맘이 아파질 수 있습니다.
+1	뭐	뭐	PRON	NP	_	2	obj	_	_
+2	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	3	nsubj	_	_
+3	있는지도	있+는지+도	VERB	VX+EC+JX	_	11	ccomp	_	_
+4	뭐	뭐	PRON	NP	_	5	nsubj	_	_
+5	있는지	있+는지	VERB	VV+EC	_	11	ccomp	_	_
+6	또	또	ADV	MAG	_	8	advmod	_	_
+7	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+8	생긴지	생기+ㄴ지	VERB	VV+EC	_	5	conj	_	_
+9	계속	계속	ADV	MAG	_	11	advmod	_	_
+10	비교	비교	NOUN	NNG	_	11	obj	_	_
+11	하면	하+면	VERB	VV+EC	_	15	advcl	_	_
+12	맘이	맘+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	아파질	아파지+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

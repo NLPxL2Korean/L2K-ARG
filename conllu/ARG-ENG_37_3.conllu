@@ -1,0 +1,145 @@
+# sent_id = ARG-ENG_37_3_01
+# text = 저는 경쟁보다 협동을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_37_3_02
+# text = 협동 통해서 서로 도와주고 응원하고 긍정적인 방향을 줄수 있기 때문에 저는 협동이 더 좋다고 생각한다.
+1	협동	협동	NOUN	NNG	_	2	obj	_	_
+2	통해서	통하+아서	VERB	VV+EC	_	4	advcl	_	_
+3	서로	서로	ADV	MAG	_	4	advmod	_	_
+4	도와주고	도와주+고	VERB	VV+EC	_	8	advcl	_	_
+5	응원하고	응원+하+고	VERB	NNG+XSV+EC	_	4	conj	_	_
+6	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	방향을	방향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	줄수	주+ㄹ+수	VERB	VV+ETM+NNB	_	9	nsubj	_	_
+9	있기	있+기	NOUN	VX+ETN	_	14	obl	_	_
+10	때문에	때문+에	ADP	NNB+JKB	_	9	case	_	_
+11	저는	저+는	PRON	NP+JX	_	15	nsubj	_	_
+12	협동이	협동+이	NOUN	NF+JKS	_	14	nsubj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	좋다고	좋+다고	VERB	VA+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_37_3_03
+# text = 그리고 협동 통해서 약점을 안 숨겨도 되서 다른 사람들이랑 더 편하게 같이 일을 할수가 있고 더 좋은 마음으로 협력할수 있다고 생각한다.
+1	그리고	그리고	ADV	MAJ	_	15	cc	_	_
+2	협동	협동	NOUN	NNG	_	3	obj	_	_
+3	통해서	통하+아서	VERB	VV+EC	_	15	advcl	_	_
+4	약점을	약점+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	숨겨도	숨기+어+도	VERB	VV+EC+JX	_	15	advcl	_	_
+7	되서	되+서	VERB	VX+EC	_	6	advcl	_	_
+8	다른	다른	ADJ	MM	_	9	amod	_	_
+9	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	14	obl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	편하게	편하+게	ADV	VA+EC	_	14	advmod	_	_
+12	같이	같이	ADV	MAG	_	14	advmod	_	_
+13	일을	일+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	할수가	하+ㄹ+수+가	NOUN	VV+ETM+NNB+JKS	_	15	nsubj	_	_
+15	있고	있+고	VERB	VX+EC	_	0	root	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	좋은	좋+은	ADJ	VA+ETM	_	18	amod	_	_
+18	마음으로	마음+으로	ADV	NNG+JKB	_	19	obl	_	_
+19	협력할수	협력+하+ㄹ+수	VERB	NNG+XSV+ETM+NNB	_	20	nsubj	_	_
+20	있다고	있+다고	VERB	VX+EC	_	21	ccomp	_	_
+21	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	15	conj	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_37_3_04
+# text = 경쟁의 싸움 안에서 대부분 사람들이 서로 도와주고 싶지도 않고 무의미있게 치열하고 하니까, 저는 오히려 경쟁보다 협동을 더 좋아합니다.
+1	경쟁의	경쟁+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	싸움	싸우+어+어+ㄹ	NOUN	NNG	_	7	obl	_	_
+3	안에서	안+에서	ADP	NNG+JKB	_	2	case	_	_
+4	대부분	대부분	ADV	NNG	_	5	nmod	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+6	서로	서로	ADV	MAG	_	7	advmod	_	_
+7	도와주고	도와주+고	VERB	VV+EC	_	19	advcl	_	_
+8	싶지도	싶+지+도	AUX	VX+EC+JX	_	7	aux	_	_
+9	않고	않	AUX	VX+EC	_	7	aux	_	_
+10	무의미있게	무+의미+있+게	NOUN	XPN+NNG+VV+EC	_	11	advcl	_	_
+11	치열하고	치열+하+고	VERB	NNG+XSV+EC	_	7	conj	_	_
+12	하니까	하+니까	AUX	VX+EC	_	11	aux	_	_
+13	,	,	PUNCT	SP	_	11	punct	_	_
+14	저는	저+는	PRON	NP+JX	_	19	nsubj	_	_
+15	오히려	오히려	ADV	MAG	_	19	advmod	_	_
+16	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	19	obl	_	_
+17	협동을	협동+을	NOUN	NNG+JKO	_	19	obj	_	_
+18	더	더	ADV	MAG	_	19	advmod	_	_
+19	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_37_3_05
+# text = 그리고 협동을 한다고 하면 여러가지 사람들이랑 장규적으로 관계를 유지할수 있다.
+1	그리고	그리고	ADV	MAJ	_	10	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	한다고	하+ㄴ다고	VERB	VV+EC	_	4	ccomp	_	_
+4	하면	하+면	AUX	VV+EC	_	10	advcl	_	_
+5	여러가지	여러+가지	NOUN	MM+NNB	_	6	nmod	_	_
+6	사람들이랑	사람+들+이랑	ADV	NNG+XSN+JKB	_	9	obl	_	_
+7	장규적으로	장규+적+으로	ADV	NF+XSN+JKB	_	9	obl	_	_
+8	관계를	관계+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	유지할수	유지+하+ㄹ+수	VERB	NNG+XSV+ETM+NNB	_	10	nsubj	_	_
+10	있다	있+다	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_37_3_06
+# text = 반대편으로, 경쟁의 환경 속에는 서로 친화되지도 않고 결과 나왔을 때 대부분의 경우에 사람들이 관계를 유지하지 않다.
+1	반대편으로	반대+편+으로	ADV	NNG+NNB+JKB	_	16	obl	_	_
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	경쟁의	경쟁+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	환경	환경	NOUN	NNG	_	16	obl	_	_
+5	속에는	속+에+는	ADP	NNB+JKB+JX	_	4	case	_	_
+6	서로	서로	ADV	MAG	_	7	advmod	_	_
+7	친화되지도	친화+되+지+도	VERB	NNG+XSV+EC+JX	_	16	advcl	_	_
+8	않고	않+고	AUX	VX+EC	_	7	aux	_	_
+9	결과	결과	NOUN	NNG	_	10	nsubj	_	_
+10	나왔을	나오+았+을	VERB	VV+EP+ETM	_	16	advcl	_	_
+11	때	때	ADV	NNG	_	10	mark	_	_
+12	대부분의	대부분+의	NOUN	NNG+JKG	_	13	nmod:poss	_	_
+13	경우에	경우+에	ADV	NNG+JKB	_	16	obl	_	_
+14	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+15	관계를	관계+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	유지하지	유지+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+17	않다	않+다	AUX	VX+EF	_	16	aux	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_37_3_07
+# text = 그러기 때문에 치열한 싸움을 끝난 다음에 허무감을 느낄수 밖에 없다고 생각한다.
+1	그러기	그러+기	NOUN	VV+ETN	_	10	obl	_	_
+2	때문에	때문+에	ADP	NNB+JKB	_	1	case	_	_
+3	치열한	치열+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	싸움을	싸움+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	끝난	끝나+ㄴ	VERB	VV+ETM	_	10	advcl	_	_
+6	다음에	다음+에	ADV	NNG+JKB	_	5	mark	_	_
+7	허무감을	허무+감+을	NOUN	NNG+XSN+JKO	_	8	obj	_	_
+8	느낄수	느끼+ㄹ+수	VERB	VV+ETM+NNB	_	10	obl	_	_
+9	밖에	밖+에	ADV	JX	_	8	case	_	_
+10	없다고	없+다고	VERB	VX+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_37_3_08
+# text = 하지만 협동 통해서는 더 행복할수도 있고, 좋은 결과를 맺을수 있기 때문에 경쟁보다 협동이 더 좋다고 생각한다.
+1	하지만	하지만	ADV	MAJ	_	17	cc	_	_
+2	협동	협동	NOUN	NNG	_	3	obj	_	_
+3	통해서는	통하+아서+는	VERB	VV+EC+JX	_	6	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	행복할수도	행복+하+ㄹ+수+도	VERB	NNG+XSA+ETM+NNB+JX _	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	17	obl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	결과를	결과+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	맺을수	맺+을+수	VERB	VV+ETM+NNB	_	11	nsubj	_	_
+11	있기	있+기	NOUN	VX+ETN	_	6	conj	_	_
+12	때문에	때문+에	ADP	NNB+JKB	_	11	case	_	_
+13	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	16	obl	_	_
+14	협동이	협동+이	NOUN	NF+JKS	_	16	nsubj	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	좋다고	좋+다고	VERB	VA+EC	_	17	ccomp	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

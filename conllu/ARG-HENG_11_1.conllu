@@ -1,0 +1,185 @@
+# sent_id = ARG-HENG_11_1_01
+# text = 조기 언어 교육에는 장단점이 있다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육에는	교육+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	장단점이	장단점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_11_1_02
+# text = 많은 사람들은 조기 언어 교육의 장점만 봐서 자신의 아이들에게 조기 언어 교육을 시키는 것은 좋지만 어쩔땐 그 반대의 효과가 일어날 수 있다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	교육의	교육+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	장점만	장점+만	NOUN	NNG+JX	_	7	obj	_	_
+7	봐서	보+아서	VERB	VV+EC	_	22	advcl	_	_
+8	자신의	자신+의	PRON	NNG+JKG	_	9	nmod:poss	_	_
+9	아이들에게	아이+들+에게	NOUN	NNG+XSN+JKB	_	13	obl	_	_
+10	조기	조기	NOUN	NNG	_	11	nmod	_	_
+11	언어	언어	NOUN	NNG	_	12	nmod	_	_
+12	교육을	교육+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	시키는	시키+는	VERB	VV+ETM	_	14	acl	_	_
+14	것은	것+은	NOUN	NNB+JX	_	15	nsubj	_	_
+15	좋지만	좋+지만	VERB	VA+EC	_	22	advcl	_	_
+16	어쩔땐	어쩌+ㄹ+때+ㄴ	ADV	VV+ETM+NNG+JX	_	20	advcl	_	_
+17	그	그	DET	MM	_	18	det	_	_
+18	반대의	반대+의	NOUN	NNG+JKG	_	19	nmod:poss	_	_
+19	효과가	효과+가	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	일어날	일어나+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-HENG_11_1_03
+# text = 당연히 어려서부터 아이가 소통을 잘 할 수 있는 것은 좋지만, 그것을 강요해서는 안된다.
+1	당연히	당연히	ADV	MAG	_	10	advmod	_	_
+2	어려서부터	어리+어서+부터	ADV	VA+EC+JX	_	6	advcl	_	_
+3	아이가	아이+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	소통을	소통+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+10	좋지만	좋+지만	VERB	VA+EC	_	14	advcl	_	_
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	그것을	그것+을	PRON	NP+JKO	_	13	obj	_	_
+13	강요해서는	강요+하+아서+는	VERB	NNG+XSV+EC+JX	_	14	advcl	_	_
+14	안된다	안+되+ㄴ다	VERB	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_11_1_04
+# text = 아이가 어려서부터 언어 교육을 강요 받아 배우게 되면 많은 것을 경험 해 보아야 할 나이에 하나 밖에 집중을 못하게 된다.
+1	아이가	아이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	어려서부터	어리+어서+부터	ADV	VA+EC+JX	_	7	advcl	_	_
+3	언어	언어	NOUN	NNG	_	4	nmod	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	강요	강요	NOUN	NNG	_	6	obj	_	_
+6	받아	받+아	VERB	VV+EC	_	7	advcl	_	_
+7	배우게	배우+게	VERB	VV+EC	_	19	advcl	_	_
+8	되면	되+면	VERB	VX+EC	_	7	advcl	_	_
+9	많은	많+은	ADJ	VA+ETM	_	10	amod	_	_
+10	것을	것+을	NOUN	NNB+JKO	_	12	obj	_	_
+11	경험	경험	NOUN	NNG	_	12	obj	_	_
+12	해	하+아	VERB	VV+EC	_	15	acl	_	_
+13	보아야	보+아야	VERB	VX+EC	_	12	advcl	_	_
+14	할	하+ㄹ	AUX	VX+ETM	_	12	aux	_	_
+15	나이에	나이+에	ADV	NNG+JKB	_	19	obl	_	_
+16	하나	하나	NUM	NR	_	19	obl	_	_
+17	밖에	밖에	ADV	JX	_	16	case	_	_
+18	집중을	집중+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	못하게	못하+게	VERB	VV+EC	_	0	root	_	_
+20	된다	되+ㄴ다	VERB	VX+EF	_	19	advcl	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_11_1_05
+# text = 예를 들어, 애기들은 몸 쓰는 것을 배우고 촉감을 배워야 할 때 언어 교육만 받고 있게 된다면 언어 능력은 좋겠지만, 다른 능력들이 뒤떨어진다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	24	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	애기들은	애기+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+5	몸	몸	NOUN	NNG	_	8	obj	_	_
+6	쓰는	쓰+는	VERB	VV+ETM	_	7	acl	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	배우고	배우+고	VERB	VV+EC	_	15	advcl	_	_
+9	촉감을	촉감+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	배워야	배우+어야	VERB	VV+EC	_	8	conj	_	_
+11	할	하	AUX	VX+ETM	_	10	aux	_	_
+12	때	때	ADV	NNG	_	10	mark	_	_
+13	언어	언어	NOUN	NNG	_	14	nmod	_	_
+14	교육만	교육+만	NOUN	NNG+JX	_	15	obj	_	_
+15	받고	받+고	VERB	VV+EC	_	24	advcl	_	_
+16	있게	있+게	VERB	VX+EC	_	15	aux	_	_
+17	된다면	되+ㄴ다면	VERB	VX+EC	_	15	advcl	_	_
+18	언어	언어	NOUN	NNG	_	19	nmod	_	_
+19	능력은	능력+은	NOUN	NNG+JX	_	20	nsubj	_	_
+20	좋겠지만	좋+겠+지만	VERB	VA+EP+EC	_	24	advcl	_	SpaceAfter=No
+21	,	,	PUNCT	SP	_	20	punct	_	_
+22	다른	다른	ADJ	MM	_	23	amod	_	_
+23	능력들이	능력+들+이	NOUN	NNG+XSN+JKS	_	24	nsubj	_	_
+24	뒤떨어진다	뒤+떨어지+ㄴ다	VERB	XPN+VV+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-HENG_11_1_06
+# text = 그래도 많은 부모님들이 조기 언어 교육을 선택하는 이유가 무엇일까?
+1	그래도	그래도	ADV	MAJ	_	9	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	부모님들이	부모+님+들+이	NOUN	NNG+XSN+XSN+JKS	_	7	nsubj	_	_
+4	조기	조기	NOUN	NNG	_	5	nmod	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	교육을	교육+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	선택하는	선택+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	이유가	이유+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	무엇일까	무엇+이+ㄹ까	ADJ	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+10	?	?	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_11_1_07
+# text = 많은 부모님들이 단점을 알아도 조기 언어 교육을 하는 이유는 아이가 자신의 생각과 마음을 더 잘 표현할 수 있기 때문이다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	부모님들이	부모+님+들+이	NOUN	NNG+XSN+XSN+JKS	_	4	nsubj	_	_
+3	단점을	단점+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	알아도	알+아도	VERB	VV+EC	_	8	advcl	_	_
+5	조기	조기	NOUN	NNG	_	6	nmod	_	_
+6	언어	언어	NOUN	NNG	_	7	nmod	_	_
+7	교육을	교육+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	이유는	이유+는	NOUN	NNG+JX	_	19	nsubj	_	_
+10	아이가	아이+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+11	자신의	자신+의	PRON	NNG+JKG	_	12	nmod:poss	_	_
+12	생각과	생각+과	NOUN	NNG+JC	_	16	obj	_	_
+13	마음을	마음+을	NOUN	NNG+JKO	_	12	conj	_	_
+14	더	더	ADV	MAG	_	16	advmod	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	표현할	표현+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있기	있+기	NOUN	VX+ETN	_	19	nmod	_	_
+19	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_11_1_08
+# text = 아이가 자신의 마음을 잘 표현 하지 못하여 부모님이 잘 알아 주지 못할 때 그 속상함과 억울함이 어쩔 땐 다른 곳으로 분출될 수 이싿.
+1	아이가	아이+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+2	자신의	자신+의	PRON	NNG+JKG	_	3	nmod:poss	_	_
+3	마음을	마음+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	잘	잘	ADV	MAG	_	6	advmod	_	_
+5	표현	표현	NOUN	NNG	_	6	obj	_	_
+6	하지	하+지	VERB	VV+EC	_	10	advcl	_	_
+7	못하여	못하+아	VERB	VX+EC	_	6	aux	_	_
+8	부모님이	부모+님+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	알아	알+아	VERB	VV+EC	_	23	advcl	_	_
+11	주지	주+지	VERB	VX+EC	_	10	aux	_	_
+12	못할	못하+ㄹ	VERB	VX+ETM	_	10	aux	_	_
+13	때	때	ADV	NNG	_	10	mark	_	_
+14	그	그	DET	MM	_	15	det	_	_
+15	속상함과	속상+하+ㅁ+과	NOUN	NNG+XSA+ETN+JC	_	21	nsubj	_	_
+16	억울함이	억울+하+ㅁ+이	NOUN	NNG+XSA+ETN+JKS	_	17	conj	_	_
+17	어쩔	어쩌+ㄹ	VERB	VV+ETM	_	21	advcl	_	_
+18	땐	때+ㄴ	ADV	NNB	_	17	mark	_	_
+19	다른	다른	ADJ	MM	_	20	amod	_	_
+20	곳으로	곳+으로	ADV	NNG+JKB	_	21	obl	_	_
+21	분출될	분출+되+ㄹ	VERB	NNG+XSV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	이싿	이+싿	ADJ	NV+NA	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-HENG_11_1_09
+# text = 그런더 어려서 부터 언어 능력이 높으면 아이도 부모님도 둘 다 잘 지낼 수 있다.
+1	그런더	그런더	ADV	NA	_	14	cc	_	_
+2	어려서	어리+어서	VERB	VA+EC	_	6	advcl	_	_
+3	부터	부터	ADV	JX	_	2	case	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	능력이	능력+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	높으면	높+으면	VERB	VA+EC	_	14	advcl	_	_
+7	아이도	아이+도	NOUN	NNG+JX	_	12	nsubj	_	_
+8	부모님도	부모+님+도	NOUN	NNG+XSN+JX	_	7	conj	_	_
+9	둘	둘	NOUN	NR	_	10	nummod	_	_
+10	다	다	ADV	MAG	_	12	advmod	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	지낼	지내+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

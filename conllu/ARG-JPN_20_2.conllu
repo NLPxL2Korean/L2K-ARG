@@ -1,0 +1,120 @@
+# sent_id = ARG-JPN_20_2_01
+# text =  우리는 역사를 배워야 한다고 생각하다.
+1	우리는	우리+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_20_2_02
+# text =  왠햐면 배우지 않는 이유가 없기 때문이다.
+1	왠햐면	왠햐면	ADV	NA	_	5	cc	_	_
+2	배우지	배우+지	VERB	VV+EC	_	4	acl	_	_
+3	않는	않+는	AUX	VX+ETM	_	2	aux	_	_
+4	이유가	이유+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없기	없+기	NOUN	VA+ETN	_	6	nmod	_	_
+6	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_20_2_03
+# text =  역사를 배우면 지금의 세상이 어떤식으로 지금의 모습이 돼는지 알수 있어서 자신의 생각이나 행동에 영향을 받을 수 있는 가능성이 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	19	advcl	_	_
+3	지금의	지금+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	세상이	세상+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+5	어떤식으로	어떤+식+으로	ADV	MM+NNB+JKB	_	8	obl	_	_
+6	지금의	지금+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	모습이	모습+이	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	돼는지	되+어+는지	VERB	VV+NA+EC	_	9	ccomp	_	_
+9	알수	알+ㄹ+수	VERB	VV+ETM+NNB	_	10	nsubj	_	_
+10	있어서	있+어서	VERB	VX+EC	_	19	advcl	_	_
+11	자신의	자신+의	PRON	NNG+JKG	_	13	nmod:poss	_	_
+12	생각이나	생각+이나	NOUN	NNG+JC	_	15	obl	_	_
+13	행동에	행동+에	ADV	NNG+JKB	_	12	conj	_	_
+14	영향을	영향+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	받을	받+을	VERB	VV+ETM	_	9	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있는	있+는	VERB	VX+ETM	_	18	acl	_	_
+18	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_20_2_04
+# text =  자신이 위험한 길에 가버릴 때도 있지만 역사를 배우고 있으면 역사를 참고로 바른 길을 찾아낼수도 있다.
+1	자신이	자신+이	PRON	NNG+JKS	_	14	nsubj	_	_
+2	위험한	위험+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	길에	길+에	ADV	NNG+JKB	_	6	obl	_	_
+4	가버릴	가+아+버리+ㄹ	VERB	VV+EC+VX+ETM	_	6	acl	_	_
+5	때도	때+도	ADV	NNG+JX	_	6	nsubj	_	_
+6	있지만	있+지만	VERB	VV+EC	_	15	advcl	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우고	배우+고	VERB	VV+EC	_	15	advcl	_	_
+9	있으면	있+으면	AUX	VX+EC	_	8	aux	_	_
+10	역사를	역사+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	참고로	참+고+로	ADV	NNG+JKB	_	14	obl	_	_
+12	바른	바르+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	길을	길+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	찾아낼수도	찾+아+내+ㄹ+수+도	VERB	VV+EC+VX+ETM+NNB+JX	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_20_2_05
+# text =  또한 역사라는 수업이 없다고 해도 사람은 자신의 과고,나라의 과고등 긍금하게 됀다고 생각하다.
+1	또한	또한	ADV	MAJ	_	12	cc	_	_
+2	역사라는	역사+이+라는	VERB	NNG+VCP+ETM	_	3	acl	_	_
+3	수업이	수업+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없다고	없+다고	VERB	VA+EC	_	5	ccomp	_	_
+5	해도	하+아도	VERB	VV+EC	_	10	advcl	_	_
+6	사람은	사람+은	NOUN	NNG+JX	_	10	nsubj	_	_
+7	자신의	자신+의	PRON	NNG+JKG	_	8	nmod:poss	_	_
+8	과고,나라의	과고+,+나라+의	NOUN	NF+SP+NNG+JKG	_	9	nmod:poss	_	_
+9	과고등	과고+등	NOUN	NF+NNB	_	10	obj	_	_
+10	긍금하게	긍금+하+게	ADV	XR+XSA+EC	_	12	ccomp	_	_
+11	됀다고	돼+ㄴ다고	VERB	NV+EC	_	10	advcl	_	_
+12	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_20_2_06
+# text =  자신이 이런 식으로 느끼는 성격이지도 모르지만 알고 싶다라는 인간의 감정은 정시할 수 없다.
+1	자신이	자신+이	PRON	NNG+JKS	_	6	nsubj	_	_
+2	이런	이런	DET	MM	_	3	det	_	_
+3	식으로	식+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	느끼는	느끼+는	VERB	VV+ETM	_	5	acl	_	_
+5	성격이지도	성격+이+지+도	NOUN	NNG+VCP+NA+JX	_	6	ccomp	_	_
+6	모르지만	모르+지만	VERB	VV+EC	_	13	advcl	_	_
+7	알고	알+고	VERB	VV+EC	_	10	acl	_	_
+8	싶다라는	싶+다+라는	AUX	VX+EC+ETM	_	7	aux	_	_
+9	인간의	인간+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	감정은	감정+은	NOUN	NNG+JX	_	11	obj	_	_
+11	정시할	정시+하+ㄹ	VERB	NF+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_20_2_07
+# text =  일반적인 역사를 배워야 한는지 않은지의 의견이란 다르지만 저는 역사를 배워야 한다고 생각하다.
+1	일반적인	일반+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	2	amod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	advcl	_	_
+4	한는지	한+는지	AUX	NV+EC	_	3	aux	_	_
+5	않은지의	않+은지+의	NOUN	VX+EC+JKG	_	6	nmod:poss	_	_
+6	의견이란	의견+이란	NOUN	NNG+JX	_	7	nsubj	_	_
+7	다르지만	다르+지만	VERB	VA+EC	_	12	advcl	_	_
+8	저는	저+는	PRON	NP+JX	_	12	nsubj	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배워야	배우+어야	VERB	VV+EC	_	12	ccomp	_	_
+11	한다고	하+ㄴ다고	AUX	VX+EC	_	10	aux	_	_
+12	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_20_2_08
+# text =  역사를 배워야 더 좋은 세상이 된다고 느까다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	6	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	세상이	세상+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	된다고	되+ㄴ다고	VERB	VV+EC	_	7	ccomp	_	_
+7	느까다	느까+다	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

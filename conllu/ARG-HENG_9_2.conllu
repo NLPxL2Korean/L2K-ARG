@@ -1,0 +1,205 @@
+# sent_id = ARG-HENG_09_2_01
+# text = 역사를 당연히 배워야 한다고 생각합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	당연히	당연히	ADV	MAG	_	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_09_2_02
+# text = 역사에 대해 배우면 문화, 상황들의 계기, 실수, 그 실수를 어떻게 피할 수 있는 방법 등등 여러가지 배울 수 있다고 생각합니다.
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해	대하+아	VERB	VV+EC	_	3	advcl	_	_
+3	배우면	배우+면	VERB	VV+EC	_	22	advcl	_	_
+4	문화	문화	NOUN	NNG	_	17	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	상황들의	상황+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	계기	계기	NOUN	NNG	_	17	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	실수	실수	NOUN	NNG	_	17	list	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	실수를	실수+를	NOUN	NNG+JKO	_	14	obj	_	_
+13	어떻게	어떻+게	ADV	VA+EC	_	14	advmod	_	_
+14	피할	피하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는	있+는	VERB	VX+ETM	_	17	acl	_	_
+17	방법	방법	NOUN	NNG	_	20	obj	_	_
+18	등등	등등	NOUN	NNB	_	17	case	_	_
+19	여러가지	여러+가지	ADV	MM+NNB	_	20	obj	_	_
+20	배울	배우+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있다고	있+다고	VERB	VX+EC	_	23	ccomp	_	_
+23	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-HENG_09_2_03
+# text = 하지만 지나간 일한테 집착할 수 있는 가능성도 있고 억울한 경우에 대한 분노가 쌓일 수 있습니다.
+1	하지만	하지만	ADV	MAJ	_	15	cc	_	_
+2	지나간	지나가+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	일한테	일+한테	ADV	NNG+JKB	_	4	obl	_	_
+4	집착할	집착+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	가능성도	가능성+도	NOUN	NNG+JX	_	8	nsubj	_	_
+8	있고	있+고	VERB	VV+EC	_	0	root	_	_
+9	억울한	억울+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	경우에	경우+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대한	대하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	분노가	분노+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	쌓일	쌓+이+ㄹ	VERB	VV+XSV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있습니다	있+습니다	ADJ	VX+EF	_	8	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_09_2_04
+# text = 예를 들어 제가 일본-한국 역사를 알게 되지 않았으면 일본 사람들한테 더 좋은 망므으로 볼 수 있었을 것 같습니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	18	advcl	_	_
+3	제가	제+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	일본-한국	일본+-+한국	VERB	NNP+SO+NNP	_	5	nmod	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	알게	알+게	VERB	VV+EC	_	14	advcl	_	_
+7	되지	되+지	VERB	VX+EC	_	6	advcl	_	_
+8	않았으면	않+았으면	AUX	VX+EP+EC	_	6	aux	_	_
+9	일본	일본	NOUN	NNP	_	10	nmod	_	_
+10	사람들한테	사람+들+한테	ADV	NNG+XSN+JKB	_	12	obl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	좋은	좋+은	VERB	VA+ETM	_	13	acl	_	_
+13	망므으로	망므+으로	ADV	NF+JKB	_	14	obl	_	_
+14	볼	보+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있었을	있+었+을	VERB	VX+EP+ETM	_	17	acl	_	_
+17	것	것	NOUN	NNB	_	18	nsubj	_	_
+18	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_09_2_05
+# text = 역사 때문에 화나게 만드는 것도 배우고 신기 한 것도 배우고 문화적인 것을 배우니 정체성에 대해 필요하다고 생각합니다.
+1	역사	역사	NOUN	NNG	_	6	obl	_	_
+2	때문에	때문+에	ADP	NNB+JKB	_	1	case	_	_
+3	화나게	화나+게	ADV	VV+EC	_	4	advmod	_	_
+4	만드는	만들+는	VERB	VV+ETM	_	5	acl	_	_
+5	것도	것+도	NOUN	NNB+JX	_	6	obj	_	_
+6	배우고	배우+고	VERB	VV+EC	_	16	advcl	_	_
+7	신기	신기	NOUN	NNG	_	9	amod	_	_
+8	한	_	X	_	_	7	goeswith	_	_
+9	것도	것+도	NOUN	NNB+JX	_	10	obj	_	_
+10	배우고	배우+고	VERB	VV+EC	_	6	conj	_	_
+11	문화적인	문화+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	것을	것+을	NOUN	NNB+JKO	_	13	obj	_	_
+13	배우니	배우+니	VERB	VV+EC	_	6	conj	_	_
+14	정체성에	정체+성+에	ADV	NNG+XSN+JKB	_	15	obl	_	_
+15	대해	대하+아	VERB	VV+EC	_	16	advcl	_	_
+16	필요하다고	필요+하+다고	VERB	NNG+XSA+EC	_	17	ccomp	_	_
+17	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_09_2_06
+# text = (죄송합니다.
+1	(죄송합니다	(+죄송+하+ㅂ니다	ADJ	SS+NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-HENG_09_2_07
+# text = 벌써 stamina가 떨어지고 있어요 ㅎㅎ) 저는 요즘 가족 역사에 대해 배우는 욕심이 좀 생겼어요.
+1	벌써	벌써	ADV	MAG	_	3	advmod	_	_
+2	stamina가	stamina+가	NOUN	SL+JKS	_	3	nsubj	_	_
+3	떨어지고	떨어지+고	VERB	VV+EC	_	14	advcl	_	_
+4	있어요	있+어요	AUX	VX+EC	_	3	aux	_	_
+5	ㅎㅎ)	ㅎㅎ+)	NOUN	NA+SS	_	14	advmod	_	_
+6	저는	저+는	PRON	NP+JX	_	14	dislocated	_	_
+7	요즘	요즘	ADV	NNG	_	14	advmod	_	_
+8	가족	가족	NOUN	NNG	_	9	nmod	_	_
+9	역사에	역사+에	ADV	NNG+JKB	_	10	obl	_	_
+10	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+11	배우는	배우+는	VERB	VV+ETM	_	12	acl	_	_
+12	욕심이	욕심+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+13	좀	좀	ADV	MAG	_	14	advmod	_	_
+14	생겼어요	생기+었+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_09_2_08
+# text = 작연에 처음으로 본관이나 족보에 대해 배우게 됐는데 되게 신기했다고 생각했습니다.
+1	작연에	작연+에	ADV	NF+JKB	_	6	obl	_	_
+2	처음으로	처음+으로	ADV	NNG+JKB	_	6	obl	_	_
+3	본관이나	본관+이나	NOUN	NF+JC	_	5	obl	_	_
+4	족보에	족보+에	ADV	NNG+JKB	_	3	conj	_	_
+5	대해	대하+아	VERB	VV+EC	_	6	advcl	_	_
+6	배우게	배우+게	VERB	VV+EC	_	10	advcl	_	_
+7	됐는데	되+었+는데	VERB	VX+EP+EC	_	6	advcl	_	_
+8	되게	되게	ADV	MAG	_	9	advmod	_	_
+9	신기했다고	신기+하+았+다고	VERB	XR+XSA+EP+EC	_	10	ccomp	_	_
+10	생각했습니다	생각+하+았+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_09_2_09
+# text = 할머니도 나이가 드시는데 할머니가 이 새상을 떠날 때 역사고 달아지는 것이 아쉽다고 생각합니다.
+1	할머니도	할머니+도	NOUN	NNG+JX	_	3	dislocated	_	_
+2	나이가	나이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	드시는데	드시+는데	VERB	VV+EC	_	13	advcl	_	_
+4	할머니가	할머니+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	이	이	DET	MM	_	6	det	_	_
+6	새상을	새상+을	NOUN	NF+JKO	_	7	obj	_	_
+7	떠날	떠나+ㄹ	VERB	VV+ETM	_	12	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	역사고	역사+고	VERB	NNG+NA	_	10	nsubj	_	_
+10	달아지는	달아지+는	VERB	NV+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	아쉽다고	아쉽+다고	VERB	VA+EC	_	13	ccomp	_	_
+13	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_09_2_10
+# text = 그래서 통화할 때마다 조금식 물어보고 있는데 할머니깨서 (?존댓말 아직도몰람) 인생에 왜 그런 결정을 만들었는지 더 이해가 가고 할머니를 더 깊이 이해할 수 있다고 생각합니다.
+1	그래서	그래서	ADV	MAJ	_	24	cc	_	_
+2	통화할	통화+하+ㄹ	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+3	때마다	때+마다	ADV	NNG+JX	_	2	mark	_	_
+4	조금식	조금+식	NOUN	NNG+NA	_	5	advmod	_	_
+5	물어보고	물+어+보+고	VERB	VV+EC+VX+EC _	24	advcl	_	_
+6	있는데	있+는데	AUX	VX+EC	_	5	aux	_	_
+7	할머니깨서	할머니+깨서	VERB	NNG+NA	_	14	nsubj	_	_
+8	(?존댓말	(+?+존댓말	NOUN	SS+SF+NNG	_	9	obj	_	_
+9	아직도몰람)	아직도+몰람+)	NOUN	MAG+NA+SS	_	24	advcl	_	_
+10	인생에	인생+에	ADV	NNG+JKB	_	14	obl	_	_
+11	왜	왜	ADV	MAG	_	14	advmod	_	_
+12	그런	그런	DET	MM	_	13	det	_	_
+13	결정을	결정+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	만들었는지	만들+었+는지	VERB	VV+EP+EC	_	17	advcl	_	_
+15	더	더	ADV	MAG	_	17	advmod	_	_
+16	이해가	이해+가	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	가고	가+고	VERB	VV+EC	_	23	advcl	_	_
+18	할머니를	할머니+를	NOUN	NNG+JKO	_	21	obj	_	_
+19	더	더	ADV	MAG	_	21	advmod	_	_
+20	깊이	깊이	ADV	MAG	_	21	advmod	_	_
+21	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있다고	있+다고	VERB	VX+EC	_	24	ccomp	_	_
+24	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-HENG_09_2_11
+# text = 현재는 과거에서 벌어진 일 덕분어 나온 현상(?
+1	현재는	현재+는	NOUN	NNG+JX	_	7	nsubj	_	_
+2	과거에서	과거+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	벌어진	벌어지+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	일	일	NOUN	NNG	_	6	obl	_	_
+5	덕분어	덕분+어	NOUN	NNG+NA	_	4	case	_	_
+6	나온	나오+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	현상(	현상+(	VERB	NNG+SS	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_09_2_12
+# text = pheno menon?)이라서 현재를 이해하고 싶으면 역사를 배우는 것이 필수라고 생각합니다.
+1	pheno	pheno	NOUN	NNG+SN	_	10	advcl	_	_
+2	menon	_	X	_	_	1	goeswith	_	_
+3	?)이라서	?+)+이+라서	VERB	SF+SS+VCP+EC	_	1	case	_	_
+4	현재를	현재+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	싶으면	싶+으면	AUX	VX+EC	_	5	aux	_	_
+7	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	필수라고	필수+이+라고	VERB	NNG+VCP+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

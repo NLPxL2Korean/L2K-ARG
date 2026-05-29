@@ -1,0 +1,145 @@
+# sent_id = ARG-ENG_22_1_01
+# text = 요새 많은 부모들은 어린 아이들을 영어 유치원에 보내거나 해외에 유학을 보낸다.
+1	요새	요새	NOUN	NNG	_	3	nmod	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	부모들은	부모+들+은	NOUN	NNG+XSN+JX	_	11	nsubj	_	_
+4	어린	어리+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	아이들을	아이+들+을	NOUN	NNG+XSN+JKO	_	11	obj	_	_
+6	영어	영어	NOUN	NNG	_	7	nmod	_	_
+7	유치원에	유치원+에	ADV	NNG+JKB	_	8	obl	_	_
+8	보내거나	보내+거나	VERB	VV+EC	_	11	advcl	_	_
+9	해외에	해외+에	ADV	NNG+JKB	_	11	obl	_	_
+10	유학을	유학+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	보낸다	보내+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_22_1_02
+# text = 지구화 된 21세기 사회에서 언어 교육이 더욱더 중요해진다.
+1	지구화	지구화	NOUN	NNG	_	2	nsubj	_	_
+2	된	되+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	21세기	21+세기	NOUN	SN+NNB	_	4	nmod	_	_
+4	사회에서	사회+에서	ADV	NNG+JKB	_	8	obl	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	교육이	교육+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	더욱더	더욱더	ADV	MAG	_	8	advmod	_	_
+8	중요해진다	중요+하+아지+ㄴ다	VERB	VV+XSA+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_22_1_03
+# text = 조기언어교육에 가장 큰 장점은 아이들에 언어점속이다.
+1	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	6	obl	_	_
+2	가장	가장	ADV	MAG	_	3	advmod	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	장점은	장점+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	아이들에	아이+들+에	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	언어점속이다	언어+점속+이+다	VERB	NNG+NF+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_22_1_04
+# text = 언어학과 연구에따르면 어린 아이들은 자연 스럽게 여러가지 언어를 동시에 배울수있으며 나중에 커서 조기언어 교육을 받지 못한 학생들 비해서 더 우수한 언어 실력을 보여 준다.
+1	언어학과	언어+학과	NOUN	NNG+NNG	_	2	nmod	_	_
+2	연구에따르면	연구+에+따르+면	VERB	NNG+JKB+VV+EC	_	23	advcl	_	_
+3	어린	어리+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	23	nsubj	_	_
+5	자연	자연	NOUN	NNG	_	10	advmod	_	_
+6	스럽게	스럽게	X	_	_	5	goeswith	_	_
+7	여러가지	여러+가지	NOUN	MM+NNB	_	8	nmod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	동시에	동시+에	ADV	NNG+JKB	_	10	obl	_	_
+10	배울수있으며	배우+ㄹ+수+있+으며	VERB	VV+ETM+NNB+VX+EF	_	23	advcl	_	_
+11	나중에	나중+에	ADV	NNG+JKB	_	12	obl	_	_
+12	커서	크+어서	VERB	VA+EC	_	23	advcl	_	_
+13	조기언어	조기+언어	NOUN	NNG+NNG	_	14	nmod	_	_
+14	교육을	교육+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	받지	받+지	VERB	VV+EC	_	17	acl	_	_
+16	못한	못하+ㄴ	AUX	VX+ETM	_	15	aux	_	_
+17	학생들	학생+들	NOUN	NNG+XSN	_	18	obl	_	_
+18	비해서	비하+아서	VERB	VV+EC	_	23	advcl	_	_
+19	더	더	ADV	MAG	_	20	advmod	_	_
+20	우수한	우수+하+ㄴ	ADJ	NNG+XSA+ETM	_	22	amod	_	_
+21	언어	언어	NOUN	NNG	_	22	nmod	_	_
+22	실력을	실력+을	NOUN	NNG+JKO	_	23	obj	_	_
+23	보여	보이+어	VERB	VV+EC	_	0	root	_	_
+24	준다	주+ㄴ다	VERB	VX+EF	_	23	aux	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_22_1_05
+# text = 조기언어교육은 아이들을 다른 문화를 체험 할수 있는 기회를 주고 다문화 사회에서 생활할 수 있는 지식과 경험을 준다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	17	nsubj	_	_
+2	아이들을	아이+들+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	문화를	문화+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	체험	체험	NOUN	NNG	_	6	obj	_	_
+6	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	기회를	기회+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	주고	주+고	VERB	VV+EC	_	17	advcl	_	_
+10	다문화	다문화	NOUN	NNG	_	11	nmod	_	_
+11	사회에서	사회+에서	ADV	NNG+JKB	_	12	obl	_	_
+12	생활할	생활+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	16	acl	_	_
+15	지식과	지식+과	NOUN	NNG+JC	_	17	obj	_	_
+16	경험을	경험+을	NOUN	NNG+JKO	_	15	conj	_	_
+17	준다	주+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_22_1_06
+# text = 조기언어가 어떻게 제공되는지에 따라 여러가지 문제가 발생 할수있다.
+1	조기언어가	조기+언어+가	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+2	어떻게	어떻+게	ADV	VA+EC	_	3	advmod	_	_
+3	제공되는지에	제공+되+는지+에	ADV	NNG+XSV+EC+JKB	_	4	advcl	_	_
+4	따라	따르+아	VERB	VV+EC	_	8	advcl	_	_
+5	여러가지	여러+가지	NOUN	MM+NNB	_	6	nmod	_	_
+6	문제가	문제+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	발생	발생	NOUN	NNG	_	8	obj	_	_
+8	할수있다	하+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_22_1_07
+# text = 우선 조기언어 교육이 중심적으로 학원 같은 사기업에서 제공된다면 빈부격차을 악화 시킬것이다.
+1	우선	우선	ADV	MAG	_	11	cc	_	_
+2	조기언어	조기+언어	NOUN	NNG+NNG	_	3	nmod	_	_
+3	교육이	교육+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+4	중심적으로	중심+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+5	학원	학원	NOUN	NNG	_	6	obl	_	_
+6	같은	같+은	VERB	VA+ETM	_	7	acl	_	_
+7	사기업에서	사+기업+에서	ADV	NNG+NNG+JKB	_	8	obl	_	_
+8	제공된다면	제공+되+ㄴ다면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+9	빈부격차을	빈부+격차+을	NOUN	NNP+JKO	_	11	obj	_	_
+10	악화	악화	NOUN	NNG	_	11	obj	_	_
+11	시킬것이다	시키+ㄹ+것+이+다	VERB	VV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_22_1_08
+# text = 이러한 교육 시스템 안에서 기회 평등을 보장할 수 없다.
+1	이러한	이러하+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+2	교육	교육	NOUN	NNG	_	3	nmod	_	_
+3	시스템	시스+템	NOUN	NNG	_	7	obl	_	_
+4	안에서	안+에서	ADP	NNG+JKB	_	3	case	_	_
+5	기회	기회	NOUN	NNG	_	6	nmod	_	_
+6	평등을	평등+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	보장할	보장+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_22_1_09
+# text = 공교육이 사교육 많큼 발전되거나 하층에 있는 학생들 위해 금전적인 지원을 하진 않은 경우 계급 이동이 어려우진다.
+1	공교육이	공교+육+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+2	사교육	사교+육	NOUN	NNG	_	4	obl	_	_
+3	많큼	많큼	ADV	NA	_	2	case	_	_
+4	발전되거나	발전+되+거나	VERB	NNG+XSV+EC	_	16	advcl	_	_
+5	하층에	하+층+에	ADV	NNG+NNG+JKB	_	6	obl	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	학생들	학생+들	NOUN	NNG+XSN	_	8	obj	_	_
+8	위해	위하+아	VERB	VV+EC	_	11	advcl	_	_
+9	금전적인	금전+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	10	amod	_	_
+10	지원을	지원+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	하진	하+지+ㄴ	VERB	VV+EC+JX	_	13	acl	_	_
+12	않은	않+은	AUX	VX+ETM	_	11	aux	_	_
+13	경우	경우	ADV	NNG	_	16	obl	_	_
+14	계급	계급	NOUN	NNG	_	15	nmod	_	_
+15	이동이	이동+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	어려우진다	어려우지+ㄴ다	VERB	NV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

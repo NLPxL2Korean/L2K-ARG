@@ -1,0 +1,280 @@
+# sent_id = ARG-HENG_06_1_01
+# text = 제 2의 조기언어교육은 장점이 많다.
+1	제	제	PRON	XPN	_	3	nmod:poss	_	_
+2	2의	2+의	NOUN	SN+NNB	_	1	flat	_	_
+3	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	dislocated	_	_
+4	장점이	장점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_06_1_01
+# text = 한국어를 처음 배울때 좋은점은 부몬님덕 뿐에 십게 배울수있습니다.
+1	한국어를	한국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	처음	처음	ADV	MAG	_	3	advmod	_	_
+3	배울때	배우+ㄹ+때	NOUN	VV+ETM+NNG	_	4	advcl	_	_
+4	좋은점은	좋+은+점+은	NOUN	VA+ETM+NNB+JX	_	8	dislocated	_	_
+5	부몬님덕	부몬+님+덕	NOUN	NNG+XSN+NA	_	8	obl	_	_
+6	뿐에	_	X	_	_	5	goeswith	_	_
+7	십게	십+게	ADV	NV+EC	_	8	advmod	_	_
+8	배울수있습니다	배우+ㄹ+수+있+습니다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_06_1_02
+# text = 예을 들면, 아이가 크면, 직장생활에서나 또는 그 언어를 사용하는 가족이나 지인들과 사용할 수 있는 장점이 있다.
+1	예을	예+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	18	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	아이가	아이+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	크면	크+면	VERB	VA+EC	_	18	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	직장생활에서나	직장+생활+에서+나	ADV	NNG+NNG+JKB+JC	_	14	obl	_	_
+8	또는	또는	ADV	MAG	_	14	cc	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	사용하는	사용+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	가족이나	가족+이나	NOUN	NNG+JC	_	7	conj	_	_
+13	지인들과	지인+들+과	ADV	NNG+XSN+JKB	_	7	conj	_	_
+14	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는	있+는	VERB	VX+ETM	_	17	acl	_	_
+17	장점이	장점+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_06_1_02
+# text = 책을 읽거서 직접 배우는것보다, 집안에서 편하게, 그리고 자연스럽게 배워서, 또는 공부하는 것 같이 않아서 시운것 같습니다.
+1	책을	책+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	읽거서	읽+거서	VERB	VV+EC	_	4	advcl	_	_
+3	직접	직접	ADV	MAG	_	4	advmod	_	_
+4	배우는것보다	배우+는+것+보다	ADV	VV+ETM+NNB+JKB	_	18	obl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	7	punct	_	_
+6	집안에서	집+안+에서	ADV	NNG+NNG+JKB	_	11	obl	_	_
+7	편하게	편하+게	ADV	VA+EC	_	11	advmod	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	그리고	그리고	ADV	MAJ	_	11	cc	_	_
+10	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	7	conj	_	_
+11	배워서	배우+어서	VERB	VV+EC	_	18	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	또는	또는	ADV	MAG	_	14	cc	_	_
+14	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같이	같이	ADV	MAG	_	18	advcl	_	_
+17	않아서	않+아서	VERB	VX+EC	_	16	aux	_	_
+18	시운것	십+ㄴ+것	ADV	NV+ETM+NNB	_	19	nsubj	_	_
+19	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_06_1_03
+# text = 회사에 취직 준비할때도 도움이 될 수 있다.
+1	회사에	회사+에	ADV	NNG+JKB	_	3	obl	_	_
+2	취직	취직	NOUN	NNG	_	3	obj	_	_
+3	준비할때도	준비+하+ㄹ+때+도	VERB	NNG+XSV+ETM+NNG+JX	_	7	advcl	_	_
+4	도움이	도움+이	NOUN	NNG+JKC	_	5	nsubj	_	_
+5	될	되+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_06_1_03
+# text = 하지만, 어려운점도 있습니다.
+1	하지만	하지만	ADV	MAJ	_	4	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	어려운점도	어렵+ㄴ+점+도	NOUN	VA+ETM+NNB+JX	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_06_1_04
+# text = 하지만, 제 2의 조기언어교육의 단점도 있다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	제	제	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	2의	2+의	NOUN	SN+NNB	_	3	flat	_	_
+5	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	6	nmod:poss	_	_
+6	단점도	단점+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_06_1_04
+# text = 한가지 않좋은점은 너무 편하게 배워서 재대로 된 문법과 어려운 다너들을 않 배우게 되는것같아요.
+1	한가지	한+가지	NOUN	MM+NNB	_	2	nmod	_	_
+2	않좋은점은	않+좋+은+점+은	NOUN	NA+VA+ETM+NNB+JX	_	13	obl	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	편하게	편하+게	ADV	VA+EC	_	5	advmod	_	_
+5	배워서	배우+어서	VERB	VV+EC	_	12	advcl	_	_
+6	재대로	재대로	ADV	NA	_	7	advmod	_	_
+7	된	되+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	문법과	문법+과	NOUN	NNG+JC	_	12	obj	_	_
+9	어려운	어렵+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	다너들을	다너+들+을	NOUN	NF+XSN+JKO	_	8	conj	_	_
+11	않	않	ADV	NA	_	12	advmod	_	_
+12	배우게	배우+게	VERB	VV+EC	_	13	acl	_	_
+13	되는것같아요	되+는+것+같+아요	VERB	VX+ETM+NNB+VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_06_1_05
+# text = 언어를 2개를 쓰게 되면, 초반에 아이가 혼란스러울 수도 있다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	2개를	2+개+를	NOUN	SN+NNB+JKO	_	3	obj	_	_
+3	쓰게	쓰+게	VERB	VV+EC	_	10	advcl	_	_
+4	되면	되+면	VERB	VX+EC	_	3	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	초반에	초반+에	ADV	NNG+JKB	_	8	obl	_	_
+7	아이가	아이+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	혼란스러울	혼란+스럽+ㄹ	VERB	NNG+XSA+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_06_1_05
+# text = 마춤법도 잘 않 연습해서 자주 틀를 수도 있고, 부몬님이 가리켜 줄꺼 라는 생각에 찾아서 배우게 되지도 않습니다.
+1	마춤법도	마춤법+도	NOUN	NF+JX	_	4	obj	_	_
+2	잘	잘	ADV	MAG	_	4	advmod	_	_
+3	않	않	VERB	NA	_	4	advmod	_	_
+4	연습해서	연습+하+아서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	자주	자주	ADV	MAG	_	6	advmod	_	_
+6	틀를	틀르+ㄹ	VERB	NV+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있고	있+고	VERB	VX+EC	_	16	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	부몬님이	부몬+님+이	NOUN	Nㄹ+XSN+JKS	_	11	nsubj	_	_
+11	가리켜	가리키+어	VERB	NV+EC	_	14	acl	_	_
+12	줄꺼	주+ㄹ+꺼	NOUN	VX+ETM+NF	_	11	aux	_	_
+13	라는	라는	VERB	ETM	_	12	case	_	_
+14	생각에	생각+에	ADV	NNG+JKB	_	15	obl	_	_
+15	찾아서	찾+아서	VERB	VV+EC	_	16	advcl	_	_
+16	배우게	배우+게	VERB	VV+EC	_	0	root	_	_
+17	되지도	되+지도	VERB	VX+EC	_	16	advcl	_	_
+18	않습니다	않+습니다	AUX	VX+EF	_	16	aux	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_06_1_06
+# text = 예를 들면, 나도 한국계 미국인으로써, 아이 때부터 한국말을 배우고, 가족과 부모님의 지인들과 한국말로 소통했다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	17	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	나도	나+도	PRON	NP+JX	_	17	nsubj	_	_
+5	한국계	한국+계	NOUN	NNP+XSN	_	6	nmod	_	_
+6	미국인으로써	미국인+으로써	ADV	NNG+JKB	_	17	obl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	아이	아이	NOUN	NNG	_	11	obl	_	_
+9	때부터	때+부터	ADP	NNG+JX	_	8	case	_	_
+10	한국말을	한국+말+을	NOUN	NNP+NNG+JKO	_	11	obj	_	_
+11	배우고	배우+고	VERB	VV+EC	_	17	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	가족과	가족+과	NOUN	NNG+JC	_	17	obl	_	_
+14	부모님의	부모+님+의	NOUN	NNG+XSN+JKG	_	15	nmod:poss	_	_
+15	지인들과	지인+들+과	ADV	NNG+XSN+JKB	_	13	conj	_	_
+16	한국말로	한국+말+로	ADV	NNP+NNG+JKB	_	17	obl	_	_
+17	소통했다	소통+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_06_1_06
+# text = 하지만, 부몬님도 되충 읽고 가리켜 주셔서 재대로 배우기가 정말로 어렵습니다.
+1	하지만	하지만	ADV	MAJ	_	11	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	부몬님도	부몬+님+도	NOUN	NF+XSN+JX	_	5	nsubj	_	_
+4	되충	되충	NOUN	NA	_	5	advmod	_	_
+5	읽고	읽+고	VERB	VV+EC	_	6	advcl	_	_
+6	가리켜	가리키+ㄹ	VERB	NV+EC	_	11	advcl	_	_
+7	주셔서	주+시+어서	VERB	VX+EP+EC	_	6	aux	_	_
+8	재대로	재대로	ADV	NA	_	9	advmod	_	_
+9	배우기가	배우+기+가	NOUN	VV+ETN+JKS	_	11	nsubj	_	_
+10	정말로	정말로	ADV	MAG	_	11	advmod	_	_
+11	어렵습니다	어렵+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_06_1_07
+# text = 그러나 미국에서 유치원을 다녔는데도, 나는 초등학교 2학년때까지 ESL 수업을 들었다.
+1	그러나	그러나	ADV	MAJ	_	11	cc	_	_
+2	미국에서	미국+에서	ADV	NNP+JKB	_	4	obl	_	_
+3	유치원을	유치원+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	다녔는데도	다니+었+는데+도	VERB	VV+EP+EC+JX	_	11	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+7	초등학교	초등학교	NOUN	NNG	_	8	nmod	_	_
+8	2학년때까지	2+학년+때+까지	ADV	SN+NNB+NNG+JX	_	11	obl	_	_
+9	ESL	ESL	NOUN	SL	_	10	nmod	_	_
+10	수업을	수업+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	들었다	듣+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_06_1_07
+# text = 결론적으로, 첫언어 배울때는 아주 편하고 좋치만, 제대로 배우고 싶으면 학교나 한국에서 살아야 원주민처럼 될 수 있는 것 같습니다.
+1	결론적으로	결론+적+으로	ADV	NNG+XSN+JKB	_	20	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	첫언어	첫+언어	NOUN	MM+NNB	_	4	obj	_	_
+4	배울때는	배우+ㄹ+때+는	NOUN	VV+ETM+NNG+JX	_	6	obl	_	_
+5	아주	아주	ADV	MAG	_	6	advmod	_	_
+6	편하고	편하+고	VERB	VA+EC	_	20	advcl	_	_
+7	좋치만	좋+치만	VERB	VA+NA	_	6	conj	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	제대로	제대로	ADV	MAG	_	10	advmod	_	_
+10	배우고	배우+고	VERB	VV+EC	_	14	advcl	_	_
+11	싶으면	싶+으면	AUX	VX+EC	_	10	aux	_	_
+12	학교나	학교+나	NOUN	NNG+JC	_	14	obl	_	_
+13	한국에서	한국+에서	ADV	NNP+JKB	_	12	conj	_	_
+14	살아야	살+아야	VERB	VV+EC	_	16	advcl	_	_
+15	원주민처럼	원주민+처럼	ADV	NNG+JKB	_	16	obl	_	_
+16	될	되+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있는	있+는	VERB	VX+ETM	_	19	acl	_	_
+19	것	것	NOUN	NNB	_	20	nsubj	_	_
+20	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-HENG_06_1_08
+# text = 아무래도, 집 밖에서 계속 다른 사람들과 영어로 대화를 더 자주 했었는데도, 영어 실력이 또래 친구들의 비해 부족했던 것 같다.
+1	아무래도	아무래도	ADV	MAG	_	21	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	집	집	NOUN	NNG	_	12	obl	_	_
+4	밖에서	밖+에서	ADP	NNG+JKB	_	3	case	_	_
+5	계속	계속	ADV	MAG	_	12	advmod	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	12	obl	_	_
+8	영어로	영어+로	ADV	NNG+JKB	_	12	obl	_	_
+9	대화를	대화+를	NOUN	NNG+JKO	_	12	obj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	자주	자주	ADV	MAG	_	12	discourse	_	_
+12	했었는데도	하+았었+는데+도	VERB	VV+EP+EC+JX	_	21	advcl	_	_
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	영어	영어	NOUN	NNG	_	15	nmod	_	_
+15	실력이	실력+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+16	또래	또래	NOUN	NNG	_	17	nmod	_	_
+17	친구들의	친구+들+의	NOUN	NNG+XSN+JKG	_	18	nmod:poss	_	_
+18	비해	비하+아	VERB	VV+EC	_	19	advcl	_	_
+19	부족했던	부족+하+았+던	VERB	NNG+XSA+EP+ETM	_	20	acl	_	_
+20	것	것	NOUN	NNB	_	21	nsubj	_	_
+21	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-HENG_06_1_09
+# text = 그러나, 나는 아직도 조기언어교육의 장점들이 더 많다는 생각이 든다.
+1	그러나	그러나	ADV	MAJ	_	10	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	나는	나+는	PRON	NP+JX	_	10	dislocated	_	_
+4	아직도	아직+도	ADV	MAG+JX	_	10	advmod	_	_
+5	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	6	nmod:poss	_	_
+6	장점들이	장점+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많다는	많+다는	VERB	VA+ETM	_	9	acl	_	_
+9	생각이	생각+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_06_1_10
+# text = 한국 사람들과 더 소통하기가 싶고, 나도 나의 생각과 심정을 한국어로 잘 표현할수있는것 같다.
+1	한국	한국	NOUN	NNP	_	2	nmod	_	_
+2	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	소통하기가	소통+하+기+가	NOUN	NNG+XSV+ETN+JKO	_	5	nsubj	_	_
+5	싶고	싶+고	AUX	NV+EC	_	14	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	나도	나+도	PRON	NP+JX	_	13	nsubj	_	_
+8	나의	나+의	PRON	NP+JKG	_	9	nmod:poss	_	_
+9	생각과	생각+과	NOUN	NNG+JC	_	13	obj	_	_
+10	심정을	심정+을	NOUN	NNG+JKO	_	9	conj	_	_
+11	한국어로	한국어+로	ADV	NNG+JKB	_	13	obl	_	_
+12	잘	잘	ADV	MAG	_	13	advmod	_	_
+13	표현할수있는것	표현+하+ㄹ+수+있+는+것	VERB	NNG+XSV+ETM+NNB+VX+ETM+NNB	_	14	nsubj	_	_
+14	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

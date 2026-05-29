@@ -1,0 +1,48 @@
+# sent_id = ARG-CZH_22_3_01
+# text = 저는 경쟁을 더 선호 합니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+3	더	더	ADV	MAG	_	5	advmod	_	_
+4	선호	선호	NOUN	NNG	_	5	obj	_	_
+5	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_22_3_02
+# text = 학교에서 협조하면 동기가 없어요.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	2	obl	_	_
+2	협조하면	협조+하+면	VERB	NNG+XSV+EC	_	4	advcl	_	_
+3	동기가	동기+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없어요	없+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_22_3_03
+# text = 하지만 경쟁이 너무 심하면 좋지 않아요.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	심하면	심하+면	ADJ	VA+EC	_	5	advcl	_	_
+5	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+6	않아요	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_22_3_04
+# text = 반 친구들이 서로를 미워하게 될 수 있어요.
+1	반	반	NOUN	NNG	_	2	nmod	_	_
+2	친구들이	친구+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	서로를	서로+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	미워하게	미워+하+게	VERB	VV+XSV+EC	_	6	acl	_	_
+5	될	되+ㄹ	VERB	VX+ETM	_	4	advcl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_22_3_05
+# text = 경쟁이 있더라도 사람들이 서로를 도와 줘야 해요.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	있더라도	있+더라도	VERB	VV+EC	_	5	advcl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+4	서로를	서로+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	도와	돕+아	VERB	VV+EC	_	0	root	_	_
+6	줘야	주+어야	VERB	VX+EC	_	5	advcl	_	_
+7	해요	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

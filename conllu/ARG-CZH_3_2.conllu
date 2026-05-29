@@ -1,0 +1,85 @@
+# sent_id = ARG-CZH_03_2_01
+# text = 역사 배우는 거 너무 중요해요.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	거	거	NOUN	NNB	_	5	nsubj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_03_2_02
+# text = 왜냐하면 지금 지구에 있는 문제가 다 역사에서 생겼어요.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	8	cc	_	_
+2	지금	지금	ADV	MAG	_	4	advmod	_	_
+3	지구에	지구+에	ADV	NNG+JKB	_	4	obl	_	_
+4	있는	있+는	VERB	VV+ETM	_	5	acl	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	다	다	ADV	MAG	_	8	advmod	_	_
+7	역사에서	역사+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	생겼어요	생기+었+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_03_2_03
+# text = 정치나 사회 문제를 하결하고 싶으면 역사를 알아야 해요.
+1	정치나	정치+나	NOUN	NNG+JC	_	3	nmod	_	_
+2	사회	사회	NOUN	NNG	_	1	conj	_	_
+3	문제를	문제+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	하결하고	하결+하+고	VERB	NF+XSV+EC	Typo=Yes	7	advcl	_	_
+5	싶으면	싶	AUX	VX+EC	_	4	aux	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+8	해요	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_03_2_04
+# text = 역사에 보면 이 문제가 돼 나타났는지, 해결하고 싶은 사람들이 있었는지, 그리고 이 사람들이 어띠 실수를 했는지,..
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	보면	보+면	VERB	VV+EC	_	6	advcl	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	돼	돼	ADV	NA	Typo=Yes	6	advmod	_	_
+6	나타났는지	나타나+았+는지	VERB	VV+EP+EC	_	11	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	해결하고	해결+하+고	VERB	NNG+XSV+EC	_	10	acl	_	_
+9	싶은	싶	AUX	VX+ETM	_	8	aux	_	_
+10	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	있었는지	있+었+는지	VERB	VV+EP+EC	_	18	list	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	그리고	그리고	ADV	MAJ	_	18	cc	_	_
+14	이	이	DET	MM	_	15	det	_	_
+15	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	18	nsubj	_	_
+16	어띠	어띠	NOUN	NF	Typo=Yes	18	obl	_	_
+17	실수를	실수+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	했는지	하+았+는지	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	18	punct	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_03_2_05
+# text =.
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-CZH_03_2_06
+# text = 다 알 수 있어요.
+1	다	다	ADV	MAG	_	2	advmod	_	_
+2	알	알+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_03_2_07
+# text = 왜 이 나라 사람들이 이렇게 생각하고 행동하는 것을 다 역사에서 찾을 수 있어요.
+1	왜	왜	ADV	MAG	_	6	advmod	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	나라	나라	NOUN	NNG	_	4	nmod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	이렇게	이렇+게	ADV	VA+EC	_	6	advmod	_	_
+6	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	8	acl	_	_
+7	행동하는	행동+하+는	VERB	NNG+XSV+ETM	_	6	conj	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+9	다	다	ADV	MAG	_	11	advmod	_	_
+10	역사에서	역사+에서	ADV	NNG+JKB	_	11	obl	_	_
+11	찾을	찾+을	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

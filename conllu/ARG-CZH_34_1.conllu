@@ -1,0 +1,127 @@
+# sent_id = ARG-CZH_34_1_01
+# text = 사람들이 나이가 많이질 수록 언어를 배우는 능력도 나빠지다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	dislocated	_	_
+2	나이가	나이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	많이질	많+이지+ㄹ+수록	VERB	VA+NA+EC+EC	Typo=Yes	8	advcl	_	_
+4	수록	_	X	_	_	3	goeswith	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	능력도	능력+도	NOUN	NNG+JX	_	8	nsubj	_	_
+8	나빠지다	나쁘+아지+다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_34_1_02
+# text = 어린이 낯선 단어를 쉽게 암기하고 문법을 자연스럽게 설명없이 배울 수 있다.
+1	어린이	어린이	NOUN	NNG	_	9	nsubj	_	_
+2	낯선	낯설+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	단어를	단어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	쉽게	쉽+게	ADV	VA+EC	_	5	advmod	_	_
+5	암기하고	암기+하+고	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	문법을	문법+을	NOUN	NNG+JKO	_	9	obj	_	_
+7	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	9	advmod	_	_
+8	설명없이	설명+없+이	ADV	NNG+VCN+EC	_	9	advcl	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_34_1_03
+# text = 교과서를 안 써도 친구랑 말하면서 여러 가지 언어를 알아드는다.
+1	교과서를	교과서+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	안	안	ADV	MAG	_	3	advmod	_	_
+3	써도	쓰+어도	VERB	VV+EC	_	9	advcl	_	_
+4	친구랑	친구+랑	ADV	NNG+JKB	_	5	obl	_	_
+5	말하면서	말+하+면서	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	여러	여러	DET	MM	_	7	det	_	_
+7	가지	가지	NOUN	NNB	_	8	nmod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	알아드는다	알+아+드+는다	VERB	VV+EC+NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_34_1_04
+# text = 그러니까 아이들이 부모님과 어릴때 많이 여행하거나 다른 나라로 이사하면 아이들이 많은 언어를 모국어처럼 말 할 수 있다.
+1	그러니까	그러니까	ADV	MAJ	_	17	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+3	부모님과	부모+님+과	ADV	NNG+XSN+JKB	_	6	obl	_	_
+4	어릴때	어리+ㄹ+때	NOUN	VA+ETM+NNG	_	6	advcl	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	여행하거나	여행+하+거나	VERB	NNG+XSV+EC	_	17	advcl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	나라로	나라+로	ADV	NNG+JKB	_	9	obl	_	_
+9	이사하면	이사+하+면	VERB	NNG+XSV+EC	_	6	conj	_	_
+10	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	15	nsubj	_	_
+11	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+12	언어를	언어+를	NOUN	NNG+JKO	_	15	obj	_	_
+13	모국어처럼	모국어+처럼	ADV	NNG+JKB	_	15	obl	_	_
+14	말	말	NOUN	NNG	_	15	obj	_	_
+15	할	하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CZH_34_1_05
+# text = 그런데 부모님은 아이가 언어를 잘 하는 것을 원하시면 언어를 배우는 것에 좋은 환경을 찾아야 하신다.
+1	그런데	그런데	ADV	MAJ	_	15	cc	_	_
+2	부모님은	부모+님+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+3	아이가	아이+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	원하시면	원하+시+면	VERB	VV+EP+EC	_	14	advcl	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+11	것에	것+에	ADV	NNB+JKB	_	12	obl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	acl	_	_
+13	환경을	환경+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	찾아야	찾+아야	VERB	VV+EC	_	0	root	_	_
+15	하신다	하	AUX	VX+EP+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_34_1_06
+# text = 아이들 태어났을 때부터 교과서만 읽어서 어휘를 외우면 점점 언어 배우기를 싫어하게 될 것이다.
+1	아이들	아이+들	NOUN	NNG+XSN	_	2	nsubj	_	_
+2	태어났을	태어나+았+을	VERB	VV+EP+ETM	_	5	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	교과서만	교과서+만	NOUN	NNG+JX	_	5	obj	_	_
+5	읽어서	읽+어서	VERB	VV+EC	_	7	advcl	_	_
+6	어휘를	어휘+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	외우면	외우+면	VERB	VV+EC	_	11	advcl	_	_
+8	점점	점점	ADV	MAG	_	11	advmod	_	_
+9	언어	언어	NOUN	NNG	_	10	obj	_	_
+10	배우기를	배우+기+를	VERB	VV+ETN+JKO	_	11	obj	_	_
+11	싫어하게	싫어하+게	VERB	VV+EC	_	13	acl	_	_
+12	될	되+ㄹ	VERB	VX+ETM	_	11	advcl	_	_
+13	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_34_1_07
+# text = 또한 사람들은 아이들이 언어를 두개나 세 개 배우면 언어를 각각 잘 배울 수 없고 나쁘게 말하게 될 거라고 한다.
+1	또한	또한	ADV	MAJ	_	19	cc	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	19	nsubj	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+5	두개나	두+개+나	NOUN	MM+NNB+JC	_	8	obj	_	_
+6	세	세	NUM	MM	_	7	nummod	_	_
+7	개	개	NOUN	NNB	_	5	conj	_	_
+8	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+10	각각	각각	ADV	MAG	_	12	advmod	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	배울	배우+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	없고	없+고	VERB	VX+EC	_	16	advcl	_	_
+15	나쁘게	나쁘+게	ADV	VA+EC	_	16	advmod	_	_
+16	말하게	말+하+게	VERB	NNG+XSV+EC	_	18	acl	_	_
+17	될	되+ㄹ	VERB	VX+ETM	_	16	advcl	_	_
+18	거라고	것+이+라고	ADJ	NNB+VCP+EC	_	19	ccomp	_	_
+19	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CZH_34_1_08
+# text = 그렇지만 그런 말이 틀리다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	4	cc	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	말이	말+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	틀리다	틀리+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

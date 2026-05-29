@@ -1,0 +1,62 @@
+# sent_id = ARG-CZH_18_2_01
+# text = 역사를 배워야 합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	합니다	하	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_18_2_02
+# text = 우리는 지난 잘못한 것을 다시 하면 안됩니다.
+1	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+2	지난	지나+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+3	잘못한	잘못+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+5	다시	다시	ADV	MAG	_	6	advmod	_	_
+6	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+7	안됩니다	안+되+ㅂ니다	VERB	MAG+VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_18_2_03
+# text = 그래서 역사를 알아야 합니다.
+1	그래서	그래서	ADV	MAJ	_	3	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+4	합니다	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_18_2_04
+# text = 역사를 알기 덕분에 다른 나라와 함께 더 좋은 관계를 관리할 수 있습니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알기	알+기	VERB	VV+ETN	_	12	obl	_	_
+3	덕분에	덕분+에	ADV	NNG+JKB	_	2	case	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	나라와	나라+와	ADV	NNG+JKB	_	8	obl	_	_
+6	함께	함께	ADV	MAG	_	8	advmod	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	acl	_	_
+9	관계를	관계+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	관리할	관리+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_18_2_05
+# text = 비슷한 활동이 생기고 왜 그 활동이 나왔고 무슨 활동이 있어서 알면서 우리 더 좋게 관리할 수 있습니다.
+1	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	2	amod	_	_
+2	활동이	활동+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	생기고	생기+고	VERB	VV+EC	_	7	advcl	_	_
+4	왜	왜	ADV	MAG	_	7	advmod	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	활동이	활동+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	나왔고	나오+았+고	VERB	VV+EP+EC	_	10	advcl	_	_
+8	무슨	무슨	DET	MM	_	9	det	_	_
+9	활동이	활동+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있어서	있+어서	VERB	VV+EC	_	11	advcl	_	_
+11	알면서	알+면서	VERB	VV+EC	_	17	advcl	_	_
+12	우리	우리	PRON	NP	_	15	nsubj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	좋게	좋+게	ADV	VA+EC	_	15	advmod	_	_
+15	관리할	관리+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

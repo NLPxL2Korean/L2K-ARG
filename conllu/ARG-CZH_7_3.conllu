@@ -1,0 +1,129 @@
+# sent_id = ARG-CZH_07_3_01
+# text = 우리 삶에서 협동과 경쟁은 둘다 중요한 것이다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	삶에서	삶+에서	ADV	NNG+JKB	_	7	obl	_	_
+3	협동과	협동+과	NOUN	NNG+JC	_	7	nsubj	_	_
+4	경쟁은	경쟁+은	NOUN	NNG+JX	_	3	conj	_	_
+5	둘다	둘+다	ADV	NR+MAG	_	6	advmod	_	_
+6	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_07_3_02
+# text = 협동과 경쟁이 없으면 자기 개발도 없기 때문이다.
+1	협동과	협동+과	NOUN	NNG+JC	_	3	nsubj	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	1	conj	_	_
+3	없으면	없+으면	ADJ	VA+EC	_	6	advcl	_	_
+4	자기	자기	NOUN	NNG	_	5	nmod	_	_
+5	개발도	개발+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	없기	없+기	ADJ	VA+ETN	_	7	nmod	_	_
+7	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_07_3_03
+# text = 저는 개인적으로 보통 경쟁을 선호한 편이다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+3	보통	보통	ADV	MAG	_	6	advmod	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호한	선호+하+ㄴ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	편이다	편+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_07_3_04
+# text = 왜냐하면 저는 경쟁심이 심한 사람이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	5	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	경쟁심이	경쟁+심+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	심한	심하+ㄴ	ADJ	VA+ETM	_	5	acl	_	_
+5	사람이다	사람+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_07_3_05
+# text = 그렇지만 저의 의견도 점점 바뀐다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	5	cc	_	_
+2	저의	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	의견도	의견+도	NOUN	NNG+JX	_	5	nsubj	_	_
+4	점점	점점	ADV	MAG	_	5	advmod	_	_
+5	바뀐다	바뀌+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_07_3_06
+# text = 저는 한국에서 대학원을 다녔다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	한국에서	한국+에서	ADV	NNP+JKB	_	4	obl	_	_
+3	대학원을	대학원+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	다녔다	다니+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_07_3_07
+# text = 저의 생각에서는 세계서 경정을 제일 심한 곳은 바로 대한민국 대학교이다.
+1	저의	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에서는	생각+에서+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+3	세계서	세계+서	ADV	NNG+JKB	_	6	obl	_	_
+4	경정을	경정+을	NOUN	NF+JKO	Typo=Yes	6	obj	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	심한	심하+ㄴ	ADJ	VA+ETM	_	7	acl	_	_
+7	곳은	곳+은	NOUN	NNG+JX	_	10	nsubj	_	_
+8	바로	바로	ADV	MAG	_	10	advmod	_	_
+9	대한민국	대한민국	NOUN	NNP	_	10	nmod	_	_
+10	대학교이다	대학교+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_07_3_08
+# text = 학교 친구 있어도 숙제나 발표할 때 도와주는 사람없었다.
+1	학교	학교	NOUN	NNG	_	2	nmod	_	_
+2	친구	친구	NOUN	NNG	_	3	nsubj	_	_
+3	있어도	있+어도	VERB	VV+EC	_	8	advcl	_	_
+4	숙제나	숙제+나	NOUN	NNG+JC	_	7	advcl	_	_
+5	발표할	발표+하+ㄹ	VERB	NNG+XSV+ETM	_	4	conj	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	도와주는	도와주+는	VERB	VV+ETM	_	8	acl	_	_
+8	사람없었다	사람+없+었+다	ADJ	NNG+VA+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_07_3_09
+# text = 학생 경쟁심이 때문에 어려운 일이 많았다.
+1	학생	학생	NOUN	NNG	_	6	dislocated	_	_
+2	경쟁심이	경쟁심+이	NOUN	NNG+JKS	_	6	obl	_	_
+3	때문에	때문+에	ADV	NNB+JKB	_	2	case	_	_
+4	어려운	어렵+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	일이	일+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많았다	많+았+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_07_3_10
+# text = 그래서 친구나 동료와 같이 있으면 경쟁보다 협동을 선호한다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	친구나	친구+나	NOUN	NNG+JC	_	5	obl	_	_
+3	동료와	동료+와	ADV	NNG+JKB	_	2	conj	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+6	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	8	obl	_	_
+7	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_07_3_11
+# text = 우리는 경쟁 덕분에 개발할 수 있어서 정점이다.
+1	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	4	obl	_	_
+3	덕분에	덕분+에	ADV	NNG+JKB	_	2	case	_	_
+4	개발할	개발+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있어서	있	AUX	VX+EC	_	7	advcl	_	_
+7	정점이다	정점+이+다	ADJ	NF+VCP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_07_3_12
+# text = 그렇지만 아주 심한 경쟁이 나쁜 일이 될 수도 있다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	9	cc	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	심한	심하+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	dislocated	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	일이	일+이	NOUN	NNG+JKC	_	7	nsubj	_	_
+7	될	되+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

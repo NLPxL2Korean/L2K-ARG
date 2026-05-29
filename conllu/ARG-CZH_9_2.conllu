@@ -1,0 +1,100 @@
+# sent_id = ARG-CZH_09_2_01
+# text = 우리는 무저건 역사를 배워야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+2	무저건	무저건	ADV	NA	Typo=Yes	4	advmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_09_2_02
+# text = 우리의 과거를 모르면 우리의 현제를 잘 이해할 수가 없다.
+1	우리의	우리+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	과거를	과거+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	모르면	모르+면	VERB	VV+EC	_	9	advcl	_	_
+4	우리의	우리+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	현제를	현제+를	NOUN	NF+JKO	Typo=Yes	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수가	수+가	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_09_2_03
+# text = 특히 전쟁처럼 나쁜 과거의 일을 대해 잘 알아야 한다.
+1	특히	특히	ADV	MAG	_	8	advmod	_	_
+2	전쟁처럼	전쟁+처럼	ADV	NNG+JKB	_	8	obl	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	과거의	과거+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	일을	일+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	대해	대하+아	VERB	VV+EC	_	8	advcl	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_09_2_04
+# text = 왜냐 하면 우리는 이런 상황이 다시 생길 것을 분명히 막야 한다.
+1	왜냐	왜냐+하면	ADV	MAJ	Typo=Yes	10	cc	_	_
+2	하면	_	X	_	_	1	goeswith	_	_
+3	우리는	우리+는	PRON	NP+JX	_	10	nsubj	_	_
+4	이런	이런	DET	MM	_	5	det	_	_
+5	상황이	상황+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	다시	다시	ADV	MAG	_	7	advmod	_	_
+7	생길	생기+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+9	분명히	분명히	ADV	MAG	_	10	advmod	_	_
+10	막야	막+야	VERB	VV+NA	Typo=Yes	0	root	_	_
+11	한다	하	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_09_2_05
+# text = 우리 미래를 지키기 위해 정쟁캍은 것이 다시 일어나지 않도록 괴거의 대한 일을 공부해야 한다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	미래를	미래+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	지키기	지키+기	VERB	VV+ETN	_	4	obj	_	_
+4	위해	위하+아	VERB	VV+EC	_	8	advcl	_	_
+5	정쟁캍은	정쟁+캍은	NOUN	NF+NA	Typo=Yes	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+7	다시	다시	ADV	MAG	_	8	advmod	_	_
+8	일어나지	일어나+지	VERB	VV+EC	_	13	advcl	_	_
+9	않도록	않	AUX	VX+EC	_	8	aux	_	_
+10	괴거의	괴거+의	NOUN	NF+JKG	Typo=Yes	12	nmod:poss	_	_
+11	대한	대하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	일을	일+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+14	한다	하	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_09_2_06
+# text = 정쟁이 왜 있었는지 그리고 어떻게 생겼는지 연구하면 미래에 똑같은 실수 하기에 예방한다고 할 수 있다.
+1	정쟁이	정쟁+이	NOUN	NF+JKS	Typo=Yes	3	nsubj	_	_
+2	왜	왜	ADV	MAG	_	3	advmod	_	_
+3	있었는지	있+었+는지	VERB	VV+EP+EC	_	7	ccomp	_	_
+4	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+5	어떻게	어떻+게	ADV	VA+EC	_	6	advmod	_	_
+6	생겼는지	생기+었+는지	VERB	VV+EP+EC	_	3	conj	_	_
+7	연구하면	연구+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+8	미래에	미래+에	ADV	NNG+JKB	_	11	obl	_	_
+9	똑같은	똑같+은	ADJ	VA+ETM	_	10	amod	_	_
+10	실수	실수	NOUN	NNG	_	11	obj	_	_
+11	하기에	하+기+에	VERB	VV+ETN+JKB	_	12	obl	_	_
+12	예방한다고	예방+하+ㄴ다고	VERB	NNG+XSV+EC	_	13	ccomp	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_09_2_07
+# text = 역사는 수학이나 지리학이나 다른 교과목 똑 같은 수준의 중요하다고 생각한다.
+1	역사는	역사+는	NOUN	NNG+JX	_	9	nsubj	_	_
+2	수학이나	수학+이나	NOUN	NNG+JC	_	6	obl	_	_
+3	지리학이나	지리학+이나	NOUN	NNG+JC	_	2	conj	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	교과목	교과목	NOUN	NNG	_	2	conj	_	_
+6	똑	똑+같+은	VERB	NA+VA+ETM	Typo=Yes	8	amod	_	_
+7	같은	_	X	_	_	6	goeswith	_	_
+8	수준의	수준+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

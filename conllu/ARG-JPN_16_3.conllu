@@ -1,0 +1,56 @@
+# sent_id = ARG-JPN_16_3_01
+# text =  저는 협동을 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_16_3_02
+# text =  그 이유는 2가지 있습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	dislocated	_	_
+3	2가지	2+가지	NOUN	SN+NNB	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_16_3_03
+# text =  일째는 협동하면 혼자서 하는 일보다 효율적으로 할수 있기 때문입니다.
+1	일째는	일+째+는	NOUN	MM+XSN+JX	_	9	obl	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+3	혼자서	혼자+서	ADV	NNG+JKS	_	4	nsubj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	일보다	일+보다	ADV	NNG+JKB	_	7	obl	_	_
+6	효율적으로	효율+적+으로	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	8	nsubj	_	_
+8	있기	있+기	NOUN	VX+ETN	_	9	nmod	_	_
+9	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_16_3_04
+# text =  서로 따로따로 하는 것보다 분업해서 하는게 더 좋습니다.
+1	서로	서로	ADV	MAG	_	3	advmod	_	_
+2	따로따로	따로+따로	ADV	MAG+MAG	_	3	advmod	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	것보다	것+보다	ADV	NNB+JKB	_	8	obl	_	_
+5	분업해서	분업+하+아서	VERB	NNG+XSV+EC	_	6	advcl	_	_
+6	하는게	하+는+것+이	VERB	VV+ETM+NNB+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_16_3_05
+# text =  둘째는 경쟁해야 하는 것이 있어도 누군가와 협동해서 경쟁하는 게 더 강하다고 생각합니다.
+1	둘째는	둘+째+는	NOUN	NR+XSN+JX	_	12	obl	_	_
+2	경쟁해야	경쟁+하+아야	VERB	NNG+XSV+EC	_	4	acl	_	_
+3	하는	하+는	AUX	VX+ETM	_	2	aux	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	있어도	있+어도	VERB	VV+EC	_	12	advcl	_	_
+6	누군가와	누구+이+ㄴ가+와	ADV	NP+VCP+EF+JKB	_	7	obl	_	_
+7	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+8	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	게	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	강하다고	강하+다고	VERB	VA+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

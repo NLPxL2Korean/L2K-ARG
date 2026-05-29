@@ -1,0 +1,160 @@
+# sent_id = ARG-ENG_37_2_01
+# text = 역사를 반듯이 배워야 한다고 생각한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	반듯이	반듯이	ADV	NA	_	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_37_2_02
+# text = 첫번째 이유는, 역사하고 과거 통해서 지혜를 얻을수가 있고, 똑같은 실수를 예방할수 있는 확률이 더 크다.
+1	첫번째	첫+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	9	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	역사하고	역사+하고	VERB	NNG+XSV+EC	_	6	obj	_	_
+5	과거	과거	NOUN	NNG	_	4	conj	_	_
+6	통해서	통하+아서	VERB	VV+EC	_	9	advcl	_	_
+7	지혜를	지혜+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	얻을수가	얻+을+수+가	NOUN	VV+ETM+NNB+JKS	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	0	root	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	똑같은	똑같+은	ADJ	VA+ETM	_	12	amod	_	_
+12	실수를	실수+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	예방할수	예방+하+ㄹ+수	VERB	NNG+XSV+ETM+NNB	_	14	nsubj	_	_
+14	있는	있+는	AUX	VX+ETM	_	15	acl	_	_
+15	확률이	확률+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	크다	크+다	ADJ	VA+EF	_	9	conj	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_37_2_03
+# text = 물론 인간들은 완벽하지도 않고 결국에는 인간들이 똑같은 실수를 저지르는 것이 마련이지만, 역사 교육 통해서 그러한 실수들, 약점들, 그리고 부족한 점들에 대해 인정하고 인식할수가 있다.
+1	물론	물론	ADV	MAG	_	11	advmod	_	_
+2	인간들은	인간+들+은	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+3	완벽하지도	완벽+하+지도	VERB	NNG+XSA+EC	_	9	advcl	_	_
+4	않고	않+고	AUX	VX+EC	_	3	aux	_	_
+5	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+6	인간들이	인간+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+7	똑같은	똑같+은	ADJ	VA+ETM	_	8	amod	_	_
+8	실수를	실수+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	저지르는	저지르+는	VERB	VV+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	마련이지만	마련+이+지만	VERB	NNG+VCP+EC	_	27	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	역사	역사	NOUN	NNG	_	14	nmod	_	_
+14	교육	교육	NOUN	NNG	_	15	obj	_	_
+15	통해서	통하+아서	VERB	VV+EC	_	27	advcl	_	_
+16	그러한	그러하+ㄴ	ADJ	VA+ETM	_	17	amod	_	_
+17	실수들	실수+들	NOUN	NNG+XSN	_	23	list	_	SpaceAfter=No
+18	,	,	PUNCT	SP	_	17	punct	_	_
+19	약점들	약점+들	NOUN	NNG+XSN	_	23	list	_	SpaceAfter=No
+20	,	,	PUNCT	SP	_	19	punct	_	_
+21	그리고	그리고	ADV	MAJ	_	25	cc	_	_
+22	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	23	amod	_	_
+23	점들에	점+들+에	ADV	NNG+XSN+JKB	_	24	obl	_	_
+24	대해	대하+아	VERB	VV+EC	_	25	advcl	_	_
+25	인정하고	인정+하+고	VERB	NNG+XSV+EC	_	26	advcl	_	_
+26	인식할수가	인식+하+ㄹ+수+가	NOUN	NNG+XSV+ETM+NNB+JKS	_	25	nsubj	_	_
+27	있다	있+다	AUX	VX+EF	_	26	aux	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-ENG_37_2_04
+# text = 예를 들어, 미국 교육 시스템에는, 미국 학생들이 미국의 전쟁하는 승부욕과 인종차별에 대해 아주 세세하게 배운다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	17	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	미국	미국	NOUN	NNP	_	5	nmod	_	_
+5	교육	교육	NOUN	NNG	_	6	nmod	_	_
+6	시스템에는	시스+템+에+는	ADP	NNB+JKB+JX	_	17	obl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	미국	미국	NOUN	NNP	_	9	nmod	_	_
+9	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+10	미국의	미국+의	NOUN	NNP+JKG	_	12	nmod:poss	_	_
+11	전쟁하는	전쟁+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	승부욕과	승부욕+과	NOUN	NNG+JC	_	14	obl	_	_
+13	인종차별에	인종+차별+에	ADV	NNG+NNG+JKB	_	12	conj	_	_
+14	대해	대하+아	VERB	VV+EC	_	17	advcl	_	_
+15	아주	아주	ADV	MAG	_	17	advmod	_	_
+16	세세하게	세세+하+게	ADV	XR+XSA+EC	_	17	advmod	_	_
+17	배운다	배우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_37_2_05
+# text = 어떤 교육 정책 내리는 정치인들은 그러한 교육을 파괴해야 한다고 주장했지만, 결국에는 다수의 교육 정책 내리는 사람들이 미국의 부정적인 역사까지 배운다는 것이 엄청 중요하다고 결정을 내렸다.
+1	어떤	어떤	DET	MM	_	3	det	_	_
+2	교육	교육	NOUN	NNG	_	3	nmod	_	_
+3	정책	정책	NOUN	NNG	_	4	obj	_	_
+4	내리는	내리+는	VERB	VV+ETM	_	5	acl	_	_
+5	정치인들은	정치인+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+6	그러한	그러하+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	교육을	교육+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	파괴해야	파괴+하+아야	VERB	NNG+XSV+EC	_	10	ccomp	_	_
+9	한다고	하+ㄴ다고	AUX	VX+EC	_	8	aux	_	_
+10	주장했지만	주장+하+았+지만	VERB	NNG+XSV+EP+EC	_	26	advcl	_	_
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	26	obl	_	_
+13	다수의	다수+의	NOUN	NNG+JKG	_	17	nmod:poss	_	_
+14	교육	교육	NOUN	NNG	_	15	nmod	_	_
+15	정책	정책	NOUN	NNG	_	16	obj	_	_
+16	내리는	내리+는	VERB	VV+ETM	_	17	acl	_	_
+17	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	26	nsubj	_	_
+18	미국의	미국+의	NOUN	NNP+JKG	_	20	nmod:poss	_	_
+19	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	20	amod	_	_
+20	역사까지	역사+까지	ADV	NNG+JX	_	21	obl	_	_
+21	배운다는	배우+ㄴ다는	VERB	VV+ETM	_	22	acl	_	_
+22	것이	것+이	NOUN	NNB+JKS	_	24	nsubj	_	_
+23	엄청	엄청	ADV	MAG	_	24	advmod	_	_
+24	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	26	ccomp	_	_
+25	결정을	결정+을	NOUN	NNG+JKO	_	26	obj	_	_
+26	내렸다	내리+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-ENG_37_2_06
+# text = 그러한 역사 교육 때문에 새로운 시대가 인종차별에대해 인식을 하고 똑같은 실수를 예방할 수가 있다.
+1	그러한	그러하+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	교육	교육	NOUN	NNG	_	9	obl	_	_
+4	때문에	때문+에	ADP	NNB+JKB	_	3	case	_	_
+5	새로운	새롭+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	시대가	시대+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+7	인종차별에대해	인종+차별+에+대하+아	NOUN	NNG+NNG+JKB+VV+EC	_	9	advcl	_	_
+8	인식을	인식+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	하고	하+고	VERB	VV+EC	_	0	root	_	_
+10	똑같은	똑같+은	ADJ	VA+ETM	_	11	amod	_	_
+11	실수를	실수+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	예방할	예방+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수가	수+가	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	9	conj	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_37_2_07
+# text = 마찬가지로 역사 통해서 사회, 나라, 민족의 원인, 근본, 하고 뿌리를 알수있기 때문에, 그러한 지식 통해서 더 좋은 사회과 세상을 만들어 갈수가 있다.
+1	마찬가지로	마찬가지+로	ADV	NNG+JKB	_	27	obl	_	_
+2	역사	역사	NOUN	NNG	_	3	obj	_	_
+3	통해서	통하+아서	VERB	VV+EC	_	15	advcl	_	_
+4	사회	사회	NOUN	NNG	_	14	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	나라	나라	NOUN	NNG	_	14	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	민족의	민족+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	원인	원인	NOUN	NNG	_	14	list	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	근본	근본	NOUN	NNG	_	14	list	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	하고	하고	VERB	JC	_	11	case	_	_
+14	뿌리를	뿌리+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	알수있기	알+ㄹ+수+있+기	NOUN	VV+ETM+NNB+VX+ETN	_	27	obl	_	_
+16	때문에	때문+에	ADP	NNB+JKB	_	15	case	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	그러한	그러하+ㄴ	ADJ	VA+ETM	_	23	amod	_	_
+19	지식	지식	NOUN	NNG	_	20	obj	_	_
+20	통해서	통하+아서	VERB	VV+EC	_	27	advcl	_	_
+21	더	더	ADV	MAG	_	22	advmod	_	_
+22	좋은	좋+은	ADJ	VA+ETM	_	23	amod	_	_
+23	사회과	사회+과	NOUN	NNG+JC	_	25	obj	_	_
+24	세상을	세상+을	NOUN	NNG+JKO	_	23	conj	_	_
+25	만들어	만들+어	VERB	VV+EC	_	26	acl	_	_
+26	갈수가	가+ㄹ+수+가	NOUN	VX+ETM+NNB+JKS	_	27	nsubj	_	_
+27	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	27	punct	_	_

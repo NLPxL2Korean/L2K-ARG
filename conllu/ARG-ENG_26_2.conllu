@@ -1,0 +1,258 @@
+# sent_id = ARG-ENG_26_2_01
+# text = 수학이나 국어에 비하면 역사를 실생활에서 많이 사용되지 않다고 볼 수 있다.
+1	수학이나	수학+이나	NOUN	NNG+JC	_	3	obl	_	_
+2	국어에	국어+에	ADV	NNG+JKB	_	1	conj	_	_
+3	비하면	비하+면	VERB	VV+EC	_	11	advcl	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	실생활에서	실생활+에서	ADV	NNG+JKB	_	7	obl	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	사용되지	사용+되+지	VERB	NNG+XSV+EC	_	9	ccomp	_	_
+8	않다고	않+다고	AUX	VX+EC	_	7	aux	_	_
+9	볼	보+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_26_2_02
+# text = 그래서 어떤 사람은 역사 배움의 가치가 없다고 할 수는 있다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	사람은	사람+은	NOUN	NNG+JX	_	8	nsubj	_	_
+4	역사	역사	NOUN	NNG	_	5	nmod	_	_
+5	배움의	배움+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	가치가	가치+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	없다고	없+다고	VERB	VA+EC	_	8	ccomp	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수는	수+는	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_26_2_03
+# text = 하지만 역사를 알면서 알수록 인류의 실수의 반복을 줄릴 수 있고, 자신이 속하는 문화를 알고 이해할 수 있고, 그리고 자신의 시야를 넓혀할 수 있다.
+1	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	알면서	알+면서	VERB	VV+EC	_	4	advcl	_	_
+4	알수록	알+ㄹ수록	VERB	VV+EC	_	10	advcl	_	_
+5	인류의	인류+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	실수의	실수+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	반복을	반복+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	줄릴	줄리+ㄹ	VERB	NV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있고	있+고	VERB	VX+EC	_	0	root	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	자신이	자신+이	PRON	NNG+JKS	_	13	nsubj	_	_
+13	속하는	속하+는	VERB	VV+EC	_	14	acl	_	_
+14	문화를	문화+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	알고	알+고	VERB	VV+EC	_	16	advcl	_	_
+16	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있고	있+고	VERB	VX+EC	_	10	conj	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	_
+20	그리고	그리고	ADV	MAJ	_	25	cc	_	_
+21	자신의	자신+의	PRON	NNG+JKG	_	22	nmod:poss	_	_
+22	시야를	시야+를	NOUN	NNG+JKO	_	23	obj	_	_
+23	넓혀할	넓+히+어+하+ㄹ	VERB	VA+XSV+EC+VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있다	있+다	ADJ	VX+EF	_	10	conj	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_26_2_04
+# text = 먼저, 유명한 “역사를 모르는 사람은 역사을 반복할 운명이다 ”라는 문명은 맞는 말이다.
+1	먼저	먼저	ADV	MAG	_	13	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	9	punct	_	_
+3	유명한	유명+하+ㄴ	ADJ	XR+XSA+ETM	_	13	amod	_	_
+4	“역사를	“+역사+를	NOUN	SS+NNG+JKO	_	5	obj	_	_
+5	모르는	모르+는	VERB	VV+ETM	_	6	acl	_	_
+6	사람은	사람+은	NOUN	NNG+JX	_	9	nsubj	_	_
+7	역사을	역사+을	NOUN	NF+JKO	_	8	obj	_	_
+8	반복할	반복+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	운명이다	운명+이+다	VERB	NNG+VCP+EC	_	13	acl	_	_
+10	”라는	”+라는	VERB	SS+ETM	_	11	acl	_	_
+11	문명은	문명+은	NOUN	NNG+JX	_	13	nsubj	_	_
+12	맞는	맞+는	VERB	VV+ETM	_	13	acl	_	_
+13	말이다	말+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_26_2_05
+# text = 조상의 실수를 모르면 우리도 같은 선택을 하는 것이 자연스럽다.
+1	조상의	조상+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	실수를	실수+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	모르면	모르+면	VERB	VV+EC	_	9	advcl	_	_
+4	우리도	우리+도	PRON	NP+JX	_	7	nsubj	_	_
+5	같은	같+은	VERB	VA+ETM	_	6	amod	_	_
+6	선택을	선택+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	자연스럽다	자연+스럽+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_26_2_06
+# text = 예를 들어, 코로나 19는 1918에 나타난 스페인의 독감과 비슷하게 퍼졌나는 사람이 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	코로나	코로나	NOUN	NNG	_	11	nsubj	_	_
+5	19는	19+는	NOUN	SN+JX	_	4	flat	_	_
+6	1918에	1918+에	ADV	SN+JKB	_	7	obl	_	_
+7	나타난	나타나+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+8	스페인의	스페인+의	NOUN	NNP+JKG	_	9	nmod:poss	_	_
+9	독감과	독감+과	NOUN	NNG+JC	_	10	obl	_	_
+10	비슷하게	비슷+하+게	ADV	XR+XSA+EC	_	11	advcl	_	_
+11	퍼졌나는	퍼지+었+나는	VERB	VV+EP+NA	_	12	acl	_	_
+12	사람이	사람+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_26_2_07
+# text = 만약에 그 독감에 대해서 조금 더 알고 그 때의 정부의 대책을 살펴봤다면 현환을 바꿀 수 있지 않았을까는 생각 든다.
+1	만약에	만약+에	ADV	NNG+JKB	_	12	obl	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	독감에	독감+에	ADV	NF+JKB	_	4	obl	_	_
+4	대해서	대하+아서	VERB	VV+EC	_	7	advcl	_	_
+5	조금	조금	ADV	MAG	_	7	advmod	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	알고	알+고	VERB	VV+EC	_	19	advcl	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	때의	때+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+10	정부의	정부+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	대책을	대책+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	살펴봤다면	살피+어+보+았+다면	VERB	VV+EC+VX+EP+EC	_	19	advcl	_	_
+13	현환을	현환+을	NOUN	NF+JKO	_	14	obj	_	_
+14	바꿀	바꾸+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있지	있+지	VERB	VX+EC	_	18	acl	_	_
+17	않았을까는	않+았+을까+는	AUX	VX+EP+EC+ETM	_	16	aux	_	_
+18	생각	생각	NOUN	NNG	_	19	nsubj	_	_
+19	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_26_2_08
+# text = 따라서, 역사를 분석하면 현대인은 조상의 실수를 피할 수 있다.
+1	따라서	따라서	ADV	MAJ	_	10	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	분석하면	분석+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	현대인은	현대+인+은	VERB	NNG+XSN+JX	_	8	nsubj	_	_
+6	조상의	조상+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	실수를	실수+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	피할	피하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_26_2_09
+# text = 역사를 배워야 하는 두번째 이유는 자신이 살고 있는 환경을 이해하기 위한 것이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	5	acl	_	_
+3	하는	하+는	AUX	VX+ETM	_	2	aux	_	_
+4	두번째	두+번째	NOUN	MM+NNB	_	5	nmod	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	12	nsubj	_	_
+6	자신이	자신+이	PRON	NNG+JKS	_	7	nsubj	_	_
+7	살고	살+고	VERB	VV+EC	_	9	acl	_	_
+8	있는	있+는	AUX	VX+ETM	_	7	aux	_	_
+9	환경을	환경+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	이해하기	이해+하+기	NOUN	NNG+XSV+ETN	_	11	obj	_	_
+11	위한	위하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_26_2_10
+# text = 전통 문화가 왜 생겼는지, 어떤 풍습을 따라야 하고 어떤 것을 버려야 하고, 그리고 지금 살고 있는 세상의 적절한 문화가 무엇인지 알기 위해서 역사를 배워야 한다.
+1	전통	전통	NOUN	NNG	_	2	nmod	_	_
+2	문화가	문화+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	왜	왜	ADV	MAG	_	4	advmod	_	_
+4	생겼는지	생기+었+는지	VERB	VV+EP+EC	_	12	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	풍습을	풍습+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	따라야	따르+아야	VERB	VV+EC	_	12	advcl	_	_
+9	하고	하+고	AUX	VX+EC	_	8	aux	_	_
+10	어떤	어떤	DET	MM	_	11	det	_	_
+11	것을	것+을	NOUN	NNB+JKO	_	12	obj	_	_
+12	버려야	버리+어야	VERB	VV+EC	_	22	advcl	_	_
+13	하고	하+고	VERB	VX+EC	_	12	aux	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	그리고	그리고	ADV	MAJ	_	26	cc	_	_
+16	지금	지금	ADV	MAG	_	17	advmod	_	_
+17	살고	살+고	VERB	VV+EC	_	21	acl	_	_
+18	있는	있+는	AUX	VX+ETM	_	17	aux	_	_
+19	세상의	세상+의	NOUN	NNG+JKG	_	21	nmod:poss	_	_
+20	적절한	적절+하+ㄴ	ADJ	XR+XSA+ETM	_	21	amod	_	_
+21	문화가	문화+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+22	무엇인지	무엇+이+ㄴ지	VERB	NP+VCP+EC	_	23	ccomp	_	_
+23	알기	알+기	NOUN	VV+ETN	_	24	obj	_	_
+24	위해서	위하+아서	VERB	VV+EC	_	26	advcl	_	_
+25	역사를	역사+를	NOUN	NNG+JKO	_	26	obj	_	_
+26	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+27	한다	하+ㄴ다	AUX	VX+EF	_	26	aux	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-ENG_26_2_11
+# text = 마지막으로 자신의 나라의 역사 외에 다른 나라의 문화의 역사를 모르면 안되는 이유가 바로 지구화이다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	14	obl	_	_
+2	자신의	자신+의	PRON	NNG+JKG	_	3	nmod:poss	_	_
+3	나라의	나라+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	역사	역사	NOUN	NNG	_	10	obl	_	_
+5	외에	외+에	ADP	NNB+JKB	_	4	case	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	나라의	나라+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	문화의	문화+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	모르면	모르+면	VERB	VV+EC	_	11	advcl	_	_
+11	안되는	안되+는	VERB	VV+ETM	_	12	acl	_	_
+12	이유가	이유+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+13	바로	바로	ADV	MAG	_	14	advmod	_	_
+14	지구화이다	지구화+이+다	VERB	NNG+VCP+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_26_2_12
+# text = 지금 세상은 자신의 나라 사람 뿐만 아니라 여러 나라의 사람과 접하게 되고 다문화를 이해할 능력이 필요한 세상이다.
+1	지금	지금	ADV	NNG	_	2	nmod	_	_
+2	세상은	세상+은	NOUN	NNG+JX	_	17	nsubj	_	_
+3	자신의	자신+의	PRON	NNG+JKG	_	4	nmod:poss	_	_
+4	나라	나라	NOUN	NNG	_	5	nmod	_	_
+5	사람	사람	NOUN	NNG	_	7	nsubj	_	_
+6	뿐만	뿐+만	NOUN	JX+JX	_	5	case	_	_
+7	아니라	아니+라	VERB	VCN+EC	_	11	advcl	_	_
+8	여러	여러	DET	MM	_	9	det	_	_
+9	나라의	나라+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	사람과	사람+과	ADV	NNG+JKB	_	11	obl	_	_
+11	접하게	접하+게	VERB	VV+EC	_	17	advcl	_	_
+12	되고	되+고	VERB	VX+EC	_	11	advcl	_	_
+13	다문화를	다문화+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	능력이	능력+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	17	acl	_	_
+17	세상이다	세상+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_26_2_13
+# text = 다른 나라의 역사를 안다면 그 나라 사람을 만나면 더 친해질 수 있고 이해하는 데 도움이 될 수 있다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	나라의	나라+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	안다면	알+ㄴ다면	VERB	VV+EC	_	12	advcl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	나라	나라	NOUN	NNG	_	7	nmod	_	_
+7	사람을	사람+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	만나면	만나+면	VERB	VV+EC	_	12	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	친해질	친하+아지+ㄹ	VERB	VA+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있고	있+고	VERB	VX+EC	_	0	root	_	_
+13	이해하는	이해+하+는	VERB	NNG+XSV+ETM	_	16	advcl	_	_
+14	데	데	ADV	NNB	_	13	mark	_	_
+15	도움이	도움+이	NOUN	NNG+JKC	_	16	nsubj	_	_
+16	될	되+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	12	conj	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_26_2_14
+# text = 따라서 역사는 배워야 하는 분야이다.
+1	따라서	따라서	ADV	MAJ	_	5	cc	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	5	nsubj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	acl	_	_
+4	하는	하+는	AUX	VX+ETM	_	3	aux	_	_
+5	분야이다	분야+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

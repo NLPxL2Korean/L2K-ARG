@@ -1,0 +1,155 @@
+# sent_id = ARG-ENG_34_1_01
+# text = 조기언어교육은 많은 나라에서 중요한 것이다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	5	nsubj	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	acl	_	_
+3	나라에서	나라+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	acl	_	_
+5	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_34_1_02
+# text = 이 세상에서 영어나 다른 언어를 모르면 성공은 어렵다.
+1	이	이	DET	MM	_	2	det	_	_
+2	세상에서	세상+에서	ADV	NNG+JKB	_	6	obl	_	_
+3	영어나	영어+나	NOUN	NNG+JC	_	6	obj	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	3	conj	_	_
+6	모르면	모르+면	VERB	VV+EC	_	8	advcl	_	_
+7	성공은	성공+은	NOUN	NNG+JX	_	8	nsubj	_	_
+8	어렵다	어렵+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_34_1_03
+# text = 그래서 아이들은 어릴때부터 학교, 유치원이나 학원에서 다른 언어를 배우고 있다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+3	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	10	advcl	_	_
+4	학교	학교	NOUN	NNG	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	유치원이나	유치원+이나	NOUN	NNG+JC	_	10	obl	_	_
+7	학원에서	학원+에서	ADV	NNG+JKB	_	6	conj	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+11	있다	있	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_34_1_04
+# text = 조기언어교육은 장점이 많다기 해도 단점도 있다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	6	dislocated	_	_
+2	장점이	장점+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	많다기	많+다기	ADJ	VA+NA	Typo=Yes	4	ccomp	_	_
+4	해도	하+아도	VERB	VV+EC	_	6	advcl	_	_
+5	단점도	단점+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_34_1_05
+# text = 새로운 언어 배우기가 어려운 법이다.
+1	새로운	새롭+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	언어	언어	NOUN	NNG	_	3	obj	_	_
+3	배우기가	배우+기+가	VERB	VV+ETN+JKS	_	5	nsubj	_	_
+4	어려운	어렵+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	법이다	법+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_34_1_06
+# text = 그렇지만 어른보다 어린 사람들이 더 쉽고 자연스럽에 언어를 배울 수 있다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	11	cc	_	_
+2	어른보다	어른+보다	ADV	NNG+JKB	_	6	obl	_	_
+3	어린	어리+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	쉽고	쉽+고	ADJ	VA+EC	_	0	root	_	_
+7	자연스럽에	자연+스럽+에	ADV	NNG+XSA+NA	Typo=Yes	9	advmod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	6	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_34_1_07
+# text = 아이의 뇌가 발달되어서 더 쉽게 배운다.
+1	아이의	아이+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	뇌가	뇌+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	발달되어서	발달+되+어서	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	배운다	배우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_34_1_08
+# text = 그래서 나이가 먹어서 더 편하게 다른 언어를 알수있다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	나이가	나이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	먹어서	먹+어서	VERB	VV+EC	_	8	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	편하게	편하+게	ADV	VA+EC	_	8	advmod	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	알수있다	알+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_34_1_09
+# text = 좋은 점은 많지만 조기언어교육은 단점도 있다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	점은	점+은	NOUN	NNB+JX	_	3	nsubj	_	_
+3	많지만	많+지만	ADJ	VA+EC	_	6	advcl	_	_
+4	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	6	dislocated	_	_
+5	단점도	단점+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_34_1_10
+# text = 두, 세게 언어를 배우는 아이들은 보통 모국어를 다른 친구 비교하면 더 느르게 읽고 이해한다는 얘기 있다.
+1	두	두	NUM	MM	_	3	nummod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	세게	세+게	ADV	MM+NF	Typo=Yes	4	nmod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	15	nsubj	_	_
+7	보통	보통	ADV	MAG	_	15	advmod	_	_
+8	모국어를	모국어+를	NOUN	NNG+JKO	_	15	obj	_	_
+9	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	친구	친구	NOUN	NNG	_	11	obl	_	_
+11	비교하면	비교+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	느르게	느르+게	ADV	NV+EC	Typo=Yes	14	advmod	_	_
+14	읽고	읽+고	VERB	VV+EC	_	15	advcl	_	_
+15	이해한다는	이해+하+ㄴ다는	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	얘기	얘기	NOUN	NNG	_	17	nsubj	_	_
+17	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_34_1_11
+# text = 그리고 아이들은 학교에서 다른 언어를 배우면 재미없다는 생각해서 배우기 싫어할 수도 있다.
+1	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+3	학교에서	학교+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+7	재미없다는	재미+없+다는	ADJ	NNG+VA+ETM	_	8	ccomp	_	_
+8	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	12	advcl	_	_
+9	배우기	배우+기	VERB	VV+ETN	_	10	obj	_	_
+10	싫어할	싫어하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_34_1_12
+# text = 조기언어교육은 단점이 있어요 장점이 더 많아서 아이들에게 계속 다른 언어를 가르치면 좋은 것이다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	6	dislocated	_	_
+2	단점이	단점+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있어요	있+어요	VERB	VV+EC	_	6	advcl	_	_
+4	장점이	장점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	많아서	많+아서	ADJ	VA+EC	_	13	advcl	_	_
+7	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	11	obl	_	_
+8	계속	계속	ADV	MAG	_	11	advmod	_	_
+9	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	가르치면	가르치+면	VERB	VV+EC	_	13	advcl	_	_
+12	좋은	좋+은	ADJ	VA+ETM	_	13	amod	_	_
+13	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

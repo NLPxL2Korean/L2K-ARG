@@ -1,0 +1,204 @@
+# sent_id = ARG-JPN_21_3_01
+# text =  저는 협동과 경쟁중 협동을 더 선호한다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	6	obl	_	_
+3	경쟁중	경쟁+중	NOUN	NNG+NNB	_	2	conj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_21_3_02
+# text =  이유는 두까지있다.
+1	이유는	이유+는	NOUN	NNG+JX	_	2	nsubj	_	_
+2	두까지있다	두+까지+있+다	ADJ	MM+NF+VV+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-JPN_21_3_03
+# text =  첫번째로는제 성향이 그렇기 때문이다.
+1	첫번째로는제	첫+번째+로+는+저+의	ADV	MM+NNB+JKB+JX+NP+JX	_	4	obl	_	_
+2	성향이	성향+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	그렇기	그렇+기	NOUN	VA+ETN	_	4	nmod	_	_
+4	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_21_3_04
+# text =  저는어릴때부터 사람들의 눈치를 잘보고 절 싫어하지 않도록 누구에게나 잘 보이려고 행동하는사람이다.
+1	저는어릴때부터	저+는+어리+ㄹ+때+부터	ADV	NP+JX+VA+ETM+NNG+JX	_	11	nsubj	_	_
+2	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	눈치를	눈치+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	잘보고	잘+보+고	VERB	MAG+VV+EC	_	11	advcl	_	_
+5	절	저+를	NOUN	NP+JKO	_	6	obj	_	_
+6	싫어하지	싫어하+지	VERB	VV+EC	_	11	advcl	_	_
+7	않도록	않+도록	AUX	VX+EC	_	6	aux	_	_
+8	누구에게나	누구+에게+나	ADV	NNG+JKB+JX	_	10	obl	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	보이려고	보이+려고	VERB	VV+EC	_	11	advcl	_	_
+11	행동하는사람이다	행동+하+는+사람+이+다	VERB	NNG+XSV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_21_3_05
+# text =  그런 저한테는 경쟁을 할 때 사람들이 절 어떡해 생각할지 미워하지는 않는지가더무섭다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	저한테는	저+한테+는	ADV	NP+JKB+JX	_	11	obl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	10	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+7	절	저+를	NOUN	NP+JKO	_	9	obj	_	_
+8	어떡해	어떡하+아	VERB	VA+EC	_	9	advcl	_	_
+9	생각할지	생각+하+ㄹ+지	VERB	NNG+XSV+EC	_	10	advcl	_	_
+10	미워하지는	미워+하+지+는	VERB	VV+EC+VX+EC	_	11	csubj	_	_
+11	않는지가더무섭다	않+는지+가+더+무섭+다	VERB	VX+EC+JKS+MAG+VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_21_3_06
+# text =  그래서 무엇이든 잘 못하는 척하고 바보인적도 하면서 잘 보이고 있는지에만 신경을 쓰게 된다.
+1	그래서	그래서	ADV	MAJ	_	12	cc	_	_
+2	무엇이든	무엇+이든	ADV	NP+JX	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	못하는	못하+는	VERB	VV+ETM	_	5	acl	_	_
+5	척하고	척+하+고	VERB	NNB+VV+EC	_	7	advcl	_	_
+6	바보인적도	바보+이+ㄴ+적+도	NOUN	NNG+VCP+ETM+NF+JX	_	7	obj	_	_
+7	하면서	하+면서	VERB	VV+EC	_	12	advcl	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	보이고	보이+고	VERB	VV+EC	_	12	ccomp	_	_
+10	있는지에만	있+는지+에+만	AUX	VX+EC+JKB+ETM	_	9	aux	_	_
+11	신경을	신경+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	쓰게	쓰+게	VERB	VV+EC	_	0	root	_	_
+13	된다	되+ㄴ다	VERB	VX+EF	_	12	advcl	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_21_3_07
+# text =  제가 성장할때는 과거의 자신만이 경쟁자고 남들이 절 의식하고 라이벌로 보는 것은 너무 지겹다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	성장할때는	성장+하+ㄹ+때+는	VERB	NNG+XSV+ETM+NNG+JX	_	5	obl	_	_
+3	과거의	과거+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	자신만이	자신+만+이	NOUN	NNG+JX+JKS	_	5	nsubj	_	_
+5	경쟁자고	경쟁자+이+고	VERB	NNG+VCP+EC	_	13	advcl	_	_
+6	남들이	남+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	절	저+를	NOUN	NP+JKO	_	8	obj	_	_
+8	의식하고	의식+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+9	라이벌로	라이벌+로	ADV	NNG+JKB	_	10	obl	_	_
+10	보는	보+는	VERB	VV+ETM	_	11	acl	_	_
+11	것은	것+은	NOUN	NNB+JX	_	13	nsubj	_	_
+12	너무	너무	ADV	MAG	_	13	advmod	_	_
+13	지겹다	지르+ㄴ다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_21_3_08
+# text =  두번째 이유는 협둥이 더 큰 결과를 얻을 수 있다고 생각하기 때문이다.
+1	두번째	두+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	11	nsubj	_	_
+3	협둥이	협둥+이	NOUN	NF+JKS	_	7	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	결과를	결과+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	얻을	얻+을	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다고	있+다고	VERB	VX+EC	_	10	ccomp	_	_
+10	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	11	nmod	_	_
+11	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_21_3_09
+# text =  중학교 시절에는 저한테 시험 점수나 등급을 물어보고 모두가 절 경쟁자로 보는 뜻한 느낌이 있었다.
+1	중학교	중학교	NOUN	NNG	_	2	nmod	_	_
+2	시절에는	시절+에+는	ADP	NNG+JKB+JX	_	14	obl	_	_
+3	저한테	저+한테	ADV	NP+JKB	_	7	obl	_	_
+4	시험	시험	NOUN	NNG	_	5	nmod	_	_
+5	점수나	점수+나	NOUN	NNG+JC	_	7	obj	_	_
+6	등급을	등급+을	NOUN	NNG+JKO	_	5	conj	_	_
+7	물어보고	물어보+고	VERB	VV+EC	_	14	advcl	_	_
+8	모두가	모두+가	PRON	NNG+JKS	_	11	nsubj	_	_
+9	절	저+를	NOUN	NP+JKO	_	11	obj	_	_
+10	경쟁자로	경쟁자+로	ADV	NNG+JKB	_	11	obl	_	_
+11	보는	보+는	VERB	VV+ETM	_	13	acl	_	_
+12	뜻한	뜻하+ㄴ	VERB	NV+ETM	_	11	aux	_	_
+13	느낌이	느낌+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있었다	있+었+다	ADJ	VV+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_21_3_10
+# text =  고등학교에 들어가고 나서는 모두가 비슷한 성적을 가기고 있어서 그런지 잘 경쟁을 안하게 되었고 오히려 똑똑한 친구한데 질문도 해보고 방과후에는 친구끼리 남아서 같이 공부도 했다.
+1	고등학교에	고등학교+에	ADV	NNG+JKB	_	2	obl	_	_
+2	들어가고	들어가+고	VERB	VV+EC	_	24	advcl	_	_
+3	나서는	나+서+는	VERB	VX+EC+JX	_	2	aux	_	_
+4	모두가	모두+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	비슷한	비슷+하+ㄴ	ADJ	XR+XSA+ETM	_	6	amod	_	_
+6	성적을	성적+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	가기고	가기+고	VERB	NV+EC	_	9	advcl	_	_
+8	있어서	있+어서	AUX	VX+EC	_	7	aux	_	_
+9	그런지	그렇+ㄴ지	VERB	VA+EC	_	12	advcl	_	_
+10	잘	잘	ADV	MAG	_	12	advmod	_	_
+11	경쟁을	경쟁+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	안하게	안+하+게	ADV	MAG+VV+EC	_	18	advcl	_	_
+13	되었고	되+었+고	VERB	VX+EP+EC	_	12	advcl	_	_
+14	오히려	오히려	ADV	MAG	_	18	advmod	_	_
+15	똑똑한	똑똑+하+ㄴ	ADJ	XR+XSA+ETM	_	16	amod	_	_
+16	친구한데	친구+한데	VERB	NNG+NA	_	18	obl	_	_
+17	질문도	질문+도	NOUN	NNG+JX	_	18	obj	_	_
+18	해보고	하+아+보+고	VERB	VV+EC+VX+EC	_	24	advcl	_	_
+19	방과후에는	방과+후+에+는	ADV	NNG+NNG+JKB+JX	_	21	obl	_	_
+20	친구끼리	친구+끼리	ADV	NNG+XSN	_	21	nsubj	_	_
+21	남아서	남+아서	VERB	VV+EC	_	24	advcl	_	_
+22	같이	같이	ADV	MAG	_	24	advmod	_	_
+23	공부도	공부+도	NOUN	NNG+JX	_	24	obj	_	_
+24	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-JPN_21_3_11
+# text =  결과적으로 입시가 끝나고나서도 사이는 그대로였고 친구의 합격을 진심으로 죽하하고 끝까지 서로를 응원할 수 있었다.
+1	결과적으로	결과+적+으로	ADV	NNG+XSN+JKB	_	14	obl	_	_
+2	입시가	입시+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	끝나고나서도	끝나+고+나+서+도	VERB	VV+EC+VX+EC+JX	_	5	advcl	_	_
+4	사이는	사이+는	NOUN	NNG+JX	_	5	nsubj	_	_
+5	그대로였고	그대로+이+었+고	VERB	NNG+VCP+EP+EC	_	14	advcl	_	_
+6	친구의	친구+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	합격을	합격+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	진심으로	진심+으로	ADV	NNG+JKB	_	9	obl	_	_
+9	죽하하고	죽하+하+고	VERB	NF+XSV+EC	_	14	advcl	_	_
+10	끝까지	끝+까지	ADV	NNG+JX	_	12	obl	_	_
+11	서로를	서로+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	응원할	응원+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있었다	있+었+다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_21_3_12
+# text =  이진구들과는 지금도 연락하고 있고 서로의 앞길을 응원하는 사이다.
+1	이진구들과는	이+진구+들+과+는	ADV	MM+NF+XSN+JKB+JX	_	3	obl	_	_
+2	지금도	지금+도	ADV	NNG+JX	_	3	advmod	_	_
+3	연락하고	연락+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	_
+4	있고	있+고	AUX	VX+EC	_	3	aux	_	_
+5	서로의	서로+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	앞길을	앞+길+을	NOUN	NNG+NNG+JKO	_	7	obj	_	_
+7	응원하는	응원+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	사이다	사이+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_21_3_13
+# text =  즉 협동은 진구들이 갈 길을 진심으로 응원하면서 제 자신도 남 눈치안보고솔직하게 살수있게 만든다.
+1	즉	즉	ADV	MAG	_	13	advmod	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	13	nsubj	_	_
+3	진구들이	진구+들+이	NOUN	NF+XSN+JKS	_	4	nsubj	_	_
+4	갈	가+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	길을	길+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	진심으로	진심+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	응원하면서	응원+하+면서	VERB	NNG+XSV+EC	_	13	advcl	_	_
+8	제	저+의	PRON	NP+JKG	_	9	nmod:poss	_	_
+9	자신도	자신+도	ADV	NNG+JX	_	12	nsubj	_	_
+10	남	남	NOUN	NNG	_	11	nmod	_	_
+11	눈치안보고솔직하게	눈치+안+보+고+솔직+하+게	NOUN	NNG+MAG+VV+EC+XR+XSA+EC	_	12	advcl	_	_
+12	살수있게	살+ㄹ+수+있+게	VERB	VV+ETM+NNB+VX+EC	_	13	advcl	_	_
+13	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_21_3_14
+# text =  이상2까지 이유로 저는 협동을 선호한다.
+1	이상2까지	이상+2+까지	ADV	NNG+SN+JX	_	2	nmod	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	5	obl	_	_
+3	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

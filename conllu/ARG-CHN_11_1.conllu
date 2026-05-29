@@ -1,0 +1,151 @@
+# sent_id = ARG-CHN_11_1_01
+# text = 자연 환견 문재에 인가 계속 많은 관심을 주고 있다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	환견	환견	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	문재에	문재+에	ADV	NF+JKB	Typo=Yes	8	obl	_	_
+4	인가	인가	NOUN	NF	Typo=Yes	8	nsubj	_	_
+5	계속	계속	ADV	MAG	_	8	advmod	_	_
+6	많은	많+은	ADJ	VA+ETM	_	7	amod	_	_
+7	관심을	관심+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	주고	주+고	VERB	VV+EC	_	0	root	_	_
+9	있다	있	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_11_1_02
+# text = 자연은 인간에게 생존의 기존이 뿐만 아니라 인간 문명을 발전시킬 수 있을 원천이다.
+1	자연은	자연+은	NOUN	NNG+JX	_	12	nsubj	_	_
+2	인간에게	인간+에게	ADV	NNG+JKB	_	6	obl	_	_
+3	생존의	생존+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	기존이	기존+이	NOUN	NNG+NA	Typo=Yes	6	acl	_	_
+5	뿐만	뿐+만	NOUN	NNB+JX	_	6	nsubj	_	_
+6	아니라	아니+라	ADJ	VCN+EC	_	12	advcl	_	_
+7	인간	인간	NOUN	NNG	_	8	nmod	_	_
+8	문명을	문명+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	발전시킬	발전+시키+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있을	있+을	VERB	VX+ETM	_	12	acl	_	_
+12	원천이다	원천+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_11_1_03
+# text = 그런 자연 보존과 자연 개발 중 어느 것이 더 중요하는가?
+1	그런	그렇+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	보존과	보존+과	NOUN	NNG+JC	_	10	obl	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	개발	개발	NOUN	NNG	_	3	conj	_	_
+6	중	중	NOUN	NNB	_	5	case	_	_
+7	어느	어느	DET	MM	_	8	det	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	중요하는가	중요+하+는가	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_11_1_04
+# text = 이문제게 대해 대부분 경영자들이 자연 개발이 더 중요하다고 생각할 수 있다.
+1	이문제게	이+문제+게	NOUN	MM+NNG+NA	Typo=Yes	2	obl	_	_
+2	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+3	대부분	대부분	NOUN	NNG	_	4	nmod	_	_
+4	경영자들이	경영자+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+5	자연	자연	NOUN	NNG	_	6	nmod	_	_
+6	개발이	개발+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	9	ccomp	_	_
+9	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_11_1_05
+# text = 인단의 생활이 더 이상 품지적으로 발절하려고 하면 자연에서 별요할 자원을 납득하야 하기 때문이다.
+1	인단의	인단+의	NOUN	NF+JKG	Typo=Yes	2	nmod:poss	_	_
+2	생활이	생활+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	이상	이상	NOUN	NNG	_	6	obl	_	_
+5	품지적으로	품지+적+으로	ADV	NF+XSN+JKB	Typo=Yes	6	obl	_	_
+6	발절하려고	발절+하+려고	VERB	NF+XSV+EC	Typo=Yes	11	advcl	_	_
+7	하면	하	AUX	VX+EC	_	6	aux	_	_
+8	자연에서	자연+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	별요할	별요+하+ㄹ	ADJ	NF+XSA+ETM	Typo=Yes	10	acl	_	_
+10	자원을	자원+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	납득하야	납득+하+야	VERB	NNG+XSV+NA	Typo=Yes	13	nmod	_	_
+12	하기	하	AUX	VX+ETN	_	11	aux	_	_
+13	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_11_1_06
+# text = 이러는 점에서 자연 개발을 중시하는 나라가 많아진다.
+1	이러는	이러+는	VERB	VV+ETM	_	2	acl	_	_
+2	점에서	점+에서	ADV	NNB+JKB	_	7	obl	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발을	개발+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	중시하는	중시+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	나라가	나라+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	많아진다	많+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_11_1_07
+# text = 그러나 자연대발만 주중한다면 생길 수 있는 문제점이 한구가지 아니다.
+1	그러나	그러나	ADV	MAJ	_	9	cc	_	_
+2	자연대발만	자연+대발+만	NOUN	NNG+NF+JX	Typo=Yes	3	obj	_	_
+3	주중한다면	주중+하+ㄴ다면	VERB	NF+XSV+EC	Typo=Yes	4	advcl	_	_
+4	생길	생기+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	문제점이	문제점+이	NOUN	NNG+JKS	_	9	dislocated	_	_
+8	한구가지	한+구+가지	NOUN	MM+NA+NNB	Typo=Yes	9	nsubj	_	_
+9	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_11_1_08
+# text = 예를 들면, 환견 악화하고 귀소한 자원이 주꾸리 줄어지는 것이 인간 생활에게 재난이라는 말할 수 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	환견	환견	NOUN	NF	Typo=Yes	5	nmod	_	_
+5	악화하고	악화+하+고	VERB	NNG+XSV+EC	_	13	nsubj	_	_
+6	귀소한	귀소+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	7	amod	_	_
+7	자원이	자원+이	NOUN	NNG+JKS	_	5	conj	_	_
+8	주꾸리	주꾸리	ADV	NA	Typo=Yes	9	advmod	_	_
+9	줄어지는	줄+어지+는	VERB	VV+XSV+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	5	conj	_	_
+11	인간	인간	NOUN	NNG	_	12	nmod	_	_
+12	생활에게	생활+에게	ADV	NNG+JKB	_	13	obl	_	_
+13	재난이라는	재난+이+라는	ADJ	NNG+VCP+ETM	_	14	acl	_	_
+14	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_11_1_09
+# text = 그러모러 제가 자연 보존이 더 중요하다고 생각한다.
+1	그러모러	그러모러	ADV	NA	Typo=Yes	7	cc	_	_
+2	제가	제+가	PRON	NP+JKS	_	7	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존이	보존+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_11_1_10
+# text = 자연에 의존해서 우리 인간 살아수 있고 문화를 계속적으로 발달하기 때문에 자연 보존을 중요하지 않면 생각할 못한 재난이 많아질것이다.
+1	자연에	자연+에	ADV	NNG+JKB	_	2	obl	_	_
+2	의존해서	의존+하+아서	VERB	NNG+XSV+EC	_	9	advcl	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	인간	인간	NOUN	NNG	_	5	nsubj	_	_
+5	살아수	살+아+수	VERB	VV+EC+NNB	_	6	nsubj	_	_
+6	있고	있	AUX	VX+EC	_	18	advcl	_	_
+7	문화를	문화+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	계속적으로	계속+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+9	발달하기	발달+하+기	VERB	NNG+XSV+ETN	_	13	obl	_	_
+10	때문에	때문+에	ADV	NNB+JKB	_	9	case	_	_
+11	자연	자연	NOUN	NNG	_	12	nmod	_	_
+12	보존을	보존+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	중요하지	중요+하+지	ADJ	NNG+XSA+EC	_	18	advcl	_	_
+14	않면	않	AUX	VX+EC	_	13	aux	_	_
+15	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+16	못한	못하+ㄴ	VERB	VX+ETM	_	15	advcl	_	_
+17	재난이	재난+이	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	많아질것이다	많+아지+ㄹ+것+이+다	ADJ	VA+XSV+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

@@ -1,0 +1,226 @@
+# sent_id = ARG-ENG_08_3_04_1
+# text = 내가 협동을 선호하는 이유는 어떤 문제가 해결하기 위해서 한 사람 혼자서 일 하는 것보다 많은 사람들이 같이 일 하는 것을 더 효과적이라고 생각한다.
+1	내가	내+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	이유는	이유+는	NOUN	NNG+JX	_	23	obl	_	_
+5	어떤	어떤	DET	MM	_	6	det	_	_
+6	문제가	문제+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	해결하기	해결+하+기	VERB	NNG+XSV+ETN	_	8	obj	_	_
+8	위해서	위하+아서	VERB	VV+EC	_	22	advcl	_	_
+9	한	한	NUM	MM	_	10	nummod	_	_
+10	사람	사람	NOUN	NNG	_	13	nsubj	_	_
+11	혼자서	혼자서	ADV	MAG	_	13	advmod	_	_
+12	일	일	NOUN	NNG	_	13	obj	_	_
+13	하는	하+는	VERB	VV+ETM	_	14	acl	_	_
+14	것보다	것+보다	ADV	NNB+JKB	_	19	obl	_	_
+15	많은	많+은	ADJ	VA+ETM	_	16	amod	_	_
+16	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	19	nsubj	_	_
+17	같이	같이	ADV	MAG	_	19	advmod	_	_
+18	일	일	NOUN	NNG	_	19	obj	_	_
+19	하는	하+는	VERB	VV+ETM	_	22	acl	_	_
+20	것을	것+을	NOUN	NNB+JKO	_	22	obj	_	_
+21	더	더	ADV	MAG	_	22	advmod	_	_
+22	효과적이라고	효과+적+이+라고	ADJ	NNG+XSN+VCP+EC	_	23	ccomp	_	_
+23	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_08_3_02_1
+# text = 좋은 대학교에 입학하기 위해서 학생들이 어릴 때부터 열심히 공부하고 항상 미래만 생각하다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	대학교에	대학교+에	ADV	NNG+JKB	_	3	obl	_	_
+3	입학하기	입학+하+기	VERB	NNG+XSV+ETN	_	4	obj	_	_
+4	위해서	위하+아서	VERB	VV+EC	_	9	advcl	_	_
+5	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+6	어릴	어리+ㄹ	ADJ	VA+ETM	_	9	advcl	_	_
+7	때부터	때+부터	ADV	NNG+JX	_	6	mark	_	_
+8	열심히	열심히	ADV	MAG	_	9	advmod	_	_
+9	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+10	항상	항상	ADV	MAG	_	12	advmod	_	_
+11	미래만	미래+만	NOUN	NNG+JX	_	12	obj	_	_
+12	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_08_3_01_1
+# text = 협동과 경쟁 중 협동을 더 선호합니다.
+1	협동과	협동+과	NOUN	NNG+JC	_	6	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중	중	NOUN	NNB	_	2	case	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_08_3_06_1
+# text = 그리고 혼자 일 하는 것보다 협동을 하면 일의 부담도 나눌 수 있다.
+1	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+2	혼자	혼자	ADV	MAG	_	4	advmod	_	_
+3	일	일	NOUN	NNG	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	것보다	것+보다	ADV	NNB+JKB	_	7	obl	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하면	하+면	VERB	VV+EC	_	12	advcl	_	_
+8	일의	일+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	부담도	부담+도	NOUN	NNG+JX	_	10	obj	_	_
+10	나눌	나+눌	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_08_3_07_1
+# text = 그 경쟁한 상황에서 제일 맞은 기획을 나우씁니다.
+1	그	그	DET	MM	_	3	det	_	_
+2	경쟁한	경쟁+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	상황에서	상황+에서	ADV	NNG+JKB	_	7	obl	_	_
+4	제일	제일	ADV	MAG	_	5	advmod	_	_
+5	맞은	맞+은	VERB	VV+ETM	_	6	acl	_	_
+6	기획을	기획+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	나우씁니다	나우+씁니다	VERB	NF+NA	Typo=Yes	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_08_3_03_1
+# text = 경쟁을 하는 사람들만 있을 때 게와 고양이처럼 사우고 타협을 못 만들었습니다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하는	하+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람들만	사람+들+만	NOUN	NNG+XSN+JX	_	4	nsubj	_	_
+4	있을	있+을	VERB	VV+ETM	_	8	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	게와	게+와	NOUN	NNG+JC	_	8	obl	_	_
+7	고양이처럼	고양이+처럼	ADV	NNG+JKB	_	6	conj	_	_
+8	사우고	사우+고	VERB	NV+EC	Typo=Yes	0	root	_	_
+9	타협을	타협+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	못	못	ADV	MAG	_	11	advmod	_	_
+11	만들었습니다	만들+었+습니다	VERB	VV+EP+EF	_	8	conj	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_08_3_08_1
+# text = 그레도 계속 경쟁 한 푼이기가 있으면 좋은 결과를 못 잡을습니다.
+1	그레도	그레도	ADV	NA	Typo=Yes	10	cc	_	_
+2	계속	계속	ADV	MAG	_	6	advmod	_	_
+3	경쟁	경쟁	NOUN	NNG	_	4	obj	_	_
+4	한	하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	푼이기가	푼이기+가	NOUN	NF+JKS	Typo=Yes	6	nsubj	_	_
+6	있으면	있+으면	VERB	VV+EC	_	10	advcl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	결과를	결과+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	못	못	ADV	MAG	_	10	advmod	_	_
+10	잡을습니다	잡+을+습니다	VERB	VV+NA+EF	Typo=Yes	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_08_3_05_1
+# text = 이 새로운 프러젝트 기획서를 만들 때는 경쟁을 더 좋습니다.
+1	이	이	DET	MM	_	3	det	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	프러젝트	프러젝트	NOUN	NF	Typo=Yes	4	nmod	_	_
+4	기획서를	기획서+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	만들	만들+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+6	때는	때+는	ADV	NNG+JX	_	5	mark	_	_
+7	경쟁을	경쟁+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_08_3_01
+# text = 세계적으로 현재 사회가 아주 경쟁적이다.
+1	세계적으로	세계+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+2	현재	현재	NOUN	NNG	_	3	nmod	_	_
+3	사회가	사회+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	경쟁적이다	경쟁+적+이+다	ADJ	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_08_3_02
+# text = 그 의견의 이유는 협동하는 활동을 있을 때 더 어렵고 복잡한 문제를 풀었습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	의견의	의견+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	이유는	이유+는	NOUN	NNG+JX	_	12	obl	_	_
+4	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	활동을	활동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	있을	있+을	VERB	VV+ETM	_	12	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	어렵고	어렵+고	ADJ	VA+EC	_	11	amod	_	_
+10	복잡한	복잡+하+ㄴ	ADJ	XR+XSA+ETM	_	9	conj	_	_
+11	문제를	문제+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	풀었습니다	풀+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_08_3_03
+# text = 어떤 사람들은 경쟁이 더 좋은 세상이 만들다고 하지만 개인적으로 나는 협동을 선호하다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	dislocated	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	세상이	세상+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	만들다고	만들+다고	VERB	VV+EC	_	8	ccomp	_	_
+8	하지만	하	AUX	VX+EC	_	12	advcl	_	_
+9	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	12	obl	_	_
+10	나는	나+는	PRON	NP+JX	_	12	nsubj	_	_
+11	협동을	협동+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	선호하다	선호+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_08_3_04
+# text = 예를들면 한 희사에 새로 프로젝트가 시작할 것입니다.
+1	예를들면	예+를+들+면	VERB	NNG+JKO+VV+EC	_	7	advcl	_	_
+2	한	한	DET	MM	_	3	det	_	_
+3	희사에	희사+에	ADV	NNG+JKB	_	6	obl	_	_
+4	새로	새로	ADV	MAG	_	6	advmod	_	_
+5	프로젝트가	프로젝트+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_08_3_05
+# text = 많은 사람들이 일을 같이 하면 그 사람들의 다양한 실력과 입장과 경험이 사용할 수 있다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	일을	일+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	같이	같이	ADV	MAG	_	5	advmod	_	_
+5	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+6	그	그	DET	MM	_	7	det	_	_
+7	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	9	nmod:poss	_	_
+8	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	실력과	실력+과	NOUN	NNG+JC	_	12	nsubj	_	_
+10	입장과	입장+과	NOUN	NNG+JC	_	9	conj	_	_
+11	경험이	경험+이	NOUN	NNG+JKS	_	9	conj	_	_
+12	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_08_3_06
+# text = 그 상황에 다양한 기획을 볼 수 있습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	상황에	상황+에	ADV	NNG+JKB	_	7	obl	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	기획을	기획+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	볼	보+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_08_3_07
+# text = 마지막으로 대인관계를 잘 유지하기 위해서 사람들과 협동하는 것을 아주 중요한다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	10	obl	_	_
+2	대인관계를	대인+관계+를	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	유지하기	유지+하+기	VERB	NNG+XSV+ETN	_	5	obj	_	_
+5	위해서	위하+아서	VERB	VV+EC	_	10	advcl	_	_
+6	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+9	아주	아주	ADV	MAG	_	10	advmod	_	_
+10	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_08_3_08
+# text = 이런한 이유로 내가 경쟁보다 협동을 선호하다.
+1	이런한	이런하+ㄴ	VERB	NV+ETM	Typo=Yes	2	amod	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	6	obl	_	_
+3	내가	내+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호하다	선호+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

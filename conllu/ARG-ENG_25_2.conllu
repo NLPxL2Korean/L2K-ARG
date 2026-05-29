@@ -1,0 +1,103 @@
+# sent_id = ARG-ENG_25_2_01
+# text = 역사를 이해할수 있는 것이 매우 매우 중요하다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	이해할수	이해+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	3	nsubj	_	_
+3	있는	있	AUX	VX+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+5	매우	매우	ADV	MAG	_	7	advmod	_	_
+6	매우	매우	ADV	MAG	_	7	advmod	_	_
+7	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_25_2_02
+# text = 영어로는 속담이 있다.
+1	영어로는	영어+로+는	ADV	NNG+JKB+JX	_	3	obl	_	_
+2	속담이	속담+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_25_2_03
+# text = 역사를 모르는 사람은 역사를 반복할 것이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	모르는	모르+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	반복할	반복+하+ㄹ	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_25_2_04
+# text = 역사에 대해 배우면 옛날과 똑같은 실수를 무시할수 있다.
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해	대하+아	VERB	VV+EC	_	3	advcl	_	_
+3	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+4	옛날과	옛날+과	ADV	NNG+JKB	_	5	obl	_	_
+5	똑같은	똑같+은	ADJ	VA+ETM	_	6	acl	_	_
+6	실수를	실수+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	무시할수	무시+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	8	nsubj	_	_
+8	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_25_2_05
+# text = 예를 보면 1916년에 심각한 프루 병 있었다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	보면	보+면	VERB	VV+EC	_	7	advcl	_	_
+3	1916년에	1916+년+에	ADV	SN+NNB+JKB	_	7	obl	_	_
+4	심각한	심각+하+ㄴ	ADJ	XR+XSA+ETM	_	5	amod	_	_
+5	프루	프루	NOUN	NF	Typo=Yes	6	nmod	_	_
+6	병	병	NOUN	NNG	_	7	nsubj	_	_
+7	있었다	있+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_25_2_06
+# text = 코로나바이러스 시작 때 1916 프루에서 배울 수 있어서 어떤 나쁜 것을 무시할 수 있었다.
+1	코로나바이러스	코로나+바이러스	NOUN	NNP+NNG	_	2	nmod	_	_
+2	시작	시작	NOUN	NNG	_	6	obl	_	_
+3	때	때	NOUN	NNG	_	2	case	_	_
+4	1916	1916	NUM	SN	_	6	obl	_	_
+5	프루에서	프루+에서	ADV	NF+JKB	Typo=Yes	6	obl	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VX+EC	_	14	advcl	_	_
+9	어떤	어떤	DET	MM	_	11	det	_	_
+10	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	것을	것+을	NOUN	NNB+JKO	_	12	obj	_	_
+12	무시할	무시+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있었다	있+었+다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-ENG_25_2_07
+# text = 인간의 역사가 아주 길어서 확실히 아무 상황은 다른 사람 아니면 사회가 이미했다.
+1	인간의	인간+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	길어서	길+어서	ADJ	VA+EC	_	12	advcl	_	_
+5	확실히	확실히	ADV	MAG	_	12	advmod	_	_
+6	아무	아무	DET	MM	_	7	det	_	_
+7	상황은	상황+은	NOUN	NNG+JX	_	12	dislocated	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+9	사람	사람	NOUN	NNG	_	10	nsubj	_	_
+10	아니면	아니+면	ADJ	VCN+EC	_	12	advcl	_	_
+11	사회가	사회+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	이미했다	이미+하+았+다	ADJ	MM+VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_25_2_08
+# text = 그래서 역사를 인정하고 공부하면 인간의 모든 알고 있는, 알고 있었던 것도 이해할 수 있다.
+1	그래서	그래서	ADV	MAJ	_	15	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	인정하고	인정+하+고	VERB	NNG+XSV+EC	_	15	advcl	_	_
+4	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	3	conj	_	_
+5	인간의	인간+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+6	모든	모든	DET	MM	_	12	det	_	_
+7	알고	알+고	VERB	VV+EC	_	12	acl	_	_
+8	있는	있	AUX	VX+ETM	_	7	aux	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	알고	알+고	VERB	VV+EC	_	7	list	_	_
+11	있었던	있	AUX	VX+EP+ETM	_	10	aux	_	_
+12	것도	것+도	NOUN	NNB+JX	_	13	obj	_	_
+13	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

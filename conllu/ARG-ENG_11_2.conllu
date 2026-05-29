@@ -1,0 +1,284 @@
+# sent_id = ARG-ENG_11_2_04_1
+# text = 역사를 배우면서 조상님 어떤 실수 했는지 잘 하는지 이런 지식을 배웁니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면서	배우+면서	VERB	VV+EC	_	11	advcl	_	_
+3	조상님	조상+님	NOUN	NNG+XSN	_	8	nsubj	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	실수	실수	NOUN	NNG	_	6	obj	_	_
+6	했는지	하+았+는지	VERB	VV+EP+EC	_	11	ccomp	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	하는지	하+는지	VERB	VV+EC	_	6	conj	_	_
+9	이런	이런	DET	MM	_	10	det	_	_
+10	지식을	지식+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	배웁니다	배우+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_11_2_05_1
+# text = 예르들어 싱가포르 역사를 55년 밖에 없지만 배우는 것을 많다.
+1	예르들어	예+르+들+어	NOUN	NNG+NA+VV+EC	Typo=Yes	9	advcl	_	_
+2	싱가포르	싱가포르	NOUN	NNP	_	3	nmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	55년	55+년	NOUN	SN+NNB	_	6	obl	_	_
+5	밖에	밖에	ADP	JX	_	4	case	_	_
+6	없지만	없+지만	ADJ	VA+EC	_	9	advcl	_	_
+7	배우는	배우+는	VERB	VV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	9	obj	_	_
+9	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_11_2_01_1
+# text = 우리는 역시를 배워야 합니까?
+1	우리는	우리+는	PRON	NP+JX	_	3	nsubj	_	_
+2	역시를	역시+를	NOUN	NF+JKO	Typo=Yes	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	합니까	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	?	?	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_11_2_06_1
+# text = 저희는 작은 땅이고 예전에는 영국이민지 였어요.
+1	저희는	저희+는	PRON	NP+JX	_	3	nsubj	_	_
+2	작은	작+은	ADJ	VA+ETM	_	3	amod	_	_
+3	땅이고	땅+이+고	ADJ	NNG+VCP+EC	_	0	root	_	_
+4	예전에는	예전+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+5	영국이민지	영국+이민지+이+었+어요	VERB	NNP+NNG+VCP+EP+EF	Typo=Yes	3	conj	_	_
+6	였어요	_	X	_	_	5	goeswith	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_11_2_07_1
+# text = 그런데 세계 2차전쟁 였을때 일본군인 침략을 해서 영국 군인 그냥포기했습니다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	세계	세계	NOUN	NNG	_	3	nmod	_	_
+3	2차전쟁	2+차+전쟁	NOUN	SN+NNB+NNG	_	4	nsubj	_	_
+4	였을때	이+었+을+때	NOUN	VCP+EP+ETM+NNG	_	10	advcl	_	_
+5	일본군인	일본+군인	NOUN	NNP+NNG	_	7	nsubj	_	_
+6	침략을	침략+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	해서	하+아서	VERB	VV+EC	_	10	advcl	_	_
+8	영국	영국	NOUN	NNP	_	9	nmod	_	_
+9	군인	군인	NOUN	NNG	_	10	nsubj	_	_
+10	그냥포기했습니다	그냥+포기+하+았+습니다	VERB	MAG+NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_11_2_03_1
+# text = 코러나 바이러스가 우리한테 병원 더 좋아져야 된다.
+1	코러나	코러나	NOUN	NF	Typo=Yes	2	nmod	_	_
+2	바이러스가	바이러스+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+3	우리한테	우리+한테	ADV	NNG+JKB	_	6	obl	_	_
+4	병원	병원	NOUN	NNG	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋아져야	좋+아지+어야	VERB	VA+XSV+EC	_	0	root	_	_
+7	된다	되+ㄴ다	VERB	VX+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_11_2_10_1
+# text = 만 18세 남성분 무의적으로 군대가야 하는 정체 만들었습니다.
+1	만	만	NOUN	NNG	_	2	nmod	_	_
+2	18세	18+세	NOUN	SN+NNB	_	3	nmod	_	_
+3	남성분	남성+분	NOUN	NNG	_	8	nsubj	_	_
+4	무의적으로	무의+적+으로	ADV	NF+XSN+JKB	Typo=Yes	5	obl	_	_
+5	군대가야	군대+가+야	VERB	NNG+VV+EC	_	7	acl	_	_
+6	하는	하	AUX	VX+ETM	_	5	aux	_	_
+7	정체	정체	NOUN	NF	Typo=Yes	8	obj	_	_
+8	만들었습니다	만들+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_11_2_09_1
+# text = 그래서 저희는 1965년 8월 6일 나라독립 할 때 싱가포르 첫 충리 Lee Kuan Yew는 자기나라 자기 지켜야한다는 말씀 하셨습니다.
+1	그래서	그래서	ADV	MAJ	_	19	cc	_	_
+2	저희는	저희+는	PRON	NP+JX	_	7	nsubj	_	_
+3	1965년	1965+년	NOUN	SN+NNB	_	7	obl	_	_
+4	8월	8+월	NOUN	SN+NNB	_	3	flat	_	_
+5	6일	6+일	NOUN	SN+NNB	_	3	flat	_	_
+6	나라독립	나라+독립	NOUN	NNG+NNG	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	19	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	싱가포르	싱가포르	NOUN	NNP	_	11	nmod	_	_
+10	첫	첫	NUM	MM	_	11	nummod	_	_
+11	충리	충리	NOUN	NF	Typo=Yes	19	nsubj	_	_
+12	Lee	Lee	NOUN	SL	_	17	dislocated	_	_
+13	Kuan	Kuan	NOUN	SL	_	12	flat	_	_
+14	Yew는	Yew+는	NOUN	SL+JX	_	12	flat	_	_
+15	자기나라	자기+나라	NOUN	NNG+NNG	_	17	obj	_	_
+16	자기	자기	NOUN	NNG	_	17	nsubj	_	_
+17	지켜야한다는	지키+어야+하+ㄴ다는	VERB	VV+EC+VX+ETM	_	18	acl	_	_
+18	말씀	말씀	NOUN	NNG	_	19	obj	_	_
+19	하셨습니다	하+시+었+습니다	VERB	VV+EP+EP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_11_2_01
+# text = 나는 역사를 중공해서 물런 역사 배우는 것이 아주 중요하다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	10	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	중공해서	중공+하+아서	ADJ	NF+XSA+EC	Typo=Yes	9	advcl	_	_
+4	물런	물런	ADV	NF	Typo=Yes	9	advmod	_	_
+5	역사	역사	NOUN	NNG	_	6	obj	_	_
+6	배우는	배우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+8	아주	아주	ADV	MAG	_	9	advmod	_	_
+9	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_11_2_02
+# text = 저 개인적으로 배워야 한다고 생각을 합나다.
+1	저	저	PRON	NP	_	6	nsubj	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+4	한다고	하	AUX	VX+EC	_	3	aux	_	_
+5	생각을	생각+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	합나다	하나+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_11_2_03
+# text = 지금 전세계 역사 반복하지 않아서 발달 잘 된다는게 인정합니다.
+1	지금	지금	ADV	MAG	_	4	advmod	_	_
+2	전세계	전+세계	NOUN	MM+NNG	_	3	nmod	_	_
+3	역사	역사	NOUN	NNG	_	4	obj	_	_
+4	반복하지	반복+하+지	VERB	NNG+XSV+EC	_	9	advcl	_	_
+5	않아서	않	AUX	VX+EC	_	4	aux	_	_
+6	발달	발달	NOUN	NNG	_	8	nsubj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	된다는게	되+ㄴ다는+것+이	VERB	VV+ETM+NNB+JKS	_	9	nsubj	_	_
+9	인정합니다	인정+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_11_2_04
+# text = 그래서 역사를 안 배우면 사람들이 코러나 바이레스를 이저버릴 것이다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	안	안	ADV	MAG	_	4	advmod	_	_
+4	배우면	배우+면	VERB	VV+EC	_	9	advcl	_	_
+5	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+6	코러나	코러나	NOUN	NF	Typo=Yes	7	nmod	_	_
+7	바이레스를	바이레스+를	NOUN	NF+JKO	Typo=Yes	8	obj	_	_
+8	이저버릴	이저+버리+ㄹ	VERB	NA+VX+ETM	Typo=Yes	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_11_2_05
+# text = 그 다음에 같은 바이레스 오고 병원 또 좋지 않고 사람들이 죽을 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	다음에	다음+에	ADV	NNG+JKB	_	5	obl	_	_
+3	같은	같+은	ADJ	VA+ETM	_	4	amod	_	_
+4	바이레스	바이레스	NOUN	NF	Typo=Yes	5	nsubj	_	_
+5	오고	오+고	VERB	VV+EC	_	8	advcl	_	_
+6	병원	병원	NOUN	NNG	_	8	nsubj	_	_
+7	또	또	ADV	MAG	_	8	advmod	_	_
+8	좋지	좋+지	ADJ	VA+EC	_	12	advcl	_	_
+9	않고	않	AUX	VX+EC	_	8	aux	_	_
+10	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+11	죽을	죽+을	VERB	VV+ETM	_	12	acl	_	_
+12	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_11_2_06
+# text = 그런데 어떤 사람들이 역사가 지루다고 말한다.
+1	그런데	그런데	ADV	MAJ	_	6	cc	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+4	역사가	역사+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	지루다고	지루+다고	VERB	XR+EC	_	6	ccomp	_	_
+6	말한다	말+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_11_2_07
+# text = 왜 역사를 배우야 되냐고 말한다.
+1	왜	왜	ADV	MAG	_	3	advmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우야	배우+야	VERB	VV+NA	Typo=Yes	5	ccomp	_	_
+4	되냐고	되+냐고	VERB	VX+EC	_	3	advcl	_	_
+5	말한다	말+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_11_2_08
+# text = 싱가포르 지키지 않았습니다.
+1	싱가포르	싱가포르	NOUN	NNP	_	2	obj	_	_
+2	지키지	지키+지	VERB	VV+EC	_	0	root	_	_
+3	않았습니다	않	AUX	VX+EP+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_11_2_09
+# text = 왜냐하면 이 세상에서 다 역사에 왔다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	6	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	세상에서	세상+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	다	다	ADV	MAG	_	6	advmod	_	_
+5	역사에	역사+에	ADV	NNG+JKB	_	6	obl	_	_
+6	왔다	오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_11_2_10
+# text = 외국어하고 나라하고 문화가 다 역사에 왔다.
+1	외국어하고	외국어+하고	NOUN	NNG+JC	_	6	nsubj	_	_
+2	나라하고	나라+하고	NOUN	NNG+JC	_	1	conj	_	_
+3	문화가	문화+가	NOUN	NNG+JKS	_	1	conj	_	_
+4	다	다	ADV	MAG	_	6	advmod	_	_
+5	역사에	역사+에	ADV	NNG+JKB	_	6	obl	_	_
+6	왔다	오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_11_2_11
+# text = 저희는 역시 배우면서 우리의 땅 지키는 것이 알게됐다.
+1	저희는	저희+는	PRON	NP+JX	_	8	dislocated	_	_
+2	역시	역시	NOUN	NNG	_	3	obj	_	_
+3	배우면서	배우+면서	VERB	VV+EC	_	8	advcl	_	_
+4	우리의	우리+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	땅	땅	NOUN	NNG	_	6	obj	_	_
+6	지키는	지키+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	알게됐다	알+게+되+었+다	VERB	VV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_11_2_12
+# text = 끔찍하지만 만약 이런 역사 없다면 아마 싱가포르 없을 수 도 있습니다.
+1	끔찍하지만	끔찍+하+지만	ADJ	XR+XSA+EC	_	5	advcl	_	_
+2	만약	만약	ADV	MAG	_	5	advmod	_	_
+3	이런	이런	DET	MM	_	4	det	_	_
+4	역사	역사	NOUN	NNG	_	5	nsubj	_	_
+5	없다면	없+다면	ADJ	VA+EC	_	11	advcl	_	_
+6	아마	아마	ADV	MAG	_	11	advmod	_	_
+7	싱가포르	싱가포르	NOUN	NNP	_	8	nsubj	_	_
+8	없을	없+을	ADJ	VA+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	11	nsubj	_	_
+10	도	도	ADP	JX	_	9	case	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_11_2_21
+# text = 그래서 이 세상 이해하고 싶으면 역사를 배워야 된다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	세상	세상	NOUN	NNG	_	4	obj	_	_
+4	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+5	싶으면	싶	AUX	VX+EC	_	4	aux	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	된다	되+ㄴ다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_11_2_22
+# text = 역사에서 계석 같은 경험이 돼서 이 경험을 배워야 돼서 아이들한테 같은 경험이 안된다.
+1	역사에서	역사+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	계석	계석	ADV	NF	Typo=Yes	5	advmod	_	_
+3	같은	같+은	ADJ	VA+ETM	_	4	amod	_	_
+4	경험이	경험+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	돼서	되+어서	VERB	VV+EC	_	8	advcl	_	_
+6	이	이	DET	MM	_	7	det	_	_
+7	경험을	경험+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	배워야	배우+어야	VERB	VV+EC	_	13	advcl	_	_
+9	돼서	되+어서	VERB	VX+EC	_	8	advcl	_	_
+10	아이들한테	아이+들+한테	ADV	NNG+XSN+JKB	_	13	obl	_	_
+11	같은	같+은	ADJ	VA+ETM	_	12	amod	_	_
+12	경험이	경험+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	안된다	안되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_11_2_28
+# text = 역사가 지루면, 재미있으면 배워야 된다고 생각한다.
+1	역사가	역사+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	지루면	지루+면	VERB	XR+EC	_	5	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	재미있으면	재미+있+으면	ADJ	NNG+VA+EC	_	5	advcl	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	7	ccomp	_	_
+6	된다고	되+ㄴ다고	VERB	VX+EC	_	5	advcl	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

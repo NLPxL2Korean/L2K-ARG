@@ -1,0 +1,68 @@
+# sent_id = ARG-CZH_27_2_01
+# text = 저는 역사를 배우는 것이 중요하다고 셍각합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우는	배우+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	셍각합니다	셍각+하+ㅂ니다	VERB	NF+XSV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_27_2_02
+# text = 왜냐하면 우리는 전에 일어났던 일들에 대해 일아야 하기 때문입니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+3	전에	전+에	ADV	NNG+JKB	_	4	obl	_	_
+4	일어났던	일어나+았+던	VERB	VV+EP+ETM	_	5	acl	_	_
+5	일들에	일+들+에	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+7	일아야	일+아야	VERB	NV+EC	Typo=Yes	9	nmod	_	_
+8	하기	하	AUX	VX+ETN	_	7	aux	_	_
+9	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_27_2_03
+# text = 많은 사람들이 지루하다고 느낄지도 모르지만 모든 사람들은 기본적인 정보를 배워야 합니다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	지루하다고	지루+하+다고	ADJ	XR+XSA+EC	_	4	ccomp	_	_
+4	느낄지도	느끼+ㄹ지+도	VERB	VV+EC+JX	_	5	ccomp	_	_
+5	모르지만	모르+지만	VERB	VV+EC	_	10	advcl	_	_
+6	모든	모든	DET	MM	_	7	det	_	_
+7	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	10	nsubj	_	_
+8	기본적인	기본+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	amod	_	_
+9	정보를	정보+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+11	합니다	하	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_27_2_04
+# text = 특히 당신 나라의 역사를 잘 알고 있습니다.
+1	특히	특히	ADV	MAG	_	6	advmod	_	_
+2	당신	당신	NOUN	NNG	_	3	nmod	_	_
+3	나라의	나라+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	알고	알+고	VERB	VV+EC	_	0	root	_	_
+7	있습니다	있	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_27_2_05
+# text = 그러나 모든 사람이 역사를 좋아하지 않습니다.
+1	그러나	그러나	ADV	MAJ	_	5	cc	_	_
+2	모든	모든	DET	MM	_	3	det	_	_
+3	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	좋아하지	좋아하+지	VERB	VV+EC	_	0	root	_	_
+6	않습니다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_27_2_06
+# text = 일부 역사는 배우는데 불필요할 수 있습니다.
+1	일부	일부	NOUN	NNG	_	2	nmod	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	배우는데	배우+는+데	NOUN	VV+ETM+NNB	_	4	obl	_	_
+4	불필요할	불+필요+하+ㄹ	ADJ	XPN+NNG+XSA+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

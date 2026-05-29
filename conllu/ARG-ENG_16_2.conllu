@@ -1,0 +1,130 @@
+# sent_id = ARG-ENG_16_2_01
+# text = 역사를 배우지 않는다면 우리 현재와 미래를 어떻게 이해할 수 있을까?
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우지	배우+지	VERB	VV+EC	_	10	advcl	_	_
+3	않는다면	않	AUX	VX+EC	_	2	aux	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	현재와	현재+와	NOUN	NNG+JC	_	8	obj	_	_
+6	미래를	미래+를	NOUN	NNG+JKO	_	5	conj	_	_
+7	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+8	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있을까	있+을까	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	?	?	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_16_2_02
+# text = 역사를 배우고 분석함을 통해 현재의 현황을 더 깊게 이해할 수 있으며 미래는 어떻게 나올 건지의 예측을 할 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	배우고	배우+고	VERB	VV+EC	_	3	advcl	_	_
+3	분석함을	분석+하+ㅁ+을	VERB	NNG+XSV+ETN+JKO	_	4	obj	_	_
+4	통해	통하+아	VERB	VV+EC	_	11	advcl	_	_
+5	현재의	현재+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	현황을	현황+을	NOUN	NNG+JKO	_	9	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	깊게	깊+게	ADV	VA+EC	_	9	advmod	_	_
+9	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있으며	있+으며	VERB	VX+EC	_	19	advcl	_	_
+12	미래는	미래+는	NOUN	NNG+JX	_	14	nsubj	_	_
+13	어떻게	어떻+게	ADV	VA+EC	_	14	advmod	_	_
+14	나올	나오+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+15	건지의	거+이+ㄴ지+의	NOUN	NNB+VCP+EC+JKG	_	16	nmod:poss	_	_
+16	예측을	예측+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	할	하+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_16_2_03
+# text = 예를 들면, 나는 한국학 학생인데 한국 성소수자 현황을 깊게 이해하고 싶다면 한국의 동성애에 관련된 역사를 분석해야 되고 옛날보터 현재까지 동성애에 대한 다양한 의견과 담론이 어떻게 변화되는지도 분석해야 된다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	28	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	나는	나+는	PRON	NP+JX	_	28	nsubj	_	_
+5	한국학	한국+학	NOUN	NNG+XSN	_	6	nmod	_	_
+6	학생인데	학생+이+ㄴ데	ADJ	NNG+VCP+EC	_	28	advcl	_	_
+7	한국	한국	NOUN	NNP	_	8	nmod	_	_
+8	성소수자	성+소수자	NOUN	NNG+NNG	_	9	nmod	_	_
+9	현황을	현황+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	깊게	깊+게	ADV	VA+EC	_	11	advmod	_	_
+11	이해하고	이해+하+고	VERB	NNG+XSV+EC	_	28	advcl	_	_
+12	싶다면	싶	AUX	VX+EC	_	11	aux	_	_
+13	한국의	한국+의	NOUN	NNP+JKG	_	14	nmod:poss	_	_
+14	동성애에	동성애+에	ADV	NNG+JKB	_	15	obl	_	_
+15	관련된	관련+되+ㄴ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	역사를	역사+를	NOUN	NNG+JKO	_	17	obj	_	_
+17	분석해야	분석+하+아야	VERB	NNG+XSV+EC	_	28	advcl	_	_
+18	되고	되+고	VERB	VX+EC	_	17	advcl	_	_
+19	옛날보터	옛날+보터	NOUN	NNG+NA	Typo=Yes	27	obl	_	_
+20	현재까지	현재+까지	NOUN	NNG+JX	_	27	obl	_	_
+21	동성애에	동성애+에	ADV	NNG+JKB	_	22	obl	_	_
+22	대한	대하+ㄴ	VERB	VV+ETM	_	24	acl	_	_
+23	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	24	amod	_	_
+24	의견과	의견+과	NOUN	NNG+JC	_	27	nsubj	_	_
+25	담론이	담론+이	NOUN	NF+JKS	Typo=Yes	24	conj	_	_
+26	어떻게	어떻+게	ADV	VA+EC	_	27	advmod	_	_
+27	변화되는지도	변화+되+는지+도	VERB	NNG+XSV+EC+JX	_	28	ccomp	_	_
+28	분석해야	분석+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+29	된다	되+ㄴ다	VERB	VX+EF	_	28	advcl	_	SpaceAfter=No
+30	.	.	PUNCT	SF	_	28	punct	_	_
+
+# sent_id = ARG-ENG_16_2_04
+# text = 그렇게 하지 않다면 올바를 이해를 잡지 못한다고 생각한다.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	하지	하+지	VERB	VV+EC	_	6	advcl	_	_
+3	않다면	않	AUX	VX+EC	_	2	aux	_	_
+4	올바를	올바르+ㄹ	ADJ	VA+NA	Typo=Yes	5	amod	_	_
+5	이해를	이해+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	잡지	잡+지	VERB	VV+EC	_	8	ccomp	_	_
+7	못한다고	못하+ㄴ다고	VERB	VX+EC	_	6	advcl	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_16_2_05
+# text = 또 올바를 이해하는 것음에도 불구하고 미래 현황을 예측할 때도 역사도 분석하지 않다면 환평을 잘 못 예측할 거라고 생각한다.
+1	또	또	ADV	MAJ	_	18	cc	_	_
+2	올바를	올바르+ㄹ	ADV	VA+NA	Typo=Yes	3	advmod	_	_
+3	이해하는	이해+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것음에도	것+으+ㅁ+에+도	ADV	NNG+NA+ETN+JKB+JX	Typo=Yes	5	obl	_	_
+5	불구하고	불구+하+고	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	미래	미래	NOUN	NNG	_	7	nmod	_	_
+7	현황을	현황+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	예측할	예측+하+ㄹ	VERB	NNG+XSV+ETM	_	11	advcl	_	_
+9	때도	때+도	ADV	NNG+JX	_	8	mark	_	_
+10	역사도	역사+도	NOUN	NNG+JX	_	11	obj	_	_
+11	분석하지	분석+하+지	VERB	NNG+XSV+EC	_	17	advcl	_	_
+12	않다면	않	AUX	VX+EC	_	11	aux	_	_
+13	환평을	환평+을	NOUN	NF+JKO	Typo=Yes	16	obj	_	_
+14	잘	잘	ADV	MAG	_	16	advmod	_	_
+15	못	못	ADV	MAG	_	16	advmod	_	_
+16	예측할	예측+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	거라고	거+라고	ADJ	NNB+EC	_	18	ccomp	_	_
+18	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_16_2_06
+# text = 그 미래의 현황을 예측하는 것은 비논리적인 주장이 될 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	미래의	미래+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	현황을	현황+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	예측하는	예측+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	8	dislocated	_	_
+6	비논리적인	비+논리+적+이+ㄴ	ADJ	XPN+NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	주장이	주장+이	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	될	되+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_16_2_07
+# text = 그래서 일반적으로 우리 사회와 세상을 올바르게 이해하도록 역사를 배워야 한다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	일반적으로	일반+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	사회와	사회+와	NOUN	NNG+JC	_	7	obj	_	_
+5	세상을	세상+을	NOUN	NNG+JKO	_	4	conj	_	_
+6	올바르게	올바르+게	ADV	VA+EC	_	7	advmod	_	_
+7	이해하도록	이해+하+도록	VERB	NNG+XSV+EC	_	9	advcl	_	_
+8	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+10	한다	하	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_

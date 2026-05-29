@@ -1,0 +1,171 @@
+# sent_id = ARG-CZH_20_3_01
+# text = 사회 생활 뿐만 아니라 자기 개발도 하면서 사람 사이에 협동과 경쟁을 경험하지 않은 사람이 없다.
+1	사회	사회	NOUN	NNG	_	2	nmod	_	_
+2	생활	생활	NOUN	NNG	_	4	nsubj	_	_
+3	뿐만	뿐+만	ADP	JX+JX	_	2	case	_	_
+4	아니라	아니+라	ADJ	VCN+EC	_	7	advcl	_	_
+5	자기	자기	NOUN	NNG	_	6	nmod	_	_
+6	개발도	개발+도	NOUN	NNG+JX	_	7	obj	_	_
+7	하면서	하+면서	VERB	VV+EC	_	15	advcl	_	_
+8	사람	사람	NOUN	NNG	_	12	obl	_	_
+9	사이에	사이+에	ADV	NNG+JKB	_	8	case	_	_
+10	협동과	협동+과	NOUN	NNG+JC	_	12	obj	_	_
+11	경쟁을	경쟁+을	NOUN	NNG+JKO	_	10	conj	_	_
+12	경험하지	경험+하+지	VERB	NNG+XSV+EC	_	14	acl	_	_
+13	않은	않	AUX	VX+ETM	_	12	aux	_	_
+14	사람이	사람+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_20_3_02
+# text = 그렇지만 그 중에서 무엇이 더 좋은가?
+1	그렇지만	그렇+지만	ADV	VA+EC	_	6	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	중에서	중+에서	ADV	NNB+JKB	_	6	obl	_	_
+4	무엇이	무엇+이	PRON	NP+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋은가	좋+은가	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_20_3_03
+# text = 저는 경쟁심이 강한 사람은 아니다.
+1	저는	저+는	PRON	NP+JX	_	5	dislocated	_	_
+2	경쟁심이	경쟁+심+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	강한	강하+ㄴ	ADJ	VA+ETM	_	4	acl	_	_
+4	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+5	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_20_3_04
+# text = 다른 사람들과 경쟁하면 이긴 사람이 있고 진 사람이 있다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	경쟁하면	경쟁+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	이긴	이기+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	0	root	_	_
+7	진	지+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있다	있+다	VERB	VV+EF	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_20_3_05
+# text = 그러나 계속 발달하는 사회를 위해서 우리 다 계속 개발하는 것도 중요하다.
+1	그러나	그러나	ADV	MAJ	_	11	cc	_	_
+2	계속	계속	ADV	MAG	_	3	advmod	_	_
+3	발달하는	발달+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	사회를	사회+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	위해서	위하+아서	VERB	VV+EC	_	11	advcl	_	_
+6	우리	우리	PRON	NP	_	11	dislocated	_	_
+7	다	다	ADV	MAG	_	11	advmod	_	_
+8	계속	계속	ADV	MAG	_	9	advmod	_	_
+9	개발하는	개발+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	것도	것+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_20_3_06
+# text = 이런 사람은 성공하고 진 사람이 실패하다는 관념을 사회의 계발에 더움이 안 된다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	성공하고	성공+하+고	VERB	NNG+XSV+EC	_	7	acl	_	_
+4	진	지+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	사람이	사람+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	실패하다는	실패+하+다는	VERB	NNG+XSV+ETM	_	3	conj	_	_
+7	관념을	관념+을	NOUN	NNG+JKO	_	12	obj	_	_
+8	사회의	사회+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	계발에	계발+에	ADV	NNG+JKB	_	12	obl	_	_
+10	더움이	더움+이	NOUN	NF+JKS	Typo=Yes	12	nsubj	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_20_3_07
+# text = 경쟁심이 너무 강하지 않은 사람들 사이에 신나고 열심히 일하는 분위기를 만들 수 있다.
+1	경쟁심이	경쟁+심+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	너무	너무	ADV	MAG	_	3	advmod	_	_
+3	강하지	강하+지	ADJ	VA+EC	_	5	acl	_	_
+4	않은	않	AUX	VX+ETM	_	3	aux	_	_
+5	사람들	사람+들	NOUN	NNG+XSN	_	11	obl	_	_
+6	사이에	사이+에	ADV	NNG+JKB	_	5	case	_	_
+7	신나고	신나+고	ADJ	VA+EC	_	10	acl	_	_
+8	열심히	열심히	ADV	MAG	_	9	advmod	_	_
+9	일하는	일+하+는	VERB	NNG+XSV+ETM	_	7	conj	_	_
+10	분위기를	분위기+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	만들	만들+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_20_3_08
+# text = 그러나 그런 분위기가 사람의 성격의 맞지 않으면 스트레스를 받고 일하는 동기가 없어진다.
+1	그러나	그러나	ADV	MAJ	_	9	cc	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	분위기가	분위기+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	성격의	성격+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	맞지	맞+지	VERB	VV+EC	_	9	advcl	_	_
+7	않으면	않	AUX	VX+EC	_	6	aux	_	_
+8	스트레스를	스트레스+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	받고	받+고	VERB	VV+EC	_	0	root	_	_
+10	일하는	일+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	동기가	동기+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	없어진다	없+어지+ㄴ다	VERB	VA+XSV+EF	_	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_20_3_09
+# text = 그렇지만 협동 경우에는 이기는 것에 대한 생각이 없고 서로 도와주고 조언을 주고 같이 배우는 분위기가 생긴다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	16	cc	_	_
+2	협동	협동	NOUN	NNG	_	3	nmod	_	_
+3	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+4	이기는	이기+는	VERB	VV+ETM	_	5	acl	_	_
+5	것에	것+에	ADV	NNB+JKB	_	6	obl	_	_
+6	대한	대하+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	생각이	생각+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	없고	없+고	ADJ	VA+EC	_	16	advcl	_	_
+9	서로	서로	ADV	MAG	_	10	advmod	_	_
+10	도와주고	도와주+고	VERB	VV+EC	_	15	acl	_	_
+11	조언을	조언+을	NOUN	NNG+JKO	_	10	conj	_	_
+12	주고	주+고	VERB	VV+EC	_	10	conj	_	_
+13	같이	같이	ADV	MAG	_	12	advmod	_	_
+14	배우는	배우+는	VERB	VV+ETM	_	10	conj	_	_
+15	분위기가	분위기+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	생긴다	생기+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_20_3_10
+# text = 그 때는 실패하는 사람들도 성공하는 사람들의 수준에 갈 수도 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때는	때+는	NOUN	NNG+JX	_	10	obl	_	_
+3	실패하는	실패+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	사람들도	사람+들+도	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+5	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	수준에	수준+에	ADV	NNG+JKB	_	8	obl	_	_
+8	갈	가+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_20_3_11
+# text = 그래서 내가 선호하는 것은 경쟁보다는 협동이다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	내가	내+가	PRON	NP+JKS	_	3	nsubj	_	_
+3	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	6	nsubj	_	_
+5	경쟁보다는	경쟁+보다+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+6	협동이다	협동+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_20_3_12
+# text = 도움을 주고 받는 생활이 서로 싸우는 것보다 행복하다고 생각한다.
+1	도움을	도움+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	주고	주+고	VERB	VV+EC	_	4	acl	_	_
+3	받는	받+는	VERB	VV+ETM	_	2	conj	_	_
+4	생활이	생활+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+5	서로	서로	ADV	MAG	_	6	advmod	_	_
+6	싸우는	싸우+는	VERB	VV+ETM	_	7	acl	_	_
+7	것보다	것+보다	ADV	NNB+JKB	_	8	obl	_	_
+8	행복하다고	행복+하+다고	ADJ	NNG+XSA+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

@@ -1,0 +1,88 @@
+# sent_id = ARG-CZH_13_2_01
+# text = 제 의견에는 역사를 배우는 게 매우 중요하다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	의견에는	의견+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	게	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	매우	매우	ADV	MAG	_	7	advmod	_	_
+7	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_13_2_02
+# text = 자신의 나라 옛날 사람들이 어떻게 산지 왜 전쟁이 생긴지 알게 될 수 있다.
+1	자신의	자신+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	나라	나라	NOUN	NNG	_	3	nmod	_	_
+3	옛날	옛날	NOUN	NNG	_	4	nmod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	어떻게	어떻+게	ADV	VA+EC	_	6	advmod	_	_
+6	산지	살+ㄴ지	VERB	VV+EC	_	10	ccomp	_	_
+7	왜	왜	ADV	MAG	_	9	advmod	_	_
+8	전쟁이	전쟁+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	생긴지	생기+ㄴ+지	NOUN	VV+ETM+NNB	_	10	advcl	_	_
+10	알게	알+게	VERB	VV+EC	_	12	acl	_	_
+11	될	되+ㄹ	VERB	VX+ETM	_	10	advcl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_13_2_03
+# text = 과거의 실수를 다시 하지 않도록 역사를 배우고 필요하다.
+1	과거의	과거+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	실수를	실수+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	다시	다시	ADV	MAG	_	4	advmod	_	_
+4	하지	하+지	VERB	VV+EC	_	7	advcl	_	_
+5	않도록	않	AUX	VX+EC	_	4	aux	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+8	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	7	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_13_2_04
+# text = 그런데 이름과 시대만 외우는게 좋지 않다.
+1	그런데	그런데	ADV	MAJ	_	5	cc	_	_
+2	이름과	이름+과	NOUN	NNG+JC	_	4	obj	_	_
+3	시대만	시대+만	NOUN	NNG+JX	_	2	conj	_	_
+4	외우는게	외우+는+것+이	VERB	VV+ETM+NNB+JKS	_	5	nsubj	_	_
+5	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+6	않다	않	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_13_2_05
+# text = 선생님은 학생들이 잘 이해할 수 있게 설명해야 한다.
+1	선생님은	선생+님+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+2	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있게	있+게	VERB	VX+EC	_	7	advcl	_	_
+7	설명해야	설명+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_13_2_06
+# text = 학생들이 왜 이 일은 과거의 생인지 알아야 한다.
+1	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+2	왜	왜	ADV	MAG	_	6	advmod	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	일은	일+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	과거의	과거+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	생인지	생+이+ㄴ지	ADJ	NF+VCP+EC	Typo=Yes	7	ccomp	_	_
+7	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_13_2_07
+# text = 아주 아주 옛날 역사보다 지난 세기에 대해 배우는 게 좋다고 생각한다.
+1	아주	아주	ADV	MAG	_	3	advmod	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	옛날	옛날	NOUN	NNG	_	4	nmod	_	_
+4	역사보다	역사+보다	ADV	NNG+JKB	_	7	obl	_	_
+5	지난	지나+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	세기에	세기+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대해	대하+아	VERB	VV+EC	_	8	advcl	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	게	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	좋다고	좋+다고	ADJ	VA+EC	_	11	ccomp	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

@@ -1,0 +1,126 @@
+# sent_id = ARG-ENG_19_2_01
+# text = 역사는 배워야 합니다.
+1	역사는	역사+는	NOUN	NNG+JX	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+3	합니다	하+ㅂ니다	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_19_2_02
+# text = 역사를 어덯게 배워야 할지는 어려운 질문이지만, 역사를 배워야 한다는 것은 확실합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	어덯게	어덯+게	ADV	NV+EC	_	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	csubj	_	_
+4	할지는	하+ㄹ지+는	VERB	VX+EC+JX	_	3	aux	_	_
+5	어려운	어렵+ㄴ	VERB	VA+ETM	_	6	amod	_	_
+6	질문이지만	질문+이+지만	VERB	NNG+VCP+EC	_	12	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배워야	배우+어야	VERB	VV+EC	_	11	acl	_	_
+10	한다는	하+ㄴ다는	AUX	VX+ETM	_	9	aux	_	_
+11	것은	것+은	NOUN	NNB+JX	_	12	nsubj	_	_
+12	확실합니다	확실+하+ㅂ니다	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_19_2_03
+# text = 역사를 모르면 발전도 못 합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	모르면	모르+면	VERB	VV+EC	_	5	advcl	_	_
+3	발전도	발전+도	NOUN	NNG+JX	_	5	obj	_	_
+4	못	못	ADV	MAG	_	5	advmod	_	_
+5	합니다	하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_19_2_04
+# text = 사람들이 옛날붙어 어덯게 살아왔는지를 알아야, 미래에도 어덯게 살아 나갈지를 알 수 있읍니다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	옛날붙어	옛날+붙어	VERB	NNG+NA	_	4	obl	_	_
+3	어덯게	어덯+게	ADV	NV+EC	_	4	advmod	_	_
+4	살아왔는지를	살+아+오+았+는지+를	VERB	VV+EC+VX+EP+EC+JKO	_	5	ccomp	_	_
+5	알아야	알+아야	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	미래에도	미래+에+도	ADV	NNG+JKB+JX	_	11	obl	_	_
+8	어덯게	어덯+게	ADV	NV+EC	_	9	advmod	_	_
+9	살아	살+아	VERB	VV+EC	_	11	ccomp	_	_
+10	나갈지를	나가+ㄹ지+를	NOUN	VX+EC+JKO	_	9	aux	_	_
+11	알	알+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_19_2_05
+# text = 과거에 어떤 실수들을 했는지 그리고 어덯게 서로를 도왔는지 알아야, 미래에 똑같은 실수들을 안하고 더 좋은 사회를 만들어 갈 수 있읍니다.
+1	과거에	과거+에	ADV	NNG+JKB	_	4	obl	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	실수들을	실수+들+을	NOUN	NNG+XSN+JKO	_	4	obj	_	_
+4	했는지	하+았+는지	VERB	VV+EP+EC	_	9	ccomp	_	_
+5	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+6	어덯게	어덯+게	ADV	NV+EC	_	8	advmod	_	_
+7	서로를	서로+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	도왔는지	돕+았+는지	VERB	VV+EP+EC	_	4	conj	_	_
+9	알아야	알+아야	VERB	VV+EC	_	21	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	미래에	미래+에	ADV	NNG+JKB	_	14	obl	_	_
+12	똑같은	똑같+은	VERB	VA+ETM	_	13	amod	_	_
+13	실수들을	실수+들+을	NOUN	NNG+XSN+JKO	_	14	obj	_	_
+14	안하고	안+하+고	VERB	MAG+VV+EC	_	21	advcl	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	좋은	좋+은	ADJ	VA+ETM	_	17	amod	_	_
+17	사회를	사회+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	만들어	만들+어	VERB	VV+EC	_	20	acl	_	_
+19	갈	가+ㄹ	VERB	VX+ETM	_	18	aux	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있읍니다	있+읍니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_19_2_06
+# text = 매일 매일 선택을 할때도 과거를 생각하면서 선택을 해요.
+1	매일	매일	NOUN	MAG	_	4	advmod	_	_
+2	매일	매일	NOUN	MAG	_	4	advmod	_	_
+3	선택을	선택+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	할때도	하+ㄹ+때+도	VERB	VV+ETM+NNG+JX	_	6	advcl	_	_
+5	과거를	과거+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	생각하면서	생각+하+면서	VERB	NNG+XSV+EC	_	8	advcl	_	_
+7	선택을	선택+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	해요	하+아요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_19_2_07
+# text = 예를 들어, 지난 주에 친구가 도넛이 먹고 싶다고 말을 했으면, 오늘 그 친구 생일때 도넛을 사 줄 수 있어요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어	들+어	VERB	VV+EC	_	21	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	지난	지나+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	주에	주+에	ADV	NNB+JKB	_	11	obl	_	_
+6	친구가	친구+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+7	도넛이	도넛+이	NOUN	NF+JKS	_	8	nsubj	_	_
+8	먹고	먹+고	VERB	VV+EC	_	11	ccomp	_	_
+9	싶다고	싶+다고	AUX	VX+EC	_	8	aux	_	_
+10	말을	말+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	했으면	하+았+으면	VERB	VV+EP+EC	_	21	advcl	_	_
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	오늘	오늘	NOUN	MAG	_	21	advmod	_	_
+14	그	그	DET	MM	_	15	det	_	_
+15	친구	친구	NOUN	NNG	_	16	nmod	_	_
+16	생일때	생일+때	NOUN	NNG+NNG	_	18	obl	_	_
+17	도넛을	도넛+을	NOUN	NF+JKO	_	18	obj	_	_
+18	사	사+아	VERB	VV+EC	_	20	acl	_	_
+19	줄	주+ㄹ	VERB	VX+ETM	_	18	aux	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-ENG_19_2_08
+# text = 이런 식으로, 과거에 무슨 일이 일어났는지 모르면, 현제에 살기가 어려워요.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	식으로	식+으로	ADV	NNG+JKB	_	8	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	과거에	과거+에	ADV	NNG+JKB	_	7	obl	_	_
+5	무슨	무슨	DET	MM	_	6	det	_	_
+6	일이	일+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	일어났는지	일어나+았+는지	VERB	VV+EP+EC	_	8	ccomp	_	_
+8	모르면	모르+면	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	현제에	현제+에	ADV	NF+JKB	_	11	obl	_	_
+11	살기가	살+기+가	NOUN	VV+ETN+JKS	_	12	nsubj	_	_
+12	어려워요	어렵+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

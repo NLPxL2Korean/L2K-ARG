@@ -1,0 +1,124 @@
+# sent_id = ARG-CZH_26_3_01
+# text = 내가 협동 중 더 선호한다.
+1	내가	내+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	협동	협동	NOUN	NNG	_	5	obl	_	_
+3	중	중	NOUN	NNB	_	2	case	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_26_3_02
+# text = 내가 경쟁을 좋아하지 않다.
+1	내가	내+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	경쟁을	경쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	좋아하지	좋아하+지	VERB	VV+EC	_	0	root	_	_
+4	않다	않	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_26_3_03
+# text = 다른 사람와 협동하면 보통 많이 생각들을 들 수 있을 때 조금 더 똑똑하고 다른 사람을 더 알겠다.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	사람와	사람+와	ADV	NNG+JKB	_	3	obl	_	_
+3	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+4	보통	보통	ADV	MAG	_	7	advmod	_	_
+5	많이	많이	ADV	MAG	_	7	advmod	_	_
+6	생각들을	생각+들+을	NOUN	NNG+XSN+JKO	_	7	obj	_	_
+7	들	들+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있을	있	AUX	VX+ETM	_	13	advcl	_	_
+10	때	때	ADV	NNG	_	9	mark	_	_
+11	조금	조금	ADV	MAG	_	12	advmod	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	똑똑하고	똑똑+하+고	ADJ	XR+XSA+EC	_	0	root	_	_
+14	다른	다르+ㄴ	ADJ	VA+ETM	_	15	amod	_	_
+15	사람을	사람+을	NOUN	NNG+JKO	_	17	obj	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	알겠다	알+겠+다	VERB	VV+EP+EF	_	13	conj	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_26_3_04
+# text = 경쟁할 때 보통 스테스가 많고 화가 나는데 이것은 건강에 나쁘다.
+1	경쟁할	경쟁+하+ㄹ	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	보통	보통	ADV	NNG	_	5	advmod	_	_
+4	스테스가	스테스+가	NOUN	NF+JKS	Typo=Yes	5	nsubj	_	_
+5	많고	많+고	ADJ	VA+EC	_	10	advcl	_	_
+6	화가	화+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	나는데	나+는데	VERB	VV+EC	_	5	conj	_	_
+8	이것은	이것+은	PRON	NP+JX	_	10	nsubj	_	_
+9	건강에	건강+에	ADV	NNG+JKB	_	10	obl	_	_
+10	나쁘다	나쁘+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_26_3_05
+# text = 그리고 협동할 때 친절한 사람와 사귈 수 있다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	8	advcl	_	_
+3	때	때	ADV	NNG	_	2	mark	_	_
+4	친절한	친절+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	사람와	사람+와	ADV	NNG+JKB	_	6	obl	_	_
+6	사귈	사귀+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_26_3_06
+# text = 왜 사람이 경쟁을 선화하지 몰다.
+1	왜	왜	ADV	MAG	_	4	advmod	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선화하지	선화+하+지	VERB	NF+XSV+EC	Typo=Yes	5	ccomp	_	_
+5	몰다	몰+다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_26_3_07
+# text = 한국 학교들에 보통 경쟁이 많으니까 아이들은 친구가 작고 스트레스가 많다.
+1	한국	한국	NOUN	NNP	_	2	nmod	_	_
+2	학교들에	학교+들+에	ADV	NNG+XSN+JKB	_	5	obl	_	_
+3	보통	보통	ADV	MAG	_	5	advmod	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많으니까	많+으니까	ADJ	VA+EC	_	8	advcl	_	_
+6	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	8	dislocated	_	_
+7	친구가	친구+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	작고	작+고	ADJ	VA+EC	_	0	root	_	_
+9	스트레스가	스트레스+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	많다	많+다	ADJ	VA+EF	_	8	conj	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_26_3_08
+# text = 이렇게 꼭 나쁜 건강와 나쁜 미래를 가지고 있을 건다.
+1	이렇게	이렇+게	ADV	VA+EC	_	9	advmod	_	_
+2	꼭	꼭	ADV	MAG	_	9	advmod	_	_
+3	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	건강와	건강+와	NOUN	NNG+JC	_	7	obj	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	미래를	미래+를	NOUN	NNG+JKO	_	4	conj	_	_
+7	가지고	가지+고	VERB	VV+EC	_	9	acl	_	_
+8	있을	있	AUX	VX+ETM	_	7	aux	_	_
+9	건다	건+다	VERB	NF+EF	Typo=Yes	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_26_3_09
+# text = 협동할 때 같이 새로운 것을 배울 수 있고 더 많을 것 같다.
+1	협동할	협동+하+ㄹ	VERB	NNG+XSV+ETM	_	8	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	같이	같이	ADV	MAG	_	6	advmod	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있	AUX	VX+EC	_	0	root	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	많을	많+을	ADJ	VA+ETM	_	8	acl	_	_
+11	것	것	NOUN	NNB	_	12	nsubj	_	_
+12	같다	같+다	ADJ	VA+EF	_	8	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_26_3_10
+# text = 한완 건강에 좋은 경쟁이 스포츠이다.
+1	한완	한완	NOUN	NF	Typo=Yes	2	nmod	_	_
+2	건강에	건강+에	ADV	NNG+JKB	_	3	obl	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	acl	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	스포츠이다	스포츠+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

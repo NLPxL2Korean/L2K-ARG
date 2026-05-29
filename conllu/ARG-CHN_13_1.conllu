@@ -1,0 +1,168 @@
+# sent_id = ARG-CHN_13_1_01
+# text = 저는 자연 개발보다 자연 보존이 더 중요하다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발보다	개발+보다	ADV	NNG+JKB	_	7	obl	_	_
+4	자연	자연	NOUN	NNG	_	5	nmod	_	_
+5	보존이	보존+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_13_1_02
+# text = 자연은 지구에서 사고 있는 모두 생물들의 필수적인 환경 조건이자 우리에게 안전을 주는 가원이라고 할 수 있다.
+1	자연은	자연+은	NOUN	NNG+JX	_	13	nsubj	_	_
+2	지구에서	지구+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	사고	사+고	VERB	NV+EC	Typo=Yes	13	acl	_	_
+4	있는	있	AUX	VX+ETM	_	3	aux	_	_
+5	모두	모두	ADV	MAG	_	13	advmod	_	_
+6	생물들의	생물+들+의	NOUN	NNG+XSN+JKG	_	8	nmod:poss	_	_
+7	필수적인	필수+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	환경	환경	NOUN	NNG	_	9	nmod	_	_
+9	조건이자	조건+이+자	ADJ	NNG+VCP+EC	_	13	advcl	_	_
+10	우리에게	우리+에게	PRON	NP+JKB	_	12	obl	_	_
+11	안전을	안전+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	주는	주+는	VERB	VV+ETM	_	9	acl	_	_
+13	가원이라고	가원+이+라고	ADJ	NF+VCP+EC	Typo=Yes	14	ccomp	_	_
+14	할	하+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_13_1_03
+# text = 자연의 생명력이 지구에서 사는 모든 물종의 생명 길이를 결정하고 있습니다.
+1	자연의	자연+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	생명력이	생명+력+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+3	지구에서	지구+에서	ADV	NNG+JKB	_	4	obl	_	_
+4	사는	살+는	VERB	VV+ETM	_	6	acl	_	_
+5	모든	모든	DET	MM	_	6	det	_	_
+6	물종의	물종+의	NOUN	NF+JKG	Typo=Yes	7	nmod:poss	_	_
+7	생명	생명	NOUN	NNG	_	8	nmod	_	_
+8	길이를	길이+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	결정하고	결정+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+10	있습니다	있	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_13_1_04
+# text = 그리하여 자연을 보존하는 것이 자연의 생명력을 더 오래 유지할 수 있도록 하는 것이며 그것이 바로 자연에 의해서 사는 모든 생물을 보호하는 것이라고 생각합니다.
+1	그리하여	그리하여	ADV	MAJ	_	23	cc	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	11	dislocated	_	_
+5	자연의	자연+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	생명력을	생명+력+을	NOUN	NNG+XSN+JKO	_	9	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	오래	오래	ADV	MAG	_	9	advmod	_	_
+9	유지할	유지+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있도록	있+도록	ADV	VX+EC	_	12	advcl	_	_
+12	하는	하	AUX	VX+ETM	_	13	acl	_	_
+13	것이며	것+이+며	ADJ	NNB+VCP+EC	_	22	advcl	_	_
+14	그것이	그것+이	PRON	NP+JKS	_	22	nsubj	_	_
+15	바로	바로	ADV	MAG	_	22	advmod	_	_
+16	자연에	자연+에	ADV	NNG+JKB	_	17	obl	_	_
+17	의해서	의하+아서	VERB	VV+EC	_	18	advcl	_	_
+18	사는	살+는	VERB	VV+ETM	_	20	acl	_	_
+19	모든	모든	DET	MM	_	20	det	_	_
+20	생물을	생물+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	보호하는	보호+하+는	VERB	NNG+XSV+ETM	_	22	acl	_	_
+22	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	23	ccomp	_	_
+23	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CHN_13_1_05
+# text = 한편 자연 개발은 자연에 있는 자원을 개발해서 인간에게 유용한 용도에 쓰는 것이다.
+1	한편	한편	ADV	MAG	_	12	advmod	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발은	개발+은	NOUN	NNG+JX	_	12	nsubj	_	_
+4	자연에	자연+에	ADV	NNG+JKB	_	5	obl	_	_
+5	있는	있+는	VERB	VV+ETM	_	6	acl	_	_
+6	자원을	자원+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	개발해서	개발+하+아서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+8	인간에게	인간+에게	ADV	NNG+JKB	_	9	obl	_	_
+9	유용한	유용+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	acl	_	_
+10	용도에	용도+에	ADV	NNG+JKB	_	11	obl	_	_
+11	쓰는	쓰+는	VERB	VV+ETM	_	12	acl	_	_
+12	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_13_1_06
+# text = 즉 인간의 발전을 위한 것이다.
+1	즉	즉	ADV	MAG	_	5	advmod	_	_
+2	인간의	인간+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	발전을	발전+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	위한	위하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_13_1_07
+# text = 발전보다는 우리의 생명과 밀접히 관련있는 자연 보호가 더 중요하다는 것이 분명하다.
+1	발전보다는	발전+보다+는	ADV	NNG+JKB+JX	_	9	advmod	_	_
+2	우리의	우리+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생명과	생명+과	NOUN	NNG+JC	_	5	obl	_	_
+4	밀접히	밀접히	ADV	MAG	_	5	advmod	_	_
+5	관련있는	관련+있+는	ADJ	NNG+XSA+ETM	_	7	acl	_	_
+6	자연	자연	NOUN	NNG	_	7	nmod	_	_
+7	보호가	보호+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	중요하다는	중요+하+다는	ADJ	NNG+XSA+ETM	_	10	acl	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+11	분명하다	분명하+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_13_1_08
+# text = 자연 보호에 있어서 제일 중요하고 유호한 것은 바로 자연 보존이라고 생각합니다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보호에	보호+에	ADV	NNG+JKB	_	3	obl	_	_
+3	있어서	있+어서	VERB	VV+EC	_	5	advcl	_	_
+4	제일	제일	ADV	MAG	_	5	advmod	_	_
+5	중요하고	중요+하+고	ADJ	NNG+XSA+EC	_	7	acl	_	_
+6	유호한	유호+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	5	conj	_	_
+7	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+8	바로	바로	ADV	MAG	_	10	advmod	_	_
+9	자연	자연	NOUN	NNG	_	10	nmod	_	_
+10	보존이라고	보존+이+라고	ADJ	NNG+VCP+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_13_1_09
+# text = 자연 개발은 때로 불가피하는 면이도 있으라면 개발하는 과정에서 자연 보호라는 전제하에 했으면 좋겠다고 생각합니다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발은	개발+은	NOUN	NNG+JX	_	6	obl	_	_
+3	때로	때로	ADV	MAG	_	6	advmod	_	_
+4	불가피하는	불가피하+는	ADJ	VA+ETM	_	6	dislocated	_	_
+5	면이도	면+이+도	NOUN	NNG+JKS+JX	_	6	nsubj	_	_
+6	있으라면	있+으라면	ADJ	VA+NA	Typo=Yes	12	advcl	_	_
+7	개발하는	개발+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	과정에서	과정+에서	ADV	NNG+JKB	_	12	obl	_	_
+9	자연	자연	NOUN	NNG	_	10	nmod	_	_
+10	보호라는	보호+이+라는	ADJ	NNG+VCP+ETM	_	11	acl	_	_
+11	전제하에	전제+하+에	ADV	NNG+NNG+JKB	_	12	obl	_	_
+12	했으면	하+았+으면	VERB	VV+EP+EC	_	13	advcl	_	_
+13	좋겠다고	좋+겠+다고	ADJ	VA+EP+EC	_	14	ccomp	_	_
+14	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_13_1_10
+# text = 요컨대, 자연 보존은 인간의 필수적인 생존 환경과 관련이 맺고 있으니까 개발을 하기 위한 자연 개발보다 더 중요하다고 생각합니다.
+1	요컨대	요컨대	ADV	MAG	_	19	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	보존은	보존+은	NOUN	NF+JX	Typo=Yes	18	nsubj	_	_
+5	인간의	인간+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+6	필수적인	필수+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	생존	생존	NOUN	NNG	_	8	nmod	_	_
+8	환경과	환경+과	NOUN	NNG+JC	_	10	obl	_	_
+9	관련이	관련+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	맺고	맺+고	VERB	VV+EC	_	18	advcl	_	_
+11	있으니까	있	AUX	VX+EC	_	10	aux	_	_
+12	개발을	개발+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	하기	하+기	VERB	VV+ETN	_	15	obj	_	_
+14	위한	위하+ㄴ	VERB	VV+ETM	_	16	acl	_	_
+15	자연	자연	NOUN	NNG	_	16	nmod	_	_
+16	개발보다	개발+보다	ADV	NNG+JKB	_	18	obl	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	19	ccomp	_	_
+19	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

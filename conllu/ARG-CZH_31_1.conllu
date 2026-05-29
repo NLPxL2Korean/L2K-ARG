@@ -1,0 +1,103 @@
+# sent_id = ARG-CZH_31_1_01
+# text = 어렸을때 아이들은 배우면 다 쉽 게 보어요.
+1	어렸을때	어리+었+을+때	ADJ	VA+EP+ETM+NNG	_	3	advcl	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	7	advcl	_	_
+4	다	다	ADV	MAG	_	7	advmod	_	_
+5	쉽	쉽+게	ADV	VA+EC	Typo=Yes	7	advmod	_	_
+6	게	_	X	_	_	5	goeswith	_	_
+7	보어요	보+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_31_1_02
+# text = 그래서 아이들른 조기언어교육에 다니면 언어를 빨르게 배울 수 있어요.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	아이들른	아이+들+른	NOUN	NNG+XSN+NA	Typo=Yes	4	nsubj	_	_
+3	조기언어교육에	조기+언어+교육+에	ADV	NNG+NNG+NNG+JKB	_	4	obl	_	_
+4	다니면	다니+면	VERB	VV+EC	_	9	advcl	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+6	빨르게	빨르+게	ADV	NV+EC	Typo=Yes	7	advmod	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_31_1_03
+# text = 특히 영어를 배우면 미래에 더 여행할 수 있어요.
+1	특히	특히	ADV	MAG	_	8	advmod	_	_
+2	영어를	영어+를	NOUN	NNP+JKO	_	3	obj	_	_
+3	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+4	미래에	미래+에	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	여행할	여행+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_31_1_04
+# text = 근데 4살이나 5살 아이들은 학교에서 놀기 되야 되요.
+1	근데	근데	ADV	MAJ	_	7	cc	_	_
+2	4살이나	4+살+이나	NOUN	SN+NNB+JC	_	4	nmod	_	_
+3	5살	5+살	NOUN	SN+NNB	_	2	conj	_	_
+4	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+5	학교에서	학교+에서	ADV	NNG+JKB	_	7	obl	_	_
+6	놀기	놀+기	VERB	VV+ETN	_	7	obj	_	_
+7	되야	되+야	VERB	VV+EC	_	0	root	_	_
+8	되요	되+요	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_31_1_05
+# text = 학교에서 한국어, 수학과 다른 것을 배워서 새로운 언어가 힘들 것 같아요.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	7	obl	_	_
+2	한국어	한국어	NOUN	NNG	_	4	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	수학과	수학+과	NOUN	NNG+JC	_	5	nmod	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	acl	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+7	배워서	배우+어서	VERB	VV+EC	_	12	advcl	_	_
+8	새로운	새롭+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어가	언어+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	힘들	힘들+ㄹ	ADJ	VA+ETM	_	11	acl	_	_
+11	것	것	NOUN	NNB	_	12	nsubj	_	_
+12	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_31_1_06
+# text = 그리고 시간이 없을 것 같아요.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	시간이	시간+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없을	없+을	ADJ	VA+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_31_1_07
+# text = 그 시간에 친구들과 함께 놀이야 되요.
+1	그	그	DET	MM	_	2	det	_	_
+2	시간에	시간+에	ADV	NNG+JKB	_	5	obl	_	_
+3	친구들과	친구+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+4	함께	함께	ADV	MAG	_	5	advmod	_	_
+5	놀이야	놀+이야	VERB	VV+NA	Typo=Yes	0	root	_	_
+6	되요	되+요	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_31_1_08
+# text = 학교에 계속 있으면 기분이 나쁠 수도 있어요.
+1	학교에	학교+에	ADV	NNG+JKB	_	3	obl	_	_
+2	계속	계속	ADV	MAG	_	3	advmod	_	_
+3	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+4	기분이	기분+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	나쁠	나쁘+ㄹ	ADJ	VA+ETM	_	6	acl	_	_
+6	수도	수+도	NOUN	NNB+JX	_	7	nsubj	_	_
+7	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_31_1_09
+# text = 그래서 조기언어교육은 좋지만 필요한 것이 아니예요.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	nsubj	_	_
+3	좋지만	좋+지만	ADJ	VA+EC	_	6	advcl	_	_
+4	필요한	필요+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	것이	것+이	NOUN	NNB+JKC	_	6	nsubj	_	_
+6	아니예요	아니+예요	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

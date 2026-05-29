@@ -1,0 +1,277 @@
+# sent_id = ARG-ENG_12_3_01
+# text = 협동 경쟁부다 더 좋습니다.
+1	협동	협동	NOUN	NNG	_	4	nsubj	_	_
+2	경쟁부다	경쟁+부다	NOUN	NNG+NA	Typo=Yes	4	obl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋습니다	좋+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_12_3_01
+# text = 우리의 자본주의 사회에서 협동과 경쟁 중 무엇을 선호하냐는 질문은 사실 답할 수 없는 질문이라고 생각한다.
+1	우리의	우리+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+2	자본주의	자본+주의	NOUN	NNG+NNG	_	3	nmod	_	_
+3	사회에서	사회+에서	ADV	NNG+JKB	_	8	obl	_	_
+4	협동과	협동+과	NOUN	NNG+JC	_	8	obl	_	_
+5	경쟁	경쟁	NOUN	NNG	_	4	conj	_	_
+6	중	중	ADP	NNB	_	5	case	_	_
+7	무엇을	무엇+을	NOUN	NP+JKO	_	8	obj	_	_
+8	선호하냐는	선호+하+냐+는	VERB	NNG+XSV+EC+ETM	_	9	acl	_	_
+9	질문은	질문+은	NOUN	NNG+JX	_	14	nsubj	_	_
+10	사실	사실	ADV	MAG	_	11	advmod	_	_
+11	답할	답+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	없는	없+는	VERB	VX+ETM	_	14	acl	_	_
+14	질문이라고	질문+이+라고	VERB	NNG+VCP+EC	_	15	ccomp	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_12_3_02
+# text = 경쟁 단점 많기 때문입니다.
+1	경쟁	경쟁	NOUN	NNG	_	2	nmod	_	_
+2	단점	단점	NOUN	NNG	_	3	nsubj	_	_
+3	많기	많+기	ADJ	VA+ETN	_	4	nmod	_	_
+4	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_12_3_02
+# text = 만약에 우리 천국에 살고 있었으면은 당연히 협동을 선호하겠지만 이 세상은 그렇지 않다.
+1	만약에	만약+에	ADV	NNG+JKB	_	4	obl	_	_
+2	우리	우리	PRON	NP	_	4	nsubj	_	_
+3	천국에	천국+에	ADV	NNG+JKB	_	4	obl	_	_
+4	살고	살+고	VERB	VV+EC	_	8	advcl	_	_
+5	있었으면은	있+었+으면+은	VERB	VX+EP+EC+JX	_	4	aux	_	_
+6	당연히	당연히	ADV	MAG	_	8	advmod	_	_
+7	협동을	협동+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	선호하겠지만	선호+하+겠+지만	VERB	NNG+XSV+EP+EC	_	11	advcl	_	_
+9	이	이	DET	MM	_	10	det	_	_
+10	세상은	세상+은	NOUN	NNG+JX	_	11	nsubj	_	_
+11	그렇지	그렇+지	ADV	VA+EC	_	0	root	_	_
+12	않다	않+다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_12_3_03
+# text = 경쟁 사람들이 사이에 싸우는 것 만들 수 있어요.
+1	경쟁	경쟁	NOUN	NNG	_	6	nsubj	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	사이에	사이+에	ADV	NNG+JKB	_	4	obl	_	_
+4	싸우는	싸우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것	것	NOUN	NNB	_	6	obj	_	_
+6	만들	만들+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_12_3_03
+# text = 우리는 먹고 살기 위해 경쟁이 필요한 사회에 살고 있다.
+1	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+2	먹고	먹+고	VERB	VV+EC	_	3	advcl	_	_
+3	살기	살+기	NOUN	VV+ETN	_	4	obj	_	_
+4	위해	위하+아	VERB	VV+EC	_	8	advcl	_	_
+5	경쟁이	경쟁+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	7	acl	_	_
+7	사회에	사회+에	ADV	NNG+JKB	_	8	obl	_	_
+8	살고	살+고	VERB	VV+EC	_	0	root	_	_
+9	있다	있+다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_12_3_04
+# text = 친구가 경쟁 있으면 나쁜 느낌 있을 수 있습니다.
+1	친구가	친구+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+2	경쟁	경쟁	NOUN	NNG	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+4	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	느낌	느낌	NOUN	NNG	_	6	nsubj	_	_
+6	있을	있+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_12_3_04
+# text = 다시 말하면 경쟁 협동 중 협동을 선호하지만 실제로 경쟁을 하게 된다.
+1	다시	다시	ADV	MAG	_	2	advmod	_	_
+2	말하면	말+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	7	obl	_	_
+4	협동	협동	NOUN	NNG	_	3	conj	_	_
+5	중	중	ADP	NNB	_	3	case	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	선호하지만	선호+하+지만	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	실제로	실제로	ADV	MAG	_	10	advmod	_	_
+9	경쟁을	경쟁+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	하게	하+게	VERB	VV+EC	_	0	root	_	_
+11	된다	되+ㄴ다	VERB	VX+EF	_	10	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_12_3_05
+# text = 한국학교에서 경쟁 있으니까 가끔식 친한 친구 사이에 나쁜 느낌 있어요.
+1	한국학교에서	한국+학교+에서	ADV	NNP+NNG+JKB	_	3	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	3	nsubj	_	_
+3	있으니까	있+으니까	VERB	VV+EC	_	10	advcl	_	_
+4	가끔식	가끔+식	ADV	MAG+NA	Typo=Yes	10	advmod	_	_
+5	친한	친하+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	친구	친구	NOUN	NNG	_	7	nmod	_	_
+7	사이에	사이+에	ADV	NNG+JKB	_	10	obl	_	_
+8	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	느낌	느낌	NOUN	NNG	_	10	nsubj	_	_
+10	있어요	있+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_12_3_05
+# text = 초등학교에는 체육대회, 중학교엔 기말시험 점수, 고등학교엔 대학교 입학 어릴 때부터 경쟁을 배우자 예의 없이 삶의 가장 기초적 것들은 다 경쟁을 중심하고 더 크게 만든다.
+1	초등학교에는	초등학교+에+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+2	체육대회	체육+대회	NOUN	NNG+NNG	_	10	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	중학교엔	중학교+에+ㄴ	NOUN	NNG+JKB+JX	_	14	obl	_	_
+5	기말시험	기말+시험	NOUN	NNG+NNG	_	6	nmod	_	_
+6	점수	점수	NOUN	NNG	_	10	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	고등학교엔	고등학교+에+ㄴ	NOUN	NNG+JKB+JX	_	14	obl	_	_
+9	대학교	대학교	NOUN	NNG	_	10	nmod	_	_
+10	입학	입학	NOUN	NNG	_	14	obj	_	_
+11	어릴	어리+ㄹ	VERB	VA+ETM	_	14	advcl	_	_
+12	때부터	때+부터	ADV	NNG+JX	_	11	mark	_	_
+13	경쟁을	경쟁+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	배우자	배우+자	NOUN	NNG	_	23	advcl	_	_
+15	예의	예의	NOUN	NNG	_	16	nsubj	_	_
+16	없이	없이	VERB	MAG	_	23	advcl	_	_
+17	삶의	삶+의	NOUN	NNG+JKG	_	20	nmod:poss	_	_
+18	가장	가장	ADV	MAG	_	19	advmod	_	_
+19	기초적	기초+적	ADJ	NNG+XSN	_	20	amod	_	_
+20	것들은	것+들+은	NOUN	NNB+XSN+JX	_	26	nsubj	_	_
+21	다	다	ADV	MAG	_	23	advmod	_	_
+22	경쟁을	경쟁+을	NOUN	NNG+JKO	_	23	obj	_	_
+23	중심하고	중심+하+고	VERB	NNG+XSV+EC	_	26	advcl	_	_
+24	더	더	ADV	MAG	_	25	advmod	_	_
+25	크게	크+게	ADV	VA+EC	_	26	advmod	_	_
+26	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-ENG_12_3_06
+# text = 경쟁 때문에 사람들이 도와 준는 것 안 하고 심어요.
+1	경쟁	경쟁	NOUN	NNG	_	4	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	도와	돕+아	VERB	VV+EC	_	6	acl	_	_
+5	준는	주+ㄴ+는	VERB	VX+NA+ETM	Typo=Yes	4	advcl	_	_
+6	것	것	NOUN	NNB	_	8	obj	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	하고	하+고	VERB	VV+EC	_	0	root	_	_
+9	심어요	심+어요	VERB	NV+EF	Typo=Yes	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_12_3_06
+# text = 어른이 되면 돈을 벌어야만 살 수 있는 것이 현실이고 돈을 벌으려면 어떤 일으로 경쟁을 하게 된다.
+1	어른이	어른+이	NOUN	NNG+JKC	_	2	nsubj	_	_
+2	되면	되+면	VERB	VV+EC	_	15	advcl	_	_
+3	돈을	돈+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	벌어야만	벌+어야+만	VERB	VV+EC+JX	_	5	advcl	_	_
+5	살	살+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있는	있+는	VERB	VX+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	현실이고	현실+이+고	VERB	NNG+VCP+EC	_	15	advcl	_	_
+10	돈을	돈+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	벌으려면	벌+으려면	VERB	VV+EC	_	15	advcl	_	_
+12	어떤	어떤	DET	MM	_	13	det	_	_
+13	일으로	일+으로	ADV	NNG+JKB	_	15	obl	_	_
+14	경쟁을	경쟁+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	하게	하+게	VERB	VV+EC	_	0	root	_	_
+16	된다	되+ㄴ다	VERB	VX+EF	_	15	advcl	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_12_3_07
+# text = 하지만 협동 있으면 사람들이 도우ㅏ 주는 것 하고 싶습니다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	협동	협동	NOUN	NNG	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	8	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	도우ㅏ	도우+ㅏ	NOUN	NV+NA	Typo=Yes	7	acl	_	_
+6	주는	주+는	VERB	VX+ETM	_	5	advcl	_	_
+7	것	것	NOUN	NNB	_	8	obj	_	_
+8	하고	하+고	VERB	VV+EC	_	0	root	_	_
+9	싶습니다	싶	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_12_3_07
+# text = 물론 협동은 이 세상에도 존재하기는 하지만 결국 경쟁을 위한 협동이지 않으면 무엇인가?
+1	물론	물론	ADV	MAG	_	12	advmod	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	5	nsubj	_	_
+3	이	이	DET	MM	_	4	det	_	_
+4	세상에도	세상+에+도	ADV	NNG+JKB+JX	_	5	obl	_	_
+5	존재하기는	존재+하+기+는	NOUN	NNG+XSV+ETN+JX	_	12	advcl	_	_
+6	하지만	하+지만	AUX	VX+EC	_	5	aux	_	_
+7	결국	결국	ADV	MAG	_	12	advmod	_	_
+8	경쟁을	경쟁+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	위한	위하+ㄴ	VERB	VV+ETM	_	10	acl	_	_
+10	협동이지	협동+이+지	VERB	NNG+VCP+EC	_	12	advcl	_	_
+11	않으면	않+으면	VERB	VX+EC	_	10	aux	_	_
+12	무엇인가	무엇+이+ㄴ가	VERB	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_12_3_08
+# text = 사람들이 경쟁 있으면 부다 더 행복해요.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+4	부다	부다	ADV	NA	Typo=Yes	5	advmod	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	행복해요	행복+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_12_3_08
+# text = 이런 협동도 실제로 협동인가?
+1	이런	이런	DET	MM	_	2	det	_	_
+2	협동도	협동+도	NOUN	NF+JX	_	4	nsubj	_	_
+3	실제로	실제로	ADV	MAG	_	4	advmod	_	_
+4	협동인가	협동+이+ㄴ가	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_12_3_09
+# text = 경쟁때문에 싸우는 것 없습니다.
+1	경쟁때문에	경쟁+때문+에	ADV	NNG+NNB+JKB	_	4	obl	_	_
+2	싸우는	싸우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것	것	NOUN	NNB	_	4	nsubj	_	_
+4	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_12_3_09
+# text = 이런 세상에 순수적인 협동이 없다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	세상에	세상+에	ADV	NNG+JKB	_	5	obl	_	_
+3	순수적인	순수+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_12_3_10
+# text = 협동 있으면 많은 것 끝날 수 있습니다.
+1	협동	협동	NOUN	NNG	_	2	nsubj	_	_
+2	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	끝날	끝나+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_12_3_10
+# text = 이래서 경쟁은 우리의 현실일 수 밖에 없는 것이다.
+1	이래서	이리하+여서	ADV	VV+EC	_	8	advcl	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	우리의	우리+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	현실일	현실+이+ㄹ	VERB	NNG+VCP+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	7	obl	_	_
+6	밖에	밖에	ADP	JX	_	5	case	_	_
+7	없는	없+는	VERB	VA+ETM	_	8	acl	_	_
+8	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_12_3_11
+# text = 그 이유가 때문에 재 생각에는 협동 선호합니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유가	이유+가	NOUN	NNG+JKS	_	7	obl	_	_
+3	때문에	때문+에	ADV	NNB+JKB	_	2	case	_	_
+4	재	재	NOUN	NF	Typo=Yes	5	nmod	_	_
+5	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+6	협동	협동	NOUN	NNG	_	7	obj	_	_
+7	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

@@ -1,0 +1,138 @@
+# sent_id = ARG-JPN_09_2_01
+# text =  저희는 역사를 꼭 배워야 한다.
+1	저희는	저희+는	PRON	NP+JX	_	4	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	꼭	꼭	ADV	MAG	_	4	advmod	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+5	한다	하+ㄴ다	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_09_2_02
+# text =  역사를 배우는 과정에서는 다양한 감정이 생길 수도 있지만 자기를 성장시키고 사회를 개선시키려면 역사에 대한 이해가 필요하다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	과정에서는	과정+에서+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	감정이	감정+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	생길	생기+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있지만	있+지만	VERB	VX+EC	_	16	advcl	_	_
+9	자기를	자기+를	PRON	NP+JKO	_	10	obj	_	_
+10	성장시키고	성장+시키+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+11	사회를	사회+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	개선시키려면	개선+시키+려면	VERB	NNG+XSV+EC	_	16	advcl	_	_
+13	역사에	역사+에	ADV	NNG+JKB	_	12	obl	_	_
+14	대한	대하+ㄴ	VERB	VV+ETM	_	15	acl	_	_
+15	이해가	이해+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_09_2_03
+# text =  역사는 수많은 사람들의 도전과 그 결과물로 쌓여온 실수와 성공을 저희에게 건네준다.
+1	역사는	역사+는	NOUN	NNG+JX	_	11	nsubj	_	_
+2	수많은	수많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	도전과	도전+과	NOUN	NNG+JC	_	7	obl	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	결과물로	결과물+로	ADV	NNG+JKB	_	4	conj	_	_
+7	쌓여온	쌓이+어+오+ㄴ	VERB	VV+EC+VX+ETM	_	8	acl	_	_
+8	실수와	실수+와	NOUN	NNG+JC	_	11	obj	_	_
+9	성공을	성공+을	NOUN	NNG+JKO	_	8	conj	_	_
+10	저희에게	저희+에게	ADV	NP+JKB	_	11	obl	_	_
+11	건네준다	건네+이+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_09_2_04
+# text =  한 사람이 살수 있는 시간은 너무 짧아 인생에서 중요한 것들을 혼자서 다 알 수는 없다.
+1	한	한	NUM	MM	_	2	det	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	살수	살+ㄹ+수	VERB	VV+ETM+NNB	_	4	nsubj	_	_
+4	있는	있+는	VERB	VX+ETM	_	5	acl	_	_
+5	시간은	시간+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	너무	너무	ADV	MAG	_	7	advmod	_	_
+7	짧아	짧+아	VERB	VA+EC	_	15	advcl	_	_
+8	인생에서	인생+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	acl	_	_
+10	것들을	것+들+을	PRON	NP+XSN+JKO	_	13	obj	_	_
+11	혼자서	혼자+서	ADV	NNG+JKS	_	13	nsubj	_	_
+12	다	다	ADV	MAG	_	13	advmod	_	_
+13	알	알+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수는	수+는	NOUN	NNB+JX	_	15	nsubj	_	_
+15	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_09_2_05
+# text =  하지만 역사는 이러한 저희가 중요한 것들을 배우는 것을 도와준다.
+1	하지만	하지만	ADV	MAJ	_	9	cc	_	_
+2	역사는	역사+는	NOUN	NNG+JX	_	9	nsubj	_	_
+3	이러한	이러하+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+4	저희가	저희+가	PRON	NP+JKS	_	7	nsubj	_	_
+5	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	7	obj	_	_
+7	배우는	배우+는	VERB	VV+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	9	obj	_	_
+9	도와준다	도와주+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_09_2_06
+# text =  학교에서나 책속에서 저희가 배우는 것, 읽는 것들을 다 역사라고 할 수 있다.
+1	학교에서나	학교+에서+나	ADV	NNG+JKB+JC	_	4	obl	_	_
+2	책속에서	책+속+에서	ADV	NNG+NNG+JKB	_	1	conj	_	_
+3	저희가	저희+가	PRON	NP+JKS	_	4	nsubj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것	것	NOUN	NNB	_	8	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	읽는	읽+는	VERB	VV+ETM	_	8	acl	_	_
+8	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	10	obj	_	_
+9	다	다	ADV	MAG	_	11	advmod	_	_
+10	역사라고	역사+이+라고	VERB	NNG+VCP+EC	_	11	ccomp	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_09_2_07
+# text =  과학적 실험, 한자나 문학, 비즈니스적 지식같이 저희가 일상 속에서 보는 정보들은 다 사람들이 아직 아무도 도전하지 않았던 새로운 것에 도전하고 그 과정에서 배운 것들을 지금 사는 저희에게 알리려고 남겨준 것들이다.
+1	과학적	과학+적	ADJ	NNG+XSN	_	2	amod	_	_
+2	실험	실험	NOUN	NNG	_	4	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	한자나	한자+나	NOUN	NNG+JC	_	8	list	_	_
+5	문학	문학	NOUN	NNG	_	4	conj	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	비즈니스적	비즈니스+적	NOUN	NNG+XSN	_	8	amod	_	_
+8	지식같이	지식+같이	NOUN	NNG+JKB	_	32	obl	_	_
+9	저희가	저희+가	PRON	NP+JKS	_	12	nsubj	_	_
+10	일상	일상	NOUN	NNG	_	12	obl	_	_
+11	속에서	속+에서	ADP	NNG+JKB	_	10	case	_	_
+12	보는	보+는	VERB	VV+ETM	_	13	acl	_	_
+13	정보들은	정보+들+은	NOUN	NNG+XSN+JX	_	32	nsubj	_	_
+14	다	다	ADV	MAG	_	32	advmod	_	_
+15	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	22	nsubj	_	_
+16	아직	아직	ADV	MAG	_	18	advmod	_	_
+17	아무도	아무+도	ADV	MAG	_	18	advmod	_	_
+18	도전하지	도전+하+지	VERB	NNG+XSV+EC	_	26	acl	_	_
+19	않았던	않+았+던	AUX	VX+EP+ETM	_	18	aux	_	_
+20	새로운	새롭+ㄴ	ADJ	VA+ETM	_	21	amod	_	_
+21	것에	것+에	ADV	NNB+JKB	_	22	obl	_	_
+22	도전하고	도전+하+고	VERB	NNG+XSV+EC	_	31	advcl	_	_
+23	그	그	DET	MM	_	24	det	_	_
+24	과정에서	과정+에서	ADV	NNG+JKB	_	25	obl	_	_
+25	배운	배우+ㄴ	VERB	VV+ETM	_	26	acl	_	_
+26	것들을	것+들+을	NOUN	NNG+XSN+JKO	_	30	obj	_	_
+27	지금	지금	ADV	MAG	_	28	advmod	_	_
+28	사는	살+는	VERB	VV+ETM	_	29	acl	_	_
+29	저희에게	저희+에게	ADV	NP+JKB	_	30	obl	_	_
+30	알리려고	알리+려고	VERB	VV+EC	_	31	advcl	_	_
+31	남겨준	남겨주+ㄴ	VERB	VV+EC	_	32	acl	_	_
+32	것들이다	것+들+이+다	VERB	NNG+XSN+VCP+EF	_	0	root	_	SpaceAfter=No
+33	.	.	PUNCT	SF	_	32	punct	_	_
+
+# sent_id = ARG-JPN_09_2_08
+# text =  그래서 저희는 그 역사를 배워야 한다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	저희는	저희+는	PRON	NP+JX	_	5	nsubj	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+6	한다	하+ㄴ다	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_

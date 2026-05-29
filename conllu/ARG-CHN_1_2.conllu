@@ -1,0 +1,237 @@
+# sent_id = ARG-CHN_1_2_01
+# text = 성공에 대한 정의에 따라 협동과 경쟁의 중요성이 달라질 것이라고 생각한다.
+1	성공에	성공+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대한	대하+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	정의에	정의+에	ADV	NNG+JKB	_	4	obl	_	_
+4	따라	따르+아	VERB	VV+EC	_	8	advcl	_	_
+5	협동과	협동+과	NOUN	NNG+JC	_	7	nmod:poss	_	_
+6	경쟁의	경쟁+의	NOUN	NNG+JKG	_	5	conj	_	_
+7	중요성이	중요+성+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	달라질	달라지+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	10	ccomp	_	_
+10	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_1_2_02
+# text = 어떤 사람은 일에 대한 큰 욕심이 없다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	7	dislocated	_	_
+3	일에	일+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	욕심이	욕심+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_1_2_03
+# text = 그냥 먹고 살 만큼 돈을 벌고 자기랑 성격과 맞는 여자와 결혼하고 아이 낳고.
+1	그냥	그냥	ADV	MAG	_	6	advmod	_	_
+2	먹고	먹+고	VERB	VV+EC	_	6	advcl	_	_
+3	살	살+ㄹ	VERB	VV+ETM	_	2	conj	_	_
+4	만큼	만큼	ADV	NNB	_	2	mark	_	_
+5	돈을	돈+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	벌고	벌+고	VERB	VV+EC	_	11	advcl	_	_
+7	자기랑	자기+랑	NOUN	NNG+JC	_	9	obl	_	_
+8	성격과	성격+과	ADV	NNG+JKB	_	9	obl	_	_
+9	맞는	맞+는	VERB	VV+ETM	_	10	acl	_	_
+10	여자와	여자+와	ADV	NNG+JKB	_	11	obl	_	_
+11	결혼하고	결혼+하+고	VERB	NNG+XSV+EC	_	13	advcl	_	_
+12	아이	아이	NOUN	NNG	_	13	obj	_	_
+13	낳고	낳+고	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_1_2_04
+# text = 한마디고 하면 일보다 가정을 더 중요시하는 사람이면 경쟁은 협동보다 삶의 성공에 있어서 더 큰 영향을 미친다.
+1	한마디고	한+마디+고	NOUN	MM+NNB+NA	Typo=Yes	2	obl	_	_
+2	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+3	일보다	일+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	가정을	가정+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요시하는	중요+시+하+는	VERB	NNG+XSN+XSV+ETM	_	7	acl	_	_
+7	사람이면	사람+이+면	ADJ	NNG+VCP+EC	_	16	advcl	_	_
+8	경쟁은	경쟁+은	NOUN	NNG+JX	_	16	nsubj	_	_
+9	협동보다	협동+보다	ADV	NNG+JKB	_	16	obl	_	_
+10	삶의	삶+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	성공에	성공+에	ADV	NNG+JKB	_	12	obl	_	_
+12	있어서	있+어서	VERB	VV+EC	_	16	advcl	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	큰	크+ㄴ	ADJ	VA+ETM	_	15	amod	_	_
+15	영향을	영향+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_1_2_05
+# text = 왜냐하면 화목한 가족을 이루려면 가족 구성원이 고집을 부리고 자기 주장을 끝까지 세우다 보면 나중에 서로 양보하지 못해 이혼할 가능성이 너무 높다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	21	cc	_	_
+2	화목한	화목+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	가족을	가족+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	이루려면	이루+려면	VERB	VV+EC	_	12	advcl	_	_
+5	가족	가족	NOUN	NNG	_	6	nmod	_	_
+6	구성원이	구성원+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	고집을	고집+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	부리고	부리+고	VERB	VV+EC	_	12	advcl	_	_
+9	자기	자기	NOUN	NNG	_	10	nmod	_	_
+10	주장을	주장+을	NOUN	NNG+JKO	_	12	obj	_	_
+11	끝까지	끝+까지	NOUN	NNG+JX	_	12	obl	_	_
+12	세우다	세우+다	VERB	VV+EC	_	21	advcl	_	_
+13	보면	보+면	VERB	VX+EC	_	12	advcl	_	_
+14	나중에	나중+에	ADV	NNG+JKB	_	16	obl	_	_
+15	서로	서로	ADV	MAG	_	16	advmod	_	_
+16	양보하지	양보+하+지	VERB	NNG+XSV+EC	_	21	advcl	_	_
+17	못해	못하+아	VERB	VX+EC	_	16	advcl	_	_
+18	이혼할	이혼+하+ㄹ	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	21	nsubj	_	_
+20	너무	너무	ADV	MAG	_	21	advmod	_	_
+21	높다	높+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_1_2_06
+# text = 그래서 좋은 가족은 수학으로 비유를 하면 1 더하기 1은 아니고 0.5 더하기 0.5이라고 한다.
+1	그래서	그래서	ADV	MAJ	_	14	cc	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	가족은	가족+은	NOUN	NNG+JX	_	13	nsubj	_	_
+4	수학으로	수학+으로	ADV	NNG+JKB	_	6	obl	_	_
+5	비유를	비유+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	하면	하+면	VERB	VV+EC	_	13	advcl	_	_
+7	1	1	NUM	SN	_	8	obl	_	_
+8	더하기	더하+기	VERB	VV+ETN	_	9	nmod	_	_
+9	1은	1+은	NOUN	SN+JX	_	10	nsubj	_	_
+10	아니고	아니+고	ADJ	VCN+EC	_	13	advcl	_	_
+11	0.5	0+.+5	NOUN	SN+SF+SN	_	12	obl	_	_
+12	더하기	더하+기	VERB	VV+ETN	_	13	nmod	_	_
+13	0.5이라고	0+.+5+이+라고	ADJ	SN+SF+SN+VCP+EC	_	14	ccomp	_	_
+14	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_1_2_07
+# text = 서로 타협하고 같은 방향으로 한 마음으로 살아야 한다.
+1	서로	서로	ADV	MAG	_	7	advmod	_	_
+2	타협하고	타협+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+3	같은	같+은	ADJ	VA+ETM	_	4	amod	_	_
+4	방향으로	방향+으로	ADV	NNG+JKB	_	7	obl	_	_
+5	한	한	NUM	MM	_	6	nummod	_	_
+6	마음으로	마음+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	살아야	살+아야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_1_2_08
+# text = 이런 경우 협동은 경쟁보다 더 중요하다.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	경우	경우	NOUN	NNG	_	6	obl	_	_
+3	협동은	협동+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_1_2_09
+# text = 반면에 가족보다 개인의 성공은 오로지 일에 반영된다고 여기는 사람이면 반대라고 생각하지 않을까?
+1	반면에	반면+에	ADV	NNG+JKB	_	11	obl	_	_
+2	가족보다	가족+보다	ADV	NNG+JKB	_	7	obl	_	_
+3	개인의	개인+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	성공은	성공+은	NOUN	NNG+JX	_	7	nsubj	_	_
+5	오로지	오+로지	ADV	MAG	_	7	advmod	_	_
+6	일에	일+에	ADV	NNG+JKB	_	7	obl	_	_
+7	반영된다고	반영+되+ㄴ다고	VERB	NNG+XSV+EC	_	8	ccomp	_	_
+8	여기는	여기+는	VERB	VV+ETM	_	9	acl	_	_
+9	사람이면	사람+이+면	ADJ	NNG+VCP+EC	_	11	advcl	_	_
+10	반대라고	반대+이+라고	ADJ	NNG+VCP+EC	_	11	ccomp	_	_
+11	생각하지	생각+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+12	않을까	않	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	?	?	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_1_2_10
+# text = 직장이라는 곳은 물론 협동하는 것도 있지만 협동하기 전에 프로젝트를 따는 것, 일이 있냐 없냐 만드는 자체가 다른 사람과 경쟁을 통해서 얻은 것은 분명하다.
+1	직장이라는	직장+이+라는	ADJ	NNG+VCP+ETM	_	2	acl	_	_
+2	곳은	곳+은	NOUN	NNB+JX	_	24	obl	_	_
+3	물론	물론	ADV	MAG	_	6	advmod	_	_
+4	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것도	것+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있지만	있+지만	VERB	VV+EC	_	24	advcl	_	_
+7	협동하기	협동+하+기	VERB	NNG+XSV+ETN	_	10	obl	_	_
+8	전에	전+에	ADV	NNG+JKB	_	7	case	_	_
+9	프로젝트를	프로젝트+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	따는	따+는	VERB	VV+ETM	_	11	acl	_	_
+11	것	것	NOUN	NNB	_	17	list	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	일이	일+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있냐	있+냐	ADJ	VA+EF	_	16	ccomp	_	_
+15	없냐	없냐	ADJ	VA+EF	_	14	flat	_	_
+16	만드는	만들+는	VERB	VV+ETM	_	17	acl	_	_
+17	자체가	자체+가	NOUN	NNG+JKS	_	22	nsubj	_	_
+18	다른	다르+ㄴ	ADJ	VA+ETM	_	19	amod	_	_
+19	사람과	사람+과	NOUN	NNG+JC	_	21	obj	_	_
+20	경쟁을	경쟁+을	NOUN	NNG+JKO	_	21	obl	_	_
+21	통해서	통하+아서	VERB	VV+EC	_	22	advcl	_	_
+22	얻은	얻+은	VERB	VV+ETM	_	23	acl	_	_
+23	것은	것+은	NOUN	NNB+JX	_	24	nsubj	_	_
+24	분명하다	분명+하+다	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-CHN_1_2_11
+# text = 이럴 때 양보다면 바보라는 소리를 들을 수밖에 없다.
+1	이럴	이러+ㄹ	VERB	VV+ETM	_	3	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	양보다면	양보+다면	VERB	NNG+EC	_	8	advcl	_	_
+4	바보라는	바보+이+라는	ADJ	NNG+VCP+ETM	_	5	acl	_	_
+5	소리를	소리+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	들을	듣+을	VERB	VV+ETM	_	7	acl	_	_
+7	수밖에	수+밖에	NOUN	NNB+JX	_	8	nsubj	_	_
+8	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_1_2_12
+# text = 경제 사회는 피 없는 전쟁터라는 말이 있듯이 먼저 이 싸움속에서 이겨야 한다.
+1	경제	경제	NOUN	NNG	_	2	nmod	_	_
+2	사회는	사회+는	NOUN	NNG+JX	_	7	dislocated	_	_
+3	피	피	NOUN	NNG	_	4	nsubj	_	_
+4	없는	없+는	ADJ	VA+ETM	_	5	acl	_	_
+5	전쟁터라는	전쟁+터+이+라는	ADJ	NNG+NNG+VCP+ETM	_	6	acl	_	_
+6	말이	말+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있듯이	있+듯이	VERB	VV+EC	_	11	advcl	_	_
+8	먼저	먼저	ADV	MAG	_	11	advmod	_	_
+9	이	이	DET	MM	_	10	det	_	_
+10	싸움속에서	싸움+속+에서	ADV	NNG+NNG+JKB	_	11	obl	_	_
+11	이겨야	이기+어야	VERB	VV+EC	_	0	root	_	_
+12	한다	하	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_1_2_13
+# text = 따라서 협동은 둘 째 치고 먼저 경쟁 속에서 이겨내고 프로젝트를 취득하고 그 다음에 프로젝트를 잘 완성하기 위해 팀원끼리 서로 협동해야 한다.
+1	따라서	따라서	ADV	MAJ	_	20	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	5	obj	_	_
+3	둘	둘	NUM	NR	_	4	nummod	_	_
+4	째	째	NOUN	NNB	_	5	obl	_	_
+5	치고	치+고	VERB	VV+EC	_	9	advcl	_	_
+6	먼저	먼저	ADV	MAG	_	9	advmod	_	_
+7	경쟁	경쟁	NOUN	NNG	_	8	nmod	_	_
+8	속에서	속+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	이겨내고	이겨+내+고	VERB	VV+XSV+EC	_	11	advcl	_	_
+10	프로젝트를	프로젝트+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	취득하고	취득+하+고	VERB	NNG+XSV+EC	_	20	advcl	_	_
+12	그	그	DET	MM	_	13	det	_	_
+13	다음에	다음+에	ADV	NNG+JKB	_	20	obl	_	_
+14	프로젝트를	프로젝트+를	NOUN	NNG+JKO	_	16	obj	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	완성하기	완성+하+기	VERB	NNG+XSV+ETN	_	17	obj	_	_
+17	위해	위하+아	VERB	VV+EC	_	20	advcl	_	_
+18	팀원끼리	팀원+끼리	NOUN	NNG+XSN	_	20	obl	_	_
+19	서로	서로	ADV	MAG	_	20	advmod	_	_
+20	협동해야	협동+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+21	한다	하	AUX	VX+EF	_	20	aux	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CHN_1_2_14
+# text = 상황에 어느 것이 성공에 더 중요하는가가 다르다는 것은 내 결론이다.
+1	상황에	상황+에	ADV	NNG+JKB	_	6	obl	_	_
+2	어느	어느	DET	MM	_	3	det	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	10	dislocated	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하는가가	중요+하+는가+가	ADJ	NNG+XSV+EF+JKS	_	7	nsubj	_	_
+7	다르다는	다르+다는	ADJ	VA+ETM	_	8	acl	_	_
+8	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+9	내	나+의	PRON	NP+JKG	_	10	nmod:poss	_	_
+10	결론이다	결론+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

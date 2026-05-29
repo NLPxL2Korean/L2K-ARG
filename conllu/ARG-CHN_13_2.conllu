@@ -1,0 +1,142 @@
+# sent_id = ARG-CHN_13_2_01
+# text = 저는 협동과 경쟁 중에서 협동이 성공에 더 큰 영향을 미친다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	10	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서	중+에서	ADV	NNB+JKB	_	3	case	_	_
+5	협동이	협동+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+6	성공에	성공+에	ADV	NNG+JKB	_	10	obl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	큰	크+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	영향을	영향+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	미친다고	미치+ㄴ다고	VERB	VV+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_13_2_02
+# text = 물론 협동과 경쟁이 성공에 다 큰 역할을 하고 있는 것이 여지할 필요가 없습니다.
+1	물론	물론	ADV	MAG	_	13	advmod	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	8	nsubj	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	다	다	ADV	MAG	_	8	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	역할을	역할+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	하고	하+고	VERB	VV+EC	_	10	acl	_	_
+9	있는	있	AUX	VX+ETM	_	8	aux	_	_
+10	것이	것+이	NOUN	NNB+JKS	_	13	dislocated	_	_
+11	여지할	여지+하+ㄹ	VERB	NF+XSV+ETM	Typo=Yes	12	acl	_	_
+12	필요가	필요+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_13_2_03
+# text = 특히 오늘날에 경쟁이 어디 분약에서도 매우 심각한 것을 느낄 수 있습니다.
+1	특히	특히	ADV	MAG	_	11	advmod	_	_
+2	오늘날에	오늘+날+에	ADV	NNG+NNG+JKB	_	11	obl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+4	어디	어디	PRON	NP	_	5	nmod	_	_
+5	분약에서도	분약+에서+도	ADV	NF+JKB+JX	Typo=Yes	7	obl	_	_
+6	매우	매우	ADV	MAG	_	7	advmod	_	_
+7	심각한	심각+하+ㄴ	ADJ	XR+XSA+ETM	_	8	acl	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	9	obj	_	_
+9	느낄	느끼+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_13_2_04
+# text = 경쟁에 의해 생산력을 높이고 경제력을 더 발전시키는 법입니다.
+1	경쟁에	경쟁+에	ADV	NNG+JKB	_	2	obl	_	_
+2	의해	의하+아	VERB	VV+EC	_	4	advcl	_	_
+3	생산력을	생산력+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	높이고	높+이+고	VERB	VV+XSV+EC	_	7	advcl	_	_
+5	경제력을	경제+력+을	NOUN	NNG+XSN+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	발전시키는	발전+시키+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	법입니다	법+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_13_2_05
+# text = 그러나 일면적으로 경쟁만 강조하면 경제를 하기 위해서 조작과 같은 성실하지 않은 짓들이 생길 수 있으며 더욱 악성적인 반복에 빠질 수 있습니다.
+1	그러나	그러나	ADV	MAJ	_	21	cc	_	_
+2	일면적으로	일+면+적+으로	ADV	MM+NNG+XSN+JKB	_	4	obl	_	_
+3	경쟁만	경쟁+만	NOUN	NNG+JX	_	6	obj	_	_
+4	강조하면	강조+하+면	VERB	NNG+XSV+EC	_	21	advcl	_	_
+5	경제를	경제+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	하기	하+기	VERB	VV+ETN	_	7	obj	_	_
+7	위해서	위하+아서	VERB	VV+EC	_	15	advcl	_	_
+8	조작과	조작+과	ADV	NNG+JKB	_	9	obl	_	_
+9	같은	같+은	ADJ	VA+ETM	_	12	acl	_	_
+10	성실하지	성실+하+지	ADJ	NNG+XSA+EC	_	12	acl	_	_
+11	않은	않	AUX	VX+ETM	_	10	aux	_	_
+12	짓들이	짓+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+13	생길	생기+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있으며	있	AUX	VX+EC	_	21	advcl	_	_
+16	더욱	더욱	ADV	MAG	_	17	advmod	_	_
+17	악성적인	악성+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	18	amod	_	_
+18	반복에	반복+에	ADV	NNG+JKB	_	19	obl	_	_
+19	빠질	빠지+ㄹ	VERB	VV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있습니다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_13_2_06
+# text = 경쟁보다는 협동은 다양한 자원이나 인력을 정합해서 품질이 더 좋은 제품을 만드며 창신력이 있는 아이드어도 탄생할 수 있는 양성 순환에 들어갈 수 있다고 생각합니다.
+1	경쟁보다는	경쟁+보다+는	ADV	NNG+JKB+JX	_	22	obl	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	자원이나	자원+이나	NOUN	NNG+JC	_	6	obj	_	_
+5	인력을	인력+을	NOUN	NNG+JKO	_	4	conj	_	_
+6	정합해서	정합+하+아서	VERB	NF+XSV+EC	Typo=Yes	11	advcl	_	_
+7	품질이	품질+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	acl	_	_
+10	제품을	제품+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	만드며	만드+며	VERB	NV+EC	Typo=Yes	17	advcl	_	_
+12	창신력이	창신+력+이	NOUN	NF+XSN+JKS	Typo=Yes	13	nsubj	_	_
+13	있는	있+는	VERB	VV+ETM	_	14	acl	_	_
+14	아이드어도	아이드어+도	NOUN	NF+JX	Typo=Yes	15	nsubj	_	_
+15	탄생할	탄생+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있는	있+는	VERB	VX+ETM	_	19	acl	_	_
+18	양성	양성	NOUN	NNG	_	19	nmod	_	_
+19	순환에	순환+에	ADV	NNG+JKB	_	20	obl	_	_
+20	들어갈	들어가+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있다고	있	AUX	VX+EC	_	23	ccomp	_	_
+23	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-CHN_13_2_07
+# text = 그리하여 저는 경쟁보다는 협동이 성공에 더 큰 영향을 미칠 수 있다고 여겨집니다.
+1	그리하여	그리하여	ADV	MAJ	_	12	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	12	nsubj	_	_
+3	경쟁보다는	경쟁+보다+는	ADV	NNG+JKB+JX	_	9	obl	_	_
+4	협동이	협동+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+5	성공에	성공+에	ADV	NNG+JKB	_	9	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	큰	크+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	영향을	영향+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	미칠	미치+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	여겨집니다	여기+어지+ㅂ니다	VERB	VV+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_13_2_08
+# text = 그리고 협동을 하는 동시에 적당한 경쟁이 넣으면 성공에 가장 균형적인 상태라고 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	12	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	동시에	동시+에	ADV	NNG+JKB	_	7	obl	_	_
+5	적당한	적당+하+ㄴ	ADJ	XR+XSA+ETM	_	6	amod	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	넣으면	넣+으면	VERB	VV+EC	_	11	advcl	_	_
+8	성공에	성공+에	ADV	NNG+JKB	_	10	obl	_	_
+9	가장	가장	ADV	MAG	_	10	advmod	_	_
+10	균형적인	균형+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	11	amod	_	_
+11	상태라고	상태+이+라고	ADJ	NNG+VCP+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

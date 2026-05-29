@@ -1,0 +1,249 @@
+# sent_id = ARG-JPN_13_1_01
+# text =  이번에 조기 언어어교육의 장담점에 대해서 각각 써보려고 한다.
+1	이번에	이번+에	ADV	NNG+JKB	_	7	obl	_	_
+2	조기	조기	NOUN	NNG	_	3	nmod	_	_
+3	언어어교육의	언어+어+교육+의	NOUN	NNG+NF+NNG+JKG	_	4	nmod:poss	_	_
+4	장담점에	장담점+에	ADV	NF+JKB	_	5	obl	_	_
+5	대해서	대하+아서	VERB	VV+EC	_	7	advcl	_	_
+6	각각	각각	NOUN	NNG	_	7	obl	_	_
+7	써보려고	쓰+어+보+려고	VERB	VV+EC+VX+EC	_	0	root	_	_
+8	한다	하+ㄴ다	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_13_1_02
+# text =  먼저 장점에 대해서다.
+1	먼저	먼저	ADV	MAG	_	3	advmod	_	_
+2	장점에	장점+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해서다	대하+아서+다	VERB	VV+EC+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_13_1_03
+# text =  내가 생각하는 조기언어교육의 장점은 4 가지 있다.
+1	내가	내+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	장점은	장점+은	NOUN	NNG+JX	_	7	dislocated	_	_
+5	4	4	NUM	SN	_	7	nsubj	_	_
+6	가지	가지	NOUN	NNB	_	5	goeswith	_	_
+7	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_13_1_04
+# text =  첫번째는 빨리 외울 수 있다는 점이다.
+1	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	6	obl	_	_
+2	빨리	빨리	ADV	MAG	_	3	advmod	_	_
+3	외울	외우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다는	있+다는	VERB	VX+ETM	_	6	acl	_	_
+6	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_13_1_05
+# text =  어릴 때 부터 교육을 받으면 필요없는 지식이 없는 상태라서 학습에 도움이 된다고 생각한다.
+1	어릴	어리+ㄹ	VERB	VA+ETM	_	5	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	부터	부터	ADP	JX	_	2	case	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	받으면	받+으면	VERB	VV+EC	_	12	advcl	_	_
+6	필요없는	필요+없+는	ADJ	NNG+VA+ETM	_	7	amod	_	_
+7	지식이	지식+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	없는	없+는	VERB	VA+ETM	_	9	acl	_	_
+9	상태라서	상태+이+라서	VERB	NNG+VCP+EC	_	12	advcl	_	_
+10	학습에	학습+에	ADV	NNG+JKB	_	12	obl	_	_
+11	도움이	도움+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	된다고	되+ㄴ다고	VERB	VV+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_13_1_06
+# text =  두번째는 감각적으로 배우기 때문에 대화하기 쉬운 점이다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	7	obl	_	_
+2	감각적으로	감각+적+으로	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	배우기	배우+기	NOUN	VV+ETN	_	6	obl	_	_
+4	때문에	때문+에	ADP	NNB+JKB	_	3	case	_	_
+5	대화하기	대화+하+기	NOUN	NNG+XSV+ETN	_	6	nsubj	_	_
+6	쉬운	쉽+ㄴ	VERB	VA+ETM	_	7	acl	_	_
+7	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_13_1_07
+# text =  우리가 배운 것 같이 외국어도 조기 상태에서 그렇게 배우면 자연스럽게 학습이 되고 외국인과 대화할 때 아주 쉽게 단어들이 나올 것 같아고 생각한다.
+1	우리가	우리+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	배운	배우+ㄴ	VERB	VV+ETM	_	3	acl	_	_
+3	것	것	NOUN	NNB	_	4	obl	_	_
+4	같이	같이	ADV	MAG	_	9	advcl	_	_
+5	외국어도	외국어+도	NOUN	NNG+JX	_	9	obj	_	_
+6	조기	조기	NOUN	NNG	_	7	nmod	_	_
+7	상태에서	상태+에서	ADP	NNG+JKB	_	9	obl	_	_
+8	그렇게	그렇+게	ADV	VA+EC	_	9	advmod	_	_
+9	배우면	배우+면	VERB	VV+EC	_	12	advcl	_	_
+10	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	12	advmod	_	_
+11	학습이	학습+이	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	되고	되+고	VERB	VV+EC	_	21	advcl	_	_
+13	외국인과	외국인+과	ADV	NNG+JKB	_	14	obl	_	_
+14	대화할	대화+하+ㄹ	VERB	NNG+XSV+ETM	_	21	advcl	_	_
+15	때	때	ADV	NNG	_	14	mark	_	_
+16	아주	아주	ADV	MAG	_	17	advmod	_	_
+17	쉽게	쉽+게	ADV	VA+EC	_	19	advmod	_	_
+18	단어들이	단어+들+이	NOUN	NNG+XSN+JKS	_	19	nsubj	_	_
+19	나올	나오+ㄹ	VERB	VV+ETM	_	20	acl	_	_
+20	것	것	NOUN	NNB	_	21	nsubj	_	_
+21	같아고	같+아고	VERB	VA+NA	_	22	ccomp	_	_
+22	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_13_1_08
+# text =  세번째는 원어민같이 발음할 수 있다는 점이다.
+1	세번째는	세+번째+는	NOUN	MM+NNB+JX	_	6	obl	_	_
+2	원어민같이	원어민+같이	ADV	NNG+JKB	_	3	obl	_	_
+3	발음할	발음+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있다는	있+다는	VERB	VX+ETM	_	6	acl	_	_
+6	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_13_1_09
+# text =  이것은 외국어를 말할 때뿐만 아니라 들을 때도 능력이 필요해서 도움이 된다고 생각한다.
+1	이것은	이것+은	PRON	NP+JX	_	11	nsubj	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	때뿐만	때+뿐+만	NOUN	NNB+JX+JX	_	5	nsubj	_	_
+5	아니라	아니+라	VERB	VCN+EC	_	6	advcl	_	_
+6	들을	듣+을	VERB	VV+ETM	_	9	advcl	_	_
+7	때도	때+도	ADV	NNG+JX	_	6	mark	_	_
+8	능력이	능력+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	필요해서	필요+하+아서	VERB	NNG+XSA+EC	_	11	advcl	_	_
+10	도움이	도움+이	NOUN	NNG+JKC	_	11	nsubj	_	_
+11	된다고	되+ㄴ다고	VERB	VV+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_13_1_10
+# text =  마지막은 외국어를 배울 기조가 만들어진다는 점이다.
+1	마지막은	마지막+은	NOUN	NNG+JX	_	6	nsubj	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배울	배우+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	기조가	기조+가	NOUN	NF+JKS	_	5	nsubj	_	_
+5	만들어진다는	만들+어지+ㄴ다는	VERB	VV+XSV+ETM	_	6	acl	_	_
+6	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_13_1_11
+# text =  어떤 것이든 기조는 매우 중요한 것이라서 조기언어교육을 하는 장점인 것 같다고 생각한다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	것이든	것+이+든	VERB	NNB+VCP+ETM	_	6	advcl	_	_
+3	기조는	기조+는	NOUN	NF+JX	_	6	nsubj	_	_
+4	매우	매우	ADV	MAG	_	5	advmod	_	_
+5	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	6	acl	_	_
+6	것이라서	것+이+라서	VERB	NNB+VCP+EC	_	11	advcl	_	_
+7	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	8	obj	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	장점인	장점+이+ㄴ	VERB	NNG+VCP+ETM	_	10	acl	_	_
+10	것	것	NOUN	NNB	_	11	nsubj	_	_
+11	같다고	같+다고	VERB	VA+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_13_1_12
+# text =  반대로 단점도 있다.
+1	반대로	반대+로	ADV	NNG+JKB	_	3	obl	_	_
+2	단점도	단점+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_13_1_13
+# text =  단점도 장점과 같이 4가지 있다.
+1	단점도	단점+도	NOUN	NNG+JX	_	5	dislocated	_	_
+2	장점과	장점+과	ADV	NNG+JKB	_	3	obl	_	_
+3	같이	같+이	ADV	VA+EC	_	5	advcl	_	_
+4	4가지	4+가지	NOUN	SN+NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_13_1_14
+# text =  첫번째는 외국어 학습이 잘 맞지 않아서 포기할 가능성이 있다는 것이다.
+1	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	10	obl	_	_
+2	외국어	외국어	NOUN	NNG	_	3	nmod	_	_
+3	학습이	학습+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	맞지	맞+지	VERB	VV+EC	_	9	advcl	_	_
+6	않아서	않+아서	AUX	VX+EC	_	5	aux	_	_
+7	포기할	포기+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	있다는	있+다는	VERB	VV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_13_1_15
+# text =  어렸을 때부터 어려운 학습의 도전하면 재미도 없어서 오히려 그 아이에게 잘 맞지 않은 교과가 될 수도 있다.
+1	어렸을	어리+었+을	VERB	VA+EP+ETM	_	5	advcl	_	_
+2	때부터	때+부터	ADV	NNG+JX	_	1	mark	_	_
+3	어려운	어렵+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	학습의	학습+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	도전하면	도전+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	재미도	재미+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	없어서	없+어서	VERB	VA+EC	_	17	advcl	_	_
+8	오히려	오히려	ADV	MAG	_	17	advmod	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	아이에게	아이+에게	NOUN	NNG+JKB	_	12	obl	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	맞지	맞+지	VERB	VV+EC	_	14	acl	_	_
+13	않은	않+은	AUX	VX+ETM	_	12	aux	_	_
+14	교과가	교과+가	NOUN	NF+JKS	_	15	nsubj	_	_
+15	될	되+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수도	수+도	NOUN	NNB+JX	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_13_1_16
+# text =  두번째는 감각적인 학습으로 인해 문법적으로 약한 부분이 있다.
+1	두번째는	두+번째+는	NOUN	MM+NNB+JX	_	8	obl	_	_
+2	감각적인	감각+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	학습으로	학습+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	인해	인하+아	VERB	VV+EC	_	8	advcl	_	_
+5	문법적으로	문법+적+으로	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	약한	약하+ㄴ	ADJ	VA+ETM	_	7	acl	_	_
+7	부분이	부분+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_13_1_17
+# text =  세번째는 모국어의 발달이 다른 사람보다 늦어지는 가능성이 있다는 점이다.
+1	세번째는	세+번째+는	NOUN	MM+NNB+JX	_	9	obl	_	_
+2	모국어의	모국어+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	발달이	발달+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	다른	다른	ADJ	VA+ETM	_	5	amod	_	_
+5	사람보다	사람+보다	ADV	NNG+JKB	_	6	obl	_	_
+6	늦어지는	늦+어지+는	VERB	VA+XSV+ETM	_	7	acl	_	_
+7	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+8	있다는	있+다는	VERB	VV+ETM	_	9	acl	_	_
+9	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_13_1_18
+# text =  마지막으로 비용적으로 힘든 점이 있다는 것이다.
+1	마지막으로	마지막+으로	ADV	NNG+JKB	_	6	obl	_	_
+2	비용적으로	비용+적+으로	ADV	NNG+XSN+JKB	_	3	obl	_	_
+3	힘든	힘들+ㄴ	VERB	VA+ETM	_	4	acl	_	_
+4	점이	점+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	있다는	있+다는	VERB	VV+ETM	_	6	acl	_	_
+6	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_13_1_19
+# text =  이렇게 조기언어교육의 장단점을 나열해 봤지만 나는 어린 시절에 돈이들어도 언어학습을 하는 것이 좋다고 생각한다.
+1	이렇게	이렇+게	ADV	VA+EC	_	4	advmod	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	SN+SN+JKG+JKG	_	3	nmod:poss	_	_
+3	장단점을	장단점+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	나열해	나열+하+아	VERB	NNG+XSV+EC	_	14	advcl	_	_
+5	봤지만	보+았+지만	VERB	VX+EP+EC	_	4	aux	_	_
+6	나는	나+는	PRON	NP+JX	_	14	nsubj	_	_
+7	어린	어리+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	시절에	시절+에	ADV	NNG+JKB	_	9	obl	_	_
+9	돈이들어도	돈+이+들+어도	VERB	NNG+JKS+VV+EC	_	11	advcl	_	_
+10	언어학습을	언어+학습+을	NOUN	NNG+NNG+JKO	_	11	obj	_	_
+11	하는	하+는	VERB	VV+ETM	_	12	acl	_	_
+12	것이	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+13	좋다고	좋+다고	VERB	VA+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

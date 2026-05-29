@@ -1,0 +1,108 @@
+# sent_id = ARG-JPN_03_2_01
+# text =  우리가 역사를 배워야 하는 이유는 지금 이 시대에 옛날에 일어난 좋지 않은 사건을 다시 일어나지 않게 노력을 해야 할 필요가 있기 때문이다.
+1	우리가	우리+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	acl	_	_
+4	하는	하+는	AUX	VX+ETM	_	3	aux	_	_
+5	이유는	이유+는	NOUN	NNG+JX	_	22	nsubj	_	_
+6	지금	지금	ADV	NNG	_	8	nmod	_	_
+7	이	이	DET	MM	_	8	det	_	_
+8	시대에	시대+에	ADV	NNG+JKB	_	15	obl	_	_
+9	옛날에	옛날+에	ADV	NNG+JKB	_	10	obl	_	_
+10	일어난	일어나+ㄴ	VERB	VV+ETM	_	13	acl	_	_
+11	좋지	좋+지	VERB	VA+EC	_	13	amod	_	_
+12	않은	않+은	AUX	VX+ETM	_	11	aux	_	_
+13	사건을	사건+을	NOUN	NNG+JKO	_	15	obj	_	_
+14	다시	다시	ADV	MAG	_	15	advmod	_	_
+15	일어나지	일어나+지	VERB	VV+EC	_	18	advcl	_	_
+16	않게	않+게	VERB	VX+EC	_	11	aux	_	_
+17	노력을	노력+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	해야	하+아야	VERB	VV+EC	_	20	acl	_	_
+19	할	하+ㄹ	AUX	VX+ETM	_	18	aux	_	_
+20	필요가	필요+가	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	있기	있+기	NOUN	VV+ETN	_	22	nmod	_	_
+22	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_03_2_02
+# text =  역사에는 정게나 어느 나라에서생긴 인권을 중요시하지 않았던 나쁜 사건이 많이 포함되고 있다.
+1	역사에는	역사+에+는	ADV	NNG+JKB+JX	_	11	obl	_	_
+2	정게나	정게+나	NOUN	NF+JC	_	9	acl	_	_
+3	어느	어느	DET	MM	_	4	det	_	_
+4	나라에서생긴	나라+에서+생기+ㄴ	ADV	NNG+JKB+VV+ETM	_	2	conj	_	_
+5	인권을	인권+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	중요시하지	중요+시+하+지	VERB	NNG+XSN+XSV+EC	_	9	acl	_	_
+7	않았던	않+았+던	AUX	VX+EP+ETM	_	6	aux	_	_
+8	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	사건이	사건+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	많이	많이	ADV	MAG	_	11	advmod	_	_
+11	포함되고	포함+되+고	VERB	NNG+XSV+EC	_	0	root	_	_
+12	있다	있+다	AUX	VX+EF	_	11	aux	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_03_2_03
+# text =  우리는 그런 역사를 배우고 두번다시 같은 사건을 발생하지 않도록 수 많은 노력이나 대책을 새워야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	14	nsubj	_	_
+2	그런	그런	DET	MM	_	3	det	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우고	배우+고	VERB	VV+EC	_	14	advcl	_	_
+5	두번다시	두+번+다시	ADV	MM+NNB+MAG	_	8	advmod	_	_
+6	같은	같+은	VERB	VA+ETM	_	7	amod	_	_
+7	사건을	사건+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	발생하지	발생+하+지	VERB	NNG+XSV+EC	_	14	advcl	_	_
+9	않도록	않+도록	AUX	VX+EC	_	8	aux	_	_
+10	수	수	NOUN	XPN	_	12	amod	_	_
+11	많은	많+은	ADJ	VA+ETM	_	10	goeswith	_	_
+12	노력이나	노력+이나	NOUN	NNG+JC	_	14	obj	_	_
+13	대책을	대책+을	NOUN	NNG+JKO	_	12	conj	_	_
+14	새워야	새우+어야	VERB	NV+EC	_	0	root	_	_
+15	한다	하+ㄴ다	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_03_2_04
+# text =  그리고 역사를 알면 교양이 깊어진다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	알면	알+면	VERB	VV+EC	_	5	advcl	_	_
+4	교양이	교양+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	깊어진다	깊+어지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_03_2_05
+# text =  문화적으로 옜날 사람들의 생활을 보면 현대와 비교해보는 것도 재미가 있고 그 기록이나 물건을 보면 자기 나라나 다른 나라의 편화를 알 수 있다.
+1	문화적으로	문화+적+으로	ADV	NNG+XSN+JKB	_	5	obl	_	_
+2	옜날	옜날	NOUN	NF	_	3	nmod	_	_
+3	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	생활을	생활+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	보면	보+면	VERB	VV+EC	_	22	advcl	_	_
+6	현대와	현대+와	NOUN	NNG+JKB	_	7	obl	_	_
+7	비교해보는	비교+하+아+보+는	VERB	NNG+XSV+EC+VX+ETM	_	8	acl	_	_
+8	것도	것+도	NOUN	NNB+JX	_	10	dislocated	_	_
+9	재미가	재미+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있고	있+고	VERB	VV+EC	_	22	advcl	_	_
+11	그	그	DET	MM	_	13	det	_	_
+12	기록이나	기록+이나	NOUN	NNG+JC	_	14	obj	_	_
+13	물건을	물건+을	NOUN	NNG+JKO	_	12	conj	_	_
+14	보면	보+면	VERB	VV+EC	_	22	advcl	_	_
+15	자기	자기	PRON	NNG	_	18	nmod	_	_
+16	나라나	나라+나	NOUN	NNG+JC	_	19	nmod:poss	_	_
+17	다른	다른	ADJ	MM	_	18	amod	_	_
+18	나라의	나라+의	NOUN	NNG+JKG	_	16	conj	_	_
+19	편화를	편화+를	NOUN	NF+JKO	_	20	obj	_	_
+20	알	알+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_03_2_06
+# text =  이상와 같이 역사를 배우는 것은 아주 중요하다고 할 수 있다
+1	이상와	이상+와	ADV	NNG+NA	_	4	obl	_	_
+2	같이	같+이	ADV	VA+EC	_	7	advcl	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	7	nsubj	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	8	ccomp	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	_

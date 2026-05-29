@@ -1,0 +1,119 @@
+# sent_id = ARG-CZH_15_2_01
+# text = 역사를 배워야 한다는 입장이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	4	acl	_	_
+3	한다는	하	AUX	VX+ETM	_	2	aux	_	_
+4	입장이다	입장+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_15_2_02
+# text = 이유가 몇 개 있다.
+1	이유가	이유+가	NOUN	NNG+JKS	_	4	dislocated	_	_
+2	몇	몇	DET	MM	_	3	det	_	_
+3	개	개	NOUN	NNB	_	4	nsubj	_	_
+4	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_15_2_03
+# text = 먼저 역사를 안배우면 오늘 왜 어딘지 왜 뭐 할 수 있는지 음식이나 음료수가 있는지 이런 것을 다 우리 부모님과 조상 덕분인 것을 인식해야하고 감사합니다.
+1	먼저	먼저	ADV	MAG	_	3	advmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	안배우면	안+배우+면	VERB	MAG+VV+EC	_	24	advcl	_	_
+4	오늘	오늘	ADV	MAG	_	6	advmod	_	_
+5	왜	왜	ADV	MAG	_	6	advmod	_	_
+6	어딘지	어디+이+ㄴ지	ADJ	NP+VCP+EC	_	23	ccomp	_	_
+7	왜	왜	ADV	MAG	_	9	advmod	_	_
+8	뭐	뭐	PRON	NP	_	9	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있는지	있+는지	VERB	VX+EC	_	6	conj	_	_
+12	음식이나	음식+이나	NOUN	NNG+JC	_	14	nsubj	_	_
+13	음료수가	음료수+가	NOUN	NNG+JKS	_	12	conj	_	_
+14	있는지	있+는지	VERB	VV+EC	_	6	conj	_	_
+15	이런	이런	DET	MM	_	16	det	_	_
+16	것을	것+을	NOUN	NNB+JKO	_	23	obj	_	_
+17	다	다	ADV	MAG	_	21	advmod	_	_
+18	우리	우리	PRON	NP	_	19	nmod	_	_
+19	부모님과	부모+님+과	NOUN	NNG+XSN+JC	_	21	obl	_	_
+20	조상	조상	NOUN	NNG	_	19	conj	_	_
+21	덕분인	덕분+이+ㄴ	ADJ	NNG+VCP+ETM	_	22	acl	_	_
+22	것을	것+을	NOUN	NNB+JKO	_	23	obj	_	_
+23	인식해야하고	인식+하+아야+하+고	VERB	NNG+XSV+EC+VX+EC	_	24	advcl	_	_
+24	감사합니다	감사+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-CZH_15_2_04
+# text = 게다가 역사에 전쟁같은 잘못과 문제가 뱅쟁긴 경우도 많았으니까 이런 상황이 다시 안되도록 하기에 역사를 안는 것이 예방이 된다.
+1	게다가	게다가	ADV	MAG	_	8	advmod	_	_
+2	역사에	역사+에	ADV	NNG+JKB	_	8	obl	_	_
+3	전쟁같은	전쟁+같+은	ADJ	NNG+VA+ETM	_	4	acl	_	_
+4	잘못과	잘못+과	NOUN	NNG+JC	_	6	nsubj	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	4	conj	_	_
+6	뱅쟁긴	뱅쟁기+ㄴ	VERB	NV+ETM	Typo=Yes	7	acl	_	_
+7	경우도	경우+도	NOUN	NNG+JX	_	8	nsubj	_	_
+8	많았으니까	많+았+으니까	ADJ	VA+EP+EC	_	18	advcl	_	_
+9	이런	이런	DET	MM	_	10	det	_	_
+10	상황이	상황+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	다시	다시	ADV	MAG	_	12	advmod	_	_
+12	안되도록	안+되+도록	VERB	MAG+VV+EC	_	13	advcl	_	_
+13	하기에	하+기+에	VERB	VV+ETN+JKB	_	15	obl	_	_
+14	역사를	역사+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	안는	안+는	VERB	NV+ETM	Typo=Yes	16	acl	_	_
+16	것이	것+이	NOUN	NNB+JKS	_	18	dislocated	_	_
+17	예방이	예방+이	NOUN	NNG+JKC	_	18	nsubj	_	_
+18	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_15_2_05
+# text = 또 한국인이 한국 역사를 알아야 하듯이 다른 나라 사람도 자신의 나라의 역사를 알아 한다.
+1	또	또	ADV	MAJ	_	13	cc	_	_
+2	한국인이	한국인+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	한국	한국	NOUN	NNP	_	4	nmod	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	알아야	알+아야	VERB	VV+EC	_	13	advcl	_	_
+6	하듯이	하	AUX	VX+EC	_	5	aux	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	나라	나라	NOUN	NNG	_	9	nmod	_	_
+9	사람도	사람+도	NOUN	NNG+JX	_	13	nsubj	_	_
+10	자신의	자신+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	나라의	나라+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	역사를	역사+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	알아	알+아	VERB	VV+EC	_	0	root	_	_
+14	한다	하	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_15_2_06
+# text = 역사를 몰래 국적이란 개념도 없애지다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+2	몰래	몰래	NOUN	NA	Typo=Yes	5	advcl	_	_
+3	국적이란	국적+이+라는	ADJ	NNG+VCP+ETM	_	4	acl	_	_
+4	개념도	개념+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	없애지다	없애+지+다	VERB	VV+EC+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_15_2_07
+# text = 그런데 아주 중요한 점은 역사를 이기는 사람이 쓰는 것을 개달아야 한다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	점은	점+은	NOUN	NNB+JX	_	10	nsubj	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	이기는	이기+는	VERB	VV+ETM	_	7	acl	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	쓰는	쓰+는	VERB	VV+ETM	_	9	acl	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	10	obj	_	_
+10	개달아야	개달+아야	VERB	NV+EC	Typo=Yes	0	root	_	_
+11	한다	하	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_15_2_08
+# text = 그래서 배우면서도 모든 정보를 확인해야 정확히 알수 있다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	배우면서도	배우+면서+도	VERB	VV+EC+JX	_	8	advcl	_	_
+3	모든	모든	DET	MM	_	4	det	_	_
+4	정보를	정보+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	확인해야	확인+하+아야	VERB	NNG+XSV+EC	_	8	advcl	_	_
+6	정확히	정확히	ADV	MAG	_	7	advmod	_	_
+7	알수	알+ㄹ+수	NOUN	VV+ETM+NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

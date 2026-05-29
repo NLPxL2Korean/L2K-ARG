@@ -1,0 +1,54 @@
+# sent_id = ARG-JPN_35_1_01
+# text =  어릴때부터 외국어를 배운것의 좋은 점은 두가지 있습니다.
+1	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	3	advcl	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배운것의	배우+ㄴ+것+의	NOUN	VV+ETM+NNB+JX	_	5	nmod:poss	_	_
+4	좋은	좋+은	VERB	VA+ETM	_	5	amod	_	_
+5	점은	점+은	NOUN	NNB+JX	_	7	dislocated	_	_
+6	두가지	두+가지	NOUN	MM+NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_35_1_02
+# text =  첫째, 빨리 공부를 시작하면 외운 속도가 빨게 된다.
+1	첫째	첫째	ADV	NR	_	9	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	9	1	punct	_	_
+3	빨리	빨리	ADV	MAG	_	5	advmod	_	_
+4	공부를	공부+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+6	외운	외우+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	속도가	속도+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	빨게	빨+게	VERB	NV+EC	_	9	advmod	_	_
+9	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_35_1_03
+# text =  들째, 외국 문화에 더 관심을 기지게 된다.
+1	들째	들째	NOUN	NA	_	7	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	외국	외국	NOUN	NNG	_	4	nmod	_	_
+4	문화에	문화+에	ADV	NNG+JKB	_	7	obl	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	관심을	관심+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	기지게	기지+게	VERB	NV+EC	_	0	root	_	_
+8	된다	되+ㄴ다	VERB	VX+EF	_	7	advcl	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_35_1_04
+# text =  안 좋은 점은 자국버나 외국에서 일하고 싶은 사람이 많아 질 수 있는 가능성 크게 된다.
+1	안	안	ADV	MAG	_	2	advmod	_	_
+2	좋은	좋+은	VERB	VA+ETM	_	3	amod	_	_
+3	점은	점+은	NOUN	NNB+JX	_	14	obl	_	_
+4	자국버나	자국버+나	NOUN	NF+JC	_	6	obl	_	_
+5	외국에서	외국+에서	ADV	NNG+JKB	_	4	conj	_	_
+6	일하고	일+하+고	VERB	NNG+XSV+EC	_	8	acl	_	_
+7	싶은	싶+은	AUX	VX+ETM	_	6	aux	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	많아	많+아	VERB	VA+XSV	_	11	acl	_	_
+10	질	지+ㄹ	VERB	XSV+ETM	_	9	goeswith	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있는	있+는	VERB	VX+ETM	_	13	acl	_	_
+13	가능성	가능+성	NOUN	NNG+XSN	_	14	nsubj	_	_
+14	크게	크+게	ADV	VA+EC	_	0	root	_	_
+15	된다	되+ㄴ다	VERB	VX+EF	_	14	advcl	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_

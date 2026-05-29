@@ -1,0 +1,126 @@
+# sent_id = ARG-CHN_5_2_01
+# text = 사람마다 다 성공을 원한다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	4	obl	_	_
+2	다	다	ADV	MAG	_	4	advmod	_	_
+3	성공을	성공+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	원한다	원하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_5_2_02
+# text = 그러나 성공을 이루기 하는 과정중에 누가와 같이 협동해서 성공해내는 사람도 있으며 치열한 경쟁을 겪어나서 성공해내는 사람도 있다.
+1	그러나	그러나	ADV	MAJ	_	17	cc	_	_
+2	성공을	성공+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	이루기	이루+기	VERB	VV+ETN	_	4	obj	_	_
+4	하는	하+는	VERB	VV+ETM	_	5	acl	_	_
+5	과정중에	과정+중+에	ADV	NNG+NNB+JKB	_	8	obl	_	_
+6	누가와	누구+가+와	ADV	NP+JKS+JKB	_	8	obl	_	_
+7	같이	같이	ADV	MAG	_	8	advmod	_	_
+8	협동해서	협동+하+아서	VERB	NNG+XSV+EC	_	9	advcl	_	_
+9	성공해내는	성공+하+아+내+는	VERB	NNG+XSV+EC+VX+ETM	_	10	acl	_	_
+10	사람도	사람+도	NOUN	NNG+JX	_	11	nsubj	_	_
+11	있으며	있+으며	ADJ	VA+EC	_	15	advcl	_	_
+12	치열한	치열+하+ㄴ	ADJ	NNG+XSA+ETM	_	13	amod	_	_
+13	경쟁을	경쟁+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	겪어나서	겪+어+나+아서	VERB	VV+EC+VX+EC	_	15	advcl	_	_
+15	성공해내는	성공+하+아+내+는	VERB	NNG+XSV+EC+VX+ETM	_	16	acl	_	_
+16	사람도	사람+도	NOUN	NNG+JX	_	17	nsubj	_	_
+17	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_5_2_03
+# text = 나는 성공하는 과정중에는 협동보다 경쟁이 더 중요하다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+2	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	과정중에는	과정+중+에+는	ADV	NNG+NNB+JKB+JX	_	8	obl	_	_
+4	협동보다	협동+보다	ADV	NNG+JKB	_	7	obl	_	_
+5	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_5_2_04
+# text = 사람들이 경쟁은 좋은 점도 많다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	obl	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	5	dislocated	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	점도	점+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_5_2_05
+# text = 경쟁은 사람들의 동기가 될 수 있기 때문이다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	dislocated	_	_
+2	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	동기가	동기+가	NOUN	NNG+JKC	_	4	nsubj	_	_
+4	될	되+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있기	있	AUX	VX+ETN	_	7	nmod	_	_
+7	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_5_2_06
+# text = 우리는 이 사회에서 혼자 살고 있는 것이 아니라 여러명 사회구성원과 함께 살는 것이다.
+1	우리는	우리+는	PRON	NP+JX	_	12	nsubj	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	사회에서	사회+에서	ADV	NNG+JKB	_	5	obl	_	_
+4	혼자	혼자	ADV	MAG	_	5	advmod	_	_
+5	살고	살+고	VERB	VV+EC	_	7	acl	_	_
+6	있는	있	AUX	VX+ETM	_	5	aux	_	_
+7	것이	것+이	NOUN	NNB+JKC	_	8	nsubj	_	_
+8	아니라	아니+라	ADJ	VCN+EC	_	13	advcl	_	_
+9	여러명	여러+명	NOUN	MM+NNB	_	10	nmod	_	_
+10	사회구성원과	사회+구성원+과	ADV	NNG+NNG+JKB	_	12	obl	_	_
+11	함께	함께	ADV	MAG	_	13	advmod	_	_
+12	살는	살+는	VERB	VV+ETM	_	13	acl	_	_
+13	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_5_2_07
+# text = 다른사람들과 비교하면 자기의 결점을 알 수 있을 뿐만 아니라 이 치열한 경쟁에서 끝까지 성공한 사람이 되기 위해 끝임없는 노력을 할 것이다.
+1	다른사람들과	다른+사람+들+과	ADV	MM+NNG+XSN+JKB	_	2	obl	_	_
+2	비교하면	비교+하+면	VERB	NNG+XSV+EC	_	5	advcl	_	_
+3	자기의	자기+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	결점을	결점+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	알	알+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있을	있+을	VERB	VX+ETM	_	8	acl	_	_
+8	뿐만	뿐+만	NOUN	NNB+JX	_	9	nsubj	_	_
+9	아니라	아니+라	ADJ	VCN+EC	_	21	advcl	_	_
+10	이	이	DET	MM	_	12	det	_	_
+11	치열한	치열+하+ㄴ	ADJ	NNG+XSA+ETM	_	12	amod	_	_
+12	경쟁에서	경쟁+에서	ADV	NNG+JKB	_	16	obl	_	_
+13	끝까지	끝+까지	NOUN	NNG+JX	_	14	obl	_	_
+14	성공한	성공+하+ㄴ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	사람이	사람+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	되기	되+기	VERB	VV+ETN	_	17	obj	_	_
+17	위해	위하+아	VERB	VV+EC	_	20	advcl	_	_
+18	끝임없는	끝임+없+는	ADJ	NF+XSA+ETM	Typo=Yes	19	amod	_	_
+19	노력을	노력+을	NOUN	NNG+JKO	_	20	obj	_	_
+20	할	하+ㄹ	VERB	VV+ETM	_	21	acl	_	_
+21	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CHN_5_2_08
+# text = 물론 협동도 성공하는 과정중에 이정한 영향비중을 차지하지만 99% 노력 가운데 1% 성공을 해낼 수 있는 자극은 바로 경쟁때문에 생긴 것이다.
+1	물론	물론	ADV	MAG	_	7	advmod	_	_
+2	협동도	협동+도	NOUN	NNG+JX	_	7	nsubj	_	_
+3	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	과정중에	과정+중+에	ADV	NNG+NNB+JKB	_	7	obl	_	_
+5	이정한	이정+하+ㄴ	ADJ	NF+XSA+ETM	Typo=Yes	6	amod	_	_
+6	영향비중을	영향+비중+을	NOUN	NNG+NNG+JKO	_	7	obj	_	_
+7	차지하지만	차지+하+지만	VERB	NNG+XSV+EC	_	20	advcl	_	_
+8	99%	99+%	NOUN	SN+SW	_	9	nmod	_	_
+9	노력	노력	NOUN	NNG	_	13	obl	_	_
+10	가운데	가운데	NOUN	NNG	_	9	nmod	_	_
+11	1%	1+%	NOUN	SN+SW	_	12	nmod	_	_
+12	성공을	성공+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	해낼	해내+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있는	있+는	VERB	VX+ETM	_	16	acl	_	_
+16	자극은	자극+은	NOUN	NNG+JX	_	20	nsubj	_	_
+17	바로	바로	ADV	MAG	_	19	advmod	_	_
+18	경쟁때문에	경쟁+때문+에	ADV	NNG+NNB+JKB	_	19	obl	_	_
+19	생긴	생기+ㄴ	VERB	VV+ETM	_	20	acl	_	_
+20	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_

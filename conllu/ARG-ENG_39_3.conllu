@@ -1,0 +1,100 @@
+# sent_id = ARG-ENG_39_3_01
+# text = 협동과 경쟁 둘 다 각기의 적당한 맹락과 목적을 이룰 수 있다고 생각합니다.
+1	협동과	협동+과	NOUN	NNG+JC	_	9	nsubj	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	둘	둘	NUM	NR	_	4	nummod	_	_
+4	다	다	ADV	MAG	_	9	advmod	_	_
+5	각기의	각기+의	NOUN	NNP+JKG	_	7	nmod:poss	_	_
+6	적당한	적당+하+ㄴ	ADJ	XR+XSA+ETM	_	7	amod	_	_
+7	맹락과	맹락+과	NOUN	NNG+JC	_	9	obj	_	_
+8	목적을	목적+을	NOUN	NNG+JKO	_	7	conj	_	_
+9	이룰	이루+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_39_3_02
+# text = 긍정적인 경쟁은 재미와 발견을 공적을 싶을 수 있으면서 경쟁심이 넘어가면 빈곤과 고통과 다른 피할 만한 성과를 만들 수 있습니다.
+1	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	2	amod	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+3	재미와	재미+와	NOUN	NNG+JC	_	6	obj	_	_
+4	발견을	발견+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	공적을	공적+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	싶을	싶+을	ADJ	VA+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있으면서	있+으면서	VERB	VX+EC	_	19	advcl	_	_
+9	경쟁심이	경쟁심+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	넘어가면	넘어가+면	VERB	VV+EC	_	19	advcl	_	_
+11	빈곤과	빈곤+과	NOUN	NNG+JC	_	17	obj	_	_
+12	고통과	고통+과	NOUN	NNG+JC	_	11	conj	_	_
+13	다른	다르+ㄴ	ADJ	VA+ETM	_	16	amod	_	_
+14	피할	피하+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+15	만한	만하+ㄴ	VERB	VX+ETM	_	14	advcl	_	_
+16	성과를	성과+를	NOUN	NNG+JKO	_	11	conj	_	_
+17	만들	만들+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_39_3_03
+# text = 이와 같이 협동하는 사람들이 쾌락과 행복과 중대한 다른 혜택을 줄 수 있으나 협동은 핵폭탄과 전쟁과 음모도 만들 데가 많습니다.
+1	이와	이+와	PRON	NP+JKB	_	2	obl	_	_
+2	같이	같이	ADV	MAG	_	12	advcl	_	_
+3	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+5	쾌락과	쾌락+과	NOUN	NF+JC	Typo=Yes	10	obj	_	_
+6	행복과	행복+과	NOUN	NNG+JC	_	5	conj	_	_
+7	중대한	중대+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+8	다른	다르+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	혜택을	혜택+을	NOUN	NNG+JKO	_	5	conj	_	_
+10	줄	주+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있으나	있+으나	VERB	VX+EC	_	19	advcl	_	_
+13	협동은	협동+은	NOUN	NNG+JX	_	17	nsubj	_	_
+14	핵폭탄과	핵폭탄+과	NOUN	NF+JC	Typo=Yes	17	obj	_	_
+15	전쟁과	전쟁+과	NOUN	NNG+JC	_	14	conj	_	_
+16	음모도	음모+도	NOUN	NNG+JX	_	14	conj	_	_
+17	만들	만들+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	데가	데+가	NOUN	NNB+JKS	_	19	nsubj	_	_
+19	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_39_3_04
+# text = 협동과 경쟁 사이 고르기 보다 가장 좋고 윤리학적인 성과를 이루는 협동과 경쟁의 균형을 찾아보기가 가장 본질적인 목표인 것 같습니다.
+1	협동과	협동+과	NOUN	NNG+JC	_	3	nmod	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	사이	사+이	NOUN	NNG+JKS	_	4	obj	_	_
+4	고르기	고르+기	VERB	VV+ETN	_	17	obl	_	_
+5	보다	보다	ADP	JKB	_	4	case	_	_
+6	가장	가장	ADV	MAG	_	7	advmod	_	_
+7	좋고	좋+고	ADJ	VA+EC	_	10	advcl	_	_
+8	윤리학적인	윤리학+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	amod	_	_
+9	성과를	성과+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	이루는	이루+는	VERB	VV+ETM	_	13	acl	_	_
+11	협동과	협동+과	NOUN	NNG+JC	_	13	nmod:poss	_	_
+12	경쟁의	경쟁+의	NOUN	NNG+JKG	_	11	conj	_	_
+13	균형을	균형+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	찾아보기가	찾+아+보+기+가	NOUN	VV+EC+VX+ETN+JKS	_	17	nsubj	_	_
+15	가장	가장	ADV	MAG	_	16	advmod	_	_
+16	본질적인	본질+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	17	amod	_	_
+17	목표인	목표+이+ㄴ	ADJ	NNG+VCP+ETM	_	18	acl	_	_
+18	것	것	NOUN	NNB	_	19	nsubj	_	_
+19	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_39_3_05
+# text = 여러분을 위해 긍정적인 결과를 이루는 경쟁을 협동의 체제 속에 설계하면 좋겠다고 생각합니다.
+1	여러분을	여러분+을	PRON	NP+JKO	_	2	obj	_	_
+2	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+3	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	결과를	결과+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	이루는	이루+는	VERB	VV+ETM	_	6	acl	_	_
+6	경쟁을	경쟁+을	NOUN	NNG+JKO	_	10	obj	_	_
+7	협동의	협동+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	체제	체제	NOUN	NNG	_	10	obl	_	_
+9	속에	속+에	ADV	NNG+JKB	_	8	case	_	_
+10	설계하면	설계+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+11	좋겠다고	좋+겠+다고	ADJ	VA+EP+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

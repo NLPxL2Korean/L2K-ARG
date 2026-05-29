@@ -1,0 +1,75 @@
+# sent_id = ARG-JPN_22_3_01
+# text =  나는 개인적으로 협동을 선호하는 편이다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	개인적으로	개인+적+으로	ADV	NNG+XSN+JKB	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	편이다	편+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_22_3_02
+# text =  학생 시절을 생각했을 때 학교 축제나 체육회같은 장면에서도 주변 친구들과 힘을 합쳐 무언가를 해내는 것을 좋아했었다.
+1	학생	학생	NOUN	NNG	_	2	nmod	_	_
+2	시절을	시절+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	생각했을	생각+하+았+을	VERB	NNG+XSV+EP+ETM	_	16	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	학교	학교	NOUN	NNG	_	6	nmod	_	_
+6	축제나	축제+나	NOUN	NNG+JC	_	7	nsubj	_	_
+7	체육회같은	체육회+같+은	ADJ	NNG+VA+ETM	_	8	acl	_	_
+8	장면에서도	장면+에서+도	ADV	NNG+JKB+JX	_	16	obl	_	_
+9	주변	주변	NOUN	NNG	_	10	nmod	_	_
+10	친구들과	친구+들+과	NOUN	NNG+XSN+JC	_	12	obl	_	_
+11	힘을	힘+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	합쳐	합치+어	VERB	VV+EC	_	14	advcl	_	_
+13	무언가를	무엇+이+ㄴ가+를	NOUN	NP+VCP+EC+JKO	_	14	obj	_	_
+14	해내는	하+아+내+는	VERB	VV+EC+VX+ETM	_	15	acl	_	_
+15	것을	것+을	NOUN	NNB+JKO	_	16	obj	_	_
+16	좋아했었다	좋아하+았었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_22_3_03-1
+# text =  그리고 현재 내가 있는 "회사"라는 공간에서도 개인 단위의 경쟁이라기 보다는 회사에 있는 사람들과 적극적으로 논의를 하면서 한 팀으로 힘을 합쳐 회사 단위의 경쟁을 하고 있다는 느낌이 든다.
+1	그리고	그리고	ADV	MAJ	_	27	cc	_	_
+2	현재	현재	ADV	MAG	_	4	advmod	_	_
+3	내가	내+가	PRON	NP+JKS	_	4	nsubj	_	_
+4	있는	있+는	VERB	VV+ETM	_	6	acl	_	_
+5	"회사"라는	"+회사+"+이+라는	VERB	SS+NNG+SS+VCP+ETM	_	6	acl	_	_
+6	공간에서도	공간+에서+도	ADV	NNG+JKB+JX	_	16	obl	_	_
+7	개인	개인	NOUN	NNG	_	8	nmod	_	_
+8	단위의	단위+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	경쟁이라기	경쟁+이+라기	NOUN	NNG+VCP+ETN	_	16	obl	_	_
+10	보다는	보다+는	VERB	JKB+JX	_	9	case	_	_
+11	회사에	회사+에	ADV	NNG+JKB	_	12	obl	_	_
+12	있는	있+는	VERB	VV+ETM	_	13	acl	_	_
+13	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	16	obl	_	_
+14	적극적으로	적극+적+으로	ADV	NNG+XSN+JKB	_	16	obl	_	_
+15	논의를	논의+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	하면서	하+면서	VERB	VV+EC	_	24	advcl	_	_
+17	한	한	NUM	MM	_	18	nummod	_	_
+18	팀으로	팀+으로	ADV	NNG+JKB	_	20	obl	_	_
+19	힘을	힘+을	NOUN	NNG+JKO	_	20	obj	_	_
+20	합쳐	하+았+쳐	VERB	VV+EC	_	24	advcl	_	_
+21	회사	회사	NOUN	NNG	_	22	nmod	_	_
+22	단위의	단위+의	NOUN	NNG+JKG	_	23	nmod:poss	_	_
+23	경쟁을	경쟁+을	NOUN	NNG+JKO	_	24	obj	_	_
+24	하고	하+고	VERB	VV+EC	_	26	acl	_	_
+25	있다는	있+다는	AUX	VX+ETM	_	24	aux	_	_
+26	느낌이	느낌+이	NOUN	NNG+JKS	_	27	nsubj	_	_
+27	든다	들+ㄴ다	VERB	VV+EC	_	0	root	_	_
+28	.	.	PUNCT	SF	_	27	punct	_	_
+
+# sent_id = ARG-JPN_22_3_03-2
+# text =  말을 바꾸자면 나는 경쟁 상황에서 이기기 위해 누군가과 협동하는 과정이 좋다는 것이다.
+1	말을	말+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	바꾸자면	바꾸+자+면	VERB	VV+EC	_	12	advcl	_	_
+3	나는	나+는	VERB	NP+JX	_	11	nsubj	_	_
+4	경쟁	경쟁	NOUN	NNG	_	5	nmod	_	_
+5	상황에서	상황+에서	ADV	NNG+JKB	_	6	obl	_	_
+6	이기기	이+기+기	NOUN	VV+ETN	_	7	obj	_	_
+7	위해	위하+아	VERB	VV+EC	_	9	advcl	_	_
+8	누군가과	누군가+과	ADV	NNG+JKB	_	9	obl	_	_
+9	협동하는	협동+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	과정이	과정+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	좋다는	좋+다는	VERB	VA+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

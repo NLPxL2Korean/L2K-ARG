@@ -1,0 +1,120 @@
+# sent_id = ARG-CZH_21_2_01
+# text = 나의 생각에 역사가 중요한다.
+1	나의	나+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에	생각+에	ADV	NNG+JKB	_	4	obl	_	_
+3	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_21_2_02
+# text = 왜냐하면 과고에 됀 것이 오늘 새상을 만들었었다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	7	cc	_	_
+2	과고에	과고+에	ADV	NF+JKB	Typo=Yes	3	obl	_	_
+3	됀	돼+ㄴ	VERB	NV+ETM	Typo=Yes	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+5	오늘	오늘	NOUN	NNG	_	6	nmod	_	_
+6	새상을	새상+을	NOUN	NF+JKO	Typo=Yes	7	obj	_	_
+7	만들었었다	만들+었+었+다	VERB	VV+EP+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_21_2_03
+# text = 그래서 이 새상을 이해하기 위해 우리 과고를 알아야 한다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	새상을	새상+을	NOUN	NF+JKO	Typo=Yes	4	obj	_	_
+4	이해하기	이해+하+기	VERB	NNG+XSV+ETN	_	5	obj	_	_
+5	위해	위하+아	VERB	VV+EC	_	8	advcl	_	_
+6	우리	우리	PRON	NP	_	8	nsubj	_	_
+7	과고를	과고+를	NOUN	NF+JKO	Typo=Yes	8	obj	_	_
+8	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_21_2_04
+# text = 왜 체코 분들이 로시아나 독일 별로 좋지 않다?
+1	왜	왜	ADV	MAG	_	4	advmod	_	_
+2	체코	체코	NOUN	NNP	_	3	nmod	_	_
+3	분들이	분+들+이	NOUN	NNB+XSN+JKS	_	7	nsubj	_	_
+4	로시아나	로시아+나	NOUN	NF+JC	Typo=Yes	7	obj	_	_
+5	독일	독일	NOUN	NNP	_	4	conj	_	_
+6	별로	별로	ADV	MAG	_	7	advmod	_	_
+7	좋지	좋+지	ADJ	VA+EC	_	0	root	_	_
+8	않다	않	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_21_2_05
+# text = 역사를 무르면 이해할 수 없다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	무르면	무르+면	VERB	NV+EC	Typo=Yes	5	advcl	_	_
+3	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_21_2_06
+# text = 그리고 과고에 유명한 분들이 많다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	과고에	과고+에	ADV	NF+JKB	Typo=Yes	5	obl	_	_
+3	유명한	유명+하+ㄴ	ADJ	XR+XSA+ETM	_	4	amod	_	_
+4	분들이	분+들+이	NOUN	NNB+XSN+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_21_2_07
+# text = 새로운 것을 만들고 새로운 아이디어를 있었다.
+1	새로운	새롭+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	3	obj	_	_
+3	만들고	만들+고	VERB	VV+EC	_	0	root	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	아이디어를	아이디어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	있었다	있+었+다	VERB	VV+EP+EF	_	3	conj	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_21_2_08
+# text = 그리고 우리는 지금 이 것을 사용합니다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+3	지금	지금	ADV	MAG	_	6	advmod	_	_
+4	이	이	DET	MM	_	5	det	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	사용합니다	사용+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_21_2_09
+# text = 과고에 있는 사람 떡분에.
+1	과고에	과고+에	ADV	NF+JKB	Typo=Yes	2	obl	_	_
+2	있는	있+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람	사람	NOUN	NNG	_	0	root	_	_
+4	떡분에	떡분+에	ADV	NF+JKB	Typo=Yes	3	case	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_21_2_10
+# text = 역사를 안배우면 모든 것을 다시 시작부터 만들어야할 수도 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	안배우면	안+배우+면	VERB	MAG+VV+EC	_	9	advcl	_	_
+3	모든	모든	DET	MM	_	4	det	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+5	다시	다시	ADV	MAG	_	7	advmod	_	_
+6	시작부터	시작+부터	NOUN	NNG+JX	_	7	obl	_	_
+7	만들어야할	만들+어야+하+ㄹ	ADJ	VV+EC+VX+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_21_2_11
+# text = 그리고 닽은 실수를 계석 할 수 있다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	닽은	닽은	NOUN	NA	Typo=Yes	3	amod	_	_
+3	실수를	실수+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	계석	계석	ADV	NA	Typo=Yes	5	advmod	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_21_2_12
+# text = 역사를 알아야 합니다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알아야	알+아야	VERB	VV+EC	_	0	root	_	_
+3	합니다	하	AUX	VX+EF	_	2	aux	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	2	punct	_	_

@@ -1,0 +1,140 @@
+# sent_id = ARG-JPN_10_3_01
+# text =  저는 협동보다 경쟁을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동보다	협동+보다	ADV	NNG+JKB	_	4	obl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_10_3_02
+# text =  이유는 다음과 같습니다.
+1	이유는	이유+는	NOUN	NNG+JX	_	3	nsubj	_	_
+2	다음과	다음+과	ADV	NNG+JKB	_	3	obl	_	_
+3	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_10_3_03
+# text =  첫번째는 저는 경쟁을 게임 처럼 즐겨 할 수있기 때문입니다.
+1	첫번째는	첫+번째+는	NOUN	MM+NNB+JX	_	9	obl	_	_
+2	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	6	obj	_	_
+4	게임	게임	NOUN	NNG	_	6	obl	_	_
+5	처럼	처럼	ADV	JKB	_	4	case	_	_
+6	즐겨	즐기+어	VERB	VV+EC	_	8	acl	_	_
+7	할	하+ㄹ	AUX	VX+ETM	_	6	aux	_	_
+8	수있기	수+있+기	AUX	NNB+VX+ETN	_	9	nmod	_	_
+9	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_10_3_04
+# text =  저는 어렸을 때부터 남들을 이기고싶은 마음이 너무나커서 운동회 달리기 같은 경쟁에 되게 진심이었습니다.
+1	저는	저+는	PRON	NP+JX	_	13	nsubj	_	_
+2	어렸을	어리+었+을	VERB	VA+EP+ETM	_	7	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	남들을	남+들+을	NOUN	NNG+XSN+JKO	_	5	obj	_	_
+5	이기고싶은	이기+고+싶+은	VERB	VV+EC+VX+ETM	_	6	acl	_	_
+6	마음이	마음+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	너무나커서	너무나+크+어서	VERB	MAG+VA+EC	_	13	advcl	_	_
+8	운동회	운동회	NOUN	NNG	_	9	nmod	_	_
+9	달리기	달리+기	NOUN	VV+ETN	_	10	obl	_	_
+10	같은	같+은	VERB	VA+ETM	_	11	acl	_	_
+11	경쟁에	경쟁+에	ADV	NNG+JKB	_	13	obl	_	_
+12	되게	되게	ADV	MAG	_	13	advmod	_	_
+13	진심이었습니다	진심+이+었+습니다	VERB	NNG+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_10_3_05
+# text =  당연히 다 같이 모이고 힘을 맞추어 이기려고 하는 경기도 재밌었지만, 그것보다 혼자 전략을 세워 다투는 것이 더 흥미로웠습니다.
+1	당연히	당연히	ADV	MAG	_	10	advmod	_	_
+2	다	다	ADV	MAG	_	3	advmod	_	_
+3	같이	같이	ADV	MAG	_	4	advmod	_	_
+4	모이고	모이+고	VERB	VV+EC	_	6	advcl	_	_
+5	힘을	힘+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	맞추어	맞+추+어	VERB	VV+EC	_	7	advcl	_	_
+7	이기려고	이기+려고	VERB	VV+EC	_	9	acl	_	_
+8	하는	하+는	AUX	VX+ETM	_	7	aux	_	_
+9	경기도	경기+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	재밌었지만	재미+있+었+지만	VERB	NNG+VA+EP+EC	_	19	advcl	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	그것보다	그것+보다	ADV	NNG+JKB	_	19	obl	_	_
+13	혼자	혼자	ADV	NNG	_	15	advmod	_	_
+14	전략을	전략+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	세워	오+어	VERB	VV+EC	_	16	advcl	_	_
+16	다투는	다리+ㄴ+는	VERB	VV+ETM	_	17	acl	_	_
+17	것이	것+이	NOUN	NNB+JKS	_	19	nsubj	_	_
+18	더	더	ADV	MAG	_	19	advmod	_	_
+19	흥미로웠습니다	흥미+롭+었+습니다	ADJ	NNG+XSA+EP+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_10_3_06
+# text =  두 번째는 경쟁을 이기려고 함으로써 자신의 실력을 늘릴 수 있기 때문입니다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	11	obl	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	이기려고	이기+려고	VERB	VV+EC	_	10	advcl	_	_
+5	함으로써	하+ㅁ+으로써	ADV	VX+ETN+JKB	_	4	aux	_	_
+6	자신의	자신+의	PRON	NNG+JKG	_	7	nmod:poss	_	_
+7	실력을	실력+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	늘릴	늘리+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있기	있+기	NOUN	VX+ETN	_	11	nmod	_	_
+11	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_10_3_07
+# text =  사실 저는 어렸을때 달리기가 빠른 편이 아니었습니다.
+1	사실	사실	ADV	MAG	_	7	advmod	_	_
+2	저는	저+는	PRON	NP+JX	_	7	dislocated	_	_
+3	어렸을때	어리+었+을+때	VERB	VA+EP+ETM+NNG	_	7	obl	_	_
+4	달리기가	달리+기+가	NOUN	VV+ETN+JKS	_	7	dislocated	_	_
+5	빠른	빠르+ㄴ	VERB	VA+ETM	_	6	amod	_	_
+6	편이	편+이	NOUN	NNB+JKC	_	7	nsubj	_	_
+7	아니었습니다	아니+었+습니다	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_10_3_08
+# text =  그러다가 어떤 날에 같은 반의 남자애가 저한테 '너 너무나 느린거 아냐?
+1	그러다가	그러다가	ADV	MAJ	_	11	cc	_	_
+2	어떤	어떤	DET	MM	_	3	det	_	_
+3	날에	날+에	ADV	NNG+JKB	_	11	obl	_	_
+4	같은	같+은	VERB	VA+ETM	_	5	amod	_	_
+5	반의	반+의	NOUN	NNG	_	6	nmod:poss	_	_
+6	남자애가	남자애+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+7	저한테	저+한테	ADV	NP+JKB	_	11	obl	_	_
+8	'너	'+너	VERB	SS+NP	_	11	nsubj	_	_
+9	너무나	너무나	ADV	NNG	_	10	advmod	_	_
+10	느린거	느리+ㄴ+것	NOUN	VA+ETM+NNB	_	11	nsubj	_	_
+11	아냐	아니+야	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+12	?	?	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_10_3_09
+# text =  웃기다 '라고 한 것을 계기로 노력하게 되었습니다.
+1	웃기다	웃+기+다	NOUN	VV+XSV+EC	_	3	ccomp	_	_
+2	'라고	'+라고	VERB	SS+JKQ	_	1	case	_	_
+3	한	하+ㄴ	NUM	VV+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+5	계기로	계기+로	ADV	NNG+JKB	_	6	obl	_	_
+6	노력하게	노력+하+게	VERB	NNG+XSV+EC	_	0	root	_	_
+7	되었습니다	되+었+습니다	VERB	VX+EP+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_10_3_10
+# text =  그리고 노력한 덕분에저는 빨리 달릴수 있게 되었습니다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	노력한	노력+하+ㄴ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	덕분에저는	덕분+에+저+는	ADV	NNB+JKB+NP+JX	_	5	nsubj	_	_
+4	빨리	빨리	ADV	MAG	_	5	advmod	_	_
+5	달릴수	달리+ㄹ+수	NOUN	VV+ETM+NNB	_	6	nsubj	_	_
+6	있게	있+게	VERB	VX+EC	_	0	root	_	_
+7	되었습니다	되+었+습니다	VERB	VX+EP+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_10_3_11
+# text =  이러한 이유로 저는 경쟁을 선호하게 되었습니다.
+1	이러한	이러하+ㄴ	DET	VA+ETM	_	2	amod	_	_
+2	이유로	이유+로	ADV	NNG+JKB	_	5	obl	_	_
+3	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호하게	선호+하+게	VERB	NNG+XSV+EC	_	0	root	_	_
+6	되었습니다	되+었+습니다	VERB	VX+EP+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_

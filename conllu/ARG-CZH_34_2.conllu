@@ -1,0 +1,135 @@
+# sent_id = ARG-CZH_34_2_01
+# text = 사람들이 항상 옛날에 대해서 배우고 싶었다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+2	항상	항상	ADV	MAG	_	5	advmod	_	_
+3	옛날에	옛날+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대해서	대하+아서	VERB	VV+EC	_	5	advcl	_	_
+5	배우고	배우+고	VERB	VV+EC	_	0	root	_	_
+6	싶었다	싶	AUX	VX+EP+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_34_2_02
+# text = 지금도 오래오래 전에 살던 공룡에 대한 대학교 전공도 있고 왕와 여왕이 살던 시기에 대한 영화를 보고 책을 읽을 수 있다.
+1	지금도	지금+도	ADV	NNG+JX	_	9	advmod	_	_
+2	오래오래	오래오래	ADV	MAG	_	4	advmod	_	_
+3	전에	전+에	ADV	NNG+JKB	_	4	obl	_	_
+4	살던	살+던	VERB	VV+ETM	_	5	acl	_	_
+5	공룡에	공룡+에	ADV	NNG+JKB	_	6	obl	_	_
+6	대한	대하+ㄴ	VERB	VV+ETM	_	8	acl	_	_
+7	대학교	대학교	NOUN	NNG	_	8	nmod	_	_
+8	전공도	전공+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있고	있+고	VERB	VV+EC	_	0	root	_	_
+10	왕와	왕+와	NOUN	NNG+JC	_	12	nsubj	_	_
+11	여왕이	여왕+이	NOUN	NNG+JKS	_	10	conj	_	_
+12	살던	살+던	VERB	VV+ETM	_	13	acl	_	_
+13	시기에	시기+에	ADV	NNG+JKB	_	14	obl	_	_
+14	대한	대하+ㄴ	VERB	VV+ETM	_	15	acl	_	_
+15	영화를	영화+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	보고	보+고	VERB	VV+EC	_	19	acl	_	_
+17	책을	책+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	읽을	읽+을	VERB	VV+ETM	_	16	conj	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	9	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-CZH_34_2_03
+# text = 그렇지만 역사가 왜 그렇게 중요하다?
+1	그렇지만	그렇+지만	ADV	VA+EC	_	5	cc	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	왜	왜	ADV	MAG	_	5	advmod	_	_
+4	그렇게	그렇+게	ADJ	VA+EC	_	5	advcl	_	_
+5	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	?	?	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_34_2_04
+# text = 옛날에 좋은 시기도 있고 나쁜 시기도 있어서 우리는 역사를 배우면 어떻게 살지 배울수 있다.
+1	옛날에	옛날+에	ADV	NNG+JKB	_	4	obl	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	시기도	시기+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있고	있+고	VERB	VV+EC	_	13	advcl	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	시기도	시기+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있어서	있+어서	VERB	VV+EC	_	4	conj	_	_
+8	우리는	우리+는	PRON	NP+JX	_	14	dislocated	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우면	배우+면	VERB	VV+EC	_	13	advcl	_	_
+11	어떻게	어떻+게	ADV	VA+EC	_	12	advmod	_	_
+12	살지	살+지	VERB	VV+EC	_	13	ccomp	_	_
+13	배울수	배우+ㄹ+수	NOUN	VV+ETM+NNB	_	14	nsubj	_	_
+14	있다	있+다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_34_2_05
+# text = 20세기의 전쟁이 매우 무서우니까 지금은 여러나라가 다른 나라와 문제를 갈등 없이 해결하고 싶게 된다.
+1	20세기의	20+세기+의	NOUN	SN+NNB+JKG	_	2	nmod:poss	_	_
+2	전쟁이	전쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	매우	매우	ADV	MAG	_	4	advmod	_	_
+4	무서우니까	무섭+니까	ADJ	VA+EC	_	12	advcl	_	_
+5	지금은	지금+은	ADV	NNG+JX	_	12	advmod	_	_
+6	여러나라가	여러+나라+가	NOUN	MM+NNG+JKS	_	8	nsubj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	나라와	나라+와	NOUN	NNG+JC	_	12	obl	_	_
+9	문제를	문제+를	NOUN	NNG+JKO	_	12	obj	_	_
+10	갈등	갈등	NOUN	NNG	_	11	nsubj	_	_
+11	없이	없이	ADV	MAG	_	12	advcl	_	_
+12	해결하고	해결+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+13	싶게	싶	AUX	VX+EC	_	12	aux	_	_
+14	된다	되+ㄴ다	VERB	VX+EF	_	12	advcl	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_34_2_06
+# text = 이 덕분에 그 나라의 국민들이 행복하고 건강하게 살 수 있다.
+1	이	이	DET	MM	_	2	det	_	_
+2	덕분에	덕분+에	ADV	NNG+JKB	_	10	obl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	나라의	나라+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	국민들이	국민+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+6	행복하고	행복+하+고	ADV	NNG+XSA+EC	_	8	advmod	_	_
+7	건강하게	건강+하+게	ADJ	NNG+XSA+EC	_	6	conj	_	_
+8	살	살+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_34_2_07
+# text = 또한 역사를 배우면서 현재 의학도 좋아지다.
+1	또한	또한	ADV	MAJ	_	6	cc	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우면서	배우+면서	VERB	VV+EC	_	6	advcl	_	_
+4	현재	현재	ADV	MAG	_	6	advmod	_	_
+5	의학도	의학+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	좋아지다	좋+아지+다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_34_2_08
+# text = 옛날에는 감기도 사람들을 자주 죽였다.
+1	옛날에는	옛날+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+2	감기도	감기+도	NOUN	NNG+JX	_	5	nsubj	_	_
+3	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	5	obj	_	_
+4	자주	자주	ADV	MAG	_	5	advmod	_	_
+5	죽였다	죽이+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_34_2_09
+# text = 지금은 과학자들은 옛날 사람들이 무슨 약을 먹어나 나아기 위해서 무슨 의례를 한 지 알면 현재 의학을 개발 할 수 있다.
+1	지금은	지금+은	ADV	NNG+JX	_	20	advmod	_	_
+2	과학자들은	과학자+들+은	NOUN	NNG+XSN+JX	_	20	dislocated	_	_
+3	옛날	옛날	NOUN	NNG	_	4	nmod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	무슨	무슨	DET	MM	_	6	det	_	_
+6	약을	약+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	먹어나	먹+어나	VERB	VV+NA	Typo=Yes	9	ccomp	_	_
+8	나아기	나아+기	NOUN	NV+ETN	Typo=Yes	7	conj	_	_
+9	위해서	위하+아서	VERB	VV+EC	_	14	advcl	_	_
+10	무슨	무슨	DET	MM	_	11	det	_	_
+11	의례를	의례+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	한	하+ㄴ+지	VERB	VV+ETM+EC	Typo=Yes	14	ccomp	_	_
+13	지	_	X	EC	_	12	goeswith	_	_
+14	알면	알+면	VERB	VV+EC	_	20	advcl	_	_
+15	현재	현재	ADV	MAG	_	17	advmod	_	_
+16	의학을	의학+을	NOUN	NNG+JKO	_	17	obj	_	_
+17	개발	개발+하+ㄹ	VERB	NNG+XSV+ETM	Typo=Yes	19	acl	_	_
+18	할	_	X	_	_	17	goeswith	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_

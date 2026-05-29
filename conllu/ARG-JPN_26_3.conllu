@@ -1,0 +1,271 @@
+# sent_id = ARG-JPN_26_3_01
+# text =  저는 협동과 경생중 협동을 선호하다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	협동과	협동+과	NOUN	NNG+JC	_	5	obl	_	_
+3	경생중	경생+중	NOUN	NF+NNB	_	2	conj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호하다	선호+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_26_3_02
+# text =  이유는 2개있다.
+1	이유는	이유+는	NOUN	NNG+JX	_	2	nsubj	_	_
+2	2개있다	2+개+있+다	VERB	SN+NNB+VV+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-JPN_26_3_03
+# text =  첫번째로.
+1	첫번째로	첫+번째+로	ADV	MM+NNB+JKB	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-JPN_26_3_04
+# text =  협동을 해서 다른사람과 좋은 관계를 만들수 있기 때문이다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	해서	하+아서	VERB	VV+EC	_	7	advcl	_	_
+3	다른사람과	다른+사람+과	ADV	MM+NNG+JKB	_	6	obl	_	_
+4	좋은	좋+은	VERB	VA+ETM	_	5	amod	_	_
+5	관계를	관계+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	만들수	만들+ㄹ+수	VERB	VV+ETM+NNB	_	7	nsubj	_	_
+7	있기	있+기	NOUN	VX+ETN	_	8	nmod	_	_
+8	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_26_3_05
+# text =  저는 고등학생 때 악기 약부에서 활동하고있었다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	고등학생	고등학생	NOUN	NNG	_	6	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	악기	악기	NOUN	NNG	_	5	nmod	_	_
+5	약부에서	약부+에서	ADV	NF+JKB	_	6	obl	_	_
+6	활동하고있었다	활동+하+고+있+었+다	VERB	NNG+XSV+EC+VX+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_26_3_06
+# text =  다른 사람랑 함게 연습을 해서, 같은 목표에 대해 같이 노력을 했다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람랑	사람+랑	NOUN	NNG+NA	_	5	obl	_	_
+3	함게	함게	ADV	NA	_	5	advmod	_	_
+4	연습을	연습+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	해서	하+아서	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	같은	같+은	VERB	VA+ETM	_	8	acl	_	_
+8	목표에	목표+에	ADV	NNG+JKB	_	9	obl	_	_
+9	대해	대하+아	VERB	VV+EC	_	12	advcl	_	_
+10	같이	같이	ADV	MAG	_	12	advmod	_	_
+11	노력을	노력+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_26_3_07
+# text =  여름에 있는 대회에서 받고싶었던 산을 받을 수 있었다.
+1	여름에	여름+에	ADV	NNG+JKB	_	2	obl	_	_
+2	있는	있+는	VERB	VV+ETM	_	3	acl	_	_
+3	대회에서	대회+에서	ADV	NNG+JKB	_	6	obl	_	_
+4	받고싶었던	받+고+싶+었+던	VERB	VV+EC+VX+EP+ETM	_	5	acl	_	_
+5	산을	산+을	NOUN	NF+JKO	_	6	obj	_	_
+6	받을	받+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있었다	있+었+다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_26_3_08
+# text =  그 때 기쁨과 성최감은 평생 잊지 못할 점도 좋은 감전이었다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	3	nmod	_	_
+3	기쁨과	기쁨+과	NOUN	NNG+JKB	_	6	obj	_	_
+4	성최감은	성최감+은	NOUN	NF+JX	_	3	conj	_	_
+5	평생	평생	NOUN	NNG	_	6	advmod	_	_
+6	잊지	잊+지	VERB	VV+EC	_	8	acl	_	_
+7	못할	못하+ㄹ	AUX	VX+ETM	_	6	aux	_	_
+8	점도	점+도	NOUN	NNG+JX	_	10	nsubj	_	_
+9	좋은	좋+은	VERB	VA+ETM	_	10	amod	_	_
+10	감전이었다	감전+이+었+다	VERB	NF+VCP+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_26_3_09
+# text =  연습을 하는 과정에서 다른사람이 랑 이야기를 나눠서 생각 하는 것도 너무 좋은 점이라고 생각하다.
+1	연습을	연습+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하는	하+는	VERB	VV+ETM	_	3	acl	_	_
+3	과정에서	과정+에서	ADV	NNG+JKB	_	9	obl	_	_
+4	다른사람이	다른+사람+이	NOUN	MM+NNG+JKB	_	7	obl	_	_
+5	랑	랑	NOUN	JKB	_	4	goeswith	_	_
+6	이야기를	이야기+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	나눠서	나누+어서	VERB	VV+EC	_	9	advcl	_	_
+8	생각	생각	NOUN	NNG	_	9	obj	_	_
+9	하는	하+는	VERB	VV+ETM	_	10	acl	_	_
+10	것도	것+도	NOUN	NNB+JX	_	13	nsubj	_	_
+11	너무	너무	ADV	MAG	_	13	advmod	_	_
+12	좋은	좋+은	VERB	VA+ETM	_	13	acl	_	_
+13	점이라고	점+이+라고	VERB	NNG+VCP+EC	_	14	ccomp	_	_
+14	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_26_3_10
+# text =  경쟁을 할 때는 혼자서 계속 노력을 해야 하기 때문에.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	할	하+ㄹ	VERB	VV+ETM	_	7	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	혼자서	혼자+서	ADV	NNG+JKS	_	7	nsubj	_	_
+5	계속	계속	ADV	MAG	_	7	advmod	_	_
+6	노력을	노력+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+8	하기	하+기	NOUN	VX+ETN	_	7	aux	_	_
+9	때문에	때문+에	ADP	NNB+JKB	_	7	case	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_3_11
+# text =  다른 사람과 이야기도 안 히게 되고, 피해 버리게되다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	사람과	사람+과	NOUN	NNG+JC	_	5	obl	_	_
+3	이야기도	이야기+도	NOUN	NNG+JX	_	5	obj	_	_
+4	안	안	ADV	MAG	_	5	advmod	_	_
+5	히게	히+게	VERB	NV+EC	_	9	advcl	_	_
+6	되고	되+고	VERB	VX+EC	_	5	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	피해	피하+아	NOUN	VV+EC	_	0	root	_	_
+9	버리게되다	버리+게+되+다	VERB	VX+EC+VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_3_12
+# text =  협동을 해야 다른 사람이랑 같이 노력 할 수 있다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	해야	하+아야	VERB	VV+EC	_	9	advcl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람이랑	사람+이랑	ADV	NNG+JKB	_	7	obl	_	_
+5	같이	같이	ADV	MAG	_	7	advmod	_	_
+6	노력	노력	NOUN	NNG	_	7	obj	_	_
+7	할	하+ㄹ	X	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_3_13
+# text =  두 번 째로, 협동을 해야 책임감을 가질 수 있기 때문에 협동을 더 선호하다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	번	번	NOUN	NNB	_	14	obl	_	_
+3	째로	째로	ADV	NNG+JKB	_	2	goeswith	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	해야	하+아야	VERB	VV+EC	_	10	advcl	_	_
+7	책임감을	책임감+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	가질	가지+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있기	있+기	NOUN	VX+ETN	_	14	obl	_	_
+11	때문에	때문+에	ADP	NNB+JKB	_	10	case	_	_
+12	협동을	협동+을	NOUN	NNG+JKO	_	14	obj	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	선호하다	선호+하+다	ADJ	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_26_3_14
+# text =  다른사람랑 같이 해야 하기때문에 한 사람식 역할을 다해야 한다.
+1	다른사람랑	다른+사람+랑	ADV	MM+NNG+NA	_	3	obl	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	해야	하+아야	VERB	VV+EC	_	8	obl	_	_
+4	하기때문에	하+기+때문+에	ADV	VX+ETN+NNB+JKB	_	3	case	_	_
+5	한	한	NUM	MM	_	6	nummod	_	_
+6	사람식	사람+식	NOUN	NNG+NA	_	7	nmod	_	_
+7	역할을	역할+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	다해야	다+하+아야	VERB	MAG+VV+EC	_	0	root	_	_
+9	한다	하+ㄴ다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_26_3_15
+# text =  저도 동아리에서 활동 하고 있을 때.
+1	저도	저+도	PRON	NP+JX	_	4	nsubj	_	_
+2	동아리에서	동아리+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	활동	활동	NOUN	NNG	_	4	obj	_	_
+4	하고	하+고	VERB	VV+EC	_	0	root	_	_
+5	있을	있+을	VERB	VX+ETM	_	4	aux	_	_
+6	때	때	NOUN	NNG	_	4	mark	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_26_3_16
+# text =  부부장에 역활을 했다.
+1	부부장에	부+부장+에	ADV	NNG+NNG+JKB	_	3	obl	_	_
+2	역활을	역활+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_26_3_17
+# text = .
+1	.	.	PUNCT	SF	_	0	root	_	_
+
+# sent_id = ARG-JPN_26_3_18
+# text =  그때.
+1	그때	그때	ADV	NNG	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-JPN_26_3_19
+# text =  너무 책인감이 생겨서.
+1	너무	너무	ADV	MAG	_	3	advmod	_	_
+2	책인감이	책인+감+이	NOUN	NF+XSN+JKS	_	3	nsubj	_	_
+3	생겨서	생기+어서	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_26_3_20
+# text =  연습도 많이 했고, 다른사람과 적극적으로 아야기를 하려고 노력했다.
+1	연습도	연습+도	NOUN	NNG+JX	_	3	obj	_	_
+2	많이	많이	ADV	MAG	_	3	advmod	_	_
+3	했고	하+았+고	VERB	VV+EP+EC	_	9	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	다른사람과	다른+사람+과	ADV	MM+NNG+JKB	_	8	obl	_	_
+6	적극적으로	적극+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+7	아야기를	아야기+를	NOUN	NF+JKO	_	8	obj	_	_
+8	하려고	하+려고	VERB	VV+EC	_	9	advcl	_	_
+9	노력했다	노력+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_26_3_21
+# text =  협동을 하면, 다른사람에 폐를 끼치지 않도록 책임감이 생겨서, 더 열심히 일을 할수있다.
+1	협동을	협동+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	하면	하+면	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	다른사람에	다른+사람+에	ADV	MM+NNG+JKB	_	6	obl	_	_
+5	폐를	폐+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	끼치지	끼치+지	VERB	VV+EC	_	9	advcl	_	_
+7	않도록	않+도록	AUX	VX+EC	_	6	aux	_	_
+8	책임감이	책임감+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	생겨서	생기+어서	VERB	VV+EC	_	14	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	더	더	ADV	MAG	_	14	advmod	_	_
+12	열심히	열심히	ADV	MAG	_	14	advmod	_	_
+13	일을	일+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	할수있다	하+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_26_3_22
+# text =  저는 협동을 더 선호하다.
+1	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호하다	선호+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_26_3_23
+# text =  다른사람과 좋은 관계를 만들 수 있고, 자기일에 대해 책임김을 느길 수 있기 때문에 더 노력하고싶게되다.
+1	다른사람과	다른+사람+과	ADV	MM+NNG+JKB	_	4	obl	_	_
+2	좋은	좋+은	VERB	VA+ETM	_	3	amod	_	_
+3	관계를	관계+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	만들	만들+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있고	있+고	VERB	VX+EC	_	16	obl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	자기일에	자기+일+에	ADV	NNG+NNG+JKB	_	9	obl	_	_
+9	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+10	책임김을	책임+김+을	NOUN	NNG+NA+JKO	_	11	obj	_	_
+11	느길	느기+ㄹ	VERB	NV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있기	있+기	NOUN	VX+ETN	_	6	conj	_	_
+14	때문에	때문+에	ADP	NNB+JKB	_	13	case	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	노력하고싶게되다	노력+하+고+싶+게+되+다	VERB	NNG+XSV+EC+VX+EC+VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_26_3_24
+# text =  그래서 경쟁보다는 협동을 선호하다.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	경쟁보다는	경쟁+보다+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호하다	선호+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

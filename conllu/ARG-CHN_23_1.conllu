@@ -1,0 +1,131 @@
+# sent_id = ARG-CHN_23_1_01
+# text = 사람 생활 질의 제고에 따라 각중 자연의 필요성도 증가한다.
+1	사람	사람	NOUN	NNG	_	2	nmod	_	_
+2	생활	생활	NOUN	NNG	_	3	nmod	_	_
+3	질의	질+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	제고에	제고+에	ADV	NNG+JKB	_	5	obl	_	_
+5	따라	따르+아	VERB	VV+EC	_	9	advcl	_	_
+6	각중	각중	NOUN	NF	Typo=Yes	7	nmod	_	_
+7	자연의	자연+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	필요성도	필요+성+도	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+9	증가한다	증가+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_23_1_02
+# text = 그래서 자연개발이 중요하다는 주장이 많다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	자연개발이	자연+개발+이	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+3	중요하다는	중요+하+다는	ADJ	NNG+XSA+ETM	_	4	acl	_	_
+4	주장이	주장+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_23_1_03
+# text = 그러나 자연 개발을 위해 원래 있는 자연을 손상하는 현상도 많다.
+1	그러나	그러나	ADV	MAJ	_	10	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발을	개발+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	위해	위하+아	VERB	VV+EC	_	8	advcl	_	_
+5	원래	원래	ADV	NNG	_	6	advmod	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	자연을	자연+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	손상하는	손상+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	현상도	현상+도	NOUN	NNG+JX	_	10	nsubj	_	_
+10	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_23_1_04
+# text = 따라서 자연개발이보다 많은 사람들이 자연보존이라는 주장도 있다.
+1	따라서	따라서	ADV	MAJ	_	7	cc	_	_
+2	자연개발이보다	자연+개발+이+보다	ADV	NNG+NNG+NA+JKB	Typo=Yes	5	obl	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	자연보존이라는	자연+보존+이+라는	ADJ	NNG+NNG+VCP+ETM	_	6	acl	_	_
+6	주장도	주장+도	NOUN	NNG+JX	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_23_1_05
+# text = 나도 자연보존이 더 중요하다고 생각한다.
+1	나도	나+도	PRON	NP+JX	_	5	nsubj	_	_
+2	자연보존이	자연+보존+이	NOUN	NNG+NNG+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_23_1_06
+# text = 그 이유는 아래과 같다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	아래과	아래+과	ADV	NNG+JKB	_	4	obl	_	_
+4	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_23_1_07
+# text = 먼저 많은 자연 개발은 원래 있는 자연을 손상하는 사실이다.
+1	먼저	먼저	ADV	MAG	_	9	advmod	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발은	개발+은	NOUN	NNG+JX	_	8	nsubj	_	_
+5	원래	원래	ADV	MAG	_	6	advmod	_	_
+6	있는	있+는	VERB	VV+ETM	_	7	acl	_	_
+7	자연을	자연+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	손상하는	손상+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	사실이다	사실+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_23_1_08
+# text = 예를 들의, 사유개발을 위해 사람들이 바다를 손상하고 어느 물건을 찾기 위해 산을 손상하고 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들의	들+의	VERB	VV+NA	Typo=Yes	8	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	사유개발을	사유+개발+을	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	위해	위하+아	VERB	VV+EC	_	8	advcl	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+7	바다를	바다+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	손상하고	손상+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+9	어느	어느	DET	MM	_	10	det	_	_
+10	물건을	물건+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	찾기	찾+기	VERB	VV+ETN	_	12	obj	_	_
+12	위해	위하+아	VERB	VV+EC	_	14	advcl	_	_
+13	산을	산+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	손상하고	손상+하+고	VERB	NNG+XSV+EC	_	8	conj	_	_
+15	있다	있	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_23_1_09
+# text = 실은 바다와 산은 사람들이 중요한 자연이다.
+1	실은	실은	ADV	MAG	_	6	advmod	_	_
+2	바다와	바다+와	NOUN	NNG+JC	_	6	nsubj	_	_
+3	산은	산+은	NOUN	NNG+JX	_	2	conj	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	acl	_	_
+6	자연이다	자연+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_23_1_10
+# text = 그다음, 많은 기존 자연의 보존 의미가 중요하다.
+1	그다음	그+다음	NOUN	MM+NNG	_	8	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+4	기존	기존	NOUN	NNG	_	5	nmod	_	_
+5	자연의	자연+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	보존	보존	NOUN	NNG	_	7	nmod	_	_
+7	의미가	의미+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_23_1_11
+# text = 역사 의미 기지고 있는 곳이나 물건이 연구하기 위해 계속 보존해야한다.
+1	역사	역사	NOUN	NNG	_	2	nmod	_	_
+2	의미	의미	NOUN	NNG	_	3	obj	_	_
+3	기지고	기지+고	VERB	NV+EC	Typo=Yes	5	acl	_	_
+4	있는	있	AUX	VX+ETM	_	3	aux	_	_
+5	곳이나	곳+이나	NOUN	NNG+JC	_	7	nsubj	_	_
+6	물건이	물건+이	NOUN	NNG+JKS	_	5	conj	_	_
+7	연구하기	연구+하+기	VERB	NNG+XSV+ETN	_	8	obj	_	_
+8	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+9	계속	계속	ADV	MAG	_	10	advmod	_	_
+10	보존해야한다	보존+하+아야+하+ㄴ다	VERB	NNG+XSV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

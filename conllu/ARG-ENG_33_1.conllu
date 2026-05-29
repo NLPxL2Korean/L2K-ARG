@@ -1,0 +1,190 @@
+# sent_id = ARG-ENG_33_1_01
+# text = 조기언어교육은 장점과 단점이 굉장히 많다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG	_	5	dislocated	_	_
+2	장점과	장점+과	NOUN	NNG+JC	_	5	nsubj	_	_
+3	단점이	단점+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	굉장히	굉장히	ADV	MAG	_	5	advmod	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-ENG_33_1_02
+# text = 많은 부모는 교육을 일찍 시작할수록 아이가 더 잘 배울거라고 생각하지만 아기들은 아기 수준의 교육만 받으면 아이에 도움이 된다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	부모는	부모+는	NOUN	NNG+JX	_	10	nsubj	_	_
+3	교육을	교육+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	시작할수록	시작+하+ㄹ수록	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	아이가	아이+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+7	더	더	ADV	MAG	_	9	advmod	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	배울거라고	배우+ㄹ+거+이+라고	VERB	VV+ETM+NNB+VCP+EC	_	10	ccomp	_	_
+10	생각하지만	생각+하+지만	VERB	NNG+XSV+EC	_	18	advcl	_	_
+11	아기들은	아기+들+은	NOUN	NNG+XSN+JX	_	18	dislocated	_	_
+12	아기	아기	NOUN	NNG	_	13	nmod	_	_
+13	수준의	수준+의	NOUN	NNG+JKG	_	14	nmod:poss	_	_
+14	교육만	교육+만	NOUN	NNG+JX	_	15	obj	_	_
+15	받으면	받+으면	VERB	VV+EC	_	18	advcl	_	_
+16	아이에	아이+에	ADV	NNG+JKB	_	18	obl	_	_
+17	도움이	도움+이	NOUN	NNG+JKC	_	18	nsubj	_	_
+18	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_33_1_03
+# text = 예를 들면 유아영아이 앞에서 외국어 텔레비전 프로그램을 키고 아이와 그 외국어로 직접 얘기하지 않으면 아이는 그 언어를 배우지 않다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	18	advcl	_	_
+3	유아영아이	유아+영아+이	NOUN	NNG+NNG+NA	_	8	obl	_	_
+4	앞에서	앞+에서	ADP	NNG+JKB	_	3	case	_	_
+5	외국어	외국어	NOUN	NNG	_	7	nmod	_	_
+6	텔레비전	텔레비전	NOUN	NNG	_	7	nmod	_	_
+7	프로그램을	프로그램+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	키고	키+고	VERB	NV+EC	_	13	advcl	_	_
+9	아이와	아이+와	NOUN	NNG+JKB	_	13	obl	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	외국어로	외국어+로	ADV	NNG+JKB	_	13	obl	_	_
+12	직접	직접	ADV	MAG	_	13	advmod	_	_
+13	얘기하지	얘기+하+지	VERB	NNG+XSV+EC	_	18	advcl	_	_
+14	않으면	않+으면	AUX	VX+EC	_	13	aux	_	_
+15	아이는	아이+는	NOUN	NNG+JX	_	18	nsubj	_	_
+16	그	그	DET	MM	_	17	det	_	_
+17	언어를	언어+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	배우지	배우+지	VERB	VV+EC	_	0	root	_	_
+19	않다	않+다	AUX	VX+EF	_	18	aux	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_33_1_04
+# text = 다만 직접 외국어를 아기의 얼굴을 보면서 사용하는 사람 있으면 외국어를 배우는 성인보다 언어를 훨씬 빨리 배울수 있다.
+1	다만	다만	ADV	MAG	_	17	advmod	_	_
+2	직접	직접	ADV	MAG	_	6	advmod	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+4	아기의	아기+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	얼굴을	얼굴+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	보면서	보+면서	VERB	VV+EC	_	7	advcl	_	_
+7	사용하는	사용+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	사람	사람	NOUN	NNG	_	9	nsubj	_	_
+9	있으면	있+으면	VERB	VV+EC	_	17	advcl	_	_
+10	외국어를	외국어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	배우는	배우+는	VERB	VV+ETM	_	12	acl	_	_
+12	성인보다	성인+보다	ADV	NNG+JKB	_	16	obl	_	_
+13	언어를	언어+를	NOUN	NNG+JKO	_	16	obj	_	_
+14	훨씬	훨씬	ADV	MAG	_	16	advmod	_	_
+15	빨리	빨리	ADV	MAG	_	16	advmod	_	_
+16	배울수	배우+ㄹ+수	VERB	VV+ETM+NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-ENG_33_1_05
+# text = 그래서 조기언어교육의 제일 큰 장점은 제데로 하면 많은 어려움 없이 아이들은 2개국어나 3개국어를 배울 수 있다.
+1	그래서	그래서	ADV	MAJ	_	16	cc	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	5	nmod:poss	_	_
+3	제일	제일	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	장점은	장점+은	NOUN	NNG+JX	_	16	obl	_	_
+6	제데로	제데로	ADV	NA	_	7	advmod	_	_
+7	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	어려움	어렵+ㅁ	NOUN	VA+ETN	_	10	nsubj	_	_
+10	없이	없이	VERB	MAG	_	16	advcl	_	_
+11	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	14	nsubj	_	_
+12	2개국어나	2+개+국어나	NOUN	SN+NNB+NNG+JC	_	14	obj	_	_
+13	3개국어를	3+개+국어+를	NOUN	MM+NNB+NNG+JKO	_	12	conj	_	_
+14	배울	배우+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_33_1_06
+# text = 하지만 조기언어교육을 잘 못하면 아이들은 아기의 모국어를 잃을 수 있다.
+1	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+2	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	못하면	못+하+면	VERB	VV+EC+EC	_	10	advcl	_	_
+5	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+6	아기의	아기+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	모국어를	모국어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	잃을	잃+을	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_33_1_07
+# text = 이 단점은 생각보다 자주 일어나지 않고 아주 특별한 상황에만 조심해야 한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	10	dislocated	_	_
+3	생각보다	생각+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	자주	자주	ADV	MAG	_	5	advmod	_	_
+5	일어나지	일어나+지	VERB	VV+EC	_	10	advcl	_	_
+6	않고	않+고	AUX	VX+EC	_	10	aux	_	_
+7	아주	아주	ADV	MAG	_	8	advmod	_	_
+8	특별한	특별+하+ㄴ	ADJ	NNG+XSA+ETM	_	9	amod	_	_
+9	상황에만	상황+에+만	ADV	NNG+JKB+JX	_	10	obl	_	_
+10	조심해야	조심+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+11	한다	하+ㄴ다	AUX	VX+EF	_	10	aux	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_33_1_08
+# text = 집에서 한국어만 쓰고 일주일에 3번 정도 다른 언어교육 받으면 아이는 한국어를 다른 아이들처럼 발달할 것이다.
+1	집에서	집+에서	ADV	NNG+JKB	_	3	obl	_	_
+2	한국어만	한국어+만	NOUN	NNG+JX	_	3	obj	_	_
+3	쓰고	쓰+고	VERB	VV+EC	_	9	advcl	_	_
+4	일주일에	일+주일+에	ADV	MM+NNB+JKB	_	9	obl	_	_
+5	3번	3+번	NOUN	SN+NNB	_	9	obl	_	_
+6	정도	정도	NOUN	NNG	_	5	case	_	_
+7	다른	다른	ADJ	MM	_	8	amod	_	_
+8	언어교육	언어+교육	NOUN	NNG+NNG	_	9	obj	_	_
+9	받으면	받+으면	VERB	VV+EC	_	15	advcl	_	_
+10	아이는	아이+는	NOUN	NNG+JX	_	14	nsubj	_	_
+11	한국어를	한국어+를	NOUN	NNG+JKO	_	14	obj	_	_
+12	다른	다른	ADJ	MM	_	13	amod	_	_
+13	아이들처럼	아이+들+처럼	ADV	NNG+XSN+JKB	_	14	obl	_	_
+14	발달할	발달+하+ㄹ	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-ENG_33_1_09
+# text = 다만 집에서 한국어를 아예 사용하지 않고 외국어 가르칠려고 그 언어만 사용하면 아이는 한국어 노출을 너무 적어서 다른 한국아이들처럼 한국어를 발달할 수 없을 것이다.
+1	다만	다만	ADV	MAG	_	23	advmod	_	_
+2	집에서	집+에서	ADV	NNG+JKB	_	5	obl	_	_
+3	한국어를	한국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	아예	아예	ADV	MAG	_	5	advmod	_	_
+5	사용하지	사용+하+지	VERB	NNG+XSV+EC	_	8	advcl	_	_
+6	않고	않+고	AUX	VX+EC	_	5	aux	_	_
+7	외국어	외국어	NOUN	NNG	_	8	obj	_	_
+8	가르칠려고	가르치+ㄹ+려고	VERB	VV+NA+EC	_	11	advcl	_	_
+9	그	그	DET	MM	_	10	det	_	_
+10	언어만	언어+만	NOUN	NNG+JX	_	11	obj	_	_
+11	사용하면	사용+하+면	VERB	NNG+XSV+EC	_	16	advcl	_	_
+12	아이는	아이+는	NOUN	NNG+JX	_	16	dislocated	_	_
+13	한국어	한국어	NOUN	NNG	_	14	nmod	_	_
+14	노출을	노출+을	NOUN	NNG+JKO	_	16	obj	_	_
+15	너무	너무	ADV	MAG	_	16	advmod	_	_
+16	적어서	적+어서	VERB	VA+EC	_	23	advcl	_	_
+17	다른	다른	ADJ	MM	_	18	amod	_	_
+18	한국아이들처럼	한국+아이+들+처럼	ADV	NNP+NNG+XSN+JKB	_	20	obl	_	_
+19	한국어를	한국어+를	NOUN	NNG+JKO	_	20	obj	_	_
+20	발달할	발달+하+ㄹ	VERB	NNG+XSV+ETM	_	21	acl	_	_
+21	수	수	NOUN	NNB	_	22	nsubj	_	_
+22	없을	없+을	VERB	VA+ETM	_	23	acl	_	_
+23	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-ENG_33_1_10
+# text = 보통 언어를 발달하려면 어떤 학자에 따르면 아이의 모든 언어 노출중에 30% 이상은 그 언어에 있어야 한다고 한다.
+1	보통	보통	ADV	NNG	_	3	advmod	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+3	발달하려면	발달+하+려면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	학자에	학자+에	ADV	NNG+JKB	_	6	obl	_	_
+6	따르면	따르+면	VERB	VV+EC	_	17	advcl	_	_
+7	아이의	아이+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+8	모든	모든	DET	MM	_	9	det	_	_
+9	언어	언어	NOUN	NNG	_	10	nmod	_	_
+10	노출중에	노출+중+에	ADV	NNG+NNB+JKB	_	15	obl	_	_
+11	30%	30+%	NOUN	SN+SW	_	12	nmod	_	_
+12	이상은	이상+은	NOUN	NNG+JX	_	15	nsubj	_	_
+13	그	그	DET	MM	_	14	det	_	_
+14	언어에	언어+에	ADV	NNG+JKB	_	15	obl	_	_
+15	있어야	있+어야	VERB	VV+EC	_	17	ccomp	_	_
+16	한다고	하+ㄴ다고	AUX	VX+EC	_	15	aux	_	_
+17	한다	하+ㄴ다	VERB	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

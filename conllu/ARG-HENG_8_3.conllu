@@ -1,0 +1,170 @@
+# sent_id = ARG-HENG_08_3_01
+# text = 협동과 경쟁중에서 저는 협동을 선호합니다.
+1	협동과	협동+과	NOUN	NNP+JC	_	5	obl	_	_
+2	경쟁중에서	경쟁+중+에서	ADV	NNG+NNB+JKB	_	1	conj	_	_
+3	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_08_3_02
+# text = 경쟁이 나쁘거나 중료하지 않다는 것을 전혀 아닙니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	나쁘거나	나쁘+거나	VERB	VV+EC	_	3	advcl	_	_
+3	중료하지	중료+하+지	VERB	NF+XSA+EC	_	5	acl	_	_
+4	않다는	않+다는	AUX	VX+ETM	_	3	aux	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+6	전혀	전혀	ADV	MAG	_	7	advmod	_	_
+7	아닙니다	아니+ㅂ니다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_3_03
+# text = 경쟁이 꼭 필요한 상황들이 있습니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	꼭	꼭	ADV	MAG	_	3	advmod	_	_
+3	필요한	필요+하+ㄴ	VERB	NNG+XSA+ETM	_	4	acl	_	_
+4	상황들이	상황+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_08_3_04
+# text = 그렇지만 개인적으로는 협동이 편하고 저에게 도움이 더 되는 것같아요.
+1	그렇지만	그렇+지만	ADV	MAJ+EC	_	9	cc	_	_
+2	개인적으로는	개인+적+으로+는	ADV	NNG+XSN+JKB+JX	_	9	obl	_	_
+3	협동이	협동+이	NOUN	NF+JKS	_	4	nsubj	_	_
+4	편하고	편하+고	VERB	VA+EC	_	9	advcl	_	_
+5	저에게	저+에게	ADV	NP+JKB	_	8	obl	_	_
+6	도움이	도움+이	NOUN	NNG+JKC	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	되는	되+는	VERB	VV+ETM	_	9	acl	_	_
+9	것같아요	것+같+아요	VERB	NNB+VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_08_3_05
+# text = 제 성격상, 경쟁이 있으면 스트레스가 생기고 말과 행동들이 작아 집니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	성격상	성격+상	NOUN	NNG+XSN	_	7	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+6	스트레스가	스트레스+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	생기고	생기+고	VERB	VV+EC	_	0	root	_	_
+8	말과	말+과	NOUN	NNG+JC	_	10	nsubj	_	_
+9	행동들이	행동+들+이	NOUN	NNG+XSN+JKS	_	8	conj	_	_
+10	작아	작+아	VERB	VA+XSV	_	7	conj	_	_
+11	집니다	_	X	_	_	10	goeswith	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_3_06
+# text = 기가죽고 일하는것에 지장도 있습니다.
+1	기가죽고	기+가+죽+고	VERB	NNG+JKS+VV+EC	_	4	advcl	_	_
+2	일하는것에	일+하+는+것+에	ADV	NNG+XSV+ETM+NNB+JKB	_	4	obl	_	_
+3	지장도	지장+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_08_3_07
+# text = 또 경쟁이 너무 쌔면 속상해지고 남과 다툴수있어서 저는 관심이 별로 없습니다.
+1	또	또	ADV	MAJ	_	5	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	쌔면	쌔+면	VERB	NV+EC	_	5	advcl	_	_
+5	속상해지고	속상하+아지+고	VERB	VA+XSV+EC	_	11	advcl	_	_
+6	남과	남+과	NOUN	NNG+JKB	_	7	obl	_	_
+7	다툴수있어서	다투+ㄹ+수+있+어서	VERB	VV+ETM+NNB+VX+EC	_	5	conj	_	_
+8	저는	저+는	PRON	NP+JX	_	11	dislocated	_	_
+9	관심이	관심+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	별로	별로	ADV	MAG	_	11	advmod	_	_
+11	없습니다	없+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_3_08
+# text = 제 남편은 경쟁을 즐기고 좋아합니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	남편은	남편+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	즐기고	즐기+고	VERB	VV+EC	_	5	advcl	_	_
+5	좋아합니다	좋아하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_08_3_09
+# text = 참 신가해요.
+1	참	참	ADV	MAG	_	2	advmod	_	_
+2	신가해요	신가+하+아요	ADJ	NA+XSA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-HENG_08_3_10
+# text = 협동하면 기분이 너무 좋아요.
+1	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	4	advcl	_	_
+2	기분이	기분+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_08_3_11
+# text = 남과 한 마음이 되서 일을한다는게 힘이 되고, 혼자 할수있는 것보다 훨신 더 많은 것을 더 기분좋게 해낼수있습니다.
+1	남과	남과	ADV	NNG+JKB	_	4	obl	_	_
+2	한	한	NUM	MM	_	3	nummod	_	_
+3	마음이	마음+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	되서	되+서	VERB	VV+EC	_	5	advcl	_	_
+5	일을한다는게	일+을+하+ㄴ다는+것+이	VERB	NNG+JKO+VV+ETM+NNB+JKS	_	7	dislocated	_	_
+6	힘이	힘+이	NOUN	NNG+JKC	_	7	nsubj	_	_
+7	되고	되+고	VERB	VV+EC	_	18	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	혼자	혼자	ADV	NNG	_	10	advmod	_	_
+10	할수있는	하+ㄹ+수+있+는	VERB	VV+ETM+NNB+VX+ETM	_	11	acl	_	_
+11	것보다	것+보다	ADV	NNB+JKB	_	14	obl	_	_
+12	훨신	훨신	NOUN	NA	_	13	advmod	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	많은	많+은	ADJ	VA+ETM	_	15	acl	_	_
+15	것을	것+을	NOUN	NNB+JKO	_	18	obj	_	_
+16	더	더	ADV	MAG	_	17	advmod	_	_
+17	기분좋게	기분+좋+게	ADV	NNG+VA+EC	_	18	advcl	_	_
+18	해낼수있습니다	해내+ㄹ+수+있+습니다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-HENG_08_3_12
+# text = 협동하면 평화가 있고, 옆에 친구가있는 기분입니다.
+1	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	3	advcl	_	_
+2	평화가	평화+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있고	있+고	VERB	VV+EC	_	7	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	옆에	옆+에	ADV	NNG+JKB	_	6	obl	_	_
+6	친구가있는	친구+가+있+는	VERB	NNG+JKS+VV+ETM	_	7	acl	_	_
+7	기분입니다	기분+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_3_13
+# text = 게임을놀거나 농담할때 경쟁이 있으면 재미있을수 있는데, 경쟁이 너무 심각해지면 저는 불편합니다.
+1	게임을놀거나	게임+을+놀+거나	NOUN	NNG+JKO+VV+EC	_	2	advcl	_	_
+2	농담할때	농담+하+ㄹ+때	VERB	NNG+XSV+ETM+NNG	_	4	advcl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있으면	있+으면	VERB	VV+EC	_	6	advcl	_	_
+5	재미있을수	재미+있+을+수	VERB	NNG+VA+ETM+NNB	_	6	nsubj	_	_
+6	있는데	있+는데	VERB	VX+EC	_	12	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	경쟁이	경쟁+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	너무	너무	ADV	MAG	_	10	advmod	_	_
+10	심각해지면	심각+하+아지+면	VERB	NNG+XSA+XSV+EC	_	12	advcl	_	_
+11	저는	저+는	PRON	NP+JX	_	12	nsubj	_	_
+12	불편합니다	불편+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_08_3_14
+# text = 그래서 팀 운동을 잘 못합니다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	팀	팀	NOUN	NNG	_	3	nmod	_	_
+3	운동을	운동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	못합니다	못하+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_08_3_15
+# text = 경기에서 저도 상관을 별로 하지 않습니다.
+1	경기에서	경기+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	저도	저+도	PRON	NP+JX	_	5	nsubj	_	_
+3	상관을	상관+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	별로	별로	ADV	MAG	_	5	advmod	_	_
+5	하지	하+지	VERB	VV+EC	_	0	root	_	_
+6	않습니다	않+습니다	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_

@@ -1,0 +1,98 @@
+# sent_id = ARG-JPN_17_1_01
+# text =  조기언어 교육의 장점은 어릴 때부터 외국어를 배우기 위해 더 빠르게 외국어 능력을 늘릴 수 있다는 것이다.
+1	조기언어	조기+언어	NOUN	NNG+NNG	_	2	nmod	_	_
+2	교육의	교육+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	장점은	장점+은	NOUN	NNG+JX	_	16	nsubj	_	_
+4	어릴	어리+ㄹ	VERB	VA+ETM	_	7	advcl	_	_
+5	때부터	때+부터	ADV	NNG+JX	_	4	mark	_	_
+6	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우기	배우+기	NOUN	VV+ETN	_	8	obj	_	_
+8	위해	위하+아	VERB	VV+EC	_	13	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	빠르게	빠르+게	ADV	VA+EC	_	13	advmod	_	_
+11	외국어	외국어	NOUN	NNG	_	12	nmod	_	_
+12	능력을	능력+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	늘릴	늘리+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다는	있+다는	VERB	VX+ETM	_	16	acl	_	_
+16	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_17_1_02
+# text =  외국어를 쓰는 황경에 있기 때문에 자연스럽게 언어 능력을 상장할 수 있고, 성인이 되는 후에 교육을 받는 것이와 비교하면 더 부담없이 외국어를 배울 수 있다.
+1	외국어를	외국어+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	쓰는	쓰+는	VERB	VV+ETM	_	3	acl	_	_
+3	황경에	황경+에	ADV	NF+JKB	_	4	obl	_	_
+4	있기	있+기	NOUN	VV+ETN	_	11	obl	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+6	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	9	advmod	_	_
+7	언어	언어	NOUN	NNG	_	8	nmod	_	_
+8	능력을	능력+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	상장할	상장+하+ㄹ	VERB	NF+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있고	있+고	VERB	VX+EC	_	25	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	성인이	성인+이	NOUN	NNG+JKC	_	14	nsubj	_	_
+14	되는	되+는	VERB	VV+ETM	_	17	advcl	_	_
+15	후에	후+에	ADV	NNG+JKB	_	14	mark	_	_
+16	교육을	교육+을	NOUN	NNG+JKO	_	19	obj	_	_
+17	받는	받+는	VERB	VV+ETM	_	18	acl	_	_
+18	것이와	것+이+와	ADV	NNB+NA+JKB	_	19	obl	_	_
+19	비교하면	비교+하+면	VERB	NNG+XSV+EC	_	25	advcl	_	_
+20	더	더	ADV	MAG	_	20	advmod	_	_
+21	부담없이	부담+없+이	ADV	NNG+VA+EC	_	23	advcl	_	_
+22	외국어를	외국어+를	NOUN	NNG+JKO	_	23	obj	_	_
+23	배울	배우+ㄹ	VERB	VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-JPN_17_1_03
+# text =  그 반면 조기언어 교육의 단점은 본인의 아이덴티티가 무엇인지 잃어버릴 수도 있다는 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	반면	반면	NOUN	NNG	_	12	obl	_	_
+3	조기언어	조기+언어	NOUN	NNG+NNG	_	4	nmod	_	_
+4	교육의	교육+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	단점은	단점+은	NOUN	NNG+JX	_	12	nsubj	_	_
+6	본인의	본인+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	아이덴티티가	아이덴티티+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	무엇인지	무엇+이+ㄴ지	VERB	NP+VCP+EC	_	9	ccomp	_	_
+9	잃어버릴	잃+어+버리+ㄹ	VERB	VV+EC+VX+ETM	_	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있다는	있+다는	VERB	VX+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_17_1_04
+# text =  언어는 인간의 생각하는 능력이와 깊게 연결된 것이기 떄문에 어릴 때부터 많은 문화를 삽취하면 자기가 어느 나라나 문화에 기属 의식을 가져가면 좋을까 잃어버려서 이 후의 아이의 성장에 영향을 줄 수도 있다.
+1	언어는	언어+는	NOUN	NNG+JX	_	7	nsubj	_	_
+2	인간의	인간+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+3	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	능력이와	능력+이+와	ADV	NNG+NA+JKB	_	6	obl	_	_
+5	깊게	깊+게	ADV	VA+EC	_	6	advmod	_	_
+6	연결된	연결+되+ㄴ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것이기	것+이+기	NOUN	NNB+VCP+ETN	_	30	obl	_	_
+8	떄문에	떄문+에	ADV	NF+JKB	_	7	case	_	_
+9	어릴	어리+ㄹ	VERB	VA+ETM	_	13	advcl	_	_
+10	때부터	때+부터	ADV	NNG+JX	_	13	mark	_	_
+11	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+12	문화를	문화+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	삽취하면	삽취+하+면	VERB	NF+XSV+EC	_	30	advcl	_	_
+14	자기가	자기+가	PRON	NNG+JKS	_	20	nsubj	_	_
+15	어느	어느	DET	MM	_	16	det	_	_
+16	나라나	나라+나	NOUN	NNG+JC	_	20	obl	_	_
+17	문화에	문화+에	ADV	NNG+JKB	_	16	conj	_	_
+18	기属	기+属	NOUN	NNG+SL	_	19	nmod	_	_
+19	의식을	의식+을	NOUN	NNG+JKO	_	20	obj	_	_
+20	가져가면	가져가+면	VERB	VV+EC	_	21	advcl	_	_
+21	좋을까	좋+을까	VERB	VA+EC	_	22	ccomp	_	_
+22	잃어버려서	잃+어+버리+어서	VERB	VV+EC+VX+EC	_	30	advcl	_	_
+23	이	이	DET	MM	_	24	det	_	_
+24	후의	후+의	NOUN	NNG+JKG	_	26	nmod:poss	_	_
+25	아이의	아이+의	NOUN	NNG+JKG	_	26	nmod:poss	_	_
+26	성장에	성장+에	ADV	NNG+JKB	_	28	obl	_	_
+27	영향을	영향+을	NOUN	NNG+JKO	_	28	obj	_	_
+28	줄	주+ㄹ	VERB	VV+ETM	_	29	acl	_	_
+29	수도	수+도	NOUN	NNB+JX	_	30	nsubj	_	_
+30	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_

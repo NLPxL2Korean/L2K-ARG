@@ -1,0 +1,104 @@
+# sent_id = ARG-CZH_37_3_01
+# text = 이 문제는 어렵다고 봅니다.
+1	이	이	DET	MM	_	2	det	_	_
+2	문제는	문제+는	NOUN	NNG+JX	_	3	nsubj	_	_
+3	어렵다고	어렵+다고	ADJ	VA+EC	_	4	ccomp	_	_
+4	봅니다	보+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_37_3_02
+# text = 보자마자 협동이 더 낫다고 쓰고 싶었지만 깊이 생각해 보니까 경쟁도 자기 장점이 있겠지요.
+1	보자마자	보+자마자	VERB	VV+EC	_	5	advcl	_	_
+2	협동이	협동+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	낫다고	낫+다고	ADJ	VA+EC	_	5	ccomp	_	_
+5	쓰고	쓰+고	VERB	VV+EC	_	8	advcl	_	_
+6	싶었지만	싶	AUX	VX+EP+EC	_	5	aux	_	_
+7	깊이	깊+이	ADV	VA+XSA	_	8	advmod	_	_
+8	생각해	생각+하+아	VERB	NNG+XSV+EC	_	13	advcl	_	_
+9	보니까	보+니까	VERB	VX+EC	_	8	advcl	_	_
+10	경쟁도	경쟁+도	NOUN	NNG+JX	_	13	dislocated	_	_
+11	자기	자기	NOUN	NNG	_	12	nmod	_	_
+12	장점이	장점+이	NOUN	NNG+JKS	_	13	nsubj	_	_
+13	있겠지요	있+겠+지요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_37_3_03
+# text = 협동은 아무리 좋다고 해도 인간의 발전은 경쟁에서 나오는 때가 많습니다.
+1	협동은	협동+은	NOUN	NNG+JX	_	3	nsubj	_	_
+2	아무리	아무리	ADV	MAG	_	3	advmod	_	_
+3	좋다고	좋+다고	ADJ	VA+EC	_	4	ccomp	_	_
+4	해도	하+아도	VERB	VV+EC	_	10	advcl	_	_
+5	인간의	인간+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	발전은	발전+은	NOUN	NNG+JX	_	10	dislocated	_	_
+7	경쟁에서	경쟁+에서	ADV	NNG+JKB	_	8	obl	_	_
+8	나오는	나오+는	VERB	VV+ETM	_	9	acl	_	_
+9	때가	때+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_37_3_04
+# text = 미국하고 러시아는 서로 경쟁 하지 않으면 우리 지금 우주에 대해서 얼마나 알가요?
+1	미국하고	미국+하고	NOUN	NNP+JC	_	5	nsubj	_	_
+2	러시아는	러시아+는	NOUN	NNP+JX	_	1	conj	_	_
+3	서로	서로	ADV	MAG	_	5	advmod	_	_
+4	경쟁	경쟁	NOUN	NNG	_	5	obj	_	_
+5	하지	하+지	VERB	VV+EC	_	12	advcl	_	_
+6	않으면	않	AUX	VX+EC	_	5	aux	_	_
+7	우리	우리	PRON	NP	_	12	nsubj	_	_
+8	지금	지금	ADV	MAG	_	12	advmod	_	_
+9	우주에	우주+에	ADV	NNG+JKB	_	10	obl	_	_
+10	대해서	대하+아서	VERB	VV+EC	_	12	advcl	_	_
+11	얼마나	얼마나	ADV	MAG	_	12	advmod	_	_
+12	알가요	알+가요	VERB	VV+NA	Typo=Yes	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_37_3_05
+# text = 두 나라의 경쟁이 그렇게 심하지 않으면 발전은 그렇게 빨리 할 수 있을까요?
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	나라의	나라+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	그렇게	그렇+게	ADV	VA+EC	_	5	advmod	_	_
+5	심하지	심하+지	ADJ	VA+EC	_	12	advcl	_	_
+6	않으면	않	AUX	VX+EC	_	5	aux	_	_
+7	발전은	발전+은	NOUN	NNG+JX	_	10	nsubj	_	_
+8	그렇게	그렇+게	ADV	VA+EC	_	10	advmod	_	_
+9	빨리	빨리	ADV	MAG	_	10	advmod	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있을까요	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+13	?	?	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_37_3_06
+# text = 지금은 이렇게 생각해도 일상 생활에서는 협동을 선호합니다.
+1	지금은	지금+은	NOUN	NNG+JX	_	3	obl	_	_
+2	이렇게	이렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	생각해도	생각+하+아도	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	일상	일상	NOUN	NNG	_	5	nmod	_	_
+5	생활에서는	생활+에서+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+6	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_37_3_07
+# text = 사람이 많으니까 사람마다 자기 특징이 있습니다.
+1	사람이	사람+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	많으니까	많+으니까	ADJ	VA+EC	_	6	advcl	_	_
+3	사람마다	사람+마다	NOUN	NNG+JX	_	6	obl	_	_
+4	자기	자기	PRON	NP	_	5	nmod	_	_
+5	특징이	특징+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_37_3_08
+# text = 그리고 그 특징을 팀에서 쓰려면 효과가 더 좋을거라고 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	특징을	특징+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	팀에서	팀+에서	ADV	NNG+JKB	_	5	obl	_	_
+5	쓰려면	쓰+려면	VERB	VV+EC	_	9	advcl	_	_
+6	효과가	효과+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	좋을거라고	좋+을+것+이+라고	VERB	VA+ETM+NNB+VCP+EC	_	9	ccomp	_	_
+9	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

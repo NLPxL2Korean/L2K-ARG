@@ -1,0 +1,145 @@
+# sent_id = ARG-CZH_28_2_01
+# text = 역사에 대해서 말하면 사람들이 자주 상관이 없는 것 같아요.
+1	역사에	역사+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	3	advcl	_	_
+3	말하면	말+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	dislocated	_	_
+5	자주	자주	ADV	MAG	_	7	advmod	_	_
+6	상관이	상관+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	없는	없+는	ADJ	VA+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	9	nsubj	_	_
+9	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_28_2_02
+# text = 보통 심심하다고 생각해요.
+1	보통	보통	ADV	MAG	_	3	advmod	_	_
+2	심심하다고	심심+하+다고	ADJ	XR+XSA+EC	_	3	ccomp	_	_
+3	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_28_2_03
+# text = 하지만 제 생각에는 안 그래요.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	제	저+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+4	안	안	ADV	MAG	_	5	advmod	_	_
+5	그래요	그러하+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_28_2_04
+# text = 역사가 심심하지 않을 뿐만 아니라 아주 중요해요.
+1	역사가	역사+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	심심하지	심심+하+지	ADJ	XR+XSA+EC	_	4	acl	_	_
+3	않을	않	AUX	VX+ETM	_	2	aux	_	_
+4	뿐만	뿐+만	NOUN	NNB+JX	_	5	nsubj	_	_
+5	아니라	아니+라	ADJ	VCN+EC	_	7	advcl	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_28_2_05
+# text = 사람들이 완벽하지 않아서 자주 문제가 생겨요.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	2	nsubj	_	_
+2	완벽하지	완벽+하+지	ADJ	NNG+XSA+EC	_	6	advcl	_	_
+3	않아서	않	AUX	VX+EC	_	2	aux	_	_
+4	자주	자주	ADV	MAG	_	6	advmod	_	_
+5	문제가	문제+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	생겨요	생기+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_28_2_06
+# text = 우리 역사를 보면 문제를 너무 많이 볼 수 있어요.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	보면	보+면	VERB	VV+EC	_	9	advcl	_	_
+4	문제를	문제+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	너무	너무	ADV	MAG	_	7	advmod	_	_
+6	많이	많이	ADV	MAG	_	7	advmod	_	_
+7	볼	보+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_28_2_07
+# text = 예를 들어서 전쟁은 튼일이에요.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	4	advcl	_	_
+3	전쟁은	전쟁+은	NOUN	NNG+JX	_	4	nsubj	_	_
+4	튼일이에요	튼일+이+에요	ADJ	NF+VCP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_28_2_08
+# text = 많이 사람들을 다치고 모두 불행복하게 돼요.
+1	많이	많이	ADV	MAG	_	3	advmod	_	_
+2	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	3	obj	_	_
+3	다치고	다치+고	VERB	VV+EC	_	6	advcl	_	_
+4	모두	모두	ADV	MAG	_	6	advmod	_	_
+5	불행복하게	불+행복+하+게	ADJ	XPN+NNG+XSA+EC	_	6	advcl	_	_
+6	돼요	되+어요	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_28_2_09
+# text = 전쟁 때문에 다 나쁘게 된다고 생각해요.
+1	전쟁	전쟁	NOUN	NNG	_	5	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	다	다	ADV	MAG	_	5	advmod	_	_
+4	나쁘게	나쁘+게	ADV	VA+EC	_	5	advmod	_	_
+5	된다고	되+ㄴ다고	VERB	VV+EC	_	6	ccomp	_	_
+6	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_28_2_10
+# text = 그리고 생각해 보니 전쟁 이유가 무엇인가요?
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	생각해	생각+하+아	VERB	NNG+XSV+EC	_	6	advcl	_	_
+3	보니	보+니	VERB	VX+EC	_	2	advcl	_	_
+4	전쟁	전쟁	NOUN	NNG	_	5	nmod	_	_
+5	이유가	이유+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	무엇인가요	무엇+이+ㄴ가요	VERB	NP+VCP+EF	_	0	root	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_28_2_11
+# text = 보통 그냥 중요하지 않은 이유인 것 같아요.
+1	보통	보통	ADV	NNG	_	7	advmod	_	_
+2	그냥	그냥	ADV	MAG	_	3	advmod	_	_
+3	중요하지	중요+하+지	ADJ	NNG+XSA+EC	_	5	acl	_	_
+4	않은	않	AUX	VX+ETM	_	3	aux	_	_
+5	이유인	이유+이+ㄴ	ADJ	NNG+VCP+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_28_2_12
+# text = 이런 문제가 너무 심해서 다시 일어나지 않도록 해야 해요.
+1	이런	이런	DET	MM	_	2	det	_	_
+2	문제가	문제+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	심해서	심하+아서	ADJ	VA+EC	_	8	advcl	_	_
+5	다시	다시	ADV	MAG	_	6	advmod	_	_
+6	일어나지	일어나+지	VERB	VV+EC	_	8	advcl	_	_
+7	않도록	않	AUX	VX+EC	_	6	aux	_	_
+8	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+9	해요	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_28_2_13
+# text = 그것은 때문에 역사를 배우는 것이 아주 중요하다고 생각해요.
+1	그것은	그것+은	PRON	NP+JX	_	8	obl	_	_
+2	때문에	때문+에	ADV	NNB+JKB	_	1	case	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	아주	아주	ADV	MAG	_	7	advmod	_	_
+7	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	8	ccomp	_	_
+8	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_28_2_14
+# text = 같은 문제가 다시 생기지 않도록이요.
+1	같은	같+은	ADJ	VA+ETM	_	2	amod	_	_
+2	문제가	문제+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	다시	다시	ADV	MAG	_	4	advmod	_	_
+4	생기지	생기+지	VERB	VV+EC	_	0	root	_	_
+5	않도록이요	않	AUX	VX+EF+JX	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

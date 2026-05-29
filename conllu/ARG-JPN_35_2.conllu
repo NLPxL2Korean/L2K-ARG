@@ -1,0 +1,53 @@
+# sent_id = ARG-JPN_35_2_01
+# text =  저는 역사를 배운것은 너무 중요하다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배운것은	배우+ㄴ+것+은	NOUN	VV+ETM+NNB+JX	_	5	nsubj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_35_2_02
+# text =  제가 그렇게 생각한 이유는 두가지 있습니다.
+1	제가	제+가	PRON	NP+JKS	_	3	nsubj	_	_
+2	그렇게	그렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	생각한	생각+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	이유는	이유+는	NOUN	NNG+JX	_	6	dislocated	_	_
+5	두가지	두+가지	NOUN	MM+NNB	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_35_2_03
+# text =  첫째는 어래정부테 계속하고 있는 문화가 어떻게 나타난지 알고 있으면 생활의 힘이된다.
+1	첫째는	첫째+는	NOUN	NR+JX	_	11	obl	_	_
+2	어래정부테	어래정+부테	ADV	NF+NA	_	3	obl	_	_
+3	계속하고	계속+하+고	VERB	NNG+XSV+EC	_	5	acl	_	_
+4	있는	있+는	AUX	VX+ETM	_	3	aux	_	_
+5	문화가	문화+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+7	나타난지	나타나+ㄴ지	VERB	VV+EC	_	8	ccomp	_	_
+8	알고	알+고	VERB	VV+EC	_	11	advcl	_	_
+9	있으면	있+으면	AUX	VX+EC	_	8	aux	_	_
+10	생활의	생활+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	힘이된다	힘이+되+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_35_2_04
+# text =  들째는 외국관계가 나뿐 나라에서는 왜 나뿐게 됬는지 알고 있으면 미래의 관계가 좋아지게 된다고 생각하기 때문입니다.
+1	들째는	들째+는	NOUN	NF+JX	_	15	obl	_	_
+2	외국관계가	외국+관계+가	NOUN	NNG+NNG+JKS	_	3	nsubj	_	_
+3	나뿐	나뿌+ㄴ	VERB	NV+ETM	_	4	acl	_	_
+4	나라에서는	나라+에서+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+5	왜	왜	ADV	MAG	_	6	advmod	_	_
+6	나뿐게	나뿐+게	VERB	NV+EC	_	7	advmod	_	_
+7	됬는지	되+ㅆ+는지	VERB	VV+NA+EC	_	8	ccomp	_	_
+8	알고	알+고	VERB	VV+EC	_	12	advcl	_	_
+9	있으면	있+으면	AUX	VX+EC	_	8	aux	_	_
+10	미래의	미래+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	관계가	관계+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	좋아지게	좋+아지+게	VERB	VA+XSV+EC	_	14	ccomp	_	_
+13	된다고	되+ㄴ다고	VERB	VX+EC	_	12	advcl	_	_
+14	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	15	nmod	_	_
+15	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

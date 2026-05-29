@@ -1,0 +1,98 @@
+# sent_id = ARG-CZH_40_3_01
+# text = 우리는 아이부로 혼자서 우리의 생활을 찐자 어렵습니다.
+1	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+2	아이부로	아이부로	ADV	NA	Typo=Yes	7	advmod	_	_
+3	혼자서	혼자+서	NOUN	NNG+JKS	_	7	obl	_	_
+4	우리의	우리+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	생활을	생활+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	찐자	찐자	ADV	NA	Typo=Yes	7	advmod	_	_
+7	어렵습니다	어렵+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_40_3_02
+# text = 저도 혼자서 대학교 못 가서 좋은 일을 못 일했겠습니다.
+1	저도	저+도	PRON	NP+JX	_	9	nsubj	_	_
+2	혼자서	혼자+서	NOUN	NNG+JKS	_	5	obl	_	_
+3	대학교	대학교	NOUN	NNG	_	5	obl	_	_
+4	못	못	ADV	MAG	_	5	advmod	_	_
+5	가서	가+아서	VERB	VV+EC	_	9	advcl	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	못	못	ADV	MAG	_	9	advmod	_	_
+9	일했겠습니다	일+하+았+겠+습니다	VERB	NNG+XSV+EP+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_40_3_03
+# text = 사람마다 다른 사람 필여하고 회사들도 다른 회사 필녀합니다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	4	obl	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람	사람	NOUN	NNG	_	4	nsubj	_	_
+4	필여하고	필여+하+고	ADJ	NF+XSA+EC	Typo=Yes	0	root	_	_
+5	회사들도	회사+들+도	NOUN	NNG+XSN+JX	_	8	dislocated	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	회사	회사	NOUN	NNG	_	8	nsubj	_	_
+8	필녀합니다	필녀+하+ㅂ니다	ADJ	NF+XSA+EF	Typo=Yes	4	conj	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_40_3_04
+# text = 그 때무네 이나 덕후내 나라를 이렇게 생각도 있습니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	때무네	때무네	NOUN	NA	Typo=Yes	8	obl	_	_
+3	이나	이나	ADP	JX	_	2	case	_	_
+4	덕후내	덕후내	NOUN	NF	Typo=Yes	5	nmod	_	_
+5	나라를	나라+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	이렇게	이렇+게	ADV	VA+EC	_	8	advmod	_	_
+7	생각도	생각+도	NOUN	NNG+JX	_	8	nsubj	_	_
+8	있습니다	있+습니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_40_3_05
+# text = 왜?라고 들었습니다.
+1	왜?라고	왜+?+라고	ADV	MAG+SF+JKQ	_	2	ccomp	_	_
+2	들었습니다	듣+었+습니다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_40_3_06
+# text = 슬로바키아, 체코, 볼판드 하고 홍아리를 혼자로 작은 나라 있지만 까제 큰 나라 저램입니다.
+1	슬로바키아	슬로바키아	NOUN	NNP	_	11	obj	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	체코	체코	NOUN	NNP	_	1	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	볼판드	볼판드	NOUN	NF	Typo=Yes	1	list	_	_
+6	하고	하고	ADP	JC	_	5	case	_	_
+7	홍아리를	홍아리+를	NOUN	NF+JKO	Typo=Yes	1	conj	_	_
+8	혼자로	혼자+로	ADV	NNG+JKB	_	11	obl	_	_
+9	작은	작+은	ADJ	VA+ETM	_	10	amod	_	_
+10	나라	나라	NOUN	NNG	_	11	nsubj	_	_
+11	있지만	있+지만	VERB	VV+EC	_	15	advcl	_	_
+12	까제	까제	ADV	NA	Typo=Yes	15	advmod	_	_
+13	큰	크+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+14	나라	나라	NOUN	NNG	_	15	nsubj	_	_
+15	저램입니다	저램+이+ㅂ니다	ADJ	NF+VCP+EF	Typo=Yes	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_40_3_07
+# text = 그 나라들의 이름은 피체흐라드시가 쓰르워르카입니다.
+1	그	그	DET	MM	_	2	det	_	_
+2	나라들의	나라+들+의	NOUN	NNG+XSN+JKG	_	3	nmod:poss	_	_
+3	이름은	이름+은	NOUN	NNG+JX	_	5	nsubj	_	_
+4	피체흐라드시가	피체흐라드시가	NOUN	NF	Typo=Yes	0	root	_	_
+5	쓰르워르카입니다	쓰르워르카+이+ㅂ니다	ADJ	NF+VCP+EF	Typo=Yes	4	flat	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_40_3_08
+# text = 우리는 까찌 EU에무안에 협동하겠습니다.
+1	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+2	까찌	까찌	NOUN	NF	Typo=Yes	3	nmod	_	_
+3	EU에무안에	EU+에무안+에	ADV	SL+NF+JKB	Typo=Yes	4	obl	_	_
+4	협동하겠습니다	협동+하+겠+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_40_3_09
+# text = 그래서 저는 협동 좀 선호하겠습니다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+3	협동	협동	NOUN	NNG	_	5	obj	_	_
+4	좀	좀	ADV	MAG	_	5	advmod	_	_
+5	선호하겠습니다	선호+하+겠+습니다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

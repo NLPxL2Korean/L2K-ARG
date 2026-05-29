@@ -1,0 +1,84 @@
+# sent_id = ARG-JPN_41_2_01
+# text =  나는 역사를 배워야 한다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_41_2_02
+# text =  그렇게 생각하는 이유는 과거는 현재와 큰 관련이 있기 때문이다.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	이유는	이유+는	NOUN	NNG+JX	_	9	nsubj	_	_
+4	과거는	과거+는	NOUN	NNG+JX	_	8	dislocated	_	_
+5	현재와	현재+와	NOUN	NNG+JC	_	8	obl	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	관련이	관련+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있기	있+기	NOUN	VV+ETN	_	9	nmod	_	_
+9	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_41_2_03
+# text =  옛날에는 사람을 죽이거나 아프게 해서 승리한 사람이 세상을 만든다는 이른바 극단적인 세상이었다고 생각한다.
+1	옛날에는	옛날+에+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+2	사람을	사람+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	죽이거나	죽+이+거나	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	아프게	아프+게	ADV	VA+EC	_	5	advmod	_	_
+5	해서	하+아서	VERB	VV+EC	_	3	conj	_	_
+6	승리한	승리+하+ㄴ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+8	세상을	세상+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	만든다는	만들+ㄴ다는	VERB	VV+ETM	_	12	acl	_	_
+10	이른바	이른바	ADV	MAG	_	12	advmod	_	_
+11	극단적인	극단+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	12	amod	_	_
+12	세상이었다고	세상+이+었+다고	VERB	NNG+VCP+EP+EC	_	13	ccomp	_	_
+13	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_41_2_04
+# text =  하지만 현재는 사람을 죽인다는 일이 옛날처럼 가볍게 느껴지지는 않는다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	현재는	현재+는	NOUN	NNG+JX	_	8	obl	_	_
+3	사람을	사람+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	죽인다는	죽+이+ㄴ다는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	일이	일+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	옛날처럼	옛날+처럼	ADV	NNG+JKB	_	8	obl	_	_
+7	가볍게	가볍+게	ADV	VA+EC	_	8	advmod	_	_
+8	느껴지지는	느끼+어지+지+는	VERB	VV+XSV+EC+JX	_	0	root	_	_
+9	않는다	않+는다	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_41_2_05
+# text =  그건 슬픈 과거가 있었기에 이루어진 것이라고 생각한다.
+1	그건	그거+ㄴ	ADV	NP+JX	_	6	nsubj	_	_
+2	슬픈	슬프+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	과거가	과거+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있었기에	있+었+기+에	VERB	VV+EP+ETN+JKB	_	5	advcl	_	_
+5	이루어진	이루+어지+ㄴ	VERB	VV+XSV+ETM	_	6	acl	_	_
+6	것이라고	것+이+라고	VERB	NNB+VCP+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_41_2_06
+# text =  과거를 알 수 있는 역사를 배움으로써 "지금"을 감사할 수 있고 평범한 하루하루도 기적같은 날이라고 느낄 수 있을 것이다.
+1	과거를	과거+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	알	알+ㄹ	VERB	VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있는	있+는	VERB	VX+ETM	_	5	acl	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배움으로써	배우+ㅁ+으로써	ADV	VV+ETN+JKB	_	18	obl	_	_
+7	"지금"을	"+지금+"+을	ADV	SS+NNG+SS+JKO	_	8	obl	_	_
+8	감사할	감사+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있고	있+고	VERB	VX+EC	_	18	acl	_	_
+11	평범한	평범+하+ㄴ	ADJ	XR+XSA+ETM	_	12	amod	_	_
+12	하루하루도	하루+하루+도	NOUN	NNG+NNG+JX	_	14	nsubj	_	_
+13	기적같은	기적+같+은	VERB	NNG+VA+ETM	_	14	acl	_	_
+14	날이라고	날+이+라고	VERB	NNG+VCP+EC	_	15	ccomp	_	_
+15	느낄	느끼+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있을	있+을	VERB	VX+ETM	_	10	conj	_	_
+18	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

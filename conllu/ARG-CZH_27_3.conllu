@@ -1,0 +1,60 @@
+# sent_id = ARG-CZH_27_3_01
+# text = 저는 협력을 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	3	nsubj	_	_
+2	협력을	협력+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_27_3_02
+# text = 프로젝트나 숙제를 하는 동안 그것을 사람들과 경쟁하는 것보다 사람들과 협력하는 것이 더 편리하고 재미있습니다.
+1	프로젝트나	프로젝트+나	NOUN	NNG+JC	_	3	obj	_	_
+2	숙제를	숙제+를	NOUN	NNG+JKO	_	1	conj	_	_
+3	하는	하+는	VERB	VV+ETM	_	13	advcl	_	_
+4	동안	동안	ADV	NNG	_	3	mark	_	_
+5	그것을	그것+을	PRON	NP+JKO	_	7	obj	_	_
+6	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	7	obl	_	_
+7	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것보다	것+보다	ADV	NNB+JKB	_	13	obl	_	_
+9	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	10	obl	_	_
+10	협력하는	협력+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	편리하고	편리+하+고	ADJ	NNG+XSA+EC	_	0	root	_	_
+14	재미있습니다	재미+있+습니다	ADJ	NNG+VA+EF	_	13	conj	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_27_3_03
+# text = 협력하는 동안 당신은 일을 하는 새로운 방법을 배울 수 있습니다.
+1	협력하는	협력+하+는	VERB	NNG+XSV+ETM	_	10	advcl	_	_
+2	동안	동안	ADV	NNG	_	1	mark	_	_
+3	당신은	당신+은	PRON	NP+JX	_	8	nsubj	_	_
+4	일을	일+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+6	새로운	새롭+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	방법을	방법+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_27_3_04
+# text = 그리고 경쟁은 무섭고 스트레스가 될 수 있습니다.
+1	그리고	그리고	ADV	MAJ	_	3	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	3	nsubj	_	_
+3	무섭고	무섭+고	ADJ	VA+EC	_	0	root	_	_
+4	스트레스가	스트레스+가	NOUN	NNG+JKC	_	5	nsubj	_	_
+5	될	되+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있습니다	있+습니다	ADJ	VX+EF	_	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_27_3_05
+# text = 협조하는 게 스트레스를 덜 받는 것 생각합니다.
+1	협조하는	협조+하+는	VERB	NF+XSV+ETM	Typo=Yes	2	acl	_	_
+2	게	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+3	스트레스를	스트레스+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	덜	덜	ADV	MAG	_	5	advmod	_	_
+5	받는	받+는	VERB	VV+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	obl	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

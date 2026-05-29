@@ -1,0 +1,125 @@
+# sent_id = ARG-ENG_23_3_01
+# text = 협동과 경쟁 중 무엇을 선호하는 것은 상태에 따라 다릅니다.
+1	협동과	협동+과	NOUN	NF+JC	_	5	obl	_	_
+2	경쟁	경쟁	NOUN	NNG	_	1	conj	_	_
+3	중	중	ADP	NNB	_	2	case	_	_
+4	무엇을	무엇+을	NOUN	NP+JKO	_	5	obj	_	_
+5	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것은	것+은	NOUN	NNB+JX	_	9	nsubj	_	_
+7	상태에	상태+에	ADV	NNG+JKB	_	8	obl	_	_
+8	따라	따르+아	VERB	VV+EC	_	9	advcl	_	_
+9	다릅니다	다르+ㅂ니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_23_3_02
+# text = 경제와 비지네스에서는 경쟁이 더 좋은 결과가 될 수도 있습니다.
+1	경제와	경제+와	NOUN	NNG+JC	_	9	obl	_	_
+2	비지네스에서는	비지네스+에서+는	ADV	NF+JKB+JX	_	1	conj	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	dislocated	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	VERB	VA+ETM	_	6	amod	_	_
+6	결과가	결과+가	NOUN	NNG+JKC	_	7	nsubj	_	_
+7	될	되+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수도	수+도	NOUN	NNB+JX	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_23_3_03
+# text = 좋은 반법으로 사람들이 원하는 물건을 만들고 팔 수 있고 돈을 중분히 벌 수 있는 회사가 살고 그렇게 못 하는 회사가 없어집니다.
+1	좋은	좋+은	ADJ	VA+ETM	_	2	amod	_	_
+2	반법으로	반법+으로	ADV	NNG+JKB	_	6	obl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	원하는	원하+는	VERB	VV+ETM	_	5	acl	_	_
+5	물건을	물건+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	만들고	만들+고	VERB	VV+EC	_	7	advcl	_	_
+7	팔	팔+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	12	advcl	_	_
+10	돈을	돈+을	NOUN	NNG+JKO	_	12	obj	_	_
+11	중분히	중분히	ADV	NA	_	12	advmod	_	_
+12	벌	벌+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	회사가	회사+가	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	살고	살+고	VERB	VV+EC	_	0	root	_	_
+17	그렇게	그렇+게	ADV	VA+EC	_	19	advmod	_	_
+18	못	못	ADV	MAG	_	19	advmod	_	_
+19	하는	하+는	VERB	VV+ETM	_	20	acl	_	_
+20	회사가	회사+가	NOUN	NNG+JKS	_	21	nsubj	_	_
+21	없어집니다	없+어지+ㅂ니다	ADJ	VA+XSV+EF	_	16	conj	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_23_3_04
+# text = 회사들은 협동하고 물건 값을 더 비싸게 하면 안 됩니다.
+1	회사들은	회사+들+은	NOUN	NNG+XSN+JX	_	2	nsubj	_	_
+2	협동하고	협동+하+고	VERB	NNG+JC	_	6	advcl	_	_
+3	물건	물건	NOUN	NNG	_	4	nmod	_	_
+4	값을	값+을	NOUN	NNG+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	비싸게	비싸+게	ADV	VA+EC	_	9	advcl	_	_
+7	하면	하+면	VERB	VX+EC	_	6	aux	_	_
+8	안	안	ADV	MAG	_	9	advmod	_	_
+9	됩니다	되+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_23_3_05
+# text = 하지만 보통 사회에는 협동이 같이 사는 위해서 제일 중요하는 것입니다.
+1	하지만	하지만	ADV	MAJ	_	10	cc	_	_
+2	보통	보통	ADV	MAG	_	10	advmod	_	_
+3	사회에는	사회+에+는	ADV	NNG+JKB+JX	_	10	obl	_	_
+4	협동이	협동+이	NOUN	NF+JKS	_	10	nsubj	_	_
+5	같이	같이	ADV	MAG	_	6	advmod	_	_
+6	사는	살+는	VERB	VV+ETM	_	10	acl	_	_
+7	위해서	위하+아서	VERB	VV+EC	_	10	advcl	_	_
+8	제일	제일	ADV	MAG	_	9	advmod	_	_
+9	중요하는	중요+하+는	VERB	NNG+XSA+ETM	_	10	acl	_	_
+10	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_23_3_06
+# text = 사람은 서로 도와주면서 삽니다.
+1	사람은	사람+은	NOUN	NNG+JX	_	4	nsubj	_	_
+2	서로	서로	ADV	MAG	_	3	advmod	_	_
+3	도와주면서	도와주+면서	VERB	VV+EC	_	4	advcl	_	_
+4	삽니다	사+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_23_3_07
+# text = 사람은 다른 사람 없이 살 수 있지만 그런 생활은 위러운 생활입니다.
+1	사람은	사람+은	NOUN	NNG+JX	_	5	nsubj	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람	사람	NOUN	NNG	_	4	nsubj	_	_
+4	없이	없이	VERB	MAG	_	5	advcl	_	_
+5	살	살+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있지만	있+지만	VERB	VX+EC	_	11	advcl	_	_
+8	그런	그런	DET	MM	_	9	det	_	_
+9	생활은	생활+은	NOUN	NNG+JX	_	11	root	_	_
+10	위러운	위겁+ㄴ	VERB	NV+ETM	_	11	amod	_	_
+11	생활입니다	생활+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_23_3_08
+# text = 요즘은 쉽게 여행하고 멀리 사는 친구와 가족들을 만날 수 없는 상태입니다.
+1	요즘은	요즘+은	ADV	NNG+JX	_	11	nsubj	_	_
+2	쉽게	쉽+게	ADV	VA+EC	_	3	advmod	_	_
+3	여행하고	여행+하+고	VERB	NNG+XSV+EC	_	9	acl	_	_
+4	멀리	멀리	NOUN	MAG	_	5	advmod	_	_
+5	사는	살+는	VERB	VV+ETM	_	6	acl	_	_
+6	친구와	친구+와	NOUN	NNG+JC	_	8	obj	_	_
+7	가족들을	가족+들+을	NOUN	NNG+XSN+JKO	_	6	conj	_	_
+8	만날	만나+ㄹ	VERB	VV+ETM	_	3	conj	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없는	없+는	VERB	VA+ETM	_	11	acl	_	_
+11	상태입니다	상태+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_23_3_09
+# text = 이런 때 경쟁보다 협동이 중요하지 않습니까?
+1	이런	이런	DET	MM	_	2	det	_	_
+2	때	때	NOUN	NNG	_	5	obl	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+4	협동이	협동+이	NOUN	NF+JKS	_	5	nsubj	_	_
+5	중요하지	중요+하+지	VERB	NNG+XSA+EC	_	0	root	_	_
+6	않습니까	않+습니까	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	?	?	PUNCT	SF	_	5	punct	_	_

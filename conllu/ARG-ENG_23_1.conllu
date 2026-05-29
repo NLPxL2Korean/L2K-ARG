@@ -1,0 +1,117 @@
+# sent_id = ARG-ENG_23_1_01
+# text = 조기 언어교윤은 외국어 배우기 위에 너무 중요한 것 입니다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교윤은	언어+교윤+은	NOUN	NNG+NF+JX	Typo=Yes	7	nsubj	_	_
+3	외국어	외국어	NOUN	NNG	_	4	obj	_	_
+4	배우기	배우+기	VERB	VV+ETN	_	5	obj	_	_
+5	위에	위에	ADP	NV	Typo=Yes	7	advcl	_	_
+6	너무	너무	ADV	MAG	_	7	advmod	_	_
+7	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	8	acl	_	_
+8	것	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	_
+9	입니다	_	X	_	_	8	flat	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_23_1_02
+# text = 아이의 뇌과 어른의 뇌는 다르게 언어를 배우기 때문에 어려슬 때에 교육을 받으면 더 쉽게 언어를 쓸 수 있게 됩니다.
+1	아이의	아이+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	뇌과	뇌+과	NOUN	NNG+JC	_	7	nsubj	_	_
+3	어른의	어른+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	뇌는	뇌+는	NOUN	NNG+JX	_	2	conj	_	_
+5	다르게	다르+게	ADV	VA+EC	_	7	advmod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우기	배우+기	VERB	VV+ETN	_	18	obl	_	_
+8	때문에	때문+에	ADV	NNB+JKB	_	7	case	_	_
+9	어려슬	어리+어슬	ADJ	VA+NA	Typo=Yes	12	advcl	_	_
+10	때에	때+에	ADV	NNG+JKB	_	7	mark	_	_
+11	교육을	교육+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	받으면	받+으면	VERB	VV+EC	_	18	advcl	_	_
+13	더	더	ADV	MAG	_	14	advmod	_	_
+14	쉽게	쉽+게	ADV	VA+EC	_	16	advmod	_	_
+15	언어를	언어+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	쓸	쓰+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있게	있+게	VERB	VX+EC	_	0	root	_	_
+19	됩니다	되+ㅂ니다	VERB	VX+EF	_	18	advcl	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-ENG_23_1_03
+# text = 그렇지만 아이는 빠르게 잊을 수도 있습니다.
+1	그렇지만	그렇+지만	ADV	VA+EC	_	6	cc	_	_
+2	아이는	아이+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	빠르게	빠르+게	ADV	VA+EC	_	4	advmod	_	_
+4	잊을	잊+을	VERB	VV+ETM	_	5	acl	_	_
+5	수도	수+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_23_1_04
+# text = 그래서 조기언어교윤을 하고 나중에 언어교윤하지 않으면 외국어를 중분히 배울 수 없습니다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	조기언어교윤을	조기+언어+교윤+을	NOUN	NNG+NNG+NF+JKO	Typo=Yes	3	obj	_	_
+3	하고	하+고	VERB	VV+EC	_	11	advcl	_	_
+4	나중에	나중+에	ADV	NNG+JKB	_	5	obl	_	_
+5	언어교윤하지	언어+교윤+하+지	VERB	NNG+NF+VV+EC	Typo=Yes	3	conj	_	_
+6	않으면	않	AUX	VX+EC	_	5	aux	_	_
+7	외국어를	외국어+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	중분히	중분히	ADV	NA	Typo=Yes	9	advmod	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	없습니다	없+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_23_1_05
+# text = 조기언어교육의 단점은 아이가 언어 두 게를 헷가릴수도 있는 점입니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	9	nsubj	_	_
+3	아이가	아이+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+4	언어	언어	NOUN	NNG	_	7	obj	_	_
+5	두	두	NUM	MM	_	6	nummod	_	_
+6	게를	게+를	NOUN	NF+JKO	Typo=Yes	4	appos	_	_
+7	헷가릴수도	헷가리+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	Typo=Yes	8	nsubj	_	_
+8	있는	있	AUX	VX+ETM	_	9	acl	_	_
+9	점입니다	점+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_23_1_06
+# text = 학교가 한국어로 가르치는데 학생이 영어도 말할수 있지만 한국어는 조금만 떠러지는 것 같습니다.
+1	학교가	학교+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	한국어로	한국어+로	ADV	NNG+JKB	_	3	obl	_	_
+3	가르치는데	가르치+는데	VERB	VV+EC	_	12	advcl	_	_
+4	학생이	학생+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	영어도	영어+도	NOUN	NNG+JX	_	6	obj	_	_
+6	말할수	말+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	7	nsubj	_	_
+7	있지만	있+지만	VERB	VX+EC	_	12	advcl	_	_
+8	한국어는	한국어+는	NOUN	NNG+JX	_	10	nsubj	_	_
+9	조금만	조금+만	ADV	MAG+JX	_	10	advmod	_	_
+10	떠러지는	떠러지+는	VERB	NV+ETM	Typo=Yes	11	acl	_	_
+11	것	것	NOUN	NNB	_	12	nsubj	_	_
+12	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_23_1_07
+# text = 그런 생각은 선생님도 부모님도 느낄수도 있습니다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	생각은	생각+은	NOUN	NNG+JX	_	5	obj	_	_
+3	선생님도	선생+님+도	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+4	부모님도	부모+님+도	NOUN	NNG+XSN+JX	_	3	conj	_	_
+5	느낄수도	느끼+ㄹ+수+도	NOUN	VV+ETM+NNB+JX	_	6	nsubj	_	_
+6	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_23_1_08
+# text = 하지만 유럽이나 많은 언어를 말하는 데에서 교육에 대한 생각와 언어에 대한 생각도 다르게 보입니다.
+1	하지만	하지만	ADV	MAJ	_	14	cc	_	_
+2	유럽이나	유럽+이나	NOUN	NNG+JC	_	14	obl	_	_
+3	많은	많+은	ADJ	VA+ETM	_	4	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	말하는	말+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	데에서	데+에서	ADV	NNB+JKB	_	2	conj	_	_
+7	교육에	교육+에	ADV	NNG+JKB	_	8	obl	_	_
+8	대한	대하+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	생각와	생각+와	NOUN	NNG+JC	_	14	nsubj	_	_
+10	언어에	언어+에	ADV	NNG+JKB	_	11	obl	_	_
+11	대한	대하+ㄴ	VERB	VV+ETM	_	12	acl	_	_
+12	생각도	생각+도	NOUN	NNG+JX	_	9	conj	_	_
+13	다르게	다르+게	ADV	VA+EC	_	14	advmod	_	_
+14	보입니다	보이+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

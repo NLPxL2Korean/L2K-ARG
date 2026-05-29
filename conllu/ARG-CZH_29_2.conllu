@@ -1,0 +1,75 @@
+# sent_id = ARG-CZH_29_2_01
+# text = 역사 다연하지 배워야 한다.
+1	역사	역사	NOUN	NNG	_	3	obj	_	_
+2	다연하지	다연+하+지	ADV	NF+XSA+EC	Typo=Yes	3	advmod	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+4	한다	하	AUX	VX+EF	_	3	aux	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_29_2_02
+# text = 역사는 나라를 만드는 것이다.
+1	역사는	역사+는	NOUN	NNG+JX	_	4	nsubj	_	_
+2	나라를	나라+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	만드는	만들+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_29_2_03
+# text = 역사 없이 국가 정채선을 잃다.
+1	역사	역사	NOUN	NNG	_	2	nsubj	_	_
+2	없이	없이	ADV	MAG	_	5	advcl	_	_
+3	국가	국가	NOUN	NNG	_	4	nmod	_	_
+4	정채선을	정채선+을	NOUN	NF+JKO	Typo=Yes	5	obj	_	_
+5	잃다	잃+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_29_2_04
+# text = 우리 자신을 잃다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	자신을	자신+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	잃다	잃+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_29_2_05
+# text = 그리고 역사 배우기로 더 중요한 것을 배운다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	배우기로	배우+기+로	VERB	VV+ETN+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요한	중요+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	acl	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	7	obj	_	_
+7	배운다	배우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_29_2_06
+# text = 다시 같은 실수를 하지 않을 것이다.
+1	다시	다시	ADV	MAG	_	4	advmod	_	_
+2	같은	같+은	ADJ	VA+ETM	_	3	amod	_	_
+3	실수를	실수+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	하지	하+지	VERB	VV+EC	_	6	acl	_	_
+5	않을	않	AUX	VX+ETM	_	4	aux	_	_
+6	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_29_2_07
+# text = 역사를 배워야 다를 새대가 우리보다 더 지혜로워져서 중요하다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	7	advcl	_	_
+3	다를	다르+ㄹ	ADJ	VA+ETM	_	4	amod	_	_
+4	새대가	새대+가	NOUN	NF+JKS	Typo=Yes	7	nsubj	_	_
+5	우리보다	우리+보다	ADV	NNG+JKB	_	7	obl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	지혜로워져서	지혜+롭+어지+어서	VERB	NNG+XSA+XSV+EC	_	8	advcl	_	_
+8	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_29_2_08
+# text = 역사를 잊어버리면 반드시 새로운 악당이 나타날 것이다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	잊어버리면	잊어버리+면	VERB	VV+EC	_	7	advcl	_	_
+3	반드시	반드시	ADV	MAG	_	6	advmod	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	악당이	악당+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	나타날	나타나+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_

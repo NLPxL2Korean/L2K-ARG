@@ -1,0 +1,96 @@
+# sent_id = ARG-JPN_18_3_01
+# text =  저는 서로의 능력을 높이고 싶을 때만 경쟁을 더 선호합니다.
+1	저는	저+는	PRON	NP+JX	_	9	nsubj	_	_
+2	서로의	서로+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	능력을	능력+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	높이고	높+이+고	VERB	VA+XSV+EC	_	9	advcl	_	_
+5	싶을	싶+을	AUX	VX+ETM	_	4	aux	_	_
+6	때만	때+만	ADV	NNG+JX	_	4	mark	_	_
+7	경쟁을	경쟁+을	NOUN	NNG+JKO	_	9	obj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_18_3_02
+# text =  예를 들면, 학교의 시험이 있을 때 친구하고 누구가 더 좋은 결과를 되는지 경쟁하면,더 열심히 공부할 거니까 서로 학력이 높아진다는 것이 있었습니다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	22	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	학교의	학교+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	시험이	시험+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있을	있+을	VERB	VV+ETM	_	14	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	친구하고	친구+하고	VERB	NNG+JKB	_	14	obl	_	_
+9	누구가	누구+가	NOUN	NP+JKS	_	13	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	좋은	좋+은	VERB	VA+ETM	_	12	amod	_	_
+12	결과를	결과+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	되는지	되+는지	VERB	VV+EC	_	14	ccomp	_	_
+14	경쟁하면,더	경쟁+하+면+,+더	VERB	NNG+XSV+EC+SP+MAG	_	17	advcl	_	SpaceAfter=No
+15	열심히	열심히	ADV	MAG	_	16	advmod	_	_
+16	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	거니까	것+이+니까	VERB	NNB+VCP+EC	_	20	advcl	_	_
+18	서로	서로	ADV	MAG	_	20	advmod	_	_
+19	학력이	학력+이	NOUN	NNG+JKS	_	20	nsubj	_	_
+20	높아진다는	높+아지+ㄴ다는	VERB	VA+XSV+ETM	_	21	acl	_	_
+21	것이	것+이	NOUN	NNB+JKS	_	22	nsubj	_	_
+22	있었습니다	있+었+습니다	ADJ	VV+EP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_18_3_03
+# text =  근데 저는 경쟁보다 협둥을 더 선호합니다.
+1	근데	근데	ADV	MAJ	_	6	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	협둥을	협둥+을	NOUN	NF+JKO	_	6	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_18_3_04
+# text =  저는 다른 사람과 다투는 것이 너무 싫습니다.
+1	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+2	다른	다른	ADJ	MM+ETM	_	3	amod	_	_
+3	사람과	사람+과	ADV	NNG+JKB	_	4	obl	_	_
+4	다투는	다리+ㄴ+는	VERB	VV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+6	너무	너무	ADV	MAG	_	7	advmod	_	_
+7	싫습니다	싫+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_18_3_05
+# text =  그리고 다른 사람과 비교되는 것도 싫습니다.
+1	그리고	그리고	ADV	MAJ	_	6	cc	_	_
+2	다른	다른	ADJ	MM	_	3	amod	_	_
+3	사람과	사람+과	NOUN	NNG+JKB	_	4	obl	_	_
+4	비교되는	비교+되+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것도	것+도	NOUN	NNB+JX	_	6	nsubj	_	_
+6	싫습니다	싫+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_18_3_06
+# text =  제가 대학에서 복사를 배우고있으니까 개성을 중요하게 생각하는 편입니다.
+1	제가	제+가	PRON	NP+JKS	_	4	nsubj	_	_
+2	대학에서	대학+에서	ADV	NNG+JKB	_	4	obl	_	_
+3	복사를	복사+를	NOUN	NF+JKO	_	4	obj	_	_
+4	배우고있으니까	배우+고+있+으니까	VERB	VV+EC+VX+EC	_	8	advcl	_	_
+5	개성을	개성+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	중요하게	중요+하+게	ADV	XR+XSA+EC	_	7	advmod	_	_
+7	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	편입니다	편+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_18_3_07
+# text =  개인이 잘할 수 있는 것을 활용하면 경쟁하기보다 더 좋은 결과가 된다고생각합니다.
+1	개인이	개인+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	잘할	잘+하+ㄹ	VERB	MAG+VV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있는	있+는	VERB	VX+ETM	_	5	acl	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	활용하면	활용+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+7	경쟁하기보다	경쟁+하+기+보다	ADV	NNG+XSV+ETN+JKB	_	11	obl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	좋은	좋+은	VERB	VA+ETM	_	10	amod	_	_
+10	결과가	결과+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	된다고생각합니다	되+ㄴ다고+생각+하+ㅂ니다	VERB	VV+EC+NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_

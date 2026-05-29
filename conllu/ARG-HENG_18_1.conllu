@@ -1,0 +1,216 @@
+# sent_id = ARG-HENG_18_1_01
+# text = 조기언어교육의 장점과 단점이 있습니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점과	장점+과	NOUN	NNG+JC	_	4	nsubj	_	_
+3	단점이	단점+이	NOUN	NNG+JKS	_	2	conj	_	_
+4	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-HENG_18_1_02
+# text = 사람의 뇌는 어릴 때 더 유연해서 더 많은 정보를 얻고 기억할 수 있습니다.
+1	사람의	사람+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	뇌는	뇌+는	NOUN	NNG+JX	_	6	nsubj	_	_
+3	어릴	어리+ㄹ	VERB	VA+ETM	_	6	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	유연해서	유연+하+아서	VERB	XR+XSA+EC	_	13	advcl	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많은	많+은	ADJ	VA+ETM	_	9	amod	_	_
+9	정보를	정보+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	얻고	얻+고	VERB	VV+EC	_	11	advcl	_	_
+11	기억할	기억+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_18_1_03
+# text = 그래서 더 유연해서 더 많은 정보를 얻고 기억할 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	더	더	ADV	MAG	_	3	advmod	_	_
+3	유연해서	유연+하+아서	VERB	NNG+XSA+EC	_	7	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	ADJ	VA+ETM	_	6	amod	_	_
+6	정보를	정보+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	얻고	얻+고	VERB	VV+EC	_	8	advcl	_	_
+8	기억할	기억+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_18_1_04
+# text = 그래서 어릴때 배운 언어는 더 쉽게 배워지고 더 오래 기억할 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	12	cc	_	_
+2	어릴때	어리+ㄹ+때	ADJ	VA+ETM+NNG	_	3	advcl	_	_
+3	배운	배우+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	언어는	언어+는	NOUN	NNG+JX	_	7	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	쉽게	쉽+게	ADV	VA+EC	_	7	advmod	_	_
+7	배워지고	배우+어지+고	VERB	VV+XSV+EC	_	12	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	오래	오래	ADV	MAG	_	10	advmod	_	_
+10	기억할	기억+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_18_1_05
+# text = 어릴 때 몇개 국어를 배우게 되면 또 새로운 언어를 배우기가 더 쉽습니다.
+1	어릴	어리+ㄹ	VERB	VV+ETM	_	5	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	몇개	몇+개	ADV	MM+NNB	_	4	nmod	_	_
+4	국어를	국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우게	배우+게	VERB	VV+EC	_	12	advcl	_	_
+6	되면	되+면	VERB	VX+EC	_	5	advcl	_	_
+7	또	또	ADV	MAG	_	10	advmod	_	_
+8	새로운	새롭+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우기가	배우+기+가	NOUN	VV+ETN+JKS	_	12	nsubj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	쉽습니다	쉽+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_18_1_06
+# text = 반면에 너무 어릴때 많은 언어를 접하게 되면 아이에게 혼란이 올 수도 있습니다.
+1	반면에	반면+에	ADV	NNG+JKB	_	12	obl	_	_
+2	너무	너무	ADV	MAG	_	3	advmod	_	_
+3	어릴때	어리+ㄹ+때	ADJ	VA+ETM+NNG	_	6	advcl	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	접하게	접하+게	VERB	VV+EC	_	12	advcl	_	_
+7	되면	되+면	VERB	VX+EC	_	6	advcl	_	_
+8	아이에게	아이+에게	NOUN	NNG+JKB	_	10	obl	_	_
+9	혼란이	혼란+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	올	오+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수도	수+도	NOUN	NNB+JX	_	12	nsubj	_	_
+12	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_18_1_07
+# text = 한 언어를 완벽하게 배우지 못한 상태에서 새로운 언어를 배우게 되서 이것도 저것도 못하게 되어 사람들이 흔히 말하는 '0개국어'가 됩니다.
+1	한	한	NUM	MM	_	2	det	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	완벽하게	완벽+하+게	ADV	NNG+XSA+EC	_	4	advmod	_	_
+4	배우지	배우+지	VERB	VV+EC	_	6	acl	_	_
+5	못한	못하+ㄴ	AUX	VX+ETM	_	4	aux	_	_
+6	상태에서	상태+에서	ADV	NNG+JKB	_	9	obl	_	_
+7	새로운	새롭+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배우게	배우+게	VERB	VV+EC	_	13	advcl	_	_
+10	되서	되+서	VERB	VX+EC	_	9	advcl	_	_
+11	이것도	이것+도	PRON	NP+JX	_	13	obj	_	_
+12	저것도	저것+도	NOUN	NP+JX	_	13	obj	_	_
+13	못하게	못하+게	VERB	VV+EC	_	19	advcl	_	_
+14	되어	되+어	VERB	VX+EC	_	13	advcl	_	_
+15	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+16	흔히	흔히	ADV	MAG	_	17	advmod	_	_
+17	말하는	말+하+는	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	'0개국어'가	'+0+개+국어+'+가	NOUN	SS+SN+NNB+NNG+SS+JKS	_	19	nsubj	_	_
+19	됩니다	되+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_18_1_08
+# text = 아이에게 혼란이 와서 다른 공부에도 영향을 미치게 될 수 있습니다.
+1	아이에게	아이+에게	NOUN	NNG+JKB	_	3	obl	_	_
+2	혼란이	혼란+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	와서	오+아서	VERB	VV+EC	_	10	advcl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	공부에도	공부+에+도	ADV	NNG+JKB+JX	_	7	obl	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	미치게	미치+게	VERB	VV+EC	_	9	acl	_	_
+8	될	되+ㄹ	VERB	VV+ETM	_	7	advcl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_18_1_09
+# text = 학교에서 다른 아이들 보다 뒤쳐지게 되어 자신감이 부족해 교우 관계에 어려움을 느끼게 될 수도 있습니다.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	다른	다른	ADJ	VA+ETM	_	3	amod	_	_
+3	아이들	아이+들	NOUN	NNG+XSN	_	5	obl	_	_
+4	보다	보다	ADV	JKB	_	3	case	_	_
+5	뒤쳐지게	뒤쳐지+게	VERB	VV+EC	_	8	advcl	_	_
+6	되어	되+어	VERB	VX+EC	_	5	advcl	_	_
+7	자신감이	자신감+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	부족해	부족+하+아	VERB	NNG+XSA+EC	_	15	advcl	_	_
+9	교우	교우	NOUN	NNG	_	10	nmod	_	_
+10	관계에	관계+에	ADV	NNG+JKB	_	12	obl	_	_
+11	어려움을	어렵+ㅁ+을	NOUN	VA+ETN+JKO	_	12	obj	_	_
+12	느끼게	느끼+게	ADV	VV+EC	_	14	acl	_	_
+13	될	되+ㄹ	VERB	VX+ETM	_	12	aux	_	_
+14	수도	수+도	NOUN	NNB+JX	_	15	nsubj	_	_
+15	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_18_1_10
+# text = 조기 언어교육에는 장단점이 있지만 제일 중요한 것은 배우는 아이가 즐거워 해야 하는 것입니다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육에는	언어+교육+에+는	ADV	NNG+NNG+JKB+JX	_	4	obl	_	_
+3	장단점이	장단점+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있지만	있+지만	VERB	VV+EC	_	13	advcl	_	_
+5	제일	제일	ADV	MAG	_	6	advmod	_	_
+6	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	7	amod	_	_
+7	것은	것+은	NOUN	NNB+JX	_	13	nsubj	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	아이가	아이+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	즐거워	즐겁+어	ADV	VA+EC	_	13	acl	_	_
+11	해야	_	X	_	_	10	goeswith	_	_
+12	하는	하+는	AUX	VX+ETM	_	10	aux	_	_
+13	것입니다	것+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-HENG_18_1_11
+# text = 억지로 시켜서 배운 언어는 더 빨리 그리고 쉽게 까먹게 될 수 있으니까요.
+1	억지로	억지로	ADV	MAG	_	3	advmod	_	_
+2	시켜서	시키+어서	VERB	VV+EC	_	3	advcl	_	_
+3	배운	배우+ㄴ	VERB	VV+ETM	_	4	acl	_	_
+4	언어는	언어+는	NOUN	NNG+JX	_	9	obj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	빨리	빨리	ADV	MAG	_	9	advmod	_	_
+7	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+8	쉽게	쉽+게	ADV	VA+EC	_	6	conj	_	_
+9	까먹게	까먹+게	ADV	VV+EC	_	11	advcl	_	_
+10	될	되+ㄹ	VERB	VV+ETM	_	9	advvl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있으니까요	있+으니까요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_18_1_12
+# text = 언어를 배우거에 부정적인 생각을 가지게 되면 학교에서 또 다른 언어를 배울 때 어려움을 겪게 될 수 있습니다.
+1	언어를	언어+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우거에	배우+거+에	ADV	VV+NA+JKB	_	5	obl	_	_
+3	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	생각을	생각+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	가지게	가지+게	VERB	VV+EC	_	17	advcl	_	_
+6	되면	되+면	VERB	VX+EC	_	5	advcl	_	_
+7	학교에서	학교+에서	ADV	NNG+JKB	_	11	obl	_	_
+8	또	또	ADV	MAG	_	9	advmod	_	_
+9	다른	다른	ADJ	MM	_	10	amod	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	14	advcl	_	_
+12	때	때	ADV	NNG	_	11	mark	_	_
+13	어려움을	어렵+ㅁ+을	NOUN	VA+ETN+JKO	_	14	obj	_	_
+14	겪게	겪+게	VERB	VV+EC	_	16	acl	_	_
+15	될	되+ㄹ	VERB	VV+ETM	_	14	advcl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_18_1_13
+# text = 다문화 가정에서는 그 언어를 통해 느끼는 행복과 따뜻함이 장점을 더 만드는데 도움을 줄 수 있다 생각합니다.
+1	다문화	다문화	NOUN	NNG	_	2	nmod	_	_
+2	가정에서는	가정+에서+는	ADV	NNG+JKB+JX	_	15	obl	_	_
+3	그	그	DET	MM	_	4	det	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	통해	통하+아	VERB	VV+EC	_	6	advcl	_	_
+6	느끼는	느끼+는	VERB	VV+ETM	_	8	acl	_	_
+7	행복과	행복+과	NOUN	NNG+JC	_	11	nsubj	_	_
+8	따뜻함이	따뜻+하+ㅁ+이	NOUN	XR+XSA+ETN+JKS	_	7	conj	_	_
+9	장점을	장점+을	NOUN	NNG+JKO	_	11	obj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	만드는데	만들+는+데	VERB	VV+ETM+NNB	_	13	obl	_	_
+12	도움을	도움+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	줄	주+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	VERB	VX+EC	_	16	ccomp	_	_
+16	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_

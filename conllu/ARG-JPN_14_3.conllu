@@ -1,0 +1,116 @@
+# sent_id = ARG-JPN_14_3_01
+# text =  저는 협동과 경쟁 중에서는 협동을 선호한다.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+3	경쟁	경쟁	NOUN	NNG	_	2	conj	_	_
+4	중에서는	중+에서+는	ADP	NNB+JKB+JX	_	3	case	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_14_3_02
+# text =  왜냐하면 경쟁이라는 것은 적을 만드는 것이랑 똑같아서 지속가능성이 너무 낮으니까.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	10	cc	_	_
+2	경쟁이라는	경쟁+이+라는	VERB	NNG+VCP+ETM	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	7	nsubj	_	_
+4	적을	적+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	만드는	만들+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이랑	것+이랑	ADV	NNB+JKB	_	7	obl	_	_
+7	똑같아서	똑같+아서	VERB	VA+EC	_	10	advcl	_	_
+8	지속가능성이	지속+가능+성+이	NOUN	NNG+NNG+XSN+JKS	_	10	nsubj	_	_
+9	너무	너무	ADV	MAG	_	10	advmod	_	_
+10	낮으니까	낮+으니까	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_14_3_03
+# text =  아이돌 팬덤 중에서도 지기 펜도 아닌 아이돌의 매출을 꺼내서 러이벌에 대한 부정적인 이미지를 만들기 위해 매출이 떨어졌다고 SNS에 올리는 경우도 있다.
+1	아이돌	아이돌	NOUN	NNG	_	2	nmod	_	_
+2	팬덤	팬+덤	NOUN	NNG	_	21	obl	_	_
+3	중에서도	중+에서+도	ADP	NNB+JKB+JX	_	2	case	_	_
+4	지기	지기	NOUN	NF	_	5	nmod	_	_
+5	펜도	펜+도	NOUN	NF+JX	_	6	nsubj	_	_
+6	아닌	아니+ㄴ	VERB	VCN+ETM	_	8	acl	_	_
+7	아이돌의	아이돌+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	매출을	매출+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	꺼내서	꺼내+어서	VERB	VV+EC	_	17	advcl	_	_
+10	러이벌에	러이벌+에	ADV	NF+JKB	_	11	obl	_	_
+11	대한	대하+ㄴ	VERB	VV+ETM	_	13	acl	_	_
+12	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	13	amod	_	_
+13	이미지를	이미지+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	만들기	만들+기	NOUN	VV+ETN	_	15	obj	_	_
+15	위해	위하+아	VERB	VV+EC	_	19	advcl	_	_
+16	매출이	매출+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	떨어졌다고	떨어지+었+다고	VERB	VV+EP+EC	_	19	ccomp	_	_
+18	SNS에	SNS+에	ADV	NP+JKB	_	19	obl	_	_
+19	올리는	올리+는	VERB	VV+ETM	_	20	acl	_	_
+20	경우도	경우+도	NOUN	NNG+JX	_	21	nsubj	_	_
+21	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-JPN_14_3_04
+# text =  근데 그렇게 해서 아이돌 펜을 하는 것이 즐거울까?
+1	근데	근데	ADV	MAJ	_	8	cc	_	_
+2	그렇게	그렇+게	ADV	VA+EC	_	3	advmod	_	_
+3	해서	하+아서	VERB	VV+EC	_	6	advcl	_	_
+4	아이돌	아이돌	NOUN	NNG	_	5	nmod	_	_
+5	펜을	펜+을	NOUN	NF+JKO	_	6	obj	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	즐거울까	즐겁+ㄹ까	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_14_3_05
+# text =  최근에 이런 유튜브 쇼츠가 이슈가 됐었다.
+1	최근에	최근+에	ADV	NNG+JKB	_	6	obl	_	_
+2	이런	이런	DET	MM	_	3	det	_	_
+3	유튜브	유튜브	NOUN	NNG	_	4	nmod	_	_
+4	쇼츠가	쇼츠+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+5	이슈가	이슈+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	됐었다	되+었었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_14_3_06
+# text =  지금 활동하는 아이돌 중에 가장 인기가 있다고 할 수 있는 어떤 아이돌분이 라이벌그릅의 재계약 발표를 듣고 기쁨의 눈물을 흘리고있는 모습을 찍힌 영상이다.
+1	지금	지금	ADV	MAG	_	2	advmod	_	_
+2	활동하는	활동+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	아이돌	아이돌	NOUN	NNG	_	7	obl	_	_
+4	중에	중+에	ADP	NNB+JKB	_	3	case	_	_
+5	가장	가장	ADV	MAG	_	7	advmod	_	_
+6	인기가	인기+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VV+EC	_	8	ccomp	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	12	acl	_	_
+11	어떤	어떤	DET	MM	_	12	det	_	_
+12	아이돌분이	아이돌+분+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+13	라이벌그릅의	라이벌+그릅+의	NOUN	NNG+NF+JKG	_	15	nmod:poss	_	_
+14	재계약	재+계약	NOUN	NNG	_	15	nmod	_	_
+15	발표를	발표+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	듣고	듣+고	VERB	VV+EC	_	19	advcl	_	_
+17	기쁨의	기쁨+의	NOUN	NNG+JKG	_	18	nmod:poss	_	_
+18	눈물을	눈물+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	흘리고있는	흘리+고+있+는	VERB	VV+EC+VX+ETM	_	20	acl	_	_
+20	모습을	모습+을	NOUN	NNG+JKO	_	21	obj	_	_
+21	찍힌	찍+히+ㄴ	VERB	VV+XSV+ETM	_	22	acl	_	_
+22	영상이다	영상+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_14_3_07
+# text =  아무리 라이벌이라고해도 같은시대를 껶어온 친구이고 전우라서 그렇다고 하는 댓글, 또는 라이벌인데 눈물이 날 정도로 기쁨이 있
+1	아무리	아무리	ADV	MAG	_	2	advmod	_	_
+2	라이벌이라고해도	라이벌+이+라고+하+아도	VERB	NNG+VCP+EC+VX+EC	_	5	advcl	_	_
+3	같은시대를	같+은+시대+를	NOUN	VA+ETM+NNG+JKO	_	4	obj	_	_
+4	껶어온	껶+어+오+ㄴ	VERB	NV+EC+VX+ETM	_	5	acl	_	_
+5	친구이고	친구+이고	VERB	NNG+VCP+EC	_	7	advcl	_	_
+6	전우라서	전우+이+라서	VERB	NNG+VCP+EC	_	5	conj	_	_
+7	그렇다고	그렇+다고	VERB	VA+EC	_	8	ccomp	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	댓글	댓글	NOUN	NNG	_	17	list	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	또는	또는	ADV	MAG	_	12	cc	_	_
+12	라이벌인데	라이벌+이+ㄴ데	VERB	NNG+VCP+EC	_	14	advcl	_	_
+13	눈물이	눈물+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	날	나+ㄹ	NOUN	VV+ETM	_	15	acl	_	_
+15	정도로	정도+로	ADV	NNG+JKB	_	17	obl	_	_
+16	기쁨이	기쁨+이	NOUN	VA+ETN	_	17	nsubj	_	_
+17	있	있+는	VERB	VV+EF	_	0	root	_	_

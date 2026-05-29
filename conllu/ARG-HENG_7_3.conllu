@@ -1,0 +1,138 @@
+# sent_id = ARG-HENG_07_3_01
+# text = 경쟁보다 협동이 더 중요하다고 생각한다.
+1	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	4	obl	_	_
+2	협동이	협동+이	NOUN	NF+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	VERB	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_07_3_02
+# text = 우리의 세상에는 경쟁이 충분히 많다고 생각한다.
+1	우리의	우리+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	세상에는	세상+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	충분히	충분히	ADV	MAG	_	5	advmod	_	_
+5	많다고	많+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_07_3_03
+# text = 학교에서, 직업에서, 그리고 사람들과 관계에도 경쟁이 많다.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	3	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	직업에서	직업+에서	ADV	NNG+JKB	_	9	obl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	그리고	그리고	ADV	MAJ	_	9	cc	_	_
+6	사람들과	사람+들+과	NOUN	NNG+XSN+JKB	_	9	obl	_	_
+7	관계에도	관계+에+도	ADV	NNG+JKB+JX	_	9	obl	_	_
+8	경쟁이	경쟁+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_07_3_04
+# text = 경쟁은 우리한테 욕심과 잘하고 싶은 마음주니까 좋은 점도 있는데, 우리는 너무많은 욕심들면서 죽을만큼 노력 하면서 지루한 삶을 산다.
+1	경쟁은	경쟁+은	NOUN	NNG+JX	_	9	dislocated	_	_
+2	우리한테	우리+한테	ADV	NNG+JKB	_	6	obl	_	_
+3	욕심과	욕심+과	ADV	NNG+JC	_	6	obj	_	_
+4	잘하고	잘하+고	VERB	VV+EC	_	6	acl	_	_
+5	싶은	싶+은	VERB	VX+ETM	_	4	aux	_	_
+6	마음주니까	마음+주+니까	NOUN	NNG+VV+EC	_	9	advcl	_	_
+7	좋은	좋+은	VERB	VA+ETM	_	8	amod	_	_
+8	점도	점+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있는데	있+는데	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	우리는	우리+는	PRON	NP+JX	_	19	nsubj	_	_
+12	너무많은	너무+많+은	NOUN	MAG+VA+ETM	_	13	amod	_	_
+13	욕심들면서	욕심+들+면서	VERB	NNG+VV+EC	_	16	advcl	_	_
+14	죽을만큼	죽+을+만큼	ADV	VV+ETM+NNB	_	16	advcl	_	_
+15	노력	노력	NOUN	NNG	_	16	obj	_	_
+16	하면서	하+면서	VERB	VV+EC	_	19	advcl	_	_
+17	지루한	지루+하+ㄴ	ADJ	NNG+XSA+ETM	_	18	amod	_	_
+18	삶을	삶+을	NOUN	NNG+JKO	_	19	obj	_	_
+19	산다	살+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_07_3_05
+# text = 그런데 협동은 다른 사람들과 관계를 만들면서 사이좋게 진해고 전세계에 있는 문제도 같이 푸를수있게 만든다.
+1	그런데	그런데	ADV	MAJ	_	14	cc	_	_
+2	협동은	협동+은	NOUN	NNP+JX	_	14	nsubj	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	6	obl	_	_
+5	관계를	관계+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	만들면서	만들+면서	VERB	VV+EC	_	8	advcl	_	_
+7	사이좋게	사이+좋+게	ADV	NNG+VA+EC	_	8	advmod	_	_
+8	진해고	진해+고	VERB	NV+EC	_	14	advcl	_	_
+9	전세계에	전+세계+에	ADV	MM+NNG+JKB	_	10	obl	_	_
+10	있는	있+는	VERB	VV+ETM	_	11	acl	_	_
+11	문제도	문제+도	NOUN	NNG+JX	_	13	obj	_	_
+12	같이	같이	ADV	MAG	_	13	advmod	_	_
+13	푸를수있게	푸르+ㄹ+수+있+게	VERB	NV+ETM+NNB+VX+EC	_	14	advcl	_	_
+14	만든다	만들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-HENG_07_3_06
+# text = 인생에는 선공하는게 제일 중요하지 않다고 생각한다.
+1	인생에는	인생+에+는	ADV	NNP+JKB+JX	_	4	obl	_	_
+2	선공하는게	선공+하+는+것+이	VERB	NF+XSV+ETM+NNB+JKS	_	4	nsubj	_	_
+3	제일	제일	ADV	MAG	_	4	advmod	_	_
+4	중요하지	중요+하+지	VERB	NNG+XSA+EC	_	6	ccomp	_	_
+5	않다고	않+다고	AUX	VX+EC	_	4	aux	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_07_3_07
+# text = 우리의 인생에는 다른 사람과 행복한 시간 보내고 우리 자신을 행복하는게 제일 중요하다.
+1	우리의	우리+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	인생에는	인생+에+는	ADV	NNG+JKB+JX	_	12	obl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람과	사람+과	NOUN	NNG+JKB	_	7	obl	_	_
+5	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	시간	시간	NOUN	NNG	_	7	obj	_	_
+7	보내고	보내+고	VERB	VV+EC	_	10	advcl	_	_
+8	우리	우리	PRON	NP	_	9	nmod	_	_
+9	자신을	자신+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	행복하는게	행복+하+는+것+이	NOUN	NNG+XSA+ETN+NNB+JKS	_	12	nsubj	_	_
+11	제일	제일	ADV	MAG	_	12	advmod	_	_
+12	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_07_3_08
+# text = 우리 자신을 행복하게 만드는게 선공 필료하지 않다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	자신을	자신+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	행복하게	행복+하+게	ADV	NNG+XSA+EC	_	4	advmod	_	_
+4	만드는게	만들+는+것+이	VERB	VV+ETM+NNB+jKS	_	7	obl	_	_
+5	선공	선공	NOUN	NF	_	6	nsubj	_	_
+6	필료하지	필료+하+지	VERB	NF+XSA+EC	_	0	root	_	_
+7	않다	않+다	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-HENG_07_3_09
+# text = 우리는 경쟁 만있었으면 우리 세상은 전쟁과 다른 터지는 문제가 생길 것이다.
+1	우리는	우리+는	PRON	NP+JX	_	3	dislocated	_	_
+2	경쟁	경쟁	NOUN	NNG	_	3	nsubj	_	_
+3	만있었으면	만+있+었+으면	VERB	JX+VV+EP+EC	_	11	advcl	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	세상은	세상+은	NOUN	NNG+JX	_	11	nsubj	_	_
+6	전쟁과	전쟁+과	NOUN	NNG+JKB	_	7	obl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	9	acl	_	_
+8	터지는	터지+는	VERB	VV+ETM	_	9	acl	_	_
+9	문제가	문제+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	생길	생기+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_07_3_10
+# text = 경쟁없이 협동만 있으면 인간들은 사이좋게 지내며 전쟁없이 평변하게 살수있게 된다.
+1	경쟁없이	경쟁+없이	NOUN	NNG+MAG	_	3	advcl	_	_
+2	협동만	협동+만	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있으면	있+으면	VERB	VV+EC	_	9	advcl	_	_
+4	인간들은	인간+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+5	사이좋게	사이+좋+게	ADV	NNG+VA+EC	_	6	advmod	_	_
+6	지내며	지내+며	VERB	VV+EC	_	9	advcl	_	_
+7	전쟁없이	전쟁+없이	ADV	NNG+MAG	_	8	advcl	_	_
+8	평변하게	평변+하+게	VERB	NF+XSA+EC	_	9	advmod	_	_
+9	살수있게	살+ㄹ+수+있+게	VERB	VV+ETM+NNB+VX+EC	_	0	root	_	_
+10	된다	되+ㄴ다	VERB	VX+EF	_	9	advcl	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_

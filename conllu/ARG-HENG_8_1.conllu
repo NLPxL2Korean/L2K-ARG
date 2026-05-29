@@ -1,0 +1,330 @@
+# sent_id = ARG-HENG_08_1_01
+# text = 조기언어교육은 나쁜점보다 좋은 점 더 있다고 생각합니다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	6	dislocated	_	_
+2	나쁜점보다	나쁘+ㄴ+점+보다	ADV	VA+ETM+NNB+JKB	_	6	obl	_	_
+3	좋은	좋+은	VERB	VA+ETM	_	4	amod	_	_
+4	점	점	NOUN	NNB	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	있다고	있+다고	VERB	VV+EC	_	7	ccomp	_	_
+7	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_1_01
+# text = 어린 나의 부터 언어를 배우는데 장단점이 많습니다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나의	나의	PRON	NF	_	5	obl	_	_
+3	부터	부터	ADV	JX	_	2	case	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우는데	배우+는+데	VERB	VV+ETM+NNB	_	7	obl	_	_
+6	장단점이	장단점+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	많습니다	많+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_1_02
+# text = 언어 공부를 더 일찍 잘수록 외워지는게 더 쉽고, 알아듣는것도 쉬워집니다.
+1	언어	언어	NOUN	NNG	_	2	nmod	_	_
+2	공부를	공부+를	NOUN	NNG+JKO	_	5	obj	_	_
+3	더	더	ADV	MAG	_	5	advmod	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	잘수록	잘+ㄹ수록	VERB	NV+EC	_	11	advcl	_	_
+6	외워지는게	외우+어지+는+것+이	VERB	VV+XSV+ETM+NNB+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	쉽고	쉽+고	VERB	VA+EC	_	11	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	알아듣는것도	알+아+듣+는+것+도	NOUN	VV+EC+VV+ETM+NNB+JX	_	11	nsubj	_	_
+11	쉬워집니다	쉽+어지+ㅂ니다	ADJ	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_1_02
+# text = 제 생각에는 장점이 더 많은 것 같아요.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	VERB	VA+ETM	_	7	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_1_03
+# text = 어떤 사람들은 조기언어교육이 어린 학생들한테 무리라고 생각 할수도 있지만, 사실은 조기언어 교육이 어렸을 때 하는게 제일 효과적이고, 좋다고 여구에 나왔어요.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	8	nsubj	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	6	nsubj	_	_
+4	어린	어리+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	학생들한테	학생+들+한테	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	무리라고	무리+이+라고	VERB	NNG+VCP+EC	_	8	ccomp	_	_
+7	생각	생각	NOUN	NNG	_	8	obj	_	_
+8	할수도	하+ㄹ+수+도	VERB	VV+ETM+NNB+JX	_	9	nsubj	_	_
+9	있지만	있+지만	VERB	VX+EC	_	22	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	사실은	사실+은	NOUN	NNG+JX	_	22	obl	_	_
+12	조기언어	조기+언어	NOUN	NNG+NNG	_	13	nmod	_	_
+13	교육이	교육+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+14	어렸을	어리+었+을	VERB	VA+EP+ETM	_	156	advcl	_	_
+15	때	때	ADV	NNG	_	14	mark	_	_
+16	하는게	하+는+것+이	VERB	VV+ETM+NNB+JKS	_	18	nsubj	_	_
+17	제일	제일	ADV	MAG	_	18	advmod	_	_
+18	효과적이고	효과+적+이+고	VERB	NNG+XSN+VCP+EC	_	22	csubj	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	22	punct	_	_
+20	좋다고	좋+다고	VERB	VA+EC	_	18	conj	_	_
+21	여구에	여구+에	ADV	NF+JKB	_	22	obl	_	_
+22	나왔어요	나오+았+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-HENG_08_1_03
+# text = 어린이들은 어른보다 언어를 더 빨리 배울수있다고 합니다.
+1	어린이들은	어린이+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+2	어른보다	어른+보다	ADV	NNG+JKB	_	6	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	더	더	ADV	MAG	_	6	advmod	_	_
+5	빨리	빨리	ADV	MAG	_	6	advmod	_	_
+6	배울수있다고	배우+ㄹ+수+있+다고	VERB	VV+ETM+NNB+VX+EF	_	7	ccomp	_	_
+7	합니다	하+ㅂ니다	AUX	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_1_04
+# text = 그레도, 한 단점은, 집에서 한 언어만 쓰면, 예를 들어, 미국에 사는데, 집에서는 한국말만 쓴다, 애 한테 조금 어려울수도 있죠.
+1	그레도	그레도	NOUN	NA	_	25	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	단점은	단점+은	NOUN	NNG+JX	_	25	obl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	1	punct	_	_
+6	집에서	집+에서	ADV	NNG+JKB	_	9	obl	_	_
+7	한	한	NUM	MM	_	8	nummod	_	_
+8	언어만	언어+만	NOUN	NNG+JX	_	9	obj	_	_
+9	쓰면	쓰+면	VERB	VV+EC	_	25	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	예를	예+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	들어	들+어	VERB	VV+EC	_	25	advcl	_	SpaceAfter=No
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	미국에	미국+에	ADV	NNP+JKB	_	15	obl	_	_
+15	사는데	살+는데	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	SP	_	15	punct	_	_
+17	집에서는	집+에서+는	ADV	NNG+JKB+JX	_	19	obl	_	_
+18	한국말만	한국+말+만	NOUN	NNP+NNG+JX	_	19	obj	_	_
+19	쓴다	쓰+ㄴ다	VERB	VV+EF	_	25	advcl	_	SpaceAfter=No
+20	,	,	PUNCT	SP	_	19	punct	_	_
+21	애	애	NOUN	NNG	_	24	obl	_	_
+22	한테	한테	ADV	JKB	_	21	case	_	_
+23	조금	조금	ADV	MAG	_	24	advmod	_	_
+24	어려울수도	어렵+ㄹ+수+도	NOUN	VA+ETM+NNB+JX	_	25	nsubj	_	_
+25	있죠	있+죠	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-HENG_08_1_04
+# text = 그리고 바름도 더 잘 따라할수있게 됩니다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	바름도	바름+도	NOUN	NF+JX	_	5	obj	_	_
+3	더	더	ADV	MAG	_	5	advmod	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	따라할수있게	따라하+ㄹ+수+있+게	VERB	VV+ETM+NNB+VX+EC	_	0	root	_	_
+6	됩니다	되+ㅂ니다	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_08_1_05
+# text = 왜냐하면, 대부분은 집에 한구어를 쓰지만, 밖에 나가면 영어밖에 안 쓰니깐, 햇갈릴수도 있죠.
+1	왜냐하면	왜냐하면	ADV	MAG	_	15	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	대부분은	대부분+은	NOUN	NNG+JX	_	6	obl	_	_
+4	집에	집+에	ADV	NNG+JKB	_	6	obl	_	_
+5	한구어를	한구어+를	NOUN	NF+JKO	_	6	obj	_	_
+6	쓰지만	쓰+지만	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	밖에	밖+에	ADV	JX+JKB	_	9	obl	_	_
+9	나가면	나가+면	VERB	VV+EC	_	12	advcl	_	_
+10	영어밖에	영어+밖에	ADV	NNG+JX	_	12	obj	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	쓰니깐	쓰+니까+ㄴ	VERB	VV+EC+JX	_	15	advcl	_	_
+13	,	,	PUNCT	SP	_	15	punct	_	_
+14	햇갈릴수도	햇갈리+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	_	15	nsubj	_	_
+15	있죠	있+죠	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-HENG_08_1_05
+# text = 또 조기언어교육을 하면 자연스럽게 그나라에 관해서 배우고 존경하게 돼는 것 같습니다.
+1	또	또	ADV	MAJ	_	11	cc	_	_
+2	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	7	advcl	_	_
+4	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	7	advmod	_	_
+5	그나라에	그+나라+에	ADV	MM+NNG+JKB	_	6	obl	_	_
+6	관해서	관하+아서	VERB	VV+EC	_	7	advcl	_	_
+7	배우고	배우+고	VERB	VV+EC	_	8	advcl	_	_
+8	존경하게	존경+하+게	VERB	NNG+XSV+EC	_	10	acl	_	_
+9	돼는	돼+는	VERB	NV+ETM	_	8	advcl	_	_
+10	것	것	NOUN	NNB	_	11	nsubj	_	_
+11	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_1_06
+# text = 게다가, 다른 학생들 한테도, 영어를 친구들 비해서 조금 모잘라서, 놀림을 받을 수도 있죠.
+1	게다가	게다가	ADV	MAG	_	16	advmod	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	학생들	학생+들	NOUN	NNG+XSN	_	14	obl	_	_
+5	한테도	한테+도	NOUN	JKB+JX	_	4	case	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	영어를	영어+를	NOUN	NNP+JKO	_	11	obj	_	_
+8	친구들	친구+들	NOUN	NNG+XSN	_	9	obl	_	_
+9	비해서	비하+아서	VERB	VV+EC	_	11	advcl	_	_
+10	조금	조금	ADV	MAG	_	11	advmod	_	_
+11	모잘라서	모자라+아서	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	놀림을	놀림+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	받을	받+을	VERB	VV+ETM	_	15	acl	_	_
+15	수도	수+도	NOUN	NNB+JX	_	16	nsubj	_	_
+16	있죠	있+죠	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_08_1_06
+# text = 그나라의 문화, 오래됀 전통들을 깨닫게 됩니다.
+1	그나라의	그+나라+의	NOUN	MM+NNG+JKG	_	2	nmod:poss	_	_
+2	문화	문화	NOUN	NNG	_	5	list	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	오래됀	오래+돼+ㄴ	NOUN	MAG+XSA+ETM	_	5	amod	_	_
+5	전통들을	전통+들+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+6	깨닫게	깨닫+게	ADV	VV+EC	_	0	root	_	_
+7	됩니다	되+ㅂ니다	VERB	VX+EF	_	6	advcl	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_08_1_07
+# text = 그래도 저는 외국어를 아는게 종요하다고 생각해서, 조기언어 교육이 좋다고 생각합니다.
+1	그래도	그래도	ADV	MAJ	_	11	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	11	nsubj	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	아는게	알+는+것+이	ADV	VV+ETM+NNB+JKS	_	5	nsubj	_	_
+5	종요하다고	종요+하+다고	VERB	NF+XSA+EC	_	6	ccomp	_	_
+6	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	11	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	조기언어	조기+언어	NOUN	NNG+NNG	_	9	nmod	_	_
+9	교육이	교육+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	좋다고	좋+다고	VERB	VA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-HENG_08_1_07
+# text = 그러면서 생각들이 더 넓어지고 또 부모님들을 더 이해할 수 있게 됩니다.
+1	그러면서	그러+면서	ADV	VV+EC	_	10	advcl	_	_
+2	생각들이	생각+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	넓어지고	넓+어지+고	VERB	VA+XSV+EC	_	10	advcl	_	_
+5	또	또	ADV	MAG	_	10	advmod	_	_
+6	부모님들을	부모+님+들+을	NOUN	NNG+XSN+XSN+JKO	_	8	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있게	있+게	VERB	VX+EC	_	0	root	_	_
+11	됩니다	되+ㅂ니다	VERB	VX+EF	_	10	advcl	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-HENG_08_1_08
+# text = 단점은 아이가 살고있는 나라에 저금을 덜 하게 될수 있습니다.
+1	단점은	단점+은	NOUN	NNG+JX	_	9	obl	_	_
+2	아이가	아이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	살고있는	살+고+있+는	VERB	VV+EC+VX+ETM	_	4	acl	_	_
+4	나라에	나라+에	ADV	NNG+JKB	_	7	obl	_	_
+5	저금을	저금+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	덜	덜	VERB	MAG	_	7	advmod	_	_
+7	하게	하+게	VERB	VV+EC	_	8	acl	_	_
+8	될수	되+ㄹ+수	VERB	VX+ETM+NNB	_	9	nsubj	_	_
+9	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-HENG_08_1_09
+# text = 미국 문화는 한국 문화 비해 아주 많이 다릅니다.
+1	미국	미국	NOUN	NNP	_	2	nmod	_	_
+2	문화는	문화+는	NOUN	NNG+JX	_	8	nsubj	_	_
+3	한국	한국	NOUN	NNP	_	4	nmod	_	_
+4	문화	문화	NOUN	NNG	_	5	obl	_	_
+5	비해	비하+아	VERB	VV+EC	_	8	advcl	_	_
+6	아주	아주	ADV	MAG	_	8	advmod	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	다릅니다	다르+ㅂ니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-HENG_08_1_10
+# text = 그래서 어린 나의 부터 한국 언어, 문화와 율법에 너무 집중하다 보면 아이가 햇갈리거나 커서 미국 문화와 사회 생활에 저금하는데 조금 떠러질 수 있습니다.
+1	그래서	그래서	ADV	MAJ	_	24	cc	_	_
+2	어린	어리+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	나의	나의	PRON	NF	_	11	obl	_	_
+4	부터	부터	ADV	JX	_	3	case	_	_
+5	한국	한국	NOUN	NNP	_	6	nmod	_	_
+6	언어	언어	NOUN	NNG	_	8	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	8	punct	_	_
+8	문화와	문화+와	NOUN	NNG+JC	_	11	obl	_	_
+9	율법에	율법+에	ADV	NNG+JKB	_	8	conj	_	_
+10	너무	너무	ADV	MAG	_	11	advmod	_	_
+11	집중하다	집중+하+다	VERB	NNG+XSV+EC	_	14	advcl	_	_
+12	보면	보+면	VERB	VX+EC	_	11	aux	_	_
+13	아이가	아이+가	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	햇갈리거나	햇갈리+거나	VERB	NV+EC	_	24	advcl	_	_
+15	커서	크+어서	VERB	VA+EC	_	20	advcl	_	_
+16	미국	미국	NOUN	NNP	_	17	nmod	_	_
+17	문화와	문화+와	NOUN	NNG+JC	_	20	obl	_	_
+18	사회	사회	NOUN	NNG	_	19	nmod	_	_
+19	생활에	생활+에	ADV	NNG+JKB	_	17	conj	_	_
+20	저금하는데	저금+하+는+데	VERB	NF+XSV+ETM+NNB	_	24	advcl	_	_
+21	조금	조금	ADV	MAG	_	22	advmod	_	_
+22	떠러질	떠러지+ㄹ	VERB	NV+ETM	_	23	acl	_	_
+23	수	수	NOUN	NNB	_	24	nsubj	_	_
+24	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-HENG_08_1_11
+# text = 제가 그렇습니다.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	그렇습니다	그렇+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-HENG_08_1_12
+# text = 일자리에서 얘기도 편하게 하고 윗사람 눈치 너무 보지 않아야 하는데 그런 것을 한국 교육을 통해서 조금 배운 것 같습니다.
+1	일자리에서	일+자리+에서	ADV	NNG+NNG+JKB	_	4	obl	_	_
+2	얘기도	얘기+도	NOUN	NNG+JX	_	4	obj	_	_
+3	편하게	편하+게	ADV	VA+EC	_	4	advmod	_	_
+4	하고	하+고	VERB	VV+EC	_	8	advcl	_	_
+5	윗사람	윗+사람	NOUN	XPN+NNG	_	6	nmod	_	_
+6	눈치	눈치	NOUN	NNG	_	8	obj	_	_
+7	너무	너무	ADV	MAG	_	8	advmod	_	_
+8	보지	보+지	VERB	VV+EC	_	19	advcl	_	_
+9	않아야	않+아야	AUX	VX+EC	_	8	aux	_	_
+10	하는데	하+는데	VERB	VX+EC	_	8	aux	_	_
+11	그런	그런	DET	MM	_	12	det	_	_
+12	것을	것+을	NOUN	NNB+JKO	_	17	obj	_	_
+13	한국	한국	NOUN	NNP	_	14	nmod	_	_
+14	교육을	교육+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	통해서	통하+아서	VERB	VV+EC	_	19	advcl	_	_
+16	조금	조금	ADV	MAG	_	17	advmod	_	_
+17	배운	배우+ㄴ	VERB	VV+ETM	_	18	acl	_	_
+18	것	것	NOUN	NNB	_	19	nsubj	_	_
+19	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-HENG_08_1_13
+# text = 다른 단점은 다른 언어와 나라에 대해 배울 수 있는 기회가 적어 집니다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	11	obl	_	_
+3	다른	다른	ADJ	MM	_	5	amod	_	_
+4	언어와	언어+와	NOUN	NNG+JC	_	6	obl	_	_
+5	나라에	나라+에	ADV	NNG+JKB	_	4	conj	_	_
+6	대해	대하+아	VERB	VV+EC	_	7	advcl	_	_
+7	배울	배우+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있는	있+는	VERB	VX+ETM	_	10	acl	_	_
+10	기회가	기회+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	적어	적+어	ADV	VA+XSV	_	0	root	_	_
+12	집니다	_	X	_	_	11	goeswith	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_08_1_14
+# text = 단점에 대해서 많이 썼지만 장점이 더 크고 중료한 것 같습니다.
+1	단점에	단점+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	썼지만	쓰+었+지만	VERB	VV+EP+EC	_	10	advcl	_	_
+5	장점이	장점+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	크고	크+고	VERB	VA+EC	_	9	acl	_	_
+8	중료한	중료+하+ㄴ	VERB	NA+XSA+ETM	_	7	conj	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,142 @@
+# sent_id = ARG-JPN_24_1_01
+# text =  내가 생각하는 조기언어교육의 장점은 어릴 때부터 언어를 배우는 것으로 뇌에 좋은 영향을 미칠 수 있고, 어른이 되었을 때 자신이 하고 싶은 것의 범위도 넓을 수 있다.
+1	내가	내+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+4	장점은	장점+은	NOUN	NNG+JX	_	27	obl	_	_
+5	어릴	어리+ㄹ	VERB	VA+ETM	_	8	advcl	_	_
+6	때부터	때+부터	ADV	NNG+JX	_	5	mark	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우는	배우+는	VERB	VV+ETM	_	9	acl	_	_
+9	것으로	것+으로	ADV	NNB+JKB	_	15	obl	_	_
+10	뇌에	뇌+에	ADV	NNG+JKB	_	13	obl	_	_
+11	좋은	좋+은	VERB	VA+ETM	_	12	amod	_	_
+12	영향을	영향+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	미칠	미치+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있고	있+고	VERB	VX+EC	_	27	advcl	_	SpaceAfter=No
+16	,	,	PUNCT	SP	_	15	punct	_	_
+17	어른이	어른+이	NOUN	NNG+JKC	_	18	nsubj	_	_
+18	되었을	되+었+을	VERB	VV+EP+ETM	_	25	advcl	_	_
+19	때	때	ADV	NNG	_	18	mark	_	_
+20	자신이	자신+이	PRON	NNG+JKS	_	21	nsubj	_	_
+21	하고	하+고	VERB	VV+EC	_	23	acl	_	_
+22	싶은	싶+은	AUX	VX+ETM	_	21	aux	_	_
+23	것의	것+의	NOUN	NNB+JKG	_	24	nmod:poss	_	_
+24	범위도	범위+도	NOUN	NNG+JX	_	25	nsubj	_	_
+25	넓을	넓+을	VERB	VV+ETM	_	26	acl	_	_
+26	수	수	NOUN	NNB	_	27	nsubj	_	_
+27	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	27	punct	_	_
+
+# sent_id = ARG-JPN_24_1_02
+# text =  또 현대는 글로벌 사회이기 때문에 모국어 뿐만이 아니라 다양한 언어를 사용할 수 있으면 그 언어로 일을 유효적으로 이용할 수 있다.
+1	또	또	ADV	MAJ	_	20	cc	_	_
+2	현대는	현대+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	글로벌	글로벌	NOUN	NNG	_	4	nmod	_	_
+4	사회이기	사회+이+기	NOUN	NNG+VCP+ETN	_	20	obl	_	_
+5	때문에	때문+에	ADP	NNB+JKB	_	4	case	_	_
+6	모국어	모국어	NOUN	NNG	_	8	nsubj	_	_
+7	뿐만이	뿐+만+이	NOUN	JX+JX+JKC	_	6	case	_	_
+8	아니라	아니+라	VERB	VCN+EC	_	13	advcl	_	_
+9	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	10	amod	_	_
+10	언어를	언어+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있으면	있+으면	VERB	VX+EC	_	20	advcl	_	_
+14	그	그	DET	MM	_	15	det	_	_
+15	언어로	언어+로	ADV	NNG+JKB	_	18	obl	_	_
+16	일을	일+을	NOUN	NNG+JKO	_	18	obj	_	_
+17	유효적으로	유효+적+으로	ADV	NNG+XSN+JKB	_	18	obl	_	_
+18	이용할	이용+하+ㄹ	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_24_1_03
+# text =  하지만 이런 조기 언어교육의 단점으로서 모국어와의 규형이다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	이런	이런	DET	MM	_	4	det	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	단점으로서	단점+으로서	ADV	NNG+JKB	_	7	obl	_	_
+6	모국어와의	모국어+와+의	NOUN	NNG+JKB+JKG	_	7	nmod:poss	_	_
+7	규형이다	규형+이+다	VERB	NF+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_24_1_04
+# text =  모국어 능력도 아직 부족한 상태의 어린 시절에 다른 언어를 배우면 능력의 규형이 잘 맞지 얂는 가능성이 있다.
+1	모국어	모국어	NOUN	NNG	_	2	nmod	_	_
+2	능력도	능력+도	NOUN	NNG+JX	_	4	nsubj	_	_
+3	아직	아직	ADV	MAG	_	4	advmod	_	_
+4	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	상태의	상태+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+6	어린	어리+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	시절에	시절+에	ADV	NNG+JKB	_	10	obl	_	_
+8	다른	다른	ADJ	MM	_	9	amod	_	_
+9	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우면	배우+면	VERB	VV+EC	_	17	advcl	_	_
+11	능력의	능력+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	규형이	규형+이	NOUN	NF+JKS	_	14	nsubj	_	_
+13	잘	잘	ADV	MAG	_	14	advmod	_	_
+14	맞지	맞+지	VERB	VV+EC	_	16	acl	_	_
+15	얂는	얂+는	VERB	NV+ETM	_	14	aux	_	_
+16	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_24_1_05
+# text =  그렇기 때문에 조기 언어교육을 할 때는 모국어도 잘 이해하면서 배울 수 있도록 교육을 해야된다.
+1	그렇기	그렇+기	NOUN	VA+ETN	_	14	obl	_	_
+2	때문에	때문+에	ADP	NNB+JKB	_	1	case	_	_
+3	조기	조기	NOUN	NNG	_	4	nmod	_	_
+4	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	14	advcl	_	_
+6	때는	때+는	ADV	NNG+JX	_	5	mark	_	_
+7	모국어도	모국어+도	NOUN	NNG+JX	_	9	obj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	이해하면서	이해+하+면서	VERB	NNG+XSV+EC	_	10	advcl	_	_
+10	배울	배우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있도록	있+도록	ADV	VX+EC	_	14	advcl	_	_
+13	교육을	교육+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	해야된다	하+아야+되+ㄴ다	VERB	VV+EC+VX+EP	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_24_1_06
+# text =  또 교과서로 공부하는 것뿐만 아니라 동영상이나 실제로 사람과 대화를 하면 더 유효적이고, 어린이들도 재미있게 언어를공부할 수 있다.
+1	또	또	ADV	MAJ	_	18	cc	_	_
+2	교과서로	교과+서+로	ADV	NNG+JKB	_	3	obl	_	_
+3	공부하는	공부+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것뿐만	것+뿐+만	NOUN	NNB+JX+JX	_	5	nsubj	_	_
+5	아니라	아니+라	VERB	VCN+EC	_	10	advcl	_	_
+6	동영상이나	동영상+이나	NOUN	NNG+JC	_	10	obj	_	_
+7	실제로	실제로	ADV	MAG	_	10	advmod	_	_
+8	사람과	사람+과	NOUN	NNG+JKB	_	10	obl	_	_
+9	대화를	대화+를	NOUN	NNG+JKO	_	6	conj	_	_
+10	하면	하+면	VERB	VV+EC	_	6	conj	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	유효적이고	유효+적+이+고	VERB	NNG+XSN+VCP+EC	_	18	advcl	_	_
+13	,	,	PUNCT	SP	_	12	punct	_	_
+14	어린이들도	어린이+들+도	NOUN	NNG+XSN+JX	_	16	nsubj	_	_
+15	재미있게	재미+있+게	ADV	NNG+VA+EC	_	16	advmod	_	_
+16	언어를공부할	언어+를+공부+하+ㄹ	VERB	NNG+JKO+NNG+XSV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_24_1_07
+# text =  어린이들이 이런 교육에 대한 부담감이 생기지 않도록 교육하는 것이 중요한 점이라고 생각한다.
+1	어린이들이	어린이+들+이	NOUN	NNG+XSN+JKS	_	6	dislocated	_	_
+2	이런	이런	ADJ	MM	_	3	det	_	_
+3	교육에	교육+에	ADV	NNG+JKB	_	4	obl	_	_
+4	대한	대하+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	부담감이	부담+감+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+6	생기지	생기+지	VERB	VV+EC	_	8	advcl	_	_
+7	않도록	않+도록	AUX	VX+EC	_	6	aux	_	_
+8	교육하는	교육+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	중요한	중요+하+ㄴ	VERB	NNG+XSA+ETM	_	11	amod	_	_
+11	점이라고	점+이+라고	VERB	NNG+VCP+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

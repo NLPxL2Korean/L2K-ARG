@@ -1,0 +1,124 @@
+# sent_id = ARG-JPN_36_1_01
+# text =  나는 조기언어교육의 장점은 2가지가 있다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점은	장점+은	NOUN	NNG+JX	_	5	dislocated	_	_
+4	2가지가	2+가지+가	NOUN	SN+NNB+JKS	_	5	nsubj	_	_
+5	있다고	있+다고	VERB	VV+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_36_1_02
+# text =  첫
+1	첫	첫	NUM	MM	_	0	root	_	_
+
+# sent_id = ARG-JPN_36_1_03
+# text =  번째는 어릴 때부터 모국어가 아닌 언어를 배우면 나중에 사회생활을 하는데에 큰 도움이 된다는 것이다.
+1	번째는	번째+는	NOUN	NNB+JX	_	14	obl	_	_
+2	어릴	어리+ㄹ	VERB	VA+ETM	_	7	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	모국어가	모국어+가	NOUN	NNG+JKC	_	5	nsubj	_	_
+5	아닌	아니+ㄴ	VERB	VCN+ETM	_	6	acl	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	13	advcl	_	_
+8	나중에	나중+에	ADV	NNG+JKB	_	13	obl	_	_
+9	사회생활을	사회+생활+을	NOUN	NNG+NNG+JKO	_	10	obj	_	_
+10	하는데에	하+는+데+에	ADV	VV+ETM+NNB+JKB	_	13	obl	_	_
+11	큰	크+ㄴ	ADJ	VA+ETM	_	14	amod	_	_
+12	도움이	도움+이	NOUN	NNG+JKC	_	13	nsubj	_	_
+13	된다는	되+ㄴ다는	VERB	VV+ETM	_	14	acl	_	_
+14	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_36_1_04
+# text =  지금은 일하게 되면 영어는 꼭 필요하고 영어 말고도 일본 같은 경우에는 중국어나 한국어를 쓸 수 있는 기회는 자주있다.
+1	지금은	지금+은	ADV	NNG+JX	_	2	advmod	_	_
+2	일하게	일+하+게	VERB	NNG+XSV+EC	_	18	advcl	_	_
+3	되면	되+면	VERB	VX+EC	_	2	advcl	_	_
+4	영어는	영어+는	NOUN	NNG+JX	_	2	nsubj	_	_
+5	꼭	꼭	ADV	MAG	_	6	advmod	_	_
+6	필요하고	필요+하+고	VERB	NNG+XSA+EC	_	18	advcl	_	_
+7	영어	영어	NOUN	NNG	_	8	nsubj	_	_
+8	말고도	말+고+도	NOUN	VV+EC+JX	_	18	advcl	_	_
+9	일본	일본	NOUN	NNP	_	10	nsubj	_	_
+10	같은	같+은	VERB	VA+ETM	_	11	acl	_	_
+11	경우에는	경우+에+는	ADV	NNG+JKB+JX	_	18	obl	_	_
+12	중국어나	중국어+나	NOUN	NNG+JC	_	14	obj	_	_
+13	한국어를	한국어+를	NOUN	NNG+JKO	_	12	conj	_	_
+14	쓸	쓰+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있는	있+는	VERB	VX+ETM	_	17	acl	_	_
+17	기회는	기회+는	NOUN	NNG+JX	_	18	nsubj	_	_
+18	자주있다	자주+있+다	ADJ	VA+EF+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_36_1_05
+# text =  두 번째는 어릴 때부터 외국어를 공부하면 그 언어의 나라에 관심을 가지고나 다른 나라의 사람들과 교류도 할 수 있어서 넓은 세상에서 넓은 시야를 가질 수 있는 것이다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	3	obl	_	_
+3	어릴	어리+ㄹ	VERB	VA+ETM	_	6	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	26	advcl	_	_
+7	그	그	DET	MM	_	8	det	_	_
+8	언어의	언어+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	나라에	나라+에	ADV	NNG+JKB	_	11	obl	_	_
+10	관심을	관심+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	가지고나	가지+고나	VERB	VV+NA	_	25	advcl	_	_
+12	다른	다른	ADJ	MM	_	13	amod	_	_
+13	나라의	나라+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+14	사람들과	사람+들+과	NOUN	NNG+XSN+JKB	_	16	obl	_	_
+15	교류도	교류+도	NOUN	NNG+JX	_	16	obj	_	_
+16	할	하+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있어서	있+어서	VERB	VX+EC	_	11	conj	_	_
+19	넓은	넓+은	ADJ	VA+ETM	_	20	amod	_	_
+20	세상에서	세상+에서	ADV	NNG+JKB	_	23	obl	_	_
+21	넓은	넓+은	ADJ	VA+ETM	_	22	amod	_	_
+22	시야를	시야+를	NOUN	NNG+JKO	_	23	obj	_	_
+23	가질	가지+ㄹ	VERB	VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있는	있+는	VERB	VX+ETM	_	26	acl	_	_
+26	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-JPN_36_1_06
+# text =  하지만 단점도 있다.
+1	하지만	하지만	ADV	MAJ	_	3	cc	_	_
+2	단점도	단점+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-JPN_36_1_07
+# text =  그거는 아직 모국어를 잘할 수 있는 나이가 아닐 때 외국어도 같이 공부를 하면 햇갈릴 수도 있다는 점이다.
+1	그거는	그거+는	NOUN	NP+JX	_	17	nsubj	_	_
+2	아직	아직	ADV	MAG	_	4	advmod	_	_
+3	모국어를	모국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	잘할	잘하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	7	acl	_	_
+7	나이가	나이+가	NOUN	NNG+JKC	_	8	nsubj	_	_
+8	아닐	아니+ㄹ	VERB	VCN+ETM	_	13	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	외국어도	외국어+도	NOUN	NNG+JX	_	13	obj	_	_
+11	같이	같이	ADV	MAG	_	13	advmod	_	_
+12	공부를	공부+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	하면	하+면	VERB	VV+EC	_	14	advcl	_	_
+14	햇갈릴	햇갈리+ㄹ	VERB	NV+ETM	_	15	acl	_	_
+15	수도	수+도	NOUN	NNB+JX	_	16	nsubj	_	_
+16	있다는	있+다는	VERB	VX+ETM	_	17	acl	_	_
+17	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_36_1_08
+# text =  그래서 조기언어교육을 할 때는 조금 조심할 필요가 있다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	조기언어교육을	조기+언어+교육+을	NOUN	NNG+NNG+NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	8	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	조금	조금	ADV	MAG	_	6	advmod	_	_
+6	조심할	조심+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	필요가	필요+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다고	있+다고	VERB	VV+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

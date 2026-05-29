@@ -1,0 +1,118 @@
+# sent_id = ARG-HENG_04_1_01
+# text = 저는 조기언어가 장점이 더 많은 것 같아요.
+1	저는	저+는	PRON	NP+JX	_	7	dislocated	_	_
+2	조기언어가	조기+언어+가	NOUN	NNG+NNG+JKS	_	5	dislocated	_	_
+3	장점이	장점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	많은	많+은	VERB	VA+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-HENG_04_1_02
+# text = 학교애서 다른 언어를 배우는 건 사람/학생애개 도움이 더 많아질 수 없다고 생각해요.
+1	학교애서	학교+애서	VERB	NNG+NA	_	4	obl	_	_
+2	다른	다른	ADJ	MM+ETM	_	3	amod	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	건	거+ㄴ	NOUN	NNB+JX	_	11	obl	_	_
+6	사람/학생애개	사람+/+학생+애개	NOUN	NNG+SP+NNG+NA	_	9	obl	_	_
+7	도움이	도움+이	NOUN	NNG+JKC	_	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	많아질	많+아지+ㄹ	VERB	VA+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	없다고	없+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-HENG_04_1_03
+# text = 왜냐면, 어릴때부터 어떤 언어를 배우기 시작하면 나중애 생활이랑 직장 할때 필요하고 도움이 됄수있을 순간이 많을 것같아요.
+1	왜냐면	왜냐면	ADV	VV	_	17	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	어릴때부터	어리+ㄹ+때+부터	ADV	VA+ETM+NNG+JX	_	6	advcl	_	_
+4	어떤	어떤	DET	MM	_	5	det	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배우기	배우+기	NOUN	VV+ETN	_	7	obj	_	_
+7	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	17	advcl	_	_
+8	나중애	나중+애	VERB	NNG+NA	_	11	advcl	_	_
+9	생활이랑	생활+이랑	NOUN	NNG+JC	_	11	obj	_	_
+10	직장	직장	NOUN	NNG	_	9	conj	_	_
+11	할때	하+ㄹ+때	VERB	VV+ETM+NNG	_	12	advcl	_	_
+12	필요하고	필요+하+고	VERB	NNG+XSA+EC	_	17	advcl	_	_
+13	도움이	도움+이	NOUN	NNG+JKC	_	14	nsubj	_	_
+14	됄수있을	돼+ㄹ+수+있+을	VERB	NV+ETM+NNB+VX+ETM	_	15	acl	_	_
+15	순간이	순간+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	많을	많+을	VERB	VA+ETM	_	17	acl	_	_
+17	것같아요	것+같+아요	VERB	NNB+VA+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-HENG_04_1_04
+# text = 그리고 옛날에 스터디 가있었는대요, 사람이 언어를 더알수록 공부도 더 잘돼고 이해할 수 있는 것도 다양해져요.
+1	그리고	그리고	ADV	MAJ	_	16	cc	_	_
+2	옛날에	옛날+에	ADV	NNG+JKB	_	4	obl	_	_
+3	스터디	스터디	NOUN	NNG	_	4	nsubj	_	_
+4	가있었는대요	가+있+었+는대요	VERB	JKS+VV+EP+NA	_	16	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	더알수록	더+알+ㄹ수록	VERB	MAG+VV+EC	_	16	advcl	_	_
+9	공부도	공부+도	NOUN	NNG+JX	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	잘돼고	잘+돼+고	VERB	MAG+NV+EC	_	16	advcl	_	_
+12	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있는	있+는	VERB	VX+ETM	_	15	acl	_	_
+15	것도	것+도	NOUN	NNB+JX	_	16	nsubj	_	_
+16	다양해져요	다양+하+아지+어요	ADJ	NNG+XSA+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_04_1_05
+# text = 제가 생각할 수 있는 단점은 어릴 때 부터 언어 공부 시작하면 아이들이 핵갈릴수도 있을 것 같아요.
+1	제가	제+가	PRON	NP+JKS	_	2	nsubj	_	_
+2	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	수	수	NOUN	NNB	_	4	nsubj	_	_
+4	있는	있+는	VERB	VX+ETM	_	5	acl	_	_
+5	단점은	단점+은	NOUN	NNG+JX	_	16	dislocated	_	_
+6	어릴	어리+ㄹ	VERB	VA+ETM	_	11	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	부터	부터	ADV	JX	_	6	case	_	_
+9	언어	언어	NOUN	NNG	_	10	nmod	_	_
+10	공부	공부	NOUN	NNG	_	11	obj	_	_
+11	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+12	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+13	핵갈릴수도	핵갈리+ㄹ+수+도	NOUN	NV+ETM+NNB+JX	_	14	nsubj	_	_
+14	있을	있+을	VERB	VX+ETM	_	15	acl	_	_
+15	것	것	NOUN	NNB	_	16	nsubj	_	_
+16	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-HENG_04_1_06
+# text = 하지만 그것도 괜찮은 것 같아요.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	그것도	그것+도	ADV	NP+JX	_	3	nsubj	_	_
+3	괜찮은	괜찮+은	VERB	VA+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-HENG_04_1_07
+# text = 한국어 (아니면 처음 배우는 언어)랑 다른 언어를 같이 배우면서 더 많은 표현법도 가리치고 배울 수 있을 것 같아요.
+1	한국어	한국어	NOUN	NNG	_	6	obl	_	_
+2	(아니면	(+아니+면	VERB	SS+VCN+EC	_	4	advcl	_	_
+3	처음	처음	ADV	NNG	_	4	advmod	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	언어)랑	언어+)+랑	NOUN	NNG+SS+JC	_	1	case	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	acl	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+8	같이	같이	ADV	MAG	_	9	advmod	_	_
+9	배우면서	배우+면서	VERB	VV+EC	_	13	advcl	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	많은	많+은	ADJ	VA+ETM	_	12	amod	_	_
+12	표현법도	표현+법+도	NOUN	NNG+NNG+JX	_	13	obj	_	_
+13	가리치고	가리치+고	VERB	NV+EC	_	14	advcl	_	_
+14	배울	배우+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있을	있+을	VERB	VX+ETM	_	17	acl	_	_
+17	것	것	NOUN	NNB	_	18	nsubj	_	_
+18	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_

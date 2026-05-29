@@ -1,0 +1,129 @@
+# sent_id = ARG-CZH_03_1_01
+# text = 어렸을 때 아이들이 모국어말고 다른 언어를 배우면 좋다고 생각해요.
+1	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	7	advcl	_	_
+2	때	때	ADV	NNG	_	1	mark	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+4	모국어말고	모국어+말+고	VERB	NNG+VV+EC	_	7	advcl	_	_
+5	다른	다르+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+8	좋다고	좋+다고	ADJ	VA+EC	_	9	ccomp	_	_
+9	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_03_1_02
+# text = 학교에서 다른 학생들보다 더 알고 어떻게 언어를 배우는 지 알면 다른 언어 배운는 것 더 쉬워요.
+1	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	학생들보다	학생+들+보다	ADV	NNG+XSN+JKB	_	5	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	알고	알+고	VERB	VV+EC	_	16	advcl	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배우는	배우+는+지	VERB	VV+ETM+EC	Typo=Yes	10	ccomp	_	_
+9	지	_	X	_	_	8	goeswith	_	_
+10	알면	알+면	VERB	VV+EC	_	5	conj	_	_
+11	다른	다르+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	언어	언어	NOUN	NNG	_	13	obj	_	_
+13	배운는	배우+ㄴ+는	VERB	VV+ETM+ETM	_	14	acl	_	_
+14	것	것	NOUN	NNB	_	16	nsubj	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	쉬워요	쉽+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_03_1_03
+# text = 당연히 여행을 할 때 뜩히 영어를 할 수 있으면 좋아요.
+1	당연히	당연히	ADV	MAG	_	10	advmod	_	_
+2	여행을	여행+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	9	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	뜩히	뜩히	ADV	NA	Typo=Yes	9	advmod	_	_
+6	영어를	영어+를	NOUN	NNP+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있으면	있+으면	VERB	VX+EC	_	10	advcl	_	_
+10	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_03_1_04
+# text = 또 요즘 직업들 찾을 때 언어가 너무 중요해요.
+1	또	또	ADV	MAJ	_	8	cc	_	_
+2	요즘	요즘	ADV	NNG	_	4	advmod	_	_
+3	직업들	직업+들	NOUN	NNG+XSN	_	4	obj	_	_
+4	찾을	찾+을	VERB	VV+ETM	_	8	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	언어가	언어+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	너무	너무	ADV	MAG	_	8	advmod	_	_
+8	중요해요	중요+하+아요	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_03_1_05
+# text = 아이들이 실수를 하면 뿌그럽지 않아서 말하기 더 쉽게 배울 수 있다고 생각해요.
+1	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	실수를	실수+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	하면	하+면	VERB	VV+EC	_	4	advcl	_	_
+4	뿌그럽지	뿌그럽+지	VERB	NV+EC	Typo=Yes	11	advcl	_	_
+5	않아서	않	AUX	VX+EC	_	4	aux	_	_
+6	말하기	말+하+기	VERB	NNG+XSV+ETN	_	9	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	쉽게	쉽+게	ADV	VA+EC	_	9	advmod	_	_
+9	배울	배우+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_03_1_06
+# text = 아이들이 새로운 것을 배우는 거 좋아해서 언어도 빨리 잘 배울 수 있어요.
+1	아이들이	아이+들+이	PRON	NP+XSN+JKS	_	6	nsubj	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	것을	것+을	NOUN	NNB+JKO	_	4	obj	_	_
+4	배우는	배우+는	VERB	VV+ETM	_	5	acl	_	_
+5	거	거	NOUN	NNB	_	6	obj	_	_
+6	좋아해서	좋아하+아서	VERB	VV+EC	_	12	advcl	_	_
+7	언어도	언어+도	NOUN	NNG+JX	_	10	obj	_	_
+8	빨리	빨리	ADV	MAG	_	10	advmod	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	배울	배우+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_03_1_07
+# text = 대학교 후에 언어나 새로운 실력을 배우고 싶으면 잘 할 수 없어요.
+1	대학교	대학교	NOUN	NNG	_	6	obl	_	_
+2	후에	후+에	ADV	NNG+JKB	_	1	case	_	_
+3	언어나	언어+나	NOUN	NNG+JC	_	6	obj	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	실력을	실력+을	NOUN	NNG+JKO	_	3	conj	_	_
+6	배우고	배우+고	VERB	VV+EC	_	11	advcl	_	_
+7	싶으면	싶	AUX	VX+EC	_	6	aux	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	없어요	없+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_03_1_08
+# text = 보텅 시간이 없고 시간이 있으면 그냥 쉬고 싶어요.
+1	보텅	보텅	ADV	NA	Typo=Yes	3	advmod	_	_
+2	시간이	시간+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	없고	없+고	ADJ	VA+EC	_	0	root	_	_
+4	시간이	시간+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있으면	있+으면	VERB	VV+EC	_	7	advcl	_	_
+6	그냥	그냥	ADV	MAG	_	7	advmod	_	_
+7	쉬고	쉬+고	VERB	VV+EC	_	3	conj	_	_
+8	싶어요	싶	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_03_1_09
+# text = 그래서 어렸을 때부터 언어 배우는 거 너무 좋아요.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	5	advcl	_	_
+3	때부터	때+부터	ADV	NNG+JX	_	2	mark	_	_
+4	언어	언어	NOUN	NNG	_	5	obj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	거	거	NOUN	NNB	_	8	nsubj	_	_
+7	너무	너무	ADV	MAG	_	8	advmod	_	_
+8	좋아요	좋+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

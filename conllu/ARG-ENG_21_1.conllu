@@ -1,0 +1,93 @@
+# sent_id = ARG-ENG_21_1_01
+# text = 교육은 일찍 시작하면 좋은 효과가 있다고 많이들 한다.
+1	교육은	교육+은	NOUN	NNG+JX	_	3	obj	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	효과가	효과+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있다고	있+다고	VERB	VV+EC	_	8	ccomp	_	_
+7	많이들	많이+들	ADV	MAG+XSN	_	8	advmod	_	_
+8	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_21_1_02
+# text = 그런데 좋은 효과 뿐만 아니라 부정적인 결과가 나타날 수도 있다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	효과	효과	NOUN	NNG	_	5	nsubj	_	_
+4	뿐만	뿐+만	ADP	JX+JX	_	3	case	_	_
+5	아니라	아니+라	ADJ	VCN+EC	_	10	advcl	_	_
+6	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	결과가	결과+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	나타날	나타나+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수도	수+도	NOUN	NNB+JX	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_21_1_03
+# text = 예를 들면 어린 시절부터 강한 학교 교육을 시키면, 어린들이 스트레스를 많이 받고 심리적인 발전까지 영향 받을 수도 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	19	advcl	_	_
+3	어린	어리+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	시절부터	시절+부터	NOUN	NNG+JX	_	8	obl	_	_
+5	강한	강하+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+6	학교	학교	NOUN	NNG	_	7	nmod	_	_
+7	교육을	교육+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	시키면	시키+면	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	어린들이	어린+들+이	NOUN	NF+XSN+JKS	Typo=Yes	13	nsubj	_	_
+11	스트레스를	스트레스+를	NOUN	NNG+JKO	_	13	obj	_	_
+12	많이	많이	ADV	MAG	_	13	advmod	_	_
+13	받고	받+고	VERB	VV+EC	_	19	advcl	_	_
+14	심리적인	심리+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	15	amod	_	_
+15	발전까지	발전+까지	NOUN	NNG+JX	_	17	obl	_	_
+16	영향	영향	NOUN	NNG	_	17	obj	_	_
+17	받을	받+을	VERB	VV+ETM	_	18	acl	_	_
+18	수도	수+도	NOUN	NNB+JX	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-ENG_21_1_04
+# text = 하지만 언어교육은 일찍 시작하면 나쁜 효과부다 긍정적인 영향이 더 많다고 생각을 한다.
+1	하지만	하지만	ADV	MAJ	_	12	cc	_	_
+2	언어교육은	언어+교육+은	NOUN	NNG+NNG+JX	_	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	효과부다	효과+부다	NOUN	NNG+NA	Typo=Yes	10	obl	_	_
+7	긍정적인	긍정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+8	영향이	영향+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	많다고	많+다고	ADJ	VA+EC	_	12	ccomp	_	_
+11	생각을	생각+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_21_1_05
+# text = 특히 언어는 일찍 배우게 시작하면 제2외국어를 잘 하게 되는 경향이 높다.
+1	특히	특히	ADV	MAG	_	11	advmod	_	_
+2	언어는	언어+는	NOUN	NNG+JX	_	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	배우게	배우+게	VERB	VV+EC	_	5	advcl	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+6	제2외국어를	제+2+외국어+를	NOUN	XPN+SN+NNG+JKO	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	하게	하+게	VERB	VV+EC	_	10	acl	_	_
+9	되는	되+는	VERB	VX+ETM	_	8	advcl	_	_
+10	경향이	경향+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	높다	높+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_21_1_06
+# text = 그래서 전체적으로 언어교육을 일찍 시작하는 것은 좋은 것이라고 생각을 한다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	전체적으로	전체+적+으로	ADV	NNG+XSN+JKB	_	8	obl	_	_
+3	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	시작하는	시작+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것은	것+은	NOUN	NNB+JX	_	8	nsubj	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	10	ccomp	_	_
+9	생각을	생각+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

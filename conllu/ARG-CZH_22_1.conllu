@@ -1,0 +1,76 @@
+# sent_id = ARG-CZH_22_1_01
+# text = 아이들 어른 보다 더 궁금해요.
+1	아이들	아이+들	NOUN	NNG+XSN	_	5	nsubj	_	_
+2	어른	어른	NOUN	NNG	_	5	obl	_	_
+3	보다	보다	ADP	JKB	_	2	case	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	궁금해요	궁금+하+아요	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_22_1_02
+# text = 언어를 일찍 배우기를 시작하면 더 쉽고 자연스럽게 배울 수 있어요.
+1	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	일찍	일찍	ADV	MAG	_	3	advmod	_	_
+3	배우기를	배우+기+를	VERB	VV+ETN+JKO	_	4	obj	_	_
+4	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	쉽고	쉽+고	ADV	VA+EC	_	8	advmod	_	_
+7	자연스럽게	자연+스럽+게	ADJ	NNG+XSA+EC	_	6	conj	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_22_1_03
+# text = 하지만 아이들 숙제를 너무 많이 할 수 없어요.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	아이들	아이+들	NOUN	NNG+XSN	_	6	nsubj	_	_
+3	숙제를	숙제+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	너무	너무	ADV	MAG	_	5	advmod	_	_
+5	많이	많이	ADV	MAG	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없어요	없+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_22_1_04
+# text = 더 큰 학생들이 언어 를 더 빠르게 배울 거예요.
+1	더	더	ADV	MAG	_	2	advmod	_	_
+2	큰	크+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	학생들이	학생+들+이	NOUN	NNG+XSN+JKS	_	8	nsubj	_	_
+4	언어	언어	NOUN	NNG	_	8	obj	_	_
+5	를	를	ADP	JKO	_	4	case	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	빠르게	빠르+게	ADV	VA+EC	_	8	advmod	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	거예요	것+이+에요	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_22_1_05
+# text = 스트레스를 받아서 열심히 공부해야해요.
+1	스트레스를	스트레스+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	받아서	받+아서	VERB	VV+EC	_	4	advcl	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	공부해야해요	공부+하+아야+하+아요	VERB	NNG+XSV+EC+VX+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_22_1_06
+# text = 아이들 시험도 못해요.
+1	아이들	아이+들	NOUN	NNG+XSN	_	3	nsubj	_	_
+2	시험도	시험+도	NOUN	NNG+JX	_	3	obj	_	_
+3	못해요	못하+아+요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_22_1_07
+# text = 그냥 놀고 여기 저기 어떤 것을 쉽게 배울 수 있어요.
+1	그냥	그냥	ADV	MAG	_	2	advmod	_	_
+2	놀고	놀+고	VERB	VV+EC	_	10	advcl	_	_
+3	여기	여기	PRON	NP	_	8	obl	_	_
+4	저기	저기	PRON	NP	_	8	obl	_	_
+5	어떤	어떤	DET	MM	_	6	det	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+7	쉽게	쉽+게	ADV	VA+EC	_	8	advmod	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

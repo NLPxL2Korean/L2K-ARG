@@ -1,0 +1,184 @@
+# sent_id = ARG-CZH_30_3_01
+# text = 나는 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_30_3_02
+# text = 사람들은 협동하면 서로 다양한 생각을 나눌 수 있고 사람마다 외견이 다르니까 서로 도와 주면 가능성은 많아지고 제일 좋은 아니면 완전히 새로운 밤법을 찾을 수 있다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	서로	서로	ADV	MAG	_	6	advmod	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	생각을	생각+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	나눌	나누+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있	AUX	VX+EC	_	25	advcl	_	_
+9	사람마다	사람+마다	NOUN	NNG+JX	_	11	obl	_	_
+10	외견이	외견+이	NOUN	NF+JKS	Typo=Yes	11	nsubj	_	_
+11	다르니까	다르+니까	ADJ	VA+EC	_	13	advcl	_	_
+12	서로	서로	ADV	MAG	_	13	advmod	_	_
+13	도와	돕+아	VERB	VV+EC	_	16	advcl	_	_
+14	주면	주+면	VERB	VX+EC	_	13	advcl	_	_
+15	가능성은	가능+성+은	NOUN	NNG+XSN+JX	_	16	nsubj	_	_
+16	많아지고	많+아지+고	VERB	VA+XSV+EC	_	25	advcl	_	_
+17	제일	제일	ADV	MAG	_	18	advmod	_	_
+18	좋은	좋+은	ADJ	VA+ETM	_	19	amod	_	_
+19	아니면	아니+면	ADJ	VCN+EC	_	21	advcl	_	_
+20	완전히	완전히	ADV	MAG	_	21	advmod	_	_
+21	새로운	새롭+ㄴ	ADJ	VA+ETM	_	22	acl	_	_
+22	밤법을	밤법+을	NOUN	NF+JKO	Typo=Yes	23	obj	_	_
+23	찾을	찾+을	VERB	VV+ETM	_	24	acl	_	_
+24	수	수	NOUN	NNB	_	25	nsubj	_	_
+25	있다	있	AUX	VX+EF	_	0	root	_	SpaceAfter=No
+26	.	.	PUNCT	SF	_	25	punct	_	_
+
+# sent_id = ARG-CZH_30_3_03
+# text = 그래도 이거 내 생각이다.
+1	그래도	그래도	ADV	MAJ	_	4	cc	_	_
+2	이거	이거	PRON	NP	_	4	nsubj	_	_
+3	내	나+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	생각이다	생각+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_30_3_04
+# text = 이 주제에 대해 생각하면 우리 성격은 되게 둥연한 것이다.
+1	이	이	DET	MM	_	2	det	_	_
+2	주제에	주제+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해	대하+아	VERB	VV+EC	_	4	advcl	_	_
+4	생각하면	생각+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+5	우리	우리	PRON	NP	_	6	nmod	_	_
+6	성격은	성격+은	NOUN	NNG+JX	_	9	nsubj	_	_
+7	되게	되게	ADV	MAG	_	8	advmod	_	_
+8	둥연한	둥연+하+ㄴ	VERB	NF+XSV+ETM	Typo=Yes	9	acl	_	_
+9	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_30_3_05
+# text = 왜냐하면 내성적인 사람들은 보통 협동을 좋아하기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	7	cc	_	_
+2	내성적인	내성+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+4	보통	보통	ADV	MAG	_	6	advmod	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	좋아하기	좋아하+기	VERB	VV+ETN	_	7	nmod	_	_
+7	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_30_3_06
+# text = 그렇지만 외향적인 사람들은 경쟁은 더 좋다고 생각한다.
+1	그렇지만	그렇+지만	ADV	MAJ+EC	_	7	cc	_	_
+2	외향적인	외향+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+4	경쟁은	경쟁+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋다고	좋+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_30_3_07
+# text = 이유는 보통 내성적인 사람들이 싸울때 스트레스 많이 받고 경쟁은 심할 때 싸움 같다.
+1	이유는	이유+는	NOUN	NNG+JX	_	8	obl	_	_
+2	보통	보통	ADV	MAG	_	5	advmod	_	_
+3	내성적인	내성+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	4	amod	_	_
+4	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+5	싸울때	싸우+ㄹ+때	NOUN	VV+ETM+NNB	_	8	obl	_	_
+6	스트레스	스트레스	NOUN	NNG	_	8	obj	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	받고	받+고	VERB	VV+EC	_	0	root	_	_
+9	경쟁은	경쟁+은	NOUN	NNG+JX	_	10	nsubj	_	_
+10	심할	심하+ㄹ	ADJ	VA+ETM	_	13	advcl	_	_
+11	때	때	ADV	NNG	_	10	mark	_	_
+12	싸움	싸우+ㅁ	VERB	VV+ETN	_	13	nsubj	_	_
+13	같다	같+다	ADJ	VA+EF	_	8	conj	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_30_3_08
+# text = 우리는 다른 사람보다 더 잘 하는 것은 보여줘야 한다.
+1	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람보다	사람+보다	ADV	NNG+JKB	_	6	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	하는	하+는	VERB	VV+ETM	_	7	acl	_	_
+7	것은	것+은	NOUN	NNB+JX	_	8	obj	_	_
+8	보여줘야	보+이+어+주+어야	VERB	VV+XSV+EC+VX+EC	_	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_30_3_09
+# text = 그런데 외향적인 사람들은 경쟁은 느꼈을 때 흥미를 느낄 수 있다.
+1	그런데	그런데	ADV	MAJ	_	10	cc	_	_
+2	외향적인	외향+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	3	amod	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+4	경쟁은	경쟁+은	NOUN	NNG+JX	_	5	obj	_	_
+5	느꼈을	느끼+었+을	VERB	VV+EP+ETM	_	10	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	흥미를	흥미+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	느낄	느끼+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_30_3_10
+# text = 그래서 이 문제가 한 맞는 대답은 없을 것 같다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	문제가	문제+가	NOUN	NNG+JKS	_	7	dislocated	_	_
+4	한	한	NUM	MM	_	6	nummod	_	_
+5	맞는	맞+는	VERB	VV+ETM	_	6	acl	_	_
+6	대답은	대답+은	NOUN	NNG+JX	_	7	nsubj	_	_
+7	없을	없+을	ADJ	VA+ETM	_	8	acl	_	_
+8	것	것	NOUN	NNB	_	9	nsubj	_	_
+9	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_30_3_11
+# text = 사람마다 다르기 때문이다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	2	obl	_	_
+2	다르기	다르+기	ADJ	VA+ETN	_	3	nmod	_	_
+3	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_30_3_12
+# text = 그래도 내 생각의 우리는 스스로 일하기를 배우면 좋고 팀과 일하기 배우는 것도 좋다고 생각한다.
+1	그래도	그래도	ADV	MAJ	_	14	cc	_	_
+2	내	나+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	생각의	생각+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+5	스스로	스스로	ADV	MAG	_	6	advmod	_	_
+6	일하기를	일+하+기+를	VERB	NNG+XSV+ETN+JKO	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	8	advcl	_	_
+8	좋고	좋+고	ADJ	VA+EC	_	14	ccomp	_	_
+9	팀과	팀+과	ADV	NNG+JKB	_	10	obj	_	_
+10	일하기	일+하+기	VERB	NNG+XSV+ETN	_	11	obj	_	_
+11	배우는	배우+는	VERB	VV+ETM	_	12	acl	_	_
+12	것도	것+도	NOUN	NNB+JX	_	13	nsubj	_	_
+13	좋다고	좋+다고	ADJ	VA+EC	_	8	conj	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_30_3_13
+# text = 왜냐하면 혼자서 일할 때 상상력은 더 좋고 팀과 일하면 서로 새로운 아이디아를 생각할 수 있으니까 협동도 경쟁도 중용한다고 생각한다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	19	cc	_	_
+2	혼자서	혼자+서	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	일할	일+하+ㄹ	VERB	NNG+XSV+ETM	_	7	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	상상력은	상상+력+은	NOUN	NNG+XSN+JX	_	7	nsubj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋고	좋+고	ADJ	VA+EC	_	15	advcl	_	_
+8	팀과	팀+과	ADV	NNG+JKB	_	9	obl	_	_
+9	일하면	일+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+10	서로	서로	ADV	MAG	_	13	advmod	_	_
+11	새로운	새롭+ㄴ	ADJ	VA+ETM	_	12	amod	_	_
+12	아이디아를	아이디아+를	NOUN	NF+JKO	Typo=Yes	13	obj	_	_
+13	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있으니까	있	AUX	VX+EC	_	18	advcl	_	_
+16	협동도	협동+도	NOUN	NNG+JX	_	18	nsubj	_	_
+17	경쟁도	경쟁+도	NOUN	NNG+JX	_	16	conj	_	_
+18	중용한다고	중용+하+ㄴ다고	ADJ	NF+XSA+EC	Typo=Yes	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_

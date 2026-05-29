@@ -1,0 +1,90 @@
+# sent_id = ARG-CZH_23_3_01
+# text = 사람들은 하고 싶은 일, 성공하고 싶은 목표나 꿈이 많고 요즘은 특히 SNS를 엄청 많이 사용하는 사람들이 행복한 모습이나 성공만 보여주기 때문에 사람들 중에 경쟁이 강합니다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	10	dislocated	_	_
+2	하고	하+고	VERB	VV+EC	_	4	acl	_	_
+3	싶은	싶	AUX	VX+ETM	_	2	aux	_	_
+4	일	일	NOUN	NNG	_	8	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	성공하고	성공+하+고	VERB	NNG+XSV+EC	_	8	acl	_	_
+7	싶은	싶	AUX	VX+ETM	_	6	aux	_	_
+8	목표나	목표+나	NOUN	NNG+JX	_	10	nsubj	_	_
+9	꿈이	꿈+이	NOUN	NNG+JKS	_	8	conj	_	_
+10	많고	많+고	ADJ	VA+EC	_	26	obl	_	_
+11	요즘은	요즘+은	ADV	NNG+JX	_	21	advmod	_	_
+12	특히	특히	ADV	MAG	_	21	advmod	_	_
+13	SNS를	SNS+를	NOUN	SL+JKO	_	16	obj	_	_
+14	엄청	엄청	ADV	MAG	_	15	advmod	_	_
+15	많이	많이	ADV	MAG	_	16	advmod	_	_
+16	사용하는	사용+하+는	VERB	NNG+XSV+ETM	_	17	acl	_	_
+17	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	21	nsubj	_	_
+18	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	19	amod	_	_
+19	모습이나	모습+이나	NOUN	NNG+JX	_	21	obj	_	_
+20	성공만	성공+만	NOUN	NNG+JX	_	19	conj	_	_
+21	보여주기	보+이+어+주+기	NOUN	VV+XSV+EC+VX+ETN	_	10	conj	_	_
+22	때문에	때문+에	ADV	NNB+JKB	_	21	case	_	_
+23	사람들	사람+들	NOUN	NNG+XSN	_	26	obl	_	_
+24	중에	중+에	ADV	NNB+JKB	_	23	case	_	_
+25	경쟁이	경쟁+이	NOUN	NNG+JKS	_	26	nsubj	_	_
+26	강합니다	강하+ㅂ니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-CZH_23_3_02
+# text = 그런 경쟁이 가끔 좋은 효과가 있는데도 나쁜 효과가 더 많다고 생각합니다.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	10	dislocated	_	_
+3	가끔	가끔	ADV	MAG	_	6	advmod	_	_
+4	좋은	좋+은	ADJ	VA+ETM	_	5	amod	_	_
+5	효과가	효과+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있는데도	있+는데+도	VERB	VV+EC+JX	_	11	advcl	_	_
+7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	효과가	효과+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	많다고	많+다고	ADJ	VA+EC	_	11	ccomp	_	_
+11	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_23_3_03
+# text = 그래서 나는 협동을 더 선호합니다.
+1	그래서	그래서	ADV	MAJ	_	5	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호합니다	선호+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_23_3_04
+# text = 사람들은 서러 도와주면 더 좋은 결과를 얻들 수 있고 사람의 기분도 좋습니다.
+1	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	2	nsubj	_	_
+2	서러	서러	ADV	NA	Typo=Yes	3	advmod	_	_
+3	도와주면	도와주+면	VERB	VV+EC	_	9	advcl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	결과를	결과+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	얻들	얻+들	VERB	VV+NA	Typo=Yes	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있고	있+고	VERB	VX+EC	_	0	root	_	_
+10	사람의	사람+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	기분도	기분+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	좋습니다	좋+습니다	ADJ	VA+EF	_	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_23_3_05
+# text = 경쟁이 강하면 우리 스트레스를 쉽게 받을 수 있는데 협동을 할때는 사람들이 더 편안하게 느낄 수 있다고 생각합니다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	강하면	강하+면	ADJ	VA+EC	_	8	advcl	_	_
+3	우리	우리	PRON	NP	_	6	nsubj	_	_
+4	스트레스를	스트레스+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	받을	받+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는데	있+는데	VERB	VX+EC	_	16	advcl	_	_
+9	협동을	협동+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	할때는	하+ㄹ+때+는	NOUN	VV+ETM+NNB+JX	_	16	advcl	_	_
+11	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	14	nsubj	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	편안하게	편안+하+게	ADV	NNG+XSA+EC	_	14	advmod	_	_
+14	느낄	느끼+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다고	있+다고	VERB	VX+EC	_	17	ccomp	_	_
+17	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

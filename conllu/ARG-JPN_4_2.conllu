@@ -1,0 +1,125 @@
+# sent_id = ARG-JPN_04_2_01
+# text =  나는 우리는 역사를 배워야 한다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+2	우리는	우리+는	PRON	NP+JX	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	한다고	하+ㄴ다고	AUX	VX+EC	_	4	aux	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_04_2_02
+# text =  그렇게 생각하는 이유는 2게 있다.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	3	acl	_	_
+3	이유는	이유+는	NOUN	NNG+JX	_	5	dislocated	_	_
+4	2게	2+게	NOUN	SN+NF	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_04_2_03
+# text =  우선, 역사에는 지금까지 생긴 문제가 많이 있어서 우리는 그 문제를 배울 수 있다.
+1	우선	우선	ADV	MAG	_	14	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사에는	역사+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+4	지금까지	지금+까지	ADV	NNG+JX	_	5	obl	_	_
+5	생긴	생기+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	문제가	문제+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	있어서	있+어서	VERB	VV+EC	_	14	advcl	_	_
+9	우리는	우리+는	PRON	NP+JX	_	12	nsubj	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	문제를	문제+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	배울	배우+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_04_2_04
+# text =  그 문제는 정지적 것이 많다.
+1	그	그	DET	MM	_	2	det	_	_
+2	문제는	문제+는	NOUN	NNG+JX	_	5	dislocated	_	_
+3	정지적	정지+적	VERB	NF+XSN	_	4	nmod	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_04_2_05
+# text =  한 번 보면서 우리한테 적정적히 관게가 없는다고 생각할 수 있다.
+1	한	한	NUM	MM	_	2	nummod	_	_
+2	번	번	NOUN	NNB	_	3	obj	_	_
+3	보면서	보+면서	VERB	VV+EC	_	10	advcl	_	_
+4	우리한테	우리+한테	ADV	NNG+JKB	_	7	obl	_	_
+5	적정적히	적정적히	ADV	NA	_	7	advmod	_	_
+6	관게가	관게+가	NOUN	NF+JKS	_	7	nsubj	_	_
+7	없는다고	없+는+다고	VERB	VA+NA+EC	_	8	ccomp	_	_
+8	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_04_2_06
+# text =  하지만 지금까지 어떤 문제나 생긴 것이 있었고 지금 우리 나라 그리고 세계가 있다는 것을 배울 수 있다.
+1	하지만	하지만	ADV	MAJ	_	17	cc	_	_
+2	지금까지	지금+까지	ADV	NNG+JX	_	7	obl	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	문제나	문제+나	ADV	NNG+JX	_	5	nsubj	_	_
+5	생긴	생기+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	있었고	있+었+고	VERB	VV+EP+EC	_	17	advcl	_	_
+8	지금	지금	ADV	MAG	_	13	advmod	_	_
+9	우리	우리	PRON	NP	_	10	nmod	_	_
+10	나라	나라	NOUN	NNG	_	13	nsubj	_	_
+11	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+12	세계가	세계+가	NOUN	NNG+JKS	_	10	conj	_	_
+13	있다는	있+다는	VERB	VV+ETM	_	14	acl	_	_
+14	것을	것+을	NOUN	NNB+JKO	_	15	obj	_	_
+15	배울	배우+ㄹ	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_04_2_07
+# text =  역사는 지금 세계를 알는 것에 필료한다.
+1	역사는	역사+는	NOUN	NNG+JX	_	6	nsubj	_	_
+2	지금	지금	ADV	NNG	_	3	nmod	_	_
+3	세계를	세계+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알는	알+는	VERB	NV+ETM	_	5	acl	_	_
+5	것에	것+에	ADV	NNB+JKB	_	6	obl	_	_
+6	필료한다	필료+하+ㄴ다	VERB	NF+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_04_2_08
+# text =  더 한게 이유는 로맨이다.
+1	더	더	ADV	MAG	_	4	advmod	_	_
+2	한게	한+게	VERB	MM+NF	_	3	nmod	_	_
+3	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+4	로맨이다	로맨+이+다	VERB	NF+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_04_2_09
+# text =  역사를 배우면서 엣날의 문화도 배울 수 있다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면서	배우+면서	VERB	VV+EC	_	7	advcl	_	_
+3	엣날의	엣날+의	NOUN	NF+JKG	_	4	nmod:poss	_	_
+4	문화도	문화+도	NOUN	NNG+JX	_	5	obj	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_04_2_10
+# text =  엣날 사람이 어떤 생활을 하고 어떤 문학이나 그림을 만들까를 알 수 있다.
+1	엣날	엣날	NOUN	NF	_	2	nmod	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+3	어떤	어떤	DET	MM	_	4	det	_	_
+4	생활을	생활+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	하고	하+고	VERB	VV+EC	_	10	ccomp	_	_
+6	어떤	어떤	DET	MM	_	7	det	_	_
+7	문학이나	문학+이나	NOUN	NNG+JC	_	9	obj	_	_
+8	그림을	그림+을	NOUN	NNG+JKO	_	7	conj	_	_
+9	만들까를	만들+까+를	VERB	VV+ETM	_	5	conj	_	_
+10	알	알+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

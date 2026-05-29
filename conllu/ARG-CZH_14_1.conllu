@@ -1,0 +1,180 @@
+# sent_id = ARG-CZH_14_1_01
+# text = 솔직히 말하면 저에게는 좀 어려운 주제다.
+1	솔직히	솔직히	ADV	MAG	_	2	cc	_	_
+2	말하면	말+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+3	저에게는	저+에게+는	PRON	NP+JKB+JX	_	6	obl	_	_
+4	좀	좀	ADV	MAG	_	5	advmod	_	_
+5	어려운	어렵+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	주제다	주제+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_14_1_02
+# text = 조기언어교육은 장점도 있고 단점도 있다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	dislocated	_	_
+2	장점도	장점+도	NOUN	NNG+JX	_	3	nsubj	_	_
+3	있고	있+고	VERB	VV+EC	_	0	root	_	_
+4	단점도	단점+도	NOUN	NNG+JX	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_14_1_03
+# text = 첫번째 장점에 대해서 이야기하고자 한다.
+1	첫번째	첫+번째	NOUN	MM+NNB	_	2	nmod	_	_
+2	장점에	장점+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+4	이야기하고자	이야기+하+고자	VERB	NNG+XSV+EC	_	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_14_1_04
+# text = 아기가 어렸을 때는 교육을 받으면 더 많이 배울 수 있는 것 같아요.
+1	아기가	아기+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	12	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	교육을	교육+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	받으면	받+으면	VERB	VV+EC	_	8	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	많이	많이	ADV	MAG	_	8	advmod	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	것	것	NOUN	NNB	_	12	nsubj	_	_
+12	같아요	같+아요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_14_1_05
+# text = 작은 아이들이 게임으로 언어를 배울 수 있다.
+1	작은	작+은	ADJ	VA+ETM	_	2	amod	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	게임으로	게임+으로	ADV	NNG+JKB	_	5	obl	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배울	배우+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_14_1_06
+# text = 재미있어서 좋은 것 같다.
+1	재미있어서	재미+있+어서	ADJ	NNG+VA+EC	_	4	advcl	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	acl	_	_
+3	것	것	NOUN	NNB	_	4	nsubj	_	_
+4	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_14_1_07
+# text = 아이는 게임을 할 때 쉽게 공부할 수 있다.
+1	아이는	아이+는	NOUN	NNG+JX	_	6	nsubj	_	_
+2	게임을	게임+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+4	때	때	ADV	NNG	_	3	mark	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_14_1_08
+# text = 그리고 초등학교에 대닐 때는 이미 조금만 안다.
+1	그리고	그리고	ADV	MAJ	_	7	cc	_	_
+2	초등학교에	초등학교+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대닐	대니+ㄹ	VERB	NV+ETM	Typo=Yes	7	advcl	_	_
+4	때는	때+는	ADV	NNG+JX	_	3	mark	_	_
+5	이미	이미	ADV	MAG	_	7	advmod	_	_
+6	조금만	조금+만	NOUN	NNG+JX	_	7	obj	_	_
+7	안다	알+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_14_1_09
+# text = 단점도 있다.
+1	단점도	단점+도	NOUN	NNG+JX	_	2	nsubj	_	_
+2	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-CZH_14_1_10
+# text = 제 생각에는 처음에 아이가 (체코의 경우에는) 체코어를 배워야 돼고 그 다음에 다른 언어를 배워야겠다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	14	obl	_	_
+3	처음에	처음+에	ADV	NNG+JKB	_	8	obl	_	_
+4	아이가	아이+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+5	(체코의	(+체코+의	NOUN	SS+NNP+JKG	_	6	nmod:poss	_	_
+6	경우에는)	경우+에+는+)	ADV	NNG+JKB+JX+SS	_	8	obl	_	_
+7	체코어를	체코어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	배워야	배우+어야	VERB	VV+EC	_	14	advcl	_	_
+9	돼고	되+어+고	VERB	VX+NA+EC	Typo=Yes	8	advcl	_	_
+10	그	그	DET	MM	_	11	det	_	_
+11	다음에	다음+에	ADV	NNG+JKB	_	14	obl	_	_
+12	다른	다르+ㄴ	ADJ	VA+ETM	_	13	amod	_	_
+13	언어를	언어+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	배워야겠다	배우+어야+겠+다	VERB	VV+EC+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_14_1_11
+# text = 체코에서는 유치원에 다니는 아이들이 영어를 배운다.
+1	체코에서는	체코+에서+는	ADV	NNP+JKB+JX	_	6	obl	_	_
+2	유치원에	유치원+에	ADV	NNG+JKB	_	3	obl	_	_
+3	다니는	다니+는	VERB	VV+ETM	_	4	acl	_	_
+4	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	6	nsubj	_	_
+5	영어를	영어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	배운다	배우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_14_1_12
+# text = 그런데 많은 아이가 체코어를 잘 할 수 없어서 영어를 어떻게 잘 할 수 있나요.
+1	그런데	그런데	ADV	MAJ	_	14	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	아이가	아이+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	체코어를	체코어+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	없어서	없+어서	ADJ	VA+EC	_	14	advcl	_	_
+9	영어를	영어+를	NOUN	NNP+JKO	_	12	obj	_	_
+10	어떻게	어떻+게	ADV	VA+EC	_	12	advmod	_	_
+11	잘	잘	ADV	MAG	_	12	advmod	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있나요	있+나요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_14_1_13
+# text = 결국에는 아무 언어를 잘 할 수 없다고 생각한다.
+1	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+2	아무	아무	DET	MM	_	3	det	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	없다고	없+다고	VERB	VX+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_14_1_14
+# text = 결국에는 고등학생보다 작은 아이들이 게임으로 재미있게 공부할 수 있어서 좋은데 처음에는 체코어를 배워야 한다.
+1	결국에는	결국+에+는	ADV	NNG+JKB+JX	_	13	obl	_	_
+2	고등학생보다	고등+학생+보다	ADV	NNG+NNG+JKB	_	3	obl	_	_
+3	작은	작+은	ADJ	VA+ETM	_	4	acl	_	_
+4	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	게임으로	게임+으로	ADV	NNG+JKB	_	7	obl	_	_
+6	재미있게	재미+있+게	ADV	NNG+VA+EC	_	7	advmod	_	_
+7	공부할	공부+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어서	있+어서	VERB	VX+EC	_	10	advcl	_	_
+10	좋은데	좋+은데	ADJ	VA+EC	_	13	advcl	_	_
+11	처음에는	처음+에+는	ADV	NNG+JKB+JX	_	13	obl	_	_
+12	체코어를	체코어+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+14	한다	하	AUX	VX+EF	_	13	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_14_1_15
+# text = 체코어를 잘 안다면 외국어를 (영어) 배우기를 시작할 수 있다.
+1	체코어를	체코어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	안다면	알+ㄴ다면	VERB	VV+EC	_	9	advcl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	(영어)	(+영어+)	NOUN	SS+NNG+SS	_	4	appos	_	_
+6	배우기를	배우+기+를	VERB	VV+ETN+JKO	_	7	obj	_	_
+7	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

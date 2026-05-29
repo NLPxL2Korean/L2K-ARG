@@ -1,0 +1,135 @@
+# sent_id = ARG-JPN_28_2_01
+# text =  저는 역사를 공부한 것이 좋다고 생각해요.
+1	저는	저+는	PRON	NP+JX	_	6	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	공부한	공부+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	좋다고	좋+다고	VERB	VA+EC	_	6	ccomp	_	_
+6	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_28_2_02
+# text =  그 이유는 세 개 있어요.
+1	그	그	DET	MM	_	5	obl	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	5	dislocated	_	_
+3	세	세	NUM	MM	_	4	nummod	_	_
+4	개	개	NOUN	NNB	_	5	nsubj	_	_
+5	있어요	있+어요	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_28_2_03
+# text =  하나는, 역사를 공부하면 옛날 나쁜 것을 알을수있어요.
+1	하나는	하나+는	NUM	NR+JX	_	8	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	8	advcl	_	_
+5	옛날	옛날	NOUN	NNG	_	7	nmod	_	_
+6	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	알을수있어요	알으+ㄹ+수+있+어요	VERB	NV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_28_2_04
+# text =  그 일을 알으면 같은 나쁜 것을 안 해러 조심해서 미래를 만 들 수 있어요.두 쪽에는, 세 게를 잘 알을 수 있어요.
+1	그	그	DET	MM	_	2	det	_	_
+2	일을	일+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	알으면	알으+면	VERB	NV+EC	_	9	advcl	_	_
+4	같은	같+은	VERB	VA+ETM	_	6	amod	_	_
+5	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+7	안	안	ADV	MAG	_	8	advmod	_	_
+8	해러	해+러	VERB	NV+EC	_	9	advcl	_	_
+9	조심해서	조심+하+아서	VERB	NNG+XSV+EC	_	14	advcl	_	_
+10	미래를	미래+를	NOUN	NNG+JKO	_	12	obj	_	_
+11	만	만	VERB	VV	_	13	acl	_	_
+12	들	들+ㄹ	VERB	VV+ETM	_	11	goeswith	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있어요	있+어요	VERB	VX+EC	_	23	parataxis	_	_
+15	.두	.+두	NOUN	SF+MM	_	16	nummod	_	_
+16	쪽에는	쪽+에+는	ADP	NNB+JKB+JX	_	21	obl	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	세	세	NUM	MM	_	19	nummod	_	_
+19	게를	게+를	NOUN	NF+JKO	_	21	obj	_	_
+20	잘	잘	ADV	MAG	_	21	advmod	_	_
+21	알을	알으+ㄹ	VERB	NV+ETM	_	22	acl	_	_
+22	수	수	NOUN	NNB	_	23	nsubj	_	_
+23	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_28_2_05
+# text =  옛날의 일 때문에 사이가 좋은 나라들도 나쁜 나라들도 있어요.
+1	옛날의	옛날+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	일	일	NOUN	NNG	_	5	obl	_	_
+3	때문에	때문+에	ADP	NNB+JKB	_	2	case	_	_
+4	사이가	사이+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	좋은	좋+은	VERB	VA+ETM	_	6	acl	_	_
+6	나라들도	나라+들+도	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	나라들도	나라+들+도	NOUN	NNG+XSN+JX	_	6	conj	_	_
+9	있어요	있+어요	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_28_2_06
+# text =  역사를 배우면, 왜 그 사이에 되는지 알을 수 있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	왜	왜	ADV	MAG	_	7	advmod	_	_
+5	그	그	DET	MM	_	6	det	_	_
+6	사이에	사이+에	ADV	NNG+JKB	_	7	obl	_	_
+7	되는지	되+는지	VERB	VV+EC	_	8	ccomp	_	_
+8	알을	알으+ㄹ	VERB	NV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_28_2_07
+# text =  그 이유를 이해할 수 있으면 더 좋은 사이를 만들는 반법을 생각할 수 있어요.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유를	이유+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있으면	있+으면	VERB	VX+EC	_	13	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	10	amod	_	_
+8	사이를	사이+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	만들는	만들+는	VERB	NV+ETM	_	10	acl	_	_
+10	반법을	반법+을	NOUN	NF+JKO	_	11	obj	_	_
+11	생각할	생각+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-JPN_28_2_08
+# text =  마지막에는, 역사를 배우면, 좋은 일을 한 사람을 알을 수 있어요.
+1	마지막에는	마지막+에+는	ADV	NNG+JKB+JX	_	12	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우면	배우+면	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	좋은	좋+은	ADJ	VA+ETM	_	7	amod	_	_
+7	일을	일+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	한	하+ㄴ	NUM	VV+ETM	_	9	acl	_	_
+9	사람을	사람+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	알을	알으+ㄹ	VERB	NV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_28_2_09
+# text =  그 좋은 일들을 제 인사에 사용할 수 있어요 일엏게, 역사를 공부한 것이 좋다고 생각해요
+1	그	그	DET	MM	_	3	det	_	_
+2	좋은	좋+은	ADJ	VA+ETM	_	3	amod	_	_
+3	일들을	일+들+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+4	제	저+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	인사에	인사+에	ADV	NF+JKB	_	6	obl	_	_
+6	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어요	있+어요	VERB	VX+EC	_	14	parataxis	_	_
+9	일엏게	일엏+게	ADV	NV+EC	_	12	advmod	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	8	punct	_	_
+11	역사를	역사+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	공부한	공부+하+ㄴ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	것이	것+이	NOUN	NNB+JKS	_	14	nsubj	_	_
+14	좋다고	좋+다고	VERB	VA+EC	_	15	ccomp	_	_
+15	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	_

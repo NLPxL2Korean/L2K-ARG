@@ -1,0 +1,76 @@
+# sent_id = ARG-CHN_3_2_01
+# text = 나는 협동은 성공에 더 큰 영향을 미친다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	성공에	성공+에	ADV	NNG+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	미친다고	미치+ㄴ다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_3_2_02
+# text = 왜냐하면 협동은 여러분의 장점은 다 합쳐서 하는 것이라서 큰력이 있어서 이길 것이기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	13	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	8	nsubj	_	_
+3	여러분의	여러분+의	PRON	NP+JKG	_	8	nmod:poss	_	_
+4	장점은	장점+은	NOUN	NNG+JX	_	6	obj	_	_
+5	다	다	ADV	MAG	_	6	discourse	_	_
+6	합쳐서	합치+어서	VERB	VV+EC	_	7	advcl	_	_
+7	하는	하	AUX	VX+ETM	_	8	acl	_	_
+8	것이라서	것+이+라서	ADJ	NNB+VCP+EC	_	10	advcl	_	_
+9	큰력이	크+ㄴ+력+이	NOUN	VA+ETM+XSN+JKS	_	10	nsubj	_	_
+10	있어서	있+어서	VERB	VV+EC	_	11	advcl	_	_
+11	이길	이기+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	것이기	것+이+기	NOUN	NNB+VCP+ETN	_	13	nmod	_	_
+13	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_3_2_03
+# text = 경기에서 여러분 다 자기 이익만 생각하고 하면 성공에게 좋은 점은 아무것도 줄수 없다.
+1	경기에서	경기+에서	ADV	NNG+JKB	_	6	obl	_	_
+2	여러분	여러분	PRON	NP	_	6	nsubj	_	_
+3	다	다	ADV	MAG	_	6	advmod	_	_
+4	자기	자기	NOUN	NNG	_	5	nmod	_	_
+5	이익만	이익+만	NOUN	NNG+JX	_	6	obj	_	_
+6	생각하고	생각+하+고	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	하면	하	AUX	VX+EC	_	13	advcl	_	_
+8	성공에게	성공+에게	ADV	NNG+JKB	_	12	obl	_	_
+9	좋은	좋+은	ADJ	VA+ETM	_	10	acl	_	_
+10	점은	점+은	NOUN	NNB+JX	_	12	obl	_	_
+11	아무것도	아무+것+도	NOUN	MM+NNB+JX	_	12	obj	_	_
+12	줄수	주+ㄹ+수	NOUN	VV+ETM+NNB	_	13	nsubj	_	_
+13	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_3_2_04
+# text = 반면에 경기에서 팀원들의 마음은 다 합쳐서 상대방만 공격하면 아무리 어려워더라도 경기에서 이길 것이라고 생각한다.
+1	반면에	반면+에	ADV	NNG+JKB	_	14	obl	_	_
+2	경기에서	경기+에서	ADV	NNG+JKB	_	6	obl	_	_
+3	팀원들의	팀원+들+의	NOUN	NNG+XSN+JKG	_	4	nmod:poss	_	_
+4	마음은	마음+은	NOUN	NNG+JX	_	6	obj	_	_
+5	다	다	ADV	MAG	_	6	advmod	_	_
+6	합쳐서	합치+어서	VERB	VV+EC	_	8	advcl	_	_
+7	상대방만	상대방+만	NOUN	NNG+JX	_	8	obj	_	_
+8	공격하면	공격+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+9	아무리	아무리	ADV	MAG	_	10	advmod	_	_
+10	어려워더라도	어렵+어+더라도	ADJ	VA+EC+EC	_	13	advcl	_	_
+11	경기에서	경기+에서	ADV	NNG+JKB	_	12	obl	_	_
+12	이길	이기+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_3_2_05
+# text = 따라서 나는 협동은 성공에 더 큰 영향을 미친다고 생각한다.
+1	따라서	따라서	ADV	MAJ	_	9	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	9	nsubj	_	_
+3	협동은	협동+은	NOUN	NNG+JX	_	8	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미친다고	미치+ㄴ다고	VERB	VV+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

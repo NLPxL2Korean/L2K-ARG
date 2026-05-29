@@ -1,0 +1,95 @@
+# sent_id = ARG-CHN_35_2_01
+# text = 저는 경쟁은 성공에 더 큰 영향을 미친다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	성공에	성공+에	ADV	NNG+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	미친다고	미치+ㄴ다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_35_2_02
+# text = 왜냐하면 다른 사람들과 경쟁해야 자신의 부족한 것은 잘 알 수 있다고 생각하기 때문입니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	13	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	4	obl	_	_
+4	경쟁해야	경쟁+하+아야	VERB	NNG+XSV+EC	_	11	advcl	_	_
+5	자신의	자신+의	NOUN	NNG+JKG	_	7	nsubj	_	_
+6	부족한	부족+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	것은	것+은	NOUN	NNB+JX	_	9	obj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	알	알+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각하기	생각+하+기	VERB	NNG+XSV+ETN	_	13	nmod	_	_
+13	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_35_2_03
+# text = 또한 경쟁하면서 사람들은 더 금정적이고 더 좋은 사람이 될 수 있다고 생각합니다.
+1	또한	또한	ADV	MAJ	_	12	cc	_	_
+2	경쟁하면서	경쟁+하+면서	VERB	NNG+XSV+EC	_	11	advcl	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	dislocated	_	_
+4	더	더	ADV	MAG	_	5	discourse	_	_
+5	금정적이고	금정+적+이+고	ADJ	NF+XSN+VCP+EC	Typo=Yes	8	amod	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	5	conj	_	_
+8	사람이	사람+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	될	되+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_35_2_04
+# text = 그리고 경쟁은 양명성이 있다고 생각합니다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	경쟁은	경쟁+은	NOUN	NNG+JX	_	4	dislocated	_	_
+3	양명성이	양명+성+이	NOUN	NF+XSN+JKS	Typo=Yes	4	nsubj	_	_
+4	있다고	있+다고	VERB	VV+EC	_	5	ccomp	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_35_2_05
+# text = 하나는 앞부분에 말하는 것이고 하나는 부정적인 것입니다.
+1	하나는	하나+는	NUM	NR+JX	_	4	nsubj	_	_
+2	앞부분에	앞+부분+에	ADV	NNG+NNG+JKB	_	3	obl	_	_
+3	말하는	말+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이고	것+이+고	ADJ	NNB+VCP+EC	_	7	advcl	_	_
+5	하나는	하나+는	NUM	NR+JX	_	7	nsubj	_	_
+6	부정적인	부정+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	amod	_	_
+7	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_35_2_06
+# text = 어떤 사람들은 자기가 성공하기 위해서 남에게 나쁜 짓을 할 수도 있습니다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	9	nsubj	_	_
+3	자기가	자기+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	성공하기	성공+하+기	VERB	NNG+XSV+ETN	_	5	obj	_	_
+5	위해서	위하+아서	VERB	VV+EC	_	9	advcl	_	_
+6	남에게	남+에게	ADV	NNG+JKB	_	9	obl	_	_
+7	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	짓을	짓+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	할	하+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수도	수+도	NOUN	NNB+JX	_	11	nsubj	_	_
+11	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_35_2_07
+# text = 제 생각은 남에게 상하지 않게 자신 능력으로 경쟁하는 것은 진짜 성공하는 것입니다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각은	생각+은	NOUN	NNG+JX	_	12	obl	_	_
+3	남에게	남+에게	ADV	NNG+JKB	_	4	obl	_	_
+4	상하지	상하+지	VERB	VV+EC	_	8	advcl	_	_
+5	않게	않	AUX	VX+EC	_	4	aux	_	_
+6	자신	자신	NOUN	NNG	_	7	nmod	_	_
+7	능력으로	능력+으로	ADV	NNG+JKB	_	8	obl	_	_
+8	경쟁하는	경쟁+하+는	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	것은	것+은	NOUN	NNB+JX	_	12	nsubj	_	_
+10	진짜	진짜	ADV	MAG	_	11	advmod	_	_
+11	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_

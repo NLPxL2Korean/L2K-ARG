@@ -1,0 +1,154 @@
+# sent_id = ARG-JPN_13_3_01
+# text =  이번 주제는 협동과 경쟁 중 무엇을 더 선호하는지에 대해이다.
+1	이번	이번	NOUN	NNG	_	2	nmod	_	_
+2	주제는	주제+는	NOUN	NNG+JX	_	9	nsubj	_	_
+3	협동과	협동+과	NOUN	NNG+JC	_	8	obl	_	_
+4	경쟁	경쟁	NOUN	NNG	_	3	conj	_	_
+5	중	중	ADP	NNB	_	4	case	_	_
+6	무엇을	무엇+을	NOUN	NP+JKO	_	8	obj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	선호하는지에	선호+하+는지+에	ADV	NNG+XSV+ETN+JKB	_	9	obl	_	_
+9	대해이다	대하+아+이+다	VERB	VV+EC+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_13_3_02
+# text =  결과적으로는 나는 협동을 더 선호하는 것 같다고 생각한다.
+1	결과적으로는	결과+적+으로+는	ADV	NNG+XSN+JKB+JX	_	8	obl	_	_
+2	나는	나+는	PRON	NP+JX	_	8	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같다고	같+다고	VERB	VA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_13_3_03
+# text =  왜냐하면 협동을 함으로써 여러 아이디어를 얻을 수 있고 여러 기술을 쓸 수 있다고 생각하기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	15	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	함으로써	하+ㅁ+으로써	ADV	VV+ETN+JKB	_	8	advcl	_	_
+4	여러	여러	DET	MM	_	5	det	_	_
+5	아이디어를	아이디어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	얻을	얻+을	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있+고	VERB	VX+EC	_	13	advcl	_	_
+9	여러	여러	DET	MM	_	10	det	_	_
+10	기술을	기술+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	쓸	쓰+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	15	nmod	_	_
+15	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_13_3_04
+# text =  예를 들면 팀풀을 했을 때 혼자서 하는 것보다 다른 친구들과 하면 더 빨리 좋은 것을 만들어낼 수 있다고 생각한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	19	advcl	_	_
+3	팀풀을	팀풀+을	NOUN	NF+JKO	_	4	obj	_	_
+4	했을	하+았+을	VERB	VV+EP+ETM	_	18	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	혼자서	혼자+서	ADV	NNG+JKS	_	7	nsubj	_	_
+7	하는	하+는	VERB	VV+ETM	_	8	acl	_	_
+8	것보다	것+보다	ADV	NNB+JKB	_	16	obl	_	_
+9	다른	다른	ADJ	MM	_	10	amod	_	_
+10	친구들과	친구+들+과	ADV	NNG+XSN+JKB	_	11	obl	_	_
+11	하면	하+면	VERB	VV+EC	_	16	advcl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	빨리	빨리	ADV	MAG	_	16	advmod	_	_
+14	좋은	좋+은	VERB	VA+ETM	_	15	amod	_	_
+15	것을	것+을	NOUN	NNB+JKO	_	16	obj	_	_
+16	만들어낼	만들+어+내+ㄹ	VERB	VV+EC+VX+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다고	있+다고	VERB	VX+EC	_	19	ccomp	_	_
+19	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_13_3_05
+# text =  다른 예를 들면 시험공부를 했을 때 물론 혼자서 하고 다른 사람에 지지 않는다는 경쟁심으로 공부를 하는 것도 좋지만, 나는 오히려 그것이 정신적으로 힘들고 스트레스 원인이 될 수도 있다고 생각한다.
+1	다른	다른	ADJ	MM	_	2	amod	_	_
+2	예를	예+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	들면	들+면	VERB	VV+EC	_	30	advcl	_	_
+4	시험공부를	시험+공부+를	NOUN	NNG+NNG+JKO	_	5	obj	_	_
+5	했을	하+았+을	VERB	VV+EP+ETM	_	16	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	물론	물론	ADV	MAG	_	18	advmod	_	_
+8	혼자서	혼자+서	ADV	NNG+JKS	_	9	nsubj	_	_
+9	하고	하+고	VERB	VV+EC	_	16	advcl	_	_
+10	다른	다른	ADJ	MM	_	11	amod	_	_
+11	사람에	사람+에	ADV	NNG+JKB	_	12	obl	_	_
+12	지지	지+지	VERB	VV+EC	_	14	acl	_	_
+13	않는다는	않+는다는	AUX	VX+ETM	_	12	aux	_	_
+14	경쟁심으로	경쟁심+으로	ADV	NNG+JKB	_	16	obl	_	_
+15	공부를	공부+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	하는	하+는	VERB	VV+ETM	_	17	acl	_	_
+17	것도	것+도	NOUN	NNB+JX	_	18	nsubj	_	_
+18	좋지만	좋+지만	VERB	VA+EC	_	29	advcl	_	SpaceAfter=No
+19	,	,	PUNCT	SP	_	18	punct	_	_
+20	나는	나+는	PRON	NP+JX	_	30	nsubj	_	_
+21	오히려	오히려	ADV	MAG	_	29	advmod	_	_
+22	그것이	그것+이	PRON	NP+JKS	_	27	nsubj	_	_
+23	정신적으로	정신+적+으로	ADV	NNG+XSN+JKB	_	24	obl	_	_
+24	힘들고	힘들+고	VERB	VA+EC	_	27	advcl	_	_
+25	스트레스	스트레스	NOUN	NNG	_	26	nmod	_	_
+26	원인이	원인+이	NOUN	NNG+JKC	_	27	nsubj	_	_
+27	될	되+ㄹ	VERB	VV+ETM	_	28	acl	_	_
+28	수도	수+도	NOUN	NNB+JX	_	29	nsubj	_	_
+29	있다고	있+다고	VERB	VX+EC	_	30	ccomp	_	_
+30	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+31	.	.	PUNCT	SF	_	30	punct	_	_
+
+# sent_id = ARG-JPN_13_3_06
+# text =  그래서 친구들과 협동을 하면서 어려운 문제를 가르쳐주면 가르친 사람도 공부가 되고 서로 좋은 영향이 있다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	16	cc	_	_
+2	친구들과	친구+들+과	NOUN	NNG+XSN+JC	_	4	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	2	conj	_	_
+4	하면서	하+면서	VERB	VV+EC	_	7	advcl	_	_
+5	어려운	어렵+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	문제를	문제+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	가르쳐주면	가르치+어+주+면	VERB	VV+EC+VX+EC	_	15	advcl	_	_
+8	가르친	가르치+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	사람도	사람+도	NOUN	NNG+JX	_	11	dislocated	_	_
+10	공부가	공부+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	되고	되+고	VERB	VV+EC	_	15	advcl	_	_
+12	서로	서로	ADV	MAG	_	15	advmod	_	_
+13	좋은	좋+은	ADJ	VA+ETM	_	14	amod	_	_
+14	영향이	영향+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+15	있다고	있+다고	VERB	VV+EC	_	16	ccomp	_	_
+16	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_13_3_07
+# text =  또한 협동을 하는데에 러더십이나 친구를 생각해주는 그런 힘도 얻을 수 있다고 생각한다.
+1	또한	또한	ADV	MAJ	_	12	cc	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	하는데에	하+는+데+에	ADV	VV+ETM+NNB+JKB	_	11	obl	_	_
+4	러더십이나	러더십+이나	NOUN	NNG+JC	_	9	obj	_	_
+5	친구를	친구+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	생각해주는	생각+하+아+주+는	VERB	NNG+XSV+EC+JX+ETM	_	8	acl	_	_
+7	그런	그런	DET	MM	_	8	det	_	_
+8	힘도	힘+도	NOUN	NNG+JX	_	4	conj	_	_
+9	얻을	얻+을	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	12	ccomp	_	_
+12	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_13_3_08
+# text =  이처럼 나는 협동과 경쟁 중 선택하려면 협동이 더 본인의 힘이 될 수 있다고 생각한다.
+1	이처럼	이+처럼	ADV	NP+JKB	_	14	obl	_	_
+2	나는	나+는	PRON	NP+JX	_	14	nsubj	_	_
+3	협동과	협동+과	NOUN	NF+JC	_	6	obl	_	_
+4	경쟁	경쟁	NOUN	NNG	_	3	conj	_	_
+5	중	중	ADP	NNB	_	4	case	_	_
+6	선택하려면	선택+하+려면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+7	협동이	협동+이	NOUN	NF+JKS	_	11	nsubj	_	_
+8	더	더	ADV	MAG	_	11	advmod	_	_
+9	본인의	본인+의	NOUN	NNG+JKG	_	10	nmod	_	_
+10	힘이	힘+이	NOUN	NNG+JKC	_	11	nsubj	_	_
+11	될	되+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_

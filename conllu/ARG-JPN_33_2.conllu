@@ -1,0 +1,111 @@
+# sent_id = ARG-JPN_33_2_01
+# text =  저는 역사를 배워야 한다고 생각합니다.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	ccomp	_	_
+4	한다고	하+ㄴ다고	AUX	VX+EC	_	3	aux	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_33_2_02
+# text =  그렇게 생각하는 이유는 2개 있습니다.
+1	그렇게	그렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	생각하는	생각+하+는	VERB	NNG+XSV+ETM	_	5	advcl	_	_
+3	이유는	이유+는	NOUN	NNG+JX	_	5	dislocated	_	_
+4	2개	2+개	NOUN	SN+NNB	_	5	nsubj	_	_
+5	있습니다	있+습니다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_33_2_03
+# text =  1번째는 자신의 나라가 과거에 뭐가 있었는지 알아야 하기 때문입니다.
+1	1번째는	1+번째+는	NOUN	SN+NNB+JX	_	9	obl	_	_
+2	자신의	자신+의	PRON	NNG+JKG	_	3	nmod:poss	_	_
+3	나라가	나라+가	NOUN	NNG+JKS	_	6	dislocated	_	_
+4	과거에	과거+에	ADV	NNG+JKB	_	6	obl	_	_
+5	뭐가	뭐+가	NOUN	NP+JKS	_	6	nsubj	_	_
+6	있었는지	있+었+는지	VERB	VV+EP+EC	_	7	ccomp	_	_
+7	알아야	알+아야	VERB	VV+EC	_	9	nmod	_	_
+8	하기	하+기	AUX	VX+ETN	_	7	aux	_	_
+9	때문입니다	때문+이+ㅂ니다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_33_2_04
+# text =  자신 나라에 대해 모르면 왜 오늘이 공휴일인지 왜 여기는 평화 공원인지 모르는 것 같습니다.
+1	자신	자신	NOUN	NNG	_	2	nmod	_	_
+2	나라에	나라+에	ADV	NNG+JKB	_	3	obl	_	_
+3	대해	대하+아	VERB	VV+EC	_	4	advcl	_	_
+4	모르면	모르+면	VERB	VV+EC	_	14	advcl	_	_
+5	왜	왜	ADV	MAG	_	7	advmod	_	_
+6	오늘이	오늘+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	공휴일인지	공휴일+이+ㄴ지	VERB	NNG+VCP+EC	_	12	ccomp	_	_
+8	왜	왜	ADV	MAG	_	11	advmod	_	_
+9	여기는	여기+는	VERB	NNG+JX	_	11	nsubj	_	_
+10	평화	평화	NOUN	NNG	_	11	nmod	_	_
+11	공원인지	공원+이+ㄴ지	VERB	NNG+VCP+EC	_	12	ccomp	_	_
+12	모르는	모르+는	VERB	VV+ETM	_	13	acl	_	_
+13	것	것	NOUN	NNB	_	14	nsubj	_	_
+14	같습니다	같+습니다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_33_2_05
+# text =  2번째는 자신이 이나라에 태어난 의상 최제한 자랑스러운 마음을 가져야 한다고 생각하기 때문이다.
+1	2번째는	2+번째+는	NOUN	SN+NNB+JX	_	12	obl	_	_
+2	자신이	자신+이	PRON	NNG+JKS	_	4	nsubj	_	_
+3	이나라에	이+나라+에	ADV	MM+NNG+JKB	_	6	obl	_	_
+4	태어난	태어나+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	의상	의상	NOUN	NF	_	9	obl	_	_
+6	최제한	최제한	VERB	NA	_	7	advmod	_	_
+7	자랑스러운	자랑+스럽+ㄴ	ADJ	NNG+XSA+ETM	_	8	amod	_	_
+8	마음을	마음+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	가져야	가지+어야	VERB	VV+EC	_	11	ccomp	_	_
+10	한다고	하+ㄴ다고	AUX	VX+EC	_	9	aux	_	_
+11	생각하기	생각+하+기	NOUN	NNG+XSV+ETN	_	12	nmod	_	_
+12	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_33_2_06
+# text =  자신의 나라 역사를 알아보면,나쁜 역사도 있고 좋은 역사도 있고,모든 역사에 자랑스러운 마음을 가지는 것은 어렵기는 합니다.
+1	자신의	자신+의	PRON	NNG+JKG	_	2	nmod:poss	_	_
+2	나라	나라	NOUN	NNG	_	3	nmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	알아보면,나쁜	알+아+보+면+,+나쁘+ㄴ	VERB	VV+EC+VX+EC+SP+VA+ETM	_	15	advcl	_	_
+5	역사도	역사+도	NOUN	NNG+JX	_	6	nsubj	_	_
+6	있고	있+고	VERB	VV+EC	_	15	advcl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	amod	_	_
+8	역사도	역사+도	NOUN	NNG+JX	_	9	nsubj	_	_
+9	있고,모든	있+고+,+모든	VERB	VV+EC+SP+MM	_	6	conj	_	_
+10	역사에	역사+에	ADV	NNG+JKB	_	13	obl	_	_
+11	자랑스러운	자랑+스럽+ㄴ	ADJ	NNG+XSA+ETM	_	12	amod	_	_
+12	마음을	마음+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	가지는	가지+는	VERB	VV+ETM	_	14	acl	_	_
+14	것은	것+은	NOUN	NNB+JX	_	15	nsubj	_	_
+15	어렵기는	어렵+기+는	NOUN	VV+ETN+JX	_	0	root	_	_
+16	합니다	하+ㅂ니다	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_33_2_07
+# text =  그래도,모두가 나쁜 역사가 아니니까 좋은 역사도 보고 그 점에는 자랑스러운 마음을 가져야 합니다.
+1	그래도,모두가	그래도+,+모두+가	NOUN	MAJ+SP+NNG+JKS	_	4	dislocated	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	아니니까	아니+니까	VERB	VCN+EC	_	12	advcl	_	_
+5	좋은	좋+은	ADJ	VA+ETM	_	6	amod	_	_
+6	역사도	역사+도	NOUN	NNG+JX	_	7	obj	_	_
+7	보고	보+고	VERB	VV+EC	_	12	advcl	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	점에는	점+에+는	ADP	NNB+JKB+JX	_	12	obl	_	_
+10	자랑스러운	자랑+스럽+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	마음을	마음+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	가져야	가지+어야	VERB	VV+EC	_	0	root	_	_
+13	합니다	하+ㅂ니다	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_33_2_08
+# text =  그래서 저는 역사를 배워야 한다고 생각합니다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	4	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	6	ccomp	_	_
+5	한다고	하+ㄴ다고	AUX	VX+EC	_	4	aux	_	_
+6	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

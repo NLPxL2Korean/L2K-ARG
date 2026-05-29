@@ -1,0 +1,227 @@
+# sent_id = ARG-CZH_35_3_01
+# text = 나는 협도를 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	협도를	협도+를	NOUN	NF+JKO	Typo=Yes	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_35_3_02
+# text = 왜냐하면 저는 좋은 사람들과 같이 일을 할 수 있으면 편하기 때문입니다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	10	nsubj	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	7	obl	_	_
+5	같이	같이	ADV	MAG	_	7	advmod	_	_
+6	일을	일+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있으면	있+으면	VERB	VX+EC	_	10	advcl	_	_
+10	편하기	편하+기	ADJ	VA+ETN	_	11	nmod	_	_
+11	때문입니다	때문+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_35_3_03
+# text = 사람마다 다른 생각이 있어서 함께 일하면 재미있는 것을 만들 수 있다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	4	obl	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	생각이	생각+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있어서	있+어서	VERB	VV+EC	_	11	advcl	_	_
+5	함께	함께	ADV	MAG	_	4	advmod	_	_
+6	일하면	일+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+7	재미있는	재미+있+는	ADJ	NNG+VA+ETM	_	8	amod	_	_
+8	것을	것+을	NOUN	NNB+JKO	_	9	obj	_	_
+9	만들	만들+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_35_3_04
+# text = 나는 좀 불안한 편이라서 친구랑 같이 무엇을 할 수 있으면 더 쉽게 할 수 있다.
+1	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+2	좀	좀	ADV	MAG	_	3	advmod	_	_
+3	불안한	불안+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	편이라서	편+이+라서	ADJ	NNG+VCP+EC	_	10	advcl	_	_
+5	친구랑	친구+랑	ADV	NNG+JKB	_	8	obl	_	_
+6	같이	같이	ADV	MAG	_	8	advmod	_	_
+7	무엇을	무엇+을	PRON	NP+JKO	_	8	obj	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있으면	있+으면	VERB	VX+EC	_	15	advcl	_	_
+11	더	더	ADV	MAG	_	12	advmod	_	_
+12	쉽게	쉽+게	ADV	VA+EC	_	13	advmod	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CZH_35_3_05
+# text = 그래서 나는 경쟁을 좋아하지 않다.
+1	그래서	그래서	ADV	MAJ	_	4	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	4	nsubj	_	_
+3	경쟁을	경쟁+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	좋아하지	좋아하+지	VERB	VV+EC	_	0	root	_	_
+5	않다	않	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_35_3_06
+# text = 경쟁을 좋아한는 사람들은 보통 이기고 싶어한다.
+1	경쟁을	경쟁+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	좋아한는	좋+아+하+ㄴ+는	VERB	VA+EC+VX+ETM+ETM	_	3	acl	_	_
+3	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	5	nsubj	_	_
+4	보통	보통	ADV	MAG	_	5	advmod	_	_
+5	이기고	이기+고	VERB	VV+EC	_	0	root	_	_
+6	싶어한다	싶	AUX	VV+EC+VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_35_3_07
+# text = 하지만 나는 이기는 것이 중요하다고 생각하지 않다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+3	이기는	이기+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각하지	생각+하+지	VERB	NNG+XSV+EC	_	0	root	_	_
+7	않다	않	AUX	VX+EF	_	6	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_35_3_08
+# text = 나는 보통 학교나 다양한 대홰에서 경쟁이 강해서 스트레스를 받고 기분이 안 좋다.
+1	나는	나+는	PRON	NP+JX	_	9	nsubj	_	_
+2	보통	보통	ADV	MAG	_	9	advmod	_	_
+3	학교나	학교+나	NOUN	NNG+JC	_	7	obl	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	대홰에서	대홰+에서	ADV	NF+JKB	Typo=Yes	3	conj	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	강해서	강하+아서	ADJ	VA+EC	_	9	advcl	_	_
+8	스트레스를	스트레스+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	받고	받+고	VERB	VV+EC	_	0	root	_	_
+10	기분이	기분+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+11	안	안	ADV	MAG	_	12	advmod	_	_
+12	좋다	좋+다	ADJ	VA+EF	_	9	conj	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_35_3_09
+# text = 나는 경쟁심이 없는 것 같다.
+1	나는	나+는	PRON	NP+JX	_	3	dislocated	_	_
+2	경쟁심이	경쟁+심+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	없는	없+는	ADJ	VA+ETM	_	4	acl	_	_
+4	것	것	NOUN	NNB	_	5	nsubj	_	_
+5	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_35_3_10
+# text = 내 친구들이 보통 협동도 선호한다.
+1	내	나+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	친구들이	친구+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	보통	보통	ADV	MAG	_	5	advmod	_	_
+4	협동도	협동+도	NOUN	NNG+JX	_	5	obj	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_35_3_11
+# text = 그래서 우리가 함께 여러 가지 게임을 하면 정말 재미있는 시간을 보낸다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	우리가	우리+가	PRON	NP+JKS	_	7	nsubj	_	_
+3	함께	함께	ADV	MAG	_	7	advmod	_	_
+4	여러	여러	DET	MM	_	5	det	_	_
+5	가지	가지	NOUN	NNB	_	6	nmod	_	_
+6	게임을	게임+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	하면	하+면	VERB	VV+EC	_	11	advcl	_	_
+8	정말	정말	ADV	MAG	_	9	advmod	_	_
+9	재미있는	재미+있+는	ADJ	NNG+VA+ETM	_	11	amod	_	_
+10	시간을	시간+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	보낸다	보내+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_35_3_12
+# text = 하지만 또 다른 친구가 있다.
+1	하지만	하지만	ADV	MAJ	_	5	cc	_	_
+2	또	또	ADV	MAG	_	3	advmod	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	친구가	친구+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_35_3_13
+# text = 그 친구와 같이 자주 배드민턴을 치러 간다.
+1	그	그	DET	MM	_	2	det	_	_
+2	친구와	친구+와	ADV	NNG+JKB	_	6	obl	_	_
+3	같이	같이	ADV	MAG	_	6	advmod	_	_
+4	자주	자주	ADV	MAG	_	6	advmod	_	_
+5	배드민턴을	배드민턴+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	치러	치+러	VERB	VV+EC	_	7	advcl	_	_
+7	간다	가+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_35_3_14
+# text = 그 친구는 이기는 것을 좋아하지만 나는 어렸을 때 부터 배드민턴을 쳤는데 나는 친구보다 더 잘 칠 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	친구는	친구+는	NOUN	NNG+JX	_	5	nsubj	_	_
+3	이기는	이기+는	VERB	VV+ETM	_	4	acl	_	_
+4	것을	것+을	NOUN	NNB+JKO	_	5	obj	_	_
+5	좋아하지만	좋아하+지만	VERB	VV+EC	_	18	advcl	_	_
+6	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+7	어렸을	어리+었+을	ADJ	VA+EP+ETM	_	11	advcl	_	_
+8	때	때	ADV	NNG	_	7	mark	_	_
+9	부터	부터	ADP	JX	_	7	case	_	_
+10	배드민턴을	배드민턴+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	쳤는데	치+었+는데	VERB	VV+EP+EC	_	18	advcl	_	_
+12	나는	나+는	PRON	NP+JX	_	16	nsubj	_	_
+13	친구보다	친구+보다	ADV	NNG+JKB	_	16	obl	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	잘	잘	ADV	MAG	_	16	advmod	_	_
+16	칠	치+ㄹ	VERB	VV+ETM	_	17	acl	_	_
+17	수	수	NOUN	NNB	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CZH_35_3_15
+# text = 그리고 그 친구가 가끔 화를 내고 기분이 나빠진다.
+1	그리고	그리고	ADV	MAJ	_	8	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	친구가	친구+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	가끔	가끔	ADV	MAG	_	6	advmod	_	_
+5	화를	화+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	내고	내+고	VERB	VV+EC	_	8	advcl	_	_
+7	기분이	기분+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	나빠진다	나쁘+아지+ㄴ다	VERB	VA+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_35_3_16
+# text = 그래서 나는 협동을 선호하고 협동을 선호하는 친구도 사귀는 것을 더 좋아한다.
+1	그래서	그래서	ADV	MAJ	_	11	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	11	nsubj	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	선호하고	선호+하+고	VERB	NNG+XSV+EC	_	11	advcl	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	친구도	친구+도	NOUN	NNG+JX	_	8	obj	_	_
+8	사귀는	사귀+는	VERB	VV+ETM	_	9	acl	_	_
+9	것을	것+을	NOUN	NNB+JKO	_	11	obj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	좋아한다	좋+아+하+ㄴ다	VERB	VA+EC+VX+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_35_3_17
+# text = 하지만 경쟁이 너무 강하지 않으면 괜찮다고 본다.
+1	하지만	하지만	ADV	MAJ	_	7	cc	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	너무	너무	ADV	MAG	_	4	advmod	_	_
+4	강하지	강하+지	ADJ	VA+EC	_	6	advcl	_	_
+5	않으면	않	AUX	VX+EC	_	4	aux	_	_
+6	괜찮다고	괜찮+다고	ADJ	VA+EC	_	7	ccomp	_	_
+7	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_35_3_18
+# text = 많은 사람들은 경쟁이 없으면 동기를 부여하지 못 한다.
+1	많은	많+은	ADJ	VA+ETM	_	2	amod	_	_
+2	사람들은	사람+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+3	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	없으면	없+으면	ADJ	VA+EC	_	8	advcl	_	_
+5	동기를	동기+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	부여하지	부여+하+지	VERB	NNG+XSV+EC	_	8	ccomp	_	_
+7	못	못	ADV	MAG	_	8	advmod	_	_
+8	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

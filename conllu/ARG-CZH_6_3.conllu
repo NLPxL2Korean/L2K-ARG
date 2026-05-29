@@ -1,0 +1,124 @@
+# sent_id = ARG-CZH_06_3_01
+# text = 경쟁이 재미있어서 신기해도 저는 협동을 더 좋아한다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	재미있어서	재미+있+어서	ADJ	NNG+VA+EC	_	3	advcl	_	_
+3	신기해도	신기+하+아도	ADJ	XR+XSA+EC	_	7	advcl	_	_
+4	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+5	협동을	협동+을	NOUN	NNG+JKO	_	7	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	좋아한다	좋아하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_06_3_02
+# text = 자연에서 경쟁이 자연스러운 것이다.
+1	자연에서	자연+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	경쟁이	경쟁+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	자연스러운	자연+스럽+ㄴ	ADJ	NNG+XSA+ETM	_	4	acl	_	_
+4	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_06_3_03
+# text = 얘를 들어서 누가 음식 을 찾을 수있는것.
+1	얘를	얘+를	NOUN	NF+JKO	Typo=Yes	2	obj	_	_
+2	들어서	들+어서	VERB	VV+EC	_	7	advcl	_	_
+3	누가	누구+가	PRON	NP+JKS	_	6	nsubj	_	_
+4	음식	음식	NOUN	NNG	_	6	obj	_	_
+5	을	을	ADP	JKO	_	4	case	_	_
+6	찾을	찾+을	VERB	VV+ETM	_	7	acl	_	_
+7	수있는것	수+있+는+것	NOUN	NNB+VCP+ETM+NNB	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_06_3_04
+# text = 하지만 현재 우리 사회 안에 경쟁이 너무 많다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	현재	현재	ADV	MAG	_	8	advmod	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	사회	사회	NOUN	NNG	_	8	obl	_	_
+5	안에	안+에	ADV	NNG+JKB	_	4	case	_	_
+6	경쟁이	경쟁+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+7	너무	너무	ADV	MAG	_	8	advmod	_	_
+8	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_06_3_05
+# text = 아무상태경쟁이다.
+1	아무상태경쟁이다	아무+상태+경쟁+이+다	VERB	MM+NNG+NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-CZH_06_3_06
+# text = 그래서 우리는 매일 스트레스 를 받다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	6	nsubj	_	_
+3	매일	매일	ADV	MAG	_	6	advmod	_	_
+4	스트레스	스트레스	NOUN	NNG	_	6	obj	_	_
+5	를	를	ADP	JKO	_	4	case	_	_
+6	받다	받+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_06_3_07
+# text = 특히 직업에서 그렇다.
+1	특히	특히	ADV	MAG	_	3	advmod	_	_
+2	직업에서	직업+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	그렇다	그렇+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_06_3_08
+# text = 어떤 사람들이 독독하거나 일잘하지만다른 사람과 경쟁을 해야하면 갑자기 아무것도 못한다.
+1	어떤	어떤	DET	MM	_	2	det	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+3	독독하거나	독독+하+거나	ADJ	NA+XSA+EC	Typo=Yes	7	advcl	_	_
+4	일잘하지만다른	일+잘하+지만+다르+ㄴ	VERB	NNG+VV+EC+VA+ETM	_	3	conj	_	_
+5	사람과	사람+과	ADV	NNG+JKB	_	7	obl	_	_
+6	경쟁을	경쟁+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	해야하면	하+아야+하+면	VERB	VV+EC+VX+EC	_	10	advcl	_	_
+8	갑자기	갑자기	ADV	MAG	_	10	advmod	_	_
+9	아무것도	아무+것+도	NOUN	MM+NNB+JX	_	10	obj	_	_
+10	못한다	못하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_06_3_09
+# text = 스트레스때문이다.
+1	스트레스때문이다	스트레스+때문+이+다	VERB	NNG+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	SF	_	1	punct	_	_
+
+# sent_id = ARG-CZH_06_3_10
+# text = 사람들이 같이 일하면 큰일이 가 될수있다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	같이	같이	ADV	MAG	_	3	advmod	_	_
+3	일하면	일+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	큰일이	크+ㄴ+일+이	NOUN	VA+ETM+NNG+JKS	_	6	nsubj	_	_
+5	가	가	NOUN	NA	Typo=Yes	6	advcl	_	_
+6	될수있다	되+ㄹ+수+있+다	VERB	VV+ETM+NNB+VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_06_3_11
+# text = 사람마다 아이디어 가 있다.
+1	사람마다	사람+마다	NOUN	NNG+JX	_	4	obl	_	_
+2	아이디어	아이디어	NOUN	NNG	_	4	nsubj	_	_
+3	가	가	ADP	JKS	_	2	case	_	_
+4	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_06_3_12
+# text = 같이 일하면 앞으로 우리 사회문제를 불을수있다고 생각한다.
+1	같이	같이	ADV	MAG	_	2	advmod	_	_
+2	일하면	일+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+3	앞으로	앞+으로	ADV	NNG+JKB	_	6	obl	_	_
+4	우리	우리	PRON	NP	_	5	nmod	_	_
+5	사회문제를	사회+문제+를	NOUN	NNG+NNG+JKO	_	6	obj	_	_
+6	불을수있다고	불+을+수+있+다고	VERB	NV+ETM+NNB+VX+EC	Typo=Yes	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_06_3_13
+# text = 경쟁이 가끔 좋은것이지만 일반적으로 저의생각에는 협동이 젛은점이 더 많다.
+1	경쟁이	경쟁+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	가끔	가끔	ADV	MAG	_	3	advmod	_	_
+3	좋은것이지만	좋+은+것+이+지만	NOUN	VA+ETM+NNB+VCP+EC	_	9	advcl	_	_
+4	일반적으로	일반+적+으로	ADV	NNG+XSN+JKB	_	9	obl	_	_
+5	저의생각에는	저+의+생각+에+는	ADV	NP+JKG+NNG+JKB+JX	_	9	obl	_	_
+6	협동이	협동+이	NOUN	NNG+JKS	_	9	dislocated	_	_
+7	젛은점이	젛+은+점+이	NOUN	NV+ETM+NNB+JKS	Typo=Yes	9	nsubj	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

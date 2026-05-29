@@ -1,0 +1,119 @@
+# sent_id = ARG-CHN_9_1_01
+# text = 제가 자연보존을 더 중요하다고 생각한다.
+1	제가	제+가	PRON	NP+JKS	_	5	nsubj	_	_
+2	자연보존을	자연+보존+을	NOUN	NNG+NNG+JKO	_	4	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_9_1_02
+# text = 있는 것을 먼서 보존하고 보호해야 그다음 단뎨로 개발할 수 있다고 본다.
+1	있는	있+는	VERB	VV+ETM	_	2	acl	_	_
+2	것을	것+을	NOUN	NNB+JKO	_	4	obj	_	_
+3	먼서	먼서	ADV	NA	Typo=Yes	4	advmod	_	_
+4	보존하고	보존+하+고	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	보호해야	보호+하+아야	VERB	NNG+XSV+EC	_	4	conj	_	_
+6	그다음	그+다음	NOUN	MM+NNB	_	7	nmod	_	_
+7	단뎨로	단뎨+로	ADV	NF+JKB	Typo=Yes	8	obl	_	_
+8	개발할	개발+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다고	있+다고	VERB	VX+EC	_	11	ccomp	_	_
+11	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_9_1_03
+# text = 예를 들면, 인간은 자기개발하려하면 제일 먼저 해야 한것은 자신이 누군지를 알아야하는것이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	12	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	인간은	인간+은	NOUN	NNG+JX	_	5	nsubj	_	_
+5	자기개발하려하면	자기+개발+하+려+하+면	VERB	NNG+NNG+VV+EC+VX+EC	_	8	advcl	_	_
+6	제일	제일	ADV	MAG	_	7	advmod	_	_
+7	먼저	먼저	ADV	MAG	_	8	advmod	_	_
+8	해야	하+아야	VERB	VV+EC	_	9	acl	_	_
+9	한것은	하+ㄴ+것+은	NOUN	VX+ETM+NNB+JX	_	12	nsubj	_	_
+10	자신이	자신+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	누군지를	누구+이+ㄴ지+를	NOUN	NP+VCP+EC+JKO	_	12	obj	_	_
+12	알아야하는것이다	알+아야+하+는+것+이+다	VERB	VV+EC+VX+ETM+NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_9_1_04
+# text = 자신이 장점이 무엇인지, 단점이 무엇인지 잘 파악해야 개발라는 단계로 넘어갈 수 있다고 생각한다.
+1	자신이	자신+이	NOUN	NNG+JKS	_	3	dislocated	_	_
+2	장점이	장점+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	무엇인지	무엇+이+ㄴ지	ADJ	NP+VCP+EC	_	8	ccomp	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	단점이	단점+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	무엇인지	무엇+이+ㄴ지	ADJ	NP+VCP+EC	_	3	conj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	파악해야	파악+하+아야	VERB	NNG+XSV+EC	_	13	advcl	_	_
+9	개발라는	개발+라는	VERB	NNG+ETM	_	10	acl	_	_
+10	단계로	단계+로	ADV	NNG+JKB	_	11	obl	_	_
+11	넘어갈	넘어가+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+14	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_9_1_05
+# text = 자연도 마찬가지로 자연의 모습을 보존하고 안전된 상태에 어기를 더 개발할 필요성이 있는지 파악할 수있다.
+1	자연도	자연+도	NOUN	NNG+JX	_	14	obl	_	_
+2	마찬가지로	마찬가지+로	ADV	NNG+JKB	_	14	obl	_	_
+3	자연의	자연+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	모습을	모습+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	보존하고	보존+하+고	VERB	NNG+XSV+EC	_	7	acl	_	_
+6	안전된	안전+되+ㄴ	VERB	NNG+VX+ETM	_	5	conj	_	_
+7	상태에	상태+에	ADV	NNG+JKB	_	14	obl	_	_
+8	어기를	어기+를	NOUN	NF+JKO	Typo=Yes	10	obj	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	개발할	개발+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	필요성이	필요+성+이	NOUN	NNG+XSN+JKS	_	12	nsubj	_	_
+12	있는지	있+는지	VERB	VV+EC	_	13	ccomp	_	_
+13	파악할	파악+하+ㄹ	VERB	NNG+XSV+ETM	_	14	acl	_	_
+14	수있다	수+있+다	VERB	NNB+VX+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_9_1_06
+# text = 즉 보존이라는 것은 있는 그대로 존재는 전보다 안전하게 변동없이 존재하다는 것을 의미한다.
+1	즉	즉	ADV	MAJ	_	12	cc	_	_
+2	보존이라는	보존+이+라는	ADJ	NNG+VCP+ETM	_	3	acl	_	_
+3	것은	것+은	NOUN	NNB+JX	_	12	nsubj	_	_
+4	있는	있+는	VERB	VV+ETM	_	5	acl	_	_
+5	그대로	그대로	ADV	MAG	_	6	nmod	_	_
+6	존재는	존재+는	NOUN	NNG+JX	_	10	nsubj	_	_
+7	전보다	전+보다	ADV	NNG+JKB	_	8	obl	_	_
+8	안전하게	안전+하+게	ADJ	NNG+XSA+EC	_	10	advcl	_	_
+9	변동없이	변동+없이	ADV	NNG+MAG	_	10	advcl	_	_
+10	존재하다는	존재+하+다는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	것을	것+을	NOUN	NNB+JKO	_	12	obj	_	_
+12	의미한다	의미+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CHN_9_1_07
+# text = 이런 안전한 상태에 개발을 할 수 있고, 만약에 지금 있는 모습은 변동이 많고 어떻게 될지 파악할 수 없다면 이를 바탕으로 개발하기 힘들다고 생각한다.
+1	이런	이런	DET	MM	_	3	det	_	_
+2	안전한	안전+하+ㄴ	ADJ	NNG+XSA+ETM	_	3	amod	_	_
+3	상태에	상태+에	ADV	NNG+JKB	_	5	obl	_	_
+4	개발을	개발+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있고	있+고	VERB	VX+EC	_	24	advcl	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	만약에	만약+에	ADV	NNG+JKB	_	14	obl	_	_
+10	지금	지금	ADV	MAG	_	11	advmod	_	_
+11	있는	있+는	VERB	VV+ETM	_	12	acl	_	_
+12	모습은	모습+은	NOUN	NNG+JX	_	14	dislocated	_	_
+13	변동이	변동+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	많고	많+고	ADJ	VA+EC	_	23	advcl	_	_
+15	어떻게	어떻+게	ADV	VA+EC	_	16	advmod	_	_
+16	될지	되+ㄹ지	VERB	VV+EC	_	17	ccomp	_	_
+17	파악할	파악+하+ㄹ	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	수	수	NOUN	NNB	_	19	nsubj	_	_
+19	없다면	없+다면	VERB	VX+EC	_	14	advcl	_	_
+20	이를	이+를	PRON	NP+JKO	_	21	obj	_	_
+21	바탕으로	바탕+으로	ADV	NNG+JKB	_	23	obl	_	_
+22	개발하기	개발+하+기	VERB	NNG+XSV+ETN	_	23	nsubj	_	_
+23	힘들다고	힘들+다고	ADJ	VA+EC	_	24	ccomp	_	_
+24	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_

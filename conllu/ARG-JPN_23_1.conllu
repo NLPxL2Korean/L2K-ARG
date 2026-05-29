@@ -1,0 +1,189 @@
+# sent_id = ARG-JPN_23_1_01
+# text =  나는 조기언어교육은 하는 것이 더 좋다고 생각한다.
+1	나는	나+는	PRON	NP+JX	_	7	nsubj	_	_
+2	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	3	obj	_	_
+3	하는	하+는	VERB	VV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋다고	좋+다고	VERB	VA+EC	_	7	ccomp	_	_
+7	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_23_1_02
+# text =  왜냐하면 젊을 떄 모국어뿐만 아니라 다른 나라의 언어를 배우면 많은 일을 할 수 있기 때문이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	15	cc	_	_
+2	젊을	젊+을	VERB	VA+ETM	_	9	advcl	_	_
+3	떄	떄	NOUN	NNB	_	2	mark	_	_
+4	모국어뿐만	모국어+뿐+만	NOUN	NNG+JX+JX	_	5	nsubj	_	_
+5	아니라	아니+라	VERB	VCN+EC	_	9	advcl	_	_
+6	다른	다른	ADJ	MM	_	7	amod	_	_
+7	나라의	나라+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+10	많은	많+은	ADJ	VA+ETM	_	11	amod	_	_
+11	일을	일+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있기	있+기	NOUN	VX+ETN	_	15	nmod	_	_
+15	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_23_1_03
+# text =  나는 조기언어교육의 장점은 나이가 많아지면 기억력이 떨어지게 되니 어릴 때 기억력이 좋을 때 배워야 더 많은 지식을 얻을 수 있는 점이라 생각한다.
+1	나는	나+는	PRON	NP+JX	_	22	nsubj	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점은	장점+은	NOUN	NNG+JX	_	21	nsubj	_	_
+4	나이가	나이+가	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많아지면	많+아지+면	VERB	VA+XSV+EC	_	7	advcl	_	_
+6	기억력이	기억력+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	떨어지게	떨어지+게	VERB	VV+EC	_	21	advcl	_	_
+8	되니	되+니	VERB	VX+EC	_	7	advcl	_	_
+9	어릴	어리+ㄹ	VERB	VA+ETM	_	12	advcl	_	_
+10	때	때	ADV	NNG	_	9	mark	_	_
+11	기억력이	기억력+이	NOUN	NNG+JKS	_	12	nsubj	_	_
+12	좋을	좋+을	VERB	VA+ETM	_	14	advcl	_	_
+13	때	때	ADV	NNG	_	9	mark	_	_
+14	배워야	배우+어야	VERB	VV+EC	_	18	advcl	_	_
+15	더	더	ADV	MAG	_	16	advmod	_	_
+16	많은	많+은	ADJ	VA+ETM	_	17	amod	_	_
+17	지식을	지식+을	NOUN	NNG+JKO	_	18	obj	_	_
+18	얻을	얻+을	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있는	있+는	VERB	VX+ETM	_	21	acl	_	_
+21	점이라	점+이+라	VERB	NNG+VCP+EC	_	22	ccomp	_	_
+22	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_23_1_04
+# text =  빨리 배워야 더 많은 것을 배울 수 있고 더 많은 것을 경험할 수 있지 않을까 생각이 든다.
+1	빨리	빨리	ADV	MAG	_	2	advmod	_	_
+2	배워야	배우+어야	VERB	VV+EC	_	8	advcl	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있고	있+고	VERB	VX+EC	_	17	ccomp	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	많은	많+은	ADJ	VA+ETM	_	11	amod	_	_
+11	것을	것+을	NOUN	NNB+JKO	_	12	obj	_	_
+12	경험할	경험+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있지	있+지	VERB	VX+EC	_	8	conj	_	_
+15	않을까	않+을까	AUX	VX+EC	_	14	aux	_	_
+16	생각이	생각+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+17	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_23_1_05
+# text =  반대로 단점이라고 하면, 어릴때 외국어를 배우면 모국어를 말할 수 없게 되는 현상이 있다는 점이다.
+1	반대로	반대+로	ADV	NNG+JKB	_	3	obl	_	_
+2	단점이라고	단점+이+라고	VERB	NNG+VCP+EC	_	3	ccomp	_	_
+3	하면	하+면	VERB	VV+EC	_	15	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	어릴때	어리+ㄹ+때	ADJ	VA+ETM	_	7	advmod	_	_
+6	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	14	advcl	_	_
+8	모국어를	모국어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+10	수	수	NOUN	NNB	_	11	nsubj	_	_
+11	없게	없+게	VERB	VX+EC	_	13	acl	_	_
+12	되는	되+는	VERB	VX+ETM	_	11	advcl	_	_
+13	현상이	현상+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있다는	있+다는	VERB	VV+ETM	_	15	acl	_	_
+15	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_23_1_06
+# text =  모국어를 잘 할 수 없는 시기에 외국어를 가르치면 모국어를 까먹고 0개국어라 하는 사람도 있다고 들었다.
+1	모국어를	모국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	잘	잘	ADV	MAG	_	3	advmod	_	_
+3	할	하+ㄹ	VERB	VV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	없는	없+는	VERB	VX+ETM	_	6	acl	_	_
+6	시기에	시기+에	ADV	NNG+JKB	_	8	obl	_	_
+7	외국어를	외국어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	가르치면	가르치+면	VERB	VV+EC	_	14	advcl	_	_
+9	모국어를	모국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	까먹고	까먹+고	VERB	VV+EC	_	12	advcl	_	_
+11	0개국어라	0+개+국어+이+라	NOUN	SN+NNB+NNG+VCP+EC	_	12	ccomp	_	_
+12	하는	하+는	VERB	VV+ETM	_	13	acl	_	_
+13	사람도	사람+도	NOUN	NNG+JX	_	14	nsubj	_	_
+14	있다고	있+다고	VERB	VV+EC	_	15	ccomp	_	_
+15	들었다	듣+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_23_1_07
+# text =  지금은 글러벌 세상이니 모국어뿐만 아니라 외국어를 할 수 있게 되면 많이 도움이 되지만, 시기를 잘못하면 더 안 좋은 반향으로 갈 수도 있다.
+1	지금은	지금+은	ADV	NNG+JX	_	3	nsubj	_	_
+2	글러벌	글러벌	ADV	NF	_	3	nmod	_	_
+3	세상이니	세상+이+니	VERB	NNG+VCP+EC	_	13	advcl	_	_
+4	모국어뿐만	모국어+뿐+만	NOUN	NNG+JX+JX	_	5	nsubj	_	_
+5	아니라	아니+라	VERB	VCN+EC	_	7	advcl	_	_
+6	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	할	하+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있게	있+게	VERB	VX+EC	_	13	advcl	_	_
+10	되면	되+면	VERB	VX+EC	_	9	advcl	_	_
+11	많이	많이	ADV	MAG	_	13	advmod	_	_
+12	도움이	도움+이	NOUN	NNG+JKC	_	13	nsubj	_	_
+13	되지만	되+지만	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+14	,	,	PUNCT	SP	_	13	punct	_	_
+15	시기를	시기+를	NOUN	NNG+JKO	_	16	obj	_	_
+16	잘못하면	잘못+하+면	VERB	NNG+XSV+EC	_	23	advcl	_	_
+17	더	더	ADV	MAG	_	18	advmod	_	_
+18	안	안	ADV	MAG	_	19	advmod	_	_
+19	좋은	좋+은	ADJ	VA+ETM	_	20	amod	_	_
+20	반향으로	반향+으로	ADV	NF+JKB	_	21	obl	_	_
+21	갈	가+ㄹ	VERB	VV+ETM	_	22	acl	_	_
+22	수도	수+도	NOUN	NNB+JX	_	23	nsubj	_	_
+23	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_23_1_08
+# text =  자신의 미래를 더 좋은 쪽으로 이끌어줄 수 있는 가능성이 있다는 장점과 너무 조기교육이면 모국어도 말할 수 없게 되는 가능성도 있다는 단점이 공종한다 생각했다.
+1	자신의	자신+의	PRON	NNG+JKG	_	2	nmod:poss	_	_
+2	미래를	미래+를	NOUN	NNG+JKO	_	6	obj	_	_
+3	더	더	ADV	MAG	_	4	advmod	_	_
+4	좋은	좋+은	VERB	VA+ETM	_	5	amod	_	_
+5	쪽으로	쪽+으로	ADV	NNG+JKB	_	6	obl	_	_
+6	이끌어줄	이끌+어+주+ㄹ	VERB	VV+EC+VX+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+10	있다는	있+다는	VERB	VV+ETM	_	11	acl	_	_
+11	장점과	장점+과	NOUN	NNG+JC	_	22	nsubj	_	_
+12	너무	너무	ADV	MAG	_	13	advmod	_	_
+13	조기교육이면	조기+교육+이+면	VERB	NNG+NNG+VCP+EC	_	17	advcl	_	_
+14	모국어도	모국어+도	NOUN	NNG+JX	_	15	obj	_	_
+15	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	20	nsubj	_	_
+17	없게	없+게	VERB	VA+EC	_	19	acl	_	_
+18	되는	되+는	VERB	VX+ETM	_	17	advcl	_	_
+19	가능성도	가능성+도	NOUN	NNG+JX	_	20	nsubj	_	_
+20	있다는	있+다는	VERB	VV+ETM	_	21	acl	_	_
+21	단점이	단점+이	NOUN	NNG+JKS	_	11	conj	_	_
+22	공종한다	공종+하+ㄴ다	VERB	NF+XSV+EC	_	23	ccomp	_	_
+23	생각했다	생각+하+았+다	VERB	NNG+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_23_1_09
+# text =  그래도 교육을 시키는 시기를 잘 생각해서 진행하면 앞으로 미래를 밝혀주는 가능성이 더 높아 생각되니,나는 조기언어교육은 좋은거라 생각한다.
+1	그래도	그래도	ADV	MAJ	_	17	cc	_	_
+2	교육을	교육+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	시키는	시키+는	VERB	VV+ETM	_	4	acl	_	_
+4	시기를	시기+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	생각해서	생각+하+아서	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	진행하면	진행+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+8	앞으로	앞+으로	ADV	NNG+JKB	_	10	obl	_	_
+9	미래를	미래+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	밝혀주는	밝+히+어+주+는	VERB	VA+XSV+EC+VX+ETM	_	11	acl	_	_
+11	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	13	nsubj	_	_
+12	더	더	ADV	MAG	_	14	advmod	_	_
+13	높아	높+아	VERB	VA+EC	_	14	advcl	_	_
+14	생각되니,나는	생각+되+니+,+나+는	VERB	NNG+XSV+EC+SP+NP+JX	_	17	advcl	_	_
+15	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	16	nsubj	_	_
+16	좋은거라	좋+은+것+이+라	VERB	VA+ETM+NNB+VCP+EC	_	17	ccomp	_	_
+17	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

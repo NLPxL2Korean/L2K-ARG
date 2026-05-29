@@ -1,0 +1,147 @@
+# sent_id = ARG-CZH_02_1_01
+# text = 사람들이 외국어를 중학교부터 배운 경우가 많다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+2	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	중학교부터	중학교+부터	NOUN	NNG+JX	_	4	obl	_	_
+4	배운	배우+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	경우가	경우+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_02_1_02
+# text = 외국어를 어린 나이 때부터 배우는 것이 장단점이 있다.
+1	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+2	어린	어리+ㄴ	ADJ	VA+ETM	_	3	acl	_	_
+3	나이	나이	NOUN	NNG	_	5	obl	_	_
+4	때부터	때+부터	NOUN	NNG+JX	_	3	case	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	8	dislocated	_	_
+7	장단점이	장단점+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_02_1_03
+# text = 앞으로 조기언어교육의 장점과 단점을 알아 보고자 한다.
+1	앞으로	앞+으로	ADV	NNG+JKB	_	5	obl	_	_
+2	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	장점과	장점+과	NOUN	NNG+JC	_	5	obj	_	_
+4	단점을	단점+을	NOUN	NNG+JKO	_	3	conj	_	_
+5	알아	알+아	VERB	VV+EC	_	0	root	_	_
+6	보고자	보+고자	VERB	VX+EC	_	5	advcl	_	_
+7	한다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_02_1_04
+# text = 어린 나이 때 언어교육이 시작하면 아이가 외국어를 머국어와 같이 자연스럽게 배울 수 있다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이	나이	NOUN	NNG	_	5	obl	_	_
+3	때	때	NOUN	NNG	_	2	case	_	_
+4	언어교육이	언어+교육+이	NOUN	NNG+NNG+JKS	_	5	nsubj	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+6	아이가	아이+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+7	외국어를	외국어+를	NOUN	NNG+JKO	_	11	obj	_	_
+8	머국어와	머국어+와	ADV	NF+JKB	Typo=Yes	9	obl	_	_
+9	같이	같이	ADV	MAG	_	11	advcl	_	_
+10	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	11	advmod	_	_
+11	배울	배우+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_02_1_05
+# text = 다음에 이 외국어를 이미 어느정도 쓸 수 있어서 학교에 입학할 때 수업을 세월하게 들을 수 있다.
+1	다음에	다음+에	ADV	NNG+JKB	_	8	obl	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+4	이미	이미	ADV	MAG	_	6	advmod	_	_
+5	어느정도	어느+정도	NOUN	MM+NNG	_	6	obj	_	_
+6	쓸	쓰+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어서	있+어서	VERB	VX+EC	_	16	advcl	_	_
+9	학교에	학교+에	ADV	NNG+JKB	_	10	obl	_	_
+10	입학할	입학+하+ㄹ	VERB	NNG+XSV+ETM	_	16	advcl	_	_
+11	때	때	ADV	NNG	_	10	mark	_	_
+12	수업을	수업+을	NOUN	NNG+JKO	_	14	obj	_	_
+13	세월하게	세월+하+게	ADV	NF+XSA+EC	Typo=Yes	14	advmod	_	_
+14	들을	듣+을	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CZH_02_1_06
+# text = 또 다른 외국어를 공부하면 나중에 취직할 때 뽑을 가능성이 높다.
+1	또	또	ADV	MAJ	_	10	cc	_	_
+2	다른	다르+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	나중에	나중+에	ADV	NNG+JKB	_	6	obl	_	_
+6	취직할	취직+하+ㄹ	VERB	NNG+XSV+ETM	_	8	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	뽑을	뽑+을	VERB	VV+ETM	_	9	acl	_	_
+9	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+10	높다	높+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_02_1_07
+# text = 이와 반면에 아이들이 어릴 때 놀아야 한다는 말이 있다.
+1	이와	이+와	PRON	NP+JKB	_	9	obl	_	_
+2	반면에	반면+에	ADV	NNG+JKB	_	9	obl	_	_
+3	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	어릴	어리+ㄹ	ADJ	VA+ETM	_	6	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	놀아야	놀+아야	VERB	VV+EC	_	8	acl	_	_
+7	한다는	하	AUX	VX+ETM	_	6	aux	_	_
+8	말이	말+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_02_1_08
+# text = 따라서 언어 교육이 학교에서 시작하면 된다는 의견이 많다.
+1	따라서	따라서	ADV	MAJ	_	8	cc	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육이	교육+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+4	학교에서	학교+에서	ADV	NNG+JKB	_	5	obl	_	_
+5	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	7	acl	_	_
+6	된다는	되+ㄴ다는	VERB	VX+ETM	_	5	advcl	_	_
+7	의견이	의견+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_02_1_09
+# text = 제 경험으로는 조기언어교육이 장점이 많다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	경험으로는	경험+으로+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	5	dislocated	_	_
+4	장점이	장점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_02_1_10
+# text = 저도 유치원부터 영어를 공부를 시작했고 다음에 학교를 다녔을 때 다른 외국어에 몰두할 수 있었다.
+1	저도	저+도	PRON	NP+JX	_	5	nsubj	_	_
+2	유치원부터	유치원+부터	NOUN	NNG+JX	_	5	obl	_	_
+3	영어를	영어+를	NOUN	NNP+JKO	_	5	obj	_	_
+4	공부를	공부+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	시작했고	시작+하+았+고	VERB	NNG+XSV+EP+EC	_	14	advcl	_	_
+6	다음에	다음+에	ADV	NNG+JKB	_	8	obl	_	_
+7	학교를	학교+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	다녔을	다니+었+을	VERB	VV+EP+ETM	_	12	advcl	_	_
+9	때	때	ADV	NNG	_	8	mark	_	_
+10	다른	다르+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	외국어에	외국어+에	ADV	NNG+JKB	_	12	obl	_	_
+12	몰두할	몰두+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있었다	있+었+다	ADJ	VX+EP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_02_1_11
+# text = 그래서 이 결과는 조기언어교육의 장점이 단점보다 많다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	결과는	결과+는	NOUN	NNG+JX	_	8	obl	_	_
+4	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	5	nmod:poss	_	_
+5	장점이	장점+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+6	단점보다	단점+보다	ADV	NNG+JKB	_	7	obl	_	_
+7	많다고	많+다고	ADJ	VA+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

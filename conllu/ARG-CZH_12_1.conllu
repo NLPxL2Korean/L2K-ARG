@@ -1,0 +1,92 @@
+# sent_id = ARG-CZH_12_1_01
+# text = 언어 교육 일찍 시작하면 아기를 더 빠르게 배울 수 있어요.
+1	언어	언어	NOUN	NNG	_	2	nmod	_	_
+2	교육	교육	NOUN	NNG	_	4	obj	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+5	아기를	아기+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	빠르게	빠르+게	ADV	VA+EC	_	8	advmod	_	_
+8	배울	배우+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_12_1_02
+# text = 아기의 늬는 아주 똑똑하니까 쉽게 배울 수 있어요.
+1	아기의	아기+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	늬는	늬+는	NOUN	NF+JX	Typo=Yes	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	똑똑하니까	똑똑+하+니까	ADJ	XR+XSA+EC	_	8	advcl	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	배울	배우+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_12_1_03
+# text = 게다가 게임으로 언어를 가르칠 거면 아기랑 같이 즐거운 시간을 보낼 수 있어요.
+1	게다가	게다가	ADV	MAG	_	12	advmod	_	_
+2	게임으로	게임+으로	ADV	NNG+JKB	_	4	obl	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	가르칠	가르치+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	거면	것+이+면	ADJ	NNB+VCP+EC	_	12	advcl	_	_
+6	아기랑	아기+랑	ADV	NNG+JKB	_	10	obl	_	_
+7	같이	같이	ADV	MAG	_	10	advmod	_	_
+8	즐거운	즐겁+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	시간을	시간+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	보낼	보내+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_12_1_04
+# text = 하지만 이렇게 일찍 시작하면 아이른 좀 늦게다 언어를 잘 할 수 밖에 없어요.
+1	하지만	하지만	ADV	MAJ	_	13	cc	_	_
+2	이렇게	이렇+게	ADV	VA+EC	_	4	advmod	_	_
+3	일찍	일찍	ADV	MAG	_	4	advmod	_	_
+4	시작하면	시작+하+면	VERB	NNG+XSV+EC	_	13	advcl	_	_
+5	아이른	아이+른	NOUN	NNG+NA	Typo=Yes	10	nsubj	_	_
+6	좀	좀	ADV	MAG	_	7	advmod	_	_
+7	늦게다	늦+게다	ADV	VA+NA	Typo=Yes	10	advmod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	잘	잘	ADV	MAG	_	10	advmod	_	_
+10	할	하+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	13	obl	_	_
+12	밖에	밖에	ADP	JX	_	11	case	_	_
+13	없어요	없+어요	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_12_1_05
+# text = 또 부모님이 다양한 언어를 해야 돼요.
+1	또	또	ADV	MAJ	_	5	cc	_	_
+2	부모님이	부모+님+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+4	언어를	언어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	해야	하+아야	VERB	VV+EC	_	0	root	_	_
+6	돼요	되+어요	VERB	VX+EF	_	5	advcl	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_12_1_06
+# text = 아이가 배우는 것이 좋ㅏ하지 않으면 부모님들도 다른 언어를 잘못하면 언어교육을 하나마나예요.
+1	아이가	아이+가	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+4	좋ㅏ하지	좋ㅏ하+지	VERB	NV+EC	Typo=Yes	11	advcl	_	_
+5	않으면	않	AUX	VX+EC	_	4	aux	_	_
+6	부모님들도	부모+님+들+도	NOUN	NNG+XSN+XSN+JX	_	9	nsubj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	잘못하면	잘못+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+10	언어교육을	언어+교육+을	NOUN	NNG+NNG+JKO	_	11	obj	_	_
+11	하나마나예요	하+나+말+나+이+에요	ADJ	VV+EC+VV+EC+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_12_1_07
+# text = 조기언어교육은 개인족으로 좋은 것이라고 생각해요.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	4	nsubj	_	_
+2	개인족으로	개인+족+으로	ADV	NNG+NA+JKB	Typo=Yes	4	obl	_	_
+3	좋은	좋+은	ADJ	VA+ETM	_	4	amod	_	_
+4	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	5	ccomp	_	_
+5	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_

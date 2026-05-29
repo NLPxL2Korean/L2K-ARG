@@ -1,0 +1,217 @@
+# sent_id = ARG-CHN_10_1_01
+# text = 자연 보존이 자연 개발보다 더 중요하다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	보존이	보존+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+3	자연	자연	NOUN	NNG	_	4	nmod	_	_
+4	개발보다	개발+보다	ADV	NNG+JKB	_	6	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_10_1_02
+# text = 왜냐하면 자연은 지구 원래 모습이라서 사람들이 개발하는 권리가 없다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	자연은	자연+은	NOUN	NNG+JX	_	5	nsubj	_	_
+3	지구	지구	NOUN	NNG	_	4	nmod	_	_
+4	원래	원래	NOUN	NNG	_	5	nmod	_	_
+5	모습이라서	모습+이+라서	ADJ	NNG+VCP+EC	_	9	advcl	_	_
+6	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+7	개발하는	개발+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	권리가	권리+가	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_10_1_03
+# text = 현대인은 자연을 개발하면 후배들이 실제적인 자연을 볼 수 없다.
+1	현대인은	현대+인+은	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+4	후배들이	후배+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+5	실제적인	실제+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	6	amod	_	_
+6	자연을	자연+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	볼	보+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	없다	없+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_10_1_04
+# text = 자연 개발이 자연에 손해하는 것이다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발이	개발+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	자연에	자연+에	ADV	NNG+JKB	_	4	obl	_	_
+4	손해하는	손해+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_10_1_05
+# text = 사람들이 최선을 다해 자연 보존해야 한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	3	nsubj	_	_
+2	최선을	최선+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	다해	다하+아	VERB	VV+EC	_	5	advcl	_	_
+4	자연	자연	NOUN	NNG	_	5	obj	_	_
+5	보존해야	보존+하+아야	VERB	NNG+XSV+EC	_	0	root	_	_
+6	한다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_10_1_06
+# text = 자연에 아음다운 풍경이 있고 다양한 동물이 있다.
+1	자연에	자연+에	ADV	NNG+JKB	_	2	obl	_	_
+2	아음다운	아음답+ㄴ	VERB	NV+ETM	Typo=Yes	3	acl	_	_
+3	풍경이	풍경+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	있고	있+고	VERB	VV+EC	_	0	root	_	_
+5	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	6	amod	_	_
+6	동물이	동물+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	있다	있+다	VERB	VV+EF	_	4	conj	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_10_1_07
+# text = 자연 사진이 사람에게 많은 자산을 준다.
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	사진이	사진+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+3	사람에게	사람+에게	ADV	NNG+JKB	_	6	obl	_	_
+4	많은	많+은	ADJ	VA+ETM	_	5	amod	_	_
+5	자산을	자산+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	준다	주+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_10_1_08
+# text = 사람으로서 자연을 존경하면서 보존한다면 더 좋다.
+1	사람으로서	사람+으로서	ADV	NNG+JKB	_	3	obl	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	존경하면서	존경+하+면서	VERB	NNG+XSV+EC	_	4	advcl	_	_
+4	보존한다면	보존+하+ㄴ다면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_10_1_09
+# text = 자연을 개발하면 자연 환경이나 지구 생태를 손해할 가능성이 있다.
+1	자연을	자연+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	개발하면	개발+하+면	VERB	NNG+XSV+EC	_	9	advcl	_	_
+3	자연	자연	NOUN	NNG	_	6	nmod	_	_
+4	환경이나	환경+이나	NOUN	NNG+JC	_	7	obj	_	_
+5	지구	지구	NOUN	NNG	_	6	nmod	_	_
+6	생태를	생태+를	NOUN	NNG+JKO	_	4	conj	_	_
+7	손해할	손해+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	9	nsubj	_	_
+9	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_10_1_10
+# text = 지금 사회나 기술 발전에 따라 새로운 개발 방식이 많이 나온다.
+1	지금	지금	ADV	MAG	_	10	advmod	_	_
+2	사회나	사회+나	NOUN	NNG+JC	_	4	nmod	_	_
+3	기술	기술	NOUN	NNG	_	2	conj	_	_
+4	발전에	발전+에	ADV	NNG+JKB	_	5	obl	_	_
+5	따라	따르+아	VERB	VV+EC	_	10	advcl	_	_
+6	새로운	새롭+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	개발	개발	NOUN	NNG	_	8	nmod	_	_
+8	방식이	방식+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	나온다	나오+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_10_1_11
+# text = 반면에 새로운 개발 방식이 실제로 좋은지 아닌지 잘 모르다.
+1	반면에	반면+에	ADV	NNG+JKB	_	9	obl	_	_
+2	새로운	새롭+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	개발	개발	NOUN	NNG	_	4	nmod	_	_
+4	방식이	방식+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+5	실제로	실제로	ADV	MAG	_	7	advmod	_	_
+6	좋은지	좋+은지	ADJ	VA+EC	_	9	ccomp	_	_
+7	아닌지	아니+ㄴ지	ADJ	VCN+EC	_	6	conj	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	모르다	모르+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CHN_10_1_12
+# text = 자연 개발의 정확한 방식이 없으면 어떻게 개발할까?
+1	자연	자연	NOUN	NNG	_	2	nmod	_	_
+2	개발의	개발+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+3	정확한	정확+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	방식이	방식+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없으면	없+으면	ADJ	VA+EC	_	7	advcl	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	7	advmod	_	_
+7	개발할까	개발+하+ㄹ까	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+8	?	?	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_10_1_13
+# text = 그러므로 자연 개발이라는 것이 위험하다.
+1	그러므로	그러므로	ADV	MAJ	_	5	cc	_	_
+2	자연	자연	NOUN	NNG	_	3	nmod	_	_
+3	개발이라는	개발+이+라는	ADJ	NNG+VCP+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	위험하다	위험+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_10_1_14
+# text = 자연은 지구가 사람에게 주는 선물이다.
+1	자연은	자연+은	NOUN	NNG+JX	_	5	nsubj	_	_
+2	지구가	지구+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	사람에게	사람+에게	ADV	NNG+JKB	_	4	obl	_	_
+4	주는	주+는	VERB	VV+ETM	_	5	acl	_	_
+5	선물이다	선물+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_10_1_15
+# text = 사람들이 귀중하고 조심한 마음으로 이 선물을 받아야 한다.
+1	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+2	귀중하고	귀중+하+고	ADJ	XR+XSA+EC	_	4	amod	_	_
+3	조심한	조심+하+ㄴ	VERB	NNG+XSV+ETM	_	2	conj	_	_
+4	마음으로	마음+으로	ADV	NNG+JKB	_	7	obl	_	_
+5	이	이	DET	MM	_	4	det	_	_
+6	선물을	선물+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	받아야	받+아야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_10_1_16
+# text = 동시에 조선에서 후배에게 이 선물을 끊임없이 전해야 한다.
+1	동시에	동시+에	ADV	NNG+JKB	_	7	obl	_	_
+2	조선에서	조선+에서	ADV	NNP+JKB	_	7	obl	_	_
+3	후배에게	후배+에게	ADV	NNG+JKB	_	7	obl	_	_
+4	이	이	DET	MM	_	5	det	_	_
+5	선물을	선물+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	끊임없이	끊임없이	ADV	MAG	_	7	advmod	_	_
+7	전해야	전하+아야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_10_1_17
+# text = 이 선물을 보존하여 후배에게 잘 전할 수 있다.
+1	이	이	DET	MM	_	2	det	_	_
+2	선물을	선물+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	보존하여	보존+하+아	VERB	NNG+XSV+EC	_	8	advcl	_	_
+4	후배에게	후배+에게	ADV	NNG+JKB	_	6	obl	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	전할	전하+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_10_1_18
+# text = 동시에 자연을 잘 보존하여 후배들이 십년이나 백년 후에 자연의 본질을 볼 수 있다.
+1	동시에	동시+에	ADV	NNG+JKB	_	4	obl	_	_
+2	자연을	자연+을	NOUN	NNG+JKO	_	4	obj	_	_
+3	잘	잘	ADV	MAG	_	4	advmod	_	_
+4	보존하여	보존+하+여	VERB	NNG+XSV+EC	_	13	advcl	_	_
+5	후배들이	후배+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+6	십년이나	십+년+이나	ADV	MM+NNB+JC	_	11	obl	_	_
+7	백년	백+년	NOUN	MM+NNB	_	6	conj	_	_
+8	후에	후+에	ADV	NNG+JKB	_	7	case	_	_
+9	자연의	자연+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	본질을	본질+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	볼	보+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_10_1_19
+# text = 그러므로 현대인들로서 자연을 보존하는 것이 책임이다.
+1	그러므로	그러므로	ADV	MAJ	_	6	cc	_	_
+2	현대인들로서	현대+인+들+로서	ADV	NNG+XSN+XSN+JKB	_	6	obl	_	_
+3	자연을	자연+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+6	책임이다	책임+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_

@@ -1,0 +1,138 @@
+# sent_id = ARG-CZH_15_1_01
+# text = 체코어는 언어 몇개 할 수 있는 만큼 사람의 가치가 더 커진다는 말 있듯이 요즘 세계에서 언어 한 개만 배우면 안된다고 생각한다.
+1	체코어는	체코어+는	NOUN	NNG+JX	_	13	obl	_	_
+2	언어	언어	NOUN	NNG	_	4	obj	_	_
+3	몇개	몇+개	ADV	MM+NNB	_	4	advmod	_	_
+4	할	하+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있는	있+는	VERB	VX+ETM	_	11	advcl	_	_
+7	만큼	만큼	ADV	NNB	_	6	mark	_	_
+8	사람의	사람+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	가치가	가치+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+10	더	더	ADV	MAG	_	11	advmod	_	_
+11	커진다는	크+어지+ㄴ다는	VERB	VA+XSV+ETM	_	12	acl	_	_
+12	말	말	NOUN	NNG	_	13	nsubj	_	_
+13	있듯이	있+듯이	VERB	VV+EC	_	21	advcl	_	_
+14	요즘	요즘	ADV	NNG	_	20	advmod	_	_
+15	세계에서	세계+에서	ADV	NNG+JKB	_	19	obl	_	_
+16	언어	언어	NOUN	NNG	_	19	obj	_	_
+17	한	한	NUM	MM	_	18	nummod	_	_
+18	개만	개+만	ADV	NNB+JX	_	19	advmod	_	_
+19	배우면	배우+면	VERB	VV+EC	_	20	advcl	_	_
+20	안된다고	안+되+ㄴ다고	VERB	MAG+VV+EC	_	21	ccomp	_	_
+21	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-CZH_15_1_02
+# text = 그래서 언어를 배우기 일찍 시작하는것이 너무 중요하다.
+1	그래서	그래서	ADV	MAJ	_	7	cc	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배우기	배우+기	VERB	VV+ETN	_	5	obj	_	_
+4	일찍	일찍	ADV	MAG	_	5	advmod	_	_
+5	시작하는것이	시작+하+는+것+이	NOUN	NNG+XSV+ETM+NNB+JKS	_	7	nsubj	_	_
+6	너무	너무	ADV	MAG	_	7	advmod	_	_
+7	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_15_1_03
+# text = 어릴 때는 모든 다양한 것을 배우고 이해를 하는 것 참 쉬운가 보다.
+1	어릴	어리+ㄹ	VERB	VV+ETM	_	6	advcl	_	_
+2	때는	때+는	ADV	NNG+JX	_	1	mark	_	_
+3	모든	모든	DET	MM	_	5	det	_	_
+4	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	5	amod	_	_
+5	것을	것+을	NOUN	NNB+JKO	_	6	obj	_	_
+6	배우고	배우+고	VERB	VV+EC	_	9	acl	_	_
+7	이해를	이해+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	하는	하+는	VERB	VV+ETM	_	6	conj	_	_
+9	것	것	NOUN	NNB	_	11	nsubj	_	_
+10	참	참	ADV	MAG	_	11	advmod	_	_
+11	쉬운가	쉽+ㄴ가	ADJ	VA+EF	_	0	root	_	_
+12	보다	보+다	VERB	VV+EF	_	11	advcl	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_15_1_04
+# text = 그래서 그거는 1번 장점인 것 같다.
+1	그래서	그래서	ADV	MAJ	_	6	cc	_	_
+2	그거는	그거+는	PRON	NP+JX	_	4	nsubj	_	_
+3	1번	1+번	NOUN	SN+NNB	_	4	nmod	_	_
+4	장점인	장점+이+ㄴ	ADJ	NNG+VCP+ETM	_	5	acl	_	_
+5	것	것	NOUN	NNB	_	6	nsubj	_	_
+6	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_15_1_05
+# text = 게다가 언어가 다른 문화에서 온 사람의 생각 방식을 이해하기에 큰 도움도 된다.
+1	게다가	게다가	ADV	MAG	_	12	advmod	_	_
+2	언어가	언어+가	NOUN	NNG+JKS	_	12	dislocated	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	문화에서	문화+에서	ADV	NNG+JKB	_	5	obl	_	_
+5	온	오+ㄴ	VERB	VV+ETM	_	6	acl	_	_
+6	사람의	사람+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+7	생각	생각	NOUN	NNG	_	8	nmod	_	_
+8	방식을	방식+을	NOUN	NNG+JKO	_	9	obj	_	_
+9	이해하기에	이해+하+기+에	VERB	NNG+XSV+ETN+JKB	_	12	obl	_	_
+10	큰	크+ㄴ	ADJ	VA+ETM	_	11	amod	_	_
+11	도움도	도움+도	NOUN	NNG+JX	_	12	nsubj	_	_
+12	된다	되+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_15_1_06
+# text = 또 너무 멋지다.
+1	또	또	ADV	MAG	_	3	cc	_	_
+2	너무	너무	ADV	MAG	_	3	advmod	_	_
+3	멋지다	멋지+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-CZH_15_1_07
+# text = 단점이 뭐냐면 거의 없는 것 같다.
+1	단점이	단점+이	NOUN	NNG+JKS	_	2	nsubj	_	_
+2	뭐냐면	뭐+이+냐면	ADJ	NP+VCP+EC	_	6	advcl	_	_
+3	거의	거의	ADV	MAG	_	4	advmod	_	_
+4	없는	없+는	ADJ	VA+ETM	_	5	acl	_	_
+5	것	것	NOUN	NNB	_	6	nsubj	_	_
+6	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_15_1_08
+# text = 그럼에도 불구하고 한 사람이 언어를 두 개 배우면 한대만 배우듯이 제대로 못배우겠다.
+1	그럼에도	그럼에도	ADV	MAJ	_	2	advmod	_	_
+2	불구하고	불구+하+고	VERB	XR+XSV+EC	_	12	advcl	_	_
+3	한	한	NUM	MM	_	4	nummod	_	_
+4	사람이	사람+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+5	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+6	두	두	ADV	MM	_	8	advmod	_	_
+7	개	개	NOUN	NNB	_	6	case	_	_
+8	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+9	한대만	한+대+만	NOUN	MM+NNB+JX	_	10	obj	_	_
+10	배우듯이	배우+듯이	VERB	VV+EC	_	12	advcl	_	_
+11	제대로	제대로	ADV	MAG	_	12	advmod	_	_
+12	못배우겠다	못+배우+겠+다	VERB	MAG+VV+EP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_15_1_09
+# text = 한 개만 집중하는 것이 내 보기에는 가장 효과적인 것 같아서 그렇다고 생각해요.
+1	한	한	DET	MM	_	3	obl	_	_
+2	개만	개+만	NOUN	NNB+JX	_	1	case	_	_
+3	집중하는	집중+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+5	내	내	PRON	NP	_	6	nsubj	_	_
+6	보기에는	보+기+에+는	NOUN	VV+ETM+JKB+JX	_	8	advcl	_	_
+7	가장	가장	ADV	MAG	_	8	advmod	_	_
+8	효과적인	효과+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	9	acl	_	_
+9	것	것	NOUN	NNB	_	10	nsubj	_	_
+10	같아서	같+아서	ADJ	VA+EC	_	11	advcl	_	_
+11	그렇다고	그렇+다고	ADJ	VA+EC	_	12	ccomp	_	_
+12	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_15_1_10
+# text = 그래서 내 입장은 단점보다 장점이 꼭 더 많다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	내	나+의	PRON	NP+JKG	_	3	nmod:poss	_	_
+3	입장은	입장+은	NOUN	NNG+JX	_	8	dislocated	_	_
+4	단점보다	단점+보다	ADV	NNG+JKB	_	8	obl	_	_
+5	장점이	장점+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+6	꼭	꼭	ADV	MAG	_	8	advmod	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

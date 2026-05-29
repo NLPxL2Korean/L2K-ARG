@@ -1,0 +1,155 @@
+# sent_id = ARG-ENG_40_3_01
+# text = 현대 사회에는 무조건 경쟁을 선호하는 것 같다.
+1	현대	현대	NOUN	NNG	_	2	nmod	_	_
+2	사회에는	사회+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	무조건	무조건	ADV	MAG	_	5	advmod	_	_
+4	경쟁을	경쟁+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것	것	NOUN	NNB	_	7	nsubj	_	_
+7	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_40_3_02
+# text = 우리가 모든 영역에는 다른 사람들과 비교하면 살아가는 것이다.
+1	우리가	우리+가	PRON	NP+JKS	_	6	nsubj	_	_
+2	모든	모든	DET	MM	_	3	det	_	_
+3	영역에는	영역+에+는	ADV	NNG+JKB+JX	_	6	obl	_	_
+4	다른	다른	ADJ	MM	_	5	amod	_	_
+5	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	6	obl	_	_
+6	비교하면	비교+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+7	살아가는	살아가+는	VERB	VV+ETM	_	8	acl	_	_
+8	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_40_3_03
+# text = 돈, 외모, 연애, 대학교 등 항상 다른 사람들을 판단하고 다른 사람들의 물건, 삶을 끊임없이 탐이 난다.
+1	돈	돈	NOUN	NNG	_	7	list	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	외모	외모	NOUN	NNG	_	7	list	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	연애	연애	NOUN	NNG	_	7	list	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	대학교	대학교	NOUN	NNG	_	12	obl	_	_
+8	등	등	NOUN	NNB	_	7	case	_	_
+9	항상	항상	ADV	MAG	_	12	advmod	_	_
+10	다른	다른	ADJ	MM	_	11	amod	_	_
+11	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	12	obj	_	_
+12	판단하고	판단+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+13	다른	다른	ADJ	VA+ETM	_	14	amod	_	_
+14	사람들의	사람+들+의	NOUN	NNG+XSN+JKG	_	15	nmod:poss	_	_
+15	물건	물건	NOUN	NNG	_	17	list	_	SpaceAfter=No
+16	,	,	PUNCT	SP	_	15	punct	_	_
+17	삶을	삶+을	NOUN	NNG+JKO	_	20	obj	_	_
+18	끊임없이	끊이+ㅁ+없이	ADV	VV+ETN+MAG	_	20	advcl	_	_
+19	탐이	탐+이	NOUN	NF+JKS	_	20	nsubj	_	_
+20	난다	나+ㄴ다	VERB	VV+EF	_	12	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_40_3_04
+# text = 이건 자연스러운 일인데 제가 선호하는 스타일 아니다.
+1	이건	이거+ㄴ	ADV	NP+JX	_	3	nsubj	_	_
+2	자연스러운	자연+스럽+ㄴ	VERB	NNG+XSA+ETM	_	3	amod	_	_
+3	일인데	일+이+ㄴ데	VERB	NNB+VCP+EC	_	7	advcl	_	_
+4	제가	제+가	PRON	NP+JKS	_	5	nsubj	_	_
+5	선호하는	선호+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	스타일	스타일	NOUN	NNG	_	7	nsubj	_	_
+7	아니다	아니+다	ADJ	VCN+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_40_3_05
+# text = 대신에 협동을 선호한다.
+1	대신에	대신+에	ADV	NNG+JKB	_	3	obl	_	_
+2	협동을	협동+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_40_3_06
+# text = 혼자서 한계가 있있으며 사람들과 협동하면 더 빠르고 창의적인 결과를 만들 수 있지 않을까 싶다.
+1	혼자서	혼자+서	ADV	NNG+JKS	_	3	advmod	_	_
+2	한계가	한계+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	있있으며	있+있+으며	VERB	VV+NA+EC	_	0	root	_	_
+4	사람들과	사람+들+과	ADV	NNG+XSN+JKB	_	5	obl	_	_
+5	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	빠르고	빠르+고	VERB	VA+EC	_	9	advcl	_	_
+8	창의적인	창의+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	7	conj	_	_
+9	결과를	결과+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	만들	만들+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있지	있+지	VERB	VX+EC	_	3	conj	_	_
+13	않을까	않+을까	AUX	VX+EC	_	12	aux	_	_
+14	싶다	싶+다	AUX	VX+EF	_	12	aux	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_40_3_07
+# text = 다른 사람의 생각으로 우리가 반복되는 생각에서 벗어날 수 있으니 되게 좋은 것 같다.
+1	다른	다른	ADJ	VA+ETM	_	3	amod	_	_
+2	사람의	사람+의	NOUN	NNG+JKG	_	3	nmod:poss	_	_
+3	생각으로	생각+으로	ADV	NNG+JKB	_	7	obl	_	_
+4	우리가	우리+가	PRON	NP+JKS	_	7	nsubj	_	_
+5	반복되는	반복+되+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	생각에서	생각+에서	ADV	NNG+JKB	_	7	obl	_	_
+7	벗어날	벗어나+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있으니	있+으니	VERB	VX+EC	_	13	advcl	_	_
+10	되게	되게	ADV	MAG	_	11	advmod	_	_
+11	좋은	좋+은	VERB	VA+ETM	_	12	amod	_	_
+12	것	것	NOUN	NNB	_	13	nsubj	_	_
+13	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_40_3_08
+# text = 생산에 불구하고 우리가 협동을 통해 더 행복하고 차분한 세상을 만들 수 있다면 얼마나 좋을까 생각이 든다.
+1	생산에	생산+에	ADV	NNG+JKB	_	2	obl	_	_
+2	불구하고	불구+하+고	VERB	NNG+XSV+EC	_	16	advcl	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	10	nsubj	_	_
+4	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	통해	통하+아	VERB	VV+EC	_	10	advcl	_	_
+6	더	더	ADV	MAG	_	7	advmod	_	_
+7	행복하고	행복+하+고	VERB	NNG+XSA+EC	_	9	amod	_	_
+8	차분한	차분+하+ㄴ	ADJ	XR+XSA+ETM	_	7	conj	_	_
+9	세상을	세상+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	만들	만들+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다면	있+다면	VERB	VX+EC	_	14	advcl	_	_
+13	얼마나	얼마나	ADV	MAG	_	14	advmod	_	_
+14	좋을까	좋+을까	VERB	VA+EC	_	16	advcl	_	_
+15	생각이	생각+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	든다	들+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_40_3_09
+# text = 경쟁하기보다 도와주고 싶은 마인세트를 갖으면 세상을 바꿀 수 있다는 사실이 무리가 아니라 말이다.
+1	경쟁하기보다	경쟁+하+기+보다	ADV	NNG+XSV+ETN+JKB	_	2	obl	_	_
+2	도와주고	도와주+고	VERB	VV+EC	_	4	acl	_	_
+3	싶은	싶+은	AUX	VX+ETM	_	2	aux	_	_
+4	마인세트를	마인세트+를	NOUN	NF+JKO	_	5	obj	_	_
+5	갖으면	갖+으면	VERB	VV+EC	_	7	advcl	_	_
+6	세상을	세상+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	바꿀	바꾸+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다는	있+다는	VERB	VX+ETM	_	10	acl	_	_
+10	사실이	사실+이	NOUN	NNG+JKC	_	12	dislocated	_	_
+11	무리가	무리+가	NOUN	NNG+JKC	_	12	nsubj	_	_
+12	아니라	아니+라	VERB	VCN+EC	_	13	acl	_	_
+13	말이다	말+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_40_3_10
+# text = 그래서 앞으로는 다른 사람들을 보면, 비교하는 대신에 남을 인정하고 자기도 인정하고 살아가려고 바로 해요.
+1	그래서	그래서	ADV	MAJ	_	13	cc	_	_
+2	앞으로는	앞+으로+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	다른	다른	ADJ	MM	_	4	amod	_	_
+4	사람들을	사람+들+을	NOUN	NNG+XSN+JKO	_	5	obj	_	_
+5	보면	보+면	VERB	VV+EC	_	13	advcl	_	SpaceAfter=No
+6	,	,	PUNCT	SP	_	5	punct	_	_
+7	비교하는	비교+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	대신에	대신+에	ADV	NNG+JKB	_	13	obl	_	_
+9	남을	남+을	VERB	VV+ETM	_	10	acl	_	_
+10	인정하고	인정+하+고	VERB	NNG+XSV+EC	_	12	advcl	_	_
+11	자기도	자기+도	PRON	NP+JX	_	12	nsubj	_	_
+12	인정하고	인정+하+고	VERB	NNG+XSV+EC	_	13	advcl	_	_
+13	살아가려고	살아가+려고	VERB	VV+EC	_	0	root	_	_
+14	바로	바로	ADV	MAG	_	15	advmod	_	_
+15	해요	하+아요	VERB	VX+EF	_	13	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	13	punct	_	_

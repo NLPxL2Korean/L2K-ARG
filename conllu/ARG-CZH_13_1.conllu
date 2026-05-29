@@ -1,0 +1,111 @@
+# sent_id = ARG-CZH_13_1_01
+# text = 어린 아이들은 단어와 어회를 쉽게 외운다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+3	단어와	단어+와	NOUN	NNG+JC	_	6	obj	_	_
+4	어회를	어회+를	NOUN	NF+JKO	Typo=Yes	3	conj	_	_
+5	쉽게	쉽+게	ADV	VA+EC	_	6	advmod	_	_
+6	외운다	외우+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_13_1_02
+# text = 그래서 아이들에게 모국어와 함게 외국어를 가르치는 것이 좋다고 생각한다.
+1	그래서	그래서	ADV	MAJ	_	9	cc	_	_
+2	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	6	obl	_	_
+3	모국어와	모국어+와	ADV	NNG+JKB	_	6	obj	_	_
+4	함게	함게	ADV	NA	Typo=Yes	6	advmod	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	3	conj	_	_
+6	가르치는	가르치+는	VERB	VV+ETM	_	7	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	좋다고	좋+다고	ADJ	VA+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_13_1_03
+# text = 이 정보를 예능프로그램에서 들었는데 한 사람이 한 언어를 아이에게 말하는 게 중요하다.
+1	이	이	DET	MM	_	2	det	_	_
+2	정보를	정보+를	NOUN	NNG+JKO	_	4	obj	_	_
+3	예능프로그램에서	예능+프로그램+에서	ADV	NNG+NNG+JKB	_	4	obl	_	_
+4	들었는데	듣+었+는데	VERB	VV+EP+EC	_	12	advcl	_	_
+5	한	한	NUM	MM	_	6	nummod	_	_
+6	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+7	한	한	NUM	MM	_	8	nummod	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	아이에게	아이+에게	ADV	NNG+JKB	_	10	obl	_	_
+10	말하는	말+하+는	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	게	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-CZH_13_1_04
+# text = 예를 들면 엄마가 아이에게 한국어를 하고 아빠는 영어를 한다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	9	advcl	_	_
+3	엄마가	엄마+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+4	아이에게	아이+에게	ADV	NNG+JKB	_	6	obl	_	_
+5	한국어를	한국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	하고	하+고	VERB	VV+EC	_	0	root	_	_
+7	아빠는	아빠+는	NOUN	NNG+JX	_	9	nsubj	_	_
+8	영어를	영어+를	NOUN	NNP+JKO	_	9	obj	_	_
+9	한다	하+ㄴ다	VERB	VV+EF	_	6	conj	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_13_1_05
+# text = 이렇게 하면 아이가 헷갈리지 않는다.
+1	이렇게	이렇+게	ADV	VA+EC	_	2	advmod	_	_
+2	하면	하+면	VERB	VV+EC	_	4	advcl	_	_
+3	아이가	아이+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	헷갈리지	헷갈리+지	VERB	VV+EC	_	0	root	_	_
+5	않는다	않	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_13_1_06
+# text = 이 아이가 어른이 될 때 여행을 쉽게 할 수 있고 취직에 도움이 될 수 있다.
+1	이	이	DET	MM	_	2	det	_	_
+2	아이가	아이+가	NOUN	NNG+JKS	_	4	dislocated	_	_
+3	어른이	어른+이	NOUN	NNG+JKC	_	4	nsubj	_	_
+4	될	되+ㄹ	VERB	VV+ETM	_	10	advcl	_	_
+5	때	때	ADV	NNG	_	4	mark	_	_
+6	여행을	여행+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	쉽게	쉽+게	ADV	VA+EC	_	8	advmod	_	_
+8	할	하+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있고	있	AUX	VX+EC	_	0	root	_	_
+11	취직에	취직+에	ADV	NNG+JKB	_	13	obl	_	_
+12	도움이	도움+이	NOUN	NNG+JKC	_	13	nsubj	_	_
+13	될	되+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있다	있	AUX	VX+EF	_	10	conj	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_13_1_07
+# text = 외국인 친구를 사귀기도 어렵지 않을 거다.
+1	외국인	외국인	NOUN	NNG	_	2	nmod	_	_
+2	친구를	친구+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	사귀기도	사귀+기+도	VERB	VV+ETN+JX	_	4	nsubj	_	_
+4	어렵지	어렵+지	ADJ	VA+EC	_	6	acl	_	_
+5	않을	않	AUX	VX+ETM	_	4	aux	_	_
+6	거다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_13_1_08
+# text = 제 생각에는 조기언어교육이 단점이 없다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에는	생각+에+는	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	조기언어교육이	조기+언어+교육+이	NOUN	NNG+NNG+NNG+JKS	_	5	dislocated	_	_
+4	단점이	단점+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	없다	없+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_13_1_09
+# text = 어린 나이에 아이에게 외국어를 잘 가르치면 장점만 있다고 생각한다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	나이에	나이+에	ADV	NNG+JKB	_	6	obl	_	_
+3	아이에게	아이+에게	ADV	NNG+JKB	_	6	obl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	가르치면	가르치+면	VERB	VV+EC	_	8	advcl	_	_
+7	장점만	장점+만	NOUN	NNG+JX	_	8	nsubj	_	_
+8	있다고	있+다고	VERB	VV+EC	_	9	ccomp	_	_
+9	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

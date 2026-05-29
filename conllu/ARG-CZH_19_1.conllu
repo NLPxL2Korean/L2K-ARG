@@ -1,0 +1,103 @@
+# sent_id = ARG-CZH_19_1_01
+# text = 조기언어교육의 제일 큰 장점은 제가 다른 나라의 사람들과 의사서통이 잘 될 뿐만 아니라 언어를 배울수록 그나라의 문화에 대해 도 많이 알게 될 수 있다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	4	nmod:poss	_	_
+2	제일	제일	ADV	MAG	_	3	advmod	_	_
+3	큰	크+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	장점은	장점+은	NOUN	NNG+JX	_	24	obl	_	_
+5	제가	제+가	PRON	NP+JKS	_	21	nsubj	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	나라의	나라+의	NOUN	NNG+JKG	_	8	nmod:poss	_	_
+8	사람들과	사람+들+과	NOUN	NNG+XSN+JC	_	11	obl	_	_
+9	의사서통이	의사+서통+이	NOUN	NNG+NF+JKS	Typo=Yes	11	nsubj	_	_
+10	잘	잘	ADV	MAG	_	11	advmod	_	_
+11	될	되+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	뿐만	뿐+만	NOUN	NNB+JX	_	13	nsubj	_	_
+13	아니라	아니+라	ADJ	VCN+EC	_	24	advcl	_	_
+14	언어를	언어+를	NOUN	NNG+JKO	_	15	obj	_	_
+15	배울수록	배우+ㄹ수록	VERB	VV+EC	_	21	advcl	_	_
+16	그나라의	그+나라+의	NOUN	MM+NNG+JKG	_	17	nmod:poss	_	_
+17	문화에	문화+에	ADV	NNG+JKB	_	18	obl	_	_
+18	대해	대하+아	VERB	VV+EC	_	21	advcl	_	_
+19	도	도	NOUN	NA	Typo=Yes	18	case	_	_
+20	많이	많이	ADV	MAG	_	21	advmod	_	_
+21	알게	알+게	VERB	VV+EC	_	23	acl	_	_
+22	될	되+ㄹ	VERB	VX+ETM	_	21	advcl	_	_
+23	수	수	NOUN	NNB	_	24	nsubj	_	_
+24	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+25	.	.	PUNCT	SF	_	24	punct	_	_
+
+# sent_id = ARG-CZH_19_1_02
+# text = 계다가 어린날에 언어 배우기가 더 쉬우니까 어린 나이에 배우면 좋다.
+1	계다가	계다가	ADV	NA	Typo=Yes	10	advmod	_	_
+2	어린날에	어리+ㄴ+날+에	ADV	VA+ETM+NNG+JKB	_	6	obl	_	_
+3	언어	언어	NOUN	NNG	_	4	obj	_	_
+4	배우기가	배우+기+가	VERB	VV+ETN+JKS	_	6	nsubj	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	쉬우니까	쉽+니까	ADJ	VA+EC	_	9	advcl	_	_
+7	어린	어리+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+8	나이에	나이+에	ADV	NNG+JKB	_	9	obl	_	_
+9	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+10	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CZH_19_1_03
+# text = 그러나 아이들이 구거 잘 못하든대도 다른 언어를 공부해야 하면 아이들에게 핵갈릴 수 있다.
+1	그러나	그러나	ADV	MAJ	_	13	cc	_	_
+2	아이들이	아이+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	구거	구거	NOUN	NF	Typo=Yes	5	obj	_	_
+4	잘	잘	ADV	MAG	_	5	advmod	_	_
+5	못하든대도	못하+든대+도	VERB	VV+NA+JX	Typo=Yes	8	advcl	_	_
+6	다른	다르+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	언어를	언어+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	공부해야	공부+하+아야	VERB	NNG+XSV+EC	_	13	advcl	_	_
+9	하면	하	AUX	VX+EC	_	8	aux	_	_
+10	아이들에게	아이+들+에게	ADV	NNG+XSN+JKB	_	11	obl	_	_
+11	핵갈릴	핵갈리+ㄹ	VERB	NV+ETM	Typo=Yes	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CZH_19_1_04
+# text = 이거는 아주 심한 단점이라고 본다.
+1	이거는	이거+는	PRON	NP+JX	_	4	nsubj	_	_
+2	아주	아주	ADV	MAG	_	3	advmod	_	_
+3	심한	심하+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	단점이라고	단점+이+라고	ADJ	NNG+VCP+EC	_	5	ccomp	_	_
+5	본다	보+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_19_1_05
+# text = 왜냐하면 먼저 자기 나라의 말 잘 할수 있는 것이 아주 중요한다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	먼저	먼저	ADV	MAG	_	7	advmod	_	_
+3	자기	자기	PRON	NP	_	4	nmod	_	_
+4	나라의	나라+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	말	말	NOUN	NNG	_	7	obj	_	_
+6	잘	잘	ADV	MAG	_	7	advmod	_	_
+7	할수	하+ㄹ+수	NOUN	VV+ETM+NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	11	nsubj	_	_
+10	아주	아주	ADV	MAG	_	11	advmod	_	_
+11	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CZH_19_1_06
+# text = 다른 언어를 안은 것이 좋지만 먼저 자기 나라와 문화에 대해 배우고 다음에 외국어를 공부하면 좋은 것 같아.
+1	다른	다르+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	언어를	언어+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	안은	안+은	VERB	NV+ETM	Typo=Yes	4	acl	_	_
+4	것이	것+이	NOUN	NNB+JKS	_	5	nsubj	_	_
+5	좋지만	좋+지만	ADJ	VA+EC	_	17	advcl	_	_
+6	먼저	먼저	ADV	MAG	_	11	advmod	_	_
+7	자기	자기	PRON	NP	_	8	nmod	_	_
+8	나라와	나라+와	NOUN	NNG+JC	_	10	obl	_	_
+9	문화에	문화+에	ADV	NNG+JKB	_	8	conj	_	_
+10	대해	대하+아	VERB	VV+EC	_	11	advcl	_	_
+11	배우고	배우+고	VERB	VV+EC	_	14	advcl	_	_
+12	다음에	다음+에	ADV	NNG+JKB	_	14	obl	_	_
+13	외국어를	외국어+를	NOUN	NNG+JKO	_	14	obj	_	_
+14	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	17	advcl	_	_
+15	좋은	좋+은	ADJ	VA+ETM	_	16	amod	_	_
+16	것	것	NOUN	NNB	_	17	nsubj	_	_
+17	같아	같+아	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_

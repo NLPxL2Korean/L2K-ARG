@@ -1,0 +1,254 @@
+# sent_id = ARG-JPN_40_1_01
+# text =  조기 언어 교육이란 나이가 어린 어린이 들에게 일찍부터 외국어를 가르치는 것이다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	교육이란	교육+이란	NOUN	NNG+JX	_	11	nsubj	_	_
+4	나이가	나이+가	NOUN	NNG+JKS	_	10	nsubj	_	_
+5	어린	어리+ㄴ	VERB	VA+ETM	_	6	amod	_	_
+6	어린이	어린이	NOUN	NNG	_	10	obl	_	_
+7	들에게	들+에게	ADV	XSN+JKB	_	6	goeswith	_	_
+8	일찍부터	일찍+부터	ADV	NNG+JX	_	10	obl	_	_
+9	외국어를	외국어+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	가르치는	가르치+는	VERB	VV+ETM	_	11	acl	_	_
+11	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_40_1_02
+# text =  장점으로는 크게 세 가지를 꼽힐 수 있다.
+1	장점으로는	장점+으로+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+2	크게	크+게	ADV	VA+EC	_	5	advmod	_	_
+3	세	세	NUM	MM	_	4	nummod	_	_
+4	가지를	가지+를	NOUN	NNB+JKO	_	5	obj	_	_
+5	꼽힐	꼽+히+ㄹ	VERB	VV+XSV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_40_1_03
+# text =  첫 째, 절대적 시기가 오기 전에 외국어를 학습함으로써, 모국어와 유사하게 언어를 자연스럽게 습득할 수 있다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	째	째	NOUN	NNB	_	17	obl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	절대적	절대+적	ADJ	NNG+XSN	_	5	amod	_	_
+5	시기가	시기+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	오기	오+기	NOUN	VV+ETN	_	9	obl	_	_
+7	전에	전+에	ADP	NNG+JKB	_	6	case	_	_
+8	외국어를	외국어+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	학습함으로써	학습+하+ㅁ+으로써	ADV	NNG+XSV+ETN+JKB	_	17	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	모국어와	모국어+와	NOUN	NNG+JKB	_	12	obl	_	_
+12	유사하게	유사+하+게	ADV	XR+XSA+EC	_	15	advcl	_	_
+13	언어를	언어+를	NOUN	NNG+JKO	_	15	obj	_	_
+14	자연스럽게	자연+스럽+게	ADV	NNG+XSA+EC	_	15	advmod	_	_
+15	습득할	습득+하+ㄹ	VERB	NNG+XSV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_40_1_04
+# text =  둘 째, 어린이의 인지 발달을 도와준다.
+1	둘	둘	NOUN	NR	_	7	obl	_	_
+2	째	째	NOUN	NNB	_	2	goeswith	_	_
+3	,	,	PUNCT	SP	_	1	punct	_	_
+4	어린이의	어린이+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+5	인지	인지	NOUN	NNG	_	6	nmod	_	_
+6	발달을	발달+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	도와준다	도와주+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_40_1_05
+# text =  어린 시기의 다양한 언어 학습을 함으로써, 여러 언어로 다양한 생각을 할 수 있게 한다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	시기의	시기+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+3	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	4	amod	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	학습을	학습+을	NOUN	NNG+JKO	_	6	obj	_	_
+6	함으로써	하+ㅁ+으로써	ADV	VV+ETN+JKB	_	14	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	여러	여러	DET	MM	_	9	det	_	_
+9	언어로	언어+로	ADV	NNG+JKB	_	12	obl	_	_
+10	다양한	다양+하+ㄴ	ADJ	NNG+XSA+ETM	_	11	amod	_	_
+11	생각을	생각+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	할	하+ㄹ	VERB	VV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있게	있+게	VERB	VX+EC	_	0	root	_	_
+15	한다	하+ㄴ다	AUX	VX+EF	_	14	aux	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_40_1_06
+# text =  단,풍부한 언어 지식을 배우며 어린이의 창의성을 발달시키는 데 도움이 될 수 있다.
+1	단,풍부한	단+,+풍부+하+ㄴ	ADJ	MAJ+SP+NNG+XSA+ETM	_	2	amod	_	_
+2	언어	언어	NOUN	NNG	_	3	nmod	_	_
+3	지식을	지식+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	배우며	배우+며	VERB	VV+EC	_	7	advcl	_	_
+5	어린이의	어린이+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	창의성을	창의성+을	NOUN	NNG+XSN+JKO	_	7	obj	_	_
+7	발달시키는	발달+시키+는	VERB	NNG+XSV+ETM	_	10	advcl	_	_
+8	데	데	ADV	NNB	_	7	mark	_	_
+9	도움이	도움+이	NOUN	NNG+JKC	_	10	nsubj	_	_
+10	될	되+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_40_1_07
+# text =  셋 째, 어린 시기에 외국어를 학습해 언어 능력을 익혀,미래에 국제적 교류를 할 경함을 쌓을 수 있다.
+1	셋	셋	NOUN	NR	_	17	obl	_	_
+2	째	째	NOUN	XSN	_	2	goeswith	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	어린	어리+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	시기에	시기+에	ADV	NNG+JKB	_	7	obl	_	_
+6	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	학습해	학습+하+아	VERB	NNG+XSV+EC	_	10	advcl	_	_
+8	언어	언어	NOUN	NNG	_	9	nmod	_	_
+9	능력을	능력+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	익혀,미래에	익히+어+,+미래+에	ADV	VV+EC+SP+NNG+JKB	_	17	advcl	_	_
+11	국제적	국제+적	ADJ	NNG+XSN	_	12	amod	_	_
+12	교류를	교류+를	NOUN	NNG+JKO	_	13	obj	_	_
+13	할	하+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	경함을	경함+을	NOUN	NF+JKO	_	15	obj	_	_
+15	쌓을	쌓+을	VERB	VV+ETM	_	16	acl	_	_
+16	수	수	NOUN	NNB	_	17	nsubj	_	_
+17	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-JPN_40_1_08
+# text =  아이가 성장함에 따라 외국어를 더 능숙하게 쓸 수 있게 되면 미래 경쟁력도 높일 수 있을 것이다.
+1	아이가	아이+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	성장함에	성장+하+ㅁ+에	ADV	NNG+XSV+ETN+JKB	_	3	obl	_	_
+3	따라	따르+아	VERB	VV+EC	_	9	advcl	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	7	obj	_	_
+5	더	더	ADV	MAG	_	7	advmod	_	_
+6	능숙하게	능숙+하+게	ADV	XR+XSA+EC	_	7	advmod	_	_
+7	쓸	쓰+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있게	있+게	VERB	VX+EC	_	16	advcl	_	_
+10	되면	되+면	VERB	VX+EC	_	9	advcl	_	_
+11	미래	미래	NOUN	NNG	_	12	nmod	_	_
+12	경쟁력도	경쟁력+도	NOUN	NNG+JX	_	13	obj	_	_
+13	높일	높이+ㄹ	VERB	VV+ETM	_	14	acl	_	_
+14	수	수	NOUN	NNB	_	15	nsubj	_	_
+15	있을	있+을	VERB	VX+ETM	_	16	acl	_	_
+16	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_40_1_09
+# text =  다음으로 단점은 다음과 같다.
+1	다음으로	다음+으로	ADV	NNG+JKB	_	4	obl	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	다음과	다음+과	ADV	NNG+JKB	_	4	obl	_	_
+4	같다	같+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_40_1_10
+# text =  첫 째, 모국어의 언어 학습을 방해할 수 있다.
+1	첫	첫	NUM	MM	_	2	nummod	_	_
+2	째	째	NOUN	NNB	_	9	obl	_	_
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	모국어의	모국어+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	언어	언어	NOUN	NNG	_	6	nmod	_	_
+6	학습을	학습+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	방해할	방해+하+ㄹ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_40_1_11
+# text =  어린 시절에 모국어 학습과 외국어 학습을 변행하면 서로의 언어의 영향을 받아, 성공적인 모국어 습득이 이루어지지 않을 위험이 있다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	시절에	시절+에	ADV	NNG+JKB	_	7	obl	_	_
+3	모국어	모국어	NOUN	NNG	_	6	nmod	_	_
+4	학습과	학습+과	NOUN	NNG+JC	_	7	obj	_	_
+5	외국어	외국어	NOUN	NNG	_	6	nmod	_	_
+6	학습을	학습+을	NOUN	NNG+JKO	_	4	conj	_	_
+7	변행하면	변행+하+면	VERB	NF+XSV+EC	_	11	advcl	_	_
+8	서로의	서로+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	언어의	언어+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	영향을	영향+을	NOUN	NNG+JKO	_	11	obj	_	_
+11	받아	받+아	VERB	VV+EC	_	19	advcl	_	SpaceAfter=No
+12	,	,	PUNCT	SP	_	11	punct	_	_
+13	성공적인	성공+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	14	amod	_	_
+14	모국어	모국어	NOUN	NNG	_	15	nmod	_	_
+15	습득이	습득+이	NOUN	NF+JKS	_	16	nsubj	_	_
+16	이루어지지	이루어지+지	VERB	VV+EC	_	18	acl	_	_
+17	않을	않+을	AUX	VX+ETM	_	16	aux	_	_
+18	위험이	위험+이	NOUN	NNG+JKS	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-JPN_40_1_12
+# text =  둘 째, 심리적 부담감을 초래한다.
+1	둘	둘	NOUN	NR	_	6	obl	_	_
+2	째	째	NOUN	XSN	_	1	goeswith	_	_
+3	,	,	PUNCT	SP	_	1	punct	_	_
+4	심리적	심리+적	NOUN	NNG+XSN	_	5	nmod	_	_
+5	부담감을	부담+감+을	NOUN	NNG+XSN+JKO	_	6	obj	_	_
+6	초래한다	초래+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_40_1_13
+# text =  어린 이이에게 외국어 학습을 시키면 학습에 대한 긍정적 인식이 없이 학습하게 될 수도 있으므로 심리적 부담감을 주어, 역시 성공적인 외국어 학습이 이루어지기 어려울 가능성도 있을 것이다.
+1	어린	어리+ㄴ	ADJ	VA+ETM	_	2	amod	_	_
+2	이이에게	이이+에게	NOUN	NNG+JKB	_	5	obl	_	_
+3	외국어	외국어	NOUN	NNG	_	4	nmod	_	_
+4	학습을	학습+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	시키면	시키+면	VERB	VV+EC	_	27	advcl	_	_
+6	학습에	학습+에	ADV	NNG+JKB	_	7	obl	_	_
+7	대한	대하+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+8	긍정적	긍정+적	ADJ	NNG+XSN	_	9	amod	_	_
+9	인식이	인식+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	없이	없+이	VERB	VA+EC	_	11	advcl	_	_
+11	학습하게	학습+하+게	ADV	NNG+XSV+EC	_	13	acl	_	_
+12	될	되+ㄹ	VERB	VX+ETM	_	11	advcl	_	_
+13	수도	수+도	NOUN	NNB+JX	_	14	nsubj	_	_
+14	있으므로	있+으므로	VERB	VX+EC	_	17	advcl	_	_
+15	심리적	심리+적	NOUN	NNG+XSN	_	16	nmod	_	_
+16	부담감을	부담+감+을	NOUN	NNG+XSN+JKO	_	17	obj	_	_
+17	주어	주+어	VERB	VV+EC	_	27	advcl	_	_
+18	,	,	PUNCT	SP	_	17	punct	_	_
+19	역시	역시	ADV	MAG	_	27	advmod	_	_
+20	성공적인	성공+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	22	amod	_	_
+21	외국어	외국어	NOUN	NNG	_	22	nmod	_	_
+22	학습이	학습+이	NOUN	NNG+JKS	_	23	nsubj	_	_
+23	이루어지기	이루+어지+기	NOUN	VV+XSV+ETN	_	24	nsubj	_	_
+24	어려울	어렵+ㄹ	VERB	VA+ETM	_	25	acl	_	_
+25	가능성도	가능성+도	NOUN	NNG+JX	_	26	nsubj	_	_
+26	있을	있+을	VERB	VV+ETM	_	27	acl	_	_
+27	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	27	punct	_	_
+
+# sent_id = ARG-JPN_40_1_14
+# text =  이상의 장단점을 고려해,조기 언어 교육은 어린이들의 흥미를 유발할 수 있고,심리적 부담을 주기 않는 방법으로 이루어질 필요가 있다.
+1	이상의	이상+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	장단점을	장단점+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	고려해,조기	고려+하+아+,+조기	NOUN	NNG+XSV+EC+SP+NNG	_	18	advcl	_	_
+4	언어	언어	NOUN	NNG	_	5	nmod	_	_
+5	교육은	교육+은	NOUN	NNG+JX	_	8	nsubj	_	_
+6	어린이들의	어린이+들+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	흥미를	흥미+를	NOUN	NNG+JKO	_	8	obj	_	_
+8	유발할	유발+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있고	있+고	VERB	VX+EC	_	18	advcl	_	SpaceAfter=No
+11	,심리적	,+심리+적	NOUN	SP+NNG+XSN	_	12	nmod	_	_
+12	부담을	부담+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	주기	주+기	NOUN	VV+NA	_	15	acl	_	_
+14	않는	않+는	AUX	VX+ETM	_	13	aux	_	_
+15	방법으로	방법+으로	ADV	NNG+JKB	_	16	obl	_	_
+16	이루어질	이루+어지+ㄹ	VERB	VV+XSV+ETM	_	17	acl	_	_
+17	필요가	필요+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-JPN_40_1_15
+# text =  또한 적절한 방법으로 학습이 이루어져야 성공적인 외국어 습득이 이루어질 것이다.
+1	또한	또한	ADV	MAJ	_	10	cc	_	_
+2	적절한	적절+하+ㄴ	ADJ	XR+XSA+ETM	_	3	amod	_	_
+3	방법으로	방법+으로	ADV	NNG+JKB	_	5	obl	_	_
+4	학습이	학습+이	NOUN	NNG+JKS	_	5	nsubj	_	_
+5	이루어져야	이루+어지+어야	VERB	VV+XSV+EC	_	9	advcl	_	_
+6	성공적인	성공+적+이+ㄴ	ADJ	NNG+XSN+VCP+ETM	_	8	amod	_	_
+7	외국어	외국어	NOUN	NNG	_	8	nmod	_	_
+8	습득이	습득+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	이루어질	이루+어지+ㄹ	VERB	VV+XSV+ETM	_	10	acl	_	_
+10	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

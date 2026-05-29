@@ -1,0 +1,121 @@
+# sent_id = ARG-JPN_28_1_01
+# text =  어린이 때부터 외국어를 공부한 것은 두개 좋은 것이 있어요.
+1	어린이	어린이	NOUN	NNG	_	4	obl	_	_
+2	때부터	때+부터	ADV	NNG+JX	_	1	case	_	_
+3	외국어를	외국어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	공부한	공부+하+ㄴ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것은	것+은	NOUN	NNB+JX	_	9	dislocated	_	_
+6	두개	두+개	NOUN	MM+NNB	_	8	nmod	_	_
+7	좋은	좋+은	VERB	VA+ETM	_	8	amod	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_28_1_02
+# text =  하나는 열심히 공부한 빌요가 없는 것이에요.
+1	하나는	하나+는	NUM	NR+JX	_	6	nsubj	_	_
+2	열심히	열심히	ADV	MAG	_	3	advmod	_	_
+3	공부한	공부+하+ㄴ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	빌요가	빌요+가	NOUN	NF+JKS	_	5	nsubj	_	_
+5	없는	없+는	VERB	VA+ETM	_	6	acl	_	_
+6	것이에요	것+이+에요	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_28_1_03
+# text =  두쪽에는,어린이 때부터 공부하면, 잘 듣을 수 있는 귀를 만들 수 있어요.
+1	두쪽에는,어린이	두+쪽+에+는+,+어린이	ADV	MM+NNB+JKB+JX+SP+NNG	_	3	obl	_	_
+2	때부터	때+부터	ADV	NNG+JX	_	1	case	_	_
+3	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	12	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	잘	잘	ADV	MAG	_	6	advmod	_	_
+6	듣을	듣+을	VERB	NV+ETM	_	7	acl	_	_
+7	수	수	NOUN	NNB	_	8	nsubj	_	_
+8	있는	있+는	VERB	VX+ETM	_	9	acl	_	_
+9	귀를	귀+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	만들	만들+ㄹ	VERB	VV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	12	nsubj	_	_
+12	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_28_1_05
+# text =  어린이 때 부터 외국어를 공부하면 문법을 잘 이해할 수 없어요.
+1	어린이	어린이	NOUN	NNG	_	5	obl	_	_
+2	때	때	ADP	NNG	_	1	case	_	_
+3	부터	부터	ADP	JX	_	1	case	_	_
+4	외국어를	외국어+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+6	문법을	문법+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	잘	잘	ADV	MAG	_	8	advmod	_	_
+8	이해할	이해+하+ㄹ	VERB	NNG+XSV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	없어요	없+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_28_1_06
+# text =  또는, 아이들은 그 외국어를 싫어하 될 수 있어요.
+1	또는	또는	ADV	MAG	_	9	cc	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	6	nsubj	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	싫어하	싫어하	VERB	VV	_	8	acl	_	_
+7	될	되+ㄹ	VERB	VX+ETM	_	6	advcl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_28_1_07
+# text =  아이들은 많이 공부하면 가끔 스트레스를 받아서요.
+1	아이들은	아이+들+은	NOUN	NNG+XSN+JX	_	3	nsubj	_	_
+2	많이	많이	ADV	MAG	_	3	advmod	_	_
+3	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+4	가끔	가끔	ADV	MAG	_	6	advmod	_	_
+5	스트레스를	스트레스+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	받아서요	받+아서+요	VERB	VV+EC+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_28_1_08
+# text =  스트레스를 받지 않고 그 외국어를 좋아하된 것이 준용해요.
+1	스트레스를	스트레스+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	받지	받+지	VERB	VV+EC	_	6	advcl	_	_
+3	않고	않+고	AUX	VX+EC	_	2	aux	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	좋아하된	좋아하+되+ㄴ	VERB	VV+VX+ETM	_	8	acl	_	_
+7	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+8	준용해요	준용+하+아요	VERB	NF+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_28_1_09
+# text =  이렇게 어린이 때 부터 외국어 공부를 시작한 것이 좋은 것도 나쁜 것도 있어요
+1	이렇게	이렇+게	ADV	VA+EC	_	7	advmod	_	_
+2	어린이	어린이	NOUN	NNG	_	7	obl	_	_
+3	때	때	ADP	NNG	_	2	case	_	_
+4	부터	부터	ADP	JX	_	2	case	_	_
+5	외국어	외국어	NOUN	NNG	_	6	nmod	_	_
+6	공부를	공부+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	시작한	시작+하+ㄴ	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것이	것+이	NOUN	NNB+JKS	_	9	nsubj	_	_
+9	좋은	좋+은	VERB	VA+ETM	_	10	amod	_	_
+10	것도	것+도	NOUN	NNB+JX	_	13	nsubj	_	_
+11	나쁜	나쁘+ㄴ	VERB	VA+ETM	_	12	amod	_	_
+12	것도	것+도	NOUN	NNB+JX	_	13	nsubj	_	_
+13	있어요	있+어요	ADJ	VV+EF	_	0	root	_	_
+
+# sent_id = ARG-JPN_28_1_04-1
+# text =  세쪽에는, 대화하는 것은 안 무서워요
+1	세쪽에는	세+쪽+에+는	ADV	MM+NNG+JKB+JX	_	6	obl	_	SpaceAfter=No
+2	,	,	PUNCT	SP	_	1	punct	_	_
+3	대화하는	대화+하+는	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	7	nsubj	_	_
+5	안	안	ADV	MAG	_	6	advmod	_	_
+6	무서워요	무섭+어요	VERB	VA+EC	_	0	root	_	_
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-JPN_28_1_04-2
+# text =  하지만 나쁜 것도 있어요.
+1	하지만	하지만	VERB	MAJ	_	4	cc	_	_
+2	나쁜	나쁘+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	것도	것+도	NOUN	NNB+JX	_	4	nsubj	_	_
+4	있어요	있+어요	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_

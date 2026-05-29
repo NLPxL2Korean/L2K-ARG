@@ -1,0 +1,198 @@
+# sent_id = ARG-JPN_19_3_01
+# text =  나는 경쟁보다 협동을 더 선호한다.
+1	나는	나+는	PRON	NP+JX	_	5	nsubj	_	_
+2	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	5	obl	_	_
+3	협동을	협동+을	NOUN	NNG+JKO	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_19_3_02
+# text =  그 이유는 크게 세가지 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	5	dislocated	_	_
+3	크게	크+게	ADV	VA+EC	_	5	advmod	_	_
+4	세가지	세+가지	VERB	MM+NNB	_	5	nsubj	_	_
+5	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_19_3_03
+# text =  첫
+1	첫	첫	NUM	MM	_	0	root	_	_
+
+# sent_id = ARG-JPN_19_3_04
+# text =  번째는 협동하면 경쟁하기보다 생대방에 대한 새로운 것을 알 수있기 때문이다.
+1	번째는	번째+는	NOUN	NNB+JX	_	10	obl	_	_
+2	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	10	advcl	_	_
+3	경쟁하기보다	경쟁+하+기+보다	ADV	NNG+XSV+ETN+JKB	_	8	obl	_	_
+4	생대방에	생대+방+에	ADV	NNG+JKB	_	5	obl	_	_
+5	대한	대하+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+6	새로운	새롭+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	것을	것+을	NOUN	NNB+JKO	_	8	obj	_	_
+8	알	알+ㄹ	VERB	VV+ETM	_	10	acl	_	_
+9	수있기	수+있+기	AUX	NNB+VX+ETN	_	10	nmod	_	_
+10	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-JPN_19_3_05
+# text =  계속 경쟁하고 있으면 상대방마음은 계속 닫고 있을 것이지만, 협동하면 동보의직에서 깊은 생각까지 알 수있기도 한다.
+1	계속	계속	ADV	MAG	_	2	advmod	_	_
+2	경쟁하고	경쟁+하+고	VERB	NNG+XSV+EC	_	8	advcl	_	_
+3	있으면	있+으면	AUX	VX+EC	_	2	aux	_	_
+4	상대방마음은	상대방+마음+은	NOUN	NNG+NNG+JX	_	6	obj	_	_
+5	계속	계속	ADV	MAG	_	6	advmod	_	_
+6	닫고	닫+고	VERB	VV+EC	_	8	acl	_	_
+7	있을	있+을	AUX	VX+ETM	_	6	aux	_	_
+8	것이지만	것+이+지만	VERB	NNB+VCP+EC	_	15	advcl	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	15	advcl	_	_
+11	동보의직에서	동보의직+에서	ADV	NF+JKB	_	14	obl	_	_
+12	깊은	깊+은	ADJ	VA+ETM	_	13	amod	_	_
+13	생각까지	생각+까지	ADV	NNG+JX	_	14	obj	_	_
+14	알	알+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수있기도	수+있+기+도	NOUN	NNB+VX+ETN+JX	_	0	root	_	_
+16	한다	하+ㄴ다	AUX	VX+EF	_	15	aux	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_19_3_06
+# text =  그 마음으로 새로 배울 수있는것도많을 것이고, 자신에대한 새로운 알람도 있을 것이다.
+1	그	그	DET	MM	_	2	det	_	_
+2	마음으로	마음+으로	ADV	NNG+JKB	_	12	obl	_	_
+3	새로	새로	ADV	MAG	_	4	advmod	_	_
+4	배울	배우+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수있는것도많을	수+있+는+것+도+많+을	NOUN	NNB+VX+ETM+NNB+JX+VA+ETM	_	6	acl	_	_
+6	것이고	것+이+고	VERB	NNB+VCP+EC	_	12	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	자신에대한	자신+에+대하+ㄴ	ADV	NNG+JKB+VV+ETM	_	10	acl	_	_
+9	새로운	새롭+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	알람도	알람+도	NOUN	NNG+JX+JX	_	11	nsubj	_	_
+11	있을	있+을	VERB	VV+ETM	_	12	acl	_	_
+12	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-JPN_19_3_07
+# text =  두 번째는 협동하면 경쟁하기보다 가능성이 크게 되기 때문이다.
+1	두	두	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	8	obl	_	_
+3	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+4	경쟁하기보다	경쟁+하+기+보다	ADV	NNG+XSV+ETN+JKB	_	7	obl	_	_
+5	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	7	nsubj	_	_
+6	크게	크+게	ADV	VA+EC	_	7	advmod	_	_
+7	되기	되+기	NOUN	VV+ETN	_	8	nmod	_	_
+8	때문이다	때문+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_19_3_08
+# text =  서로 할수 있는 것은 한도가 있지만, 서로 협동하면, 능력은 두 배 삼 배가 되고, 혼자서는 할 수 없었던 것도 할수 있게 되기 쉬울 것이다.
+1	서로	서로	ADV	MAG	_	2	advmod	_	_
+2	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	3	nsubj	_	_
+3	있는	있+는	VERB	VX+ETM	_	4	acl	_	_
+4	것은	것+은	NOUN	NNB+JX	_	6	dislocated	_	_
+5	한도가	한도+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있지만	있+지만	VERB	VV+EC	_	27	advcl	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	서로	서로	ADV	MAG	_	9	advmod	_	_
+9	협동하면	협동+하+면	VERB	NNG+XSV+EC	_	27	advcl	_	SpaceAfter=No
+10	,	,	PUNCT	SP	_	9	punct	_	_
+11	능력은	능력+은	NOUN	NNG+JX	_	16	dislocated	_	_
+12	두	두	NUM	MM	_	13	nummod	_	_
+13	배	배	NOUN	NNB	_	16	nsubj	_	_
+14	삼	삼	NOUN	MM	_	15	nummod	_	_
+15	배가	배+가	NOUN	NNG+JKS	_	13	conj	_	_
+16	되고	되+고	VERB	VV+EC	_	27	advcl	_	SpaceAfter=No
+17	,	,	PUNCT	SP	_	16	punct	_	_
+18	혼자서는	혼자+서+는	NOUN	NNG+JKS+JX	_	19	nsubj	_	_
+19	할	하+ㄹ	VERB	VV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	없었던	없+었+던	VERB	VX+EP+ETM	_	22	acl	_	_
+22	것도	것+도	NOUN	NNB+JX	_	23	obj	_	_
+23	할수	하+ㄹ+수	VERB	VV+ETM+NNB	_	24	nsubj	_	_
+24	있게	있+게	VERB	VX+EC	_	26	csubj	_	_
+25	되기	되+기	VERB	VX+ETN	_	24	advcl	_	_
+26	쉬울	쉬+울	VERB	VA+ETM	_	27	acl	_	_
+27	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+28	.	.	PUNCT	SF	_	27	punct	_	_
+
+# sent_id = ARG-JPN_19_3_09
+# text =  그리고 그 가능성은 새로운 생각에도 잇고 혼자서는 생각도 못하는것이 쉽게 달성할 수 있는 것도 사실이고 그렇게 우리 세계는 발달해서 왔다.
+1	그리고	그리고	ADV	MAJ	_	20	cc	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	가능성은	가능+성+은	NOUN	NNG+JX	_	6	nsubj	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	생각에도	생각+에+도	ADV	NNG+JKB+JX	_	6	obl	_	_
+6	잇고	잇+고	VERB	NV+EC	_	15	advcl	_	_
+7	혼자서는	혼자+서+는	VERB	NNG+JKS+JX	_	9	nsubj	_	_
+8	생각도	생각+도	NOUN	NNG+JX	_	9	obj	_	_
+9	못하는것이	못하+는+것+이	NOUN	VV+ETM+NNG+JKS	_	11	nsubj	_	_
+10	쉽게	쉽+게	ADV	VA+EC	_	11	advmod	_	_
+11	달성할	달성+하+ㄹ	VERB	NNG+XSV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있는	있+는	VERB	VX+ETM	_	14	acl	_	_
+14	것도	것+도	NOUN	NNB+JX	_	15	nsubj	_	_
+15	사실이고	사실+이+고	VERB	NNG+VCP+EC	_	20	advcl	_	_
+16	그렇게	그렇+게	ADV	VA+EC	_	19	advmod	_	_
+17	우리	우리	PRON	NP	_	18	nmod	_	_
+18	세계는	세계+는	NOUN	NNG+JX	_	20	nsubj	_	_
+19	발달해서	발달+하+아서	VERB	NNG+XSV+EC	_	20	advcl	_	_
+20	왔다	오+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_
+
+# sent_id = ARG-JPN_19_3_10
+# text =  세 번째는 감삿마음이 생겨지는 것이다.
+1	세	세	NUM	MM	_	2	nummod	_	_
+2	번째는	번째+는	NOUN	NNB+JX	_	5	obl	_	_
+3	감삿마음이	감삿+마음+이	NOUN	NF+NNG+JKS	_	4	nsubj	_	_
+4	생겨지는	생기+어지+는	VERB	VV+XSV+JX	_	5	acl	_	_
+5	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_19_3_11
+# text =  협동하고 있으면 도와 줄 때가 있어서 감삿 마음이 생겨진다.
+1	협동하고	협동+하+고	VERB	NNG+XSV	_	6	advcl	_	_
+2	있으면	있+으면	VERB	VX+EC	_	1	aux	_	_
+3	도와	돕+아	VERB	VV+EC	_	5	acl	_	_
+4	줄	주+ㄹ	VERB	VX+ETM	_	3	aux	_	_
+5	때가	때+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	있어서	있+어서	VERB	VV+EC	_	9	advcl	_	_
+7	감삿	감삿	NOUN	NF	_	8	nmod	_	_
+8	마음이	마음+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	생겨진다	생기+어지+ㄴ다	VERB	VV+XSV+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_19_3_12
+# text =  따뜻한 마음이 생기면 사람 마음에는 행복도가 높아져서 더 힘든 것도 할 수 있게 된다고 생각한다.
+1	따뜻한	따뜻+하+ㄴ	ADJ	XR+XSA+ETM	_	2	amod	_	_
+2	마음이	마음+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	생기면	생기+면	VERB	VV+EC	_	7	advcl	_	_
+4	사람	사람	NOUN	NNG	_	5	nmod	_	_
+5	마음에는	마음+에+는	ADV	NNG+JKB+JX	_	7	obl	_	_
+6	행복도가	행복+도+가	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	높아져서	높+아지+어서	VERB	VA+XSV+EC	_	13	advcl	_	_
+8	더	더	ADV	MAG	_	9	advmod	_	_
+9	힘든	힘들+ㄴ	VERB	VA+ETM	_	10	amod	_	_
+10	것도	것+도	NOUN	NNB+JX	_	11	obj	_	_
+11	할	하+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있게	있+게	VERB	VX+EC	_	15	ccomp	_	_
+14	된다고	되+ㄴ다고	VERB	VX+EC	_	13	advcl	_	_
+15	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-JPN_19_3_13
+# text =  우리 가능성을 크게하고, 인간 마음을 따뜻하게 하기 위해서도 경쟁보다 협동을 하는것을 나는 더 선호한다.
+1	우리	우리	PRON	NP	_	2	nmod	_	_
+2	가능성을	가능+성+을	NOUN	NNG+XSN+JKO	_	3	obj	_	_
+3	크게하고	크+게+하+고	VERB	VA+EC+VV+EC	_	9	advcl	_	SpaceAfter=No
+4	,	,	PUNCT	SP	_	3	punct	_	_
+5	인간	인간	NOUN	NNG	_	6	nmod	_	_
+6	마음을	마음+을	NOUN	NNG+JKO	_	8	obj	_	_
+7	따뜻하게	따뜻+하+게	ADV	XR+XSA+EC	_	8	advmod	_	_
+8	하기	하+기	NOUN	VV+ETN	_	9	obj	_	_
+9	위해서도	위하+아서+도	VERB	VV+EC+JX	_	15	advcl	_	_
+10	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	12	obl	_	_
+11	협동을	협동+을	NOUN	NNG+JKO	_	12	obj	_	_
+12	하는것을	하+는+것+을	VERB	VV+ETM+NNB+JKO	_	15	obj	_	_
+13	나는	나+는	VERB	NP+JX	_	15	nsubj	_	_
+14	더	더	ADV	MAG	_	15	advmod	_	_
+15	선호한다	선호+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_

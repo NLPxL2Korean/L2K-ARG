@@ -1,0 +1,72 @@
+# sent_id = ARG-JPN_27_2_01
+# text =  저는 역사를 배워야 하고 생각해요.
+1	저는	저+는	PRON	NP+JX	_	5	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워야	배우+어야	VERB	VV+EC	_	5	advcl	_	_
+4	하고	하+고	VERB	VX+EC	_	3	aux	_	_
+5	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	3	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_27_2_02
+# text =  역사를 배우면 지금 사회가 이렇게 된 이유나 국제 사이가 지금 것이 된 이유를 알 수 있어요.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우면	배우+면	VERB	VV+EC	_	16	advcl	_	_
+3	지금	지금	ADV	MAG	_	6	advmod	_	_
+4	사회가	사회+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	이렇게	이렇+게	ADV	VA+EC	_	6	advmod	_	_
+6	된	되+ㄴ	VERB	VV+ETM	_	7	acl	_	_
+7	이유나	이유+나	NOUN	NNG+JC	_	14	obj	_	_
+8	국제	국제	NOUN	NNG	_	9	nmod	_	_
+9	사이가	사이+가	NOUN	NNG+JKS	_	12	nsubj	_	_
+10	지금	지금	ADV	NNG	_	11	nmod	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	된	되+ㄴ	VERB	VV+ETM	_	13	acl	_	_
+13	이유를	이유+를	NOUN	NNG+JKO	_	7	conj	_	_
+14	알	알+ㄹ	VERB	VV+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있어요	있+어요	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-JPN_27_2_03
+# text =  저는 역사를 배워서 모두로 일본의 방향을 정하는 중용성을 알았어요.
+1	저는	저+는	PRON	NP+JX	_	9	nsubj	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	배워서	배우+어서	VERB	VV+EC	_	9	advcl	_	_
+4	모두로	모두+로	ADV	NNG+JKB	_	9	obl	_	_
+5	일본의	일본+의	NOUN	NNP+JKG	_	6	nmod:poss	_	_
+6	방향을	방향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	정하는	정하+는	VERB	VV+ETM	_	8	acl	_	_
+8	중용성을	중용+성+을	NOUN	NF+XSN+JKO	_	9	obj	_	_
+9	알았어요	알+았+어요	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-JPN_27_2_04
+# text =  또
+1	또	또	ADV	MAG	_	0	root	_	_
+
+# sent_id = ARG-JPN_27_2_05
+# text =  지금까지 사람들이 열심히 만든 휸대일본을 미래에서 어떻게 변화하시면 더 좋을까고 생각해졌어요.
+1	지금까지	지금+까지	ADV	NNG+JX	_	4	obl	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	열심히	열심히	ADV	MAG	_	4	advmod	_	_
+4	만든	만들+ㄴ	VERB	VV+ETM	_	5	acl	_	_
+5	휸대일본을	휸대+일본+을	NOUN	NF+NNP+JKO	_	8	obj	_	_
+6	미래에서	미래+에서	ADV	NNG+JKB	_	8	obl	_	_
+7	어떻게	어떻+게	ADV	VA+EC	_	8	advmod	_	_
+8	변화하시면	변화+하+시+면	VERB	NNG+XSV+EP+EC	_	10	advcl	_	_
+9	더	더	ADV	MAG	_	10	advmod	_	_
+10	좋을까고	좋+을+까+고	VERB	VA+EC+EF+NA	_	11	ccomp	_	_
+11	생각해졌어요	생각+하+아지+었+어요	VERB	NNG+XSV+XSV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-JPN_27_2_06
+# text =  그래서 저는 미래위에 역사를 배우는 것이 필요라고 생각해요.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	8	nsubj	_	_
+3	미래위에	미래+위에	ADV	NNG+NA	_	8	advmod	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배우는	배우+는	VERB	VV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	7	nsubj	_	_
+7	필요라고	필요+이+라고	VERB	NNG+VCP+JKQ	_	8	ccomp	_	_
+8	생각해요	생각+하+아요	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

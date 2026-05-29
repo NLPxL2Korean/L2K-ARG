@@ -1,0 +1,68 @@
+# sent_id = ARG-JPN_09_1_01
+# text =  조기 언어교육의 몇가지있는 장점 중 하나는 두개이상의 언어를 모국어처럼 사용할 수 있게 되는 점이다.
+1	조기	조기	NOUN	NNG	_	2	nmod	_	_
+2	언어교육의	언어+교육+의	NOUN	NNG+NNG+JKG	_	3	nmod:poss	_	_
+3	몇가지있는	몇+가지+있+는	NOUN	MM+NNB+VV+ETM	_	4	acl	_	_
+4	장점	장점	NOUN	NNG	_	14	obl	_	_
+5	중	중	ADP	NNB	_	4	case	_	_
+6	하나는	하나+는	NUM	NR+JX	_	14	nsubj	_	_
+7	두개이상의	두+개+이상+의	NOUN	MM+NNB+NNG+JKG	_	8	nmod:poss	_	_
+8	언어를	언어+를	NOUN	NNG+JKO	_	10	obj	_	_
+9	모국어처럼	모국어+처럼	ADV	NNG+JKB	_	10	obl	_	_
+10	사용할	사용+하+ㄹ	VERB	NNG+XSV+ETM	_	11	acl	_	_
+11	수	수	NOUN	NNB	_	13	nsubj	_	_
+12	있게	있+게	VERB	VX+EC	_	14	acl	_	_
+13	되는	되+는	VERB	VX+ETM	_	12	advcl	_	_
+14	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-JPN_09_1_02
+# text =  언어학습은 몇살부터라도 시작할 수 있지만 언어능력이 제일활발하게 발전하는 어린 나이 때 학습을 충분히 해야 모국어와 같은 수준으로 외국어를 습득할 수 있다는 연구도 많다.
+1	언어학습은	언어+학습+은	NOUN	NNG+NNG+JX	_	3	obj	_	_
+2	몇살부터라도	몇+살+부터+라도	ADV	MM+NNB+JX+JX	_	3	obl	_	_
+3	시작할	시작+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있지만	있+지만	VERB	VX+EC	_	23	advcl	_	_
+6	언어능력이	언어+능력+이	NOUN	NNG+NNG+JKS	_	8	nsubj	_	_
+7	제일활발하게	제일+활발+하+게	VERB	MAG+XR+XSA+EC	_	8	advmod	_	_
+8	발전하는	발전+하+는	VERB	NNG+XSV+ETM	_	10	acl	_	_
+9	어린	어리+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+10	나이	나이	NOUN	NNG	_	14	obl	_	_
+11	때	때	ADP	NNG	_	10	case	_	_
+12	학습을	학습+을	NOUN	NNG+JKO	_	14	obj	_	_
+13	충분히	충분히	ADV	MAG	_	14	advmod	_	_
+14	해야	하+아야	VERB	VV+EC	_	19	advcl	_	_
+15	모국어와	모국어+와	NOUN	NNG+JKB	_	16	obl	_	_
+16	같은	같+은	VERB	VA+ETM	_	17	acl	_	_
+17	수준으로	수준+으로	ADV	NNG+JKB	_	19	obl	_	_
+18	외국어를	외국어+를	NOUN	NNG+JKO	_	19	obj	_	_
+19	습득할	습득+하+ㄹ	VERB	NNG+XSV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있다는	있+다는	VERB	VX+ETM	_	22	acl	_	_
+22	연구도	연구+도	NOUN	NNG+JX	_	23	nsubj	_	_
+23	많다	많+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+24	.	.	PUNCT	SF	_	23	punct	_	_
+
+# sent_id = ARG-JPN_09_1_03
+# text =  국제적 공통언어인 영어를 자아가 생기지도 않은 정말 어린 나이 때 아이한테 가르치려고 하는 부모들이 많은 것도 이 경향에 따른 것이다.
+1	국제적	국제+적	ADJ	NNG+XSN	_	2	nmod	_	_
+2	공통언어인	공통+언어+이+ㄴ	VERB	NNG+NNG+VCP+ETM	_	3	acl	_	_
+3	영어를	영어+를	NOUN	NNG+JKO	_	12	obj	_	_
+4	자아가	자아+가	VERB	NNG+JKS	_	5	nsubj	_	_
+5	생기지도	생기+지+도	VERB	VV+EC+JX	_	9	acl	_	_
+6	않은	않+은	AUX	VX+ETM	_	5	aux	_	_
+7	정말	정말	ADV	MAG	_	8	advmod	_	_
+8	어린	어리+ㄴ	ADJ	VA+ETM	_	9	amod	_	_
+9	나이	나이	NOUN	NNG	_	12	obl	_	_
+10	때	때	ADP	NNG	_	12	case	_	_
+11	아이한테	아이+한테	ADV	NNB+JKB	_	12	obl	_	_
+12	가르치려고	가르치+려고	VERB	VV+EC	_	14	acl	_	_
+13	하는	하+는	AUX	VX+ETM	_	12	aux	_	_
+14	부모들이	부모+들+이	NOUN	NNG+XSN+JKS	_	15	nsubj	_	_
+15	많은	많+은	VERB	VA+ETM	_	16	acl	_	_
+16	것도	것+도	NOUN	NNB+JX	_	20	nsubj	_	_
+17	이	이	DET	MM	_	18	det	_	_
+18	경향에	경향+에	ADV	NNG+JKB	_	19	obl	_	_
+19	따른	따르+ㄴ	VERB	VV+ETM	_	20	acl	_	_
+20	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	20	punct	_	_

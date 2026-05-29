@@ -1,0 +1,195 @@
+# sent_id = ARG-CHN_25_1_01
+# text = 자연문제는 현재사회에서 제일 큰 문제로 다루는 중의 하나입니다.
+1	자연문제는	자연+문제+는	NOUN	NNG+NNG+JX	_	8	nsubj	_	_
+2	현재사회에서	현재+사회+에서	ADV	NNG+NNG+JKB	_	6	obl	_	_
+3	제일	제일	ADV	MAG	_	4	advmod	_	_
+4	큰	크+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	문제로	문제+로	ADV	NNG+JKB	_	6	obl	_	_
+6	다루는	다루+는	VERB	VV+ETM	_	7	acl	_	_
+7	중의	중+의	NOUN	NNB+JKG	_	8	nmod:poss	_	_
+8	하나입니다	하나+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_25_1_02
+# text = 자연에 대하여 의론이 나오자 당연히 자연보존과 자연개발에 대한 토론도 시작하기 마련입니다.
+1	자연에	자연+에	ADV	NNG+JKB	_	2	obl	_	_
+2	대하여	대하+아	VERB	VV+EC	_	4	advcl	_	_
+3	의론이	의론+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+4	나오자	나오+자	VERB	VV+EC	_	10	advcl	_	_
+5	당연히	당연히	ADV	MAG	_	10	advmod	_	_
+6	자연보존과	자연+보존+과	NOUN	NNG+NNG+JC	_	8	obl	_	_
+7	자연개발에	자연+개발+에	ADV	NNG+NNG+JKB	_	6	conj	_	_
+8	대한	대하+ㄴ	VERB	VV+ETM	_	9	acl	_	_
+9	토론도	토론+도	NOUN	NNG+JX	_	10	obj	_	_
+10	시작하기	시작+하+기	VERB	NNG+XSV+ETN	_	11	nmod	_	_
+11	마련입니다	마련+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_25_1_03
+# text = 그럼 자연보조과 자연개발 중 어느 것이 더 중요하는가?
+1	그럼	그럼	ADV	MAG	_	8	advmod	_	_
+2	자연보조과	자연+보조+과	NOUN	NNG+NNG+JC	_	8	obl	_	_
+3	자연개발	자연+개발	NOUN	NNG+NNG	_	2	conj	_	_
+4	중	중	NOUN	NNB	_	3	case	_	_
+5	어느	어느	DET	MM	_	6	det	_	_
+6	것이	것+이	NOUN	NNB+JKS	_	8	nsubj	_	_
+7	더	더	ADV	MAG	_	8	advmod	_	_
+8	중요하는가	중요+하+는가	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_25_1_04
+# text = 물론 두개는 다 중요하다고 여깁니다.
+1	물론	물론	ADV	MAG	_	5	advmod	_	_
+2	두개는	두+개+는	NOUN	MM+NNB+JX	_	5	obj	_	_
+3	다	다	ADV	MAG	_	5	advmod	_	_
+4	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	5	ccomp	_	_
+5	여깁니다	여기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CHN_25_1_05
+# text = 하지만 나는 자연보존이 더 중요하다고 여깁니다.
+1	하지만	하지만	ADV	MAJ	_	6	cc	_	_
+2	나는	나+는	PRON	NP+JX	_	6	nsubj	_	_
+3	자연보존이	자연+보존+이	NOUN	NNG+NNG+JKS	_	5	obj	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	여깁니다	여기+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_25_1_06
+# text = 자연의 자체가 조손께서 물려받고 지금의 과학으로 개조되지 않은 지구 원래의 모습입니다.
+1	자연의	자연+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	자체가	자체+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+3	조손께서	조손+께서	NOUN	NF+JKS	Typo=Yes	4	nsubj	_	_
+4	물려받고	물려받+고	VERB	VV+EC	_	9	acl	_	_
+5	지금의	지금+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	과학으로	과학+으로	ADV	NNG+JKB	_	7	obl	_	_
+7	개조되지	개조+되+지	VERB	NNG+XSV+EC	_	4	conj	_	_
+8	않은	않	AUX	VX+ETM	_	7	aux	_	_
+9	지구	지구	NOUN	NNG	_	10	nmod	_	_
+10	원래의	원래+의	NOUN	NNG+JKG	_	11	nmod:poss	_	_
+11	모습입니다	모습+이+ㅂ니다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-CHN_25_1_07
+# text = 지금의 과학에 의해 그의 모습은 조금식 파손되고 있지만 현재 제일 중요한것은 자연을 보호하고 그의 모습을 보존하는 것이라고 생각합니다.
+1	지금의	지금+의	NOUN	NNG+JKG	_	2	nmod:poss	_	_
+2	과학에	과학+에	ADV	NNG+JKB	_	3	obl	_	_
+3	의해	의하+아	VERB	VV+EC	_	7	advcl	_	_
+4	그의	그+의	PRON	NP+JKG	_	5	nmod:poss	_	_
+5	모습은	모습+은	NOUN	NNG+JX	_	7	nsubj	_	_
+6	조금식	조금+식	ADV	NNG+NA	Typo=Yes	7	advmod	_	_
+7	파손되고	파손+되+고	VERB	NNG+XSV+EC	_	17	advcl	_	_
+8	있지만	있	AUX	VX+EC	_	7	aux	_	_
+9	현재	현재	ADV	MAG	_	11	advmod	_	_
+10	제일	제일	ADV	MAG	_	11	advmod	_	_
+11	중요한것은	중요+하+ㄴ+것+은	NOUN	NNG+XSA+ETM+NNB+ETM	_	17	nsubj	_	_
+12	자연을	자연+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	보호하고	보호+하+고	VERB	NNG+XSV+EC	_	17	acl	_	_
+14	그의	그+의	PRON	NP+JKG	_	15	nmod:poss	_	_
+15	모습을	모습+을	NOUN	NNG+JKO	_	16	obj	_	_
+16	보존하는	보존+하+는	VERB	NNG+XSV+ETM	_	13	conj	_	_
+17	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	18	ccomp	_	_
+18	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_25_1_08
+# text = 사화의 발전과 과학읜 진보에 따라 원래보다 더욱 좋은 자연을 개발할수 있다고 자연 개발을 추구하는 사람도 있을 것입니다.
+1	사화의	사화+의	NOUN	NF+JKG	Typo=Yes	3	nmod:poss	_	_
+2	발전과	발전+과	NOUN	NNG+JC	_	5	obl	_	_
+3	과학읜	과학+읜	NOUN	NNG+NA	Typo=Yes	4	nmod:poss	_	_
+4	진보에	진보+에	ADV	NNG+JKB	_	2	conj	_	_
+5	따라	따르+아	VERB	VV+EC	_	11	advcl	_	_
+6	원래보다	원래+보다	ADV	NNG+JKB	_	10	obl	_	_
+7	더욱	더욱	ADV	MAG	_	8	advmod	_	_
+8	좋은	좋+은	ADJ	VA+ETM	_	9	amod	_	_
+9	자연을	자연+을	NOUN	NNG+JKO	_	10	obj	_	_
+10	개발할수	개발+하+ㄹ+수	NOUN	NNG+XSV+ETM+NNB	_	11	nsubj	_	_
+11	있다고	있+다고	VERB	VX+EC	_	14	ccomp	_	_
+12	자연	자연	NOUN	NNG	_	13	nmod	_	_
+13	개발을	개발+을	NOUN	NNG+JKO	_	14	obj	_	_
+14	추구하는	추구+하+는	VERB	NNG+XSV+ETM	_	15	acl	_	_
+15	사람도	사람+도	NOUN	NNG+JX	_	16	nsubj	_	_
+16	있을	있+을	VERB	VV+ETM	_	17	acl	_	_
+17	것입니다	것+이+ㅂ니다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+18	.	.	PUNCT	SF	_	17	punct	_	_
+
+# sent_id = ARG-CHN_25_1_09
+# text = 하지만 깨여진 퍼즐은 맞추기 힘들다고 자연을 보존하지 않은 상태에서 오직 자연개발에 중심을 돌리면 인류에게 지구에게 큰 피해를 입일것 입니다.
+1	하지만	하지만	ADV	MAJ	_	18	cc	_	_
+2	깨여진	깨+여지+ㄴ	VERB	VV+NA+ETM	Typo=Yes	3	acl	_	_
+3	퍼즐은	퍼즐+은	NOUN	NNG+JX	_	4	obj	_	_
+4	맞추기	맞추+기	VERB	VV+ETN	_	5	nsubj	_	_
+5	힘들다고	힘들+다고	ADJ	VA+EC	_	18	advcl	_	_
+6	자연을	자연+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	보존하지	보존+하+지	VERB	NNG+XSV+EC	_	9	acl	_	_
+8	않은	않	AUX	VX+ETM	_	7	aux	_	_
+9	상태에서	상태+에서	ADV	NNG+JKB	_	13	obl	_	_
+10	오직	오직	ADV	MAG	_	13	advmod	_	_
+11	자연개발에	자연+개발+에	ADV	NNG+NNG+JKB	_	13	obl	_	_
+12	중심을	중심+을	NOUN	NNG+JKO	_	13	obj	_	_
+13	돌리면	돌리+면	VERB	VV+EC	_	18	advcl	_	_
+14	인류에게	인류+에게	ADV	NNG+JKB	_	18	obl	_	_
+15	지구에게	지구+에게	ADV	NNG+JKB	_	18	obl	_	_
+16	큰	크+ㄴ	ADJ	VA+ETM	_	17	amod	_	_
+17	피해를	피해+를	NOUN	NNG+JKO	_	18	obj	_	_
+18	입일것	입+이+ㄹ+것	VERB	VV+NA+ETM+NNB	Typo=Yes	0	root	_	_
+19	입니다	이+ㅂ니다	ADJ	VCP+EF	_	18	flat	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_25_1_10
+# text = 지금 실시하고있는 스레기 분류, 흠연실 설치, 이는 다 자연 보존에 대한 노력이 아니겠습니까?
+1	지금	지금	ADV	MAG	_	2	advmod	_	_
+2	실시하고있는	실시+하+고+있+는	VERB	NNG+XSV+EC+VX+ETM	_	4	acl	_	_
+3	스레기	스레기	NOUN	NF	Typo=Yes	4	nmod	_	_
+4	분류	분류	NOUN	NNG	_	6	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	흠연실	흠연+실	NOUN	NF+XSN	Typo=Yes	7	nmod	_	_
+7	설치	설치	NOUN	NNG	_	9	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	이는	이+는	PRON	NP+JX	_	15	dislocated	_	_
+10	다	다	ADV	MAG	_	15	advmod	_	_
+11	자연	자연	NOUN	NNG	_	12	nmod	_	_
+12	보존에	보존+에	ADV	NNG+JKB	_	13	obl	_	_
+13	대한	대하+ㄴ	VERB	VV+ETM	_	14	acl	_	_
+14	노력이	노력+이	NOUN	NNG+JKC	_	15	nsubj	_	_
+15	아니겠습니까	아니+겠+습니까	ADJ	VCN+EP+EF	_	0	root	_	SpaceAfter=No
+16	?	?	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_25_1_11
+# text = 그리하여 저는 자연개발보다 자연보존이 더욱 중요하다고 봅니다.
+1	그리하여	그리하여	ADV	MAJ	_	7	cc	_	_
+2	저는	저+는	PRON	NP+JX	_	7	nsubj	_	_
+3	자연개발보다	자연+개발+보다	ADV	NNG+NNG+JKB	_	6	obl	_	_
+4	자연보존이	자연+보존+이	NOUN	NNG+NNG+JKS	_	6	nsubj	_	_
+5	더욱	더욱	ADV	MAG	_	6	advmod	_	_
+6	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	7	ccomp	_	_
+7	봅니다	보+ㅂ니다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CHN_25_1_12
+# text = 자연을 보호하려면 우리의 힘이 아주 중요합니다.
+1	자연을	자연+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	보호하려면	보호+하+려면	VERB	NNG+XSV+EC	_	6	advcl	_	_
+3	우리의	우리+의	PRON	NP+JKG	_	4	nmod:poss	_	_
+4	힘이	힘+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	아주	아주	ADV	MAG	_	6	advmod	_	_
+6	중요합니다	중요+하+ㅂ니다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_25_1_13
+# text = 자연보존이든 자연개발이든 우리가 힘을 합쳐 자연을 보호하면 지구의 환경은 점점 나이질 것이라고 밎습니다.
+1	자연보존이든	자연+보존+이든	NOUN	NNG+NNG+JX	_	13	obl	_	_
+2	자연개발이든	자연+개발+이든	NOUN	NNG+NNG+JX	_	13	obl	_	_
+3	우리가	우리+가	PRON	NP+JKS	_	5	nsubj	_	_
+4	힘을	힘+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	합쳐	합치+어	VERB	VV+EC	_	7	advcl	_	_
+6	자연을	자연+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	보호하면	보호+하+면	VERB	NNG+XSV+EC	_	11	advcl	_	_
+8	지구의	지구+의	NOUN	NNG+JKG	_	9	nmod:poss	_	_
+9	환경은	환경+은	NOUN	NNG+JX	_	11	nsubj	_	_
+10	점점	점점	ADV	MAG	_	11	advmod	_	_
+11	나이질	나이지+ㄹ	VERB	NV+ETM	Typo=Yes	12	acl	_	_
+12	것이라고	것+이+라고	ADJ	NNB+VCP+EC	_	13	ccomp	_	_
+13	밎습니다	밎+습니다	VERB	NV+EF	Typo=Yes	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_

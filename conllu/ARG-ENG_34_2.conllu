@@ -1,0 +1,144 @@
+# sent_id = ARG-ENG_34_2_01
+# text = "역사를 모르는 사람들이 반복될 것이다" 라는 말이 유명하다.
+1	"역사를	"+역사+를	NOUN	SS+NNG+JKO	_	2	obj	_	_
+2	모르는	모르+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+4	반복될	반복+되+ㄹ	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	것이다"	것+이+다+"	VERB	NNG+VCP+EF+SS	_	7	acl	_	_
+6	라는	라는	ADP	JKQ	_	5	case	_	_
+7	말이	말+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	유명하다	유명+하+다	ADJ	XR+XSA+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_34_2_02
+# text = 역사를 배우는 것이 아주 중요하다고 생각한다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	배우는	배우+는	VERB	VV+ETM	_	3	acl	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	6	nsubj	_	_
+4	아주	아주	ADV	MAG	_	5	advmod	_	_
+5	중요하다고	중요+하+다고	ADJ	NNG+XSA+EC	_	6	ccomp	_	_
+6	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-ENG_34_2_03
+# text = 역사는 사람들에게 어디에서 왔는지, 어떻게 이 곳, 이 나라가 그렇게 되는지 가르쳐줄 수 있다.
+1	역사는	역사+는	NOUN	NNG+JX	_	14	nsubj	_	_
+2	사람들에게	사람+들+에게	ADV	NNG+XSN+JKB	_	14	obl	_	_
+3	어디에서	어디+에서	PRON	NP+JKB	_	4	obl	_	_
+4	왔는지	오+았+는지	VERB	VV+EP+EC	_	14	ccomp	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	어떻게	어떻+게	ADV	VA+EC	_	13	advmod	_	_
+7	이	이	DET	MM	_	8	det	_	_
+8	곳	곳	NOUN	NNG	_	11	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	이	이	DET	MM	_	11	det	_	_
+11	나라가	나라+가	NOUN	NNG+JKS	_	13	nsubj	_	_
+12	그렇게	그렇+게	ADV	VA+EC	_	13	advmod	_	_
+13	되는지	되+는지	VERB	VV+EC	_	4	conj	_	_
+14	가르쳐줄	가르치+어+주+ㄹ	VERB	VV+EC+VX+ETM	_	15	acl	_	_
+15	수	수	NOUN	NNB	_	16	nsubj	_	_
+16	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-ENG_34_2_04
+# text = 또한 이 세상을 바꾸고 싶으면 역사를 반드시 잘 알아야 된다고 생각한다.
+1	또한	또한	ADV	MAJ	_	11	cc	_	_
+2	이	이	DET	MM	_	3	det	_	_
+3	세상을	세상+을	NOUN	NNG+JKO	_	4	obj	_	_
+4	바꾸고	바꾸+고	VERB	VV+EC	_	9	advcl	_	_
+5	싶으면	싶	AUX	VX+EC	_	4	aux	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+7	반드시	반드시	ADV	MAG	_	9	advmod	_	_
+8	잘	잘	ADV	MAG	_	9	advmod	_	_
+9	알아야	알+아야	VERB	VV+EC	_	11	ccomp	_	_
+10	된다고	되+ㄴ다고	VERB	VX+EC	_	9	advcl	_	_
+11	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_34_2_05
+# text = 왜냐하면 역사에서 다른 사람의 성공과 실수를 알게 될 수 있는 것이다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	11	cc	_	_
+2	역사에서	역사+에서	ADV	NNG+JKB	_	7	obl	_	_
+3	다른	다르+ㄴ	ADJ	VA+ETM	_	4	amod	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+5	성공과	성공+과	NOUN	NNG+JC	_	7	obj	_	_
+6	실수를	실수+를	NOUN	NNG+JKO	_	5	conj	_	_
+7	알게	알+게	VERB	VV+EC	_	9	acl	_	_
+8	될	되+ㄹ	VERB	VX+ETM	_	7	advcl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있는	있+는	VERB	VX+ETM	_	11	acl	_	_
+11	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_34_2_06
+# text = 옛날에는 가치관은 매우 달랐다.
+1	옛날에는	옛날+에+는	ADV	NNG+JKB+JX	_	4	obl	_	_
+2	가치관은	가치관+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	매우	매우	ADV	MAG	_	4	advmod	_	_
+4	달랐다	다르+았+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_34_2_07
+# text = 예를 들면 미국은 처음 생겼을 때부터 1863년까지 남쪽의 주들이 노예가 있었다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	11	advcl	_	_
+3	미국은	미국+은	NOUN	NNP+JX	_	5	nsubj	_	_
+4	처음	처음	ADV	NNG	_	5	advmod	_	_
+5	생겼을	생기+었+을	VERB	VV+EP+ETM	_	11	advcl	_	_
+6	때부터	때+부터	ADV	NNG+JX	_	5	mark	_	_
+7	1863년까지	1863+년+까지	NOUN	SN+NNB+JX	_	11	obl	_	_
+8	남쪽의	남쪽+의	NOUN	NNP+JKG	_	9	nmod:poss	_	_
+9	주들이	주+들+이	NOUN	NNG+XSN+JKS	_	11	dislocated	_	_
+10	노예가	노예+가	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있었다	있+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_34_2_08
+# text = 남북 전쟁을 겪은 다음에 노예가 풀었지만 흑인 사람들이 아주 힘들게 살았었다.
+1	남북	남+북	NOUN	NNG+NNG	_	2	nmod	_	_
+2	전쟁을	전쟁+을	NOUN	NNG+JKO	_	3	obj	_	_
+3	겪은	겪+은	VERB	VV+ETM	_	6	advcl	_	_
+4	다음에	다음+에	ADV	NNG+JKB	_	3	mark	_	_
+5	노예가	노예+가	NOUN	NNG+JKS	_	6	nsubj	_	_
+6	풀었지만	풀+었+지만	VERB	VV+EP+EC	_	11	advcl	_	_
+7	흑인	흑인	NOUN	NNG	_	8	nmod	_	_
+8	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	11	nsubj	_	_
+9	아주	아주	ADV	MAG	_	10	advmod	_	_
+10	힘들게	힘들+게	ADV	VA+EC	_	11	advmod	_	_
+11	살았었다	살+았+었+다	VERB	VV+EP+EP+EF	_	0	root	_	SpaceAfter=No
+12	.	.	PUNCT	SF	_	11	punct	_	_
+
+# sent_id = ARG-ENG_34_2_09
+# text = 이런 슬픈 역사 때문에 더 행복한 미래가 만들어야 된다.
+1	이런	이런	DET	MM	_	3	det	_	_
+2	슬픈	슬프+ㄴ	ADJ	VA+ETM	_	3	amod	_	_
+3	역사	역사	NOUN	NNG	_	8	obl	_	_
+4	때문에	때문+에	ADV	NNB+JKB	_	3	case	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	행복한	행복+하+ㄴ	ADJ	NNG+XSA+ETM	_	7	amod	_	_
+7	미래가	미래+가	NOUN	NNG+JKS	_	8	nsubj	_	_
+8	만들어야	만들+어야	VERB	VV+EC	_	0	root	_	_
+9	된다	되+ㄴ다	VERB	VX+EF	_	8	advcl	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_34_2_10
+# text = 이 역사를 알아야 세상을 바꿀 수 있다고 생각한다.
+1	이	이	DET	MM	_	2	det	_	_
+2	역사를	역사+를	NOUN	NNG+JKO	_	3	obj	_	_
+3	알아야	알+아야	VERB	VV+EC	_	5	advcl	_	_
+4	세상을	세상+을	NOUN	NNG+JKO	_	5	obj	_	_
+5	바꿀	바꾸+ㄹ	VERB	VV+ETM	_	6	acl	_	_
+6	수	수	NOUN	NNB	_	7	nsubj	_	_
+7	있다고	있+다고	VERB	VX+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_34_2_11
+# text = 그러니까 사람들이 다 역사를 배워야 한다.
+1	그러니까	그러니까	ADV	MAJ	_	5	cc	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	5	nsubj	_	_
+3	다	다	ADV	MAG	_	5	advmod	_	_
+4	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+5	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+6	한다	하	AUX	VX+EF	_	5	aux	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	5	punct	_	_

@@ -1,0 +1,211 @@
+# sent_id = ARG-CHN_26_2_01
+# text = 협동은 사람들이 서로 도와주면서 일하는 것이고 경쟁은 비교할 만한 대상이 있고 더 열심히 일을 해야 하는 생각에서 성공시킬 수 있다.
+1	협동은	협동+은	NOUN	NNP+JX	_	6	nsubj	_	_
+2	사람들이	사람+들+이	NOUN	NNG+XSN+JKS	_	4	nsubj	_	_
+3	서로	서로	ADV	MAG	_	4	advmod	_	_
+4	도와주면서	도와주+면서	VERB	VV+EC	_	5	advcl	_	_
+5	일하는	일+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이고	것+이+고	ADJ	NNB+VCP+EC	_	0	root	_	_
+7	경쟁은	경쟁+은	NOUN	NNG+JX	_	11	obl	_	_
+8	비교할	비교+하+ㄹ	VERB	NNG+XSV+ETM	_	10	acl	_	_
+9	만한	만하+ㄴ	VERB	VX+ETM	_	8	advcl	_	_
+10	대상이	대상+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	있고	있+고	ADJ	VA+EC	_	15	advcl	_	_
+12	더	더	ADV	MAG	_	13	advmod	_	_
+13	열심히	열심히	ADV	MAG	_	15	advmod	_	_
+14	일을	일+을	NOUN	NNG+JKO	_	15	obj	_	_
+15	해야	하+아야	VERB	VV+EC	_	17	acl	_	_
+16	하는	하	AUX	VX+ETM	_	15	aux	_	_
+17	생각에서	생각+에서	ADV	NNG+JKB	_	20	obl	_	_
+18	성공시킬	성공+시키+ㄹ	VERB	NNG+XSV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있다	있+다	ADJ	VX+EF	_	6	conj	_	SpaceAfter=No
+21	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CHN_26_2_02
+# text = 사실상 두 가지가 모두 성공에 큰 영향을 미칠 수 있다.
+1	사실상	사실+상	NOUN	NNG+XSN	_	10	obl	_	_
+2	두	두	DET	MM	_	3	det	_	_
+3	가지가	가지+가	NOUN	NNB+JKS	_	8	nsubj	_	_
+4	모두	모두	ADV	MAG	_	8	advmod	_	_
+5	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미칠	미치+ㄹ	VERB	VV+ETM	_	9	acl	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-CHN_26_2_03
+# text = 그러나 협동은 경쟁보다 더 큰 영향을 미친다고 생각한다.
+1	그러나	그러나	ADV	MAJ	_	8	cc	_	_
+2	협동은	협동+은	NOUN	NNG+JX	_	7	nsubj	_	_
+3	경쟁보다	경쟁+보다	ADV	NNG+JKB	_	7	obl	_	_
+4	더	더	ADV	MAG	_	5	advmod	_	_
+5	큰	크+ㄴ	ADJ	VA+ETM	_	6	amod	_	_
+6	영향을	영향+을	NOUN	NNG+JKO	_	7	obj	_	_
+7	미친다고	미치+ㄴ다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각한다	생각+하+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CHN_26_2_04
+# text = 그 이유는 다음과 같아.
+1	그	그	DET	MM	_	2	det	_	_
+2	이유는	이유+는	NOUN	NNG+JX	_	4	nsubj	_	_
+3	다음과	다음+과	ADV	NNG+JKB	_	4	obl	_	_
+4	같아	같+아	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CHN_26_2_05
+# text = 성공한 사람은 모두 스스로 성공하는 것이 아니고 도와주는 사람이 있고 같이 노력하는 사람이 옆에 있다.
+1	성공한	성공+하+ㄴ	VERB	NNG+XSV+ETM	_	2	acl	_	_
+2	사람은	사람+은	NOUN	NNG+JX	_	15	dislocated	_	_
+3	모두	모두	ADV	MAG	_	15	advmod	_	_
+4	스스로	스스로	ADV	MAG	_	5	advmod	_	_
+5	성공하는	성공+하+는	VERB	NNG+XSV+ETM	_	6	acl	_	_
+6	것이	것+이	NOUN	NNB+JKC	_	7	nsubj	_	_
+7	아니고	아니+고	ADJ	VCN+EC	_	10	advcl	_	_
+8	도와주는	도와주+는	VERB	VV+ETM	_	9	acl	_	_
+9	사람이	사람+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	있고	있+고	ADJ	VA+EC	_	15	advcl	_	_
+11	같이	같이	ADV	MAG	_	15	advmod	_	_
+12	노력하는	노력+하+는	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	사람이	사람+이	NOUN	NNG+JKS	_	15	nsubj	_	_
+14	옆에	옆+에	ADV	NNG+JKB	_	15	obl	_	_
+15	있다	있+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+16	.	.	PUNCT	SF	_	15	punct	_	_
+
+# sent_id = ARG-CHN_26_2_06
+# text = 예를 들면, 운동선수는 경기장에서 혼자만 다른 선수와 겨루는 것처럼 보이지만 경기장 밖에 그의 팀이 있다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들면	들+면	VERB	VV+EC	_	16	advcl	_	SpaceAfter=No
+3	,	,	PUNCT	SP	_	2	punct	_	_
+4	운동선수는	운동+선수+는	NOUN	NNG+NNG+JX	_	11	dislocated	_	_
+5	경기장에서	경기장+에서	ADV	NNG+JKB	_	11	obl	_	_
+6	혼자만	혼자+만	NOUN	NNG+JX	_	11	nsubj	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	10	amod	_	_
+8	선수와	선수+와	NOUN	NNG+JC	_	9	obj	_	_
+9	겨루는	겨루+는	VERB	VV+ETM	_	10	acl	_	_
+10	것처럼	것+처럼	ADV	NNB+JKB	_	11	obl	_	_
+11	보이지만	보+이+지만	VERB	VV+XSV+EC	_	16	advcl	_	_
+12	경기장	경기장	NOUN	NNG	_	16	obl	_	_
+13	밖에	밖+에	ADV	NNG+JKB	_	12	case	_	_
+14	그의	그+의	PRON	NP+JKG	_	15	nmod:poss	_	_
+15	팀이	팀+이	NOUN	NNG+JKS	_	16	nsubj	_	_
+16	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_26_2_07
+# text = 금메달을 받는 사람도 그 메달이 자신의 노력으로 얻은 것이 맞지만 그것을 얻기 위해 많은 사람이 같이 노력한 것이다.
+1	금메달을	금메달+을	NOUN	NNG+JKO	_	2	obj	_	_
+2	받는	받+는	VERB	VV+ETM	_	3	acl	_	_
+3	사람도	사람+도	NOUN	NNG+JX	_	18	nsubj	_	_
+4	그	그	DET	MM	_	5	det	_	_
+5	메달이	메달+이	NOUN	NNG+JKS	_	10	dislocated	_	_
+6	자신의	자신+의	NOUN	NNG+JKG	_	7	nmod:poss	_	_
+7	노력으로	노력+으로	ADV	NNG+JKB	_	8	obl	_	_
+8	얻은	얻+은	VERB	VV+ETM	_	9	acl	_	_
+9	것이	것+이	NOUN	NNB+JKS	_	10	nsubj	_	_
+10	맞지만	맞+지만	VERB	VV+EC	_	18	advcl	_	_
+11	그것을	그것+을	PRON	NP+JKO	_	12	obj	_	_
+12	얻기	얻+기	VERB	VV+ETN	_	13	obj	_	_
+13	위해	위하+아	VERB	VV+EC	_	17	advcl	_	_
+14	많은	많+은	ADJ	VA+ETM	_	15	amod	_	_
+15	사람이	사람+이	NOUN	NNG+JKS	_	17	nsubj	_	_
+16	같이	같이	ADV	MAG	_	17	advmod	_	_
+17	노력한	노력+하+ㄴ	VERB	NNG+XSV+ETM	_	18	acl	_	_
+18	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+19	.	.	PUNCT	SF	_	18	punct	_	_
+
+# sent_id = ARG-CHN_26_2_08
+# text = 그리고 과학 연구에서도 새로운 발견이나 연구 성과가 나오면 자주 누구의 랩의 연구라고 보도된다.
+1	그리고	그리고	ADV	MAJ	_	13	cc	_	_
+2	과학	과학	NOUN	NNG	_	5	nmod	_	_
+3	연구에서도	연구+에서+도	ADV	NNG+JKB+JX	_	8	obl	_	_
+4	새로운	새롭+ㄴ	ADJ	VA+ETM	_	5	acl	_	_
+5	발견이나	발견+이나	NOUN	NNG+JC	_	8	nsubj	_	_
+6	연구	연구	NOUN	NNG	_	7	nmod	_	_
+7	성과가	성과+가	NOUN	NNG+JKS	_	5	conj	_	_
+8	나오면	나오+면	VERB	VV+EC	_	13	advcl	_	_
+9	자주	자주	ADV	MAG	_	13	advmod	_	_
+10	누구의	누구+의	PRON	NP+JKG	_	12	acl	_	_
+11	랩의	랩+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+12	연구라고	연구+이+라고	ADJ	NNG+VCP+EC	_	13	ccomp	_	_
+13	보도된다	보도+되+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-CHN_26_2_09
+# text = 물론 그 랩의 리더는 가장 많은 노력을 하는 가능성이 있지만 그 과정에서 멤버들이 모두 같이 협동하면서 성과가 나올 수 있도록 노력한 것이다.
+1	물론	물론	ADV	MAG	_	10	advmod	_	_
+2	그	그	DET	MM	_	3	det	_	_
+3	랩의	랩+의	NOUN	NNG+JKG	_	4	nmod:poss	_	_
+4	리더는	리더+는	NOUN	NNG+JX	_	8	nsubj	_	_
+5	가장	가장	ADV	MAG	_	6	advmod	_	_
+6	많은	많+은	ADJ	VA+ETM	_	7	amod	_	_
+7	노력을	노력+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	하는	하+는	VERB	VV+ETM	_	9	acl	_	_
+9	가능성이	가능+성+이	NOUN	NNG+XSN+JKS	_	10	nsubj	_	_
+10	있지만	있+지만	VERB	VV+EC	_	22	advcl	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	과정에서	과정+에서	ADV	NNG+JKB	_	21	obl	_	_
+13	멤버들이	멤버+들+이	NOUN	NNG+XSN+JKS	_	16	nsubj	_	_
+14	모두	모두	ADV	MAG	_	16	advmod	_	_
+15	같이	같이	ADV	MAG	_	16	advmod	_	_
+16	협동하면서	협동+하+면서	VERB	NNG+XSV+EC	_	21	advcl	_	_
+17	성과가	성과+가	NOUN	NNG+JKS	_	18	nsubj	_	_
+18	나올	나오+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	20	nsubj	_	_
+20	있도록	있+도록	ADV	VX+EC	_	21	advcl	_	_
+21	노력한	노력+하+ㄴ	VERB	NNG+XSV+ETM	_	22	acl	_	_
+22	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-CHN_26_2_10
+# text = 또한 대통령 선거에서도 결과는 누가 당선된다는 것이지만 옆에서 도와주는 사람이 많다는 것도 모두 잘 아는 사실이다.
+1	또한	또한	ADV	MAJ	_	16	cc	_	_
+2	대통령	대통령	NOUN	NNG	_	3	nmod	_	_
+3	선거에서도	선거+에서+도	ADV	NNG+JKB+JX	_	6	obl	_	_
+4	결과는	결과+는	NOUN	NNG+JX	_	7	nsubj	_	_
+5	누가	누구+가	PRON	NP+JKS	_	6	nsubj	_	_
+6	당선된다는	당선+되+ㄴ다는	VERB	NNG+XSV+ETM	_	7	acl	_	_
+7	것이지만	것+이+지만	ADJ	NNB+VCP+EC	_	16	advcl	_	_
+8	옆에서	옆+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	도와주는	도와주+는	VERB	VV+ETM	_	10	acl	_	_
+10	사람이	사람+이	NOUN	NNG+JKS	_	11	nsubj	_	_
+11	많다는	많+다는	ADJ	VA+ETM	_	12	acl	_	_
+12	것도	것+도	NOUN	NNB+JX	_	16	nsubj	_	_
+13	모두	모두	ADV	MAG	_	15	advmod	_	_
+14	잘	잘	ADV	MAG	_	15	advmod	_	_
+15	아는	알+는	VERB	VV+ETM	_	16	acl	_	_
+16	사실이다	사실+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+17	.	.	PUNCT	SF	_	16	punct	_	_
+
+# sent_id = ARG-CHN_26_2_11
+# text = 심지어 학생이 대학으로 입학하는 일에도 선생님의 가르침, 부모님의 보살핌 등과 밀접한 연관이 있다.
+1	심지어	심지어	ADV	MAG	_	14	cc	_	_
+2	학생이	학생+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	대학으로	대학+으로	ADV	NNG+JKB	_	4	obl	_	_
+4	입학하는	입학+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	일에도	일+에+도	ADV	NNG+JKB+JX	_	14	obl	_	_
+6	선생님의	선생+님+의	NOUN	NNG+XSN+JKG	_	7	nmod:poss	_	_
+7	가르침	가르치+ㅁ	VERB	VV+ETN	_	10	list	_	SpaceAfter=No
+8	,	,	PUNCT	SP	_	7	punct	_	_
+9	부모님의	부모+님+의	NOUN	NNG+XSN+JKG	_	10	nmod:poss	_	_
+10	보살핌	보살피+ㅁ	VERB	VV+ETN	_	14	obl	_	_
+11	등과	등+과	ADV	NNB+JKB	_	10	case	_	_
+12	밀접한	밀접+하+ㄴ	ADJ	NNG+XSA+ETM	_	13	amod	_	_
+13	연관이	연관+이	NOUN	NNG+JKS	_	14	nsubj	_	_
+14	있다	있+다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CHN_26_2_12
+# text = 따라서 경쟁보다는 협동이 성공에 더 큰 영향을 미친다.
+1	따라서	따라서	ADV	MAJ	_	8	cc	_	_
+2	경쟁보다는	경쟁+보다+는	ADV	NNG+JKB+JX	_	8	obl	_	_
+3	협동이	협동+이	NOUN	NNG+JKS	_	8	nsubj	_	_
+4	성공에	성공+에	ADV	NNG+JKB	_	8	obl	_	_
+5	더	더	ADV	MAG	_	6	advmod	_	_
+6	큰	크+ㄴ	ADJ	VA+ETM	_	7	amod	_	_
+7	영향을	영향+을	NOUN	NNG+JKO	_	8	obj	_	_
+8	미친다	미치+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_

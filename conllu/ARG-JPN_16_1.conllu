@@ -1,0 +1,58 @@
+# sent_id = ARG-JPN_16_1_01
+# text =  조기언어교육의 장점은 많이 있다고 생각합니다.
+1	조기언어교육의	조기+언어+교육+의	NOUN	NNG+NNG+NNG+JKG	_	2	nmod:poss	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	4	nsubj	_	_
+3	많이	많이	ADV	MAG	_	4	advmod	_	_
+4	있다고	있+다고	VERB	VV+EC	_	5	ccomp	_	_
+5	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-JPN_16_1_02
+# text =  모국어를 십게 말할 수 있는 이유는 어렸을 때부터 많이 들고 많이 말하고 다른 언어의 영향도 안 받았으니까 잘 말할 수 있습니다.
+1	모국어를	모국어+를	NOUN	NNG+JKO	_	3	obj	_	_
+2	십게	십+게	ADV	NV+EC	_	3	advmod	_	_
+3	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	4	acl	_	_
+4	수	수	NOUN	NNB	_	5	nsubj	_	_
+5	있는	있+는	VERB	VX+ETM	_	6	acl	_	_
+6	이유는	이유+는	NOUN	NNG+JX	_	10	dislocated	_	_
+7	어렸을	어리+었+을	VERB	VA+EP+ETM	_	10	advcl	_	_
+8	때부터	때+부터	ADV	NNG+JX	_	7	mark	_	_
+9	많이	많이	ADV	MAG	_	10	advmod	_	_
+10	들고	들+고	VERB	NV+EC	_	21	advcl	_	_
+11	많이	많이	ADV	MAG	_	12	advmod	_	_
+12	말하고	말+하+고	VERB	NNG+XSV+EC	_	10	conj	_	_
+13	다른	다른	ADJ	MM	_	14	amod	_	_
+14	언어의	언어+의	NOUN	NNG+JKG	_	15	nmod:poss	_	_
+15	영향도	영향+도	NOUN	NNG+JX	_	17	obj	_	_
+16	안	안	ADV	MAG	_	17	advmod	_	_
+17	받았으니까	받+았+으니까	VERB	VV+EP+EC	_	10	conj	_	_
+18	잘	잘	ADV	MAG	_	19	advmod	_	_
+19	말할	말+하+ㄹ	VERB	NNG+XSV+ETM	_	20	acl	_	_
+20	수	수	NOUN	NNB	_	21	nsubj	_	_
+21	있습니다	있+습니다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+22	.	.	PUNCT	SF	_	21	punct	_	_
+
+# sent_id = ARG-JPN_16_1_03
+# text =  그러니까 외국어도 어렸을 때부터 공부하면 똑같이 생긴다고 생각합니다.
+1	그러니까	그러니까	ADV	MAJ	_	8	cc	_	_
+2	외국어도	외국어+도	NOUN	NNG+JX	_	5	obj	_	_
+3	어렸을	어리+었+을	VERB	VA+EP+ETM	_	5	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	공부하면	공부+하+면	VERB	NNG+XSV+EC	_	7	advcl	_	_
+6	똑같이	똑같이	ADV	MAG	_	7	advmod	_	_
+7	생긴다고	생기+ㄴ다고	VERB	VV+EC	_	8	ccomp	_	_
+8	생각합니다	생각+하+ㅂ니다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-JPN_16_1_04
+# text =  반대로 단점은 모국어 발달이 늦게 생길 수도 있다는 점입니다.
+1	반대로	반대+로	ADV	NNG+JKB	_	9	obl	_	_
+2	단점은	단점+은	NOUN	NNG+JX	_	9	nsubj	_	_
+3	모국어	모국어	NOUN	NNG	_	4	nmod	_	_
+4	발달이	발달+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	늦게	늦+게	ADV	VA+EC	_	6	advmod	_	_
+6	생길	생기+ㄹ	VERB	VV+ETM	_	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있다는	있+다는	VERB	VX+ETM	_	9	acl	_	_
+9	점입니다	점+이+ㅂ니다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_

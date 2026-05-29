@@ -1,0 +1,139 @@
+# sent_id = ARG-CZH_33_2_01
+# text = 역사 배우기 좋다고 생각하다.
+1	역사	역사	NOUN	NNG	_	2	obj	_	_
+2	배우기	배우+기	VERB	VV+ETN	_	3	nsubj	_	_
+3	좋다고	좋+다고	ADJ	VA+EC	_	4	ccomp	_	_
+4	생각하다	생각+하+다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_33_2_02
+# text = 역사에서 많은 것이 배울 수 있어 좋다.
+1	역사에서	역사+에서	ADV	NNG+JKB	_	4	obl	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+4	배울	배우+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있어	있+어	VERB	VX+EC	_	7	advcl	_	_
+7	좋다	좋+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-CZH_33_2_03
+# text = 그리고 역사에서도 우리 나라 전통이다.
+1	그리고	그리고	ADV	MAJ	_	5	cc	_	_
+2	역사에서도	역사+에서+도	ADV	NNG+JKB+JX	_	5	obl	_	_
+3	우리	우리	PRON	NP	_	4	nmod	_	_
+4	나라	나라	NOUN	NNG	_	5	nmod	_	_
+5	전통이다	전통+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	5	punct	_	_
+
+# sent_id = ARG-CZH_33_2_04
+# text = 제 생각에 우리는 다른 나라의 역사 배우면 그 나라의 실수를 볼 수 있고 우리는 그 실수에서 배울 수도 있다.
+1	제	저+의	PRON	NP+JKG	_	2	nmod:poss	_	_
+2	생각에	생각+에	ADV	NNG+JKB	_	13	obl	_	_
+3	우리는	우리+는	PRON	NP+JX	_	7	nsubj	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	나라의	나라+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	역사	역사	NOUN	NNG	_	7	obj	_	_
+7	배우면	배우+면	VERB	VV+EC	_	13	advcl	_	_
+8	그	그	DET	MM	_	9	det	_	_
+9	나라의	나라+의	NOUN	NNG+JKG	_	10	nmod:poss	_	_
+10	실수를	실수+를	NOUN	NNG+JKO	_	11	obj	_	_
+11	볼	보+ㄹ	VERB	VV+ETM	_	12	acl	_	_
+12	수	수	NOUN	NNB	_	13	nsubj	_	_
+13	있고	있+고	VERB	VX+EC	_	0	root	_	_
+14	우리는	우리+는	PRON	NP+JX	_	17	nsubj	_	_
+15	그	그	DET	MM	_	16	det	_	_
+16	실수에서	실수+에서	ADV	NNG+JKB	_	17	obl	_	_
+17	배울	배우+ㄹ	VERB	VV+ETM	_	18	acl	_	_
+18	수도	수+도	NOUN	NNB+JX	_	19	nsubj	_	_
+19	있다	있+다	ADJ	VX+EF	_	13	conj	_	SpaceAfter=No
+20	.	.	PUNCT	SF	_	19	punct	_	_
+
+# sent_id = ARG-CZH_33_2_05
+# text = 하지만 힘 있는 사람은 역사를 바귈 수도 있다.
+1	하지만	하지만	ADV	MAJ	_	8	cc	_	_
+2	힘	힘	NOUN	NNG	_	3	nsubj	_	_
+3	있는	있+는	VERB	VV+ETM	_	4	acl	_	_
+4	사람은	사람+은	NOUN	NNG+JX	_	6	nsubj	_	_
+5	역사를	역사+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	바귈	바귀+ㄹ	VERB	NV+ETM	Typo=Yes	7	acl	_	_
+7	수도	수+도	NOUN	NNB+JX	_	8	nsubj	_	_
+8	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_33_2_06
+# text = 그 것이 아시아에서 볼 수 있다.
+1	그	그	DET	MM	_	2	det	_	_
+2	것이	것+이	NOUN	NNB+JKS	_	4	nsubj	_	_
+3	아시아에서	아시아+에서	ADV	NNP+JKB	_	4	obl	_	_
+4	볼	보+ㄹ	VERB	VV+ETM	_	5	acl	_	_
+5	수	수	NOUN	NNB	_	6	nsubj	_	_
+6	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	SF	_	6	punct	_	_
+
+# sent_id = ARG-CZH_33_2_07
+# text = 왜냐하면 중국인들이 학국인들이 일본인들이 다 조금 다른 역사를 공부하고 있다.
+1	왜냐하면	왜냐하면	ADV	MAJ	_	9	cc	_	_
+2	중국인들이	중국+인+들+이	NOUN	NNP+XSN+XSN+JKS	_	9	nsubj	_	_
+3	학국인들이	학국+인+들+이	NOUN	NF+XSN+XSN+JKS	Typo=Yes	2	conj	_	_
+4	일본인들이	일본+인+들+이	NOUN	NNP+XSN+XSN+JKS	_	2	conj	_	_
+5	다	다	ADV	MAG	_	9	advmod	_	_
+6	조금	조금	ADV	MAG	_	7	advmod	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	역사를	역사+를	NOUN	NNG+JKO	_	9	obj	_	_
+9	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	0	root	_	_
+10	있다	있	AUX	VX+EF	_	9	aux	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-CZH_33_2_08
+# text = 그래서 우리는 역사를 공부 할 때 신경 써야 한다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	우리는	우리+는	PRON	NP+JX	_	8	nsubj	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	5	obj	_	_
+4	공부	공부	NOUN	NNG	_	5	obj	_	_
+5	할	하+ㄹ	VERB	VV+ETM	_	8	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	신경	신경	NOUN	NNG	_	8	obj	_	_
+8	써야	쓰+어야	VERB	VV+EC	_	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-CZH_33_2_09
+# text = 그리고 많은 출처 써야 한다.
+1	그리고	그리고	ADV	MAJ	_	4	cc	_	_
+2	많은	많+은	ADJ	VA+ETM	_	3	amod	_	_
+3	출처	출처	NOUN	NNG	_	4	obj	_	_
+4	써야	쓰+어야	VERB	VV+EC	_	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-CZH_33_2_10
+# text = 예를 들 면 다른 나라의 책들이나 다른 연대에서 쓴 책들에서 역사를 공부하시면 좋을 것이다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	들	들+면	VERB	VV+EC	Typo=Yes	14	advcl	_	_
+3	면	_	X	_	_	2	goeswith	_	_
+4	다른	다르+ㄴ	ADJ	VA+ETM	_	5	amod	_	_
+5	나라의	나라+의	NOUN	NNG+JKG	_	6	nmod:poss	_	_
+6	책들이나	책+들+이나	NOUN	NNG+XSN+JC	_	12	obl	_	_
+7	다른	다르+ㄴ	ADJ	VA+ETM	_	8	amod	_	_
+8	연대에서	연대+에서	ADV	NNG+JKB	_	9	obl	_	_
+9	쓴	쓰+ㄴ	VERB	VV+ETM	_	10	acl	_	_
+10	책들에서	책+들+에서	ADV	NNG+XSN+JKB	_	6	conj	_	_
+11	역사를	역사+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	공부하시면	공부+하+시+면	VERB	NNG+XSV+EP+EC	_	13	advcl	_	_
+13	좋을	좋+을	ADJ	VA+ETM	_	14	acl	_	_
+14	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+15	.	.	PUNCT	SF	_	14	punct	_	_
+
+# sent_id = ARG-CZH_33_2_11
+# text = 그래서 역사 공부는 중요하지만 공부를 할 때 주심해야 한다.
+1	그래서	그래서	ADV	MAJ	_	8	cc	_	_
+2	역사	역사	NOUN	NNG	_	3	nmod	_	_
+3	공부는	공부+는	NOUN	NNG+JX	_	4	nsubj	_	_
+4	중요하지만	중요+하+지만	ADJ	NNG+XSA+EC	_	8	advcl	_	_
+5	공부를	공부+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	할	하+ㄹ	VERB	VV+ETM	_	8	advcl	_	_
+7	때	때	ADV	NNG	_	6	mark	_	_
+8	주심해야	주심+하+아야	VERB	NF+XSV+EC	Typo=Yes	0	root	_	_
+9	한다	하	AUX	VX+EF	_	8	aux	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	8	punct	_	_

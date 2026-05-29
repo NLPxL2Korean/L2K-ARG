@@ -1,0 +1,177 @@
+# sent_id = ARG-ENG_32_2_01
+# text = 전세상의 이야기가 역사라고 한다.
+1	전세상의	전+세상+의	NOUN	XPN+NNG+JKG	_	2	nmod:poss	_	_
+2	이야기가	이야기+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	역사라고	역사+이+라고	ADJ	NNG+VCP+EC	_	4	ccomp	_	_
+4	한다	하+ㄴ다	VERB	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_2_02
+# text = 사람들 동굴에서 살았을때부터 이제 아파트 살때까지 다 역사다.
+1	사람들	사람+들	NOUN	NNG+XSN	_	3	nsubj	_	_
+2	동굴에서	동굴+에서	ADV	NNG+JKB	_	3	obl	_	_
+3	살았을때부터	살+았+을+때+부터	VERB	VV+EP+ETM+NNG+JX	_	6	advcl	_	_
+4	이제	이제	ADV	MAG	_	6	advmod	_	_
+5	아파트	아파트	NOUN	NNG	_	6	obl	_	_
+6	살때까지	살+ㄹ+때+까지	ADV	VV+ETM+NNG+JX	_	8	nsubj	_	_
+7	다	다	ADV	MAG	_	8	advmod	_	_
+8	역사다	역사+이+다	ADJ	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_32_2_03
+# text = 오래 전부터 인간의 된일, 왕, 나라, 전쟁, 성공들을 적었다.
+1	오래	오래	ADV	MAG	_	2	advmod	_	_
+2	전부터	전+부터	NOUN	NNG+JX	_	13	obl	_	_
+3	인간의	인간+의	NOUN	NNG+JKG	_	12	nmod:poss	_	_
+4	된일	되+ㄴ+일	NOUN	VV+ETM+NNG	_	12	list	_	SpaceAfter=No
+5	,	,	PUNCT	SP	_	4	punct	_	_
+6	왕	왕	NOUN	NNG	_	12	list	_	SpaceAfter=No
+7	,	,	PUNCT	SP	_	6	punct	_	_
+8	나라	나라	NOUN	NNG	_	12	list	_	SpaceAfter=No
+9	,	,	PUNCT	SP	_	8	punct	_	_
+10	전쟁	전쟁	NOUN	NNG	_	12	list	_	SpaceAfter=No
+11	,	,	PUNCT	SP	_	10	punct	_	_
+12	성공들을	성공+들+을	NOUN	NNG+XSN+JKO	_	13	obj	_	_
+13	적었다	적+었+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+14	.	.	PUNCT	SF	_	13	punct	_	_
+
+# sent_id = ARG-ENG_32_2_04
+# text = 오래된건대 왜 역사를 배워햐 한다?
+1	오래된건대	오래+되+ㄴ+것+이+ㄴ대	NOUN	MAG+VV+ETM+NNB+VCP+NA	Typo=Yes	4	advcl	_	_
+2	왜	왜	ADV	MAG	_	4	advmod	_	_
+3	역사를	역사+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	배워햐	배우+어+햐	VERB	VV+EC+NA	Typo=Yes	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	?	?	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_2_05
+# text = 일단 역사가 알수록 사람의 마음과 경험을 알 수 있다.
+1	일단	일단	ADV	MAG	_	9	advmod	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	알수록	알+ㄹ수록	VERB	VV+EC	_	9	advcl	_	_
+4	사람의	사람+의	NOUN	NNG+JKG	_	5	nmod:poss	_	_
+5	마음과	마음+과	NOUN	NNG+JC	_	7	obj	_	_
+6	경험을	경험+을	NOUN	NNG+JKO	_	5	conj	_	_
+7	알	알+ㄹ	VERB	VV+ETM	_	8	acl	_	_
+8	수	수	NOUN	NNB	_	9	nsubj	_	_
+9	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+10	.	.	PUNCT	SF	_	9	punct	_	_
+
+# sent_id = ARG-ENG_32_2_06
+# text = 그런 표헌이 이싿.
+1	그런	그런	DET	MM	_	2	det	_	_
+2	표헌이	표헌+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	이싿	이+싿	ADJ	NV+NA	Typo=Yes	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_32_2_07
+# text = 역사를 반복된다.
+1	역사를	역사+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	반복된다	반복+되+ㄴ다	VERB	NNG+XSV+EF	_	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_32_2_08
+# text = 전쟁 같은 일 반복되지 않도록 역사를 배워야 한다.
+1	전쟁	전쟁	NOUN	NNG	_	2	obl	_	_
+2	같은	같+은	ADJ	VA+ETM	_	3	acl	_	_
+3	일	일	NOUN	NNG	_	4	nsubj	_	_
+4	반복되지	반복+되+지	VERB	NNG+XSV+EC	_	7	advcl	_	_
+5	않도록	않	AUX	VX+EC	_	4	aux	_	_
+6	역사를	역사+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+8	한다	하	AUX	VX+EF	_	7	aux	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-ENG_32_2_09
+# text = 역사에서 폭탄이 많았다.
+1	역사에서	역사+에서	ADV	NNG+JKB	_	3	obl	_	_
+2	폭탄이	폭탄+이	NOUN	NNG+JKS	_	3	nsubj	_	_
+3	많았다	많+았+다	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	SF	_	3	punct	_	_
+
+# sent_id = ARG-ENG_32_2_10
+# text = 이제 세상을 그런 싸움이 덜 없지만 예방 위해 역사를 배우는 것이 중요한다.
+1	이제	이제	ADV	MAG	_	6	advmod	_	_
+2	세상을	세상+을	NOUN	NNG+JKO	_	6	obj	_	_
+3	그런	그런	DET	MM	_	4	det	_	_
+4	싸움이	싸움+이	NOUN	NNG+JKS	_	6	nsubj	_	_
+5	덜	덜	ADV	MAG	_	6	advmod	_	_
+6	없지만	없+지만	ADJ	VA+EC	_	12	advcl	_	_
+7	예방	예방	NOUN	NNG	_	8	obj	_	_
+8	위해	위하+아	VERB	VV+EC	_	10	advcl	_	_
+9	역사를	역사+를	NOUN	NNG+JKO	_	10	obj	_	_
+10	배우는	배우+는	VERB	VV+ETM	_	11	acl	_	_
+11	것이	것+이	NOUN	NNB+JKS	_	12	nsubj	_	_
+12	중요한다	중요+하+ㄴ다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	SF	_	12	punct	_	_
+
+# sent_id = ARG-ENG_32_2_11
+# text = 두번째로 청치와 대사에서 나라 역사 알면 좋은 것이다.
+1	두번째로	두+번째+로	ADV	MM+NNB+JKB	_	8	obl	_	_
+2	청치와	청치+와	NOUN	NF+JC	Typo=Yes	6	obl	_	_
+3	대사에서	대사+에서	ADV	NNG+JKB	_	2	conj	_	_
+4	나라	나라	NOUN	NNG	_	5	nmod	_	_
+5	역사	역사	NOUN	NNG	_	6	obj	_	_
+6	알면	알+면	VERB	VV+EC	_	7	advcl	_	_
+7	좋은	좋+은	ADJ	VA+ETM	_	8	acl	_	_
+8	것이다	것+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+9	.	.	PUNCT	SF	_	8	punct	_	_
+
+# sent_id = ARG-ENG_32_2_12
+# text = 예를 되면 미국은 영국 탈출했을 때 프랑스한테 도움이 달라고 했다.
+1	예를	예+를	NOUN	NNG+JKO	_	2	obj	_	_
+2	되면	되+면	VERB	VV+EC	_	10	advcl	_	_
+3	미국은	미국+은	NOUN	NNP+JX	_	10	nsubj	_	_
+4	영국	영국	NOUN	NNP	_	5	obj	_	_
+5	탈출했을	탈출+하+았+을	VERB	NNG+XSV+EP+ETM	_	9	advcl	_	_
+6	때	때	ADV	NNG	_	5	mark	_	_
+7	프랑스한테	프랑스+한테	ADV	NNG+JKB	_	9	obl	_	_
+8	도움이	도움+이	NOUN	NNG+JKC	_	9	nsubj	_	_
+9	달라고	다르+고	VERB	VV+EC	_	10	ccomp	_	_
+10	했다	하+았+다	VERB	VV+EP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
+
+# sent_id = ARG-ENG_32_2_13
+# text = 왜 그랬을까?
+1	왜	왜	ADV	MAG	_	2	advmod	_	_
+2	그랬을까	그러+았+을까	ADJ	VA+EP+EF	_	0	root	_	SpaceAfter=No
+3	?	?	PUNCT	SF	_	2	punct	_	_
+
+# sent_id = ARG-ENG_32_2_14
+# text = 프랑스 영국을 싫어했기 때문이다.
+1	프랑스	프랑스	NOUN	NNP	_	3	nsubj	_	_
+2	영국을	영국+을	NOUN	NNP+JKO	_	3	obj	_	_
+3	싫어했기	싫어하+았+기	VERB	VV+EP+ETN	_	4	nmod	_	_
+4	때문이다	때문+이+다	ADJ	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_2_15
+# text = 청치로서 역사가 아주 중요하다.
+1	청치로서	청치+로서	ADV	NF+JKB	Typo=Yes	4	obl	_	_
+2	역사가	역사+가	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	아주	아주	ADV	MAG	_	4	advmod	_	_
+4	중요하다	중요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_2_16
+# text = 역사가 오래된 이야기이지만 배워야 한다.
+1	역사가	역사+가	NOUN	NNG+JKS	_	3	nsubj	_	_
+2	오래된	오래+되+ㄴ	VERB	MAG+XSA+ETM	_	3	amod	_	_
+3	이야기이지만	이야기+이+지만	ADJ	NNG+VCP+EC	_	4	advcl	_	_
+4	배워야	배우+어야	VERB	VV+EC	_	0	root	_	_
+5	한다	하	AUX	VX+EF	_	4	aux	_	SpaceAfter=No
+6	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-ENG_32_2_17
+# text = 못 배우면 옛날에 찾은 것들 살아나고 나쁜일 반복될 수 있다.
+1	못	못	ADV	MAG	_	2	advmod	_	_
+2	배우면	배우+면	VERB	VV+EC	_	10	advcl	_	_
+3	옛날에	옛날+에	ADV	NNG+JKB	_	4	obl	_	_
+4	찾은	찾+은	VERB	VV+ETM	_	5	acl	_	_
+5	것들	것+들	NOUN	NNG+XSN	_	6	nsubj	_	_
+6	살아나고	살아나+고	VERB	VV+EC	_	9	acl	_	_
+7	나쁜일	나쁘+ㄴ+일	NOUN	VA+ETM+NNG	_	8	nsubj	_	_
+8	반복될	반복+되+ㄹ	VERB	NNG+XSV+ETM	_	6	conj	_	_
+9	수	수	NOUN	NNB	_	10	nsubj	_	_
+10	있다	있+다	ADJ	VX+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_

@@ -1,0 +1,96 @@
+# sent_id = ARG-JPN_11_1_01
+# text =  조기언어교육은 좋은 것뿐이지 않다.
+1	조기언어교육은	조기+언어+교육+은	NOUN	NNG+NNG+NNG+JX	_	4	dislocated	_	_
+2	좋은	좋+은	VERB	VA+ETM	_	3	amod	_	_
+3	것뿐이지	것+뿐+이+지	VERB	SN+JX+VCP+EC	_	4	csubj	_	_
+4	않다	않+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_11_1_02
+# text =  왜냐면 사람이 언어를 학습하는 건 시간이 필요하다.
+1	왜냐면	왜냐면	ADV	MAJ	_	7	cc	_	_
+2	사람이	사람+이	NOUN	NNG+JKS	_	4	nsubj	_	_
+3	언어를	언어+를	NOUN	NNG+JKO	_	4	obj	_	_
+4	학습하는	학습+하+는	VERB	NNG+XSV+ETM	_	5	acl	_	_
+5	건	것+은	NOUN	NNB+JX	_	7	dislocated	_	_
+6	시간이	시간+이	NOUN	NNG+JKS	_	7	nsubj	_	_
+7	필요하다	필요+하+다	ADJ	NNG+XSA+EF	_	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	SF	_	7	punct	_	_
+
+# sent_id = ARG-JPN_11_1_03
+# text =  일본어도 한국어도 영어도 그렇다.
+1	일본어도	일본어+도	NOUN	NNG+JX	_	4	nsubj	_	_
+2	한국어도	한국어+도	NOUN	NNG+JX	_	4	nsubj	_	_
+3	영어도	영어+도	NOUN	NNG+JX	_	4	nsubj	_	_
+4	그렇다	그렇+다	ADJ	VA+EF	_	0	root	_	SpaceAfter=No
+5	.	.	PUNCT	SF	_	4	punct	_	_
+
+# sent_id = ARG-JPN_11_1_04
+# text =  특히 어릴 때는 자신의 민족 언어를 학습하는 것에 시간이 필요하는데 그 무렵에 다른 언어도 학습해야 한다고 하면 정확하게 언어를 학습 못 하지 않는다고 하는 단점이 있다.
+1	특히	특히	ADV	MAG	_	10	advmod	_	_
+2	어릴	어리+ㄹ	VERB	VA+ETM	_	10	advcl	_	_
+3	때는	때+는	ADV	NNG+JX	_	2	mark	_	_
+4	자신의	자신+의	PRON	NNG+JKG	_	5	nmod:poss	_	_
+5	민족	민족	NOUN	NNG	_	6	nmod	_	_
+6	언어를	언어+를	NOUN	NNG+JKO	_	7	obj	_	_
+7	학습하는	학습+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것에	것+에	ADV	NNB+JKB	_	10	obl	_	_
+9	시간이	시간+이	NOUN	NNG+JKS	_	10	nsubj	_	_
+10	필요하는데	필요+하+는데	VERB	NNG+XSA+NA	_	26	advcl	_	_
+11	그	그	DET	MM	_	12	det	_	_
+12	무렵에	무렵+에	ADV	NNG+JKB	_	15	obl	_	_
+13	다른	다른	ADJ	MM	_	14	amod	_	_
+14	언어도	언어+도	NOUN	NNG+JX	_	15	obj	_	_
+15	학습해야	학습+하+아야	VERB	NNG+XSV+EC	_	17	ccomp	_	_
+16	한다고	하+ㄴ다고	AUX	VX+EC	_	15	aux	_	_
+17	하면	하+면	VERB	VX+EC	_	26	advcl	_	_
+18	정확하게	정확+하+게	ADV	XR+XSA+EC	_	22	advmod	_	_
+19	언어를	언어+를	NOUN	NNG+JKO	_	22	obj	_	_
+20	학습	학습	NOUN	NNG	_	22	obj	_	_
+21	못	못	ADV	MAG	_	22	advmod	_	_
+22	하지	하+지	VERB	VV+EC	_	24	ccomp	_	_
+23	않는다고	않+는다고	AUX	VX+EC	_	22	aux	_	_
+24	하는	하+는	VERB	VV+ETM	_	25	acl	_	_
+25	단점이	단점+이	NOUN	NNG+JKS	_	26	nsubj	_	_
+26	있다	있+다	ADJ	VV+EF	_	0	root	_	SpaceAfter=No
+27	.	.	PUNCT	SF	_	26	punct	_	_
+
+# sent_id = ARG-JPN_11_1_05
+# text =  하지만 장점은 어릴 때부터 외국어를 공부하고 있으면 기억력이 좋은 시절에 언어를 학습할 수 있어서 빨리 외국어를 잘 할 수 있다고 하는 점이다.
+1	하지만	하지만	ADV	MAJ	_	22	cc	_	_
+2	장점은	장점+은	NOUN	NNG+JX	_	22	nsubj	_	_
+3	어릴	어리+ㄹ	VERB	VA+ETM	_	6	advcl	_	_
+4	때부터	때+부터	ADV	NNG+JX	_	3	mark	_	_
+5	외국어를	외국어+를	NOUN	NNG+JKO	_	6	obj	_	_
+6	공부하고	공부+하+고	VERB	NNG+XSV+EC	_	14	advcl	_	_
+7	있으면	있+으면	AUX	VX+EC	_	6	aux	_	_
+8	기억력이	기억력+이	NOUN	NNG+JKS	_	9	nsubj	_	_
+9	좋은	좋+은	VERB	VA+ETM	_	10	acl	_	_
+10	시절에	시절+에	ADV	NNG+JKB	_	12	obl	_	_
+11	언어를	언어+를	NOUN	NNG+JKO	_	12	obj	_	_
+12	학습할	학습+하+ㄹ	VERB	NNG+XSV+ETM	_	13	acl	_	_
+13	수	수	NOUN	NNB	_	14	nsubj	_	_
+14	있어서	있+어서	VERB	VX+EC	_	20	advcl	_	_
+15	빨리	빨리	ADV	MAG	_	18	advmod	_	_
+16	외국어를	외국어+를	NOUN	NNG+JKO	_	18	obj	_	_
+17	잘	잘	ADV	MAG	_	18	advmod	_	_
+18	할	하+ㄹ	VERB	VV+ETM	_	19	acl	_	_
+19	수	수	NOUN	NNB	_	21	nsubj	_	_
+20	있다고	있+다고	VERB	VX+EC	_	21	ccomp	_	_
+21	하는	하+는	VERB	VV+ETM	_	22	acl	_	_
+22	점이다	점+이+다	VERB	NNG+VCP+EF	_	0	root	_	SpaceAfter=No
+23	.	.	PUNCT	SF	_	22	punct	_	_
+
+# sent_id = ARG-JPN_11_1_06
+# text =  그래서 조기언어교육 대해서 좋다고 아니면 나뿌다고 결정하는 것은 어려운 것이다.
+1	그래서	그래서	ADV	MAJ	_	10	cc	_	_
+2	조기언어교육	조기+언어+교육	NOUN	NNG+NNG+NNG	_	7	obl	_	_
+3	대해서	대하+아서	VERB	VV+EC	_	4	advcl	_	_
+4	좋다고	좋+다고	VERB	VA+EC	_	5	csubj	_	_
+5	아니면	아니+면	VERB	VCN+EC	_	6	advcl	_	_
+6	나뿌다고	나뿌+다고	VERB	NV+EC	_	7	ccomp	_	_
+7	결정하는	결정+하+는	VERB	NNG+XSV+ETM	_	8	acl	_	_
+8	것은	것+은	NOUN	NNB+JX	_	10	nsubj	_	_
+9	어려운	어렵+ㄴ	VERB	VA+ETM	_	10	amod	_	_
+10	것이다	것+이+다	VERB	NNB+VCP+EF	_	0	root	_	SpaceAfter=No
+11	.	.	PUNCT	SF	_	10	punct	_	_
