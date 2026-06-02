@@ -104,7 +104,5 @@ where:
 # License and Citation
 
 - This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-- Please provide detailed information and cite the following paper:
-
+- For detailed information about the corpus, please see the following paper; if you use the corpus in your research, we would greatly appreciate citing the publication below.
     - Sung, H., Shin, G.-H., Jung, B.-K., & Jeong, E.-S. (in press). L2K-ARG: Introducing and evaluating a learner corpus of Korean argumentative writing. *International Journal of Learner Corpus Research*.
