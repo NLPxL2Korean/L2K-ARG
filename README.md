@@ -105,6 +105,6 @@ where:
 
 - This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 - For detailed information about the corpus, please see the following paper. 
-  * Sung, H., Shin, G.-H., Jung, B.-K., & Jeong, E.-S. (2026). [L2K-ARG: Introducing and evaluating a learner corpus of Korean argumentative writing](https://doi.org/10.1075/ijlcr.26007.sun). *International Journal of Learner Corpus Research*. [[Preprint](https://www.researchgate.net/publication/411036996_L2K-ARG_Introducing_and_evaluating_a_learner_corpus_of_Korean_argumentative_writing)]
+  * Sung, H., Shin, G.-H., Jung, B. K., & Shin, J. (2026). [L2K-ARG: Introducing and evaluating a learner corpus of Korean argumentative writing](https://doi.org/10.1075/ijlcr.26007.sun). *International Journal of Learner Corpus Research*. [[Preprint](https://www.researchgate.net/publication/411036996_L2K-ARG_Introducing_and_evaluating_a_learner_corpus_of_Korean_argumentative_writing)]
   * If you use the corpus in your research, we would greatly appreciate it if you could cite the paper above.
 
